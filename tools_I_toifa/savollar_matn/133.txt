@@ -1,0 +1,97 @@
+=== 133
+? Test oldi (dastlabki) maslahatning asosiy maqsadi qaysi?
++ mijozda o'z OIV-holatini aniqlashga ehtiyojni shakllantirish
+- mijozga tashxisni e'lon qilib, darhol davolashni boshlash
+- mijozning shaxsiy ma'lumotlarini boshqa muassasalarga uzatish
+- mijozni majburiy tekshiruvga ko'ndirish va rad etishni oldini olish
+- qon namunasini olish uchun yozma rozilik shaklini to'ldirish
+! Maslahat qaror qabul qilishga yordam beradi va mijozning ongli tanlovini ta'minlaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Anonim tekshiruvda mijozga natijani olish uchun nima beriladi?
++ shartli kod
+- pasport nusxasi
+- ambulator karta raqami
+- tibbiy sug'urta polisi
+- shaxsiy parol, SMS orqali
+! Shaxs ma'lumotlari ochilmagani uchun natija faqat maxsus belgi bo'yicha beriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Quyidagilardan qaysi biri tekshiruv uchun ijtimoiy ko'rsatma hisoblanadi?
++ OIV bilan yashovchining jinsiy sherigi bo'lish
+- 3 oydan uzoq davom etgan limfadenopatiya
+- stasionarga tushgan har qanday bola bo'lishi
+- 1 oydan uzoq sababsiz diareya
+- davolashga chidamli kandidoz
+! Xavf guruhlariga mansublik ijtimoiy ko'rsatma, kasallik belgilari klinik, tez-tez infeksiyalar va stasionarga tushish esa klinik-epidemiologik ko'rsatmalar toifasiga kiradi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Og'ir ahvoldagi yoki hushsiz bemor uchun tekshiruvga rozilikni kim beradi?
++ yaqin qarindoshlari yoki vasiylari
+- davolovchi shifokor yakka o'zi
+- bo'lim mudiri hamda kasalxona bosh shifokori birgalikda
+- jamoat tashkilotlari vakili
+- ish joyidagi kasaba uyushmasi raisi
+! Bemor ixtiyoriy rozilik bera olmasa, uning manfaatini qonuniy himoya qiluvchi shaxslar qaror qabul qiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Voyaga yetmaganlarni OIVga tekshirish qanday tartibda o'tkaziladi?
++ qonuniy vakillarning roziligi bilan, 18 yoshgacha anonim tekshirish taqiqlanadi
+- o'smirning o'zi rozi bo'lsa, ota-onasiga xabar qilmasdan va anonim tarzda
+- maktab direktorining yozma ruxsati bilan, har qanday yoshda
+- 14 yoshdan boshlab mustaqil ravishda, anonim tekshiruvdan foydalanib
+- ota-onasi rad etsa ham, shifokor qarori bilan majburiy tartibda
+! Voyaga yetmaganlar uchun qaror qonuniy vakillar tomonidan qabul qilinadi, shuning uchun yashirin tekshiruv cheklangan.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i; O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+? IFA musbat bo'lganda «OIV infeksiyasi» tashxisini e'lon qilish uchun nima talab qilinadi?
++ tasdiqlovchi immunoblot natijasi
+- ikkinchi marta o'tkazilgan IFA natijasi
+- tezkor test va klinik ko'rik xulosasi
+- CD4 limfotsitlar sonining pasayishi
+- jinsiy sherikning musbat natijasi
+! IFA skrining usuli bo'lib, noto'g'ri musbat natijalar bo'lishi mumkin, shuning uchun tasdiqlash shart.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Testdan keyingi maslahatda natijani e'lon qilishning qaysi usuli taqiqlanadi?
++ telefon, pochta yoki begona shaxs orqali
+- shaxsan uchrashuvda, natija ko'rsatilgan holda
+- aniq va hissiyotsiz, so'ng sukut saqlab
+- ambulator kartaga qayd etib, mijoz bilan yakkama-yakka suhbatda
+- savollarga javob berib, tushuntirish izohlari bilan
+! Natija maxfiy va shaxsiy bo'lishi, mijoz holatiga mos qo'llab-quvvatlash ko'rsatilishi talab etiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Testdan keyingi maslahatda maslahatchiga nima mumkin emas?
++ natijaga, mijoz shaxsiga va OIVga shaxsiy munosabatini bildirish
+- mijozga zararlanish xavfini kamaytirish bo'yicha tavsiyalar berish
+- mijozning savollariga tushunarli va aniq javob qaytarish
+- musbat natijada dispanser hisobiga turish majburiyatini tushuntirish
+- steril asboblar va himoya vositalaridan foydalanish haqida aytish
+! Maslahatchi betaraf va bag'rikeng bo'lishi kerak, o'z munosabati mijozga bosim bo'lishi mumkin.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Boshqa muassasalarga beriladigan hujjatlarda nima yoziladi?
++ tashxis emas, faqat tekshiruv natijasi, masalan «OIV infeksiyasiga IFA – natija musbat»
+- to'liq tashxis, kasallik bosqichi va CD4 soni, chunki bu ma'lumotlar davolashni davom ettirish uchun zarur hisoblanadi
+- bemorning ism-sharifi va yashash manzili bilan epidemiologik anamnez
+- faqat shartli kod, tekshiruv usuli ko'rsatilmagan holda
+- tashxis va sherigining ma'lumotlari, shuningdek xavf guruhi
+! Tashxis maxfiy ma'lumot hisoblanadi, shu sababli uchinchi muassasaga faqat kerakli lab natijasi beriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? 18 yoshgacha bolada OIV tekshiruv natijasi kimga e'lon qilinadi?
++ ota-onasi yoki rasmiy vasiylaridan biriga
+- o'qituvchisi yoki maktab shifokoriga
+- bolaning o'ziga, ota-onasiz yakka tartibda
+- yaqin qarindoshlarining barchasiga birgalikda
+- mahalla raisi va sog'liqni saqlash boshqarmasiga
+! Voyaga yetmagan bola manfaatini qonuniy vakillar himoya qiladi, boshqa shaxslarga axborot berish maxfiylikni buzadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Antikorlar odatda qancha kun ichida paydo bo'ladi va «deraza» davrida manfiy test olgan, yaqinda xavfli kontaktda bo'lgan odamga qanday tavsiya beriladi?
++ odatda 28 kun ichida, 28 kundan keyin qayta tekshirish
+- odatda 7 kun ichida, bir haftadan keyin qayta tekshirish
+- odatda 3 kun ichida, manfiy natija ishonchli bo'lgani uchun takroriy tekshiruv shart emas
+- odatda 6 oy ichida, har hafta test o'tkazish
+- odatda 14 kun ichida, ikki haftadan keyin immunoblot
+! Immun javob shakllanishi uchun vaqt kerak, erta test esa noto'g'ri manfiy natija berishi mumkin.
+@ World Health Organization. HIV and AIDS (fact sheet)
+? Tezkor test musbat chiqqanda nima qilinadi?
++ tasdiqlovchi tekshiruv o'tkaziladi, davolashga jalb qilishdan oldin qayta tekshiruv ham bajariladi
+- tezkor test yetarli bo'lgani uchun darhol tashxis e'lon qilinib, ART tayinlanadi
+- natija ikki haftadan keyin boshqa tezkor test bilan almashtiriladi, tasdiqsiz hisobga olinadi
+- mijoz OITS markaziga yo'naltiriladi, laborator tasdiqlash o'tkazilmaydi
+- faqat klinik ko'rik o'tkazilib, tashxis shifokor fikri bilan qo'yiladi
+! Hech bir yagona test to'liq musbat tashxis uchun yetarli emas, xatolar oldini olish uchun ketma-ket tekshiruvlar kerak.
+@ World Health Organization. HIV and AIDS (fact sheet)

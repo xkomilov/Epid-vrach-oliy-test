@@ -1,0 +1,99 @@
+=== 049
+? Dezinseksiya nimaga qaratilgan tadbirlar majmuasi?
++ Epidemiologik jihatdan xavfli bo'g'imoyoqlilarni (hasharot va kanalarni) yo'q qilish yoki sonini kamaytirishga
+- Kemiruvchilar va ularning ektoparazitlarini yo'q qilish hamda ularning ko'payishini nazorat qilishga
+- Tashqi muhitdagi patogen mikroblarni yo'q qilish va yuzalarni zararsizlantirishga
+- Bemor ajralmalarini darhol zararsizlantirish va utilizatsiya qilishga
+- Suv havzalaridagi bakteriyalar sonini kamaytirish va ularni nazorat qilishga
+! Bo'g'imoyoqlilar qo'zg'atuvchini tashuvchi bo'lgani uchun ularni nazorat qilish transmissiv kasalliklarda yuqish zanjirini uzadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016; Jahongirov Sh.M. Tibbiy entomologiya (2016)
+? Anofeles chivini bezgak plazmodiysi uchun qanday tashuvchi hisoblanadi?
++ Spetsifik (biologik) tashuvchi, organizmida qo'zg'atuvchi rivojlanadi
+- Mexanik tashuvchi, qo'zg'atuvchini faqat oyoqlarida ko'chiradi
+- Oraliq xo'jayin bo'lib, qo'zg'atuvchi unda faqat tuxum qo'yadi
+- Tabiiy rezervuar, qo'zg'atuvchi unda yillab ko'payib turadi
+- Tasodifiy tashuvchi, qo'zg'atuvchini yuqtirmaydi va ko'chirmaydi
+! Plazmodiy chivin tanasida rivojlanish siklining bir qismini o'tab, keyin yangi odamga yuqadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016; Jahongirov Sh.M. Tibbiy entomologiya (2016)
+? Pashsha ichak infeksiyalari qo'zg'atuvchisini qanday tarqatadi?
++ Mexanik tashuvchi sifatida, najasdan oziq-ovqatga o'tkazib
+- Spetsifik tashuvchi sifatida, o'z organizmida qo'zg'atuvchini ko'paytirib
+- Rezervuar sifatida, qo'zg'atuvchini yillar davomida saqlab
+- Tishlash orqali, qon so'rish vaqtida
+- Aerozol yo'li bilan, qanotlari orqali sochib
+! Pashsha oyoqlari va tanasi bilan qo'zg'atuvchini ko'chiradi, o'zida esa ko'paytirmaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016; Jahongirov Sh.M. Tibbiy entomologiya (2016)
+? Profilaktik dezinseksiya qanday amalga oshiriladi?
++ Bo'g'imoyoqlilarning yashash va ko'payish joylarini yo'qotish, sanitariya holatini yaxshilash orqali
+- Aniq epidemik o'choqda mavjud tashuvchilarni insektitsid yordamida yo'q qilish orqali, ko'payish joylariga e'tibor bermasdan
+- Bemor kasalxonaga yotqizilgandan so'ng uning xonasini ishlash orqali
+- Kimyoviy aerozollarni muntazam va yuqori konsentratsiyada purkash orqali
+- Kemiruvchilarga qarshi xo'rak qo'yish va qopqon o'rnatish orqali
+! Ko'payish joylari yo'qotilsa, hasharotlar soni kamayadi va epidemik o'choq paydo bo'lishi xavfi pasayadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Dezinseksiyaning kimyoviy usulida kanalarga qarshi qaysi vositalar qo'llaniladi?
++ Akaritsidlar
+- Rodentitsidlar
+- Insektitsid-repellentlar
+- Antiseptiklar
+- Anatoksinlar
+! Akaritsidlar kanalarga mo'ljallangan, Qrim-Kongo gemorragik isitmasida chorva va muhitni ishlashda ahamiyatlidir.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Insektitsidlarda chidamlilik (rezistentlik) rivojlanishining oldini olish uchun nima tavsiya etiladi?
++ Vositalarni almashtirib turish va kompleks (integratsiyalashgan) yondashuvni qo'llash
+- Bir xil vositani doim yuqori konsentratsiyada ishlatib borish va dozani oshirish
+- Bir xil dozada, doimiy ravishda bir turdagi vositadan foydalanish
+- Dezinseksiya tadbirlarini butunlay to'xtatib, kuzatuvni ham bekor qilish
+- Ishlov berish muddatini ikki baravar uzaytirish va takrorlash
+! Bir xil vosita takroran ishlatilsa, unga chidamli hasharotlar tanlanib ko'payadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Entomologik monitoring nimani o'z ichiga oladi?
++ Tashuvchi turlarini aniqlash, sonini va insektitsidlarga sezgirligini kuzatish
+- Bemorlarning qonidagi antitelo titrini aniqlash va dinamikasini kuzatish
+- Kemiruvchilar faolligini qopqonlar yordamida baholash va hisoblash
+- Vaksina qamrovini yosh guruhlari bo'yicha hisoblash va tahlil qilish
+- Dezinfeksiya eritmasi konsentratsiyasini titrlash va nazorat qilish
+! Bu ma'lumotlar qaysi tashuvchiga qaysi vosita bilan ta'sir qilish kerakligini ilmiy asoslaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? SanQvaN 0090-25 ga ko'ra, jamoat binolari va joylashtirish vositalarida dezinseksiya qanday davriylikda o'tkaziladi?
++ Oyda bir marta
+- Haftada bir marta
+- Har 3 oyda bir marta
+- Yilda ikki marta
+- Yilda bir marta
+! Boshqa sanoat obyektlarida esa tadbir kamroq, har 3 oyda bir marta o'tkaziladi.
+@ SanQvaN № 0090-25
+? Turar joylarda dezinseksiyada qaysi usullar taqiqlangan?
++ Sovuq va issiq tuman usullari
+- Aerozol bilan ishlov berish usuli
+- Yopishqoq qog'oz va tuzoqlardan foydalanish
+- Derazalarga to'r o'rnatish
+- Changyutgich bilan mexanik tozalash
+! Tuman usullarida insektitsid mayda zarrachalar holida havoda tarqalib, odamlar va oziq-ovqatga tegib ketish xavfi yuqori bo'ladi.
+@ SanQvaN № 0090-25
+? Dezinseksiya o'tkazilgan obyektlarning qancha qismidan ortig'ida hasharot aniqlansa, dezinseksiya qaytadan o'tkaziladi?
++ 20 foizdan ortig'ida
+- 5 foizdan ortig'ida
+- 10 foizdan ortig'ida
+- 50 foizdan ortig'ida
+- 80 foizdan ortig'ida
+! Bu chegaradan oshgan hasharot aniqlanishi tadbirning samarasizligini bildiradi.
+@ SanQvaN № 0090-25
+? SanQvaN 0090-25 ga ko'ra, chivinlarga qarshi tadbirlar epidemik mavsumda atrof-muhit haroratiga qarab qaysi oylarda bajariladi?
++ Aprel, may va avgust oylarida
+- Yanvar, fevral va mart oylarida
+- Iyun, iyul va avgust oylarida
+- Oktabr, noyabr va dekabr oylarida
+- Mart, sentabr va oktabr oylarida
+! Chivinlarning ko'payish faolligi iliq mavsumga mos tushadi, shuning uchun tadbirlar shu davrga rejalashtiriladi.
+@ SanQvaN № 0090-25
+? Entomologik monitoring va kompleks yondashuv zamonaviy dezinseksiyaning qaysi tamoyiliga mos keladi?
++ Tadbirning tasodifiy emas, maqsadli va tahlilga asoslangan bo'lishi
+- Hamma obyektlarda bir xil kimyoviy vositani yuqori dozada qo'llash
+- Kasallik aniqlanmaguncha hech qanday ishlov o'tkazmaslik
+- Faqat bir usulga tayanib, boshqalarini inkor etish
+- Samaradorlikni kuzatmay, vositalarni rejasiz almashtirish
+! Qaror monitoring ma'lumotlari va tashuvchi biologiyasiga asoslanishi samaradorlikni oshiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+#U 049 / 10: 20 foizlik chegara va chivinlarga qarshi muddatlar faqat SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan (hujjat matni tekshirilmagan).
+#U 049 / 11: chivinlarga qarshi tadbir oylari faqat SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan (hujjat matni tekshirilmagan).

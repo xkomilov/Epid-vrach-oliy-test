@@ -1,0 +1,97 @@
+=== 111
+? Biogelmintozlarni geogelmintozlardan ajratib turadigan asosiy biologik xususiyat qaysi?
++ rivojlanishi uchun bitta yoki ikkita oraliq xo'jayin zarur bo'lishi
+- tuxumlari tashqi muhitda, ya'ni tuproqda yetilib, keyin odamga yuqumli holatga kelishi va oraliq xo'jayinsiz rivojlanishi
+- tuxumi odam organizmidan to'liq yetilgan holda chiqishi va bevosita kontakt orqali darhol yuqishi
+- voyaga yetgan gijja odam organizmida tez ko'payib, qo'zg'atuvchi sonini bemor ichida oshirishi
+- qo'zg'atuvchi faqat havo-tomchi yo'li bilan tarqalib, nafas yo'llari orqali organizmga kirishi
+! Biogelmintozlarda lichinka voyaga yetgan gijjaga aylanishi uchun oraliq xo'jayin kerak, geogelmintozlarda esa bunday xo'jayin ishtirok etmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Teniarinxoz va teniozlarda odam qaysi rolni bajaradi?
++ qoramol va cho'chqa tasmasimon chuvalchangining asosiy (definitiv) xo'jayini
+- qoramol va cho'chqa tasmasimon chuvalchangi lichinkasining tasodifiy oraliq xo'jayini
+- tasmasimon chuvalchang tuxumini faqat mexanik ko'chiruvchi tashuvchi
+- qo'zg'atuvchi aylanishida ishtirok etmaydigan epidemiologik jihatdan boshi berk bo'g'in
+- lichinkalar rivojlanadigan birinchi oraliq xo'jayin, ikkinchi oraliq xo'jayin esa qoramol
+! Voyaga yetgan tasmasimon chuvalchang odam ichagida parazitlik qiladi, hayvonlar esa lichinka bosqichi uchun oraliq xo'jayin hisoblanadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova; Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Exinokokkozda asosiy (definitiv) xo'jayin kim hisoblanadi?
++ it va boshqa yirtqichlar
+- qoramol va qo'y kabi yirik hamda mayda shoxli hayvonlar
+- odam, chunki kasallik odamdan odamga yuqadi va tarqaladi
+- pashsha va qo'ng'iz kabi mexanik tashuvchi hasharotlar
+- sichqon va kalamush kabi kemiruvchilar hamda yovvoyi qushlar
+! Voyaga yetgan exinokokk itlar oilasi ichagida yashaydi, odam esa tasodifiy oraliq xo'jayin bo'lib, qo'zg'atuvchini keyingi xo'jayinga yuqtirmaydi.
+@ JSST. Echinococcosis (fact sheet); O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Teniidozlar bilan davolangan bemorlar qaysi muddatlarda nazorat tekshiruviga chaqiriladi va qachon hisobdan chiqariladi?
++ 2, 4 va 6 oyda; 3 marta manfiy natijadan keyin
+- 1, 3 va 6 oyda; 2 marta manfiy natijadan keyin hisobdan chiqariladi
+- 1, 2 va 3 oyda; bitta manfiy natijadan keyin hisobdan chiqariladi
+- 3, 6 va 12 oyda; 4 marta manfiy natijadan keyin hisobdan chiqariladi
+- har oyda 12 oy davomida; yil oxirida avtomatik tarzda hisobdan chiqariladi
+! Bitta davo kursi bilan gijjadan to'liq xoli bo'linmaydi, qoldiq qo'zg'atuvchilar keyinroq qayta tiklanishi mumkin, shu sababli kuzatuv bir necha bosqichda o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Teniarinxoz va teniozning har bir holati uchun qanday shoshilinch xabarnoma shakli to'ldiriladi?
++ 058/u
+- 089/u
+- 357/u
+- 060/u
+- 025/u
+! Ushbu shakl sanitariya-epidemiologiya markaziga yuboriladi, 357/u esa epidemik o'choqni tekshirish kartasi hisoblanadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Finnoz bilan zararlangan cho'chqa go'shtini muzlatish orqali zararsizlantirishda kamerada qaysi rejim ko'rsatilgan?
++ −12 °C da 10 sutkagacha
+- −6…−9 °C da kamida 24 soat
+- −5 °C da 3 sutka davomida
+- −20 °C da 30 daqiqa davomida
+- −2 °C da kamida 2 hafta davomida
+! Cho'chqa go'shtida qalin joyda −10 °C ga yetganda muzlatish to'xtatilib, kamerada belgilangan muddat saqlanadi; qoramol go'shtida rejim boshqacha.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Finnozli go'shtni issiqlik bilan zararsizlantirishda bo'lak ichida qaysi harorat yetarli hisoblanadi?
++ +80 °C
+- +60 °C
+- +50 °C
+- +100 °C
+- +40 °C
+! Go'sht 2 kg gacha va 8 cm qalinlikdagi bo'laklarga bo'linib pishiriladi, bunda bo'lak markazidagi harorat nazorat qilinadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? JSST tavsiyasiga ko'ra exinokokkoz profilaktikasida itlar prazikvantel bilan qancha chastotada dehelmintizatsiya qilinadi?
++ kamida yiliga 4 marta
+- yiliga bir marta, bahor mavsumida
+- yiliga ikki marta, bahor va kuzda
+- har 5 yilda bir marta, ommaviy kampaniya tarzida
+- faqat qo'ylar bilan aloqada bo'lgan itlarda yiliga bir marta
+! Itlarni muntazam davolash qo'zg'atuvchining yakuniy xo'jayindagi aylanishini uzadi va it–qo'y–it sikli orqali tarqalishni kamaytiradi.
+@ JSST. Echinococcosis (fact sheet)
+? Qo'ylarni qaysi vosita bilan emlash exinokokkozga qarshi profilaktika choralaridan biri sifatida ko'rsatilgan?
++ rekombinant EG95 antigeni
+- BCG vaksinasi
+- inaktivlangan E-shtamm vaksinasi
+- MenB vaksinasi
+- rekombinant gepatit B antigeni
+! Bu vaksina qo'zg'atuvchi tuxumi onkosferasiga qarshi immunitet hosil qiladi va hayvonlar bo'g'inini nazorat qilish dasturlarida qo'llanadi.
+@ JSST. Echinococcosis (fact sheet)
+? Teniarinxoz va teniozlar bo'yicha xavf guruhlari (sut sog'uvchilar, cho'ponlar, qassoblar, oshpazlar) so'rov va laborator usullarda qanday davriylikda tekshiriladi?
++ yiliga 1 marta
+- oyiga 1 marta
+- chorakda 1 marta
+- 2 yilda 1 marta
+- 5 yilda 1 marta
+! Ushbu kasbdagilar go'sht bilan bevosita aloqada bo'lgani uchun yillik tekshiruvga kiritiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Chorva xo'jaliklarida gijja tuxumiga surtmalar qanday tartibda olinadi?
++ ogohlantirmasdan, yiliga 1–2 marta
+- oldindan xabar berib, yiliga 6 marta
+- faqat epizootiya e'lon qilingandan keyin, bir marta
+- har oyda rejali tartibda, ogohlantirib
+- har 3 yilda, xo'jalik rahbari talabiga ko'ra
+! Ogohlantirmasdan olish xo'jalikning haqiqiy sanitariya holatini aks ettiradi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Quyidagi qaysi biogelmintoz baliq orqali yuqadi?
++ opistorxoz
+- teniarinxoz
+- trixinellyoz
+- teniozlar
+- askaridoz
+! Opistorxoz va difillobotriozda yuqish omili baliq mahsulotlari, teniarinxoz va teniozlarda esa go'sht.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim

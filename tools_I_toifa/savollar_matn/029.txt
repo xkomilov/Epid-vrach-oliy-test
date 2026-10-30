@@ -1,0 +1,99 @@
+=== 029
+? Markaziy sterilizatsiya punkti (bo'limi) qanday bo'linma?
++ Davolash-profilaktika muassasasida tibbiy asbob-uskunalarni markazlashgan tarzda dezinfeksiya, tozalash va sterilizatsiya qiluvchi bo'linma
+- Bemorlarga ovqat tayyorlovchi va tarqatuvchi oshxona bo'limi, shuningdek muassasadagi barcha ovqatlanish ishlarini boshqaradigan bo'linma
+- Muassasadagi barcha kiyim-kechaklarni yuvuvchi va dazmollovchi kirxona bo'limi
+- Faqat dori vositalari omborini yuritadigan farmatsevtik zaxira bo'limi
+- Bemorlarni tashishni tashkil etuvchi transport xizmati bo'limi
+! Markazlashtirish asboblarni qayta ishlashni standartlashtirilgan, yagona nazorat qilinadigan sharoitda o'tkazish imkonini beradi.
+@ SanQvaM № 0365-19: Tibbiy anjom-asboblar va buyumlarni sterilizatsiya qilish markazlarini loyihalashtirish, qurish va ekspluatatsiya qilish
+? O'zbekistonda sterilizatsiya markazlarini loyihalash, qurish va ekspluatatsiya qilish talablari qaysi hujjat bilan belgilangan?
++ SanQvaM № 0365-19
+- SanQvaM № 0317-15
+- SanQvaM № 0342-17
+- SanPiN № 0242-07
+- SanPiN № 0278-09
+! Aynan 0365-19 sterilizatsiya markazlariga qo'yiladigan sanitariya talablarini belgilaydi, boshqa hujjatlar chiqindi, KII yoki qon xizmatiga oid.
+@ SanQvaM № 0365-19
+? MSP binosida qaysi oqim prinsipiga rioya etilishi tekshiriladi?
++ «Iflosdan tozaga» bir yo'nalishli oqim prinsipi
+- «Tozadan iflosga» qaytuvchi oqim prinsipi
+- Iflos va toza oqimlarning bir xonada kesishishi prinsipi
+- Xodimlarning zonalar o'rtasida erkin va nazoratsiz yurishi prinsipi
+- Steril va iflos materiallarning umumiy eshik orqali birgalikda o'tishi prinsipi
+! Bir yo'nalishli oqim sterillangan materialning qayta ifloslanishini oldini oladi.
+@ SanQvaM № 0365-19
+? Sterilizatsiyadan oldingi tozalashda yashirin qon qoldig'iga qaysi sinama qo'llaniladi?
++ Azopiram yoki amidopirin sinamasi
+- Fenolftalein sinamasi yoki sudan III bo'yog'i bilan sinama
+- Mantu sinamasi
+- Kumbs sinamasi
+- Vidal reaksiyasi
+! Azopiram va amidopirin sinamalari qon gemoglobinini aniqlaydi.
+@ SanPiN № 0278-09
+? Yuvish vositasi qoldig'ini aniqlash uchun qanday sinama ishlatiladi?
++ Fenolftalein sinamasi
+- Azopiram yoki benzidin sinamasi
+- Amidopirin sinamasi
+- Shik sinamasi
+- Pirke sinamasi
+! Fenolftalein ishqoriy yuvish vositasi qoldig'ida pushti rang beradi.
+@ SanPiN № 0278-09
+? Sterilizatsiya nazoratining uch turi qaysilar?
++ Fizik, kimyoviy va bakteriologik (biologik)
+- Klinik, patologik va statistik
+- Seroloji, allergologik, gistologik va immunofluoressent
+- Ekologik, ijtimoiy va iqtisodiy
+- Vizual, og'zaki va yozma
+! Fizik nazorat parametrlarni, kimyoviy indikatorlar rejimga erishilganini, biologik nazorat mutlaq mikrobsizlikni tasdiqlaydi.
+@ SanPiN № 0278-09; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Sterilizatsiya ishonchliligining eng qat'iy ko'rsatkichi qaysi nazorat hisoblanadi?
++ Test-mikroorganizm sporalari yordamida o'tkaziladigan bakteriologik nazorat
+- Faqat harorat o'lchagichning ko'rsatkichini jurnalga yozish
+- Qadoqning tashqi ko'rinishini va yorlig'ini vizual baholab, sterilizatsiya sanasini tekshirish
+- Sterilizator eshigining yopilganini tekshirish
+- Xodimning og'zaki ma'lumotiga ishonish
+! Spora kabi chidamli test-mikroorganizmlarning nobud bo'lishi mikrobsizlikka erishilganini bevosita isbotlaydi.
+@ SanPiN № 0278-09
+? Sterilizatorda takrorlanuvchi nosozlik aniqlansa, nima qilinadi?
++ Jihoz validatsiyadan o'tkazilmaguncha ishlatilmaydi
+- Jihoz ishlatilishda davom etadi, nosozlik e'tiborsiz qoldiriladi
+- Jihoz faqat kechqurun ishlatilishda davom ettiriladi
+- Faqat qadoqlash materiali almashtiriladi, jihoz tekshirilmaydi
+- Xodimlar ish soatlari qisqartiriladi, jihoz esa ishlaydi
+! Takrorlanuvchi nosozlik rejimning ishonchsizligini bildiradi, shuning uchun jihoz qayta tasdiqlanmaguncha foydalanilmaydi.
+@ SanPiN № 0278-09
+? 2024-yildagi nizomga ko'ra, jarrohlik, perinatal markaz, tug'ruq, qon quyish va gemodializ xizmatlari bor muassasalarda rejali tekshiruv qanday chastotada o'tkaziladi?
++ Har chorakda ko'pi bilan bir marta
+- Har oyda kamida ikki marta (har 15 kunda)
+- Yilda ko'pi bilan bir marta
+- Har kuni
+- Besh yilda bir marta
+! Xavfi yuqori muassasalarda rejali tekshiruvlar tez-tez, lekin chorakda bir martadan oshmagan holda belgilangan.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 15.01.2024-yildagi 9-son buyrug'i bilan tasdiqlangan nizom
+? SanPiN № 0278-09 ga ko'ra, sterillik nazoratini sanitariya-epidemiologiya xizmati qanday chastotada o'tkazadi?
++ Yiliga kamida ikki marta
+- Har kuni
+- Har haftada
+- Besh yilda bir marta
+- Faqat shikoyat bo'lganda
+! SES yiliga kamida ikki marta, muassasa bakteriologiya laboratoriyasi esa oyiga kamida bir marta tekshiradi.
+@ SanPiN № 0278-09
+? Rejadan tashqari tekshiruv qaysi hollarda o'tkaziladi?
++ Shikoyat, asorat yoki epidemik noxushlik holatlari yuzaga kelganda
+- Oldindan belgilangan yillik jadval bo'yicha va shikoyatlardan qat'i nazar
+- Muassasa direktori ta'tilga chiqqanda
+- Yangi yil oldidan, bayram tadbirlari uchun
+- Xodimlar soni ortganda
+! Rejadan tashqari tekshiruv kutilmagan xavf yoki shikoyatga javob sifatida o'tkaziladi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 15.01.2024-yildagi 9-son buyrug'i bilan tasdiqlangan nizom
+? Kamchiliklar bartaraf etilgach nima o'tkaziladi?
++ Ularning haqiqatan va to'liq to'g'rilanganiga ishonch hosil qilish uchun belgilangan muddatda qayta tekshiruv
+- Hech qanday qayta tekshiruv o'tkazilmaydi, hujjat arxivlanadi va kamchiliklar bartaraf etilgan deb hisoblanadi
+- Bir yil hech qanday tekshiruv o'tkazilmaydi
+- Xodimlar o'rtasida anonim so'rovnoma o'tkaziladi
+- Yangi binoning ochilish marosimi tashkil etiladi
+! Qayta tekshiruv ko'rsatmalar real bajarilganini tasdiqlaydi.
+@ SanQvaM № 0365-19; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+#U 029 / 9: 9-son buyruq nusxasi skanerlangan (OCR xatolari), sana va raqami to'liq o'qilmaydi; chastota hozirgi tahrir bilan solishtirilmagan.
+#U 029 / 10: SanPiN № 0278-09 dagi chastota (yiliga kamida 2 marta) faqat mavzu materiali orqali ko'rilgan, qabul sanasi ko'rsatilmagan.

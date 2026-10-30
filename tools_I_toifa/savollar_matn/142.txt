@@ -1,0 +1,97 @@
+=== 142
+? OIVning vertikal yo'li qaysi davrlarda amalga oshadi?
++ homiladorlik (transplatsentar), tug'ruq va emizish davrlarida
+- faqat tug'ruq paytida va tug'ruqdan keyingi birinchi kunda
+- homiladorlikning birinchi trimestrida va tug'ruq vaqtida
+- kontakt va umumiy maishiy buyumlar orqali bolalik davrida
+- tug'ruqdan keyin 18 oygacha faqat emlash vaqtida
+! Vertikal yo'l onadan bolaga yuqishning barcha uch bosqichini, ya'ni homilador, tug'ruq va emizish davrlarini qamrab oladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? 34–36 haftada virus yuklamasi aniqlanmaydigan, ART ga sodiq va akusherlik ko'rsatmasi yo'q ayolda tug'ruq qanday olib boriladi?
++ tabiiy yo'l bilan, ART davom ettirilgan holda
+- rejalashtirilgan kesar kesish bilan 38 haftada
+- tug'ruqni 36 haftada dori vositalari bilan qo'zg'atish orqali
+- vakuum-ekstraksiya yordamida 37 haftada
+- amniotomiya bilan faol boshqarilgan tug'ruq orqali
+! Virus yuklamasi bostirilgan holatda tabiiy tug'ruq xavfsiz, kesar esa faqat qo'shimcha ko'rsatma bo'lganda tanlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? II–III trimestrda OIV aniqlangan ayolda 34–36 haftada virus yuklamasi 1000 nusxa/ml dan yuqori bo'lsa, qanday taktika tavsiya etiladi?
++ 38 haftada rejali kesar kesish
+- tabiiy yo'l bilan tug'ruq va 6 oydan keyin takroriy tekshiruv
+- 36 haftada tug'ruqni qo'zg'atish va amniotomiya qilish
+- ARTni to'xtatib, tug'ruqdan keyin qayta boshlash
+- 40 haftadan keyin qorin devori orqali kesar kesish bilan
+! Yuqori virus yuklamasida tabiiy tug'ruq yuqish xavfini oshiradi, shuning uchun jarrohlik yo'li bilan rejali tug'ish afzal.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Chaqaloqda ARV-profilaktika qancha vaqt ichida boshlanishi kerak?
++ tug'ilgandan keyingi dastlabki 4 soat ichida
+- tug'ilgandan keyingi 12 soat ichida yoki 24 soatda
+- birinchi 3 kun ichida
+- birinchi PZR natijasi chiqqach
+- hayotning 5-haftasida
+! Intranatal va erta yuqishni oldini olish uchun preparatlarni imkon qadar tez berish zarur.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Chaqaloq uchun zidovudin qanday dozada va necha hafta beriladi?
++ 4 mg/kg har 12 soatda, 4 hafta
+- 2 mg/kg har 12 soatda, 4 hafta
+- 4 mg/kg har 12 soatda, 12 hafta
+- 4 mg/kg kuniga bir marta, 2 hafta
+- 2 mg/kg har 8 soatda, 6 hafta
+! Zidovudin lamivudin va nevirapin bilan uch komponentli sxemaning tarkibida beriladi, doza va muddat vazn bo'yicha belgilanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Rejali kesar kesish tug'ruq faoliyati va qog'anoq pardalari yorilishidan oldin o'tkazilib, zidovudin bilan birga qo'llanganda yuqish xavfi qaysi darajagacha kamayadi?
++ 85% gacha
+- 15% gacha
+- 30% gacha
+- 50% gacha
+- 100% gacha
+! Operatsiya bolaning ona qoni va sekretlari bilan kontaktini kamaytiradi, zidovudin esa himoyani kuchaytiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Homilador va tug'uvchi ayollarda qaysi tekshiruv usuli tavsiya etilmaydi?
++ amniotsentez kabi diagnostik invaziv muolajalar
+- ultratovush tekshiruvi orqali homila holatini baholash
+- virus yuklamasini 34–36 haftada o'lchash
+- CD4 limfotsitlar sonini aniqlash
+- tug'ruqqa tekshirilmagan ayolda tezkor test o'tkazish
+! Invaziv muolajalar homila va ona qonining aralashishiga olib kelib, yuqish xavfini oshiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Quyidagilardan qaysi biri akusherlik xavf omillariga kiradi?
++ suvsiz davrning 4 soatdan oshishi
+- tug'ruq faoliyati boshlanishidan oldin rejali kesar kesish
+- virus yuklamasining aniqlanmaydigan darajada bo'lishi
+- homiladorlikning ikkinchi yarmida ART qabul qilish
+- tug'ruqdan keyingi birinchi soatda chaqaloqqa ARV berish
+! Qog'anoq pardalari uzoq vaqt yorilgan bo'lsa, bola ona sekretlari bilan uzoq kontaktda bo'ladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OIV infeksiyasi homiladorlikka nisbatan qanday hisoblanadi?
++ homiladorlikni tibbiy to'xtatish uchun ko'rsatma emas
+- homiladorlikni 12 haftagacha to'xtatish uchun mutlaq ko'rsatma
+- kesar vaqtida sterilizatsiya o'tkazish uchun asos
+- ayolni ixtiyoriy tarzda ham tug'ishdan voz kechtirish uchun sabab
+- homiladorlikni davolash muassasasida majburiy kuzatishning shartsiz asosi
+! Samarali ART va profilaktika bilan sog'lom bola tug'ilishi mumkin, shuning uchun ayolni to'xtatishga majburlash mumkin emas.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i; O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+? Vertikal yuqishning oldini olishda qaysi oziqlantirish usuli tavsiya etilmaydi?
++ aralash oziqlantirish
+- sun'iy oziqlantirish
+- ona ART olayotganda ko'krak suti bilan oziqlantirish
+- sun'iy aralashmalar bilan to'liq ta'minlangan holat
+- ART davomida bolaga nevirapin berib oziqlantirish
+! Aralash oziqlantirishda ichak shilliq qavati zararlanib, yuqish xavfi oshishi mumkin.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OIV bilan yashovchi ona chaqalog'ida PZR tekshiruvi qaysi muddatlarda o'tkaziladi?
++ 6–8 va 12 haftalikda
+- tug'ilganda va 3 haftalikda
+- 4 va 24 haftalikda
+- 5 haftalikda va 9 oyda
+- 1 va 2 yoshda
+! Birinchi PZR 6–8 haftada, ikkinchisi 12 haftada, IFA esa serokonversiyani aniqlash uchun 18 oyda o'tkaziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OIV bilan yashovchi homilador ayollarda tug'ruqni o'tkazishga tug'ruq majmualarining tayyorligi qanday davriylikda o'rganiladi?
++ har chorakda
+- har oyda
+- har yarim yilda
+- har yili
+- har ikki haftada
+! Sog'liqni saqlash vazirining 64-son buyrug'iga muvofiq tayyorgarlik har chorakda baholanadi va kamchiliklar hududiy darajada muhokama qilinadi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i

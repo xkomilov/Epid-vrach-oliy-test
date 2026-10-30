@@ -1,0 +1,98 @@
+=== 115
+? Gimenolepidozning asosiy qo'zg'atuvchisi qaysi?
++ Hymenolepis nana
+- Taenia solium
+- Diphyllobothrium latum
+- Echinococcus granulosus
+- Enterobius vermicularis
+! Mitti tasmasimon chuvalchang («karlik tsepen») kasallikning asosiy qo'zg'atuvchisi, kamdan kam hollarda H. diminuta ham kasallik chaqiradi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik)
+? Gimenolepidoz qaysi epidemiologik guruhga kiritilgan?
++ kontagioz gelmintozlar
+- geogelmintozlar
+- biogelmintozlar
+- tabiiy o'choqli gelmintozlar
+- transmissiv gelmintozlar
+! Tuxumlar odam organizmidan to'liq yetilgan holda chiqadi va darhol yuqumli bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Mitti tasmasimon chuvalchangning oraliq xo'jayin ishtirokidagi rivojlanish variantida qaysi hasharotlar oraliq xo'jayin vazifasini bajaradi?
++ un qo'ng'izi va ayrim burgalar
+- tarakan, ko'ylak biti va hammom hasharotlari
+- chivin va iksod kanasi
+- pashsha va ari
+- chigirtka va qandala
+! Odam sistitserkoidlarni pishmagan xamir kabi mahsulotlar bilan tasodifan yutganda zararlanadi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik)
+? Gimenolepidozda manba va asosiy yuqish mexanizmi qanday?
++ manba bemor odam, yuqish mexanizmi fekal-oral
+- manba qoramol, yuqish mexanizmi alimentar go'sht orqali
+- manba it, yuqish mexanizmi kontakt va nafas yo'llari orqali
+- manba kasal baliq, yuqish mexanizmi transmissiv chaqish orqali
+- manba tuproq, yuqish mexanizmi perkutan teri orqali
+! Sichqon va kalamushlardan zararlanish ham mumkin, ammo asosiy manba odamning o'zi hisoblanadi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik)
+? Gimenolepidoz bilan asosan qaysi yoshdagi bolalar kasallanadi?
++ 4–9 yoshli
+- 0–1 yoshli
+- 10–14 yoshli
+- 15–18 yoshli
+- 25–30 yoshli
+! 10–14 yoshda ko'pchilik bolalar yoshga xos immunitet tufayli davolanmasdan invaziyadan xalos bo'ladi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik)
+? Gimenolepidozda laborator tashxis qanday qo'yiladi?
++ najasda tuxum (40–50 mkm, ingichka rangsiz qobiq, ilgakli onkosfera) yoki gijja bo'laklarini topish bilan
+- perianal yelim lenta usulida ostritsa urg'ochilarining katta tuxumlarini, qalin qobiqli va qora rangli shaklda aniqlash bilan
+- qonda eozinofiliyani aniqlash va to'qima biopsiyasida kistalar devorini morfologik tekshirish bilan
+- balg'amda lichinkalarni topish va ko'krak qafasi rentgenogrammasida o'pka infiltratlarini ko'rish bilan
+- siydik cho'kmasida tuxumlarni aniqlash va sistoskopiyada qovuq shilliq qavatini ko'rish bilan
+! Tuxum ajralishi davriy bo'lgani sababli aniq tashxis uchun najas tekshiruvi takrorlanadi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik)
+? Gimenolepidoz bilan kasallanganlar milliy yo'riqnomaga ko'ra qancha vaqt dispanser kuzatuvida bo'ladi?
++ 6 oy
+- 1 oy
+- 3 oy
+- 12 oy
+- 24 oy
+! Davolangandan keyin 1, 3 va 6 oyda qayta tahlillar o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Gimenolepidozda MTM va maktabga qabul qilishda qaysi qoida amal qiladi?
++ tekshirilmasdan MTM va maktabga qabul qilish taqiqlanadi
+- tekshiruvsiz qabul qilinadi, tekshirish faqat bir oydan keyin o'tkaziladi
+- faqat invazion bolalar tekshiriladi, qolganlar tekshiruvsiz qabul qilinadi
+- tekshiruv ixtiyoriy bo'lib, ota-onaning yozma roziligi bilan o'tkaziladi
+- tekshiruv faqat qish mavsumida talab qilinadi va yozda bekor qilinadi
+! Bu talab bolalar jamoalariga invazion bolalarning kirib kelishining oldini oladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Jamoada qancha invaziya aniqlanganda gimenolepidozda jamoa 100% davolanadi?
++ 15% va undan yuqori
+- 3% dan yuqori
+- 30% va undan yuqori
+- 50% va undan yuqori
+- 5% dan kam
+! Sutkalik yopiq muassasalarda esa tekshiruvsiz yiliga 2 marta profilaktik davolash o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? O'choqda qattiq buyumlar qaysi eritma bilan zararsizlantiriladi va nima uchun xlorli eritmalar qo'llanmaydi?
++ sovun-soda eritmasi; xlorli eritmalar tuxumga ta'sir qilmaydi
+- xloramin eritmasi; sovun-soda eritmasi tuxumga ta'sir qilmaydi
+- formalin bug'i; xlorli eritmalar faqat teriga zararli hisoblanadi
+- 70% spirt; xlorli eritmalar dezinfeksiya jarayonini sekinlashtiradi
+- yod eritmasi; xlorli eritmalar yuzalarni zanglatib yuboradi
+! Tuxumlarga xlor ta'sir qilmaydi, shuning uchun mexanik tozalash, issiqlik va sovun-soda ishlatiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Sanitariya-gelmintologik nazoratda surtmalar qanday davriylikda olinadi?
++ yiliga kamida 1 marta
+- kuniga 1 marta, muntazam
+- haftada 1 marta, muntazam
+- 5 yilda 1 marta, muntazam
+- oyiga 2 marta, muntazam
+! Bu surtmalar o'yinchoq, choyshab, eshik tutqichlari, o'yin maydonchasi tuprog'i va qumidan olinadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Enterobioz bilan solishtirganda gimenolepidozning qaysi xususiyati faqat unga xos?
++ rivojlanish oraliq xo'jayin (un qo'ng'izi, burga) ishtirokida ham kechishi mumkin
+- tuxumlarning anal teshik atrofiga qo'yilishi va kechasi qichishishning kuchayishi
+- epidemiologik inkubatsiyaning 2 hafta bo'lishi va tez yetilishi
+- yuqishning tuproq orqali bo'lishi va tuxumning 3 haftada yetilishi
+- qayta tekshiruvning 2–3 kun oralig'ida o'tkazilishi
+! Enterobiozda faqat o'z-o'ziga qayta zararlanish ko'rsatilgan, gimenolepidozda esa hasharot oraliq xo'jayinlar rol o'ynashi mumkin.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik); O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+#D 115 / 7: darslikda davolangan hisoblash mezoni davolashdan keyin 6 oy davomida najasning 4 ta nazorat tekshiruvida tuxum bo'lmasligi deb yozilgan, milliy yo'riqnomada esa 1, 3 va 6 oylik jadval; savol milliy yo'riqnomaga tayanadi.

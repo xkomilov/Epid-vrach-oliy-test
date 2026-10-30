@@ -1,0 +1,98 @@
+=== 062
+? Epidemik parotit qo'zg'atuvchisi qaysi yo'l bilan yuqadi va infeksiya manbai kim hisoblanadi?
++ havo-tomchi yo'li bilan; manba odam (yaqqol yoki belgisiz shaklli bemor)
+- najas-og'iz yo'li bilan; manba kasal uy hayvonlari va kemiruvchilar, shuningdek ifloslangan suv
+- transmissiv yo'l bilan; manba kasallangan qon so'ruvchi hasharotlar va ularning lichinkalari
+- jinsiy yo'l bilan; manba surunkali virus tashuvchi kattalar va ularning juftlari
+- alimentar yo'l bilan; manba ifloslangan sut mahsulotlari va ichimlik suvi
+! Parotit antroponoz havo-tomchi infeksiyasi bo'lib, hayvonlar yoki hasharotlar rezervuar bo'lmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Epidemik parotitning yashirin davri qancha davom etadi?
++ 11–25 kun, ko'pincha 15–18 kun
+- 2–5 kun, ko'pincha 3 kun atrofida
+- 30–45 kun, ko'pincha 40 kun atrofida
+- 5–7 kun, ko'pincha 6 kun atrofida
+- 1–2 oy, ko'pincha 50 kun atrofida
+! Parotitda yashirin davr nisbatan uzun va keng oraliqda tebranadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Jinsiy balog'at davridagi o'g'il bolalarda epidemik parotitning qaysi asorati taxminan 20–30% da uchraydi?
++ orxit
+- oofarit
+- pankreatit
+- nefrit
+- miokardit, ko'pincha o'tkir yurak yetishmovchiligi bilan
+! Jinsiy bezlarning zararlanishi o'g'il bolalarda orxit ko'rinishida namoyon bo'ladi va bepushtlikka olib kelishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Epidemik parotitga qarshi tirik vaksina qaysi shtammdan yaratilgan?
++ Smorodintsev rahbarligida ajratilgan L-3 shtammi
+- Wistar RA 27/3 shtammi, qizilchaga qarshi vaksinada ham qo'llanadigan
+- Edmonston–Zagreb shtammi, qizamiq komponentida qo'llanadigan
+- Sabin shtammi, poliomielitga qarshi tirik vaksinadagi
+- BCG-1 shtammi, silga qarshi vaksinada qo'llanadigan
+! Parotit komponenti Smorodintsev rahbarligida yaratilgan L-3 shtammiga asoslangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Milliy emlash kalendarida parotitga qarshi emlash qaysi yoshlarda o'tkaziladi?
++ KPK-1 12 oylikda va KPK-2 6 yoshda
+- KPK-1 3 oylikda va KPK-2 12 yoshda
+- KPK-1 6 oylikda va KPK-2 18 oylikda
+- KPK-1 2 yoshda va KPK-2 14 yoshda
+- KPK-1 9 oylikda va KPK-2 3 yoshda
+! Milliy kalendarda parotit komponenti qizamiq va qizilcha bilan birga ikki dozada beriladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Epidemik parotit holatlarining taxminan qancha qismi belgisiz kechadi?
++ taxminan 40%
+- taxminan 5%
+- taxminan 90%
+- taxminan 15%
+- deyarli hech biri, belgisiz shakl faqat qizamiqqa xos
+! Belgisiz shakllar manbani aniqlashni qiyinlashtiradi va ro'yxatga olinmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Epidemik parotitda kasallanishning mavsumiy o'zgarishi qanday?
++ yozda kam, kuzdan ko'tarilib, qish-bahorda yuqori darajaga chiqadi
+- yozda eng yuqori, qishda minimal darajada bo'ladi
+- yil davomida bir xil, hech qanday mavsumiylik kuzatilmaydi
+- bahor oxiri va yoz boshida qisqa muddatli ko'tarilish bilan chegaralanadi
+- kuzda eng past, yozda ko'tarilib, keyin keskin pasayadi
+! Kuzdan boshlangan ko'tarilish tashkil etilgan jamoalarga jalb qilinish bilan bog'liq.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Ommaviy emlashdan keyin parotit kasallanishi yoshi nega kattaroq yoshga siljigan ("keksayish")?
++ birlamchi emlashdan keyingi sun'iy immunitet davomiyligi yetarli emasligi sababli
+- virusning o'z antigen tuzilishini to'liq o'zgartirgani sababli
+- bolalarda tug'ma immunitet butunlay yo'qolgani sababli
+- 14 yoshgacha bolalar orasida emlashdan bosh tortish faqat shu yoshda bo'lgani sababli
+- tabiiy manbaning hayvonlardan odamlarga o'tgani sababli
+! Emlashdan keyingi immunitet so'nishi sababli o'smir va kattalar yana moyil bo'lib qoladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? CDC ma'lumotiga ko'ra, parotit uchun yuqumli davr qaysi oraliqda hisoblanadi?
++ parotit boshlanishidan 2 kun oldin va 5 kun keyin
+- toshma paydo bo'lishidan 4 kun oldin va 4 kun keyin
+- parotit boshlanishidan 9 kun oldin va 21 kun keyin
+- faqat parotit boshlangandan keyingi 2 kun ichida
+- parotit boshlanishidan 14 kun oldin va 14 kun keyin
+! Yuqumlilik klinik belgilardan sal oldin boshlanadi va bir necha kun davom etadi, uzoq muddat esa virus ajralishi bilan bog'liq.
+@ CDC. Clinical Overview of Mumps
+? CDC ma'lumotiga ko'ra, mumps komponentining samaradorligi qanday?
++ bir dozada taxminan 72%, ikki dozada taxminan 86–88%
+- bir dozada taxminan 99%, ikki dozada 100%
+- bir dozada taxminan 40%, ikki dozada taxminan 50%
+- bir dozada taxminan 95%, ikki dozada taxminan 99,9%, hech qachon so'nmaydi
+- bir dozada taxminan 20%, ikki dozada taxminan 30%
+! Ikkinchi doza himoyani sezilarli darajada oshiradi, lekin mutlaq emas.
+@ CDC. Mumps Vaccine Recommendations
+? Aloqadorlarni parotit o'chog'ida tibbiy kuzatuvda ushlash muddati darslikda qancha tavsiya etilgan?
++ 21 kun
+- 7 kun
+- 10 kun
+- 35 kun
+- 3 kun
+! Muddat yashirin davrning yuqori chegarasini qamrab olishi kerak.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+? Darslikka ko'ra, parotitda eng muhim xavf omili qaysi?
++ emlash va qayta emlash tizimidagi xatolar (majburiylik, muddat, doza)
+- ichimlik suvining sifatsizligi va kanalizatsiya tizimining buzilishi
+- sutni qaynatmasdan iste'mol qilish va hayvonlar bilan yaqin aloqa
+- hasharotlar chaqishi va issiq iqlim sharoitlarida yashash
+- xonadonlarda zich yashash, shu bois 10–14 yoshli bolalar kam kasallanadi
+! Immunitet qatlami emlash xatolari tufayli pasayadi, bu esa sporadik hollar va avj olishlarga olib keladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.8-bob
+#D 062 / 9: yuqumli davr darslikda klinik belgilardan taxminan 9 kun oldin boshlanadi deb berilgan, CDC bo'yicha parotit boshlanishidan 2 kun oldin; savol faqat CDC ma'lumotiga tayanadi.

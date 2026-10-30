@@ -1,0 +1,99 @@
+=== 055
+? SEO va JS epidemiologiya bo'limining hujjatlari qanday ikki guruhga bo'linadi?
++ yuqumli kasallikni ro'yxatga olish va tekshirish hujjatlari hamda davriy hisobotlar
+- laboratoriya reaktivlariga oid hujjatlar hamda moliyaviy kassa hisobotlari
+- bemorning tibbiy kartalari hamda dori vositalari ro'yxatiga oid hujjatlar
+- kadrlar bo'yicha buyruqlar hamda xodimlarning ta'til jadvallariga oid hujjatlar
+- bino qurilishiga oid loyiha hujjatlari hamda texnika foydalanish daftarlari
+! Birinchi guruh har bir holatni qayd etadi va tekshiradi, ikkinchisi ularni jamlab, faoliyat va kasallanish ko'rsatkichlarini yuqoriga uzatadi.
+@ O'zR SSV 2014-yil 14-iyuldagi 242-son buyrug'i; Mavzu materiali (055.docx)
+? 058/u shakl qanday hujjat hisoblanadi?
++ yuqumli kasallik bilan og'rigan bemor aniqlanganligi to'g'risidagi shoshilinch xabarnoma
+- yuqumli kasalliklar bilan og'rigan bemorlarni hisobga olish jurnali, uni muntazam to'ldirib borish
+- yakuniy tashxislarni ro'yxatga olish bo'yicha statistik talon, uni poliklinikada individual yuritish
+- yuqumli kasallik o'chog'ini epidemiologik tekshirish kartasi, uni o'choq tekshirilgach to'ldirish
+- dezinfeksion stansiyaning yillik idoraviy statistika hisoboti, uni hududiy boshqarmaga topshirish
+! Shoshilinch xabarnoma kasallik aniqlangan zahoti SEO va JS markaziga yuboriladi, shu sababli u birlamchi signal vazifasini bajaradi.
+@ O'zR SSV 2014-yil 14-iyuldagi 242-son buyrug'i
+? 060/u shakl qanday hujjat?
++ yuqumli kasalliklar bilan og'rigan bemorlarni hisobga olish jurnali
+- yuqumli kasallik bilan og'rigan bemor aniqlanganligi to'g'risidagi xabarnoma
+- yakuniy tashxislarni ro'yxatga olish uchun mo'ljallangan statistik talon
+- toshmali tif o'chog'ini tekshirish uchun to'ldiriladigan epidemiologik karta
+- avj olish tekshiruvi tugagach tuziladigan yakuniy hisobot hujjati
+! Jurnal xabarnoma ma'lumotlarini muntazam hisobga olish va keyingi tahlil uchun saqlaydi.
+@ O'zR SSV 2014-yil 14-iyuldagi 242-son buyrug'i
+? Yakuniy (aniqlangan) tashxislarni ro'yxatga olish statistik taloni qaysi shakl bilan yuritiladi?
++ 025-2/u shakli
+- 058/u shakli
+- 060/u shakli
+- 357/u shakli
+- 21-SSV shakli
+! 025-2/u shakli yakuniy tashxis qo'yilgan holatlarni individual va umumiy hisobga olishning asosi bo'ladi.
+@ O'zR SSV 2014-yil 14-iyuldagi 242-son buyrug'i
+? 357/u shakl qaysi hujjatni bildiradi va qaysi kasalliklar o'choqlarida to'ldiriladi?
++ o'choqni epidemiologik tekshirish kartasi; toshmali tif va kana rikketsiozi o'choqlarida
+- shoshilinch xabarnoma; faqat o'ta xavfli infeksiyalar o'choqlarida
+- bemorlarni hisobga olish jurnali; faqat nafas yo'llari infeksiyalari o'choqlarida
+- yakuniy tashxis talon; faqat bolalar muassasalaridagi kasalxona ichi infeksiyalarida
+- dezinfeksiya bo'yicha yillik hisobot; faqat suv orqali yuqadigan ichak infeksiyalarida
+! Tekshirish tugagach bu kartaning nusxalari yuqori bo'g'inga yuboriladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Qo'mita darajasidagi epidemiologiya bo'limi boshlig'i bo'lim faoliyati bo'yicha kimga tizimli ravishda hisobot beradi?
++ Epidemiologiya va yuqumli kasalliklar profilaktikasi boshqarmasi boshlig'iga
+- tuman (shahar) bo'limi boshlig'iga va uning barcha o'rinbosarlariga yo'naltirilgan tartibda
+- dezinfeksion stansiya bosh vrachiga va mas'ul entomologga, oylik jadval asosida
+- davolash-profilaktika muassasasining bosh shifokoriga, tegishli buyruq asosida
+- hududiy boshqarma laboratoriyasining mudiriga
+! Bo'lim boshqarma tarkibida bo'lgani sababli bevosita boshqarma boshlig'iga bo'ysunadi, keyin esa kelishilgan holda yuqori tashkilotlarga hisobot yuboriladi.
+@ O'zR SEO va JS qo'mitasining 2023-yil 23-dekabrdagi 79-son buyrug'iga 14- va 15-ilovalar
+? Hududiy boshqarmadagi epidemiologiya bo'limi kimlarning hisobot hujjatlarini qabul qiladi?
++ tuman (shahar) bo'limlarining
+- respublika qo'mitasi bo'limlarining
+- xususiy klinikalarning bosh hisobchilarining
+- dezinfeksion stansiyalarning kadrlar bo'limlarining
+- oliy ta'lim muassasalari rektorlarining
+! Hisobotlar quyi bo'g'indan yuqoriga uzatiladi: tuman bo'limlari boshqarmaga, boshqarma esa qo'mitaga.
+@ O'zR SEO va JS qo'mitasining 2023-yil 23-dekabrdagi 79-son buyrug'iga 14- va 15-ilovalar
+? Nomenklatura loyihasiga ko'ra tekshiruvlar bo'yicha dalolatnomalar qancha muddat saqlanadi?
++ 10 yil
+- 1 yil
+- 3 yil
+- 25 yil
+- doimiy
+! Loyiha nomenklaturada dalolatnomalar uchun aniq muddat, hisobotlar uchun esa doimiy saqlash belgilangan.
+@ Mavzu materiali (055.docx)
+? Nomenklatura loyihasiga ko'ra epidemiologiya bo'limining ish rejasi qancha muddat saqlanadi?
++ 3 yil
+- 1 yil
+- 10 yil
+- 50 yil
+- doimiy
+! Ish rejalari joriy ahamiyatga ega hujjat bo'lgani uchun qisqa muddat saqlanadi, hisobotlar esa doimiy saqlanadi.
+@ Mavzu materiali (055.docx)
+? Kasalxona ichi infeksiyalarining guruhli kasallanishi deb qancha holat va qanday shart bo'lganda hisoblanadi, va kim xabar beradi?
++ 3 va undan ortiq holat, bitta manba va umumiy yuqish omillari; territorial markaz yuqori organlarga navbatdan tashqari xabar beradi
+- 2 va undan ortiq holat, turli manba va turli yuqish omillari; bemorning o'zi yuqori organlarga navbatdan tashqari xabar beradi
+- 10 va undan ortiq holat, bitta manba va umumiy omillar; faqat bosh shifokor oy oxirida xabar beradi
+- 5 va undan ortiq holat, turli muassasalar va turli omillar; xabar faqat yillik hisobotda beriladi
+- 1 ta og'ir holat, turli manbalar va omillar; hech kim xabar bermaydi, holat kuzatuvda qoladi
+! Guruhli kasallanish bir manbaga va umumiy yuqish omillariga bog'liq holatlarni birlashtiradi, shuning uchun markaz yuqori organlarga navbatdan tashqari axborot beradi.
+@ SanPiN RUz № 0342-17 «Profilaktika vnutribolnichnykh infeksiy»
+? Avj olish tekshiruvi tugagach tuziladigan hisobotda qanday ma'lumotlar bo'ladi?
++ voqea tavsifi (vaqt, joy, shaxs), xulosa, ko'rilgan choralar va tavsiyalar
+- bemorlarning ismlari ro'yxati va ularning yashash manzillari, hamda yosh tarkibi
+- dezinfeksiyaga sarflangan vositalar miqdori, narxi va yetkazib beruvchilar nomi
+- laboratoriya reaktivlari ro'yxati va yetkazib beruvchilar nomi
+- xodimlarning ish haqi, ta'til jadvali va intizomiy jazolari
+! Hisobot hodisani vaqt, joy va shaxs bo'yicha tavsiflab, xulosa chiqaradi hamda amaliy tavsiyalar beradi.
+@ JSST Yevropa mintaqaviy byurosi. Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma (2019)
+? Avj olish davomida tezkor javob guruhi yuqori tashkilotlarga qanday hisobot yuborib turadi?
++ kunlik hisobot
+- yillik hisobot
+- chorak hisoboti
+- besh yillik hisobot
+- faqat avj tugagandan keyingi hisobot
+! Tezkor javob guruhi vaziyat o'zgarishidan xabardor qilish uchun har kuni axborot yuboradi, yakuniy hisobot esa tekshiruv tugagach topshiriladi.
+@ JSST Yevropa mintaqaviy byurosi. Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma (2019)
+#U 055 / 8: tekshiruv dalolatnomalarini 10 yil saqlash muddati yig'majildlar nomenklaturasi loyihasiga tayangan, rasmiy tasdiqlangan versiya bilan solishtirilmagan.
+#U 055 / 9: bo'lim ish rejasini 3 yil saqlash muddati yig'majildlar nomenklaturasi loyihasiga tayangan, rasmiy tasdiqlangan versiya bilan solishtirilmagan.

@@ -1,0 +1,98 @@
+=== 102
+? Marburg va Ebola kasalliklarini qaysi virus oilasi qo'zg'atadi?
++ iplarsimon shakldagi RNK saqlovchi filoviruslar
+- ikki zanjirli DNK saqlovchi gerpesvirus oilasi vakillari
+- segmentlangan RNK saqlovchi bunyaviruslar va flebovirus oilasi vakillari
+- bir zanjirli musbat RNK saqlovchi flavivirus oilasi vakillari
+- kapsidsiz kichik DNK saqlovchi parvovirus oilasi vakillari
+! Ikkala kasallik qo'zg'atuvchisi filovirus oilasiga kiradi va nomi virionning ip shaklidagi morfologiyasidan olingan.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? JSST ma'lumotiga ko'ra Marburg virusining tabiiy xo'jayini qaysi hayvon hisoblanadi?
++ Rousettus aegyptiacus mevaxo'r ko'rshapalagi
+- Afrika yashil maymuni va boshqa yuqori primatlar
+- uy kemiruvchilari, ayniqsa kulrang kalamush va sichqon
+- qoramol, echki va qo'y kabi chorva hayvonlari
+- ixtiyoriy tuyoqli hayvonlar, ayniqsa yovvoyi cho'chqa
+! Marburg virusi mevaxo'r ko'rshapalaklarning g'orlari va konlarida saqlanadi; maymunlar esa tasodifiy xo'jayin hisoblanadi.
+@ WHO. Marburg virus disease (fact sheet)
+? Marburg va Ebolada inkubatsiya davri JSST bo'yicha qancha davom etadi?
++ 2 kundan 21 kungacha
+- 1 kundan 3 kungacha
+- 4 kundan 7 kungacha
+- 25 kundan 45 kungacha
+- 60 kundan 90 kungacha
+! Shu davr bilan tibbiy kuzatuv muddati ham bog'liq: kontaktdagilar maksimal yashirin davr tugaguncha kuzatiladi.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? Ebola va Marburg bilan kasallangan bemor bilan kontaktda bo'lganlar JSST tavsiyasiga ko'ra necha kun kuzatiladi?
++ 21 kun
+- 7 kun
+- 10 kun
+- 28 kun
+- 42 kun
+! Kuzatuv muddati maksimal yashirin davrga teng olinadi, shu davrda kasallik belgilari rivojlanmasa xavf tugaydi.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? Filovirus infeksiyalarida qaysi yuqish yo'li yetakchi hisoblanadi?
++ qon va boshqa biologik suyuqliklar bilan bevosita kontakt
+- chivinlarning kunduzi odamni chaqishi
+- ifloslangan ichimlik suvi bilan fekal-oral yuqish
+- changlangan havoni nafas olish orqali aerogen yuqish
+- kanalar chaqishi orqali transmissiv yuqish
+! Virus qon, ajralmalar va a'zolar bilan teri jarohati yoki shilliq qavat orqali kirganda yuqadi.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? Quyidagi kasalliklardan qaysi biri filovirus infeksiyalari bilan differensial tashxis qilinadi?
++ bezgak, qorin tifi, shigellyoz va meningit
+- suvchechak, qizamiq, qizilcha va epidemik parotit
+- difteriya, ko'k yo'tal, skarlatina va botulizm
+- gripp, paragripp, adenovirus va respirator-sinsitial infeksiya
+- brutsellyoz, tulyaremiya, sibir yarasi va leptospiroz
+! Dastlabki belgilar nospetsifik bo'lgani uchun isitmali va qusish-diareyali boshqa kasalliklar bilan chalkashishi mumkin.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? Filovirus gumon qilingan namunalar bilan ishlash qanday sharoitda o'tkaziladi?
++ maksimal biologik xavfsizlik darajasidagi laboratoriyada, uch qavatli qadoqlash bilan
+- oddiy klinik laboratoriyada, ochiq idishlarda va oddiy qo'lqop bilan
+- ikkinchi daraja xavfsizlikdagi laboratoriyada, bir qavatli oddiy qadoqlashda va ochiq stolda
+- bemor yotgan palatada, tezkor test yordamida va maxsus himoya vositalarisiz
+- sanitariya-epidemiologiya markazining umumiy bo'limida, oddiy plastik qutida va qo'lda
+! Namunalar o'ta xavfli biologik material hisoblanadi, shu sababli eng yuqori himoya darajasi va xavfsiz tashish talab etiladi.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? JSST tomonidan Ebola virusi kasalligi uchun qaysi vaksinalar tasdiqlangan?
++ Ervebo va Zabdeno/Mvabea vaksinalari
+- BCG va oral poliomielit vaksinalari
+- 17D va Jenner tipidagi tirik vaksinalar
+- RTS,S va R21/Matrix-M vaksinalari
+- Sabin va Salk tipidagi virus vaksinalari
+! Tasdiqlangan vaksinalar Ebola virusi uchun mavjud, Sudan va Bundibugyo viruslari hamda Marburg uchun hali tasdiqlangan vaksina yo'q.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? Ebola yoki Marburgdan tuzalgan erkaklarda urug' orqali yuqish xavfi sababli JSST nimani tavsiya etadi?
++ urug' tekshiruvi ketma-ket ikki marta manfiy chiqquncha xavfsiz jinsiy aloqa qilish
+- tuzalgandan keyin bir hafta davomida jinsiy aloqadan o'z-o'zidan saqlanish, so'ng tekshiruvsiz davom ettirish
+- tuzalgan kishini jamiyatdan to'liq ajratib, maxsus izolyatorda ikki yil davomida saqlash
+- barcha oila a'zolarini bir yil davomida profilaktik davolash va emlash
+- yuqumlilik tugamaydi deb hisoblab, umrbod jinsiy aloqadan voz kechish
+! Virus uzoq vaqt urug'da saqlanishi mumkin, shuning uchun tekshiruv natijasiga qadar himoyalangan jinsiy aloqa zarur, ajratib qo'yish esa tavsiya etilmaydi.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+? Marburg kasalligining 1967 yildagi birinchi avj olishida infeksiya manbai nima bo'lgan?
++ Ugandadan olib kelingan yashil maymunlar bilan ishlagan laboratoriya xodimlari
+- Yambukudagi kasalxonada ishlatilgan umumiy in'ektsiya ignalari
+- Nzaradagi paxta fabrikasi ishchilari va ularning oila a'zolari
+- Tropik o'rmonlardagi ovchilar va ko'rshapalak go'shtini iste'mol qilganlar
+- Kongodagi qazilma boyliklar konida ishlagan kon ishchilari
+! Germaniya va Yugoslaviyadagi laboratoriya xodimlari kasal maymunlarning organlari va qoni bilan aloqada bo'lgan.
+@ WHO. Marburg virus disease (fact sheet)
+? JSST ning Marburg virus kasalligi bo'yicha ma'lumotida o'tgan avj olishlarda o'lim ko'rsatkichi qanday oraliqda bo'lgan?
++ taxminan 24 dan 88 foizgacha
+- taxminan 1 dan 5 foizgacha
+- taxminan 5 dan 10 foizgacha
+- taxminan 10 dan 20 foizgacha, hech qachon undan yuqori emas
+- har doim 100 foizga yaqin
+! O'lim ko'rsatkichi virus shtammi va yordam sifatiga bog'liq: Angolada 88% gacha, Ruandada esa taxminan 23% qayd etilgan.
+@ WHO. Marburg virus disease (fact sheet)
+? Kasalxona ichida filovirus tarqalishining oldini olishda tibbiyot xodimlari uchun nima asosiy talab hisoblanadi?
++ standart ehtiyot choralari: qo'l gigiyenasi, shaxsiy himoya vositalari va xavfsiz in'ektsiya
+- bemor bilan kontaktdan so'ng faqat kiyimni almashtirish va xonani shamollatish, boshqa choralarsiz
+- barcha xodimlarni profilaktik maqsadda keng spektrli antibiotiklar bilan kunlik davolash va kuzatish
+- bemorni umumiy palatada boshqa bemorlar bilan birga parvarishlash
+- kontaktdan so'ng xodimlarni oddiy ishchi tartibida qoldirib, ularni kuzatuvsiz ishlatishda davom etish
+! Xodimlar qon va ajralmalar bilan kontaktdan himoyalanishi shart; standart choralar va qo'shimcha izolyatsiya choralari birgalikda qo'llanadi.
+@ WHO. Ebola disease (fact sheet); WHO. Marburg virus disease (fact sheet)
+#D 102 / 3: mavzu materialida ro'yxatdagi karantin muddati va klinik ko'rsatkichlar (Marburgda yashirin davr 4–10 kun, o'lim 30–60%) JSST dan farq qiladi; savollar JSST ma'lumotiga tayangan.

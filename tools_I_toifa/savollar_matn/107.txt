@@ -1,0 +1,98 @@
+=== 107
+? Bezgakning epidemiologik nazorati nimani anglatadi?
++ holatlar, chivinlar va tadbirlar haqidagi ma'lumotlarni muntazam yig'ish, tahlil qilish va qaror qabul qilishda foydalanish
+- bemorlarni shifoxonada davolash, ularning tuzalish muddatini klinik jihatdan baholash va natijalarni kartalarga yozib borish
+- chivinlarni kimyoviy vositalar bilan yo'qotish va suv havzalarini quritish bo'yicha amaliy ishlar to'plami va rejalari
+- aholini yiliga bir marta ommaviy ravishda qon tekshiruvidan o'tkazish va natijalarni arxivga topshirish
+- chetdan kelgan sayohatchilarni chegarada ushlab turish va karantin muddatini belgilash
+! Nazorat axborot yig'ish, tahlil va uni amaliy qarorlarga aylantirishdan iborat uzluksiz tizim bo'lib, alohida tadbirlar uning tarkibiy qismlaridir.
+@ WHO. Malaria (fact sheet)
+? Bezgak holatlari epidemiologik sinflar bo'yicha qaysi 3 toifaga ajratib tahlil qilinadi?
++ autoxton, chetdan keltirilgan va shizont holatlar
+- olib kelingan, qaytalangan va mahalliy holatlar
+- faol, potensial va yolg'on holatlar
+- engil, o'rtacha va og'ir holatlar
+- bolalar, kattalar va homilador holatlar
+! Bezgakda muhimi — hududda nechta odam zararlangani, shu sababli holatlar yuqish joyi va yo'liga qarab sinflanadi.
+@ Umirov S.E. va boshq. Bezgakning etiologiyasi... (uslubiy qo'llanma, 2009)
+? Milliy yo'riqnomaga ko'ra bezgak o'choqlari qaysi kategoriyalarga bo'linadi?
++ yolg'on, potensial, faol va faol bo'lmagan
+- intensiv, o'rta intensiv va sust intensiv
+- birlamchi, ikkilamchi va uchlamchi
+- tabiiy, antropurg va aralash
+- olib kelingan, mahalliy va emlangan
+! Kategoriyalar o'choqda yuqish sharoiti va faollik darajasini aks ettiradi; holat tasnifi esa alohida (olib kelingan, mahalliy, emlangan, qaytalangan).
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Yolg'on o'choqdan boshqa barcha bezgak o'choqlarida sog'lomlashtirish tadbirlari necha yil davom ettiriladi?
++ 3 yil davomida
+- 6 oy davomida
+- 1 yil davomida
+- 5 yil davomida
+- 10 yil davomida
+! Uch yillik muddat o'choqda qaytalanishlar va yashirin yuqishni kuzatish imkonini beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Faol aniqlashda xonadonma-xonadon yurish qanday chastotada o'tkaziladi (121-son buyruq bo'yicha)?
++ 2 haftada 1 marta
+- har kuni
+- haftasiga 3 marta
+- oyda 1 marta
+- yilda 1 marta
+! Muntazam kuzatuv isitmali bemorlarni erta topishga yordam beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Chivinlarga qarshi tadbirlar samaradorligi ishlovdan qancha vaqt keyin va qanday natija bilan baholanadi?
++ 1 sutkadan keyin larva va imago sonining 95% dan ko'p kamayishi bilan
+- 1 haftadan keyin chivinlar sonining 50% ga kamayishi bilan
+- 1 oydan keyin chivin ko'payish joylari 30% ga kamayishi bilan
+- 3 oydan keyin aholi orasida bezgak kasalligi 10% ga kamayishi bilan
+- ishlovdan keyin darhol, hech bir chivin qolmaganda va faqat shunda
+! Tez baholash insektitsid ta'siri chivinlar soniga ko'rsatilgan zahoti aniqlashga imkon beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Hududning bezgak xavfi nuqtai nazaridan «moyillik» (receptivity) tushunchasi nimani bildiradi?
++ infeksiyaning tashqaridan olib kelinish ehtimoli o'lchovini
+- chivinlarning soni, antropofiliyasi va yashovchanligini
+- plazmodiyning chivin organizmida rivojlanish davomiyligini
+- iqlimning chivinlar ko'payishiga qulayligini ifodalovchi ko'rsatkichni
+- aholining bezgakka qarshi immunitet darajasini ko'rsatuvchi omilni
+! Moyillik importga bog'liq, yuqumlilik darajasi (vulnerability) esa chivin va iqlim omillari bilan belgilanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Bezgak o'choqlari stratifikatsiyasida eng universal indikator qaysi?
++ dengiz sathidan balandlik
+- aholining yosh tarkibi
+- yillik yog'ingarchilik miqdori
+- aholi punktining maydoni
+- bolalar o'rtasidagi kasallanish
+! Balandlik harorat va chivinlar faolligini belgilagani uchun hududlarni o'xshash guruhlarga ajratishda qulay.
+@ Umirov S.E. va boshq. Bezgakning etiologiyasi... (uslubiy qo'llanma, 2009)
+? Kontaktdagilar bezgak o'chog'ida qancha vaqt tibbiy kuzatuvda bo'ladi?
++ 21 kun
+- 3 kun
+- 7 kun
+- 45 kun
+- 90 kun
+! Kuzatuv davomida harorat, teri rangi, taloq va jigar holati tekshiriladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Entomolog yuqish mavsumini hisoblashda qaysi ma'lumotlardan foydalanadi?
++ chivinlar soni, kunlash va qishlash joylari hamda suv havzalari ro'yxati
+- aholining oylik daromadi va yashash joyidagi kommunal xizmatlar ro'yxati
+- bemorlarning dori qabul qilish jadvali va davolash muddati ko'rsatkichi
+- faqat bemorlarning yoshi va jinsi bo'yicha o'tgan yillik hisobot
+- aholi punktidagi bolalar muassasalari soni va ularning joylashuvi
+! Mavsum chegaralari chivinlar faolligi va parazit rivojlanishi mumkin bo'lgan davr bilan aniqlanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Har oy qaysi sanagacha Respublika markaziga xorijga borib kelganlar haqida tezkor axborot beriladi?
++ har oyning 5-sanasigacha
+- har oyning 1-sanasigacha
+- har oyning 10-sanasigacha
+- har oyning 15-sanasigacha
+- har oyning oxirgi sanasigacha
+! Oylik hisobot tartibi chetdan kirib kelish xavfi bo'yicha tezkor axborot olish uchun belgilangan.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Epidemiya xavfini oshiradigan ikki shart qaysi javobda to'g'ri keltirilgan?
++ ko'p sonli immunitetsiz qatlam va yuqish jadalligining to'satdan ortishi
+- chivinlarning kamayishi va aholi zichligining pasayishi
+- ko'p sonli emlangan aholi va yuqish jadalligining barqaror pasayishi
+- sovuq iqlim va chivin ko'payish joylarining mavjud emasligi
+- yuqori daromadli aholi va sanitariya shartlarining yaxshilanishi
+! Epidemiya immunitetsiz aholi va yuqishning keskin ortishi birlashganda rivojlanadi.
+@ Umirov S.E. va boshq. Bezgakning etiologiyasi... (uslubiy qo'llanma, 2009); Mavzu materiali (107.docx)
+#U 107 / 12: bezgak epidemiyasi uchun ikki shart faqat mavzu materialida (2009 yilgi qo'llanma) bayon etilgan.

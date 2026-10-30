@@ -1,0 +1,97 @@
+=== 087
+? Parenteral virusli gepatit o'choqlarida epidemiologik tekshiruv nima uchun klinik ko'rik bilan chegaralanmaydi?
++ ko'pchilik zararlanganlarda kasallik belgisiz kechadi, shu sababli kontaktdagilarni laborator tekshirish kerak
+- barcha zararlanganlarda og'ir sariqlik bo'lgani uchun klinik ko'rik yetarli bo'ladi va qo'shimcha tekshirish talab etilmaydi
+- qo'zg'atuvchi faqat yozda faol bo'lgani sababli tekshiruv mavsumiy, laboratoriyasiz bir martalik tarzda o'tkaziladi
+- kontaktdagilar kasallikdan keyin avtomatik himoyalangani uchun ular tekshiruvdan butunlay chiqarib tashlanadi
+- manba va yuqish vaqti har doim aniq bo'lgani sababli retrospektiv tahlilga ehtiyoj qolmaydi va ish yengillashadi
+! Belgisiz kechish tufayli manba va yuqish vaqti noaniq bo'ladi, shu sababli laborator va retrospektiv usullar zarur.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST VGB va VGS bo'yicha test o'tkazish uchun xavf guruhlari qatoriga qaysi toifalarni kiritadi?
++ mahbuslar, OIV bilan yashovchilar va in'ektsion giyohvandlar
+- sog'lom maktab o'quvchilari, sportchilar va yengil atletikachilar
+- pensionerlar, uy bekalari va yengil shamollash bilan murojaat qilganlar
+- barcha qishloq aholisi, ayniqsa chorvadorlar va dehqonlar
+- bosh og'rig'i bilan murojaat qilganlar va ko'z kasalliklari bemorlari
+! Bu toifalarda qon orqali yuqish xavfi yuqori, shu sababli ular tekshirilishi tavsiya etiladi.
+@ WHO. Hepatitis B (fact sheet); WHO. Hepatitis C (fact sheet)
+? Birinchi marta aniqlangan surunkali holatni tashkil etilgan jamoalarda va uy o'choqlarida kim surishtiradi?
++ epidemiolog, uy o'choqlarini tekshirishni yordamchilariga topshirish mumkin
+- infeksionist shifokor yolg'iz o'zi, hech kimga topshirmasdan va hujjatsiz tarzda
+- bemorning o'zi ixtiyoriy anketa to'ldirish yo'li bilan, epidemiologsiz va tekshiruvsiz
+- veterinariya xizmati xodimlari, hayvonlar bilan aloqani tekshirish orqali, mustaqil ravishda
+- maktab o'qituvchisi, sinf jurnali va davomat daftari asosida
+! Epidemiologik surishtiruv sanitariya-epidemiologiya xizmati vakolatiga kiradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Virusli gepatit bemorlarini aniqlashda etiologik tasdiq odatda qancha muddatda amalga oshiriladi?
++ 5 kunda
+- 24 soatda
+- 30 kunda
+- 3 oyda
+- 1 yilda
+! Qisqa muddatda tasdiqlash o'choqda tadbirlarni tezda boshlashga yordam beradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? HBeAg musbat onadan tug'ilgan bolalarning qancha qismi zararlanadi?
++ 85–100 foizi
+- 5–10 foizi
+- 20–30 foizi
+- 40–50 foizi
+- 60 foizi atrofida
+! HBeAg yuqori replikatsiya belgisi bo'lib, perinatal yuqish xavfini keskin oshiradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Nima uchun VGS o'chog'ida antitelasi musbat shaxslarni davolanishga muhtoj bemorlardan ajratish zarur?
++ taxminan 30 foiz zararlanganlar virusdan o'z-o'zidan tozalansa ham antitelalari musbat qoladi
+- antitelalar faqat faol infeksiya davrida paydo bo'lib, tuzalgach bir haftada yo'qoladi
+- antitela musbat bo'lgan barcha shaxslarda surunkali sirroz hamisha rivojlangan bo'ladi
+- anti-HCV vaksinadan keyin hosil bo'lgani uchun u har doim emlanganlikni bildiradi
+- HCV RNK barcha antitelasi musbat shaxslarda doimo musbat chiqadi va farq bo'lmaydi
+! Antitelalar o'tgan infeksiyani ham bildiradi, faol infeksiyani esa HCV RNK aniqlaydi.
+@ WHO. Hepatitis C (fact sheet)
+? Anti-HDV o'tkir va surunkali gepatitlarda qanday ko'rsatkichlarda aniqlanadi?
++ o'tkir gepatitlarda 2–7 foiz, surunkali gepatitlarda 9–50 foiz bemorda
+- o'tkir gepatitlarda 40–50 foiz, surunkali gepatitlarda 1–2 foiz bemorda
+- o'tkir gepatitlarda 90 foiz, surunkali gepatitlarda 100 foiz bemorda
+- o'tkir gepatitlarda 0 foiz, surunkali gepatitlarda 70–80 foiz bemorda
+- o'tkir gepatitlarda 15–20 foiz, surunkali gepatitlarda 55–60 foiz bemorda
+! Deltavirus surunkali VGB fonida ko'proq aniqlanadi, o'tkir gepatitlarda esa kam uchraydi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Anti-HBs paydo bo'lgan emlangan yoki VGB o'tkazgan shaxslar qaysi infeksiyadan ham himoyalangan hisoblanadi?
++ gepatit D dan
+- gepatit A dan
+- gepatit E dan
+- gepatit C dan
+- OIV-infeksiyasidan
+! Delta virusi ko'payishi uchun HBV kerak, shuning uchun anti-HBs himoyasi uni ham to'sadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Tibbiyot xodimlari orasida gepatit markerlari aniqlansa, qanday chora ko'riladi?
++ vaqtincha ishdan chetlashtirilib, chuqur tekshiriladi, qon bilan ishlovchilar ishdan olinadi
+- hech qanday cheklov qo'yilmaydi va xodim avvalgi ish joyida barcha muolajalarni davom ettiradi
+- xodim darhol umrbod ishdan bo'shatiladi va tibbiy ko'rikka yuborilmaydi, hisobga olinmaydi
+- bemorlarga xabar beriladi, xodimning o'zi esa umuman tekshirilmaydi va ishlayveradi
+- xodim 10 kunlik ta'tilga yuboriladi, so'ng qayta tekshiruvsiz ishlaydi
+! Xodim orqali bemorlarga yuqish xavfini bartaraf etish uchun uni muolajalardan chetlatib tekshirish kerak.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Nozokomial yuqish gumon qilinganda retrospektiv epidemiologik tahlilda nimalar o'rganiladi?
++ muolajalar jurnallari, asboblar sterilizatsiyasi, bir vaqtda davolanganlar va xodimlar ro'yxati
+- bemorning yoshlikdagi o'yinlari, maktabdagi o'zlashtirishi va sevimli mashg'ulotlari haqidagi ma'lumotlar
+- faqat bemorning oilaviy qarz va moliyaviy holati haqidagi hisobotlar
+- kasalxona atrofidagi o'simliklar va yovvoyi hayvonlarning turlari bo'yicha ma'lumotlar
+- kasalxona oshxonasidagi menyu, mahsulotlar narxi va xodimlarning ish haqi ro'yxati
+! Muassasadagi yuqish asboblar, muolajalar va umumiy kontaktlar orqali bo'lgani uchun aynan shular tahlil qilinadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Donor qonida anti-HCV yoki HBsAg aniqlanganda qanday chora ko'riladi?
++ donor umrbod chetlashtiriladi, retsipiyentlar tekshiriladi
+- donor 1 oyga chetlashtiriladi, retsipiyentlar esa umuman tekshirilmaydi
+- qon qayta topshirishga ruxsat beriladi, nazorat uchun belgi qo'yiladi
+- donor tekshiruvdan o'tmaydi, qon bank zaxirasidan olib tashlanmaydi
+- faqat donorning o'ziga xabar beriladi, retsipiyentlar va markaz bilmaydi
+! Zararlangan qon quyilgan bemorlar xavf ostida, shuning uchun ular qidirib topiladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Oilaviy surunkali o'choqlarga tibbiyot xodimi va epidemiolog qanday davriylikda boradi va kuzatuv qancha davom etadi?
++ yarim yilda bir marta, kuzatuv manba bor butun davr davom etadi
+- oyda bir marta, kuzatuv 3 oy o'tgach to'xtatiladi va o'choq yopiladi
+- har kuni, kuzatuv bir hafta davom etadi
+- yilda bir marta, kuzatuv bemor yotqizilgunga qadar o'tkaziladi
+- besh yilda bir marta, kuzatuv bir martalik bo'ladi
+! Manba bor ekan, o'choq saqlanadi, shuning uchun tashrif yarim yillik davriylik bilan uzoq davom etadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova

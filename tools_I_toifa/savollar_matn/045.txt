@@ -1,0 +1,101 @@
+=== 045
+? O'zbekiston kalendaridagi pentavalent vaksina qaysi kasalliklarga qarshi himoya beradi?
++ Difteriya, ko'kyo'tal, qoqshol, virusli gepatit B va gemofil infeksiya
+- Difteriya, ko'kyo'tal, qoqshol, poliomielit va pnevmokokk infeksiyasi
+- Qizamiq, parotit, qizilcha, sil va virusli gepatit B
+- Difteriya, qoqshol, rotavirus infeksiyasi, poliomielit va sil
+- Ko'kyo'tal, qoqshol, gripp, gemofil infeksiya va qizamiq
+! Preparat AKDS tarkibiga gepatit B va XIB komponentlarini qo'shgan, shu sababli to'rtta emas, besh infeksiyaga qarshi qaratilgan.
+@ Mavzu materiali (045.docx)
+? Pentavalent vaksinaning «XIB» komponenti qaysi mikroorganizmga qarshi yo'naltirilgan?
++ Haemophilus influenzae tip b
+- Streptococcus pneumoniae tip 3
+- Bordetella pertussis, ko'kyo'tal qo'zg'atuvchisi
+- Neisseria meningitidis serogruppa A
+- Corynebacterium diphtheriae toksigen shtammi
+! XIB gemofil tayoqchasining b tipini bildiradi va u bolalarda og'ir meningit hamda pnevmoniya sababchisi.
+@ WHO. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice
+? Pentavalent vaksinaning uch dozasi kalendarga ko'ra qaysi yoshlarda yuboriladi?
++ 2, 3 va 4 oylikda
+- 1, 2 va 3 oylikda
+- 3, 4 va 5 oylikda
+- 2, 4 va 6 oylikda
+- 2, 3 va 12 oylikda
+! Dozalar orasida kamida bir oy qoldirilib, immun xotira shakllanishi ta'minlanadi.
+@ Mavzu materiali (045.docx)
+? AKDS vaksinasining to'rtinchi dozasi (AKDS-4) kalendarda qachon beriladi?
++ 16 oylikda
+- 12 oylikda
+- 6 yoshda
+- 7 yoshda
+- 12–13 yoshda
+! Bu revaksinatsiya birinchi yilda hosil bo'lgan immunitetni mustahkamlash uchun yuboriladi.
+@ Mavzu materiali (045.docx)
+? Pentavalent vaksina qanday yo'l bilan va chaqaloqlarda qaysi joyga yuboriladi?
++ Mushak ichiga, sonning oldingi-tashqi yuzasiga
+- Teri ichiga, yelkaning tashqi yuzasiga
+- Teri ostiga, kurak sohasiga
+- Og'iz orqali, tomchi shaklida
+- Mushak ichiga, dumba sohasining yuqori qismiga
+! Chaqaloq sonida mushak massasi yetarli va yirik asab hamda tomirlar chuqur joylashgan, shuning uchun inyeksiya xavfsiz.
+@ Mavzu materiali (045.docx); WHO. Immunization in practice
+? Emlangandan keyin bola nega kamida 30 daqiqa tibbiy kuzatuvda qoldiriladi?
++ Kuchli allergik reaksiya (anafilaksiya) aynan shu davrda yuzaga kelishi mumkinligi uchun
+- Vaksina qonga to'liq so'rilishi va immunitet shakllanishi uchun zarur bo'lgani uchun
+- Vaksina yuborilgan joyda doimiy qadoq hosil bo'lishini tekshirish uchun
+- Sovuqlik zanjiri buzilmaganini keyingi bolada tekshirish uchun
+- Keyingi dozani shu kunning o'zida yuborish imkoni bo'lishi uchun
+! Og'ir allergik reaksiyalar odatda emlashdan ko'p o'tmay boshlanadi, shuning uchun darhol yordam ko'rsatishga tayyor turish kerak.
+@ WHO. Immunization in practice; Mavzu materiali (045.docx)
+? Pentavalent vaksina qanday haroratda saqlanadi va nima uchun muzlatilmaydi?
++ +2 °C dan +8 °C gacha; muzlash adyuvant va antigenlarni buzadi
+- -20 °C da; sovuq vaksina barqarorligini oshiradi
+- +15 °C dan +25 °C gacha; xona harorati yetarli hisoblanadi
+- +2 °C dan +8 °C gacha; muzlash faqat saqlash muddatini qisqartiradi
+- -60 °C dan -80 °C gacha; antigenlar faqat chuqur sovuqda saqlanadi
+! Alyuminiyli adyuvant muzlaganda tuzilishini yo'qotadi, shu bois tashqi ko'rinishi o'zgarmasa ham himoya kuchi ketadi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Pentavalent vaksinaga qaysi holat qarshi ko'rsatma hisoblanadi?
++ Avvalgi dozaga nisbatan kuchli allergik reaksiya rivojlangani
+- Bolaning tug'ilgandagi vazni normal chegarada bo'lgani
+- Oldingi emlashdan keyin yuborish joyida yengil qizarish bo'lgani
+- Emlashdan keyin bola bir kun injiq bo'lib, harorati 37,5 °C bo'lgani
+- Onasi emlanganligi va emizish davrida ekanligi
+! Og'ir allergiya takroriy dozada xavfliroq kechishi mumkin, yengil mahalliy reaksiyalar esa qarshi ko'rsatma emas.
+@ WHO. Immunization in practice; Mavzu materiali (045.docx)
+? AEFI nimani anglatadi va qanday maqsadda qayd etiladi?
++ Emlashdan keyingi noxush hodisalar; vaksina xavfsizligini kuzatish uchun
+- Emlash qamrovining yillik samaradorligi; moliyalashni rejalashtirish uchun
+- Epidemik o'choqda faol immunizatsiya; kasallikni davolash uchun
+- Vaksinaning ishlab chiqaruvchi tomonidan sifat nazorati; sertifikatlash uchun
+- Emlash kalendari to'g'risidagi hujjat; me'yoriy tartibni belgilash uchun
+! Qayd etish haqiqiy asoratlarni tasodifiy hodisalardan ajratish va aholi ishonchini saqlashga imkon beradi.
+@ Mavzu materiali (045.docx); WHO. Immunization in practice
+? Gepatit B komponentini hayotning birinchi oylarida kiritish nega ayniqsa muhim?
++ Dastlabki 3 kun har kuni, so'ng bir oy davomida
+- Faqat birinchi 30 daqiqa davomida, keyin kuzatilmaydi, ota-onaga qoldiriladi
+- Dastlabki 10 kun, so'ng olti oy davomida kuzatiladi
+- Dastlabki 24 soat, so'ng bir haftada bir marta
+- Dastlabki hafta har kuni, so'ng bir yil davomida
+! Erta yoshda yuqqan virus ko'pincha surunkali gepatit, sirroz va jigar saratoniga olib keladi.
+@ Mavzu materiali (045.docx); WHO. Immunization in practice
+? Emlashdan keyin bola SanQvaM bo'yicha qanday muddatda kuzatiladi?
++ Alyuminiy tuzlari saqlovchi adyuvant
+- Tirik zaiflashtirilgan bakteriyalar suspenziyasi
+- Tayyor immunoglobulin molekulalari aralashmasi
+- Mikrob o'sishini to'xtatish uchun antibiotik
+- Hujayra yadrosiga kiruvchi virusli vektor
+! Reaksiyalarning ko'p qismi dastlabki kunlarda, kechikkan ta'sirlar esa keyingi haftalarda namoyon bo'lishi mumkin.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Pentavalent vaksina tarkibiga immun javobni kuchaytirish uchun odatda nima qo'shiladi?
++ Alyuminiy tuzlari saqlovchi adyuvant
+- Tirik zaiflashtirilgan bakteriyalar
+- Tayyor immunoglobulin molekulalari
+- Antibiotik, mikrob o'sishini to'xtatish uchun
+- Hujayra yadrosiga kiruvchi virusli vektor
+! Adyuvant antigenni to'qimada sekin chiqarib, immun hujayralarni kuchliroq faollashtiradi.
+@ Mavzu materiali (045.docx)
+#U 045 / 1: kalendar hujjatining tasdiqlovchi organi, sanasi va raqami nusxada ko'rsatilmagan; faqat mavzu materialiga tayangan.
+#U 045 / 3: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+#U 045 / 4: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+#U 045 / 6: 30 daqiqa kuzatuv talabi faqat mavzu materialida keltirilgan.

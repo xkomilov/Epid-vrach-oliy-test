@@ -1,0 +1,98 @@
+=== 110
+? Gelmintozlar zoologik tasnifga ko'ra qaysi sinflarga bo'linadi?
++ nematodalar, sestodalar va trematodalar
+- protozoalar, bakteriyalar va rikketsiyalar
+- viruslar, prionlar va zamburug'lar
+- artropodlar, araxnidlar va hasharotlar
+- amyobalar, xivchinlilar va infuzoriyalar
+! Gelmintlar yumaloq (Nematoda), tasmasimon (Cestoda) va yassi (Trematoda) chuvalchanglar sinflariga bo'linadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar
+? Quyidagilardan qaysi gelmintoz antroponoz hisoblanadi?
++ enterobioz
+- trixinellyoz
+- exinokokkoz
+- alveokokkoz
+- opistorxoz
+! Enterobioz, askaridoz va teniidozlarda gijja odam ishtirokisiz yashay olmaydi, shu sababli manba odamning o'zidir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar
+? Manba faqat hayvonlar bo'lgan gelmintozlar qanday nomlanadi va misol keltiring?
++ zoonozlar, masalan trixinellyoz
+- antroponozlar, masalan enterobioz
+- zooantroponozlar, masalan difillobotrioz
+- sapronozlar, masalan askaridoz
+- kontagioz gelmintozlar, masalan gimenolepidoz
+! Zoonozlarda manba hayvon bo'lib, odam tasodifiy xo'jayin hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar
+? Geogelmintozlar qanday xususiyat bilan tavsiflanadi?
++ oraliq xo'jayinsiz, tuxum yoki lichinkalar tuproqda rivojlanadi
+- oraliq xo'jayin ishtirokida, baliqda rivojlanadi
+- tuxum odam organizmidan yetilgan holda chiqadi va darhol yuqadi
+- qo'zg'atuvchi faqat kasal hayvon go'shti orqali yuqadi
+- qo'zg'atuvchi chivin chaqishi bilan yuqtiriladi
+! Askaridoz va trixotsefalyoz tuproqda yetilgan tuxumlar orqali yuqadi, oraliq xo'jayin kerak emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar; WHO. Soil-transmitted helminth infections (fact sheet)
+? Tuproq orqali yuqadigan gelmint tuxumlari JSST bo'yicha tuproqda yetilishi uchun taxminan qancha vaqt kerak?
++ taxminan 3 hafta
+- taxminan 1 kun ichida
+- taxminan 3 kun ichida
+- taxminan 3 oy ichida
+- taxminan 3 yil ichida
+! Shu sababli yangi najasdan yoki odamdan odamga to'g'ridan-to'g'ri yuqish bo'lmaydi.
+@ WHO. Soil-transmitted helminth infections (fact sheet)
+? Kontagioz gelmintozlarga qaysi kasalliklar kiradi?
++ enterobioz, gimenolepidoz va sistitserkoz
+- askaridoz, trixotsefalyoz va toksokaroz
+- opistorxoz, klonorxoz va difillobotrioz
+- trixinellyoz, teniarinxoz va teniozlar
+- ankilostomidoz, strongiloidoz va fassiolyoz
+! Kontagioz gelmintozlarda tuxum odam organizmidan to'liq yetilgan holda chiqadi va darhol kontakt yo'li bilan yuqadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar
+? Qaysi gelmintozda odam o'z-o'zini qayta-qayta zararlay oladi?
++ enterobiozda
+- askaridozda
+- trixotsefalyozda
+- teniarinxozda
+- exinokokkozda
+! Enterobiozda ostritsa tuxumlari qashinish bilan qo'lga o'tib, qayta yutiladi, boshqa gelmintozlarda bunday avtoinvaziya xos emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar
+? Biogelmintozlarda qaysi omillar yuqish omili hisoblanadi?
++ baliq va baliq mahsulotlari, qisqichbaqa, go'sht mahsulotlari
+- tuproq, ifloslangan qo'llar, yuvilmagan sabzavotlar va ko'katlar
+- chivin va moskit chaqishi hamda ularning so'lagi
+- havo, changlangan xona va nafas olish yo'llari
+- qon quyish va parenteral manipulyatsiyalar
+! Biogelmintozlarda qo'zg'atuvchi oraliq xo'jayin ishtirokida rivojlanadi, odam esa shu xo'jayinlarni iste'mol qilganda zararlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16.10–16.11-bo'limlar
+? O'zbekistonda geogelmintozlar bo'yicha o'choq intensiv hisoblanishi uchun aholi zararlanishi qancha bo'lishi kerak?
++ 30% va undan yuqori
+- 5% dan kam bo'lganda
+- 10% gacha bo'lganda
+- 15–29% oralig'ida
+- 50% dan 70% gacha bo'lganda
+! Intensiv o'choq 30% va undan yuqori; 15–29% o'rta intensiv, 15% gacha esa sust intensiv hisoblanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 4-ilova (gelmintozlar)
+? «Yolg'on» gelmintoz o'chog'i qanday o'choq?
++ manba bor, lekin yuqish sharoiti mavjud bo'lmagan joy
+- manba ham, yuqish sharoiti ham to'liq mavjud bo'lgan joy
+- yuqish sharoiti bor, lekin manba bo'lmagan joy
+- manba hayvonlar bo'lgan, odam kasallanmaydigan joy
+- laboratoriyada tasdiqlanmagan, gumon qilingan joy
+! «Asl» o'choqda aylanish va yuqish sharoiti mavjud, «yolg'on» o'choqda esa faqat manba bor.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 4-ilova (gelmintozlar)
+? Bolalar jamoalarini tanlab tekshirishda jamoaning kamida qancha qismi qamrab olinishi kerak?
++ kamida 5 foizi
+- kamida 1 foizi
+- kamida 2 foizi
+- kamida 20 foizi
+- kamida 50 foizi
+! Tanlab tekshirish jamoadagi zararlanish darajasini baholash uchun yetarli vakillikni ta'minlaydi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 4-ilova (gelmintozlar)
+? JSST tavsifiga ko'ra Strongyloides stercoralis boshqa tuproq gelmintlaridan nimasi bilan farq qiladi?
++ albendazol va mebendazolga sezgir emas, shuning uchun ko'pincha aniqlanmaydi
+- chivin chaqishi orqali yuqadi, shuning uchun mavsumiy bo'ladi
+- faqat baliq iste'mol qilganda zararlaydi, shuning uchun tuproqda bo'lmaydi
+- tuxumlari tuproqda 3 yil yetiladi, shuning uchun kam uchraydi
+- ommaviy dehelmintizatsiya bilan to'liq yo'qotiladi, shuning uchun uchramaydi
+! Strongiloidoz ommaviy dehelmintizatsiyadan ta'sirlanmaydi, shu bois tashxis va nazorat boshqa tuproq gelmintlariga qaraganda qiyinroq.
+@ WHO. Soil-transmitted helminth infections (fact sheet)
+#U 110 / 9: O'zbekiston bo'yicha o'choq intensivligi chegaralari (30%, 15–29%) faqat 121-son buyruq ilovasiga tayangan.

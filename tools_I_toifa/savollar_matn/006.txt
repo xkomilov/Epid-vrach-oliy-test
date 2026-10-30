@@ -1,0 +1,101 @@
+=== 006
+? Aholi orasida yuqumli kasalliklarning uzluksiz paydo bo'lishi va tarqalishi jarayoni qaysi uchta bo'g'inning birgalikda mavjud bo'lishida yuzaga keladi?
++ infeksiya manbai, qo'zg'atuvchining yuqish mexanizmi va qabul qiluvchan organizm
+- qo'zg'atuvchi, vektor hamda tashqi muhitning ifloslanish darajasi va tarqalish tezligi
+- bemor, shifokor hamda dezinfeksiya vositalarining mavjudligi va ularning o'zaro ta'siri
+- inkubatsion davr, klinik davr hamda tuzalish davri bo'yicha ketma-ketlik
+- sporadik kasallanish, epidemiya hamda pandemiya darajalari ketma-ketligi
+! Bo'g'inlardan biri uzilsa jarayon to'xtaydi; sporadik, epidemiya va pandemiya esa jadallik darajalari xolos.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Bir necha mamlakat yoki qit'ani qamrab olgan keng tarqalish epidemik jarayon jadalligining qaysi darajasi hisoblanadi?
++ pandemiya
+- epidemiya
+- sporadik kasallanish
+- endemik kasallanish
+- epizootiya
+! Epidemiya odatdagidan yuqori ko'tarilishni bildiradi, sporadik kasallanish esa yakka holatlarni.
+@ Mavzu materiali (006.docx)
+? Epidemik o'choq nimani anglatadi?
++ infeksiya manbai joylashgan va qo'zg'atuvchi tarqalishi mumkin bo'lgan hudud yoki joyni
+- aholi orasida kasallanish ko'rsatkichi odatdagidan yuqori bo'lgan butun mamlakat hududini
+- kasallikning faqat bitta bemor organizmida kechadigan klinik davrlari ketma-ketligini
+- qo'zg'atuvchining tashqi muhitda spora holida uzoq yillar saqlanib qoladigan joyini
+- aholining populyatsion immuniteti yuqori bo'lgan va yangi kasallanish kuzatilmaydigan joyni
+! O'choq epidemik jarayonning lokalizatsiyalangan ko'rinishi bo'lib, epidemiyaga qarshi ishning asosiy obyekti hisoblanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Ichak infeksiyalarida epidemik o'choq chegarasi qaysi doirani qamrab oladi?
++ umumiy suv manbai yoki oziq-ovqat bilan bog'langan doirani
+- bemor bilan bir xonada yoki yaqin muloqotda bo'lgan shaxslar doirasini
+- tashuvchi hasharotning tarqalish doirasini
+- bemorning oila a'zolari yashaydigan xonadonni
+- hududdagi barcha kemiruvchilar yashaydigan maydonni
+! Chegara yuqish mexanizmiga bog'liq: ichak infeksiyalarida yuqish suv va oziq-ovqat orqali bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Havo-tomchi infeksiyalarida o'choq chegarasi odatda kimlarni qamrab oladi?
++ bemor bilan bir xonada yoki yaqin muloqotda bo'lgan shaxslarni
+- umumiy suv manbaidan foydalanuvchi barcha aholini va oziq-ovqat iste'molchilarini
+- tashuvchi hasharot yashaydigan butun hududdagi aholini va hayvonlarni
+- bemorga xizmat ko'rsatgan tibbiyot xodimlarini va ularning oila a'zolarini
+- bemor yashagan ko'chadagi barcha uy egalarini
+! Havo-tomchi yo'lda xavf bemor bilan yaqin aloqada bo'lganlarda eng yuqori bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Epidemik o'choqning davomiyligi qaysi ko'rsatkich asosida belgilanadi?
++ kasallikning maksimal yashirin (inkubatsion) davri
+- kasallikning minimal yashirin davri
+- bemorning kasalxonada davolanish muddati
+- qo'zg'atuvchining tashqi muhitdagi yashash muddati
+- yakuniy dezinfeksiya o'tkazilgan kun
+! Infeksiya manbai bartaraf etilgach, muloqotda bo'lganlar bir maksimal inkubatsion davr mobaynida kuzatiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Qizamiq o'chog'ida muloqotda bo'lganlar qancha muddat kuzatiladi (maksimal inkubatsion davr bo'yicha)?
++ 21 kungacha
+- 7 kungacha
+- 10 kungacha
+- 35 kungacha
+- 60 kungacha
+! Qizamiqning maksimal yashirin davri 21 kun, shu muddat ichida yangi kasallanish bo'lmasa o'choq so'ngan hisoblanadi.
+@ Mavzu materiali (006.docx)
+? Epidemiologik tashxis klinik tashxisdan nimasi bilan farq qiladi?
++ klinik tashxis alohida bemorni aniqlasa, epidemiologik tashxis butun populyatsiya yoki o'choq darajasida qo'yiladi
+- klinik tashxis butun populyatsiyani baholasa, epidemiologik tashxis faqat bemorning kasalligini aniqlaydi
+- ikkalasi ham faqat laboratoriya natijalariga asoslanib, faqat bitta bemorga qo'yiladi
+- epidemiologik tashxis davolash tartibini belgilaydi, klinik tashxis esa o'choq chegarasini belgilaydi
+- ikkalasi o'rtasida hech qanday farq yo'q, faqat atamalari boshqacha
+! Epidemiologik tashxis vaziyat holati, sabablari va rivojlanishi to'g'risidagi yaxlit xulosa bo'lib, chora tanlashga asos bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Epidemiologik tashxis qaysi uch savolga javob beradi?
++ vaziyat qanday, nima uchun shunday va qanday rivojlanadi
+- bemor kim, qaysi dori beriladi va qancha davolanadi
+- qo'zg'atuvchi qaysi turga mansub, qanday ko'payadi va qayerda saqlanadi
+- o'choq qayerda, qachon yopiladi va kim javobgar
+- vaksina qanday olinadi, qachon beriladi va qancha samara beradi
+! Bu savollar mos ravishda kasallanish darajasi, sabab va xavf omillari hamda bashoratni qamrab oladi.
+@ Mavzu materiali (006.docx)
+? Epidemiologik tashxis qanday turlarga bo'linadi?
++ retrospektiv va operativ
+- klinik va laboratoriya
+- birlamchi va ikkilamchi
+- individual va jamoaviy profilaktik
+- nazariy va eksperimental
+! Retrospektiv tashxis o'tgan davr qonuniyatlariga, operativ esa joriy vaziyatni baholashga asoslanadi.
+@ Mavzu materiali (006.docx)
+? Epidemiologik tashxisning markaziy vazifasi nima?
++ shu vaziyatda kasallikni tarqatayotgan faol omilni aniqlash
+- bemorga aniq klinik tashxis qo'yish va uni davolash
+- qo'zg'atuvchining sistematik o'rnini belgilash
+- barcha infeksiya manbalarini bir vaqtda yo'q qilish
+- emlash kalendarini yangilash va emlash qamrovini hisoblash
+! Faol omilga ta'sir qilish epidemik jarayonni to'xtatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? O'choq chegarasi haddan tashqari keng belgilansa qanday oqibat yuzaga keladi?
++ resurslar behuda sarflanadi
+- ayrim zararlangan shaxslar kuzatuvdan tashqarida qoladi
+- qo'zg'atuvchi virulentligi pasayib ketadi
+- epidemiologik tashxis qo'yish talab etilmay qoladi
+- inkubatsion davr qisqarib, o'choq tezroq so'nadi
+! Tor belgilash infeksiya yanada tarqalishiga olib kelsa, juda keng belgilash kuch va vositalarning behuda ketishiga sabab bo'ladi.
+@ Mavzu materiali (006.docx)
+#U 006 / 2: Epidemik jarayon jadalligi darajalarining ta'rifi faqat mavzu materialiga tayangan.
+#U 006 / 8: Epidemiologik tashxis va klinik tashxis farqi hamda uchta savol faqat mavzu materialiga tayangan.
+#U 006 / 9: Uchta savol bo'yicha talqin faqat mavzu materialiga tayangan.
+#U 006 / 10: Retrospektiv va operativ turlarga bo'linish talqini faqat mavzu materialiga tayangan.

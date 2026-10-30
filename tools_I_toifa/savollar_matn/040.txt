@@ -1,0 +1,97 @@
+=== 040
+? Boshqariladigan (vaksina bilan oldini olinadigan) yuqumli kasalliklar deb qanday kasalliklarga aytiladi?
++ Maxsus profilaktika (emlash) yordamida tarqalishini nazorat qilish yoki yo'q qilish mumkin bo'lgan kasalliklarga
+- Antibiotik bilan davolash orqali bemor aniqlangan o'choqda butunlay to'xtatiladigan kasalliklarga
+- Qo'zg'atuvchisi hayvonlardan odamga yuqadigan va emlash talab etilmaydigan kasalliklarga, masalan, o'tkir ichak infeksiyalariga
+- Sanitariya va dezinfeksiya tadbirlari yordamida tashqi muhitdan to'liq yo'qotiladigan kasalliklarga
+- Hayvonlar orasida emlash o'tkazilgandagina odamlarda nazorat qilinadigan kasalliklarga
+! Bunday kasalliklar uchun samarali va xavfsiz vaksina mavjud bo'lib, immunprofilaktika asosiy vosita hisoblanadi.
+@ WHO. Expanded Programme on Immunization (EPI); SanQvaM № 0239-07/3
+? Qizamiq va qizilcha bo'yicha nazoratning qaysi darajasi maqsad qilib qo'yilgan?
++ Ma'lum hududda uzatilishini to'xtatish (eliminatsiya)
+- Butun dunyoda qo'zg'atuvchini butunlay yo'q qilish (global eradikatsiya)
+- Kasallanishni faqat xavf guruhlarida kamaytirish
+- Faqat og'ir shakllarning oldini olish, kasallanish esa saqlanib qoladi
+- Aholining faqat bolalar guruhida qo'zg'atuvchini yo'q qilish
+! Global eradikatsiya maqsadi poliomielit uchun qo'yilgan, gepatit B va gemofil infeksiya uchun esa kasallanishni keskin kamaytirish ko'zda tutilgan.
+@ Mavzu materiali (040.docx); WHO. Expanded Programme on Immunization (EPI)
+? Kalendar bo'yicha hayotning 1-sutkasida qaysi emlash o'tkaziladi?
++ VGB-1
+- BSJ-1
+- OPV-1
+- QPQ-1
+- PNEVMO-1
+! BSJ-1 esa 2–5-kunlarda beriladi.
+@ SanQvaM № 0239-07/3
+? 2 oylikda kalendar bo'yicha qaysi emlashlar o'tkaziladi?
++ OPV-1, Roto-1, penta-1 va PNEVMO-1
+- OPV-2, Roto-2, penta-2 va PNEVMO-2
+- OPV-3, penta-3 va IPV
+- QPQ-1, PNEVMO-3 va gripp vaksinasi
+- BSJ-1 va VGB-1
+! 3 oylikda ikkinchi dozalar, 4 oylikda esa OPV-3, penta-3 va IPV beriladi.
+@ SanQvaM № 0239-07/3
+? Kalendar bo'yicha 4 oylikda qaysi emlashlar o'tkaziladi?
++ OPV-3, penta-3 va IPV
+- OPV-1, penta-1 va PNEVMO-1
+- OPV-2, Roto-2 va PNEVMO-2
+- OPV-4 va AKDS-4
+- OPV-5 va ADS-M-5
+! Uchinchi doza va inaktivlangan polio vaksinasi shu yoshda beriladi.
+@ SanQvaM № 0239-07/3
+? QPQ-1 vaksinasi bilan birga qaysi vaksina 12 oylikda beriladi?
++ PNEVMO-3
+- Roto-3
+- BSJ-2 (qayta)
+- VGB-5
+- AKDS-4
+! QPQ-2 esa 6 yoshda beriladi.
+@ SanQvaM № 0239-07/3
+? 16 oylikda kalendar bo'yicha qaysi vaksinalar beriladi?
++ OPV-4 va AKDS-4
+- OPV-5 va ADS-M-5
+- QPQ-1 va PNEVMO-3
+- penta-3 va IPV
+- QPQ-2 va ADS-M-6
+! OPV-5 va ADS-M-5 esa 1-sinfda (7 yoshda) beriladi.
+@ SanQvaM № 0239-07/3
+? 1-sinfda (7 yoshda) kalendar bo'yicha qaysi vaksinalar beriladi?
++ OPV-5 va ADS-M-5
+- OPV-4 va AKDS-4
+- QPQ-2 va BSJ-2
+- ADS-M-6 va VGB-5
+- penta-1 va PNEVMO-1
+! ADS-M-6 esa 16 yoshda beriladi.
+@ SanQvaM № 0239-07/3
+? Pentavalent (penta) vaksina qaysi infeksiyalarga qarshi qaratilgan?
++ Difteriya, ko'kyo'tal, qoqshol, virusli gepatit B va XIB infeksiyasi
+- Difteriya, qizamiq, parotit, qizilcha va poliomielit
+- Difteriya, qoqshol, sil, rotavirus va pnevmokokk infeksiyasi
+- Ko'kyo'tal, qoqshol, poliomielit, gepatit A va meningokokk infeksiyasi
+- Difteriya, qoqshol, gepatit A, gemofil infeksiya va rotavirus infeksiyasi
+! Bu qisqartma bir shpritsda beriladigan beshta komponentni bildiradi.
+@ SanQvaM № 0239-07/3
+? ADS-M qisqartmasi qaysi infeksiyalarga qarshi vaksinani bildiradi?
++ Difteriya va qoqsholga qarshi
+- Difteriya, ko'kyo'tal va qoqsholga qarshi
+- Qizamiq, parotit va qizilchaga qarshi
+- Virusli gepatit B va silga qarshi
+- Difteriya, qoqshol va poliomielitga qarshi
+! Ko'kyo'tal komponenti AKDS tarkibida bor, ADS-M tarkibida esa yo'q.
+@ SanQvaM № 0239-07/3
+? Immunoprofilaktika maqsadlariga erishish uchun bolalar va o'smirlarni emlash kalendariga muvofiq kamida qancha foiz qamrab olish kerak?
++ Kamida 95 foiz
+- Kamida 75 foiz
+- Kamida 85 foiz
+- Kamida 99 foiz
+- Kamida 90 foiz
+! Yuqori qamrov jamoaviy immunitetni ta'minlab, kasalliklar tarqalishini to'xtatadi.
+@ SanQvaM № 0239-07/3
+? Tug'ruqxonada chaqaloqqa berilib, o'tkazilgan va navbatdagi emlashlar ko'rsatiladigan hujjat qanday ataladi?
++ Emlash pasporti
+- Bolaning rivojlanish tarixi
+- Tug'ruqxonadan chiqish kuzatuv varaqasi
+- Dispanser kuzatuv kartasi
+- Tibbiy ko'rik daftarchasi
+! Hujjat emlash ishini hisobga olish va nazorat qilish uchun xizmat qiladi.
+@ SanQvaM № 0239-07/3

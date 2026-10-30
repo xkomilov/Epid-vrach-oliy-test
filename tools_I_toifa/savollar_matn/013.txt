@@ -1,0 +1,97 @@
+=== 013
+? Epidemiologik tashxis nimani "tashxislaydi"?
++ Butun populyatsiya darajasidagi epidemik vaziyatni
+- Alohida bemorning kasalligini, uning klinik shaklini va og'irligini
+- Faqat qo'zg'atuvchining turini
+- Davolash muassasasining ish sifatini
+- Bemorning immun holatini
+! Klinik tashxis alohida bemorni aniqlasa, epidemiologik tashxis aholi darajasidagi holatni baholaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tashxis qaysi uch savolga javob beradi?
++ Vaziyat qanday, nima uchun shunday va qanday rivojlanadi
+- Kim kasal, qaysi dori beriladi va qancha davolanadi
+- Qaysi vaksina kerak, qachon yetkaziladi va kim to'laydi
+- Qayerda kasal, qachon ro'yxatga olingan va kim xabar bergan
+- Qaysi laboratoriya tekshiradi, qancha vaqt oladi va kim nazorat qiladi
+! Tashxis vaziyat holati, sabablari va bashoratini birlashtiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tashxis oddiy statistik hisobotdan nimasi bilan farq qiladi?
++ Raqamlarni izohlaydi, sabablarini tushuntiradi va amaliy xulosaga olib keladi
+- Mutlaq raqamlarni jadvalga jamlaydi va hisobot shaklida beradi, izohlamasdan
+- Bemor ismlarining to'liq ro'yxatini beradi va ularni tasniflaydi
+- Tadbirlar o'tkazilmasligi mumkinligini asoslaydi va tavsiya qiladi
+- Qo'zg'atuvchi nomini ko'rsatadi va yuqish yo'lini aniqlamaydi
+! Hisobot raqamlarni keltirsa, tashxis ularni tahlil qilib, sababiy bog'lanishlarni ochadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tashxisda "faol ta'sir qiluvchi omil" nimani anglatadi?
++ Aynan shu vaziyatda kasallikni tarqatayotgan asosiy omilni
+- Kasallikning eng ko'p uchraydigan klinik belgisini
+- Har qanday ehtimoliy xavf omillarining umumiy yig'indisini
+- Aholining emlanganlik darajasini ko'rsatuvchi omilni
+- Kasallik og'irligini belgilovchi genetik omilni
+! Unga ta'sir qilish epidemiyani to'xtatadi, shuning uchun uni aniqlash tashxisning eng qiyin bosqichi hisoblanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv epidemiologik tashxis qanday ma'lumotlarga asoslanadi?
++ O'tgan davr ma'lumotlariga, uzoq muddatli dasturlar uchun
+- Real vaqt rejimidagi joriy kuzatuvga, tezkor qarorlar uchun
+- Bemorning klinik laboratoriya natijalariga, davolash uchun
+- Faqat o'choqdagi so'rovnoma natijalariga, muloqotdagilar uchun
+- Aholining demografik ro'yxatiga, soliq rejalashtirish uchun
+! U kasallanishning barqaror sabablari va qonuniyatlarini aniqlaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ (joriy) epidemiologik tashxis nimaga xizmat qiladi?
++ Tezkor epidemiyaga qarshi qarorlarga
+- Ko'p yillik profilaktik dasturlarni ishlab chiqishga
+- Faqat klinik tashxisni tasdiqlashga
+- Statistik hisobotni yil oxirida topshirishga
+- Davolash standartlarini ishlab chiqishga
+! Operativ tashxis real vaqtda joriy vaziyatni baholash asosida qo'yiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tashxisning ahamiyatlaridan biri quyidagilardan qaysi?
++ Tadbirlarni yetakchi yuqish yo'li yoki asosiy xavf omiliga yo'naltirib, resurslarni tejaydi
+- Barcha aholini bir xil tadbirlar bilan qamrab olishni va yagona yondashuvni ta'minlaydi
+- Bemorlarni davolash muddatini qisqartirishni va asoratlarni kamaytirishni kafolatlaydi
+- Laboratoriya tekshiruvlariga ehtiyojni butunlay yo'qotadi va xarajatlarni kamaytiradi
+- Epidemiologik nazoratni qonun bilan almashtirishga imkon beradi
+! To'g'ri tashxis chora-tadbirlarni eng samarali nuqtaga qaratadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? O'choqda manba yoki yuqish yo'li noto'g'ri aniqlansa, nima yuz beradi?
++ Ko'rilgan choralar samarasiz bo'ladi va kasallik tarqalishda davom etadi
+- Choralar baribir samarali bo'ladi, chunki dezinfeksiya universal ta'sirga ega
+- Faqat hisobot shakli o'zgaradi, epidemik vaziyatga hech qanday ta'sir qilmaydi
+- Kasallik o'z-o'zidan to'xtaydi va qo'shimcha tekshiruv talab qilinmaydi
+- Muloqotdagilar avtomatik ravishda immunitet hosil qiladi
+! Chora-tadbirlar noto'g'ri nuqtaga yo'naltirilib, vaqt va resurs behuda sarflanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, epidemiologik tahlil qaysi uch bosqichda olib boriladi?
++ Ma'lumotlar yig'ish, tasvirlash va analitik tahlil
+- Tashxis qo'yish, davolash va reabilitatsiya
+- Rejalashtirish, moliyalashtirish va hisobot berish
+- Kuzatish, emlash va bashorat qilish
+- Namuna olish, ekish va natijani o'qish
+! Xavf omillari haqidagi tashxisni asoslash shu tahlil natijasidir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tahlilning qaysi bosqichida yo'l qo'yilgan xatolarni amalda bartaraf etib bo'lmaydi?
++ Ma'lumotlar yig'ish bosqichida
+- Tasvirlash bosqichida
+- Analitik tahlil bosqichida
+- Xulosa va bashorat bosqichida
+- Hisobotni rasmiylashtirish bosqichida
+! Dastlabki ma'lumotlar noto'g'ri bo'lsa, keyingi tahlil ularni tuzata olmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? "Xavf omili" atamasi nimani ifodalaydi?
++ Sababning mutlaq kuchini emas, ta'sir etish ehtimolini
+- Kasallikning albatta rivojlanishini kafolatlovchi sababni
+- Qo'zg'atuvchining virulentlik darajasini
+- Kasallik og'irligining klinik darajasini
+- Bemorning yuqumlilik muddatini
+! Sifatsiz suv ichgan har bir kishi kasallanavermaydi, ammo kasallanish ehtimoli ortadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi tekshiruv tavsifiy tahlildan gipoteza hosil qilish, uni sinash va chora ko'rishgacha izchillikni ko'rsatadi?
++ Snouning nuqtali xarita va suv kompaniyalarini taqqoslash tekshiruvi
+- Paster tomonidan quturishga qarshi vaksina yaratilishi va sinovdan o'tkazilishi
+- Jenner tomonidan chechakka qarshi emlash tajribasi
+- Kox tomonidan sil qo'zg'atuvchisining ajratilishi
+- Fleming tomonidan penitsillinning kashf etilishi
+! Snou xaritadan taqqoslashga, so'ng suv olish joyini o'zgartirishga o'tgan.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2

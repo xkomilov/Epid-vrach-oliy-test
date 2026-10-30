@@ -1,0 +1,102 @@
+=== 130
+? OIVning onadan bolaga yuqishi bola qaysi davrlarda zararlanishi mumkinligi bilan tavsiflanadi?
++ Homiladorlik, tug'ruq va ko'krak suti bilan emizish davrida
+- Faqat tug'ruq vaqtida, qin kanalidan o'tish paytida
+- Homiladorlikning birinchi trimestrida, ona kasalligi avj olgan paytda
+- Tug'ruqdan keyingi birinchi yilda, maishiy kontakt tufayli
+- Chaqaloqqa emlash paytida, shprits orqali, ona bilan aloqa orqali
+! Virus platsenta orqali, tug'ruq paytida ona qoni va sekretlari bilan hamda ko'krak suti orqali bolaga o'tishi mumkin.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i; Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish
+? Profilaktik choralar bo'lmaganda emizish davrida onadan bolaga OIV yuqish xavfi taxminan qancha?
++ Taxminan 10 %
+- Taxminan 1 %
+- Taxminan 25 %
+- Taxminan 50 %
+- Taxminan 75 %
+! Umumiy xavf taxminan 30 % bo'lib, uning ~15 % i homiladorlikda, ~5 % i tug'ruqda, ~10 % i emizishda yuz beradi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish
+? Suvsizlik davrining qaysi muddatdan uzayishi vertikal yuqish xavf omili hisoblanadi?
++ 4 soatdan ortiq
+- 30 daqiqadan ortiq
+- 1 soatdan ortiq
+- 12 soatdan ortiq
+- 48 soatdan ortiq
+! Pardalar yorilgandan keyingi uzoq vaqt bolaning ona sekretlari bilan kontaktini oshiradi.
+@ Mavzu materiali (130.docx)
+? Davolanmagan ona sil bilan kasallangan bo'lsa, OIVning vertikal yuqish xavfi qanday o'zgaradi?
++ 2,5 baravar ortadi
+- 2,5 baravar kamayadi
+- O'zgarmaydi
+- 10 baravar kamayadi
+- 25 baravar ortadi
+! Sil bilan koinfeksiya immun tizim holatini yomonlashtiradi va virus yuklamasini oshiradi.
+@ Mavzu materiali (130.docx)
+? Milliy klinik protokolga ko'ra OIV bilan yashovchi homilador va emizikli ayollarda RQT (ART) qachon boshlanadi?
++ Klinik bosqich va CD4 sonidan qat'i nazar va umr bo'yi davom ettiriladi
+- CD4 soni 200 dan kam bo'lganda, tug'ruqdan keyin, bola tug'ilgach ham
+- Tug'ruq boshlanganda, bir martalik dozada, keyingi doza berilmaydi
+- JSSTning 3–4 klinik bosqichi bo'lganda, tug'ruqdan keyin to'xtatiladi
+- CD4 soni 350 dan kam bo'lsa, emizish davrida va bola 6 oyga to'lguncha
+! Erta va doimiy terapiya virus yuklamasini bostirib, bolaga yuqish xavfini keskin kamaytiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Tug'ruqda OIV holati aniqlanmagan ayolga qaysi tekshiruv o'tkaziladi?
++ Tug'ruq bo'limida ekspress-test
+- Faqat IFA, natijasi bir hafta kutiladi
+- Immunoblot, tug'ruqdan keyin 6 oy o'tgach
+- Tekshiruv o'tkazilmaydi, chunki majburiy emas
+- Bolaning kindik qonida CD4 aniqlanadi
+! Vaqt cheklangan holatda tezkor natija chaqaloqqa tez OBYuP o'tkazish imkonini beradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Rejali kesarcha kesish pardalar yorilishidan oldin o'tkazilganda xavf qancha marta kamayadi?
++ 2 baravar
+- 10 baravar
+- 20 baravar
+- 50 baravar
+- 100 baravar
+! Bola ona sekretlari bilan kontaktda bo'lmaganida yuqish ehtimoli pasayadi; AZT bilan birga samara yanada yuqori bo'ladi.
+@ Mavzu materiali (130.docx)
+? OIV yuqqan onadan tug'ilgan chaqaloqqa ARV-profilaktika hayotning dastlabki qancha vaqti davomida beriladi?
++ 4 hafta
+- 3 kun, bir martalik dozada
+- 7 kundan 10 kungacha
+- 3 oy, uzluksiz kursda
+- 12 oy, ona suti to'xtaguncha
+! Chaqaloq ARV profilaktikasi hayotning birinchi oyida o'tkaziladi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish
+? OIV yuqqan onadan tug'ilgan bolada kotrimoksazol profilaktikasi qaysi muddatda o'tkaziladi?
++ 5 haftalikdan 12 haftagacha
+- Tug'ilgan kundan boshlab 1 haftagacha, ARV bilan birga
+- 6 oyligidan 3 yoshgacha
+- 1 yoshdan 5 yoshgacha
+- Faqat 18 oyligida bir marta
+! Kotrimoksazol pnevmotsistali zotiljam kabi ikkilamchi infeksiyalarning oldini oladi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish; O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Protokolga ko'ra OIV bilan yashovchi onaning chaqaloqni oziqlantirish usuli haqida nima deyilgan?
++ Sut o'rniga mos aralashma bilan sun'iy oziqlantirish tavsiya etiladi, aralash oziqlantirish tavsiya etilmaydi
+- Ona suti va aralashma bilan aralash oziqlantirish eng xavfsiz va tavsiya etiladigan usul hisoblanadi
+- Bola 2 yoshgacha ona suti bilan emizilishi shart va boshqa usul tavsiya etilmaydi, ona terapiyasidan qat'i nazar
+- Ona suti bilan 12 oygacha emizish, ona va chaqaloqqa ART berilmaydi, chunki kerak emas
+- Emizish tartibi kasalxona rahbari yoki hamshira xohishiga ko'ra belgilanadi, protokolda yo'q
+! Aralash oziqlantirish ichak shilliq qavatini shikastlab, yuqish xavfini oshirishi mumkin; zarurat bo'lsa 5 oygacha faqat ona suti beriladi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish; O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Onasi OIV bilan yashagan bolada PCR qaysi haftalikda va IFA qachon o'tkaziladi?
++ PCR 6–8 va 12 haftalikda, IFA 18 oyligida
+- PCR 1 va 2 oyligida, IFA 3 oyligida
+- PCR 6 va 12 oyligida, IFA 5 yoshida
+- PCR faqat tug'ilganda bir marta, IFA 6 oyligida
+- PCR 24 va 36 haftalikda, IFA 12 oyligida
+! Dastlabki PCR yuqishni aniqlaydi, 18 oydagi IFA onadan o'tgan antitelalar yo'qolganini tasdiqlaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Hududiy OITS markazi akusher-ginekologi OBYuP hisobotini qanday muddatda topshiradi?
++ Har oy yuritadi va keyingi oyning 3-sanasigacha Respublika markaziga topshiradi
+- Har kuni yuritadi va ertasi kuni ertalab hududiy shifoxonaga topshiradi
+- Har chorakda yuritadi va chorak tugagach 30 kun ichida Vazirlikka topshiradi
+- Yiliga bir marta yuritadi va yanvar oyining oxirigacha yakuniy hisobot sifatida topshiradi
+- Har hafta yuritadi va yakshanba kuni kechgacha hududiy markazga topshiradi
+! Oylik hisobot tezkor monitoring va yuqish holatlarini o'z vaqtida tahlil qilish imkonini beradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+#D 130 / 2: darslikda bolalarning 80–90 % i transplatsentar yo'l bilan zararlangani keltirilgan, taqdimotda esa homiladorlikda ~15 %, tug'ruqda ~5 %, emizishda ~10 % ko'rsatilgan; savol taqdimotga tayanadi.
+#U 130 / 2: yuqish xavfining davrlar bo'yicha taqsimoti taqdimotga tayanadi, rasmiy manba bilan tasdiqlanmagan.
+#U 130 / 3: suvsizlik davri 4 soatdan ortiq chegarasi mavzu materialiga tayanadi, tashqi manba bilan tasdiqlanmagan.
+#U 130 / 7: kesarcha kesish samarasi (2 baravar) taqdimotga tayanadi, tashqi manba bilan tasdiqlanmagan.
+#U 130 / 4: sil koinfeksiyasida xavf 2,5 baravar ortishi mavzu materialiga tayanadi, tashqi manba bilan tasdiqlanmagan.

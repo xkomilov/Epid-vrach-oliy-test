@@ -1,0 +1,100 @@
+=== 028
+? JSST ma'lumotiga ko'ra, tibbiy faoliyat chiqindilarining taxminan qancha qismi oddiy, xavfsiz, maishiy chiqindiga o'xshash?
++ Taxminan 85 foizi
+- Taxminan 15 foizi
+- Taxminan 50 foizi
+- Taxminan 99 foizi
+- Taxminan 30 foizi
+! JSST baholashiga ko'ra chiqindilarning katta qismi xavfsiz, qolgan qismi esa yuqumli, zaharli yoki radioaktiv bo'lishi mumkin.
+@ WHO. Health-care waste (fact sheet)
+? SanQvaM № 0317-15 ga ko'ra, DPM chiqindilari nechta sinfga bo'linadi?
++ Besh sinfga (A, B, V, G, D)
+- Ikki sinfga (xavfsiz va xavfli)
+- Uch sinfga (oddiy, yuqumli va radioaktiv)
+- Yetti sinfga (A dan Ye gacha va qo'shimcha maxsus)
+- Oltita sinfga (rang bo'yicha, qizil, sariq, ko'k, yashil, oq va qora)
+! Qoida epidemiologik, toksikologik va radiatsion xavfliligiga qarab A, B, V, G va D sinflarini ajratadi.
+@ SanQvaM № 0317-15: DPMda chiqindilarni yig'ish, saqlash va utilizatsiya qilish sanitariya qoidalari
+? Biologik suyuqliklar bilan ifloslangan material va asboblar, patologoanatomik va jarrohlik chiqindilari qaysi sinfga kiradi?
++ B sinf — xavfli chiqindilar
+- A sinf — xavfsiz chiqindilar
+- V sinf — o'ta xavfli chiqindilar
+- G sinf — sanoat chiqindilariga yaqin kimyoviy chiqindilar
+- D sinf — radioaktiv chiqindilar
+! Qon va biologik suyuqlik bilan aloqada bo'lgan, yuqumli kasalliklar bo'limlaridan chiqqan material B sinfga tegishli.
+@ SanQvaM № 0317-15
+? O'ta xavfli yuqumli kasallik bilan og'rigan bemor bilan aloqada bo'lgan materiallar qaysi sinfga kiradi?
++ V sinf — o'ta xavfli chiqindilar
+- A sinf — xavfsiz chiqindilar
+- B sinf — xavfli chiqindilar
+- G sinf — sanoat chiqindilariga yaqin kimyoviy chiqindilar
+- D sinf — radioaktiv chiqindilar
+! 1–2-guruh mikroorganizmlar bilan ishlovchi laboratoriyalar va o'ta xavfli infeksiya bemorlari chiqindilari V sinfga kiradi.
+@ SanQvaM № 0317-15
+? Muddati o'tgan dori va dezinfeksiya vositalari, sitostatiklar hamda simob saqlovchi buyumlar qaysi sinfga kiradi?
++ G sinf — sanoat chiqindilariga yaqin chiqindilar
+- A sinf — xavfsiz, maishiy chiqindiga o'xshash chiqindilar
+- B sinf — xavfli yuqumli chiqindilar
+- V sinf — o'ta xavfli chiqindilar
+- D sinf — radioaktiv chiqindilar
+! Kimyoviy va dori tarkibli toksik moddalar G sinfga ajratiladi.
+@ SanQvaM № 0317-15
+? Tibbiy chiqindilar bilan ishlashning birinchi va asosiy tamoyili qaysi?
++ Ularni hosil bo'lgan joyda, sinflari bo'yicha alohida ajratib yig'ish
+- Chiqindilarning hammasini bitta umumiy idishda yig'ib, omborxonada saralash
+- Chiqindilarni to'planishini kutib, haftada bir marta saralash
+- Faqat xavfli chiqindilarni yig'ib, qolganini yig'masdan tashlab yuborish
+- Chiqindilarni shaxsiy xonalarda saqlab, kerak bo'lganda olib chiqish
+! Joyida ajratish xavfsiz va xavfli chiqindilar aralashib ketishining oldini oladi.
+@ SanQvaM № 0317-15; WHO. Safe management of wastes from health-care activities (2014)
+? Igna va skalpel tig'lari kabi o'tkir anjomlar qayerga tashlanadi?
++ Teshib o'tmaydigan qattiq konteynerlarga (xavfsizlik qutilariga)
+- Oddiy polietilen paketlarga, boshqa chiqindilar bilan birga
+- Yumshoq qog'oz xaltalarga, yopilmasdan
+- Umumiy axlat qutisiga, bo'sh holda
+- Lavabo yoki kanalizatsiyaga, suv bilan oqizib
+! Qattiq teshilmaydigan idish ignadan sanchilish va qon orqali yuqadigan infeksiyalar xavfini kamaytiradi.
+@ WHO. Safe management of wastes from health-care activities (2014)
+? Ignani ishlatilgandan keyin qalpoqchaga qayta kiydirish haqida qanday qoida bor?
++ Bu taqiqlanadi
+- Jarrohlar uchungina ruxsat etiladi
+- Har doim majburiy hisoblanadi
+- Bolalar bo'limidagina ruxsat etiladi
+- Faqat soat 18:00 dan keyin ruxsat etiladi
+! Ignani qaytadan qalpoqchaga kiydirish tasodifiy sanchilish xavfini oshiradi.
+@ WHO. Safe management of wastes from health-care activities (2014)
+? Nega avtoklavlash yoqishga nisbatan ekologik jihatdan afzalroq hisoblanadi?
++ U zaharli tutun chiqarmaydi va past haroratli, ekologik toza texnologiya hisoblanadi
+- U atrof-muhitga ko'proq zaharli gazlar chiqaradi, lekin tezroq ishlaydi va hech qanday filtr talab qilmaydi
+- U faqat radioaktiv chiqindilarga qo'llanadi va boshqa turlarga yaramaydi
+- U chiqindi hajmini nolga tushiradi va hech qanday qoldiq qoldirmaydi
+- U qimmat bo'lgani uchun faqat yirik shaharlarda ishlatilishi mumkin
+! Bug' bilan zararsizlantirishda yonish mahsulotlari hosil bo'lmaydi, yoqish esa filtrlanmasa zararli moddalar chiqaradi.
+@ WHO. Safe management of wastes from health-care activities (2014)
+? Bir marta ishlatiladigan shpritslar nima uchun dezinfeksiyadan so'ng mexanik buziladi?
++ Qayta ishlatilishining oldini olish uchun
+- Ularning rangini o'zgartirib, chiroyli ko'rinishga keltirish uchun
+- Hajmini oshirib, ko'proq joy egallashini ta'minlash uchun
+- Ichidagi dori qoldig'ini saqlab, keyingi bemorga berish uchun
+- Qo'shimcha daromad olish maqsadida bozorda sotish uchun
+! Buzilgan shpritsni qayta ishlatib bo'lmaydi, bu esa qon orqali yuqadigan infeksiyalar epidemiyasi xavfini kamaytiradi.
+@ WHO. Safe management of wastes from health-care activities (2014)
+? PSR laboratoriyalarida ishlatilgan material uslubiy ko'rsatmaga ko'ra qanday rejimda avtoklavlanadi?
++ 132 ± 2 °C haroratda, 2,0 kgs/sm² bosimda 60 daqiqa
+- 100 °C haroratda, atmosfera bosimida 5 daqiqa
+- 80 °C haroratda, 0,5 kgs/sm² bosimda 10 daqiqa
+- 60 °C haroratda, 3,0 kgs/sm² bosimda 120 daqiqa
+- 180 °C haroratda, 1,0 kgs/sm² bosimda 30 daqiqa
+! Yuqori harorat, bosim va yetarli ekspozitsiya laboratoriya materialini to'liq inaktivlash uchun zarur.
+@ PSR laboratoriyalari: ishlatilgan sinov materiallari va chiqindilarni zararsizlantirish tartibi (MU 1.3.2569-09 asosida)
+? Milliy yo'riqnomada tibbiy chiqindilarning xavfsiz va xavfli qismi nisbati qanday berilgan?
++ Taxminan 80 foiz maishiy turkumdagi oddiy chiqindi, 20 foiz zararli, zaharli yoki radioaktiv
+- Taxminan 20 foiz oddiy chiqindi, 80 foiz zararli, zaharli yoki radioaktiv
+- Taxminan 50 foiz oddiy chiqindi, 50 foiz zararli, zaharli yoki radioaktiv chiqindi, ikki qismi teng
+- Taxminan 99 foiz oddiy chiqindi, 1 foiz zararli, zaharli yoki radioaktiv
+- Taxminan 5 foiz oddiy chiqindi, 95 foiz faqat radioaktiv
+! Yo'riqnoma xavfsiz chiqindilar ulushini 80 foiz atrofida baholaydi, bu JSST ning 85 foizlik bahosidan biroz farq qiladi.
+@ Tibbiy chiqindilarni utilizatsiya qilish tartibi bo'yicha yo'riqnoma (Bosh davlat sanitariya vrachi, 2023)
+#D 028 / 12: milliy yo'riqnoma 80/20 nisbatni, JSST esa 85/15 nisbatni beradi; mavzu materiali ularni bevosita solishtirmagan.
+#U 028 / 11: PSR chiqindisini avtoklavlash rejimi faqat mavzu materialidagi ko'rsatma nusxasiga tayangan (tasdiqlovchi organ ko'rsatilmagan).
+#U 028 / 12: milliy yo'riqnoma nusxasi skanerlangan (OCR xatolari), aniq sana va raqami o'qilmaydi.

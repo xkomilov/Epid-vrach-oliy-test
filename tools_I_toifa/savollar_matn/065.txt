@@ -1,0 +1,99 @@
+=== 065
+? Xitoy hukumati Uxandagi noma'lum etiologiyali pnevmoniya tarqalgani haqida JSSTga qachon xabar bergan?
++ 2019 yil 31 dekabrda
+- 2020 yil 30 yanvarda
+- 2020 yil 11 fevralda
+- 2019 yil 1 martda
+- 2020 yil 11 martda
+! Xabar yil oxirida berilgan, xalqaro favqulodda holat esa bir oydan keyin e'lon qilingan.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? JSST vaziyatni xalqaro ahamiyatga molik favqulodda sanitariya holati deb qachon e'lon qilgan?
++ 2020 yil 30 yanvarda
+- 2019 yil 31 dekabrda
+- 2020 yil 11 fevralda
+- 2020 yil 22 yanvarda
+- 2020 yil 23 martda
+! Favqulodda vaziyatlar qo'mitasi yig'ilishidan keyin shu sanada maqom e'lon qilingan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? JSST Bosh direktori COVID-19 bo'yicha xalqaro favqulodda holat maqomini qachon bekor qilgan?
++ 2023 yil may oyida
+- 2020 yil iyun oyida
+- 2021 yil dekabrda
+- 2022 yil yanvarda
+- 2024 yil oxirida
+! Favqulodda choralardan uzoq muddatli integratsiyalashgan boshqaruvga o'tish shu davrda amalga oshirilgan.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? 2020 yil 22 yanvarda Xitoyda qaysi shahar karantinga yopilgan?
++ Uxan
+- Pekin
+- Shanxay
+- Guanchjou
+- Gonkong
+! Kasallik Xubey viloyati markazi Uxanda aniqlangan va birinchi bo'lib shu shahar yopilgan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? Xitoydan tashqarida birinchi COVID-19 holati qaysi shaharda qayd etilgan?
++ Bangkokda (Tailand)
+- Seulda (Janubiy Koreya)
+- Tokioda (Yaponiya)
+- Rimda (Italiya)
+- Nyu-Yorkda (AQSh)
+! Birinchi tashqi holat 2020 yil 13 yanvarda Tailand poytaxtida topilgan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? O'zbekistonda koronavirus kirib kelishining oldini olish bo'yicha respublika maxsus komissiyasi qaysi hujjat bilan va kim rahbarligida tashkil etilgan?
++ Prezidentning 2020 yil 29 yanvardagi F-5537-son farmoyishi bilan, Bosh vazir boshchiligida
+- Vazirlar Mahkamasining 2020 yil 23 martdagi 176-son qarori bilan, Sog'liqni saqlash vaziri boshchiligida
+- Sog'liqni saqlash vazirining 2021 yil 17 avgustdagi 204-son buyrug'i bilan, Bosh sanitariya vrachi boshchiligida
+- Prezidentning 2021 yil 18 fevraldagi farmoni bilan, Senat raisi boshchiligida
+- Sog'liqni saqlash vazirining 2020 yil 5 avgustdagi 201-son buyrug'i bilan, viloyat hokimi boshchiligida
+! Komissiya yanvar oyidagi farmoyish bilan tuzilgan va unga turli idoralar rahbarlari kiritilgan.
+@ O'zR Prezidentining 2020-yil 29-yanvardagi F-5537-son farmoyishi
+? Vazirlar Mahkamasining 2020 yil 23 martdagi 176-son qaroriga ko'ra O'zbekistonga kirayotgan shaxslar qancha muddat karantinga olinadi?
++ 14 kun
+- 3 kun
+- 7 kun
+- 21 kun
+- 30 kun
+! Muddat inkubatsion davrning yuqori chegarasiga mos keladi.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? O'zbekistonda 18 va undan katta yoshdagilarni birlamchi tibbiy-sanitariya muassasalarida emlash tartibi qaysi hujjat bilan tasdiqlangan?
++ Sog'liqni saqlash vazirining 2021 yil 17 avgustdagi 204-son buyrug'i
+- Vazirlar Mahkamasining 2020 yil 23 martdagi 176-son qarori
+- Prezidentning 2020 yil 29 yanvardagi F-5537-son farmoyishi
+- Sog'liqni saqlash vazirining 2020 yil 27 iyuldagi 192-son buyrug'i
+- Sog'liqni saqlash vazirining 2020 yil 5 avgustdagi 201-son buyrug'i
+! Ommaviy emlashning tartibi 2021 yil avgustdagi vazirlik buyrug'i bilan belgilangan.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? JSST tomonidan boshlangan va vaksinalarni adolatli taqsimlashga qaratilgan COVAX tashabbusi qaysi dasturning vaksina komponenti hisoblanadi?
++ ACT-Accelerator dasturining
+- GAVI Alliance emlash kalendari dasturining
+- Kengaytirilgan emlash dasturining (KED)
+- Global gripp nazorati tarmog'ining
+- Poliomielitni yo'qotish global tashabbusining
+! COVAX ACT-Accelerator doirasida vaksinalarga teng kirishni ta'minlash uchun yaratilgan.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? MERS-CoV haqida qaysi ma'lumot to'g'ri?
++ 2012 yil kuzida Saudiya Arabistonida aniqlangan, 2015 yil 1 iyunga 23 mamlakatda 1154 holat qayd etilgan
+- 2002 yil noyabrda Xitoyda aniqlangan, 2003 yil boshiga qadar 8437 holat va 813 o'lim qayd etilgan
+- 2004 yilda Niderlandiyada aniqlangan, endemik yengil respirator kasallik keltirgan, oraliq hayvon sivetalar
+- 2019 yil dekabrda Uxanda aniqlangan, 780 million holat qayd etilgan va pandemiyaga aylangan
+- 1967 yilda AQShda aniqlangan, 431 million holat qayd etilgan va oraliq hayvoni tuyalar
+! MERS Yaqin Sharqda 2012 yilda paydo bo'lgan va bir o'rkachli tuyalar bilan bog'liq.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? HCoV-NL63 va HCoV-HKU1 koronaviruslari qayerda va qachon aniqlangan?
++ NL63 — Niderlandiyada (2004), HKU1 — Gonkongda (2005)
+- NL63 — Gonkongda (2005), HKU1 — Niderlandiyada (2004)
+- NL63 — Saudiya Arabistonida (2012), HKU1 — Uxanda (2019)
+- NL63 — Guandunda (2002), HKU1 — Bangkokda (2020)
+- NL63 — Tailandda (1967), HKU1 — Janubiy Koreyada (2012)
+! Bu ikki endemik virus 2000-yillar o'rtasida topilgan, joylari esa chalkashtirilmasligi kerak.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? JSST ma'lumotiga ko'ra, COVID-19 da mavsumiylik haqida nima deyiladi?
++ virus yil davomida aylanadi, aniq mavsumiy naqsh yo'q
+- qish oylarida tarqaladi, yozda butunlay yo'qoladi
+- bahor oyida avj oladi, boshqa mavsumda uchramaydi
+- mavsumiylik aniq, yoz oylarida ko'tarilib, qishda pasayadi
+- kuz–qish mavsumida o'z-o'zidan yo'qolib ketadi
+! JSST ma'lumotlari ham yozda virus o'zi yo'qolib ketadi degan taxminni tasdiqlamaydi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+#U 065 / 4: Uxan 22 yanvarda karantinga yopilishi faqat ma'ruza materialiga tayangan, mustaqil manba bilan tasdiqlanmagan.
+#U 065 / 5: Tailand (Bangkok) 13 yanvar holati faqat ma'ruza materialiga tayangan.

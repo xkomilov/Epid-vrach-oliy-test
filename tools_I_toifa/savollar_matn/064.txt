@@ -1,0 +1,98 @@
+=== 064
+? Koronaviruslar genomi va qobig'i qanday tuzilgan?
++ o'rab turuvchi qobiqli, bir ipli musbat (plyus) RNK tutuvchi viruslar
+- qobiqsiz, ikki ipli DNK tutuvchi viruslar
+- o'rab turuvchi qobiqli, ikki ipli DNK tutuvchi, tashqi o'siqlarsiz viruslar
+- qobiqsiz, manfiy qutbli segmentlangan RNK tutuvchi viruslar
+- bir ipli DNK tutuvchi, kapsidi ikosaedr shaklidagi kichik viruslar
+! Koronaviruslar Coronaviridae oilasiga kiruvchi RNK-viruslar bo'lib, tashqi qobig'ida "toj"simon o'siqlar bor.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? SARS-CoV-2 qaysi avlod va kenja avlodga mansub?
++ Betacoronavirus avlodining Sarbecovirus kenja avlodiga
+- Alphacoronavirus avlodining Duvinacovirus kenja avlodiga
+- Gammacoronavirus avlodining Igacovirus kenja avlodiga
+- Deltacoronavirus avlodining Buldecovirus kenja avlodiga
+- Betacoronavirus avlodining Merbecovirus kenja avlodiga
+! SARS-CoV-2 genetik jihatdan SARS-CoV-1 ga eng yaqin va Sarbecovirus qatoriga kiradi.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? Hozirgi kunga qadar odamlarni zararlay oladigan koronaviruslarning soni nechta?
++ yettita
+- to'rtta
+- ikkita
+- o'nta
+- o'n ikkita
+! To'rtta endemik virusga SARS-CoV, MERS-CoV va SARS-CoV-2 qo'shilgan.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? SARS-CoV uchun tabiiy rezervuar va oraliq hayvon qaysilar?
++ rezervuar — ko'rshapalaklar, oraliq hayvon — sivetalar
+- rezervuar — kemiruvchilar, oraliq hayvon — bir o'rkachli tuyalar
+- rezervuar — qush turlari, oraliq hayvon — cho'chqalar
+- rezervuar — yirik shoxli qoramol, oraliq hayvon — itlar
+- rezervuar — kanalar, oraliq hayvon — echkilar va qo'ylar
+! SARS-CoV tarqalishida ko'rshapalaklar tabiiy, sivetalar esa oraliq xo'jayin bo'lgan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? MERS-CoV (YaShRS) uchun oraliq hayvon qaysi?
++ bir o'rkachli tuyalar
+- sivetalar
+- pangolinlar
+- uy parrandalari
+- yirik shoxli qoramol
+! MERS-CoV odamga asosan bir o'rkachli tuyalar orqali o'tishi aniqlangan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? SARS-CoV-2 hujayraga kirishi uchun qaysi retseptor bilan bog'lanadi?
++ anjiotenzin o'zgartiruvchi ferment 2 (AO'F2)
+- CD4 retseptori, OIVning hujayraga kirishida ishtirok etadigan molekula
+- sialik kislota retseptori, gripp virusining gemagglutinini bog'lanadigan
+- CD81 retseptori, gepatit C virusining hujayraga kirishida ishtirok etadigan
+- CD46 retseptori, qizamiq virusining hujayraga kirishida ishtirok etadigan
+! Virusning spayk oqsili AO'F2 ga bog'lanadi, bu retseptor ko'plab a'zolarda mavjud.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? SARS-CoV-2 ning to'rtta struktura oqsiliga qaysilar kiradi?
++ spayk (S), qobiq (E), membrana (M) va nukleokapsid (N)
+- gemagglutinin (H), neyraminidaza (N), matriks (M) va polimeraza (P)
+- spayk (S), integraza (I), proteaza (P) va revers-transkriptaza (R)
+- kapsid (C), qobiq (E), glikoprotein (G) va nukleoprotein (N), hammasi DNK bilan bog'langan
+- fuziya (F), hujayra (H), membrana (M) va neyraminidaza (N)
+! Genom to'rt struktura oqsilini, ya'ni S, E, M va N ni kodlaydi.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? O'tkir SARS-CoV-2 infeksiyasini tasdiqlashning standart usuli qaysi?
++ nuklein kislotalarni amplifikatsiya qilish, xususan real vaqtda RT-PZR
+- qonda IgG antitelalarini aniqlovchi tezkor test, o'tkir davrda yagona mezon sifatida
+- ko'krak qafasi rentgenografiyasi, tashxis uchun yetarli va yagona mezon hisoblanadi
+- umumiy qon tahlilida leykotsitlar va limfotsitlar sonini baholash va tahlil qilish
+- nafas yo'llaridan olingan surtmada bakteriologik ekish va antibiogramma aniqlash
+! O'tkir infeksiyada virusning o'zi, ya'ni RNK aniqlanishi standart hisoblanadi.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? JSSTning laborator tavsiyasida SARS-CoV-2 inkubatsion davri qancha deb keltirilgan?
++ o'rtacha 5–6 kun (1–14 kun)
+- 10 kun o'rtacha (2–14 kun)
+- 21 kun o'rtacha (14–28 kun)
+- ikki kun atrofida (1–3 kun)
+- 30 kun o'rtacha (20–40 kun)
+! Laborator tavsiyada qisqa o'rtacha muddat va keng oraliq ko'rsatilgan.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? Kasallik nomi COVID-19 JSST tomonidan qachon berilgan?
++ 2020 yil 11 fevralda
+- 2019 yil 31 dekabrda
+- 2020 yil 30 yanvarda
+- 2020 yil 11 martda
+- 2021 yil 1 yanvarda
+! Nom 2020 yil fevral oyida e'lon qilingan, 30 yanvar esa favqulodda holat e'lon qilingan sana.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? SARS-CoV-2 genomi taxminan qancha asos juftidan iborat?
++ 30 mingga yaqin asos jufti
+- 3 mingga yaqin asos jufti
+- 300 mingga yaqin asos jufti
+- 3 millionga yaqin asos jufti
+- 15 millionga yaqin asos jufti
+! Koronaviruslar RNK-viruslar ichida eng katta genomlardan biriga ega.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? Birinchi kashf etilgan koronavirus qaysi hayvon kasalligi qo'zg'atuvchisi bo'lgan?
++ parrandalarning infeksion bronxit virusi (1931 yil)
+- cho'chqalarning transmissiv gastroenteriti virusi (1931 yil)
+- itlarning parvovirusi (1931 yil)
+- sigirlarning oqsil virusi (1931 yil)
+- tuyalarning chechak virusi (1931 yil)
+! Birinchi koronavirus parrandalarda topilgan, odamdagisi esa keyinroq aniqlangan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+#D 064 / 9: ma'ruzada inkubatsion davr 2–14 kun (o'rtacha 10 kun), JSST laborator hujjatida o'rtacha 5–6 kun; savol JSST hujjatiga tayanadi.

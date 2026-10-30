@@ -1,0 +1,98 @@
+=== 067
+? JSST (2020) bo'yicha COVID-19 ning taxminiy holati (A) uchun epidemiologik mezon qaysi?
++ so'nggi 14 kun ichida yuqori xavfli joyda yashash yoki ishlash, jamoada yuqish bor hududda bo'lish yoki sog'liqni saqlash muassasasida ishlash
+- so'nggi 3 kun ichida chet elga chiqish va aviatransportda uchish hamda tranzit zonasida bo'lish
+- so'nggi 60 kun ichida har qanday tibbiy ko'rikdan o'tish yoki poliklinikaga murojaat qilish, shuningdek laboratoriyada bo'lish va dori qabul qilish
+- oxirgi bir yil ichida gripp bilan kasallanish, emlanmaganlik va surunkali kasalligi borligi
+- so'nggi 24 soat ichida oilaviy davra tadbirida qatnashish va ko'p odam bilan muloqotda bo'lish
+! Epidemiologik mezon yuqori xavfli muhit va jamoada yuqish bilan bog'liq ekspozitsiyani aks ettiradi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Taxminiy holat (B) — og'ir o'tkir respirator kasallik mezonlari qaysilar?
++ isitma ≥38 °C va yo'tal, 10 kun ichida boshlangan, gospitalizatsiya talab etiladi
+- isitma ≥37 °C va yo'tal, 30 kun ichida boshlangan, ambulator davo yetarli
+- faqat rinit va tomoq og'rig'i, 3 kun ichida boshlangan
+- isitma ≥40 °C va toshma, 2 kun ichida boshlangan, izolyatsiya talab etilmaydi
+- diareya va qayt qilish, 14 kun ichida boshlangan, gospitalizatsiyasiz
+! Og'ir o'tkir respirator kasallik yuqori harorat, yo'tal va yotqizish zaruriyati bilan belgilanadi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Qaysi holat JSST (2020) ta'rifiga ko'ra ehtimoliy holat shartlaridan biri hisoblanadi?
++ boshqa aniq sababsiz hid yoki ta'm yo'qolishi
+- faqat bo'yin og'rig'i, boshqa belgilarsiz
+- bir martalik yengil terlash, harorat ko'tarilmagan holda
+- avval emlangan kishida yuqori qon bosimi
+- chet eldan kelgan sog'lom odamning ijobiy kayfiyati
+! Hid yoki ta'm yo'qolishi boshqa sababsiz bo'lsa, ehtimoliy holat mezoni sifatida qabul qilingan.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Tasdiqlangan COVID-19 holatini belgilovchi laborator usul qaysi va qaysi genlar nishon bo'ladi?
++ nuklein kislotalarni aniqlash (RT-PZR); N, E, S va RdRP genlari
+- IgM antitelalarini aniqlash usuli; H, N va M genlari, tezkor testda
+- bakteriologik ekish usuli; 16S rRNK va rpoB genlari, qon namunasida
+- umumiy qon tahlili usuli; C-reaktiv oqsil va prokalsitonin ko'rsatkichlari
+- koprologik tekshiruv usuli; GP41 va p24 genlari, najas namunasida
+! O'tkir infeksiyada virus RNKsining aniqlanishi tasdiqlovchi mezon hisoblanadi.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? JSST ta'rifi bo'yicha COVID-19 bilan bog'liq o'lim qanday aniqlanadi?
++ ehtimoliy yoki tasdiqlangan infeksiyasi bor bemorning o'limi (surishtiruv ta'rifi bo'yicha)
+- patologoanatomik tekshiruvda o'pkada pnevmoniya topilgan har qanday sababli o'lim
+- har qanday sababdan vafot etgan kishining o'limi, agar 1 yil ichida emlangan bo'lsa
+- shifoxonaga yotqizilmagan va uyda vafot etgan bemorning o'limi
+- tibbiyot xodimi bo'lmagan va yoshi 60 dan oshgan kishining o'limi
+! O'lim COVID-19 holati ehtimoliy yoki tasdiqlangan bemorda yuz berganda hisobga olinadi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? JSST tavsiyalariga ko'ra milliy epidemiologik nazoratning maqsadi nimadan iborat?
++ jamoat salomatligi organlariga virus yuqishini sekinlashtirish, kasallanish va o'limni kamaytirish imkonini berish
+- barcha bemorlarni aniqlamasdan, jiddiy asoratli holatlarni hisobga olish va qolganlarini e'tiborsiz qoldirish
+- virusni bir haftada butunlay yo'q qilishni kafolatlash va tibbiyot xodimlarini nazoratdan chiqarish
+- emlash qamrovi bo'yicha statistik hisobot tuzish va boshqa ma'lumotlarni to'plamaslik
+- chegara orqali kirishni butunlay to'xtatish va ichki harakatni cheklamaslik
+! Nazorat tezkor aniqlash orqali yuqish zanjirini sekinlashtirishga qaratilgan.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Shifoxonalarda COVID-19 bilan bog'liq o'limlar haqida JSST qanday tartibda xabar berishni tavsiya etgan?
++ har kuni
+- haftada bir marta
+- oyiga bir marta
+- faqat yilda bir marta
+- har chorakda bir marta, jamlangan holda
+! Tezkor axborot klasterlar va muammolarni erta aniqlash imkonini beradi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Sog'liqni saqlash vazirining 204-son buyrug'iga ko'ra, COVID-19 vaksinasi dozalari oralig'i qanday belgilanadi?
++ vaksina yo'riqnomasi va JSST tavsiyalariga asoslanib 21 kundan 12 haftagacha
+- barcha vaksinalar uchun istisnosiz aniq 24 soat, yo'riqnomadan qat'i nazar
+- 6 oydan 12 oygacha, faqat kasallanmagan kishilarda va bolalarda
+- 3 kundan 7 kungacha, barcha turdagi vaksinalar uchun va barcha yoshlarda
+- doim aniq 1 yil, doza oralig'i vaksina turiga qarab o'zgarmaydi
+! Oraliq vaksina turiga qarab belgilanadi va JSST tavsiyalariga tayanadi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? Oliy ta'lim muassasalari uchun SanPiN 0011 (0012)-21 da ijtimoiy masofa qancha deb belgilangan?
++ kamida 2 m
+- kamida 10 sm
+- kamida 20 m
+- kamida 50 sm
+- kamida 5 m
+! Ijtimoiy masofa havo-tomchi yo'li bilan yuqish xavfini kamaytirish uchun kerak.
+@ SanPiN № 0011 (0012)-21
+? JSST bo'yicha antikor testlari epidemiologiyada qanday maqsadda qo'llanadi?
++ o'tkazilgan infeksiya yoki emlashni aniqlash hamda aholi orasida tarqalganlikni baholash (serologik nazorat)
+- o'tkir infeksiyani tasdiqlashning yagona standart usuli sifatida, RNK aniqlashni o'rnini bosuvchi
+- virus RNKsini aniqlash, genotipini belgilash va mutatsiyalarni kuzatish uchun asos sifatida
+- bemorning gospitalizatsiya muddatini aniq belgilash va davolash sxemasini tanlash uchun
+- tashqi muhit ob'ektlaridan virus ajratib olish va yuzalar kontaminatsiyasi darajasini baholash uchun, shifoxona sharoitida
+! Antitelalar immun javobni ko'rsatadi, o'tkir infeksiyani tasdiqlash uchun esa RNK yoki antigen aniqlanadi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? 201-son buyruqqa ko'ra PZR natijasini kutmasdan bemor shifoxonadan qachon chiqarilishi mumkin?
++ 10 kundan keyin
+- 3 kundan keyin
+- 2 haftadan keyin
+- 30 kundan keyin
+- 48 soatdan keyin
+! PZR natijasi bo'lmaganda chiqarish uchun uzoqroq davolanish muddati talab etiladi.
+@ O'zR SSV 2020-yil 5-avgustdagi 201-son buyrug'i
+? Joriy JSST ma'lumotiga ko'ra, kasalliklarning taxminan qancha qismida uzoq davom etuvchi COVID rivojlanadi?
++ taxminan 6%
+- taxminan 50%
+- taxminan 0,5%
+- taxminan 25%
+- taxminan 80%
+! Uzoq davom etuvchi oqibatlar kasallanganlarning kichik, ammo sezilarli qismida uchraydi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+

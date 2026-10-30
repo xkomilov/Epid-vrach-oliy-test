@@ -1,0 +1,97 @@
+=== 082
+? JSST ma'lumotiga ko'ra, 2024-yilda dunyoda surunkali virusli gepatit B bilan yashagan odamlar soni qancha bo'lgan?
++ 240 million kishi atrofida
+- 47 million kishi atrofida
+- 2,4 million kishi atrofida
+- 1,1 million kishi atrofida
+- 500 million kishi atrofida
+! Surunkali B gepatitli bemorlar soni C gepatitnikidan bir necha barobar ko'p, 47 million esa surunkali C gepatit ko'rsatkichidir.
+@ WHO. Hepatitis B (fact sheet)
+? Qonida HBeAg bo'lgan onadan tug'ilgan bolalarning qancha qismi zararlanadi va ularning qancha qismida infeksiya surunkalilashadi?
++ 85–100 foizi zararlanadi, shulardan 90 foizida surunkalilashadi
+- 10–15 foizi zararlanadi, shulardan 5 foizida surunkalilashadi, qolganlari tuzaladi
+- 40–50 foizi zararlanadi, shulardan 30 foizida surunkalilashadi, qolganlarida immunitet shakllanadi
+- 2 foizdan kami zararlanadi, shulardan 70 foizida surunkalilashadi, yoshi bilan kamayadi
+- 60–70 foizi zararlanadi, shulardan 50 foizida surunkalilashadi, boshqalarida virus aniqlanmaydi
+! Onadagi HBeAg yuqori replikatsiyani bildiradi, shu sababli perinatal zararlanish ehtimoli yuqori va surunkalilashish keskin ko'p.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Virusli gepatit B virusi biologik suyuqliklarda qaysi tartibda konsentratsiya hosil qiladi?
++ eng yuqori qon va jarohat suyuqligida, o'rtacha sperma va qin ajratmalarida, eng past so'lakda
+- eng yuqori so'lak va siydikda, o'rtacha qon va jarohat suyuqligida, eng past spermada
+- eng yuqori ko'z yoshi va ter suyuqligida, o'rtacha qon zardobida, eng past sperma va qin ajratmasida
+- eng yuqori najas va qusuq massasida, o'rtacha qonda, eng past jarohat suyuqligida
+- barcha suyuqliklarda bir xil, farq faqat umumiy hajmiga bog'liq bo'ladi
+! Qon va jarohat suyuqligida virus eng ko'p bo'lgani uchun qon bilan kontakt eng xavfli yuqish yo'lidir.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Quyidagi kattalardagi va go'daklikdagi surunkalilashish ko'rsatkichlaridan qaysi biri JSST ma'lumotiga mos keladi?
++ kattalikda 5 foizdan kam, go'daklik va 5 yoshgacha zararlanganlarda taxminan 95 foizda surunkalilashadi
+- kattalikda zararlanganlarning taxminan 95 foizida, go'daklikda esa 5 foizdan kam bemorda surunkalilashadi
+- kattalikda ham, go'daklikda ham taxminan 50 foiz bemorda surunkali gepatit rivojlanadi
+- kattalikda 30 foiz, go'daklikda 70 foiz, 5 yoshdan keyin esa 100 foiz bemorda
+- kattalikda zararlanganlarning barchasi surunkali bo'ladi, go'daklikda esa surunkalilashish kuzatilmaydi
+! Yosh qancha kichik bo'lsa, immun tizimi virusni tozalay olmaydi va surunkalilashish xavfi shuncha yuqori bo'ladi.
+@ WHO. Hepatitis B (fact sheet)
+? Virusli gepatit B da bitta klinik ifodalangan holatga qancha sariqliksiz holat to'g'ri kelishi mumkin?
++ 100 tagacha
+- 5 tagacha
+- 15 tagacha
+- 1 tadan ko'p emas
+- 1000 tagacha
+! Ko'pchilik zararlanganlarda sariqlik bo'lmaydi, shuning uchun yashirin manbalar soni juda katta.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Klinik belgilar va biokimyoviy o'zgarishlarsiz HBsAg aniqlansa, bu holat qanday tasniflanadi?
++ virus tashuvchilik (HBsAg tashuvchilik)
+- o'tkir sariqlik bilan kechuvchi manifest gepatit B shakli
+- fulminant gepatit B ning boshlang'ich bosqichi
+- gepatit B dan so'ng to'liq tuzalish va immunitet shakllanishi
+- gepatit D bilan birga kechuvchi superinfeksiya holati
+! HBsAg ning bemorda belgisiz saqlanishi surunkali infeksiyaning klinik ko'rinmaydigan shakli hisoblanadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? 95-son buyruqqa ko'ra, «V» va «S» gepatitga skrining qaysi tartibda o'tkaziladi?
++ 18 yoshdan katta, avval tekshirilmagan fuqarolar oilaviy poliklinikalarda ixtiyoriy roziligi bilan ekspress-testlardan o'tkaziladi
+- 40 yoshdan katta barcha fuqarolar ixtiyoriy roziliksiz, majburiy tarzda yuqumli kasalliklar shifoxonasida tekshiriladi
+- tibbiyot xodimlari va donorlar yiliga bir marta statsionar sharoitda jigar biopsiyasi orqali, majburiy tartibda tekshiriladi
+- 14 yoshdan kichik bolalar maktabda ota-onasining roziligisiz PZR usulida ommaviy tekshiruvdan o'tkaziladi
+- homilador ayollar tug'ruq majmuasida qon quyishdan oldin ixtiyoriy roziligi bilan tekshiriladi
+! Milliy dasturda skrining birlamchi bo'g'inda ixtiyoriy va tez ekspress-testlar bilan o'tkaziladi, musbat bemorlar gepatomarkazga yuboriladi.
+@ O'zR SSV 2023-yil 1-maydagi 95-son buyrug'i
+? JSST tavsiyasiga ko'ra, chaqaloqlarga virusli gepatit B ga qarshi birinchi doza qachon va keyingi dozalar qanday oraliqda berilishi kerak?
++ tug'ilgandan keyin 24 soat ichida, so'ngra kamida 4 hafta oraliq bilan 2–3 doza
+- tug'ilgandan keyin 7 kun ichida, so'ngra har 2 haftada bir marta jami 6 doza
+- 6 oyligida, so'ngra har yili bir marta umr bo'yi qayta emlash tartibida
+- 1 yoshga to'lganda bir martalik doza, revaksinatsiya esa har 5 yilda talab etiladi
+- 2 oyligida, so'ngra 1 haftalik oraliq bilan 3 doza, keyin har 10 yilda bir marta
+! Dastlabki dozaning erta berilishi perinatal yuqishdan himoya qiladi, keyingi dozalar esa immunitetni mustahkamlaydi.
+@ WHO. Hepatitis B (fact sheet)
+? To'liq emlash seriyasidan keyin virusli gepatit B ga qarshi himoya qancha bolada shakllanadi va qancha muddat saqlanadi?
++ 95 foizdan ko'p bolada, kamida 20 yil va ehtimol umr bo'yi
+- taxminan 50 foiz bolada, atigi 2–3 yil, keyin har yili revaksinatsiya zarur
+- 70 foizga yaqin bolada, 5 yil davomida, so'ngra har 5 yilda qayta emlash kerak
+- 99 foiz bolada, faqat 6 oy davomida, so'ng himoya to'liq yo'qoladi
+- 30 foizdan kam bolada, 10 yilgacha, shundan keyin antitelalar butunlay yo'qoladi
+! Vaksina yuqori immunogenlikka ega, shuning uchun odatda qo'shimcha revaksinatsiya talab etilmaydi.
+@ WHO. Hepatitis B (fact sheet)
+? Milliy yo'riqnomaga ko'ra, virusli gepatit B bilan kasallangan onalardan tug'ilgan chaqaloqlar milliy emlash kalendariga muvofiq qaysi muddatda emlanadi?
++ dastlabki 3–12 soat ichida
+- 3–5 kun o'tgach, bolalar bo'limida
+- ikki haftalik bo'lganda, poliklinikada
+- bir oyligida, bolalar poliklinikasida
+- tug'ilgandan keyin 48–72 soat o'tgach
+! Perinatal yuqish xavfi yuqori bo'lgani uchun xavfli chaqaloqlarga vaksina tug'ruqxonada birinchi soatlarda beriladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST bo'yicha surunkali virusli gepatit B ni davolashda qaysi dori vositalari qo'llanadi?
++ tenofovir yoki entekavir, ko'pchilik bemorlar uchun umr bo'yi
+- bevosita ta'sir qiluvchi sofosbuvir va daklatasvir, odatda 12 haftalik kurs bilan to'liq davolash
+- penitsillin guruhidagi antibiotiklar, 10 kunlik kurs bilan sepsis rivojlanishining oldini olish
+- rifampitsin va izoniazid, 6 oylik kurs bilan ikki bosqichli davolash tartibi
+- oseltamivir, 5 kunlik kurs bilan virusning ko'payishini to'xtatish
+! Bu preparatlar virus replikatsiyasini bostiradi, ammo odatda to'liq tuzatmaydi, shu sababli davo uzoq davom etadi.
+@ WHO. Hepatitis B (fact sheet)
+? Virusli gepatit B bilan og'rigan bemor yuqumli bo'lishi mumkin bo'lgan davr qachon boshlanadi?
++ kasallik belgilari paydo bo'lishidan 2–8 hafta oldin
+- sariqlik yo'qolgandan keyin 3–4 hafta o'tgach
+- faqat sariqlik avjiga chiqqan davrda, birinchi haftada
+- kasallikning birinchi belgilaridan keyin 6 oy o'tgach
+- tuzalgandan keyin bir yil o'tib, antitelalar paydo bo'lgach
+! Virus klinik belgilar boshlanmasdan oldin ham qonda bo'ladi, shu sababli bemorni faqat ko'rinishiga qarab ajratib bo'lmaydi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova

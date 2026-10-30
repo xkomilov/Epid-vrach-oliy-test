@@ -1,0 +1,100 @@
+=== 015
+? Epidemik o'choq nima?
++ Infeksiya manbai va uning atrofidagi, infeksiya yuqishi mumkin bo'lgan hudud hamda shaxslar doirasi
+- Kasal bemorning o'zi va uning davolanayotgan palatasi hamda tibbiy xodimlar va ularning yaqin qarindoshlari
+- Kasallanish ko'rsatkichi me'yordan oshgan butun viloyat hududi va uning aholisi
+- Laboratoriyada qo'zg'atuvchi ajratilgan har qanday namuna olingan joy va idish
+- Yuqumli kasallik tarixi qayd etilgan barcha hujjatlar va jurnallar majmuasi
+! O'choq manbani va yuqish xavfi mavjud joy hamda odamlarni birgalikda qamrab oladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, quyidagilardan qaysi infeksiyalarda yakka holat ham tekshiriladi?
++ Vabo va bezgak kabi ekzotik xavfli kasalliklarda
+- Gripp va o'tkir respirator infeksiyalarda
+- Ichburug' va ich terlamada, har qanday holatda doimo
+- Suvchechak va qizilchada, doimo
+- Angina va tonzillitda, doimo
+! Yakka holat odatda tekshirilmaydi, lekin ekzotik xavfli infeksiyalarda istisno qilinadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi holatda o'choqni tekshirish majburiy hisoblanadi?
++ Ikki va undan ko'p holatli o'choqlarda
+- Har qanday yakka sporadik holatda
+- O'lim bilan tugagan holatdagina
+- Bolalar muassasasida bitta holat bo'lganda
+- Bemor shifoxonaga yotqizilgan har qanday holatda
+! Darslikda ko'p sonli yakka o'choqlar va ikki hamda undan ko'p holatli o'choqlarda tekshirish majburiy deyilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Avj olish (epidemik noxushlik) qanday ta'riflanadi?
++ Ma'lum hududda yilning shu vaqtida kutilganga nisbatan holatlar sonining odatdagidan tashqari ko'payishi
+- Bitta bemorda kasallikning juda og'ir kechishi va asoratlar bilan tugashi, hatto o'lim bilan yakunlanishi
+- Kasallanishning har yili takrorlanuvchi mavsumiy ko'tarilishi va pasayishi
+- Aholi soni ortishi tufayli mutlaq holatlar sonining oshishi, ko'rsatkichsiz
+- Laboratoriya tekshiruvlari sonining ko'payishi tufayli holatlar ro'yxatining o'sishi
+! Ta'rifda kutilgan daraja bilan taqqoslash asosiy; ro'yxat tartibi yoki maxraj o'zgarishi sababli oshish haqiqiy avj olish emas.
+@ O'zR SSV, JSST Yevropa byurosi. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha qo'llanma (2019)
+? Tezkor javob guruhi tarkibiga quyidagilardan qaysi mutaxassis kiradi?
++ Epidemiolog va laborant-vrach (bakteriolog, virusolog, parazitolog)
+- Davolash muassasasining bosh buxgalteri va moliya bo'limi mudiri
+- Shifokor-jarroh va anesteziolog, operatsiya bloki hamshirasi bilan
+- Bemor yashaydigan mahalla raisi va uning yordamchilari jamoasi
+- Maktab o'qituvchisi va ota-onalar qo'mitasi vakili
+! Guruh epidemiolog, laborant-vrach, yuqumli kasalliklar vrachi, gigienist va dezinfeksiya mutaxassisidan tashkil topadi.
+@ O'zR SSV, JSST Yevropa byurosi. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha qo'llanma (2019)
+? Standart holat ta'rifini tuzishda nimaga e'tibor beriladi?
++ Ta'rifga tekshirilayotgan xavf omili kiritilmasligi kerak
+- Ta'rifga gumon qilingan xavf omili majburan kiritiladi
+- Ta'rif laboratoriya tasdiqlangan holatlar uchungina tuziladi
+- Ta'rif vaqt va joy cheklovlarisiz, umumiy tarzda tuziladi
+- Ta'rifda bemorning shaxsiy ma'lumotlari to'liq ko'rsatiladi
+! Xavf omili ta'rifga kiritilsa, uni keyin baholab bo'lmaydi.
+@ O'zR SSV, JSST Yevropa byurosi. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha qo'llanma (2019)
+? Avj olishni vaqt bo'yicha tavsiflashda qanday grafik quriladi?
++ Epidemik egri chiziq (gistogramma)
+- Nuqtali xarita
+- Kasallanish piramidasi
+- Aholining yosh va jins bo'yicha doiraviy diagrammasi
+- Hududiy kartogramma
+! Gistogramma holatlarning kasallanish boshlanishi vaqti bo'yicha taqsimotini ko'rsatadi, nuqtali xarita esa joy bo'yicha tavsiflaydi.
+@ O'zR SSV, JSST Yevropa byurosi. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha qo'llanma (2019)
+? Bolalar uyida 93 tarbiyalanuvchidan 76 tasi kasallangan. Qamrab olish (porazhenlik) ko'rsatkichi taxminan qancha?
++ 81,7 %
+- 18,3 %
+- 76,0 %
+- 93,0 %
+- 12,2 %
+! 76 ni 93 ga bo'lib 100 ga ko'paytirilganda taxminan 81,7 % chiqadi.
+@ O'zR SSV, JSST Yevropa byurosi. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha qo'llanma (2019)
+? Nazorat va profilaktika choralari qachon boshlanadi?
++ Imkon qadar erta, boshqa bosqichlar tugashini kutmasdan
+- Tekshiruv hisoboti tasdiqlangandan keyingina, rasmiy ruxsat bilan
+- Gipoteza analitik usul bilan isbotlangandan keyingina, dalillar to'plangach
+- Avj olish butunlay tugagandan keyin, yakuniy baholashdan so'ng
+- Faqat respublika guruhi joyga yetib kelgandan keyin
+! Choralarni kechiktirish kasallikning tarqalishiga yo'l ochadi.
+@ O'zR SSV, JSST Yevropa byurosi. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha qo'llanma (2019)
+? Toshmali tifli bemor o'chog'ida kontaktlar yakuniy dezinfeksiya va dezinseksiyadan keyin necha kun kuzatiladi?
++ 25 kun
+- 7 kun
+- 14 kun
+- 35 kun
+- 60 kun
+! Kuzatuv muddati eng uzun inkubatsiya davriga asoslanadi.
+@ Mavzu materiali (015.txt)
+? Virusli gepatit E o'chog'ida kontakt shaxslar bemor ajratilgandan boshlab necha kun tibbiy kuzatuvda bo'ladi?
++ 35 kun
+- 21 kun
+- 25 kun
+- 60 kun
+- 10 kun
+! Kuzatuv davomida kunlik so'rash, termometriya va haftada bir marta jigar hamda taloq o'lchamini aniqlash o'tkaziladi.
+@ Mavzu materiali (015.txt)
+? Toshmali tifda manbani izlash uchun epidemiolog bemorning kasallik boshlanishidan necha kun oldingi tibbiy hujjatlarini tahlil qiladi?
++ 21 kun
+- 7 kun
+- 14 kun
+- 25 kun
+- 35 kun
+! Bu muddat kasallikdan oldingi davrni qamrab oladi va kontaktlarni kuzatish davridan farq qiladi.
+@ Mavzu materiali (015.txt)
+#U 015 / 10: toshmali tifda kontaktlarni kuzatish muddati 25 kun - faqat mavzu materialiga (SSV 2012-yil 6-son buyrug'i matni) tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 015 / 11: virusli gepatit E bo'yicha 35 kunlik kuzatuv - faqat mavzu materialiga (SSV 2018-yil 542-son buyrug'i matni) tayangan, tashqi manba bilan tasdiqlanmagan.
+#D 015 / 12: mavzu materialida 21 kun ham, 25 kun ham 'eng uzun inkubatsiya' deb atalgan (ichki ziddiyat); savol faqat 21 kunlik manba izlash davriga tayangan va rasmiy manba bilan tasdiqlanmagan.

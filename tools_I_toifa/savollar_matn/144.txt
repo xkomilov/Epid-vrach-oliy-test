@@ -1,0 +1,100 @@
+=== 144
+? 2021-yil 6-sentabrdagi 219-son buyruqning 9-bandi qaysi buyruq haqida nimani belgilaydi?
++ 2018-yilgi 336-son buyruq o'z kuchini yo'qotgan deb topiladi
+- 2018-yilgi 277-son buyruq ilovalari bilan almashtiriladi
+- 2008-yilgi 4-son buyruq yangi tahrirda tasdiqlanadi
+- 2015-yilgi 123-son buyruq amalga kiritilgan deb tan olinadi
+- 2024-yilgi 64-son buyruq bekor qilinishi haqida ogohlantiriladi
+! Bu band 336-son buyruqning rasmiy holatini belgilaydi, qolgan buyruqlar bu bandga aloqador emas.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? 2008-yil 4-yanvardagi 4-son buyruq qaysi masalaga bag'ishlangan?
++ tibbiyot muassasalarida OIV infeksiyasining muloqotdan keyingi profilaktikasini joriy etishga
+- OIV infeksiyali bemorlarning dispanser nazorati bo'yicha milliy klinik protokolni tasdiqlashga
+- tumanlararo OIV diagnostika laboratoriyalari nizomini tasdiqlashga
+- shifoxona ichi yuqishining oldini olish tadbirlari rejasini tasdiqlashga
+- Respublika OITSga qarshi kurashish markazi nizomini qabul qilishga
+! Buyruq tibbiyot xodimlari uchun kasbiy va nokasbiy kontaktdan keyingi profilaktika tartibini belgilagan.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ijrosi uchun tadbirlar rejasi
+? 2018-yil 30-apreldagi 277-son buyruq bilan qaysi hujjat tasdiqlangan?
++ OIV infeksiyali bemorlarning dispanser nazorati bo'yicha milliy klinik protokol
+- OIV tekshiruviga yo'naltirish va maslahat bo'yicha uslubiy qo'llanma
+- Respublika OITSga qarshi kurashish markazi to'g'risidagi namunaviy nizom
+- tibbiy chiqindilarni utilizatsiya qilishda davlat-xususiy sheriklik rejasi
+- dozorli epidemiologik nazorat qoidalari va «Ishonch xonalari» nizomi
+! Protokol klinik tasnif, RQT boshlash ko'rsatmalari va onadan bolaga yuqishning oldini olish bo'limlarini o'z ichiga oladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? 2018-yil 2-iyuldagi 421-son buyruq qaysi hujjatning ijrosi uchun qabul qilingan?
++ PQ-3800-son Prezident qarori
+- PQ-3493-son Prezident qarori
+- PQ-14-son Prezident qarori
+- 88-son vazir buyrug'i
+- 219-son vazir buyrug'i
+! Buyruqda qarorning ijrosi uchun vazirlik chora-tadbirlar rejasi va monitoring guruhi tuzilgan.
+@ O'zR SSV 2018-yil 2-iyuldagi 421-son buyrug'i
+? Respublika va hududiy OITSga qarshi kurashish markazlari to'g'risidagi namunaviy nizomlar qaysi tashkilot buyrug'i bilan tasdiqlangan?
++ Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'i
+- Sog'liqni saqlash vazirining 2018-yil 24-maydagi 336-son buyrug'i bilan tasdiqlangan namunaviy nizomlar to'plami
+- Sog'liqni saqlash vazirining 2021-yil 6-sentabrdagi 219-son buyrug'i bilan tasdiqlangan tuzilmaviy nizomlar to'plami
+- Prezidentning 2015-yil 25-martdagi 123-son farmoni asosida chiqarilgan buyruq
+- Davlat sanitariya xizmatining 2024-yil 29-fevraldagi 64-son buyrug'i
+! Markazlarning nizomlari va tarkibiy tuzilmalari 32-son buyruqning 16–19-ilovalarida keltirilgan.
+@ Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'i
+? 2024-yil 29-fevraldagi 64-son buyruqqa ko'ra shifoxona ichida yuqqanligi gumon qilingan har bir holat qanday tartibda ko'rib chiqiladi?
++ har chorakda tibbiy kengashda muhokama qilinadi
+- har oyda hududiy prokuratura majlisida ko'riladi
+- yilda bir marta vazirlik hay'ati yig'ilishida baholanadi
+- bir haftalik muddatda faqat bosh shifokor tomonidan yopiladi
+- ikki yilda bir marta tashqi audit yo'li bilan tekshiriladi
+! Muntazam chorakli muhokama tizimli xatolarni topish va tuzatish imkonini beradi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? 219-son buyruq doirasida OIV bilan yashovchilar uchun qaysi xizmat nizomi tasdiqlangan?
++ «Do'stona xona» nizomi
+- «Sog'lom turmush» maktabi nizomi
+- tungi stasionar bo'limi nizomi
+- «Ishonch pochtasi» nizomi
+- klinik farmakologiya bo'limi nizomi
+! 219-son buyruq ilovalarida «Ishonch xonalari» bilan birga «Do'stona xona» nizomi ham keltirilgan.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? 64-son buyruqqa ko'ra har bir «tibbiy avariya» ro'yxatga olinganda qanday tadbir o'tkaziladi?
++ muloqotdan keyingi profilaktika
+- ekspozitsiyadan oldingi profilaktika
+- majburiy statsionar izolyatsiya
+- qo'zg'atuvchini sekvenirlash orqali genotip aniqlash
+- bir yillik dispanser kuzatuvi
+! Avariyadan keyin shifokorning xavfni baholab, ARV kursini qisqa muddatda boshlashi infeksiya xavfini kamaytiradi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? 2018-yilgi 336-son buyruq qabul qilinishi bilan tumanlararo OIV diagnostika laboratoriyalari qaysi tizimga kiritilgan?
++ hududiy OITS markazlari tarkibiga
+- tuman oilaviy poliklinikalari tarkibiga
+- qon quyish stansiyalari tarkibiga
+- viloyat sanitariya-epidemiologiya markazlari tarkibiga
+- Respublika ixtisoslashtirilgan epidemiologiya markazi tarkibiga
+! Laboratoriyalar 2018-yil 1-iyuldan hududiy OITS markazlari tarkibiga kiritilgan.
+@ Mavzu materiali (144.docx)
+? 2012-yil 30-martdagi 88-son buyruq qaysi masalaga bag'ishlangan?
++ JSSTning OIV infeksiyasi bo'yicha moslashtirilgan milliy protokollarini joriy etishga
+- OIV infeksiyali bemorlarning dispanser nazorati bo'yicha yangi tartiblarni belgilashga
+- tibbiy chiqindilarni zararsizlantirish bo'yicha namunaviy nizomni tasdiqlashga
+- jazoni ijro etish muassasalarida epidemiologik nazoratni takomillashtirishga
+- yuqori xavfli guruhlar uchun profilaktik xizmatlar standartini kiritishga
+! Buyruq klinik protokol va taqdimotlarda havola sifatida keltirilgan, JSST protokollarini milliy sharoitga moslashtirgan.
+@ Mavzu materiali (144.docx)
+? 336-son buyruq Prezidentning PQ-3493-son qarori ijrosi uchun nechta ilovani o'z ichiga olgan?
++ 12 ta
+- 4 ta
+- 7 ta
+- 9 ta
+- 16 ta
+! Ilovalar jumlasiga uslubiy qo'llanma, laboratoriya nizomlari, maslahat tartiblari va dozorli nazorat qoidalari kiradi.
+@ Mavzu materiali (144.docx)
+? Quyidagilardan qaysi biri 219-son buyruq ilovalari qatoriga kiradi?
++ epidemiologik surishtiruv qoidalari
+- tibbiy tekshiruv uchun hududiy jazo tizimi nizomi
+- sanitariya-karantin postlari uchun yo'riqnoma
+- kasb kasalliklari reyestri yuritish qoidalari
+- donorlar qonini saqlash omborlari qoidalari
+! Buyruqning 3-ilovasida epidemiologik surishtiruv tartibi belgilangan.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+#U 144 / 9: tumanlararo laboratoriyalarning 2018-yil 1-iyuldan markazlar tarkibiga kiritilishi faqat mavzu materialiga tayanadi.
+#U 144 / 10: 88-son buyruqning nomi faqat havolalar orqali ma'lum, matni topilmagan.
+#U 144 / 11: 336-son buyruq ilovalari soni faqat mavzu materialiga tayanadi.

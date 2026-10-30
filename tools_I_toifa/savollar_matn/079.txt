@@ -1,0 +1,99 @@
+=== 079
+? Shigellyozning past yuqtiruvchi dozasi qancha mikroorganizmni tashkil etadi?
++ atigi 10–200 ta mikroorganizm
+- 100 000–1 000 000 ta mikroorganizm
+- 5–10 million ta mikroorganizm
+- 10–20 milliard ta mikroorganizm
+- kamida 1 trillion ta mikroorganizm
+! Oz miqdordagi bakteriya ham kasallik chaqiradi, shu sababli kasallik odamdan odamga oson yuqadi.
+@ CDC. Clinical Care of Shigellosis; CDC. Shigella — Shigellosis, causes
+? Shigellyozning inkubatsion davri odatda qancha?
++ 1–3 kun
+- 10–14 kun
+- 3–4 hafta
+- 1–2 oy
+- bir necha yil
+! Qisqa inkubatsiya sababli o'choqda kuzatuv muddati ham qisqa, tadbirlar esa tezkor bo'lishi kerak.
+@ CDC. Clinical Care of Shigellosis
+? Shigellyozning infeksiya manbai kim?
++ faqat odam — kasal yoki bakteriotashuvchi
+- uy hayvonlari, ayniqsa qoramol va parrandalar
+- yovvoyi kemiruvchilar va qushlar
+- ifloslangan tuproq va chiqindilar
+- qon so'ruvchi hasharotlar
+! Shigellyoz antroponoz bo'lgani sababli qo'zg'atuvchi faqat odamdan odamga o'tadi.
+@ CDC. Shigella — Shigellosis, causes
+? Bemor sog'aygandan keyin qo'zg'atuvchini qancha muddat najas bilan ajratishi mumkin?
++ ikki haftagacha
+- ikki kungacha
+- bir yilgacha
+- hayotning oxirigacha
+- ajratmaydi
+! Klinik tuzalish qo'zg'atuvchi ajralishining to'xtashini bildirmaydi, shu sababli sog'ayganlar ham manba bo'lib qoladi.
+@ CDC. Clinical Care of Shigellosis
+? Shigellyozda past yuqtiruvchi doza tufayli qaysi yuqish yo'li yetakchi hisoblanadi?
++ maishiy-kontakt yo'li
+- ifloslangan suv yo'li
+- transmissiv (hasharot) yo'li
+- havo-chang (aerogen) yo'li
+- parenteral (qon) yo'li
+! Iflos qo'llar va buyumlar orqali oz miqdordagi bakteriya ham og'izga tushib, kasallik chaqiradi.
+@ CDC. Shigella — Shigellosis, causes
+? Shigellyozga tashxis qo'yishda asosiy laboratoriya usuli qaysi?
++ najasdan qo'zg'atuvchini ajratish (koprokultura)
+- qondan qo'zg'atuvchini ekish (gemokultura)
+- o't suyuqligidan ekish (duodenal zond) usuli
+- tomoq surtmasini mikroskopiya qilish usuli
+- orqa miya suyuqligini tekshirish
+! Qo'zg'atuvchi yo'g'on ichakda ko'payadi va najas bilan chiqadi, antibakterial davodan oldin olingan namunada aniqroq o'sadi.
+@ CDC. Clinical Care of Shigellosis
+? Tipik shigellyozda qanday ich ketish xos?
++ tenezmlar bilan, qon va shilimshiq aralash kam miqdorda
+- suvsimon, guruch yuvindisiga o'xshash va juda ko'p miqdorda, tenezmsiz
+- yog'li, ko'pikli va hidsiz, oqargan rangda
+- kechasi kuchayuvchi, qora rangli hamda sassiq
+- qabziyat bilan almashinadigan va shilimshiqsiz, quruq
+! Yo'g'on ichak yallig'lanishi tenezmlar va qonli-shilimshiqli axlatga olib keladi.
+@ CDC. Clinical Care of Shigellosis
+? Shigellalarning qaysi turi ekzotoksin va endotoksin, qolganlari esa faqat endotoksin ishlab chiqaradi?
++ Shigella dysenteriae
+- Shigella sonnei (Zonne)
+- Shigella flexneri (Flekssner)
+- Shigella boydii (Boydi)
+- Shigella enterica (Neyshtadt)
+! Grigoryev–Shiga tayoqchasi ekzotoksin hosil qilgani uchun og'ir kechadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Shigellyoz profilaktikasida qaysi chora eng sodda, arzon va samarali hisoblanadi?
++ qo'llarni sovun bilan yuvish
+- bolalarni yillik antibiotik bilan davolash
+- aholi punktlarini kimyoviy nurlantirish
+- chorva mollarini ommaviy sanitariya qilish
+- oziq-ovqatni xom holda iste'mol qilish
+! Past yuqtiruvchi doza bois qo'l orqali ko'chishni to'sish eng ta'sirli va sodda chora.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Shigellyozda maxsus profilaktika (vaksina) bo'yicha qaysi fikr to'g'ri?
++ vaksina keng qo'llanilmaydi, shu bois gigiyena choralari birinchi o'ringa chiqadi
+- bolalar tug'ilishida majburiy emlanadi va gigiyena choralari kerak emas
+- vaksina yagona himoya vositasi bo'lib, sanitariya choralariga ehtiyoj qolmaydi
+- tashuvchilar emlanadi, sog'lom bolalar emlanmaydi
+- vaksina oziq-ovqat xodimlariga yiliga ikki marta beriladi
+! Vaksina keng yo'lga qo'yilmagani uchun profilaktika qo'l yuvish va sanitariyaga tayanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Shigellyoz qo'zg'atuvchisining tashqi muhitdagi chidamliligi bo'yicha yo'riqnomada nima ko'rsatilgan?
++ Zonne shigellasi yuqori, Flekssner o'rtacha chidamli; najasda ikki haftagacha saqlanadi, quyosh nuriga sezgir
+- Flekssner shigellasi yuqori, Zonne past chidamli; najasda bir yilgacha saqlanadi, quyoshda ko'payadi
+- turlar bir xil chidamli, qaynatilganda ham soatlab nobud bo'lmaydi
+- turlar kislotali muhitda ko'payadi va dezinfektantlarga to'liq chidamli
+- Zonne shigellasi tashqi muhitda bir necha soatdan ko'p yashamaydi
+! Chidamlilik turga bog'liq; Zonne eng chidamli, dezinfeksiya vositalari va yuqori harorat esa barchasini yo'q qiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Shigellalar qaysi to'rt asosiy turga bo'linadi?
++ S. dysenteriae, S. flexneri, S. boydii va S. sonnei
+- S. typhi, S. paratyphi, S. enteritidis va S. cholerae
+- S. aureus, S. pyogenes, S. epidermidis va S. pneumoniae
+- E. coli, K. pneumoniae, P. aeruginosa va Y. pestis
+- C. jejuni, C. difficile, V. cholerae va L. monocytogenes
+! Shigella avlodi to'rt tur (guruh)ga bo'linadi, ular antigen tuzilishi va xossalari bilan farq qiladi.
+@ CDC. Shigella — Shigellosis, causes
+#U 079 / 11: Zonne/Flekssner chidamliligi va muddatlar faqat mavzu materialida yo'riqnoma bayoni sifatida berilgan, tashqi manba bilan tasdiqlanmagan.
+#U 079 / 8: Shigella dysenteriae ekzotoksin ishlab chiqarishi bayoni mavzu materialidagi yo'riqnoma ma'lumotiga tayanadi.

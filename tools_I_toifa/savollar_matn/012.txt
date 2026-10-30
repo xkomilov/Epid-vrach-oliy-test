@@ -1,0 +1,97 @@
+=== 012
+? O'tkazilish vaqti va maqsadiga ko'ra epidemiologik tahlil qaysi ikki turga bo'linadi?
++ Retrospektiv va operativ tahlil
+- Tavsifiy va tajribaviy tahlil
+- Sifat va miqdor bo'yicha tahlil
+- Laboratoriya va statistik tahlil
+- Hududiy va davlat darajasidagi tahlil
+! Birinchisi o'tmishga, ikkinchisi joriy vaziyatga qaratilgan bo'lib, ular bir-birini to'ldiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv epidemiologik tahlilning asosiy maqsadi nima?
++ Ko'p yillik dinamika, mavsumiylik, taqsimot va xavf omillarini aniqlash
+- Kasallanishning kundalik o'zgarishini real vaqtda kuzatib borish
+- Bemor muloqotdagilarini aniqlab, ularni kasalxonaga yotqizish va kuzatish
+- Tadbirlar o'tkazilgan zahoti qo'zg'atuvchi turini aniqlash
+- Yangi paydo bo'lgan o'choqda shoshilinch dezinfeksiya o'tkazish
+! Retrospektiv tahlil o'tgan davr ma'lumotlarini chuqur o'rganib, strategik rejalashtirish uchun asos yaratadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ epidemiologik tahlil qanday asosda olib boriladi?
++ Kasallanishning kutilgan (normativ) darajasini haqiqiy daraja bilan taqqoslash
+- Bir necha yillik kasallanish ma'lumotlarini yil oxirida umumlashtirish va tahlil qilish
+- Aholi demografik tarkibini ro'yxatga olish orqali tizimli baholash
+- Bemorlarning kasallik tarixini klinik jihatdan chuqur tahlil qilish
+- Vaksina klinik sinovlari natijalarini statistik taqqoslash
+! Haqiqiy daraja belgilangan chegaradan oshsa, bu epidemik noxushlik signali hisoblanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ tahlilda kasallanishning haqiqiy darajasi belgilangan chegaradan oshsa, bu nimani bildiradi?
++ Epidemik noxushlik signali bo'lib, tekshiruv va tadbirlar boshlanadi
+- Vaziyat me'yorda ekanini, qo'shimcha chora talab qilinmasligini
+- Ma'lumotlar xato kiritilganini, qayta hisobot topshirish kerakligini
+- Mavsumiy pasayish boshlanganini va tadbirlarni to'xtatish mumkinligini
+- Retrospektiv tahlil natijalari bekor qilinishi zarurligini
+! Normativ chegaradan oshish vaziyat yomonlashayotganini bildiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ tahlil uchun mezon (etalon) vazifasini nima bajaradi?
++ Retrospektiv tahlilda belgilangan kasallanishning normativ darajasi
+- Qo'shni davlatlarning kasallanish ko'rsatkichlari va ularning dinamikasi
+- Vrach-epidemiologning shaxsiy tajribasi va sezgisi asosidagi taxmin
+- Aholi jon boshiga to'g'ri keladigan shifokorlar soni ko'rsatkichi
+- Jahon sog'liqni saqlash tashkilotining yillik hisoboti ma'lumotlari
+! "Normal" chegaralar ko'p yillik retrospektiv tahlilda aniqlanadi va joriy ma'lumot ular bilan solishtiriladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Turli hudud va davrlarni to'g'ri taqqoslash uchun kasallanish qanday ifodalanadi?
++ Aholining ma'lum soniga (masalan, 100 ming aholiga) nisbatan hisoblangan ko'rsatkichlarda
+- Hududdagi bemorlarning mutlaq sonida, hisobotdagi jami yig'indi shaklida, aholi sonini hisobga olmasdan
+- Kasalxonaga yotqizilganlar ulushining o'rtacha qiymatida
+- Faqat shifokorga murojaat qilganlar sonining yig'indisida
+- Laboratoriyada tasdiqlangan namunalarning mutlaq sonida
+! Aholi soni hududlarda farq qiladi, shu bois mutlaq sonlar qiyoslash uchun yaroqsiz.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagilardan qaysi biri epidemiologik tahlil uchun asosiy ma'lumot manbalariga kiradi?
++ Yuqumli kasalliklar to'g'risidagi shoshilinch xabarnomalar
+- Bemorning shaxsiy kundaligi va yozishmalari
+- Dorixonalarning moliyaviy hisobotlari va yillik daromadlari
+- Ijtimoiy tarmoqlardagi shaxsiy xabarlar va izohlar
+- Maktabdagi o'quvchilarning o'zlashtirish natijalari
+! Xabarnomalar, ro'yxatga olish jurnallari, laboratoriya va emlash hisobotlari rasmiy manbalar sanaladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, o'choqni epidemiologik tekshirish nima uchun shoshilinch o'tkaziladi?
++ Epidemiologik tashxissiz o'choqni tugatishga qaratilgan maqsadli tadbirlarni ishlab chiqib bo'lmaydi
+- Bemor aniqlangach, tekshiruv bir soat ichida tugatilishi qonun bilan majburiy belgilangan
+- Laboratoriya natijalari faqat shoshilinch tekshiruvda ishonchli bo'lishi isbotlangan
+- Shoshilinchlik tekshiruv xarajatlarini kamaytirishga va xodimlar sonini qisqartirishga xizmat qiladi
+- Tekshiruv kechiktirilsa, bemorlar o'z-o'zidan davolanib ketishi mumkin
+! Tashxis tadbirlar uchun asos bo'lgani sababli kechikish o'choq tarqalishiga olib kelishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikda keltirilgan o'choqni tekshirish usullariga quyidagilardan qaysi biri kiradi?
++ Maksimal yashirin davr davomida o'choqni epidemiologik kuzatish
+- Bemorni mustaqil ravishda uyda davolash va tekshirmaslik
+- O'choqdagi barcha aholini majburiy emlash va izolyatsiya qilish
+- Faqat bir martalik laboratoriya tekshiruvi bilan cheklanish
+- Bemor yashagan uyni darhol buzib tashlash
+! Muloqotdagilarni kuzatish maksimal inkubatsiya muddatiga teng davr davomida davom ettiriladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? O'choqni tekshirish qaysi uch yo'nalishda olib boriladi?
++ Infeksiya manbai, yuqish yo'llari va omillari hamda muloqotda bo'lganlarni aniqlash
+- Qo'zg'atuvchi turi, davolash sxemasi va reabilitatsiya choralarini aniqlash hamda muddatlari
+- Bemor yoshi, kasbi va yashash joyining statistik ma'lumotlarini aniqlash
+- Emlash qamrovi, dori zaxirasi va xodimlar sonini aniqlash
+- Moliyaviy xarajatlar, jihozlar va transport vositalarini aniqlash
+! Bu uch yo'nalish epidemiologik tashxis va o'choq tadbirlarini belgilaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv tahlil natijalari odatda qaysi shakllarda rasmiylashtiriladi?
++ Hisobotlar, grafiklar, xaritalar va tahliliy xulosalar
+- Shoshilinch xabarnomalar va kundalik qaydlar jurnallari
+- Bemorlarning ambulator kartalari va davolash varaqlari
+- Dezinfeksiya dalolatnomalari va ishlov jurnallari
+- Laboratoriya reaktivlari hisobi va ombor yozuvlari
+! Rasmiylashtirilgan natijalar keyingi yil profilaktik tadbirlar rejasining asosini tashkil etadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tahlilning yakuniy natijasi sifatida nima qo'yiladi?
++ Epidemiologik tashxis
+- Klinik tashxis
+- Laboratoriya tashxisi
+- Differensial tashxis
+- Patomorfologik tashxis
+! Tahlil epidemik vaziyatning sababi, xususiyati va rivojlanish yo'nalishi haqida xulosa chiqarishga olib keladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016

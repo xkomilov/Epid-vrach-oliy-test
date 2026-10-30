@@ -1,0 +1,101 @@
+=== 041
+? Milliy emlash kalendariga ko'ra, virusli gepatit B ga qarshi birinchi doza (VGB-1) qachon yuboriladi?
++ Hayotning birinchi sutkasida, tug'ruqxonada
+- Tug'ruqxonadan chiqish arafasida, hayotning 2–5-kunlarida
+- Ikki oylik bo'lganda, pentavalent vaksinaning birinchi dozasi bilan birga
+- Uch oylik bo'lganda, ikkinchi pentavalent dozasi bilan bir vaqtda berilib
+- Bir yoshga to'lganda, qizamiq-parotit-qizilchaga qarshi emlash paytida
+! Gepatit B virusining onadan bolaga yuqishi xavfi tug'ruq vaqtida eng yuqori bo'lgani uchun himoya imkon qadar erta shakllantiriladi.
+@ Mavzu materiali (041.docx); SanQvaM № 0239-07/3 (immunoprofilaktika)
+? 4 oylik chaqaloqqa kalendar bo'yicha qaysi vaksinalar yuboriladi?
++ OPV-3, penta-3 va IPV
+- OPV-2, penta-2 va rotavirusga qarshi ikkinchi doza
+- QPQ-1, PNEVMO-3 va OPV-3 vaksinalari
+- BSJ-1, VGB-2 va pnevmokokkka qarshi birinchi doza hamda IPV
+- AKDS-4, OPV-4 va qizamiq-parotit-qizilchaga qarshi ikkinchi doza
+! Bu yoshda poliomielitga qarshi uchinchi og'iz vaksinasi pentavalentning uchinchi dozasi va inaktivlangan vaksina bilan birga beriladi.
+@ Mavzu materiali (041.docx)
+? Qizamiq-parotit-qizilchaga qarshi birinchi doza (QPQ-1) kalendarda qaysi yoshda ko'rsatilgan?
++ 12 oylikda, PNEVMO-3 bilan bir vaqtda
+- 6 oylikda, penta-3 dozasi bilan birga
+- 16 oylikda, AKDS-4 va OPV-4 bilan bir paytda
+- 6 yoshda maktabga tayyorlov davrida, qayta emlash sifatida
+- 1-sinfda, ADS-M-5 va OPV-5 bilan birga
+! Onadan o'tgan antitelolar bir yoshga kelib deyarli yo'qoladi, shu sababli tirik virusli vaksina aynan shu davrda beriladi.
+@ Mavzu materiali (041.docx)
+? Quyidagi vaksinalardan qaysi biri tirik attenuatlangan turga kiradi?
++ Silga qarshi BSJ
+- Poliomielitga qarshi inaktivlangan IPV vaksinasi
+- Virusli gepatit B ga qarshi rekombinant vaksina
+- Pnevmokokk infeksiyasiga qarshi konyugat vaksina, polisaxarid asosli
+- Difteriya va qoqsholga qarshi ADS-M anatoksini
+! BSJ zaiflashtirilgan tirik mikobakteriyalardan tayyorlanadi, qolganlari esa o'ldirilgan, anatoksinli yoki subyunit asosga ega.
+@ Mavzu materiali (041.docx); SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Kalendardagi VPCH vaksinasi qaysi qo'zg'atuvchiga qarshi qaratilgan?
++ Inson papillomavirusi
+- Poliomielit virusi
+- Gepatit B virusi, surunkali tashuvchilikka olib keluvchi
+- Qizilcha virusi, homilador ayollarda xavfli bo'lgan
+- Haemophilus influenzae tip b, meningit qo'zg'atuvchisi
+! VPCH qisqartmasi inson papillomavirusini bildiradi va bu vaksina bachadon bo'yni saratoni xavfini kamaytirishga xizmat qiladi.
+@ Mavzu materiali (041.docx)
+? Bir xil vaksina dozalari orasida sanitariya qoidalariga ko'ra kamida qancha vaqt bo'lishi kerak?
++ Bir oy
+- Ikki hafta
+- Uch oy
+- Olti oy
+- Bir yil
+! Dozalar orasidagi minimal oraliq immun javob to'liq shakllanishi uchun belgilanadi.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Bemorga immunoglobulin yuborilgandan keyin qizamiq, qizilcha, parotit va rotavirusga qarshi emlash qancha muddatdan keyin o'tkaziladi?
++ 3 oydan keyin
+- Bir oy o'tgach
+- Bir yarim oy o'tgach
+- Olti oydan keyin
+- Yetti oy o'tgach
+! Tayyor antitelolar tirik virusli vaksina antigenini zararsizlantirib, emlash samarasini pasaytirishi mumkin.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Eritrotsitar yoki leykotsitar massa quyilgandan keyin qizamiq, qizilcha va parotitga qarshi emlash qachon o'tkaziladi?
++ 6 oydan keyin
+- Uch oydan so'ng
+- 7 oy o'tgach
+- Bir oydan keyin
+- Bir yarim oy ichida
+! Donor qoni bilan kirgan antitelolar tirik vaksinaga javobni susaytirishi mumkinligi sababli emlash kechiktiriladi.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? HBsAg musbat onadan tug'ilgan chaqaloqqa VGB tug'ilgandan keyin qancha vaqt ichida beriladi?
++ 3–12 soat ichida
+- 24–48 soat ichida
+- 2–5 kun ichida
+- Bir haftadan keyin
+- Birinchi oy davomida
+! Perinatal yuqish xavfi yuqori bo'lganda himoya imkon qadar tezroq, dastlabki soatlarda yaratilishi zarur.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Emlash jadvali buzilgan bolada JSST tamoyiliga ko'ra qanday yo'l tutiladi?
++ Emlash uzilgan joydan davom ettiriladi
+- Emlash butunlay boshidan qaytadan boshlanadi, avvalgi dozalar hisobga olinmaydi
+- Kechikkan dozalar bekor qilinadi va emlash to'xtatiladi
+- Tirik vaksinalar dozalari qaytadan beriladi, qolganlari tashlab ketiladi
+- Dozalar ikki baravar oshirilib, jadval qisqartiriladi
+! Avval olingan dozalar immun xotirani shakllantirgan bo'ladi, shuning uchun ularni takrorlash shart emas.
+@ WHO. Immunization, vaccines and biologicals: Expanded Programme on Immunization (EPI)
+? Qizamiq kabi o'ta yuqumli kasalliklarda jamoaviy immunitetga erishish uchun aholining taxminan qancha ulushi emlangan bo'lishi kerak?
++ 95 % va undan ko'proq qismi
+- Yarmi, ya'ni 50 % atrofida bo'lgan qismi
+- Uchdan ikki qismi, ya'ni 65 % ga yaqin qismi
+- Qariyb 75 % ni tashkil etuvchi to'rtdan uch qismi
+- Taxminan 80 % dan biroz oshiq qismi
+! Qizamiqning bazaviy reproduksiya ko'rsatkichi juda yuqori bo'lgani sababli uzatilishni to'xtatish uchun juda yuqori qamrov kerak.
+@ WHO. Immunization, vaccines and biologicals: Expanded Programme on Immunization (EPI)
+? Emlash epidemik jarayonning qaysi bo'g'iniga asosiy ta'sir ko'rsatadi?
++ Uchinchi bo'g'inga — sezgir aholiga
+- Birinchi bo'g'inga — infeksiya manbaiga
+- Ikkinchi bo'g'inga — yuqish mexanizmiga
+- Tashqi muhitda qo'zg'atuvchi omon qolish muddatiga
+- Kasallik rezervuari bo'lgan yovvoyi hayvonlarga
+! Vaksina aholining kasallikka moyilligini kamaytiradi, ya'ni zanjirning sezgir organizm bo'g'iniga ta'sir etadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+#U 041 / 1: kalendar hujjatining tasdiqlovchi organi, sanasi va raqami nusxada ko'rsatilmagan; muddatlar faqat mavzu materialiga tayangan.
+#U 041 / 2: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+#U 041 / 3: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+#D 041 / 5: VPCH yoshi bo'yicha mavzu materialida 12–13 yosh (kalendar) va 9–13 yosh (taqdimot, 6 oylik ikki dozali sxema) farqi bor; savolda yosh so'ralmadi.

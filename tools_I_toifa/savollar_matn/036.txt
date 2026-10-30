@@ -1,0 +1,99 @@
+=== 036
+? Populyatsion immunitet darajasi nima bilan tavsiflanadi?
++ Immunitetga ega kishilarning shu populyatsiyadagi ulushi bilan
+- Populyatsiyada yil davomida ro'yxatga olingan kasallik holatlari soni bilan
+- Populyatsiyadagi bolalar va keksalarning umumiy soni nisbati bilan
+- Davolash muassasalaridagi kechki tibbiy yordam ko'rsatish quvvati bilan
+- Populyatsiyadagi yuqumli kasalliklar o'choqlarining joylashuvi va ularning maydoni bilan
+! Daraja himoyalangan shaxslarning aholidagi nisbatini ko'rsatadi, shuning uchun u foizlarda ifodalanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? Populyatsion immunitet qaysi infeksiyalarda epidemik jarayonni cheklashda ayniqsa hal qiluvchi rol o'ynaydi?
++ Havo-tomchi yo'li bilan faol tarqaladigan infeksiyalarda
+- Qon orqali yuqadigan transmissiv antroponozlarda
+- Ichak infeksiyalarida, poliomielitdan tashqari
+- Tashqi qoplamalar orqali yuqadigan infeksiyalarda
+- Tashqi qoplamalar orqali yuqadigan antroponozlarda, poliomielitdan tashqari
+! Havo-tomchi infeksiyalarida qo'zg'atuvchi tez tarqaladi, shu sababli immunitetli kishilar zanjirni uzishda katta ahamiyatga ega.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? Epidemik jarayonning barcha moyil kishilar kasallanmasdan oldin susayishini L.V. Gromashevskiy qanday izohlagan?
++ "Yoqilg'i materiali" tugashi bilan
+- Qo'zg'atuvchi virulentligining tobora kuchayishi bilan
+- Yuqish mexanizmi yo'llarining doimiy ko'payib borishi bilan
+- Sanitariya tadbirlarining majburiy bajarilishi bilan
+- Sanitariya qoidalariga rioya qilinmasligi tufayli qo'zg'atuvchi tashqi muhitda tez nobud bo'lishi bilan
+! Moyil kishilar kamayishi bilan qo'zg'atuvchi yangi xo'jayinni topa olmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? Kasallanishning davriy ko'tarilishi 3–5 yillik oraliqda nima bilan izohlanadi?
++ Yangi tug'ilgan avlod hisobiga moyil kishilarning to'planishi bilan
+- Qo'zg'atuvchining har 3–5 yilda yangi turga o'zgarishi bilan
+- Aholi sonining barqaror kamayib borishi va migratsiya bilan
+- Vaksina samaradorligining yillik ravishda sekin pasayishi bilan
+- Havo haroratining mavsumiy tebranishlari va yog'ingarchilik miqdori bilan
+! Immunitetsiz bolalar to'planib borgach, qo'zg'atuvchi yetarli moyil kishilarni topadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? Populyatsion immunitet tabiiy yo'l bilan qanday shakllanadi?
++ Kasallikni yaqqol yoki belgisiz shaklda o'tkazish natijasida
+- Aholini maxsus vaksina bilan rejali emlash natijasida
+- Aholiga immunoglobulin yuborish natijasida
+- Faqat chaqaloqlarning ona sutidan antitelo olishi natijasida
+- Kasallik o'choqlarida o'tkaziladigan oxirgi dezinfeksiya natijasida
+! Qo'zg'atuvchi qancha ko'p odamga yuqsa, tabiiy immunitet shuncha ko'payadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? JSSTning qizamiq bo'yicha maqsadiga ko'ra, qizamiq vaksinasining birinchi va ikkinchi dozasi bilan kamida qancha qamrov ta'minlanishi kerak?
++ Kamida 95 %
+- Kamida 75 %
+- Kamida 85 %
+- Kamida 99 %
+- Kamida 50 %
+! Qizamiq juda yuqumli bo'lgani uchun yuqori qamrov talab qilinadi.
+@ WHO SAGE (2019): qizamiq va qizilcha, tanqidiy immunitet chegaralari; Vaccines (2020), PMC7349949
+? O'zbekistonda emlash kalendari bo'yicha bolalar va o'spirinlarni emlash qamrovi kamida qancha bo'lishi belgilangan?
++ Kamida 95 foiz
+- Kamida 80 foiz
+- Kamida 90 foiz
+- Kamida 100 foiz
+- Kamida 60 foiz
+! Qamrovning yuqori bo'lishi populyatsion immunitetning barqarorligini ta'minlaydi.
+@ SanQvaM № 0239-07/3
+? Populyatsion immunitet 100 % bo'lsa, qanday holat yuzaga keladi?
++ Epidemik jarayon rivojlanishi mumkin bo'lmaydi
+- Epidemik jarayon yengillashadi, lekin bartaraf bo'lmaydi
+- Epidemik jarayon faqat ichak infeksiyalarida to'xtaydi
+- Epidemik jarayon davriy ravishda qaytadan paydo bo'ladi
+- Epidemik jarayon yil davomida mavsumiy tarzda kuchayib turadi
+! Moyil kishilar bo'lmasa, qo'zg'atuvchi uzatilishi mumkin emas, biroq tabiiy sharoitda bunday holat deyarli uchramaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? Vaksinatsiya ko'pincha kasallikdan keyingi immunitetni to'liq ta'minlay olmaydi. Buning sababi nima?
++ Ko'pchilik vaksinalar tabiiy infeksion jarayonni faqat taqlid qiladi
+- T- va B-limfotsitlar xotirasi vaksinalar ta'sirida butunlay yo'q qilinadi
+- Antitelo hosil bo'lishiga emlash umuman ta'sir qilmaydi
+- Vaksinalarning dozasi doim kasallikdagi antigen miqdoridan ko'p bo'ladi
+- Vaksinalar antigeni organizmda ko'payib, kasallikning og'ir shaklini keltirib chiqaradi
+! Shuning uchun preparat dozasi oshiriladi va vaksinatsiya–revaksinatsiya tizimi qo'llaniladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+? 2023-yilda ikki dozali qizamiq emlash qamrovi dunyo bo'yicha o'rtacha qancha bo'lgan?
++ 65,3 %
+- 79,5 %
+- 88,2 %
+- 94,7 %
+- 72,8 %
+! Qamrov hech bir JSST mintaqasida 95 % ga yetmagan.
+@ Measles Vaccination Coverage and Anti-Measles Herd Immunity Levels (PMC11860562)
+? Populyatsion immunitet darajasi qaysi usullar bilan baholanadi?
++ Emlash qamrovi, seroepidemiologik tekshiruv va kasallanish tarixi bo'yicha
+- Kasallik o'choqlarini hududda xaritalash orqali
+- Bemorlarning o'rtacha yoshi va jinsi bo'yicha
+- Vaksina ishlab chiqarish hajmi bo'yicha
+- Patogen mikroorganizmlarni ekish va identifikatsiya qilish natijasi bo'yicha
+! Antitelo titri va emlanganlar ulushi himoyalanganlikni ko'rsatadi.
+@ Mavzu materiali (036.docx)
+? Epidemik parotit misolida, ko'p millionli shaharlarda emlash bo'lmaganda va kichik populyatsiyalarda epidemik jarayon qanday kechadi?
++ Katta shaharlarda jarayon so'nmaydi, faqat darajasi o'zgaradi; kichik populyatsiyalarda esa butunlay to'xtashi mumkin
+- Ikkala holatda ham jarayon moyil kishilar tugagach to'xtaydi va qo'zg'atuvchi populyatsiyadan butunlay yo'qoladi
+- Kichik populyatsiyalarda jarayon doimiy davom etadi, katta shaharlarda esa har yili to'xtab turadi
+- Ikkala holatda ham jarayonning kechishi populyatsiya hajmiga bog'liq bo'lmay, doim bir xil bo'ladi
+- Katta shaharlarda jarayon har yili to'xtaydi, kichik populyatsiyalarda esa doimiy davom etadi
+! Qo'zg'atuvchi aylanishi uchun yetarli moyil kishilar soni kerak, katta aholida esa doim yangi moyillar paydo bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (2016)
+#U 036 / 10: qamrov ko'rsatkichi faqat qidiruv parchasi bo'yicha tasdiqlangan
+#U 036 / 11: baholash usullari ro'yxati — muallif xulosasi

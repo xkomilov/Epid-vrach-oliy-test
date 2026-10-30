@@ -1,0 +1,97 @@
+=== 072
+? O'tkir ichak infeksiyalarini epidemiologik jihatdan yagona guruhga birlashtiruvchi yuqish mexanizmi qaysi?
++ fekal-oral mexanizm
+- aerogen mexanizm
+- transmissiv mexanizm
+- kontakt-qon (parenteral) mexanizm
+- vertikal mexanizm
+! Barcha OIK qo'zg'atuvchilari najas bilan ajralib, og'iz orqali yangi organizmga tushadi, shuning uchun profilaktika yondashuvi o'xshash.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+? Ichak infeksiyalarida yozgi-kuzgi mavsumiylik nima bilan bog'liq?
++ issiq havoda qo'zg'atuvchining oziq-ovqatda va tashqi muhitda yaxshi saqlanishi hamda pashsha faolligining ortishi bilan
+- qishda aholining tor xonalarda to'planishi va havo-tomchi yo'li bilan yuqishning kuchayishi bilan
+- yozda bolalarning emlash kalendari bo'yicha vaksinatsiya qilinishi va shu sabab immunitetning vaqtincha pasayishi hamda ota-onalarning ishga ketishi bilan
+- kuzda sabzavot va mevalarning ommaviy yig'ilishi, shu sababli hayvonlar bilan kontaktning ortishi bilan
+- bahorda qor erishi natijasida suv havzalarida qo'zg'atuvchi miqdorining keskin kamayishi hamda aholining ko'chib yurishi bilan
+! Yuqori harorat bakteriyalarning oziq-ovqatda ko'payishini tezlashtiradi, pashshalar esa ularni mexanik tashiydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+? Zoonoz tabiatli salmonellyozda infeksiya manbai sifatida qaysi hayvonlar ko'rsatilgan?
++ parranda va qoramol
+- ot va eshak kabi toq tuyoqlilar
+- ninachilar va qo'ng'izlar
+- hasharotxo'r yarasalar
+- suvda yashovchi chuchuk suv baliqlari
+! Salmonellalar asosan parranda va qoramol mahsulotlari orqali odamga o'tadi, boshqa hayvonlar bu guruhda yetakchi emas.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova; WHO. Diarrhoeal disease (fact sheet)
+? Suv yo'li bilan yuqadigan ichak infeksiyalari epidemiyasining o'ziga xos ko'rinishi qaysi?
++ ko'p sonli holatlarning bir vaqtda paydo bo'lishi
+- holatlarning oilalar ichida asta-sekin, bir necha oy davomida tarqalishi
+- faqat bitta yosh guruhida, yakka-yakka holatlar tarzida kuzatilishi
+- kasallanishning faqat qish oylarida davriy ko'tarilishi
+- bemorlarning hammasi bitta kasb egalaridan iborat bo'lishi
+! Umumiy manba (quduq yoki vodoprovod) bir paytda ko'pchilikni zararlaydi, shu sababli kasallanish keskin ko'tariladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+? Past yuqtiruvchi dozali infeksiyalar (masalan, dizenteriya) uchun qaysi yuqish yo'li xos?
++ maishiy-kontakt yo'li (iflos qo'llar, idish-tovoq va buyumlar orqali)
+- ifloslangan ichimlik suvi va vodoprovod tarmog'i orqali yuqadigan suv yo'li
+- hasharotlar chaqishi orqali yuqadigan transmissiv yo'l
+- tomchi-aerozol yo'li (yo'talganda va aksirganda)
+- qon quyish orqali yuqadigan parenteral yo'l
+! Oz miqdordagi qo'zg'atuvchi ham kasallik chaqirishi sababli iflos qo'l va buyumlar orqali yuqish ustun bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+? OIK epidemiologiyasida pashsha qanday rol o'ynaydi?
++ qo'zg'atuvchini najasdan oziq-ovqatga o'tkazuvchi mexanik tashuvchi
+- qo'zg'atuvchi ichida ko'payadigan va biologik rivojlanadigan transmissiv tashuvchi
+- qo'zg'atuvchining asosiy rezervuari va doimiy manbai
+- qo'zg'atuvchini aerozol shaklida havoga tarqatuvchi omil
+- immunitetni susaytiruvchi, shu orqali moyillikni oshiradigan omil
+! Pashsha oyoqlari va og'zi bilan qo'zg'atuvchini olib o'tadi, lekin organizmida ko'paytirmaydi, shuning uchun uni yo'qotish yuqish yo'lini uzadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+? Kasallanish suv yo'li bilan bog'liq ekanligi aniqlanganda birinchi o'ringa qanday chora chiqadi?
++ suv manbasini zudlik bilan nazorat qilish
+- aybdor mahsulotni aniqlab, muomaladan chiqarish
+- iflos qo'llarni yuvishni targ'ib qilishning oylik rejasini tuzish
+- muloqotda bo'lganlarning hammasini ommaviy emlash
+- umumiy ovqatlanish obyektining ishini uch oyga to'xtatish
+! Umumiy manba bartaraf etilmasa, yangi holatlar to'xtamaydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Qaysi OIKlarga qarshi maxsus profilaktika (vaksina) mavjud?
++ vabo, virusli gepatit A va rotavirus infeksiyasi
+- shigellyoz, salmonellyoz va esherixioz
+- kampilobakterioz, yersinioz, klostridioz va stafilokokk toksikoz
+- stafilokokk toksikoz, botulizm va listerioz
+- ichak amyobozi, lyamblioz va balantidiaz
+! Ko'pchilik OIKda vaksina yetakchi chora emas, shu sababli sanitariya tadbirlari ustuvor qoladi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Yo'riqnomaga ko'ra shigellyozda suv yo'li (vodoprovod, quduq, ochiq suv havzalari) asosan qaysi tur uchun xos?
++ Flekssner shigellasi
+- Zonne shigellasi
+- Boydi shigellasi
+- Grigoryev–Shiga shigellasi
+- Neyshtadt shigellasi
+! Milliy yo'riqnomada suv yo'li asosan Flekssner turi bilan bog'langan, alimentar yo'l esa Zonne bilan.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? JSST ma'lumotiga ko'ra OIKning aksariyatini qaysi choralar majmuasi bilan oldini olish mumkin?
++ toza suv, sanitariya va gigiyena (WASH) choralari
+- keng qamrovli antibiotik profilaktikasi va plazma quyish
+- ommaviy rentgenologik skrining va flyuorografiya
+- chegarada kuchaytirilgan karantin va havo filtrlash
+- hayvonlarni ommaviy emlash va qo'riqxonalar tashkil etish
+! Kasalliklar fekal-oral yo'l bilan yuqadi, shu sababli suv ta'minoti, sanitariya va qo'l gigiyenasi ularni ko'p holatda to'sadi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? OIKga qarshi kurashni rejalashtirishda qaysi sohalar o'rtasidagi hamkorlik muhim?
++ suv ta'minoti, kommunal xizmat va veterinariya
+- harbiy xizmat, moliya va transport boshqarmalari
+- sport, madaniyat va turizm vazirliklari
+- bank tizimi, soliq va bojxona organlari
+- elektr ta'minoti, aloqa va yo'l qurilishi korxonalari
+! Kurash faqat tibbiy sohaning kuchi bilan hal bo'lmaydi: suv, chiqindi va hayvonlar sog'lig'i boshqa xizmatlar nazoratida.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+? Bolalarda, ayniqsa chaqaloqlarda OIK qaysi holat tufayli hayot uchun xavfli bo'lib qoladi?
++ suvsizlanish (degidratatsiya)
+- yuqori qon bosimi (gipertoniya)
+- qonning ivish tezligi oshishi (giperkoagulyatsiya)
+- jigar sirrozi rivojlanishi
+- eshitish nervining zararlanishi
+! Ich ketish va qusish tufayli suyuqlik va tuz yo'qotilishi og'ir hollarda hayotga xavf soladi, regidratatsiya esa hayotni saqlab qoladi.
+@ WHO. Diarrhoeal disease (fact sheet)

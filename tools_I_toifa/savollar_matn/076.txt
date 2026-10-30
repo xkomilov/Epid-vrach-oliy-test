@@ -1,0 +1,98 @@
+=== 076
+? Ich terlama qo'zg'atuvchisi Salmonella Typhi uchun infeksiya manbai kim bo'lishi mumkin?
++ faqat odam — kasal yoki qo'zg'atuvchi tashuvchi
+- parranda va qoramol hamda kasal odam
+- yovvoyi kemiruvchilar va qushlar
+- ifloslangan tuproq va suv havzalaridagi baliqlar
+- sinantrop hasharotlar, ayniqsa pashshalar
+! Qo'zg'atuvchi faqat odam organizmida yashaydi, shu sababli kasallik antroponoz hisoblanadi.
+@ WHO. Typhoid (fact sheet)
+? Ich terlamada surunkali tashuvchilik ko'pincha qaysi a'zo patologiyasi bilan bog'liq bo'ladi?
++ o't yo'llari va o't pufagi
+- o'pka va bronxlar
+- buyrak jomi va siydik pufagi shilliq pardasi
+- me'da osti bezi va qalqonsimon bez
+- yurak klapanlari va qon tomirlari
+! Qo'zg'atuvchi o't pufagida uzoq saqlanishi mumkin va u yerdan ichakka ajralib turadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova; WHO. Typhoid (fact sheet)
+? Ich terlamaning birinchi haftasida qo'zg'atuvchini aniqlashda qaysi usul eng ishonchli hisoblanadi?
++ qondan ekish (gemokultura)
+- najasdan ekish (koprokultura)
+- o't suyuqligidan ekish (duodenal zond)
+- Vidal reaksiyasi
+- siydikni umumiy tahlil qilish
+! Kasallikning boshida bakteriyemiya bo'ladi, shu sababli qondan ajratish ayniqsa samarali.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Serologik usullar (Vidal, IFA) odatda kasallikning qaysi davridan boshlab informativ bo'ladi?
++ ikkinchi haftasidan
+- birinchi kunidan
+- inkubatsion davrning boshidan
+- uchinchi oydan
+- to'rtinchi haftadan keyingina
+! Antitelolar hosil bo'lishi uchun vaqt kerak, shu sababli birinchi haftada serologiya ishonchsiz.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Surunkali ich terlama tashuvchiligini aniqlashda qaysi laboratoriya usuli qo'llaniladi?
++ o't suyuqligini (duodenal zond) ekish
+- qondan ekish (gemokultura) birinchi haftada
+- tomoq surtmasini mikroskopiya qilish
+- teri-allergik sinama qo'yish
+- orqa miya suyuqligini ekish
+! O't suyuqligi qo'zg'atuvchining uzoq saqlanadigan joyi bo'lgani uchun aniq natija beradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Laboratoriya namunalari nima uchun antibakterial davo boshlanishidan oldin olinishi kerak?
++ antibiotik qo'zg'atuvchini ajratishni qiyinlashtiradi
+- antibiotik namunani buzilmas holga keltiradi
+- davo boshlangach bemor namuna berishdan bosh tortadi
+- antibiotik antitelolar titrini sun'iy ravishda oshiradi
+- davodan keyin namunada barcha mikroorganizmlar ko'payib ketadi
+! Davo boshlanganidan keyin ekmada qo'zg'atuvchi o'smay qolishi, tashxis ishonchliligini pasaytirishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? JSST ich terlamaga qarshi vaksinalar to'g'risida nimani ta'kidlaydi?
++ yuqori xavfli hududlar va xavf guruhlarida qo'llash tavsiya etiladi; konyugat vaksinalar (TCV) kichik bolalarda ham samarali
+- vaksina hamma joyda ommaviy majburiy qilinishi shart va sanitariya choralariga ehtiyoj qolmaydi, chunki himoya to'liq
+- vaksinalar faqat kattalar uchun mo'ljallangan va bolalarda xavfli bo'lgani uchun qo'llanilmaydi
+- vaksinalar hozircha mavjud emas va faqat hayvonlarda tajriba bosqichida sinalmoqda
+- vaksina o'choqdagi dezinfeksiya va suv nazorati o'rnini to'liq bosadi
+! Vaksina xavfi yuqori guruhlarda sanitariya choralarini to'ldiradi, ularning o'rnini bosmaydi.
+@ WHO. Typhoid (fact sheet)
+? Ich terlama o'chog'ida muloqotda bo'lganlar qancha muddat kuzatiladi va o'choq qachon so'ngan hisoblanadi?
++ bir maksimal inkubatsion davr mobaynida; shu muddatda yangi kasallanish bo'lmasa
+- 3 kun davomida; birinchi sog'lom natijadan keyin darhol so'ngan hisoblanadi
+- 1 yil davomida; har bir oilada kamida uch bemor sog'aygach
+- 2 hafta davomida; bemor kasalxonaga yotqizilgan kuni
+- umr bo'yi; barcha muloqotdagilar emlangandan so'ng
+! Kuzatuv muddati kasallikning eng uzun yashirin davriga mos bo'lishi kerak, shundan keyin yangi holat bo'lmasa o'choq tugatiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Ich terlama qo'zg'atuvchisi tashqi muhitga qaysi chiqindilar orqali chiqadi?
++ najas va siydik
+- balg'am va burun shilliq pardasi sekreti
+- ter va teri bo'laklari
+- ko'z yoshi va so'lak
+- qon va jarohat suyuqligi
+! Shu sababli yuqish fekal-oral va suv, oziq-ovqat yoki qo'llar orqali amalga oshadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? WHO ma'lumotiga ko'ra ich terlamaning inkubatsion davri qancha?
++ 6–30 kun
+- 1–3 kun
+- 40–60 kun
+- 3–4 oy
+- bir necha soat
+! Inkubatsiya uzoq bo'lgani uchun kuzatuv va o'choq muddati ham uzun.
+@ WHO. Typhoid (fact sheet)
+? Yo'riqnomaga ko'ra ich terlama bo'yicha «kichik noxush hudud» qanday hudud hisoblanadi?
++ oxirgi 3–5 yil davomida har yili bemor yoki surunkali tashuvchi qayd etilgan aholi hududi, qishloq yoki ko'cha
+- yilda bir marta suv sifati talablarga mos kelmagan va sog'lomlashtirish choralari o'tkazilmagan shahar
+- barcha yangi ochilgan mahallalar va ularning tarkibidagi barcha yangi uylar
+- bolalar bog'chalari bo'lmagan va aholisi 100 kishidan kam bo'lgan qishloqlar
+- so'nggi bir oyda faqat bitta shubhali holat qayd etilgan, lekin tashxis tasdiqlanmagan hudud
+! Bunday hududlar uchun sog'lomlashtirish rejasi ishlab chiqiladi va hokimlik tasdiqlaydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Suv yo'li bilan bog'liq ich terlama epidemiyasini maishiy-kontakt yo'lidan qaysi belgi farqlaydi?
++ kasallanish bir vaqtda ko'tariladi va bitta manba (quduq yoki vodoprovod) bilan bog'lanadi
+- holatlar asta-sekin, faqat oilalar ichida ketma-ket paydo bo'ladi
+- bemorlar bir-biridan alohida joylashgan va hech qanday umumiy omilga ega bo'lmaydi
+- kasallanish faqat qishda kuzatilib, yoz oylarida butunlay to'xtaydi
+- faqat bir yoshgacha bolalar zararlanadi, kattalar esa kasallanmaydi
+! Umumiy suv manbai ko'pchilikni bir paytda zararlaydi, kontakt yo'lida esa kasallik odamdan odamga ketma-ket o'tadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16-bob
+#U 076 / 11: «Kichik noxush hudud» ta'rifi (3–5 yil) faqat mavzu materialida keltirilgan yo'riqnoma bayoniga tayanadi.

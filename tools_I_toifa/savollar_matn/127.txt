@@ -1,0 +1,99 @@
+=== 127
+? OIV qaysi virus oilasi va avlodiga mansub?
++ Retroviridae oilasi, Lentivirus avlodi
+- Flaviviridae oilasi, Hepacivirus avlodi
+- Hepadnaviridae oilasi, Orthohepadnavirus avlodi
+- Herpesviridae oilasi, Cytomegalovirus avlodi
+- Picornaviridae oilasi, Enterovirus avlodi
+! OIV teskari transkriptaza yordamida RNKdan DNK sintez qiluvchi retroviruslarga kiradi va sekin kechuvchi infeksiya chaqiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? OITS (orttirilgan immun tanqisligi sindromi) OIV infeksiyasiga nisbatan nimani anglatadi?
++ Infeksiyaning eng ilg'or (oxirgi) klinik bosqichini
+- OIV ga qarshi hosil bo'ladigan antitelalar mavjudligini
+- Virusni tashqi muhitda saqlovchi alohida qo'zg'atuvchini
+- Infeksiyaning birinchi, o'tkir bosqichini
+- Virusning boshqa kasalliklar qo'zg'atuvchisiga aylanishini
+! OIV sababchi infeksiya, OITS esa immunitet jiddiy susayganda rivojlanadigan so'nggi bosqich, shuning uchun bu tushunchalar bir xil emas.
+@ WHO. HIV and AIDS (fact sheet)
+? Virusni 1983 yilda Parij Pasteri institutida ajratib, LAV deb atagan olim kim?
++ L. Montanye
+- R. Gallo va hamkasblari
+- A. Panov va M. Chumakov
+- L. Zilber va hamkasblari
+- R. Kox va L. Paster
+! Montanye guruhi LAV ni, Gallo guruhi HTLV-III ni ajratgan; keyinroq ikkalasi bir virus ekani aniqlangan.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? OIV 56 °C haroratda necha daqiqada o'ladi?
++ 30 daqiqada
+- 1 daqiqada
+- 5 daqiqada
+- 3 soatda
+- 24 soatda
+! Virus tashqi muhitda chidamsiz bo'lib, qizdirish va oddiy dezinfektantlar uni tez nobud qiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? JSST ma'lumotiga ko'ra odam qaysi harakat orqali OIV bilan zararlanmaydi?
++ O'pish, quchoqlash va qo'l siqish
+- Umumiy shprits va in'ektsion asboblarni ishlatish
+- Prezervativsiz jinsiy aloqa qilish
+- Steril bo'lmagan teri teshish yoki kesish muolajalari
+- Xavfsiz bo'lmagan qon quyish
+! Kundalik kontaktlar, ovqat va shaxsiy buyumlarni birga ishlatish virusni yuqtirmaydi.
+@ WHO. HIV and AIDS (fact sheet)
+? Zararlangan qon quyilganda OIV yuqish ehtimoli qancha?
++ 90 % dan yuqori
+- 0,1 % atrofida
+- 5–10 % atrofida
+- 30–40 % atrofida
+- 50 % atrofida
+! Qon eng yuqori yuqumlilikka ega bo'lib, 0,1 ml zararlangan qon ham yetarli bo'ladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? "95-95-95" maqsadining uchinchi komponenti nimani bildiradi?
++ Davolanayotgan OIV bilan yashovchilarning 95 % ida virus yuklamasi bostirilgan bo'lishi
+- OIV bilan yashovchilarning 95 % i o'z holatini bilishi, ya'ni tashxis qamrovi
+- Aniqlanganlarning 95 % i antiretrovirus terapiya olishi, ya'ni davolash qamrovi
+- Homilador ayollarning 95 % i OIV ga tekshirilishi va ularning bolalari to'liq himoyalanishi
+- Yangi tug'ilgan chaqaloqlarning 95 % i milliy kalendar bo'yicha emlanishi
+! Uchta raqam ketma-ket kaskadni: holatni bilish, terapiya olish va virus yuklamasini bostirishni bildiradi.
+@ WHO. HIV and AIDS (fact sheet)
+? Antiretrovirus terapiya olayotgan va qonida virus aniqlanmaydigan odam jinsiy sherigiga virusni yuqtiradimi?
++ Yuqtirmaydi
+- Xavf terapiyasiz holat bilan bir xil darajada yuqtiradi
+- Prezervativ ishlatilmaganda xavf taxminan 50 % bo'ladi va doim yuqtirishi mumkin
+- Sherigi erkak bo'lsa, odatda yuqtirishi mumkin va xavf saqlanadi
+- Faqat tug'ruq paytida yuqtirishi mumkin, jinsiy aloqada esa yuqtirmaydi
+! Virus yuklamasi doimiy bostirilganda jinsiy yuqish xavfi amalda yo'qoladi.
+@ WHO. HIV and AIDS (fact sheet)
+? O'zbekistonda OIV infeksiyasining dastlabki holatlari qaysi yilda aniqlangan?
++ 1987 yilda
+- 1975 yilda
+- 1981 yilda
+- 1993 yilda
+- 2000 yilda
+! 1987–1999 yillarda kasallanish past bo'lgan, 2000 yildan keyin keskin o'sgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? O'zbekistonda 2009 yilda OIV yuqishida jinsiy yo'l ulushi taxminan qancha bo'lgan?
++ 32,2 %
+- 5,0 %
+- 10,0 %
+- 60,0 %
+- 85,0 %
+! Jinsiy yo'l ulushi 2005 yildagi 10 % dan o'sib, infeksiya aholining keng qatlamiga o'tayotganini ko'rsatgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? JSST ta'rifi bo'yicha kattalar va o'smirlarda kengaytirilgan (ilg'or) OIV kasalligi uchun CD4 chegarasi qaysi?
++ CD4 soni 200 hujayra/mm3 dan kam yoki JSSTning 3–4 bosqichi
+- CD4 soni 500 hujayra/mm3 dan kam yoki JSSTning 1–2 bosqichi
+- CD4 soni 1000 hujayra/mm3 dan kam yoki virus yuklamasi aniqlanmasligi
+- CD4 soni 350 hujayra/mm3 dan yuqori va belgisiz kechish
+- CD4 soni 50 hujayra/mm3 dan kam, boshqa bosqichlarda emas
+! Immunitet jiddiy susaygan holat ilg'or kasallik deyiladi va shu mezonlar bilan belgilanadi.
+@ WHO. HIV and AIDS (fact sheet)
+? Odamdan odamga OIV yuqishining yo'llari qaysi guruhga kiritiladi?
++ Jinsiy, vertikal (onadan bolaga) va parenteral
+- Fekal-oral, vertikal va transmissiv
+- Havo-tomchi, jinsiy va fekal-oral yo'llar
+- Transmissiv, parenteral va havo-changli yo'llar
+- Maishiy-kontakt, havo-tomchi va alimentar yo'llar
+! Virus faqat qon va biologik suyuqliklar bevosita o'tganda yuqadi, shuning uchun mexanizm kontakt hisoblanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+#U 127 / 10: O'zbekistonda yuqish yo'llari ulushi bo'yicha raqamlar faqat 2009-yil ma'lumotiga tayangan, so'nggi yillar uchun tasdiqlanmagan.
+#U 127 / 3: LAV va HTLV-III ajratilishi bo'yicha ma'lumot mavzu materialidagi darslik bayoniga tayanadi.

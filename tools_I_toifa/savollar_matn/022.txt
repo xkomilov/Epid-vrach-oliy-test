@@ -1,0 +1,98 @@
+=== 022
+? Retrospektiv epidemiologik tahlilning asosiy maqsadi nima?
++ Kasallanish qonuniyatlari, barqaror sabablari va xavf omillarini aniqlab, uzoq muddatli profilaktika uchun asos yaratish
+- Joriy haftadagi kasallanish o'sishini zudlik bilan aniqlab, o'choqda shoshilinch choralarni boshlash
+- Bemorlarning individual davolash rejasini klinik ko'rsatkichlar va laboratoriya tahlillari asosida belgilab, muolaja dozalarini tanlash
+- Yangi vaksinalarning immunogenligini klinik sinov bosqichlarida baholash
+- Muassasadagi dezinfeksiya vositalari zaxirasini yillik ehtiyojga qarab hisoblash
+! Retrospektiv tahlil tezkor emas, balki tizimli bo'lib, ko'p yillik ma'lumotlar orqali strategik qarorlarga asos beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Retrospektiv tahlil operativ tahlildan qaysi jihati bilan farq qiladi?
++ U tezkor emas, rejali va tizimli tadqiqot bo'lib, odatda yil yakunida o'tkaziladi
+- U faqat kundalik kuzatuvga asoslanadi va haftalik hisobotlarda amalga oshiriladi
+- U faqat bitta o'choqdagi bemorlarning kasallik tarixlarini o'rganish bilan cheklanadi
+- U avj olish sababini o'sha zahoti aniqlab, o'choqda choralarni boshlashga qaratilgan
+- U kasallanish ma'lumotlarisiz, faqat aholining demografik tarkibiga tayanadi
+! Retrospektiv tahlil o'tgan davr ma'lumotlarini chuqur o'rganadi, operativ tahlil esa joriy vaziyatni tezkor kuzatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Retrospektiv tahlil uchun ma'lumot manbalariga quyidagilardan qaysi biri kiradi?
++ Shoshilinch xabarnomalar, ro'yxatga olish jurnallari va emlash hisobotlari
+- Bemorlarning shaxsiy kundaliklaridagi o'z-o'zini baholash yozuvlari
+- Bitta shifoxonaning ichki xo'jalik hisobotlari va uning moliyaviy yillik ma'lumotlari
+- Tibbiy xodimlarning ish haqi va ta'til jadvallari
+- Dori vositalarini sotib olish bo'yicha tijorat shartnomalari
+! Tahlil rasmiy ro'yxatga olish, statistik, laboratoriya va emlash ma'lumotlari hamda demografik ko'rsatkichlarga tayanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Retrospektiv tahlilning birinchi bosqichi qaysi?
++ Ma'lumotlarni yig'ish va ularning to'liqligi hamda ishonchliligini baholash
+- Xavf omillari bo'yicha gipotezalarni shakllantirish va sinab ko'rish
+- Epidemiologik tashxis qo'yish va yakuniy tavsiyalarni ishlab chiqish, hisobotni rasmiylashtirish
+- Kasallanishning hududlar bo'yicha taqsimotini xaritalashtirish
+- Mavsumiy ko'tarilish vaqtini belgilash va prognoz tuzish
+! Sifatsiz yoki to'liqsiz ma'lumot xulosalarni buzadi, shu bois tahlil ma'lumot sifatini baholashdan boshlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Turli hudud va davrlardagi kasallanishni to'g'ri taqqoslash uchun nimadan foydalaniladi?
++ Aholining ma'lum soniga nisbatan hisoblangan ko'rsatkichlar, masalan, 100 ming aholiga
+- Har bir hududda qayd etilgan holatlarning mutlaq sonlari, aholi soniga bog'lamasdan, yillik yig'indi sifatida
+- Faqat eng ko'p kasallangan hududning absolyut ko'rsatkichi
+- Kasalxonaga yotqizilganlar soni va davolash muddati yig'indisi
+- Hududdagi tibbiy muassasalar soniga bo'lingan umumiy xarajat
+! Aholi soni turlicha bo'lgani uchun mutlaq sonlar solishtirishga yaramaydi, nisbiy ko'rsatkich esa buni bartaraf etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Intensivlik va ekstensivlik ko'rsatkichlari qanday farqlanadi?
++ Intensivlik kasallanish darajasini, ekstensivlik esa tarkibdagi ulushni ifodalaydi
+- Intensivlik tarkibdagi ulushni, ekstensivlik esa kasallanish darajasini ifodalaydi
+- Ikkalasi ham faqat holatlarning mutlaq sonini bildiradi va bir-biridan farq qilmaydi
+- Intensivlik faqat o'lim ko'rsatkichini, ekstensivlik esa faqat emlash qamrovini bildiradi
+- Intensivlik mavsumiy tebranishni, ekstensivlik esa hududiy xaritani bildiradi
+! Kasallanish darajasi aholiga nisbatan hisoblanadi, ekstensivlik esa umumiy tarkibning qismini ko'rsatadi; ularni chalkashtirish xatoga olib keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Yillik (mavsumiy) dinamikani o'rganish qanday amaliy imkon beradi?
++ Profilaktik tadbirlarni mavsumga moslab oldindan rejalashtirish
+- Bemorlarni davolash muddatini har bir holat uchun alohida belgilash
+- Tibbiy xodimlarning lavozim maoshlarini tabaqalashtirish
+- Qo'zg'atuvchi nomini tashqi muhitdan ajratmasdan aniqlash
+- Emlash taqvimini kasallanishdan qat'i nazar bekor qilish
+! Masalan, ichak infeksiyalarining yozgi-kuzgi ko'tarilishi oldindan ma'lum bo'lsa, tadbirlar shu davrga tayyorlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Hududiy tahlilda kasallanish geografik taqsimotini ko'rsatish uchun qaysi vositalar qo'llaniladi?
++ Xaritalashtirish va geoaxborot tizimlari (GIS)
+- Faqat og'zaki so'rov natijalarini yozib borish jurnali
+- Dori vositalari narxlari va dorixonalar savdo hajmi bo'yicha tuzilgan statistik jadvallar hamda grafiklar
+- Muassasalarning xodimlar soni bo'yicha reyting jadvallari
+- Bemorlarning kasallik tarixlaridagi laboratoriya ko'rsatkichlari ro'yxati
+! Geografik tarqalish xaritada aniq ko'rinadi va muammoli hamda tabiiy o'choqli hududlarni belgilashga yordam beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Retrospektiv tahlil operativ tahlil uchun qanday mezon beradi?
++ Kutilgan (normativ) kasallanish darajasi — etalon, undan oshish epidemik noxushlik signali bo'ladi
+- Bemorlarni ajratish va gospitalizatsiya muddatini belgilovchi aniq soatlik jadval hamda tartib-qoidalar
+- Dezinfeksiya vositalarining ishchi konsentratsiyalari ro'yxati
+- Bemorlarni gospitalizatsiya qilish uchun klinik mezonlar
+- Laboratoriya reaktivlarining saqlash muddati va harorat rejimi
+! Normal chegaralar uzoq davr tahlilidan aniqlanadi, joriy darajaning ulardan oshishi esa signal sifatida qaraladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Tendensiyani aniqlash uchun ko'rgazmali ko'rsatkichlarda nima qilinadi?
++ Har bir guruhda bazis yil 100 foiz deb olinadi
+- Har bir guruhda oxirgi yil 1000 foiz deb olinadi
+- Guruhlar umumiy o'rtachaga qo'shilib, bitta raqam hosil qilinadi
+- Eng kam kasallangan yil hisobdan chiqarib tashlanadi
+- Faqat o'sish kuzatilgan yillar tanlab olinadi
+! Bazis yilga nisbatan foizda ifodalash turli guruhlardagi o'zgarish sur'atini bir xil o'lchovda taqqoslash imkonini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Yosh bo'yicha tahlilda meningokokk infeksiyasi va koli-enteritlarda nima maqsadga muvofiq deb qayd etilgan?
++ Bir yoshgacha bolalarni alohida guruh sifatida ko'rsatish, chunki ular eng moyil
+- Bir yoshgacha bolalarni 3–6 yoshli guruh bilan birlashtirib, bitta umumiy guruh sifatida ko'rsatish
+- Faqat 20 yosh va undan kattalarni tahlilga kiritish
+- 14 yoshgacha bolalarni bitta umumiy guruh sifatida qoldirish
+- Yosh bo'yicha tahlilni butunlay bekor qilish
+! Eng moyil guruh umumiy ko'rsatkichda yo'qolib ketmasligi uchun u alohida ajratiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Retrospektiv tahlilda tavsifiy (deskriptiv) epidemiologiya ma'lumotlari qaysi uch belgi bo'yicha tavsiflanadi?
++ Vaqt, joy va shaxs
+- Sabab, oqibat va davolash
+- Manba, omil va qo'zg'atuvchi
+- Yosh, jins va irq
+- Klinika, laboratoriya va profilaktika
+! Hodisalarni vaqt, joy va shaxs bo'yicha tavsiflash tavsifiy epidemiologiyaning asosi bo'lib, keyin analitik taqqoslashga o'tiladi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1
+#U 022 / 10: bazis yil 100 foiz deb olinishi hamda 11-savoldagi yosh guruhlari (0–2, 3–6, 7–14, 15–19, 20+) va bir yoshgacha bolalarni ajratish tavsiyasi faqat mavzu materiali (darslik) asosida; joriy hujjat bilan tasdiqlanmagan.

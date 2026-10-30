@@ -1,0 +1,98 @@
+=== 091
+? JSST ma'lumotiga ko'ra, Vibrio cholerae ning qaysi serogruppalari epidemiyalarni keltirib chiqaradi?
++ faqat O1 va O139 serogruppalari
+- O1 va O157 serogruppalari bilan bir qatorda H7 serovari
+- O1, O139 va barcha noagglyutinatsiyalanuvchi vibrionlar guruhi
+- klassik va El-Tor biovarlariga kiruvchi barcha O-serogruppalar
+- O139 va Ogava hamda Inaba serovarlarining o'zaro aralashmasi
+! Epidemiya potensiali faqat toksigen O1 va O139 shtammlariga xos hisoblanadi.
+@ WHO. Cholera (fact sheet)
+? Vabo uchun yashirin davr JSST ma'lumotiga ko'ra qancha davom etadi?
++ 12 soatdan 5 kungacha
+- 1 kundan 21 kungacha, odatda 2–3 hafta
+- 4 soatdan 8 kungacha, odatda 36 soat atrofida
+- 7 kundan 1 yilgacha, ba'zan undan ham uzoq
+- 5 kundan 17 kungacha, o'rtacha 14 kun
+! Qisqa yashirin davr o'choqda tez va portlashsimon tarqalishni ta'minlaydi.
+@ WHO. Cholera (fact sheet)
+? Epidemik o'choqda vabo bilan har bir yaqqol kasallangan bemorga o'rtacha nechta belgisiz bemor to'g'ri keladi?
++ 20 dan 100 tagacha
+- 2 dan 5 tagacha
+- 5 dan 10 tagacha
+- 150 dan 300 tagacha
+- 500 dan 1000 tagacha
+! Belgisiz tashuvchilar ko'pligi sababli ularni aniqlash qiyin va zanjir uzilmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Vaboning yuqish mexanizmi qaysi javobda to'g'ri ko'rsatilgan?
++ fekal-oral mexanizm, yo'llari suv va oziq-ovqat orqali
+- aerogen mexanizm, yo'llari havo-tomchi va havo-chang orqali
+- transmissiv mexanizm, tashuvchi hasharotlar chaqishi orqali
+- vertikal mexanizm, homiladorlik va tug'ruq davrida onadan bolaga
+- kontakt-jinsiy mexanizm, jinsiy aloqa va qon orqali
+! Qo'zg'atuvchi najas bilan ajralib, ifloslangan suv va ovqat orqali og'izga tushadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016; WHO. Cholera (fact sheet)
+? Quyidagi holatlardan qaysi biri vaboning tez rivojlanishiga moyillik tug'diradi?
++ oshqozon shirasi kislotaliligining pastligi
+- oshqozon shirasi kislotaliligining ortiqchaligi
+- yuqori darajadagi qon bosimi bilan kechuvchi gipertoniya
+- badan vaznining me'yordan ortiqligi bilan kechuvchi semizlik
+- yurak qopqoqlari nuqsonlari bilan bog'liq surunkali yetishmovchilik
+! Kislotalilik pasayganda me'da to'siqlari vibrionlarni yo'q qila olmaydi, ko'proq mikrob ichakka o'tadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Vibrionlar qanday muhitda yaxshi saqlanadi?
++ nam va ishqoriy muhitda
+- quruq va kislotali muhitda
+- 100 °C gacha qizdirilgan suyuq muhitda
+- to'g'ridan-to'g'ri quyosh nuri tushadigan quruq yuzalarda
+- yuqori konsentratsiyali xlorli eritmalarda
+! Vibrionlar qurishga, qaynatishga va kislotali muhitga chidamsiz bo'lib, ishqoriy va nam sharoitda ko'payadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? JSST ga ko'ra vaboning yengil va o'rtacha shakllarida asosiy davolash usuli qaysi?
++ og'iz orqali regidratatsiya eritmasini berish
+- vena ichiga ommaviy antibiotiklar yuborish kursi
+- ichak antiseptiklarini uzoq muddat qabul qildirish
+- qusishga qarshi vositalar bilan ichish cheklanishi
+- qon quyish va plazma almashtirish muolajalari
+! Asosiy xavf suv-elektrolit yo'qotilishi bo'lgani uchun suyuqlikni tiklash hal qiluvchi hisoblanadi.
+@ WHO. Cholera (fact sheet)
+? Vabo kabi karantin infeksiyalariga gumon qilinganda xabarnoma qanday beriladi?
++ navbatdan tashqari, kechiktirilmasdan
+- odatdagidek, oy yakunidagi umumiy hisobotda
+- laboratoriya tasdig'i olingandan keyin, haftalik jadval bo'yicha
+- faqat bemor gospitalizatsiya qilingan taqdirda, 24 soatdan keyin
+- yil oxirida, yig'ma statistik hisobot tarkibida
+! Karantin kasalliklar tez chegaradan o'tib ketishi mumkinligi uchun darhol xabar berish talab etiladi.
+@ O'zR SSV buyrug'i, 25.01.2012, 25-son
+? Yaqqol shakldagi vabo bemori kasallikning dastlabki 4–5 kunida kuniga qancha najas ajratishi mumkin?
++ 10–20 litr
+- 0,5–1 litr
+- 1,5–2 litr
+- 3–4 litr
+- 30–40 litr
+! Ichakdan ommaviy suyuqlik yo'qotilishi suvsizlanishni tez rivojlantiradi va atrof-muhitni kuchli ifloslantiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Vabo qo'zg'atuvchisi madaniyatining harakatchanligi va O1 antiserumi bilan qanday reaksiya orqali baholanadi?
++ O1 zardobi bilan slayd-agglutinatsiya reaksiyasi
+- Vidal reaksiyasi bilan zardobli titrni o'rganish
+- Rayt va Xeddelson sinamalari bilan qiyosiy baholash
+- Mantu sinamasi bilan teri ichi sezuvchanlikni aniqlash
+- Shik reaksiyasi bilan antitoksik immunitetni tekshirish
+! Slayd-agglutinatsiya ajratilgan madaniyatning serogruppasini tez tasdiqlash imkonini beradi.
+@ Vabo kasalligining laboratoriya tashxisi bo'yicha uslubiy ko'rsatma (SSV buyrug'iga 10-ilova)
+? Ochiq suv havzalarini vibrionlarga muntazam tekshirish ayniqsa qaysi mavsumda kuchaytiriladi?
++ yozgi-kuzgi issiq mavsumda
+- qishki sovuq mavsumda, suv muzlaganda
+- erta bahorda, qor erish davrida
+- faqat toshqinlar bo'lgan oylarda
+- yilning barcha oylarida bir xil hajmda
+! Issiq mavsumda vibrionlar suvda ko'payadi va ichak infeksiyalari avj oladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? JSST bo'yicha vabo tashxisini tasdiqlash uchun tezkor testlardan keyin qaysi usullar qo'llanadi?
++ madaniyat, seroagglutinatsiya yoki PZR
+- gemagglyutinatsiyani tormozlash reaksiyasi va elektron mikroskopiya
+- Mantu sinamasi hamda rentgenologik tekshiruv
+- umumiy qon tahlili va koprologik tekshiruv
+- teri-allergik sinamalar hamda biosinov
+! Tezkor testlar faqat erta aniqlash uchun foydali bo'lib, aniq tasdiq qo'zg'atuvchini ajratish yoki genomini aniqlash orqali olinadi.
+@ WHO. Cholera (fact sheet)
+#U 091 / 9: mavzu materialidagi 10–20 litr va 10^6–10^10 ko'rsatkichlari faqat darslikka tayangan.

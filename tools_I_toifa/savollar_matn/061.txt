@@ -1,0 +1,98 @@
+=== 061
+? Qizilchaning yashirin davri qancha davom etadi?
++ 11–22 kun
+- 3–7 kun, qizamiqdagi kabi qisqa muddat
+- 7–10 kun, ko'pincha gripp yashirin davriga yaqin
+- 25–35 kun, epidemik parotitga xos uzoq muddat
+- 1–2 kun, o'tkir ichak infeksiyalariga o'xshash muddat
+! Qizilcha yashirin davri nisbatan uzun va keng oraliqqa ega, bu o'choqda kuzatuv muddatini belgilashda hisobga olinadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+? Qizilchada toshma qaysi xususiyatga ega?
++ yuz, bo'yin va quloq orqasidan boshlanib, bir kunda tarqaladi, kaftlarga tushmaydi
+- avval kaftlar va tovonlarda paydo bo'lib, keyin tanaga o'tadi va pigmentatsiya qoldirib yo'qoladi
+- qorin va bel sohasida bo'lib, chandiq qoldiradi hamda 2–3 haftagacha saqlanadi
+- bosqichma-bosqich 4–5 kunda paydo bo'lib, dastlab shilliq qavatlarda Filatov–Koplik dog'lari bilan kechadi
+- oyoq-qo'llarning yozuvchi yuzasida bo'lib, bir haftadan keyin yirik pufakchalarga aylanadi
+! Qizilcha toshmasi tez tarqaladi va kaftlarga o'tmaydi, izsiz yo'qoladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+? Qizilchani qizamiqdan ajratishda qaysi belgi eng muhim hisoblanadi?
++ intoksikatsiyaning yo'qligi va ensa hamda quloq orqasi limfa tugunlarining doimiy kattalashuvi
+- yuqori isitma bilan og'ir intoksikatsiya va yo'talning kuchli bo'lishi hamda bemor ahvolining og'irligi
+- fotofobiya bilan birga konyunktivit va og'iz shilliq qavatidagi dog'lar, keyin po'st tashlash
+- toshmaning kaftlarga ham tushishi hamda keyinchalik po'st tashlashi bilan yirik dog'lar qoldirishi
+- tomoqdagi fibrinli karash va bo'yinning bo'rtib shishishi hamda og'ir nafas qisilishi
+! Qizamiq ko'proq og'ir intoksikatsiya bilan kechadi, qizilchada esa limfadenit doimiy va holat yengil.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+? Qizilcha gumon qilingan bemordan virusologik tekshiruv uchun namunalar qanday saqlanadi?
++ +4...+8 °C haroratda saqlanadi, muzlatilmaydi
+- −20 °C da chuqur muzlatilib, laboratoriyaga muzlagan holda yuboriladi
+- xona haroratida (+20...+25 °C) formalin eritmasida 7 kun saqlanadi
+- +37 °C termostatda saqlanib, 24 soat ichida ekiladi
+- −70 °C haroratda quruq muz bilan o'rab, faqat suyuq azotda tashiladi
+! Virus namunalarining faolligini saqlash uchun sovuq zanjir talab etiladi, ammo muzlatish namunani buzishi mumkin.
+@ O'zR SSV buyrug'i ilovasi (qizamiq va qizilcha namunalarini yig'ish bo'yicha uslubiy ko'rsatma)
+? Qizilchaga qarshi vaksinada qaysi shtamm ishlatiladi?
++ Wistar RA 27/3 tirik susaytirilgan shtammi
+- Edmonston–Zagreb o'ldirilgan shtammi, qizamiqqa qarshi preparatlarda
+- L-3 (Smorodintsev) tirik shtammi, parotit komponentida qo'llanadigan
+- Sabin 1 tirik oral shtammi, poliomielitga qarshi vaksinada
+- BCG-1 Moskva tirik shtammi, silga qarshi emlashda
+! Qizilcha komponenti tirik susaytirilgan Wistar RA 27/3 shtammiga asoslangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+? Milliy emlash kalendarida qizilchaga qarshi KPK vaksinasi qaysi yoshlarda beriladi?
++ 12 oylikda KPK-1 va 6 yoshda KPK-2
+- 2 oylikda birinchi doza va 4 oylikda ikkinchi doza
+- 9 oylikda KPK-1 va 14 yoshda KPK-2 revaksinatsiya sifatida
+- 3 oylikda KPK-1 va 18 oylikda KPK-2
+- 6 oylikda KPK-1 va 12 yoshda KPK-2
+! Kalendarda ikki dozali sxema qo'llanadi, boshlang'ich emlash bir yoshda o'tkaziladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Qizilcha o'chog'ida bemor bilan aloqada bo'lgan qaysi shaxslar emlanadi?
++ 6 oylikdan 30 yoshgacha bo'lgan, emlanmagan va kasallanmagan shaxslar
+- 1 yoshdan 5 yoshgacha bo'lgan barcha bolalar emlanganlik holatidan qat'i nazar
+- faqat homilador ayollar, ular uchun emlash eng xavfsiz hisoblanadi
+- 14 yoshdan keyin hamma kattalar, jumladan qizilchani o'tkazganlar ham
+- 6 oygacha bo'lgan chaqaloqlar, ularning ona antitelalari bo'lsa ham
+! O'choqda emlash faqat himoyasi bo'lmagan shaxslar uchun belgilangan, shu bois yosh va kasallanganlik hisobga olinadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Qizilchaga qarshi emlash dasturlarining asosiy maqsadi nima?
++ homilaning infeksiyalanishi va tug'ma qizilcha sindromining oldini olish
+- bolalarda toshma bilan kechadigan barcha kasalliklar sonini nolgacha kamaytirish
+- kattalarda artralgiya va artrit rivojlanishini to'liq bartaraf etish
+- tug'ish yoshidagi ayollar orasida bepushtlik chastotasini pasaytirish
+- maktab o'quvchilarining ta'tilda kasallanishini kamaytirish
+! Qizilcha yengil kechadi, asosiy xavf homila zararlanishi bilan bog'liq.
+@ CDC. Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 15: Congenital Rubella Syndrome
+? Homiladorlikning qaysi davrida qizilcha bilan zararlanish homila uchun eng xavfli hisoblanadi?
++ dastlabki 12 hafta, ya'ni 1-trimestr
+- 20-haftadan keyingi 3-trimestr davri
+- faqat tug'ruqdan oldingi so'nggi 7 kun
+- 24–28-haftalar oralig'i, ikkinchi trimestr oxiri
+- homiladorlikdan oldingi 3 oy
+! Organogenez davrida virus homila a'zolarini zararlaydi, shu sababli erta muddatda nuqsonlar xavfi yuqori bo'ladi.
+@ CDC. Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 15: Congenital Rubella Syndrome
+? Klinik belgilari bo'lmagan homilador ayolda qizilchaga qarshi antitelalarning qanday ko'rsatkichida keyingi tibbiy kuzatuv o'tkazilmaydi?
++ birinchi tekshiruvda IFA bo'yicha 25 XB/ml va undan yuqori
+- 5 XB/ml dan past bo'lganda, antitela yetishmasa ham
+- 10 XB/ml, lekin faqat ikkinchi tekshiruvdan keyin
+- 100 XB/ml dan yuqori bo'lganda va faqat toshma bo'lsa
+- har qanday natijada, antitela bo'lmasa ham kuzatuv to'xtatiladi
+! Yetarli IgG darajasi himoya borligini ko'rsatadi, past natijada esa kuzatuvni davom ettirish kerak.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+? Tug'ma qizilchali chaqaloqlar infeksiya manbai sifatida qancha vaqt virusni ajratadi?
++ 1,5–2 yoshgacha
+- tug'ilgandan keyin 3–5 kungacha
+- faqat 1–2 oygacha
+- 5–6 yoshgacha
+- hayotining oxirigacha doimiy
+! Tug'ma infeksiyada virus uzoq saqlanadi, shuning uchun bunday bolalar atrofdagi homiladorlar uchun xavfli bo'lishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+? Qizilchaga qarshi ikki dozali KPK emlashda qamrov kamida qancha bo'lishi rejalashtiriladi?
++ kamida 95%
+- kamida 60% bolalarda
+- 70–75% atrofida yetarli hisoblanadi
+- kamida 80% faqat tug'ish yoshidagi ayollarda
+- 100% bo'lmasa, dastur samarasiz
+! Populyatsiya immunitetini yetarli darajada ushlash uchun yuqori qamrov talab etiladi.
+@ SanQvaM № 0239-07/3 (25.07.2017); Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bob
+#U 061 / 12: ikki dozali KPK emlashda qamrovni kamida 95% saqlash rejasi faqat mavzu materialida keltirilgan.

@@ -1,0 +1,97 @@
+=== 014
+? Epidemiyaga qarshi chora-tadbirlar epidemik jarayonning qaysi uch bo'g'iniga ta'sir qiladi?
++ Infeksiya manbai, yuqish mexanizmi va qabul qiluvchan organizm
+- Qo'zg'atuvchi, inkubatsiya davri va klinik shakl
+- Bemor, shifokor va davolash muassasasi
+- Tashxis, davolash va reabilitatsiya bosqichlari
+- Tashqi muhit, iqlim sharoiti, ijtimoiy omillar va biologik xavf omillari
+! Epidemik jarayon zanjiri shu uch bo'g'indan iborat, tadbirlar eng zaif bo'g'inga yo'naltiriladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagi tadbirlardan qaysi biri infeksiya manbaiga qaratilgan yo'nalishga kiradi?
++ Tashuvchilarni aniqlab sanatsiya qilish
+- Dezinseksiya va deratizatsiya o'tkazish
+- Rejali emlash kalendariga rioya qilish
+- Ichimlik suvini xlorlab zararsizlantirish
+- Shoshilinch profilaktika uchun immunoglobulin yuborish
+! Bemorlar va tashuvchilarni aniqlash, ajratish va davolash manbaga ta'sir qiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Dezinfeksiya, dezinseksiya va deratizatsiya qaysi yo'nalish tadbirlari hisoblanadi?
++ Yuqish mexanizmiga qaratilgan tadbirlar
+- Infeksiya manbaiga qaratilgan tadbirlar
+- Qabul qiluvchan organizmga qaratilgan tadbirlar
+- Ma'muriy-huquqiy tadbirlar
+- Faqat davolash-tashxis tadbirlari
+! Bu choralar qo'zg'atuvchining tashqi muhitdagi yo'llarini uzadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Shoshilinch profilaktika vositalariga qaysi biri kiradi?
++ Bakteriofag, immunoglobulin va antibiotik
+- Dezinfeksiyalovchi eritma, insektitsid va rodentitsid
+- Karantin, izolyatsiya va kuzatuv
+- Sanitariya-ma'rifiy ishlar va gigiyena nazorati
+- Suv ta'minoti va kanalizatsiya tizimini yaxshilash
+! Shoshilinch profilaktika qabul qiluvchan organizmni himoyalashga qaratilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Ichak infeksiyalarida (fekal-oral mexanizm) asosiy e'tibor qaysi choralarga qaratiladi?
++ Yuqish yo'llarini uzuvchi sanitariya-gigiyenik choralarga
+- Yagona rejali immunizatsiya choralariga
+- Kemiruvchilar sonini kamaytirish choralariga
+- Tashuvchi kanalarga qarshi kurash choralariga
+- Havoni zararsizlantirish va niqob taqish choralariga
+! Suv, oziq-ovqat va shaxsiy gigiyena nazorati bu infeksiyalarda yetakchi hisoblanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Havo-tomchi infeksiyalarida nima uchun asosiy urg'u immunprofilaktikaga beriladi?
++ Yuqish yo'lini uzish qiyin bo'lgani uchun
+- Bu infeksiyalarda manba doim hayvon bo'lgani uchun
+- Qo'zg'atuvchi faqat suv orqali yuqgani uchun
+- Dezinfeksiya qonun bilan taqiqlangani uchun
+- Bu infeksiyalar faqat bolalarda uchragani uchun
+! Havo orqali yuqishni texnik vositalar bilan to'xtatib bo'lmaydi, shuning uchun moyil organizm himoyalanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Zoonozlarda yetakchi yo'nalish qaysi?
++ Infeksiya manbai bo'lgan hayvonlar ustidan nazorat
+- Aholining umumiy immunizatsiyasi va revaksinatsiyasi
+- Suv ta'minotini xlorlash va filtrlash
+- Havoni ultrabinafsha nurlar bilan zararsizlantirish
+- Bemor odamlarni barchasini kasalxonaga yotqizish
+! Zoonozlarda manba hayvon bo'lgani sababli veterinariya-sanitariya choralari asosiy.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagi darajalarning qaysi birida qonunchilik, milliy dasturlar va moliyalashtirish amalga oshiriladi?
++ Davlat darajasida
+- Mahalliy darajada, QVP tomonidan
+- Hududiy darajada, sanitariya-epidemiologiya xizmati tomonidan
+- Alohida oila darajasida
+- Davolash muassasasi bo'limi darajasida
+! Emlash kalendari kabi milliy dasturlar va xalqaro hamkorlik davlat darajasiga xos.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Rejali (profilaktik) epidemiyaga qarshi tadbirga qaysi biri kiradi?
++ Dekretlangan kontingentni tekshirish
+- Yakuniy dezinfeksiya o'tkazish
+- Muloqotdagilarni kuzatish
+- Bemorni o'choqdan ajratish
+- O'choqda shoshilinch profilaktika o'tkazish
+! Rejali tadbirlar epidemik vaziyatdan qat'i nazar muntazam o'tkaziladi, qolganlari esa o'choqda bajariladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Zamonaviy epidemiologiyada rejali profilaktik tadbirlarga ustunlik berilishining sababi nima?
++ Kasallikning oldini olish uni avj olgandan keyin bartaraf etishdan arzonroq va samaraliroq
+- O'choqdagi tadbirlar qonun bo'yicha bekor qilingani va ularga hojat qolmagani hamda xodimlar qisqartirilgani
+- Profilaktik tadbirlar hech qanday resurs va xodim talab qilmagani uchun
+- Epidemiologik nazorat ma'lumotlari ahamiyatsiz bo'lib qolgani sababli
+- O'choqlar hech qachon yuzaga kelmasligi isbotlangani sababli
+! Yuqori emlash qamrovi va sanitariya infratuzilmasi o'choqlar sonini kamaytiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiyaga qarshi tadbirlar rejasida nimalar ko'rsatilishi kerak?
++ Bajarish muddatlari, mas'ul ijrochilar, ma'muriy va moddiy ta'minot
+- Faqat bemorlarning ismlari va manzillari ro'yxati
+- Klinik davolash standartlari va dori dozalari
+- Laboratoriya reaktivlarining narxlari va yetkazib beruvchilar
+- Aholining soliq to'lash tartibi va muddatlari
+! Yaxshi reja aniq maqsad, bajaruvchilar, muddatlar va nazorat ko'rsatkichlarini o'z ichiga oladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Muammoli-tematik yoki muammoli-maqsadli rejalarning tashabbuskori kim bo'ladi?
++ Epidemiologlar
+- Mahalliy hokimiyat rahbarlari
+- Veterinariya xizmati mutaxassislari
+- Davolash muassasalarining bosh hamshiralari
+- Maktab direktorlari
+! Muammo turli xizmatlar va hokimiyat organlari ishtirokida hal etilganda epidemiologlar reja tashabbuskori bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016

@@ -1,0 +1,97 @@
+=== 034
+? JSSTga ko'ra, sog'liqni saqlash faoliyati chiqindilarining taxminan qancha qismi oddiy, xavfsiz chiqindi hisoblanadi?
++ Taxminan 85 foizi
+- Taxminan 50 foizi, qolgan yarmi yuqumli yoki kimyoviy xavf tug'diradi
+- Taxminan 65 foizi, qolgan qismi asosan o'tkir uchli buyumlardan iborat bo'ladi
+- Taxminan 95 foizi, xavfli material esa faqat radioaktiv chiqindilardan iborat bo'ladi
+- Taxminan 75 foizi, qolgan qismi asosan sitotoksik chiqindilardan iborat
+! Qolgan taxminan 15 foizi yuqumli, kimyoviy yoki radioaktiv xavf tug'dirishi mumkin.
+@ WHO. Health-care waste (fact sheet)
+? 0317-15-son SanQvaM bo'yicha tibbiy chiqindilar nechta xavflilik sinfiga bo'linadi?
++ Beshta sinfga (A, B, V, G, D)
+- Uchta sinfga: xavfsiz, xavfli va o'ta xavfli
+- To'rtta sinfga: oddiy, yuqumli, kimyoviy va radioaktiv
+- Oltita sinfga: oddiy, yuqumli, patologik, o'tkir uchli, kimyoviy va radioaktiv
+- Ikkita sinfga: yuqumli va yuqumli bo'lmagan chiqindilar
+! Sinflar epidemiologik, toksikologik va radiatsion xavfliligiga qarab ajratilgan.
+@ SanQvaM № 0317-15
+? Potensial yuqumli (B sinf, xavfli) chiqindilar uchun qaysi rangdagi paket belgilangan?
++ Sariq
+- Oq
+- Qora
+- Jigarrang
+- Qizil
+! Rang sinfni tez aniqlash va aralashib ketishning oldini olish uchun belgilangan.
+@ SanQvaM № 0317-15
+? Muddati o'tgan dori vositalari, sitostatiklar va simob tutuvchi asboblar chiqindilari qaysi sinfga kiradi?
++ G sinfi (sanoat chiqindilariga yaqin)
+- A sinfi (bemorlar bilan aloqada bo'lmagan chiqindilar)
+- B sinfi (potensial yuqumli chiqindilar)
+- D sinfi (radioaktiv chiqindilar)
+- V sinfi (o'ta xavfli yuqumli chiqindilar)
+! Bu chiqindilar kimyoviy toksik xususiyatga ega.
+@ SanQvaM № 0317-15
+? V sinf (favqulodda xavfli) chiqindilarni zararsizlantirishda qaysi usullar majburiy?
++ Hosil bo'lgan joyda fizik usullar (termik, bug'li, mikroto'lqinli, radiatsion)
+- Faqat kimyoviy dezinfeksiya, u muassasa tashqarisida maxsus kompaniya tomonidan o'tkaziladi
+- Zararsizlantirmasdan maxsus transportda poligonga olib chiqish
+- Hosil bo'lgan joyda qisqa muddatli ultrabinafsha nurlatish
+- Ochiq maydonda yoqish, chunki bu eng arzon va tez usul hisoblanadi
+! Kimyoviy dezinfeksiya bu sinf uchun faqat oziq-ovqat chiqindisi, bemor ajratmalari va o'choqdagi birlamchi tadbirlarda ruxsat etiladi.
+@ SanQvaM № 0317-15
+? Chiqindi paketi qancha to'lganda mas'ul xodim uni bog'laydi?
++ 3/4 qismigacha
+- 1/4 qismigacha
+- 1/2 qismigacha
+- Butunlay to'lguncha
+- 2/3 qismigacha
+! Haddan ortiq to'ldirilgan paket yirtilishi va jarohat yetkazishi mumkin.
+@ SanQvaM № 0317-15
+? B sinf chiqindilari uchun konteynerlar kamida qanday chastotada almashtiriladi?
++ Kamida 8 soatda bir marta
+- Har 2 soatda bir marta
+- Sutkada bir marta
+- Haftada bir marta
+- Har 12 soatda bir marta
+! Konteyner bir smenada bir marta, lekin sakkiz soatda kamida bir marta almashtiriladi.
+@ SanQvaM № 0317-15
+? Chiqindilarni yig'ishda quyidagi harakatlardan qaysi biri taqiqlanadi?
++ Injeksiyadan keyin ignaga qopqoqcha kiydirish
+- O'tkir uchli buyumlarni teshilmaydigan qattiq idishga yig'ish
+- Xodimning maxsus kiyim va qo'lqopda ishlashi
+- To'lgan idishni yorliqlab, sana va mas'ul shaxs nomini yozish
+- Xodimlarni chiqindi to'kilib ketganda harakat tartibiga o'qitish
+! Qopqoqcha kiydirish paytida xodim ignaga jarohatlanishi va qon orqali infeksiya yuqishi xavfi bor.
+@ SanQvaM № 0317-15
+? B va V sinf chiqindilari yozda va qishda necha soatdan ortiq saqlansa, sovutgichga joylanadi?
++ Yozda 24 soatdan, qishda 48 soatdan ortiq saqlansa
+- Yozda 12 soatdan, qishda 24 soatdan ortiq saqlansa
+- Yozda 48 soatdan, qishda 72 soatdan ortiq saqlansa
+- Yozda 8 soatdan, qishda 12 soatdan ortiq saqlansa
+- Yozda 36 soatdan, qishda 72 soatdan ortiq saqlansa
+! Issiq mavsumda chiqindi tezroq chiriydi va mikroblar ko'payadi, shu sababli muddat qisqaroq.
+@ SanQvaM № 0317-15
+? Maxsus tashkilot va uskuna bo'lmaganda bir martalik shpritslar avtoklavda qaysi rejimda ishlanadi?
++ 132 °C haroratda 20 daqiqa
+- 121 °C haroratda 45 daqiqa
+- 160 °C haroratda 150 daqiqa
+- 100 °C haroratda 60 daqiqa
+- 134 °C haroratda 5 daqiqa
+! Ishlov berilgan shpritslar ishlatib bo'lmaydigan holga keltirilgach, poligonga ko'miladi.
+@ SanQvaM № 0317-15
+? Markazlashgan termik yo'qotishda dioksinlar to'liq parchalanishi uchun piroliz pechlarida qanday harorat qo'llaniladi?
++ 1200–1300 °C
+- 600–700 °C
+- 800–900 °C
+- 400–500 °C
+- 1400–1500 °C
+! Past haroratda yoqish dioksin va furanlar chiqishiga olib kelishi mumkin.
+@ SanQvaM № 0317-15; WHO. Health-care waste (fact sheet)
+? Chiqindi bilan ishlovchi shaxslar ishlab chiqarish nazoratini qaysi chastotada o'tkazadi (vizual va hujjat asosida)?
++ Kamida oyda bir marta
+- Har kuni
+- Chorakda bir marta
+- Yilda bir marta
+- Kamida haftada bir marta
+! Zararsizlantirish samaradorligini mikrobiologik nazorat qilish esa yilda kamida bir marta o'tkaziladi.
+@ SanQvaM № 0317-15

@@ -1,0 +1,98 @@
+=== 044
+? Sovuqlik zanjiri nima?
++ Vaksinalarni ishlab chiqaruvchidan emlanuvchigacha tavsiya etilgan haroratda saqlashni ta'minlovchi uzluksiz tizim
+- Vaksinalarni faqat tuman markazlarida, markaziy ombor sharoitida muzlatilgan holda saqlash va mahalliy tarqatish tizimi
+- Emlash kalendari bo'yicha bolalarni ro'yxatga olish va emlanganligini hisobga olish tizimi
+- Vaksinaning yon ta'sirlarini aniqlash va noxush hodisalarni qayd etish tizimi
+- Emlash xonalarida havoni ultrabinafsha nurlari yordamida zararsizlantirish tizimi
+! Tizimning mohiyati — harorat nazoratining bir bosqichda ham uzilmasligi, chunki bitta uzilish butun zanjirni buzilgan deb hisoblashga asos bo'ladi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Ko'pchilik vaksinalar uchun standart saqlash harorati qanday?
++ +2 °C dan +8 °C gacha
+- -2 °C dan +2 °C gacha
+- +8 °C dan +15 °C gacha
+- +15 °C dan +25 °C gacha
+- -15 °C dan -25 °C gacha
+! Bu oraliq muzlashdan ham, issiqlik ta'siridan ham saqlaydi va faollikni uzoq muddat ushlab turadi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Muzlash gumon qilingan adsorbsiyalangan vaksinani tekshirish uchun qaysi sinov qo'llaniladi?
++ Chayqatish sinovi (shake test)
+- Flakon rangini baholash orqali tekshirish
+- Vaksinani +37 °C da bir sutka saqlab ko'rish
+- Qo'zg'atuvchini oziq muhitga ekib o'stirish
+- Termometr yordamida tashqi harorat o'lchovi
+! Muzlab erigan adsorbsiyalangan vaksinada zarrachalar yirik cho'kma hosil qiladi, bu tashqi ko'rinishdan ko'rinmasligi mumkin.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Vaksina flakonidagi VVM (vaccine vial monitor) indikatori nimani ko'rsatadi?
++ Vaksina issiqlik ta'siriga qancha vaqt uchraganini
+- Vaksinaning yaroqlilik muddati qachon tugashini
+- Vaksina muzlab qolgan-qolmaganini aniq ravishda
+- Flakon ichidagi antigen konsentratsiyasini
+- Vaksinaning ishlab chiqarilgan joyi va seriyasini
+! Indikator rangi issiqlikka ta'sirlangan umumiy vaqt ortishi bilan o'zgaradi va yaroqsizlikni baholashga yordam beradi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Emlash nuqtasigacha vaksinalarni olib borish uchun qaysi jihoz qo'llaniladi?
++ Vaksina tashish sumkasi (vaccine carrier)
+- Sovutuvchi kamera yoki sovutgichli ombor xonasi
+- Muzlatgichli yuk avtomobili, uzoq masofa uchun
+- Ultra-sovutuvchi muzlatgich va quruq muz
+- Termometr-jurnal majmuasi
+! Sumka muz akkumulyatorlari bilan kichik hajmdagi vaksinani oxirgi yo'lda sovuq holda ushlab turadi, katta hajm esa boshqa jihozlarda tashiladi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Muz akkumulyatorlari tashishdan oldin nima uchun «konditsiyalanadi»?
++ Vaksina haddan ortiq sovib muzlab qolmasligi uchun
+- Vaksina tezroq qizib, faolligi oshishi uchun
+- Akkumulyator ichidagi suvni yangilab turish uchun
+- Flakon yorlig'i namlikdan buzilib ketmasligi uchun
+- Tashish vaqtini ikki baravar qisqartirish uchun
+! Muzdan yangi chiqarilgan paket sirtining harorati 0 °C dan ancha past bo'ladi va vaksina bilan tegib muzlashi mumkin.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Vaksinalar muzlatgich eshigidagi javonda nega saqlanmaydi?
++ U yerda harorat beqaror bo'ladi
+- U yerda yorug'lik juda kuchli tushadi
+- U yerda havo aylanishi mutlaqo bo'lmaydi
+- U yerda namlik muzlashni tezlashtiradi
+- U yerda flakonlar tez-tez tushib ketadi
+! Eshik ochilganda issiq havo darhol shu javonlarga tegadi, shuning uchun harorat tez-tez o'zgaradi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Vaksina saqlanadigan muzlatgichda harorat qanchalik tez-tez o'lchanib, jurnalda qayd etilishi tavsiya etiladi?
++ Kuniga kamida ikki marta
+- Haftada bir marta
+- Oyda ikki marta
+- Faqat vaksina qabul qilinganda
+- Yilda bir marta, texnik ko'rik vaqtida
+! Tez-tez o'lchash harorat buzilishini erta aniqlash va zaxira choralarni o'z vaqtida ko'rish imkonini beradi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Harorat buzilishi aniqlanganda vaksinalar bilan nima qilinadi?
++ Darhol ajratib qo'yiladi va yaroqliligi ishlab chiqaruvchi ko'rsatmasi asosida baholanadi
+- Qisqa muddatda ishlatib yuboriladi, keyin saqlash rejimi tiklanadi
+- Muzlatgichda qoldirilib, barchasi bir hafta kutiladi va yaroqli deb qabul qilinadi
+- Harorat qaytib normallashgach, odatdagi zaxiraga qo'shib qo'yiladi
+- Barcha flakonlar yo'q qilinadi, baholash o'tkazilmaydi
+! Sifatli baholash qarorning asosi bo'ladi: ba'zi vaksinalar qisqa vaqtli o'zgarishga chidaydi, boshqalari esa yo'q.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Milliy sanitariya qoidalariga ko'ra rotavirus vaksinasi qanday saqlanadi?
++ +2 °C dan +8 °C gacha, muzlatilmaydi
+- Qat'iy muzlatilgan holda, -20 °C da
+- Xona haroratida, qorong'i joyda
+- Muzlatilib, faqat tashish vaqtida eritiladi
+- -60 °C dan -80 °C gacha ultra-sovuqda
+! Tirik rotavirus vaksinasi faqat sovutilgan holatda saqlanadi; qoidalarda muzlatishga ruxsat faqat bitta og'iz vaksinasi uchun berilgan.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Sovuqlik zanjiri buzilgan vaksina bilan emlashning epidemiologik oqibati qanday?
++ Bola rasman emlangan hisoblanadi, ammo himoyalanmagan bo'ladi, aholi immun qatlami pasayadi
+- Bola vaqtincha ortiqcha immunitet oladi, shu sababli keyingi dozalar kerak bo'lmaydi
+- Bola faqat mahalliy reaksiya bilan chegaralanadi, hech qanday xavf tug'ilmaydi
+- Bola o'rniga atrofdagilar himoyalanadi, chunki vaksina havo orqali tarqaladi
+- Bola emlangan hisoblanmaydi, hujjatlarda qayd etilmaydi va qamrovga kirmaydi
+! Yaroqsiz vaksina immun javob bermaydi, ammo emlash hujjatlarda bajarilgan sifatida ko'rinib, haqiqiy himoya bo'shlig'ini yashiradi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Vaksinalarni muzlatgichda joylashtirishda yaroqlilik muddatiga ko'ra qaysi tamoyil qo'llaniladi?
++ Yaroqlilik muddati avval tugaydigan vaksina birinchi ishlatiladi
+- Yaroqlilik muddati uzoq vaksina doim birinchi navbatda ishlatiladi
+- Eng oxirgi kelgan vaksina doim birinchi ishlatiladi
+- Vaksinalar muddatidan qat'i nazar, tasodifiy tartibda ishlatiladi
+- Yaroqlilik muddati o'tgan vaksina oxirgi dozagacha ishlatiladi
+! Bu tartib vaksina isrofgarchiligi va muddati o'tib ketish xavfini kamaytiradi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+#D 044 / 10: mavzu materialining bir joyida tirik vaksinalar (masalan, qizamiq) muzlatishga chidamli bo'lishi mumkin deyilgan, boshqa joyida (SanQvaM) QPQ muzlatilmaydi deyilgan; savol faqat rotavirus saqlashiga tuzildi.

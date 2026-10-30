@@ -1,0 +1,98 @@
+=== 002
+? Epidemik jarayonning minimal tuzilmasi (elementar katakchasi) qaysi uch qismdan iborat?
++ infeksiya manbai, yuqish mexanizmi va moyil organizm
+- qo'zg'atuvchi, inkubatsiya davri va klinik tashxis
+- bemor, davolovchi shifokor va dezinfeksiya vositasi
+- rezervuar, vaksina va populyatsion immunitet darajasi
+- tashqi muhit, ijtimoiy omil va epidemiologik kuzatuv tizimi
+! Bu qismlar ketma-ket bog'langan zanjir hosil qiladi, shu sababli birining uzilishi jarayonni to'xtatadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10; Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Quyidagi infeksiyalardan qaysi biri asosan fekal-oral mexanizm bilan tarqalishi ko'rsatilgan?
++ vabo, asosan suv orqali
+- tulyaremiya, asosan ixod kanalari orqali
+- qizamiq, asosan oziq-ovqat mahsulotlari orqali
+- bezgak, asosan maishiy buyumlar va suv orqali
+- kuydirgi, asosan sut va go'sht orqali odamlarda
+! Vabo qo'zg'atuvchisi ichakdan chiqib, asosan ifloslangan suv orqali og'iz yo'li bilan boshqa odamga kiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 9-bob
+? Havo-tomchi mexanizmida havo qanday vazifani bajaradi?
++ faqat yuqish muhiti bo'lib xizmat qiladi
+- qo'zg'atuvchining asosiy ko'payish joyi bo'ladi
+- qo'zg'atuvchini bo'g'imoyoqlilar vositasida uzatadi
+- qo'zg'atuvchining biologik rezervuari hisoblanadi
+- qo'zg'atuvchini teri orqali kirishga majbur qiladi
+! Qo'zg'atuvchilar nafas yo'llarida joylashgani uchun ular havo bilan o'tadi, lekin havoda ko'paymaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 9-bob
+? Transmissiv mexanizmda yuqishda qaysi jonzotlar qatnashadi?
++ hasharotlar va kanalar kabi bo'g'imoyoqlilar
+- kemiruvchilar va yirtqich qushlar
+- umurtqali uy hayvonlari va qishloq xo'jaligi mollari
+- baliqlar va suvda yashovchi mollyuskalar
+- chuvalchanglar va ichak parazitlari
+! Qon so'ruvchi bo'g'imoyoqlilar qo'zg'atuvchini bir organizmdan boshqasiga uzatuvchi vektor rolini o'ynaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 9-bob
+? Xalqaro tasnifga ko'ra, mexanik vektor va biologik yuqishga misollar qaysi javobda to'g'ri keltirilgan?
++ Shigella'ni oyoqlarida tashuvchi pashshalar va bezgak plazmodiysi
+- bezgak plazmodiysi va Shigella'ni oyoqlarida tashuvchi pashshalar
+- vabo vibrioni va qizamiq virusi
+- tulyaremiya qo'zg'atuvchisi va gepatit A virusi
+- kuydirgi sporalari va qutirish virusi
+! Mexanik vektor qo'zg'atuvchini faqat sirtida olib o'tadi, biologik yuqishda esa qo'zg'atuvchi vektor ichida rivojlanadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Fekal-oral yuqishda epidemiyaga qarshi tadbirlarning asosiy e'tibori qaysi yo'nalishga qaratiladi?
++ yuqish yo'llariga, ya'ni umumsanitariya tadbirlari va dezinfeksiyaga
+- moyil jamoaga, ya'ni ommaviy emlash va shoshilinch profilaktikaga
+- infeksiya manbaiga, ya'ni izolyatsiya qilish va havoni filtrlashga
+- vektor populyatsiyasini nazorat qilish va repellentlar qo'llashga
+- kasallangan hayvonlarni ajratish va ular bilan aloqani cheklashga
+! Suv ta'minoti, ovqatlanish va chiqindilarni olib chiqish tizimini yaxshilash ichak infeksiyalarida yuqish yo'lini uzadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 15-bob; WHO. Diarrhoeal disease (fact sheet)
+? Odamlarda kuydirgining qaysi klinik shakli 98–99% hollarda uchraydi?
++ teri shakli, ya'ni asosan kontakt yo'li bilan
+- o'pka shakli, ya'ni asosan havo-tomchi yo'li bilan
+- ichak shakli, ya'ni asosan oziq-ovqat orqali
+- sepsis shakli, ya'ni asosan transmissiv yo'l bilan
+- meningeal shakl, ya'ni asosan tomchi yo'li bilan
+! Hayvonlarda kuydirgi odatda ichak infeksiyasi sifatida kechsa, odamlarda qo'zg'atuvchi ko'proq terining shikastlangan joylari orqali kiradi.
+@ Mavzu materiali (002.docx)
+? I. Zemmelveys 1847-yilda tahliliy epidemiologik tadqiqot bilan qaysi chora hal qiluvchi ekanini isbotladi?
++ kasalxona ichi infeksiyalarida qo'llarni yuvish va dezinfeksiya qilish
+- vabo epidemiyasi paytida ichimlik quduqlari suvini zararsizlantirish
+- chechakka qarshi ommaviy emlash dasturini keng ko'lamda o'tkazish
+- bezgak o'choqlarida chivinlarga qarshi kurashish va suv havzalarini nazorat qilish
+- kuydirgi o'choqlarida kasal hayvonlarni ajratish va yo'q qilish
+! Zemmelveys qo'llarni dezinfeksiya qilish bilan tug'ruqdan keyingi kasalxona ichi infeksiyalari kamayishini ko'rsatgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Darslikda dezinfeksiya strategiyasining o'zgarishi qanday ta'riflanadi?
++ o'choqlarda faqat yuqish omili bo'lishi mumkin bo'lgan buyumlar dezinfeksiya qilinadi
+- o'choqlarda barcha obyektlar va havo ommaviy tarzda zararsizlantirishda davom ettiriladi
+- bemor davolanib bo'lgandan keyingina birinchi marta dezinfeksiya o'tkaziladi
+- barcha o'choqlarda dezinfeksiya o'rniga ommaviy emlash joriy etiladi
+- qo'zg'atuvchi tashqi muhitda chidamli bo'lsa ham dezinfeksiya butunlay to'xtatiladi
+! Qo'zg'atuvchi tashqi muhitda chidamsiz bo'lsa, uni zararsizlantirish zarurati yo'qoladi va ommaviy ishlov o'z ma'nosini yo'qotadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17-bob
+? Himoya (protektiv) izolyatsiya epidemik jarayonning qaysi zanjiriga qaratilgan chora hisoblanadi?
++ uchinchi zanjirga, ya'ni o'ta moyil organizmga
+- birinchi zanjirga, ya'ni infeksiya manbaiga
+- ikkinchi zanjirga, ya'ni yuqish mexanizmiga
+- birinchi va ikkinchi zanjirga bir vaqtda
+- zanjirning hech biriga emas, faqat atrof-muhitga
+! Bunday izolyatsiya bemorni emas, balki yuqumli kasallikdan himoya qilinishi kerak bo'lgan o'ta moyil kishini ajratadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, izolyatsiya bo'limi
+? Moyil jamoaga nisbatan qaratilgan asosiy epidemiyaga qarshi chora qaysi javobda keltirilgan?
++ reja bo'yicha va epidemik ko'rsatmalar bo'yicha emlash hamda shoshilinch profilaktika
+- bemorlarni aniqlash, kasalxonaga yotqizish va ular bilan aloqada bo'lganlarni kuzatish
+- suv ta'minoti va chiqindilarni olib chiqish tizimini umumsanitariya jihatidan yaxshilash
+- tabiiy o'choqlarda epizootologik kuzatuv o'tkazish va deratizatsiya qilish
+- joriy va yakuniy dezinfeksiya hamda dezinseksiya o'tkazish
+! Emlash va shoshilinch profilaktika aholining moyilligini pasaytiradi, boshqa choralar esa manba yoki yuqish yo'liga qaratiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17-bob
+? Malyariya bilan kasallangan hududlarda qo'zg'atuvchining kirish eshigini himoya qilishga qaratilgan chora qaysi?
++ to'rli parda (bed net) ishlatish
+- uy-joylarni ommaviy zararsizlantirish
+- bemorlarni karantinga joylashtirish
+- aholini suv bilan ta'minlashni yaxshilash
+- barcha chivin populyatsiyasini ochiq tabiatda qirib tashlash
+! To'rli parda chivin chaqishining oldini oladi va shu bilan qo'zg'atuvchining odam organizmiga kirishini to'sadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+#U 002 / 7: Kuydirgining 98–99% teri shakli ko'rsatkichi faqat darslikka tayangan va tashqi manba bilan tasdiqlanmagan.

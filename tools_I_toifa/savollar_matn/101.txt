@@ -1,0 +1,99 @@
+=== 101
+? Sariq isitma qo'zg'atuvchisi qaysi virus oilasiga mansub?
++ Flaviviridae oilasining RNK saqlovchi virusi
+- Filoviridae oilasining iplarsimon RNK saqlovchi virusi
+- Bunyaviridae oilasining uch segmentli RNK saqlovchi virusi
+- Togaviridae oilasining bir zanjirli musbat RNK saqlovchi virusi
+- Herpesviridae oilasining ikki zanjirli DNK saqlovchi virusi
+! Sariq isitma virusi Denge isitmasi va Yapon ensefaliti viruslari bilan bir oilaga kiradi, filovirus va herpesvirus oilalari boshqa kasalliklarni qo'zg'atadi.
+@ WHO. Yellow fever (fact sheet); Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma)
+? Sariq isitmaning «jungli» (birlamchi) o'choqlarida infeksiya rezervuari bo'lib qaysi hayvonlar xizmat qiladi?
++ maymunlar va boshqa yovvoyi hayvonlar
+- itlar va mushuklar kabi uy hayvonlari
+- qum sichqonlar va boshqa kemiruvchilar
+- cho'chqalar va qoramol kabi chorva hayvonlari
+- ko'rshapalaklar va tropik o'rmon qushlari
+! Jungli tsiklda virus maymunlar orasida aylanadi, shahar tsiklida esa manba bemor odamning o'zi bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma); WHO. Yellow fever (fact sheet)
+? Afrikada sariq isitmani asosan qaysi chivin turlari yuqtiradi?
++ Aedes avlodiga mansub chivinlar (A. aegypti, A. africanus)
+- Anopheles avlodiga mansub chivinlar (A. maculipennis, A. stephensi)
+- Culex avlodiga mansub chivinlar (C. pipiens, C. tarsalis)
+- Phlebotomus avlodiga mansub moskitlar (Ph. papatasi, Ph. longiductus)
+- Ornithodoros avlodiga mansub kanalar (O. papillipes, O. tartakovskyi)
+! Afrikada asosiy tashuvchilar Aedes chivinlari, Amerikada esa Haemagogus; boshqa avlodlar bezgak, ensefalit yoki leyshmanioz tashuvchilaridir.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma); WHO. Yellow fever (fact sheet)
+? Viruslangan qonni so'rgan chivin +31 °C haroratda taxminan necha kundan keyin yuqumli bo'ladi?
++ 6 kundan keyin
+- 2 kundan keyin
+- 11 kundan keyin
+- 14 kundan keyin
+- 18 kundan keyin
+! Harorat qancha yuqori bo'lsa, virus chivin organizmida shuncha tez yetiladi: +24 °C da bu davr uzoqroq, +36–37 °C da esa qisqaroq bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma)
+? Sariq isitma bilan kasallangan bemor qaysi davrda chivinlar uchun eng xavfli manba hisoblanadi?
++ inkubatsiyaning oxirgi kunlari va kasallikning dastlabki 3–4 kuni (viremiya davri)
+- tuzalish davrining uchinchi haftasidan boshlab bir oy davomida
+- toshma elementlari quruq po'stloqqa aylangan davrning o'zida
+- sariqlik to'liq yo'qolgandan keyingi ikki oylik rekonvalessensiya davrida
+- kasallikning o'ninchi kunidan keyingi tuzalish davrida, immunitet shakllangach
+! Chivin virusni faqat qonda virus yuqori konsentratsiyada aylanayotgan (faol viremiya) davrda zararlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma)
+? JSST ma'lumotiga ko'ra sariq isitmaga qarshi 17D vaksinasining bir dozasi qanday himoya beradi?
++ umr bo'yi himoya beradi va revaksinatsiya talab etilmaydi
+- 10 yil himoya beradi va har 10 yilda revaksinatsiya qilinadi
+- 5 yil himoya beradi va har 5 yilda qayta emlash talab etiladi
+- 1 yil himoya beradi va har yili mavsumiy emlash zarur bo'ladi
+- 30 kun himoya beradi va safar oldidan har safar qayta emlanadi
+! JSST bir doza yetarli deb hisoblaydi, chunki susaytirilgan tirik vaksina mustahkam va uzoq muddatli immunitet hosil qiladi.
+@ WHO. Yellow fever (fact sheet)
+? Quyidagilardan qaysi biri sariq isitmaga qarshi emlash uchun qarshi ko'rsatma hisoblanadi?
++ 9 oylikdan kichik yosh va og'ir tuxum allergiyasi
+- 3 yoshgacha bo'lgan bolalarda yengil darajadagi rinit
+- doimiy ravishda to'g'ri ovqatlanmaslik va yengil kamqonlik
+- avvalgi yili ko'k yo'tal bo'yicha emlangan bo'lish holati
+- kunduzgi vaqtda issiq iqlimli hududlarda tez-tez bo'lish
+! 17D vaksinasi tirik va tuxum embrionida tayyorlanadi, shu sababli chaqaloqlarda va tuxum oqsiliga og'ir allergiyada xavfli bo'lishi mumkin.
+@ WHO. Yellow fever (fact sheet)
+? Sariq isitmani laboratoriya yo'li bilan erta bosqichda aniqlash uchun JSST qaysi usulni tavsiya etadi?
++ qonni RT-PCR usulida tekshirish
+- najasni bakteriologik ekmada tekshirish
+- teri ostiga allergik sinama qo'yish
+- ko'krak qafasi rentgenografiyasini o'tkazish
+- siydikni Zimnitskiy usulida tekshirish
+! Erta bosqichda virus RNKsi qonda aniqlanadi, keyinchalik esa antitelalarni IFA yoki neytrallanish reaksiyasi bilan topish ma'qul.
+@ WHO. Yellow fever (fact sheet)
+? Xalqaro tibbiy-sanitariya qoidalari bo'yicha xalqaro ahamiyatga ega favqulodda vaziyat bo'lishi mumkin bo'lgan holat JSST ga qancha vaqt ichida xabar qilinadi?
++ baholanganidan keyin 24 soat ichida
+- aniqlangan kundan boshlab 6 soat ichida
+- aniqlangan kundan boshlab 72 soat ichida
+- baholanganidan keyin 7 kun ichida
+- baholanganidan keyin 30 kun ichida
+! Qoidalar tezkor ogohlantirishni talab qiladi: xabar baholash tugagandan so'ng bir sutka ichida yuboriladi.
+@ Xalqaro tibbiy-sanitariya qoidalari (2005), 6-modda
+? Chivinlarga qarshi kurash choralari orasida sariq isitmada qaysi biri kam samarali hisoblanadi?
++ pashsha to'rlarini o'rnatish, chunki chivinlar kunduzi hujum qiladi
+- suv idishlarida larvitsidlardan foydalanish va ko'payish joylarini yo'qotish
+- ochiq badan qismlariga repellent surtish va himoya kiyimi kiyish
+- endemik zonalarda dezinsektsiya o'tkazish va yashash joylarini ishlash
+- chivin ko'payadigan turg'un suv havzalarini quritish va tozalash ishlari
+! Sariq isitma chivinlari asosan kunduzi hujum qiladi, shuning uchun faqat tungi himoyaga mo'ljallangan to'rlar yetarli emas.
+@ WHO. Yellow fever (fact sheet)
+? O'zbekiston uchun sariq isitma bo'yicha asosiy epidemiyaga qarshi vazifa nimadan iborat?
++ kasallikning chetdan kirib kelishini oldini olish va safarga chiquvchilarni emlash
+- mahalliy chivin populyatsiyasini to'liq yo'qotish va o'rmon maymunlarini kuzatish
+- har yili butun aholini ommaviy ravishda emlash va revaksinatsiya o'tkazish
+- kasallikning tabiiy o'choqlarini aniqlash va ularda deratizatsiya o'tkazish
+- yangi tug'ilgan bolalarni birinchi haftada majburiy ravishda emlash va kuzatish
+! Sariq isitma O'zbekistonda uchramaydi, shu sababli asosiy xavf import bo'lib, himoya chegarada nazorat va emlashga tayanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma); Mavzu materiali (101.docx)
+? Sariq isitma bilan og'rigan bemor suv yoki havo transportida aniqlansa, birinchi navbatda nima qilinadi?
++ yo'lovchilardan ajratiladi va infeksion shifoxonaga yotqiziladi
+- yo'lovchilar bilan birga qoldirilib, manzilga yetgunicha kuzatiladi
+- uyiga yuborilib, uy sharoitida davolanishi tavsiya etiladi
+- darhol barcha yo'lovchilar emlanib, sayohat davom ettiriladi
+- bemor haqida xabar berilmasdan, keyingi portda shifoxonaga topshiriladi
+! Bemor boshqa yo'lovchilar va chivinlar bilan aloqadan ajratilishi, so'ng mutaxassislar tomonidan shifoxonada davolanishi lozim.
+@ Shermatov V.A. va boshq. Sariq isitma (o'rta tibbiyot xodimlari uchun material); Mavzu materiali (101.docx)
+#D 101 / 6: mavzu materialida emlash muddati (10 yilda bir marta, 30–35 yil) JSST (umr bo'yi, bir doza) dan farq qiladi; 6-savol JSST ma'lumotiga tayanadi.
+#U 101 / 12: bemorni transportda yo'lovchilardan ajratish va karantin muddati (6 yoki 9 kun) faqat mavzu materialiga tayangan, manbalar o'rtasida farq bor.

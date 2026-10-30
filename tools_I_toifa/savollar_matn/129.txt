@@ -1,0 +1,100 @@
+=== 129
+? OIV infeksiyasi bo'yicha "xavf guruhi" deganda nima tushuniladi?
++ Xulq-atvori yoki hayot sharoiti tufayli virus bilan kontakt ehtimoli aholining o'rtacha ko'rsatkichidan yuqori shaxslar to'plami
+- Virusga qarshi tabiiy immunitetga ega bo'lgan, shu sababli hech qachon kasallanmaydigan va tekshirilmaydigan shaxslar to'plami
+- Kasalligi allaqachon laborator tasdiqlangan va dispanser hisobiga olingan, davolanayotgan shaxslar to'plami
+- Faqat tibbiy muassasalarda statsionar davolanayotgan, har xil kasalliklar bilan yotgan bemorlar to'plami
+- Ma'lum bir hududda doimiy istiqomat qiluvchi barcha aholining bir xil xavf ostidagi to'plami
+! Xavf guruhi kasallangan odamlar emas, balki yuqtirish ehtimoli yuqori bo'lgan kishilardir, shuning uchun nazorat ularga qaratiladi.
+@ Mavzu materiali (129.docx)
+? O'zbekistonda OIV bo'yicha tekshirish kodlari soni nechta?
++ 22 ta
+- 5 ta
+- 10 ta
+- 40 ta
+- 75 ta
+! Kodlar tekshiruv sababini (donor, homilador, giyohvand va boshqalar) belgilaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Qonunga ko'ra majburiy tekshiruv toifalaridan biri qaysi?
++ Qon va biologik suyuqliklar donorlari
+- Umumta'lim maktablarining barcha o'quvchilari, ularning yoshi va holatidan qat'i nazar
+- Diniy jamoalar a'zolari, ularning e'tiqodi va hayot tarzi bo'yicha
+- Jismoniy tarbiya bilan shug'ullanuvchi sportchilar, musobaqalarga tayyorgarlik paytida
+- Pensiya yoshidagi sog'lom nafaqaxo'rlar, yillik ko'rik doirasida
+! Donorlar, homilador ayollar va OIV yuqtirgan onalardan tug'ilgan bolalar majburiy tekshiruv toifalariga kiradi.
+@ O'zR Qonuni "OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida"
+? 2011 yilda sentinel nazoratda inyeksion giyohvandlar orasida OIV tarqalganligi qancha bo'lgan?
++ 8,5 %
+- 0,1 %
+- 2,2 %
+- 22,0 %
+- 40,0 %
+! Ko'rsatkich 2009 yildagi 10,9 % dan pasaygan, lekin boshqa guruhlarga nisbatan ancha yuqori bo'lib qolgan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot)
+? OIV epidemik jarayoni O'zbekistonda dastlab qaysi guruh orasida rivojlangan?
++ Inyeksion giyohvandlar orasida (parenteral yo'l)
+- Homilador ayollar orasida (vertikal yo'l bilan yuqish)
+- Tibbiyot xodimlari orasida (kasbiy yo'l bilan yuqish)
+- Migrantlar orasida (jinsiy yo'l bilan yuqish)
+- Maktab o'quvchilari orasida (maishiy yo'l bilan yuqish)
+! Keyinchalik jinsiy yo'l ulushi oshib, infeksiya umumiy populyatsiyaga o'tishi kuzatilgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 18.1-bo'lim
+? JSST xavf omillaridan biri qaysi?
++ Boshqa jinsiy yo'l bilan yuqadigan infeksiyalarning (sifilis, gerpes, xlamidioz) mavjudligi
+- Umumiy hammom yoki basseynda cho'milish va umumiy kiyim almashtirish xonasidan foydalanish
+- Chivin yoki kana chaqishi, shuningdek hasharotlar bilan kontakt qilish
+- Bitta idishdan ovqatlanish va umumiy sochiqdan foydalanish, shaxsiy buyumlarni almashish
+- Quchoqlashish, o'pish va qo'l siqish orqali kundalik muloqot
+! Boshqa JYBYuI shilliq qavat yaxlitligini buzib, OIV yuqish ehtimolini oshiradi; maishiy kontaktlar xavf tug'dirmaydi.
+@ WHO. HIV and AIDS (fact sheet)
+? Kontaktdan keyingi profilaktika (KKP) antiretrovirus kursi odatda necha kun davom etadi?
++ 28 kun
+- 3 kun
+- 7 kun
+- 90 kun
+- 180 kun
+! Kurs xavfli kontaktdan keyin iloji boricha tezroq boshlanadi va qisqa muddatli bo'ladi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i asosida tuzilgan bayonnoma va ijro rejasi (OIV KKP)
+? Ekspozitsiyadan oldingi profilaktika (PrEP) uchun JSST tavsiya etgan dori qaysi?
++ Og'iz orqali qabul qilinadigan tenofovir asosli dori
+- Og'iz orqali qabul qilinadigan izoniazid va rifampitsin kombinatsiyasi, olti oylik kurs
+- Mushak ichiga yuboriladigan penitsillin, oylik kurs va ikkinchi sutkada takroriy doza
+- Teri ostiga yuboriladigan interferon, haftalik kurs bilan, kontaktdan oldin
+- Og'iz orqali qabul qilinadigan oseltamivir, gripp mavsumida kontaktdan oldin
+! PrEP xavfi yuqori shaxslar kontaktdan oldin dori qabul qilib, yuqish ehtimolini kamaytirishini ta'minlaydi.
+@ WHO. HIV and AIDS (fact sheet)
+? Inyeksion giyohvandlar uchun zararni kamaytirish dasturlariga nima kiradi?
++ Steril asboblar va giyohvandlikni davolash, jumladan opioid o'rnini bosuvchi terapiya
+- Giyohvandlarni majburiy izolyatsiya qilish va jinoiy javobgarlikka tortish, davolashsiz
+- Umumiy shprits ishlatishni rag'batlantirish, arzon narxlarda ular bilan ta'minlash
+- Ma'rifiy ish olib borish, lekin steril vositalarni tarqatmaslik va davolamaslik
+- Zararli moddalarni sotib olishda moliyaviy yordam ko'rsatish va ularni bepul tarqatish
+! Steril asboblar va OO'T qon orqali yuqish xavfini va giyohvand moddalarga qaramlikni kamaytiradi.
+@ WHO. HIV and AIDS (fact sheet); O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Erkaklarda qaysi muolaja OIV ning jinsiy yuqishini kamaytiruvchi qo'shimcha vosita sifatida JSST tavsiyalarida keltirilgan?
++ Tibbiy sunnat
+- Vazektomiya
+- Orxiektomiya
+- Frenulotomiya
+- Prostatektomiya
+! Erkaklarda tibbiy sunnat jinsiy yo'l bilan yuqish xavfini kamaytiradi, lekin boshqa choralarni o'rnini bosmaydi.
+@ WHO. HIV and AIDS (fact sheet)
+? Tekshiruv paytida OIV natijasi va mijoz shaxsi haqidagi ma'lumotlarga qanday munosabatda bo'linadi?
++ Maxfiy saqlanadi, natijani uchinchi shaxslarga e'lon qilish taqiqlanadi
+- Ish joyiga va qo'shnilarga xabar qilinadi, jamoatchilik nazorati uchun
+- Ommaviy axborot vositalariga xabar qilinadi, ogohlantirish maqsadida
+- Mahalla qo'mitasiga ixtiyoriy ravishda xabar qilinadi, qo'llab-quvvatlash uchun
+- Faqat oila a'zolariga majburiy ravishda xabar qilinadi, mijoz roziligisiz
+! Maxfiylik shaxsning kamsitilishidan himoya qiladi va xavf guruhlarining tekshiruvga kelishini rag'batlantiradi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Xavf guruhlari orasidagi tadbirlar samaradorligini baholashda qaysi ko'rsatkich qo'llanadi?
++ Sentinel guruhlarda tarqalganlikning o'zgarishi
+- Aholining umumiy o'lim ko'rsatkichi va yuqumli bo'lmagan kasalliklardan o'lim
+- Tug'ruqxonalardagi tug'ilishlar soni va tug'ilgan chaqaloqlarning o'rtacha vazni
+- Hududdagi shifokorlar soni va ularning o'rtacha ish staji bo'yicha ko'rsatkichlar
+- Aholi o'rtacha umr ko'rishining oshishi va umumiy tug'ilish darajasi
+! Dastur ta'siri sentinel guruhlardagi tarqalganlik o'zgarishi, tekshiruv qamrovi va ART qamrovi orqali ko'rinadi.
+@ Mavzu materiali (129.docx)
+#U 129 / 4: sentinel nazorat ko'rsatkichlari 2009–2011 yillarga oid taqdimot ma'lumoti, so'nggi yillar uchun tasdiqlanmagan.
+#U 129 / 1: xavf guruhi ta'rifi mavzu materialining umumlashtirilgan bayoni, alohida rasmiy manba bilan tasdiqlanmagan.
+#U 129 / 12: samaradorlik ko'rsatkichlari mavzu materialidagi umumiy yondashuv, rasmiy hujjat bilan tasdiqlanmagan.

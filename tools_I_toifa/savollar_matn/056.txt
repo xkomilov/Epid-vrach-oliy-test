@@ -1,0 +1,98 @@
+=== 056
+? Qonunda davlat sanitariya nazorati qanday faoliyat sifatida ta'riflanadi?
++ sanitariya-epidemiologik osoyishtalik haqidagi qonunchilik buzilishlarining oldini olish, ularni aniqlash va bartaraf etishga doir faoliyat
+- yuqumli kasallik bilan og'rigan bemorlarni aniqlash, ularni davolash va sog'aygunga qadar reabilitatsiya qilish bo'yicha faoliyat
+- dori vositalari va tibbiy buyumlarni ishlab chiqarish, ularni sertifikatlash va savdoga chiqarish tartibini yuritish faoliyati
+- aholining mehnat sharoitini baholash, ish haqini belgilash va kasaba uyushmalari bilan kelishuvlar tuzish faoliyati
+- ta'lim muassasalarida o'quv dasturlarini tasdiqlash, ularning samaradorligini baholash va o'qituvchilarni attestatsiya qilish
+! Nazorat buzilishlarni oldindan to'sish, topish va yo'qotishga qaratilgan bo'lib, davolash yoki litsenziyalash bu ta'rifga kirmaydi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni
+? Chekluvchi tadbirlar (karantin) qonunda qanday tushuntiriladi?
++ yuqumli kasalliklar tarqalishining oldini olishga qaratilgan, harakatni cheklovchi ma'muriy va tibbiy-sanitariya choralari
+- bemorlarni statsionarda davolashga qaratilgan, vrachlarning ish vaqtini cheklovchi tashkiliy va moliyaviy choralar
+- tashqi muhitdagi kemiruvchilarni yo'qotishga qaratilgan, tuzoq va zaharli vositalardan foydalanishni cheklovchi choralar
+- ichimlik suvi sifatini yaxshilashga qaratilgan, suv iste'molini cheklovchi va tarifni oshiruvchi iqtisodiy choralar
+- emlash dasturini kengaytirishga qaratilgan, emlashdan bosh tortishni taqiqlovchi va jarima soluvchi huquqiy choralar
+! Karantin xo'jalik faoliyatining alohida tartibini joriy etib, harakatni cheklash orqali kasallik tarqalishini to'xtatadi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni
+? Qonunning 12-moddasi ikkinchi qismiga ko'ra faoliyatni to'xtatib turish huquqi kimlarga beriladi?
++ bosh davlat sanitariya vrachlariga, ularning o'rinbosarlariga hamda qonundagi bo'linma rahbarlariga
+- tadbirkorlik sub'ektlarining o'z rahbarlariga va ularning yuridik maslahatchilariga, o'z faoliyatini nazorat qilish maqsadida
+- hududlarning prokuratura xodimlariga va soliq organlarining inspektorlariga, ularning o'z tashabbusi bilan
+- har qanday tibbiyot xodimiga, shu jumladan tekshiruv paytida hamshiralarga ham, yozma buyruqsiz
+- fuqarolarning o'zini o'zi boshqarish organlari rahbarlariga, sanitariya nazorati bilan kelishmasdan
+! To'xtatish qarori faqat vakolatli mansabdor shaxs tomonidan, o'z vakolati doirasida qabul qilinishi mumkin.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 12-modda
+? Epidemiya yoki boshqa haqiqiy xavfning oldini olish uchun tadbirkorlik sub'ekti faoliyati qancha muddatdan ko'p bo'lmagan davrga to'xtatilishi mumkin?
++ o'n ish kunidan
+- besh ish kunidan
+- o'n besh kalendar kundan
+- bir oydan
+- uch oydan
+! Qonun bunday to'xtatishning yuqori chegarasini o'n ish kuni deb belgilagan.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 12-modda
+? Aniq sanitariya qoidalari buzilgani sababli obyekt faoliyati to'xtatilsa, to'xtatish qancha davom etadi?
++ buzilishlar bartaraf etilgunga qadar
+- aniq belgilangan bir yillik muddat tugaguncha
+- buzilishni sodir etgan xodim ishdan bo'shaguncha
+- keyingi rejali tekshiruv natijasi chiqquncha
+- sud qarori kuchga kirguncha
+! Bu yo'nalishda to'xtatish muddati buzilish yo'qotilishi bilan belgilanadi, sanasi oldindan qat'iy qo'yilmaydi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 12-modda
+? Quyidagilardan qaysi biri vakolatli mansabdor shaxslarning qonunda belgilangan huquqlariga kiradi?
++ ro'yxatdan o'tkazilmagan xom ashyo va oziq-ovqat mahsulotlari ishlab chiqarilishi hamda sotilishini taqiqlash
+- tekshirilayotgan tadbirkorning bank hisobvarag'idagi mablag'larni o'z qaroriga ko'ra to'liq musodara qilish
+- tadbirkorlik sub'ektini ro'yxatdan o'tkazish guvohnomasini bekor qilish va uni tugatish haqida qaror qabul qilish
+- ish beruvchining o'rniga xodimni to'g'ridan-to'g'ri ishdan bo'shatish haqida mehnat shartnomasini bekor qilish
+- tekshiruv natijasida topilgan barcha jarimalarni tadbirkorning ishtirokisiz o'zboshimchalik bilan undirib olish
+! Qonun ro'yxatdan o'tmagan yoki xavfli deb topilgan mahsulotlar aylanishini taqiqlash huquqini beradi, boshqa vakolatlar esa boshqa organlar zimmasida.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 12-modda
+? Qonunning 13-moddasiga ko'ra mansabdor shaxslarning majburiyatlariga qaysi biri kiradi?
++ aniqlangan xavflar to'g'risida aholini o'z vaqtida xabardor qilish
+- aholi sog'lig'iga xavf tug'dirgan tadbirkorlarning ismlarini ommaviy axborot vositalarida sir saqlash
+- murojaatlarni ko'rib chiqmasdan, ularni ko'rib chiqilgan deb hisobotda ko'rsatish
+- yuqumli bo'lmagan ommaviy kasalliklar sabablarini aniqlash vazifasini tibbiyot xodimlariga topshirib qo'yish
+- qonun buzilishlarini faqat aniqlab, ularni bartaraf etish choralarini ko'rmasdan qoldirish
+! Mansabdor shaxs nafaqat jazolaydi, balki xavf haqida aholiga axborot beradi, sabablarni aniqlaydi va murojaatlarni ko'radi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 13-modda
+? Yuridik shaxslar va yakka tartibdagi tadbirkorlar sanitariya nazorati organlari qarorlari yuzasidan qanday huquqqa ega?
++ shikoyat qilish hamda yetkazilgan zararni to'liq qoplashni talab qilish huquqiga
+- qarorlarni bajarmaslik va tekshiruvga kirishga ruxsat bermaslik huquqiga, shikoyat qilmasdan
+- mansabdor shaxsga ta'sir ko'rsatib, uning qonuniy faoliyatiga to'sqinlik qilish huquqiga
+- yuqumli kasallik paydo bo'lganda epidemiyaga qarshi tadbirlarni bajarishdan bosh tortish huquqiga
+- sanitariya-epidemiologik vaziyat to'g'risidagi axborotni olishdan voz kechish majburiyatiga
+! Tadbirkorlar qarordan norozi bo'lsa, shikoyat qilishi va zararning qoplanishini talab qilishi mumkin; shu bilan birga ularning ko'rsatmalarini bajarish majburiyati ham saqlanadi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni
+? Mavzu materialiga ko'ra, tadbirkorlik sub'ektlari faoliyatini qonunga xilof to'xtatib turgan mansabdor shaxslar uchun MJTK 241-3-moddasida qancha jarima belgilangan?
++ bazaviy hisoblash miqdorining qirq baravaridan sakson baravarigacha
+- bazaviy hisoblash miqdorining besh baravaridan o'n baravarigacha
+- bazaviy hisoblash miqdorining o'n besh baravaridan yigirma baravarigacha
+- bazaviy hisoblash miqdorining yigirma baravaridan o'ttiz baravarigacha
+- bazaviy hisoblash miqdorining ikki yuz baravaridan uch yuz baravarigacha
+! Qonunga xilof to'xtatish ham javobgarlikka olib kelgani uchun qaror asosli va yozma rasmiylashtirilgan bo'lishi kerak.
+@ Mavzu materiali (056.docx)
+? Qonunning 12-moddasi birinchi qismi "g" bandiga ko'ra mansabdor shaxslar nazorat maqsadida qanday huquqqa ega?
++ yuridik shaxslar va yakka tartibdagi tadbirkorlar obyektlariga qonunchilikda belgilangan tartibda kirish
+- tadbirkorning shaxsiy turar joyiga hech qanday ruxsatsiz va tartibsiz kirib tintuv o'tkazish
+- tekshirilayotgan obyektni ogohlantirmasdan va hujjatsiz o'zboshimchalik bilan ishdan to'xtatish
+- tekshiruv paytida tadbirkorning hujjatlarini olib ketib, ularni sudsiz musodara qilish
+- obyektga faqat tadbirkorning yozma roziligi bilan va faqat ish vaqtida kirish
+! Kirish huquqi nazoratni amalga oshirishga xizmat qiladi va qonunchilikda belgilangan tartibga bo'ysunadi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 12-modda
+? Davlat sanitariya nazorati organlari faoliyatiga nisbatan qonun nimani taqiqlaydi?
++ aralashish va mansabdor shaxslarga qonuniy faoliyatiga to'sqinlik qilish maqsadida ta'sir ko'rsatish
+- nazoratni amalga oshirishda laboratoriya tekshiruvlaridan foydalanish va tahlil namunalarini olish
+- aholini sanitariya-epidemiologik vaziyat to'g'risida xabardor qilish va murojaatlarni ko'rib chiqish
+- yuqumli kasalliklar paydo bo'lganda mansabdor shaxslarning ko'rsatma berishi va uning bajarilishini talab qilishi
+- nazorat natijalari bo'yicha qarorlarni hujjatlashtirish va ularni yozma shaklda rasmiylashtirish
+! Aralashuv taqiqi nazorat organlarining mustaqilligini ta'minlaydi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 37-modda
+? Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasining asosiy vazifalariga qaysi biri kiradi?
++ xavf-xatarlarni aniqlash va baholash, tabiiy o'choqlar ustidan epidemiologik monitoring
+- dori vositalarini ishlab chiqarish va xalqaro bozorda sotish hamda ularning narxini belgilash
+- tibbiyot xodimlarini o'qitish va ularning ta'til hamda ish haqi masalalarini hal qilish
+- shifoxonalarni qurish va ularni jihozlash uchun byudjet mablag'larini taqsimlash
+- mehnat nizolarini sud tartibida ko'rib chiqish va hakamlik qarorlarini chiqarish
+! Qo'mita xavfni baholash, monitoring, laboratoriya faoliyati va ekspertizalarni tayinlashni o'z zimmasiga oladi.
+@ O'zR Prezidentining 27.07.2020-yildagi PQ-4790-sonli qarori
+#U 056 / 9: MJTK 241-3-moddasidagi jarima miqdori (40–80 baravar) faqat mavzu materialiga tayangan, kutubxona nusxasi eskirgan bo'lishi mumkin.

@@ -1,0 +1,100 @@
+=== 145
+? OITS nima?
++ OIV keltirib chiqargan infeksiyaning oxirgi bosqichi bo'lib, T-hujayra immunitetining chuqur buzilishi bilan kechadi
+- OIV bilan zararlanishning o'tkir boshlang'ich davri bo'lib, antitelalar paydo bo'lguncha kechadi va tashxis aniq qo'yilmaydi
+- tug'ma immun tanqisligi bo'lib, irsiy nuqsonlar tufayli rivojlanadi va qo'zg'atuvchisi bo'lmaydi
+- opportunistik infeksiyalarning har qanday bosqichi bo'lib, immunitet saqlangan holda kechadi va davolash shart emas
+- OIV tashuvchanligining belgisiz davri bo'lib, CD4 soni me'yorda saqlanadi
+! Bu atama infeksiyaning kech bosqichini bildiradi, o'tkir davr yoki tashuvchanlik esa bunga kirmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim; WHO. HIV and AIDS (fact sheet)
+? OIV qaysi oila va avlodga kiradi?
++ Retroviridae oilasining lentiviruslar avlodiga
+- Herpesviridae oilasining betaherpesviruslar avlodiga
+- Flaviviridae oilasining gepacivirus avlodiga
+- Picornaviridae oilasining enteroviruslar avlodiga
+- Orthomyxoviridae oilasining influenza A avlodiga
+! Virus RNK tutadi va qaytalama transkriptaza yordamida DNK hosil qiladi, bu retroviruslarga xos xususiyat.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Virusni 1983 yilda ajratgan olim kim?
++ L. Montanye
+- R. Koch
+- L. Paster
+- D. Ivanovskiy
+- A. Fleming
+! Bu olim virusni LAV nomi bilan ajratgan, keyinroq esa yagona nom qabul qilingan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? OIV tashqi muhitda qaysi sharoitda tezda inaktivatsiyalanadi?
++ 56 °C da 30 daqiqa qizdirilganda
+- 22 °C da quruq holatda 4–6 kun saqlanganda
+- ultrabinafsha nur ta'sirida 5 daqiqa ushlanganda
+- ionlashtiruvchi radiatsiyaning kichik dozasida
+- xona haroratida 1–2 soat davomida suvda
+! Virus issiqlikka chidamsiz, lekin nurlanishga chidamli bo'lib, quruq holda bir necha kun saqlanishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Virus qobig'idagi qaysi oqsil hujayra yuzasidagi CD4 molekulasi bilan bog'lanadi?
++ gp120
+- gp41
+- p24
+- revertaza
+- proteaza
+! gp120 retseptor bilan birikadi, gp41 esa so'ng virus qobig'ini hujayra membranasi bilan qo'shilishini ta'minlaydi.
+@ OIV, OITS – o'quv qo'llanma; Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Integraza fermentining vazifasi nimadan iborat?
++ virus DNKsini hujayra genomiga kiritish
+- virus RNKsidan DNK nusxasini hosil qilish
+- virus oqsillarini yetilgan zarrachalarga bo'lish
+- hujayra yuzasidagi CD4 molekulasini bog'lash
+- virus qobig'ini hujayra membranasi bilan qo'shish
+! Revertaza RNKdan DNK hosil qiladi, integraza esa hosil bo'lgan DNKni xo'jayin xromosomasiga biriktiradi.
+@ OIV, OITS – o'quv qo'llanma
+? Dendrit hujayralar qondagi yadroli hujayralarning necha foizini tashkil etsa-da, qondagi OIVning katta qismini ishlab chiqaradi?
++ taxminan 1% ini
+- taxminan 10% ini
+- taxminan 25% ini
+- taxminan 40% ini
+- taxminan 60% ini
+! Ularning soni kam bo'lsa ham, virus ishlab chiqarishdagi hissasi ancha yuqori.
+@ OIV, OITS – o'quv qo'llanma
+? Qaysi hujayralar OIVni zararlanmasdan saqlab, tarqatuvchi «Troyan oti» vazifasini bajaradi?
++ monotsitlar
+- eritrotsitlar
+- neytrofillar
+- trombotsitlar
+- gepatotsitlar
+! Monotsitlar virusni o'zi zararlanmagan holda tashiydi va tarqatadi.
+@ OIV, OITS – o'quv qo'llanma
+? Me'yorda 1 mkl qonda CD4 limfotsitlar soni qancha bo'ladi?
++ 500–1500 hujayra
+- 100–200 hujayra
+- 200–350 hujayra
+- 2000–3000 hujayra
+- 5000–7000 hujayra
+! CD4 soni kamayishi T-hujayra immun tanqisligining asosiy prognostik ko'rsatkichi bo'lgani uchun me'yor chegarasi bilinishi kerak.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? JSST bo'yicha ilg'or OIV kasalligi qaysi CD4 darajasida belgilanadi?
++ CD4 <200 hujayra/mkl yoki 3–4 klinik bosqich
+- CD4 <500 hujayra/mkl yoki 1-klinik bosqich
+- CD4 <350 hujayra/mkl yoki 2-klinik bosqich
+- CD4 <1000 hujayra/mkl yoki 3-klinik bosqich
+- CD4 <100 hujayra/mkl va faqat 4-klinik bosqich
+! Bunday bemorlarda opportunistik infeksiyalar xavfi yuqori, 5 yoshgacha barcha bolalar ham shu toifaga kiritiladi.
+@ WHO. HIV and AIDS (fact sheet)
+? IFA musbat natija bergan namunada "OIV infeksiyasi" tashxisi qanday tasdiqlanadi?
++ immunoblot bilan yoki test kombinatsiyasi yordamida
+- bir marta takroriy IFA bilan, birinchi namunadan
+- CD4 sonini aniqlash orqali
+- umumiy qon tahlili natijalariga ko'ra
+- tezkor test bilan so'lakda
+! IFA skrining usuli, shuning uchun tashxis tasdiqlovchi usulsiz e'lon qilinmaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Antiretrovirus terapiya boshlanganda virus yuklamasi qanday o'zgarsa, terapiya samarali hisoblanadi?
++ 4–8 hafta ichida 3–5 baravar kamayganda
+- 1 hafta ichida 100 baravar ortganda
+- 6 oy ichida o'zgarmay qolganda
+- 3 kun ichida to'liq yo'qolganda
+- 12 hafta ichida 1,5 baravar ortganda
+! Virus RNKsining tez pasayishi preparatlar virus ko'payishini to'xtatayotganini ko'rsatadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i; O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+#U 145 / 7: fermentlar vazifasi o'quv qo'llanmaga tayanadi, uning muallifi va yili aniq emas.
+#U 145 / 8: dendrit hujayralar haqidagi raqamlar faqat o'quv qo'llanmaga tayanadi.
+#U 145 / 9: monotsitlarning «Troyan oti» vazifasi faqat o'quv qo'llanmaga tayanadi.

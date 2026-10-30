@@ -1,0 +1,98 @@
+=== 018
+? Epidemik jarayonning o'z-o'zini boshqarish nazariyasi kim va qachon ishlab chiqilgan?
++ V.D. Belyakov va hamkasblari tomonidan XX asrning 70-yillarida
+- L.V. Gromashevskiy va hamkasblari tomonidan XX asrning 30-yillarida
+- E.N. Pavlovskiy tomonidan XX asrning 40-yillarida
+- I.I. Shmalgauzen tomonidan XX asrning 60-yillarida
+- J. Snou tomonidan XIX asrning o'rtalarida
+! Nazariyaga ko'ra parazit va xo'jayin populyatsiyalarining o'zaro munosabati ichki mexanizmlar hisobiga boshqariladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Nazariyaning birinchi qoidasi nimaga asoslangan?
++ Parazit va xo'jayin populyatsiyalarining geterogenligiga
+- Populyatsiyalarning mutlaq bir xilligiga va o'zgarmasligiga
+- Qo'zg'atuvchining doimiy va o'zgarmas virulentligiga
+- Ijtimoiy omillarning mutlaq ustunligiga, biologiyasiz
+- Tashuvchilik fenomenining universal ahamiyatiga
+! Xo'jayin populyatsiyasida chidamli va moyil kishilar, parazit populyatsiyasida virulent va avirulent shtammlar bor.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Geterogenlik printsipi populyatsiya uchun qanday ahamiyatga ega?
++ O'zgaruvchan sharoitga moslashuvni ta'minlaydi
+- Populyatsiyani bir xil holatda saqlab turadi
+- Barcha a'zolarni infeksiyaga bir xil moyil qiladi
+- Epidemik jarayonni butunlay to'xtatadi
+- Qo'zg'atuvchini tabiatdan butunlay yo'qotadi
+! Turli xossali individlar bo'lgani uchun populyatsiya sharoit o'zgarganda ham saqlanib qoladi.
+@ Rukovodstvo po epidemiologii infektsionnykh boleznei, 1-tom
+? Difteriyada epidemik davrda asosan qaysi tur ajraladi?
++ Virulent (gravis) tur
+- Kuchsiz virulent (mitis) tur
+- Toksin hosil qilmaydigan tur
+- L-shakldagi tur
+- Antibiotikka chidamli sporali tur
+! Epidemiyalararo davrda esa kuchsiz virulent (mitis) tur ajraladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Parazit populyatsiyasining bosqichma-bosqich o'zgarishi nechta ketma-ket bosqichdan iborat?
++ To'rtta bosqich
+- Uchta bosqich
+- Ikkita bosqich
+- Beshta bosqich
+- Oltita bosqich
+! Bular rezervatsiya, epidemik shtammlar shakllanishi, epidemik tarqalish va rezervatsion shtammlar shakllanishi bo'lib, mavsumlararo va mavsumiy davrlarga mos keladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq nazariyaning universalligiga qanday e'tiroz keltiriladi?
++ Qizamiqda kasallik epidemik va epidemiyalararo davrlarda ham ko'pincha og'ir kechadi
+- Kasallik faqat epidemik davrda yengil kechadi, epidemiyalararo davrda esa og'ir bo'ladi
+- Qo'zg'atuvchi tashuvchilik orqali tabiatda doimiy saqlanadi va epidemiyalararo davrda ko'payadi
+- Bu infeksiya ichak infeksiyalari guruhiga kiradi va hazm tizimi orqali yuqadi
+- Immunitet hosil bo'lmaydi, shu bois populyatsion immunitet to'siq bo'la olmaydi
+! Bu sxemaga sig'maydigan dalil bo'lib, mexanizmning universalligi yana o'rganishni talab qiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Chechak yer yuzida nima sababdan tugatildi, deb ko'rsatiladi rus qo'llanmasida?
++ Tashuvchilik fenomeni yo'qligi sababli
+- Tashuvchilik keng tarqalgani sababli
+- Qo'zg'atuvchi virulentligi pasaygani sababli
+- Hayvon rezervuarlari ko'pligi sababli
+- Immunitet hosil bo'lmasligi sababli
+! Tashuvchilik orqali rezervatsiya bo'lmagani uchun virus saqlanib qola olmagan.
+@ Rukovodstvo po epidemiologii infektsionnykh boleznei, 1-tom
+? Fiji va Farer orollaridagi qizamiq epidemiyalari qanday tushuntiriladi?
++ Qo'zg'atuvchi tashqaridan kiritilgandan keyingina paydo bo'lib, moyil kishilar tugagach to'xtagan
+- Virus mahalliy aholida tashuvchilik orqali «rezervatsiya» qilingan va yildan-yilga qaytalanib turgan, tashqaridan kiritilmasdan
+- Mahalliy hayvonlardagi tabiiy o'choqlardan epidemiyalar doimiy ravishda chiqib turgan va to'xtamagan
+- Suv orqali yuqishi tufayli doimiy mavsumiy ko'rinishda kechgan va moyil kishilar tugamagan holda davom etgan
+- O'z-o'zidan, tashqaridan kiritilmasdan yilma-yil paydo bo'lib, immunitet hosil bo'lmagani sababli to'xtamagan
+! Bu virus mahalliy aholida saqlanmaganini, tashuvchilik universal bo'g'in emasligini ko'rsatadi.
+@ Rukovodstvo po epidemiologii infektsionnykh boleznei, 1-tom
+? Epidemik jarayon o'zgarishi doimo qaysi darajadan boshlanadi?
++ Sotsioekosistema darajasidan, «yuqoridan»
+- Organizm darajasidan, ya'ni «pastdan», kasallik shaklidan boshlab
+- Hujayra darajasidan, «ichkaridan»
+- Molekulyar daraja, genom darajasidan
+- Faqat qo'zg'atuvchi darajasidan
+! Ijtimoiy omillar avval ekosistema darajasida o'zgarish keltiradi, so'ng organizm darajasida kasallik shakli o'zgaradi.
+@ Rukovodstvo po epidemiologii infektsionnykh boleznei, 1-tom
+? Gripp virusi yangi antigen variantlarining paydo bo'lishi nima bilan bog'liq deb misol keltiriladi?
++ Demografik va migratsion jarayonlar natijasi bilan
+- Suv ta'minotidagi o'zgarishlar bilan
+- Antibiotiklarning keng qo'llanishi bilan
+- Sabzavotni markazlashgan saqlash qoidalarining buzilishi bilan
+- Kondensionerlarning tarqalishi bilan
+! Ijtimoiy omillar parazit populyatsiyasi tuzilmasini (antigenlikni) o'zgartiradi.
+@ Rukovodstvo po epidemiologii infektsionnykh boleznei, 1-tom
+? Rus manbasiga ko'ra, faqat qo'zg'atuvchi xossalari bilan epidemiyalar sabablarini izohlash nimaga qaytish hisoblanadi?
++ «Mikrob nazariyasi»ga
+- «Miazma nazariyasi»ga
+- «Kontagion nazariyasi»ga
+- «Sotsial-ekologik nazariya»ga
+- «Immunologik nazariya»ga
+! Ijtimoiy omillarni hisobga olmaslik epidemik jarayonni biologik nuqtai nazardan soddalashtirishga olib keladi.
+@ Rukovodstvo po epidemiologii infektsionnykh boleznei, 1-tom
+? Qorin tifi qo'zg'atuvchisi bilan ko'ngillilarda o'tkazilgan kuzatuvda nima ko'rsatilgan?
++ Bir xil dozada ba'zilar kasallangan, ba'zilar belgisiz o'tkazgan, ba'zilarga umuman yuqmagan
+- Ko'ngillilar orasida barchasi bir xil darajada og'ir kasallangan va bir xil muddatda tuzalgan
+- Hammada umumiy immunitet bo'lgani uchun hech bir ko'ngilli kasallanmagan
+- Belgisiz tashuvchilik barcha ko'ngillilarda rivojlangan, kasallanish kuzatilmagan
+- Kasallanish Vi-antigensiz shtammlarda yuqori bo'lib, virulent shtammlarda deyarli kuzatilmagan
+! Bu odamlarning moyilligi turlicha ekanini, ya'ni populyatsiya geterogenligini ko'rsatadi.
+@ Mavzu materiali (018.txt)
+#U 018 / 12: Hornick va boshq. (1970) qorin tifi bo'yicha ko'ngillilar kuzatuvi - faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.

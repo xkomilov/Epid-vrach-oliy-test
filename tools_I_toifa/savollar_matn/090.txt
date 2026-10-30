@@ -1,0 +1,98 @@
+=== 090
+? Kuydirgi qo'zg'atuvchisining tabiatdagi rezervuari va odamlar uchun asosiy manbasi qaysilar?
++ rezervuar tuproq, odamlar uchun asosiy manba esa uy va qishloq xo'jalik hayvonlari
+- rezervuar chuchuk suv havzalari, odamlar uchun asosiy manba esa sichqonsimon yovvoyi kemiruvchilar
+- rezervuar havo, odamlar uchun asosiy manba esa ko'chmanchi qushlar va yovvoyi o'rdaklar
+- rezervuar bemor odam, odamlar uchun asosiy manba esa kasal qarindoshlar va qo'shnilar
+- rezervuar qon so'ruvchi bo'g'imoyoqlilar, odamlar uchun asosiy manba esa it va mushuklar
+! Sporalar tuproqda uzoq saqlanadi, kasal hayvon esa siydik, najas va boshqa ajralmalari bilan qo'zg'atuvchini tarqatadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova; Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Kuydirgining odamga yuqishida qaysi yo'l asosiy va yetakchi hisoblanadi?
++ kontakt yo'li
+- alimentar yo'l
+- aerogen-aerozol yo'l
+- transmissiv yo'l
+- vertikal yo'l
+! Odamlar odatda kasal hayvon yoki xom ashyo bilan teri orqali kontaktda zararlanadi, boshqa yo'llar kam uchraydi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Kuydirgi qo'zg'atuvchisi saqlanishi uchun qaysi sharoit qulay hisoblanadi?
++ +17...+26 °C harorat, 40–80 % namlik, pH 6,5–7,5
+- –10...–20 °C harorat, 5–10 % namlik, pH 2,0–3,0
+- +50...+60 °C harorat, 90–100 % namlik, pH 10–11
+- +37...+40 °C harorat, 5–10 % namlik, pH 1,0–2,0
+- 0...+4 °C harorat, 20–30 % namlik, pH 11–12
+! Mo'tadil iliq, o'rtacha nam va neytral muhit sporalar uchun qulay.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova; Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Teri kuydirgisi uchun navbatdan tashqari maxsus xabarnomada qaysi kod ishlatiladi?
++ A22.0
+- A22.1
+- A22.2
+- A20.0
+- A23.0
+! Kodlar kasallik shakliga qarab farqlanadi: teri shakli bir xil guruhning nol raqamli bandi bilan belgilanadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova; JSST. Kasalliklarning xalqaro tasnifi (XKT-10)
+? Kuydirgi o'chog'ida birga yashovchilar qancha vaqt va qanday tartibda kuzatiladi?
++ 8 kun davomida har kuni ko'riladi, kuniga 2 marta termometriya o'tkaziladi
+- 21 kun davomida haftada bir marta ko'riladi, termometriya o'tkazilmaydi
+- 3 kun davomida ko'rik o'tkazilmaydi, faqat so'rovnoma to'ldiriladi
+- 30 kun davomida oyda bir marta ko'riladi, kuniga 1 marta termometriya o'tkaziladi
+- 2 kun davomida har soatda ko'riladi, kuniga 6 marta termometriya o'tkaziladi
+! Yashirin davr qisqa bo'lgani uchun kuzatuv sutkalik ko'rik va termometriya bilan o'tkaziladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Tasdiqlangan kuydirgidan vafot etgan bemor jasadi bilan qanday ish yuritiladi?
++ patologoanatomik ochilmaydi va jasad yo'riqnoma asosida ko'miladi
+- patologoanatomik ochiladi va a'zolari ilmiy maqsadda saqlanadi
+- oila a'zolari tomonidan oddiy tartibda dafn etiladi, maxsus choralarsiz
+- patologoanatomik ochilib, to'qima namunalari boshqa shaharlarga yuboriladi
+- jasad bir hafta davomida xonada qoldirilib, kuzatuv ostida saqlanadi
+! Jasad bilan manipulyatsiya sporalarning tarqalishiga olib kelishi mumkin, shu sababli ochish taqiqlanadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Saparov qo'llanmasiga ko'ra, kuydirgidan vafot etgan bemor jasadi qanday ko'miladi?
++ kleyonkaga o'ralib, tobutga qo'yiladi, tagi va ustiga quruq xlorli ohak sepilib, quruq joyga ko'miladi
+- oddiy kafanga o'ralib, ochiq tobutda, tagiga hech narsa solinmasdan, nam va past joyda ko'miladi, ustiga tuproq tashlanadi
+- hech narsaga o'ralmasdan, tuproqqa quruq xlorli ohaksiz, suv havzasi yaqinida sayoz chuqurlikda ko'miladi
+- tuz eritmasiga solinib, oddiy qabristonda, oila a'zolarining ishtirokida va marosim bilan ko'miladi
+- muzlatilib, bir yil muzlatgichda saqlanadi, so'ngra oddiy tartibda dafn etiladi
+! Sporalar tashqi muhitga tushmasligi va tuproqni ifloslantirmasligi uchun jasad germetik o'raladi va dezinfeksiyalovchi modda sepiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Buyruqqa ko'ra, noxush turg'un punktlar ustidan laboratoriya monitoringi qaysi oylarda o'tkaziladi?
++ har yili maydan oktyabrgacha, choragiga bir marta
+- har yili yanvardan martgacha, oyiga bir marta
+- har yili noyabrdan fevralgacha, yarim yilda bir marta
+- har yili iyundan avgustgacha, haftada bir marta
+- har yili dekabrdan aprelgacha, yilda bir marta
+! Sporalarni tuproqdan aniqlash iliq mavsumda o'tkaziladi, sovuq oylarda esa monitoring o'tkazilmaydi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Kasal hayvon bilan aloqada bo'lgan hayvonlarga epizootik o'choqda qanday immunoprofilaktika o'tkaziladi?
++ avval kuydirgiga qarshi zardob, so'ngra vaksina beriladi
+- avval vaksina, so'ngra zardob beriladi, oraliq muddatsiz
+- antibiotik beriladi, vaksina yoki zardob qo'llanmaydi
+- chora ko'rilmaydi, hayvonlar erkin yaylovga chiqariladi
+- vitaminlar beriladi, immunoprofilaktika o'tkazilmaydi
+! Zardob zudlik bilan passiv himoya beradi, vaksina esa uzoq muddatli faol immunitetni shakllantiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova; Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Noxush xo'jalikda kuydirgi bo'yicha karantin qancha muddatga e'lon qilinadi?
++ hayvon o'lgan yoki tuzalgan kundan 15 kun
+- hayvon o'lgan kundan keyin 3 kun davomida, chegaralar belgilanmaydi
+- oxirgi holatdan keyin 60 kun davomida, xo'jalik yopiladi
+- hayvon o'lgan kundan keyin 1 yil davomida, savdo taqiqlanadi
+- oxirgi holatdan keyin 6 oy davomida, nazorat saqlanadi
+! Muddat oxirgi o'lim yoki tuzalish sanasidan hisoblanadi va o'choqdagi xavf bartaraf etilganda tugaydi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? SanQvaN 0090-25 jadvaliga ko'ra, kuydirgi o'chog'iga ikkinchi marta ishlov berilganda turar joy yuzasining 1 m2 ga va ichki kiyimning 1 kg ga qancha vosita sarflanadi?
++ 1 m2 ga 2 litr, ichki kiyimning 1 kg ga 5 litr
+- 1 m2 ga 5 litr, ichki kiyimning 1 kg ga 2 litr
+- 1 m2 ga 0,2 litr, ichki kiyimning 1 kg ga 0,5 litr
+- 1 m2 ga 10 litr, ichki kiyimning 1 kg ga 20 litr
+- 1 m2 ga 1 litr, ichki kiyimning 1 kg ga 1 litr
+! Kiyim va to'qimalar eritmani ko'proq so'rgani uchun ularga sarf miqdori yuza birligiga nisbatan ko'p bo'ladi.
+@ SanQvaN № 0090-25, dezinfeksiya vositalari sarfi jadvali
+? SanQvaM № 0239-07/3 ga ko'ra, kuydirgiga qarshi xavfi yuqori aholi guruhlari qaysi yoshdan emlanadi va revaksinatsiya qachon o'tkaziladi?
++ 14 yoshdan emlanadi, revaksinatsiya 1 yildan keyin o'tkaziladi
+- 1 yoshdan emlanadi, revaksinatsiya 10 yildan keyin o'tkaziladi
+- 7 yoshdan emlanadi, revaksinatsiya talab etilmaydi
+- 18 yoshdan emlanadi, revaksinatsiya 6 oydan keyin o'tkaziladi
+- 3 yoshdan emlanadi, revaksinatsiya 2 yildan keyin o'tkaziladi
+! Emlash kasbiy xavf ostidagi katta yoshdagilar uchun mo'ljallangan va immunitetni qayta mustahkamlash uchun takroran o'tkaziladi.
+@ SanQvaM № 0239-07/3 (2017), profilaktik emlash kalendari
+#D 090 / 8: buyruqda (37-son) monitoring maydan oktyabrgacha, Saparov qo'llanmasida (2010) tuproq namunalari aprel–oktyabr oylarida olinadi — muddatlar farq qiladi; savol buyruq bo'yicha tuzildi.

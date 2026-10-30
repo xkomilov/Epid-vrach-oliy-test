@@ -1,0 +1,98 @@
+=== 103
+? «Transmissiv» atamasini epidemiologiyaga kim taklif etgan?
++ E.N. Pavlovskiy
+- L.V. Gromashevskiy
+- D.K. Zabolotniy
+- V.A. Zilber
+- I.I. Mechnikov
+! Pavlovskiy tabiiy o'choqlilik ta'limotining asoschisi bo'lib, qon so'ruvchi bo'g'imoyoqlilar orqali yuqish mexanizmini «transmissiv» deb atagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19-bob
+? Transmissiv infeksiyalar epidemik zanjirining to'g'ri ketma-ketligi qaysi javobda berilgan?
++ umurtqali xo'jayin (odam yoki hayvon) – qon so'ruvchi bo'g'imoyoqli – moyil organizm
+- ifloslangan suv – tashuvchi pashsha – moyil organizm – oziq-ovqat mahsuloti
+- sog'lom tashuvchi odam – havo-tomchi zarralari – nafas yo'llari – moyil organizm
+- kasal hayvon go'shti – termik ishlov berilmagan taom – ichak shilliq qavati
+- tuproq – shikastlangan teri – bakteriya sporasi – moyil organizm
+! Qo'zg'atuvchi qon orqali xo'jayindan qon so'ruvchi bo'g'imoyoqliga, undan keyingi organizmga uzatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19-bob
+? Bezgak plazmodiylarining jinsiy ko'payish sikli qayerda o'tadi va uning xo'jayinlik maqomi qanday?
++ Anopheles chivinida; chivin asosiy, odam esa oraliq xo'jayin
+- odam jigarida; odam asosiy, chivin esa oraliq xo'jayin
+- odam eritrotsitlarida; odam asosiy xo'jayin, chivin esa mexanik tashuvchi
+- Anopheles chivini tuxumida; chivin oraliq, odam esa rezervuar xo'jayin
+- Culex chivinida; chivin oraliq, hayvon esa asosiy xo'jayin
+! Jinsiy sikl (sporogoniya) chivin ichida o'tgani uchun u asosiy xo'jayin, odamda esa faqat jinssiz sikl kechadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19-bob
+? Toshmali tifda qo'zg'atuvchi odamga qanday yo'l bilan o'tadi?
++ bit najasining qashinish paytida teriga ishqalanishi (kontaminatsiya)
+- bitning qon so'rayotganda so'lak bezlari orqali yuborishi (inokulyatsiya)
+- ifloslangan suv ichilganda ichak yo'li orqali tushishi
+- kasal hayvon go'shtini yetarli pishirmasdan iste'mol qilish
+- bit tuxumlarining kiyim orqali nafas yo'llariga tushishi
+! Toshmali tifda qon so'rish emas, balki najas yoki ezilgan bit gemolimfasining teriga ishqalanishi yuqishni ta'minlaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19-bob
+? Qaysi transmissiv kasallik mavsumiyligi boshqalardan farqli ravishda qish oylariga to'g'ri keladi?
++ toshmali tif
+- bezgak
+- kana ensefaliti
+- teri leyshmaniozi
+- kanali qaytalama tif
+! Toshmali tifni tashuvchi bitlar qalin kiyimlarda qishda ko'proq ko'payadi, boshqa kasalliklar esa bo'g'imoyoqlilar faol mavsumga bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19-bob
+? Tabiiy o'choqli infeksiyalar qanday xususiyat bilan tavsiflanadi?
++ qo'zg'atuvchi vektor va yovvoyi hayvonlar orasida odamdan mustaqil aylanadi
+- qo'zg'atuvchi faqat bemor odam va uning kontaktdagilari orasida aylanadi
+- qo'zg'atuvchi faqat aholi punktlaridagi uy hayvonlari orasida saqlanadi
+- qo'zg'atuvchi faqat tashqi muhit ob'ektlarida bakteriya sporasi sifatida qoladi
+- qo'zg'atuvchi faqat sun'iy sharoitda, laboratoriyada ko'paya oladi
+! Tabiiy o'choqlarda aylanish odam ishtirokisiz davom etadi, odam esa tasodifan zanjirga qo'shilishi mumkin.
+@ Jahongirov Sh.M. Tibbiy entomologiya (o'quv qo'llanma), 2016
+? JSST ma'lumotiga ko'ra Culex chivinlari qaysi kasalliklarni yuqtiradi?
++ Yapon ensefaliti va G'arbiy Nil isitmasini
+- sariq isitma, Zika kasalligi va denge isitmasini
+- bezgak, Qrim–Kongo isitmasi va kana ensefalitini
+- o'lat va toshmali tifni
+- Chagas kasalligi va uyqu kasalligini
+! Culex chivinlari ensefalit va G'arbiy Nil isitmasi tashuvchisi, Aedes sariq isitma, Zika va denge tashuvchisi, Anopheles esa bezgak tashuvchisi.
+@ WHO. Vector-borne diseases (fact sheet)
+? Vektor orqali yuqadigan kasalliklar JSST bo'yicha barcha yuqumli kasalliklarning qancha qismini tashkil etadi?
++ 17 foizdan ortig'ini
+- 3 foizga yaqinini
+- 5 foizdan kamini
+- 35 foizdan ortig'ini
+- yarmidan ko'pini
+! Vektor orqali yuqadigan kasalliklar yiliga 700 000 dan ortiq o'limga sabab bo'ladi.
+@ WHO. Vector-borne diseases (fact sheet)
+? Kanali qaytalama tifni O'zbekistonda qaysi kana turi tarqatadi?
++ Ornithodoros papillipes
+- Ixodes ricinus kanasi
+- Phlebotomus papatasi moskiti
+- Hyalomma marginatum kanasi
+- Pediculus humanus kiyim biti
+! Qo'zg'atuvchi argas kanalari – Ornithodoros turkumi orqali yuqadi, ular tog' va tog' oldi hududlaridagi uyalarda yashaydi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 3-ilova (kanali qaytalama tif)
+? Teri zoonoz leyshmaniozida qo'zg'atuvchi, rezervuar va tashuvchi qaysi javobda to'g'ri ko'rsatilgan?
++ L. major, qum sichqonlar va Phlebotomus moskitlari
+- L. tropica, odam va Phlebotomus moskitlari
+- L. infantum, itlar va Aedes chivinlari
+- L. major, daydi itlar va Ixodes kanalari
+- L. tropica, qum sichqonlar va Culex chivinlari
+! Teri zoonoz leyshmaniozida (ZTL) kemiruvchilar rezervuar, moskit esa tashuvchi bo'lib, L. tropica antroponoz shaklni qo'zg'atadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 2-ilova (leyshmanioz)
+? Transmissiv infeksiyalar profilaktikasida asosiy e'tibor zanjirning qaysi bo'g'iniga qaratiladi?
++ eng zaif va nazorat qilish mumkin bo'lgan vektor bo'g'iniga
+- yuqish mexanizmi mavjud bo'lmagan moyil organizm bo'g'iniga
+- tashqi muhitdagi ob'ektlarni dezinfeksiya qilish bo'g'iniga
+- oziq-ovqat mahsulotlarini termik ishlash bo'g'iniga
+- bemorlarni aniqlash va ularni yakkalab davolash hamda kuzatish bo'g'iniga
+! Vektorga qarshi dezinseksiya va shaxsiy himoya manba, vektor, moyil organizm uchligining eng samarali bo'g'inidir.
+@ Jahongirov Sh.M. Tibbiy entomologiya (o'quv qo'llanma), 2016
+? Entomologik monitoringda nimalar o'rganiladi?
++ vektorlar soni, tarkibi va zararlanish darajasi
+- aholining ovqatlanish rejimi va tuzilishi
+- bemorlarning dori vositalarini qabul qilish tartibi
+- suv quvurlari tarmog'i uzunligi va ular materiali
+- shifoxonalardagi o'rinlar soni va tibbiy xodimlar bandligi
+! Entomologik monitoring tabiiy o'choq faolligini va keyingi mavsum xavfini baholash uchun vektorlar ko'rsatkichlarini kuzatadi.
+@ Jahongirov Sh.M. Tibbiy entomologiya (o'quv qo'llanma), 2016
+#U 103 / 9: kanali qaytalama tifning O'zbekistondagi tarqalishi (80% Namangan va Farg'ona) faqat mavzu materialiga tayanadi; savol faqat vektor turini so'raydi.

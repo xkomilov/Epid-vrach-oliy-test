@@ -1,0 +1,99 @@
+=== 024
+? Vrach-epidemiologning asosiy vazifalaridan biri qaysi?
++ Epidemiologik nazoratni (surveillance) olib borish, ro'yxatga olish va hisobga olishni ta'minlash
+- Bemorlarga jarrohlik amaliyotini o'tkazish va operatsiyadan keyingi davolashni nazorat qilish
+- Dori vositalarini ishlab chiqarish sifatini farmatsevtik zavodlarda baholash
+- Tibbiy oliygohlarda talabalar qabuli bo'yicha imtihonlarni tashkil etish
+- Bemorlarning kasallik tarixlarini faqat klinik tashxis nuqtai nazaridan yuritish
+! Epidemiolog ma'lumot yig'ish, hisobga olish va tahlilni o'z ichiga olgan nazorat tizimining asosiy ijrochisidir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016; Umirov S.E., Qodirov Z.Z. Klinik epidemiologiya (o'quv qo'llanma)
+? Epidemiologik tashxis qo'yilganda epidemiolog nima haqida xulosa chiqaradi?
++ Epidemik vaziyatning holati, sabablari va kelgusi rivojlanishi haqida
+- Bitta bemorning yurak-qon tomir tizimi faoliyati va qon bosimi haqida
+- Dori vositasining yon ta'siri va uning dozalash rejimi haqida
+- Shifoxona binosining qurilish smetasi va ta'mirlash muddatlari haqida
+- Xodimlarning yillik ish haqi fondi va mukofot miqdori haqida
+! Epidemiologik tashxis klinik emas, balki aholi darajasidagi vaziyatning holati, sabablari va prognozini ifodalaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Bemor aniqlangach, epidemiolog o'choqni tekshirganda nimalarni aniqlaydi?
++ Infeksiya manbaini, yuqish yo'li va omillarini hamda muloqotda bo'lgan shaxslarni
+- Bemorning oilaviy daromadini, yashash joyining kadastr qiymatini va mulk huquqi hujjatlarini
+- Faqat bemorning kasbiy malaka darajasi va ish staji muddatini
+- Kasallik tarixidagi barcha dorilarning savdo nomlari ro'yxatini
+- Bemorning ijtimoiy tarmoqlardagi faolligi va do'stlari doirasini
+! Epidemiologik anamnez manba, yuqish yo'li va kontaktlarni aniqlash orqali o'choqdagi tadbirlarga asos bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Quyidagilardan qaysi biri epidemiolog tashkil etadigan o'choqdagi tadbirlarga kiradi?
++ Bemorni ajratish, joriy va yakuniy dezinfeksiya, muloqotdagilarni tibbiy kuzatuvga olish
+- Bemorning ish haqini hisoblash va mehnat ta'tilini rasmiylashtirish
+- Yangi shifoxona binosi loyihasini tayyorlash, qurilish ishlarini boshlash va pudrat shartnomalarini tuzish
+- Bemorning barcha qarindoshlarini majburan statsionarga yotqizish
+- Hududdagi barcha aholini bir kunda emlash kampaniyasini boshlash
+! O'choqni lokalizatsiya qilish uchun manbani ajratish, dezinfeksiya va kontaktlar ustidan kuzatuv birgalikda qo'llaniladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Immunprofilaktikani tashkil etishda epidemiolog nimalarni nazorat qiladi?
++ Emlash qamrovini, vaksinalar zaxirasini va sovuqlik zanjirini
+- Faqat vaksina narxini va uni sotib olish bo'yicha tijorat shartnomalarini
+- Vaksina ishlab chiqaruvchi zavodning ichki texnologik jarayonlarini
+- Bemorlarning dori vositalariga to'lagan shaxsiy xarajatlarini
+- Emlash xonasining mebel va ko'rgazmali vositalar bilan jihozlanishini
+! Emlash samaradorligi qamrovga, vaksina saqlanish sharoiti va uzluksiz sovuqlik zanjiriga bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Dezinfeksiya, dezinseksiya va deratizatsiya tadbirlari nimaga qaratilgan?
++ Mikroblar, hasharotlar va kemiruvchilarni yo'qotish orqali infeksiya tarqalishining oldini olishga
+- Bemorlarning ruhiy holatini tiklash, stressni kamaytirish va psixoterapevtik yordam hamda reabilitatsiya dasturlarini rejalashtirishga
+- Oziq-ovqat mahsulotlarining ta'mini yaxshilash va saqlash muddatini uzaytirishga
+- Shifoxona hovlisini obodonlashtirish va ko'kalamzorlashtirishga
+- Aholining jismoniy faolligini oshirish va sportni rivojlantirishga
+! Bu tadbirlar yuqish zanjirining omillarini (mikroblar, vektorlar va rezervuarlar) yo'qotadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Davolash-profilaktika muassasalarida epidemiolog infeksion nazorat tizimi doirasida nimani kuzatadi?
++ Sanitariya-gigiyenik rejim, sterilizatsiya va dezinfeksiya ishi hamda tibbiy chiqindilar bilan ishlashni
+- Bemorlarning ovqatlanish ratsionidagi kaloriyalar miqdorini, oshxona menyusining xilma-xilligini va ovqat taqsimlash grafigini
+- Faqat shifokorlarning ilmiy maqolalar chop etish faolligini
+- Bemorlarning to'lov qobiliyati va sug'urta polislari holatini
+- Muassasa binosining tashqi ko'rinishi va reklama bannerlarini
+! Infeksion xavfsizlikni ta'minlovchi rejimlar va jarayonlar epidemiolog nazoratining markaziy ob'ektidir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiologik nazorat siklining tarkibiga qaysi ketma-ketlik kiradi?
++ Ma'lumot yig'ish, tahlil, talqin, qaror qabul qilish va tadbirlar samaradorligini qaytib baholash
+- Ma'lumot yig'ish, so'ng uni arxivga topshirish, qaror qabul qilishni kechiktirish va natijani baholamasdan tugatish
+- Qaror qabul qilish, so'ng ma'lumot yig'ishni to'xtatish
+- Tahlil, talqin va jazo choralarini qo'llash, so'ngra tadbirlarni to'xtatish
+- Ma'lumot yig'ish va uni faqat bir martalik hisobotga aylantirish
+! Nazorat yopiq sikl: natijalar baholangach, yangi ma'lumotlar bilan jarayon qaytadan boshlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiolog yuritadigan hujjatlarga qaysilar kiradi?
++ Epidemiologik tekshiruv kartalari, hisobotlar, tahliliy ma'lumotlar va tadbirlar rejalari
+- Bemorlarning shaxsiy yozishmalari va ijtimoiy tarmoq sahifalari
+- Muassasaning moliyaviy audit natijalari, bank hisob raqamlari va buxgalteriya balansi hujjatlari
+- Dori vositalarining reklama bukletlari va savdo kataloglari
+- Xodimlarning ta'til rasmlari va bayram tadbirlari hisobotlari
+! Hujjatlashtirish tahlil uchun ishonchli ma'lumot bazasini yaratadi va yuqori tashkilotlarga hisobot berish imkonini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiolog ko'p sohali hamkorlikda qaysi tarmoqlar bilan ishlashni muvofiqlashtiradi?
++ Sog'liqni saqlash, veterinariya, kommunal xizmat, ta'lim va mahalliy hokimiyat
+- Harbiy tuzilmalar va chegara xizmati, boshqa tarmoqlar bilan aloqa o'rnatilmaydi
+- Sport federatsiyalari, madaniyat muassasalari va ijodiy uyushmalar
+- Bank va sug'urta kompaniyalari hamda investitsiya fondlari tarmog'i
+- Xorijiy diplomatik vakolatxonalar va xalqaro savdo palatalari
+! Epidemiyaga qarshi kurash ko'pincha bir necha idoraning birgalikdagi harakatini talab qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? SEO va JS qo'mitasining Epidemiologiya bo'limi to'g'risidagi nizomida bo'limning vazifalari qatoriga nima kiritilgan?
++ Karantin va o'ta xavfli hamda boshqa yuqumli kasalliklar profilaktikasi bo'yicha yagona davlat siyosatini yuritish
+- Dori vositalarini ro'yxatdan o'tkazish, ularning narxini belgilash va farmatsevtik litsenziyalarni berishning yagona tartibini yuritish
+- Oliy ta'lim muassasalariga talabalar qabuli bo'yicha kvotalar belgilash
+- Sanoat korxonalarida mehnat unumdorligi normativlarini tasdiqlash
+- Qishloq xo'jaligi mahsulotlarining eksport hajmini rejalashtirish
+! Nizomda yuqumli kasalliklar profilaktikasi, epidemiyaga qarshi tadbirlar, monitoring va o'choqlarni bartaraf etish vazifalari sanab o'tilgan.
+@ SEO va JS qo'mitasining 23.12.2023-yildagi 79-son buyrug'iga 15-ilova: Epidemiologiya bo'limi to'g'risida nizom
+? Qonunga ko'ra, davlat sanitariya nazoratini amalga oshiruvchi mansabdor shaxslar nimani bajarishi shart?
++ Yuqumli kasalliklar paydo bo'lish sabablarini aniqlash, murojaatlarni ko'rib chiqish va aholini xabardor qilish
+- Jarimalar undirish va ularni davlat byudjetiga o'tkazish, sabablarni aniqlamasdan va aholiga xabar bermasdan ishlash
+- Aholini tibbiy ko'riksiz majburan karantinga joylashtirish
+- Tibbiy axborotni faqat o'z idorasi ichida saqlab, aholiga bermaslik
+- Faqat ishlab chiqarish korxonalarining moliyaviy hisobotlarini tekshirish
+! Qonun nazoratchi mansabdorlarga sabablarni aniqlash, murojaatlarni ko'rish va xavflar haqida jamoatchilikni ogohlantirish majburiyatini yuklaydi.
+@ O'zbekiston Respublikasining «Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida»gi Qonuni
+#U 024 / 1: Umirov va Qodirov o'quv qo'llanmasining nashriyoti va yili nusxada tekshirilmagan; fakt asosan darslikka tayanadi.
+#U 024 / 11: Epidemiologiya bo'limi nizomi faqat mavzu materiali (kutubxona nusxasi) orqali ko'rilgan.

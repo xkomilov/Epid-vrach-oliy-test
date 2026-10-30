@@ -1,0 +1,101 @@
+=== 071
+? Koronavirus infeksiyasida karantinni harorat o'lchash yoki simptomlarga emas, ta'sirlanish faktiga asoslash nima bilan izohlanadi?
++ virus simptomlar boshlanishidan oldin va simptomsiz davrda ham yuqishi mumkinligi bilan
+- kasallik faqat yuqori isitma paydo bo'lgandan keyingina atrofdagilarga yuqishi bilan
+- virus faqat najas orqali ajralib, klinik belgilar tugagach yuqumlilik xususiyatini kasb etishi bilan
+- inkubatsion davr barcha holatlarda bir sutkadan oshmasligi va haroratni o'lchash imkoni yo'qligi bilan
+- virus tashqi muhitda bemor kasalxonaga yotqizilgandan keyingina yuqish xususiyatiga ega bo'lishi bilan
+! Simptomlardan oldingi va asimptomatik davrda ham yuqumlilik saqlanadi, shu sababli harorat o'lchash yetarli ajratish mezoni bo'la olmaydi.
+@ WHO. Coronavirus disease (COVID-19) (fact sheet)
+? Koronavirus infeksiyasining inkubatsion davri qanday ko'rsatilgan?
++ 1–14 kun, o'rtacha 5–6 kun
+- 21–28 kun, o'rtacha 14 kun
+- 6–30 kun, o'rtacha 12 kun
+- 12 soatdan 4 kungacha, o'rtacha 2 kun
+- 2–3 oy, o'rtacha 1 oy
+! Davr keng oraliqda o'zgaradi, shuning uchun karantin muddati eng uzun mumkin bo'lgan inkubatsiyani qoplashi kerak.
+@ WHO. Coronavirus disease (COVID-19) (fact sheet)
+? Virus simptomlar boshlanishidan necha kun oldin yuqori nafas yo'llarida aniqlanadi va uning eng yuqori miqdori qachonga to'g'ri keladi?
++ 1–3 kun oldin; eng yuqori miqdor simptomlar boshlanishiga to'g'ri keladi
+- 7–10 kun oldin; eng yuqori miqdor sog'ayish davrining oxirida kuzatiladi
+- simptomlar boshlangach 5-kuni paydo bo'ladi; eng yuqori miqdor ikkinchi haftaga to'g'ri keladi
+- 14 kun oldin; eng yuqori miqdor inkubatsion davrning birinchi sutkasida kuzatiladi
+- simptomlardan 4–5 kun oldin; eng yuqori miqdor harorat normallashgan kunga to'g'ri keladi
+! Yuqori nafas yo'llarida virus miqdori simptomlar paytida cho'qqiga chiqadi, bu simptomlardan oldingi yuqishni tushuntiradi.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? JSST bo'yicha tasdiqlangan simptomsiz holatda kontakt davri qanday hisoblanadi?
++ namuna olinishidan 2 kun oldin boshlanib, namuna olingandan keyin 14 kun davom etadi
+- namuna olingan kundan boshlanib, undan keyin 7 kun davom etadi
+- namuna olinishidan 14 kun oldin boshlanib, namuna olingan kuni tugaydi
+- namuna olinishidan 5 kun oldin boshlanib, undan keyin 21 kun davom etadi va qayta tekshiruv talab qilinadi
+- namuna olinishidan 1 kun oldin boshlanib, undan keyingi 10 kun davom etadi
+! Davr yuqumlilik boshlanishi mumkin bo'lgan oldingi kunlarni ham, kuzatuv muddatini ham qamrab oladi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Koronavirusning qaysi yuqish yo'li tufayli karantin xonalarida alohida joylashtirish, shamollatish va niqob rejimi muhim hisoblanadi?
++ havo-tomchi va aerozol yo'li
+- fekal-oral yo'l (ifloslangan suv va oziq-ovqat orqali)
+- transmissiv yo'l (hasharotlar chaqishi orqali)
+- parenteral yo'l (tibbiy muolajalar va qon quyish orqali)
+- vertikal yo'l (onadan homilaga platsenta orqali)
+! Virus yaqin va yopiq muhitda havo orqali tarqaladi, shamollatish va niqob aynan shu yo'lni to'sadi.
+@ WHO. Coronavirus disease (COVID-19) (fact sheet)
+? VMQ-176 (2020) ga ko'ra O'zbekistonga kirayotgan shaxslar 14 kun davomida qayerda bo'lishi mumkin?
++ maxsus ajratilgan tibbiyot muassasasida, moslashtirilgan bazada yoki uy sharoitida
+- faqat infeksion kasalxonaning intensiv terapiya bo'limida, uy sharoitiga hech qanday holatda ruxsat berilmaydi
+- ishlash joyida jamoa bilan, kuniga bir marta harorat o'lchab turish sharti bilan
+- yashash joyidagi oilaviy poliklinikada ambulator ro'yxatda turib, odatdagi tartibda erkin harakatlanib
+- chegara postlaridagi vaqtinchalik chodirlarda, rasmiy sertifikat berilguncha
+! Qarorda kiruvchilar uchun ajratilgan joy yoki uyda to'liq izolyatsiya ko'zda tutilgan, erkin harakat emas.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? Tashkilot rahbarlari (ish beruvchilar) VMQ-176 bo'yicha qaysi majburiyatga ega edi?
++ tashrif buyuruvchilarni faqat tibbiy niqobda kiritish va xodimlar haroratini o'lchab, yuqori harorati borlarni ishga qo'ymaslik
+- xodimlarning mobil telefonlari va bank kartalarini ish vaqtida omonatga olib qo'yish
+- kasal xodimlarni o'z hisobidan chet el klinikalarida davolash va ularning oilalarini izolyatsiyaga joylashtirish
+- har bir xodimga haftasiga ikki marta PZR tekshiruvi o'tkazib, natijani ommaviy axborot vositalarida e'lon qilish
+- tashrif buyuruvchilar uchun ro'yxatdan o'tish daftarini yuritib, ularni yuqori harorat bo'lsa ham ichkariga kiritish
+! Qaror ish beruvchilarga kirishda niqob va harorat nazoratini, shuningdek dezinfeksiyani majburiy qilgan.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? Oliy ta'lim muassasalarida cheklov sharoitida SanPiN 0011-21 bo'yicha ijtimoiy masofa qanday belgilangan?
++ kamida 2 metr
+- kamida 0,5 metr
+- kamida 1 metr
+- kamida 3 metr
+- kamida 5 metr
+! Talabalar va xodimlar orasidagi kamida ikki metrli masofa tomchi yo'li bilan yuqish xavfini kamaytirish uchun belgilangan.
+@ SanPiN № 0011 (0012)-21
+? Mavzu materialiga ko'ra, bemor umumiy ahvoli yaxshilansa va PZR natijasi manfiy bo'lsa necha kundan keyin shifoxonadan chiqarilishi mumkin?
++ 5 kundan keyin; PZR kutilmasa 10 kundan keyin
+- 3 kundan keyin; PZR kutilmasa 7 kundan keyin
+- 7 kundan keyin; PZR kutilmasa 14 kundan keyin
+- 14 kundan keyin; PZR kutilmasa 21 kundan keyin
+- 10 kundan keyin; PZR kutilmasa 28 kundan keyin
+! Chiqarish muddati laboratoriya tasdig'iga bog'langan: manfiy PZR muddatni qisqartiradi.
+@ Mavzu materiali (071.docx)
+? Mavzu materialiga ko'ra «COVID-19-ambulator» shtablari ambulator darajada kuzatuvni qanday tashkil qilgan?
++ uyma-uy faol aniqlash va har kuni telefon orqali bog'lanish yo'li bilan
+- bemorlarni haftasiga bir marta poliklinikaga chaqirib, qon tahlillarini takrorlash yo'li bilan
+- faqat shifoxonadan chiqqan bemorlarni oyiga bir marta ko'rikdan o'tkazish yo'li bilan
+- kontaktdagilarni ommaviy ravishda mehmonxonalarga joylashtirib, kunlik tibbiy nazorat qilish yo'li bilan
+- bemorlarni mahalla faollari orqali ro'yxatga olib, tibbiy ko'riksiz izolyatsiyada saqlash yo'li bilan
+! Ambulator monitoring faol aniqlash va muntazam masofaviy aloqaga tayanadi.
+@ Mavzu materiali (071.docx)
+? Mavzu materialiga ko'ra, bemor bilan kontaktda bo'lganlar emlash bo'yicha buyruqqa asosan qachon emlanishi ko'rsatilgan?
++ karantin tugagandan keyin
+- kontakt aniqlangan zahoti, karantin davomida
+- ikkinchi PZR natijasi musbat chiqqandan so'ng
+- inkubatsion davrning uchinchi kunida
+- antitelolar titri aniqlangandan so'ng, karantin davomida
+! Kontaktdagi shaxslar kuzatuv muddati tugaguncha emlanmaydi.
+@ Mavzu materiali (071.docx)
+? Karantin choralarining samaradorligi qaysi ko'rsatkichlar bilan baholanadi?
++ kirib kelgan holatlar sonining kamayishi, kontaktdagilar o'z vaqtida aniqlanishi va izolyatsiya qilinishi ulushi hamda klasterlarning to'xtatilishi
+- kasalxonalardagi bo'sh o'rinlar soni, dori vositalari zaxirasi hajmi, tibbiy xodimlarning ish soatlari yig'indisi va ambulatoriyalarga kelgan murojaatlar umumiy soni
+- aholiga sotilgan tibbiy niqoblar miqdori, dezinfeksiya vositalari narxi va savdo shoxobchalari soni bo'yicha
+- o'tkazilgan ommaviy tadbirlar soni va ularda qatnashgan mehmonlarning o'rtacha yoshi bo'yicha
+- qaytgan sayyohlar oqimining mavsumiy dinamikasi hamda aeroportdagi yo'lovchilar soni bo'yicha
+! Samaradorlik kontakt tracing sifati va klasterlar to'xtatilishi kabi nazorat natijalariga qarab baholanadi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+#U 071 / 8: SanPiN bo'yicha ≥2 m masofa faqat mavzu materialida keltirilgan, matn tashqi manba bilan tekshirilmagan.
+#U 071 / 9: Shifoxonadan chiqarish muddatlari (5/10 kun) faqat mavzu materialiga tayanadi.
+#U 071 / 10: «COVID-19-ambulator» shtablari faoliyati faqat mavzu materialiga tayanadi.
+#U 071 / 11: Kontaktdagilarni karantin tugagach emlash tartibi faqat mavzu materialiga tayanadi.

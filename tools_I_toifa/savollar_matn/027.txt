@@ -1,0 +1,100 @@
+=== 027
+? SanQvaM № 0342-17 kimlar uchun majburiy hisoblanadi?
++ Tashkiliy-huquqiy shakldan qat'i nazar, tibbiy faoliyat bilan shug'ullanuvchi tadbirkorlar va yuridik shaxslar uchun
+- Davlat tasarrufidagi katta shifoxonalar uchun majburiy, xususiy muassasalar uchun esa tavsiyaviy hujjat sifatida
+- Jarrohlik bo'limlari bor muassasalar uchun, boshqalarga taalluqli emas
+- Tibbiyot oliygohlarining o'quv klinikalari uchun
+- Sanatoriy va dam olish uylari uchun
+! Qoida tibbiy faoliyat yuritayotgan barcha subyektlarga tegishli, javobgarlik esa tadbirkor, yuridik va mansabdor shaxslarga yuklanadi.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? Donorlik bo'limida epidemiyaga qarshi birinchi to'siq qaysi bo'g'in hisoblanadi?
++ Ro'yxatxona
+- Qon olish zali
+- Qonni qayta ishlash bo'limi
+- Immunologik laboratoriya
+- Qon saqlash omborxonasi
+! Potensial donor ro'yxatxonada elektron ma'lumotlar bazasi bo'yicha tekshirilib, nomaqbul shaxslar dastlabki bosqichdayoq saralanadi.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? Qon tayyorlash zalida kvarsli zararsizlantirish qancha davom etadi?
++ 30 daqiqa
+- 5 daqiqa
+- 10 daqiqa
+- 2 soat
+- 6 soat
+! Zalni dezinfeksiya bilan nam tozalash va 30 daqiqalik kvarslash ish boshlanishidan 30 daqiqa oldin tugallanadi.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? Sayyor brigada yig'gan qon qanday tashiladi?
++ «Sovuqlik zanjiri»ga rioya qilgan holda, termokonteyner yoki avtorefrijeratorda
+- Xona haroratida, oddiy sumkada, harorat nazoratisiz, quyosh nuri tushadigan joyda saqlab
+- Muzlatilgan holda, barcha komponentlarni muzxonada qotirib
+- Quyosh nuri tushadigan joyda, ochiq idishda
+- Isitilgan konteynerda, 40 °C haroratda
+! Qon va komponentlarining sifati uzluksiz sovuq harorat rejimida saqlanishiga bog'liq.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? Qonni qayta ishlash bo'limida yaroqsiz material aniqlangan kundan boshlab necha kundan oshmay yo'qotiladi?
++ 3 kundan oshmay
+- 24 soatdan oshmay
+- 7 kundan oshmay
+- 30 kundan oshmay
+- 3 oydan oshmay
+! Yaroqsiz komponentlar alohida saqlanib, qisqa muddatda ikki nusxadagi dalolatnoma bilan yo'qotiladi.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? Immunologik bo'limda sentrifuga avariyasi yuz berganda nima qilinadi?
++ Aerozollar cho'kishi uchun 30 daqiqadan keyin ochiladi, to'kilgan material 0,5 foizli xlorli eritmaga solinadi
+- Darhol ochib, to'kilgan materialni quruq latta bilan artib tashlanadi va qo'lqopsiz va niqobsiz yig'ishtirib olinadi
+- 5 daqiqadan keyin ochilib, to'kilgan material oddiy suv bilan yuviladi
+- Bir kun ochilmaydi va hech qanday dezinfeksiya qo'llanmaydi
+- Sentrifuga ichidagi probirkalar qo'l bilan olinib, oddiy idishga ag'dariladi
+! Avariyadan keyin aerozollar cho'kishi kutiladi, so'ngra xlorli eritma bilan zararsizlantirish o'tkaziladi.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? Qon namunalari tekshiruvdan keyin qanday sharoitda va qancha saqlanadi?
++ +4...+8 °C da 48 soat
+- +20...+25 °C da 7 kun
+- −20 °C da 48 soat
+- +4...+8 °C da 6 oy
+- +37 °C da 24 soat
+! Namunalar tekshiruvdan keyin sovutgichda qisqa muddat saqlanib, so'ng yo'qotiladi.
+@ SanQvaM № 0342-17: Shifoxona ichi infeksiyalari profilaktikasi
+? «Qon va uning tarkibiy qismlari donorligi to'g'risida»gi Qonunga ko'ra, donorlikning asosiy tamoyillari qaysilar?
++ Ixtiyoriylik, inson uchun zararsizlik va donor qonini ishlatish xavfsizligi
+- Majburiylik, to'lovlilik va maxfiylikning yo'qligi
+- Tijorat foydasi va bozor narxlarida erkin savdo qilish
+- Faqat harbiy xizmatchilarga xoslik va rasmiy buyruq asosida topshirish
+- Anonim bo'lmaslik va tibbiy ko'riksiz qon olish
+! Qonun donorlikni ixtiyoriy va donor hamda qon oluvchi uchun xavfsiz qilib tashkil etishni talab qiladi.
+@ O'zbekiston Respublikasining 402-II-son Qonuni: Qon va uning tarkibiy qismlari donorligi to'g'risida
+? Vazirlar Mahkamasining 324-son qarori (27.11.2014) bo'yicha qon xizmati nima?
++ Davlat sog'liqni saqlash tizimidagi ixtisoslashgan muassasalar majmuasi
+- Xususiy klinikalar tarmog'i va ularning tijorat birlashmalari hamda sug'urta kompaniyalari
+- Xalqaro nodavlat tashkilotlar birlashmasi
+- Bitta shifoxona ichidagi laboratoriya bo'limi
+- Harbiy gospitallar tizimi va ularning tibbiy ta'minoti
+! Qon xizmati Respublika qon quyish stansiyasi, ilmiy-ishlab chiqarish korxonasi va viloyat stansiyalaridan iborat ixtisoslashgan tizimdir.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2014-yil 27-noyabrdagi 324-son qarori
+? Prezidentning PQ-348-son qaroriga ko'ra, donor qonida gemotransmissiv infeksiyalarni tekshirishda nima joriy etiladi?
++ Immunoferment usuli bilan birga PZR tekshiruvlari
+- Tashqi ko'rik asosidagi baholash va anketa so'rovi
+- Bir martalik tezkor test chiziqlari bilan cheklanish
+- Bakteriologik ekma bilan ajratish va kuzatish
+- Donorning o'zi bergan og'zaki ma'lumot
+! Ikki bosqichli (IFA/PZR) tekshiruv donorlik qonidagi infeksiyalarni yuqori ishonchlilik bilan aniqlashga yordam beradi.
+@ O'zbekiston Respublikasi Prezidentining 2022-yil 9-avgustdagi PQ-348-son qarori
+? OIV bo'yicha muloqotdan keyingi kimyoviy profilaktika (MKP) qaysi muddat oralig'ida boshlanishi maqsadga muvofiq?
++ Muloqotdan keyin 2–72 soat oralig'ida
+- Muloqotdan keyin 5–10 kun oralig'ida
+- Muloqotdan keyin 1–3 oy oralig'ida
+- Muloqotdan keyin 6–12 oy oralig'ida
+- Muloqotdan keyin darhol, faqat 2 soatdan kam muddatda
+! Profilaktika qanchalik erta boshlansa, samarasi shunchalik yuqori bo'ladi, shuning uchun muddat bir necha soatdan 72 soatgacha belgilangan.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 2008-yil 4-yanvardagi 4-son buyrug'i
+? 2008-yilgi 4-son buyruq protokolida qisqa antiretrovirus kursi qancha davom etishi tavsiya etilgan?
++ 28 kun
+- 3 kun
+- 7 kun yoki undan kam
+- 6 oy
+- 1 yil
+! Protokol MKP uchun qisqa, 28 kunlik antiretrovirus kursini tavsiya etadi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 2008-yil 4-yanvardagi 4-son buyrug'i
+#U 027 / 11: 2–72 soat va 28 kunlik kurs faqat 2008-yilgi protokolga tayangan, hozirgi milliy tavsiyalar bilan solishtirilmagan.
+#U 027 / 12: 28 kunlik kurs faqat 2008-yilgi protokolga tayangan, hozirgi milliy tavsiyalar bilan solishtirilmagan.
+#U 027 / 9: 324-son qaror matnida «keyingi tahririga qarang» belgisi bor, hozirgi tahriri tekshirilmagan.

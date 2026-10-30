@@ -1,0 +1,98 @@
+=== 139
+? JSSTning onadan bolaga yuqishni oldini olish strategiyasi yo'nalishlaridan biri qaysi?
++ OIV bilan yashovchi ayollarda istalmagan homiladorlikning oldini olish
+- OIV bilan yashovchi ayollarni homiladorlikdan tibbiy sabablarga ko'ra majburiy mahrum etish
+- OIV bilan yashovchi ayollarda tug'ruqdan keyin majburiy sterilizatsiya o'tkazish
+- OIV bilan yashovchi onalarning bolalarini oiladan ajratish
+- tug'ruq paytidagi kimyoprofilaktika o'tkazish
+! Strategiya ayolning reproduktiv huquqlarini saqlagan holda yuqishni kamaytirishga qaratilgan.
+@ World Health Organization. Mother-to-child transmission of HIV (Technical work)
+? OIV infeksiyasi homiladorlikka nisbatan qanday hisoblanadi?
++ homiladorlikni tibbiy to'xtatish uchun ko'rsatma emas
+- homiladorlikni to'xtatish uchun mutlaq ko'rsatma hisoblanadi
+- faqat birinchi trimestrda to'xtatish uchun ko'rsatma bo'ladi
+- sterilizatsiya o'tkazish uchun majburiy asos hisoblanadi
+- bola tug'ilgach onani izolyatsiya qilish uchun asos bo'ladi
+! Samarali profilaktika sharoitida ayol sog'lom bola tug'ishi mumkin, shu sababli majburlash yo'l qo'yilmaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Qaysi shart bajarilganda OIV bilan yashovchi ayolda tug'ruq tabiiy yo'l bilan o'tkazilishi mumkin?
++ virus yuklamasi aniqlanmaydigan darajada va ayol ARTga sodiq bo'lsa
+- CD4 soni 200 dan past bo'lsa, ayol davolanmagan bo'lsa, tug'ruq o'z vaqtida boshlansa
+- virus yuklamasi 1000 nusxa/ml dan yuqori bo'lsa
+- ayol ARTni homiladorlikning oxirida boshlab, sodiqlik buzilgan bo'lsa
+- chaqaloqqa ARV-profilaktika rejalashtirilmagan bo'lsa, ona esa kuzatuvga kelmasa
+! Past virus yuklamasida tug'ruq yo'llari orqali bolaga virus tushish xavfi juda past.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Virus yuklamasi 1000 nusxa/ml dan yuqori bo'lganda kesar kesish qaysi muddatda tavsiya etiladi?
++ 38 haftada
+- 34 haftada
+- 36 haftada
+- 40 haftada
+- 41 haftada
+! Operatsiya tug'ruq boshlanmasdan, muddatga yaqin vaqtda rejalashtiriladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Tabiiy tug'ruqda amniotik pufak bilan bog'liq qaysi qoida tavsiya etiladi?
++ pufak sun'iy yorilmasligi lozim
+- pufak imkon qadar erta sun'iy yoriladi
+- pufak 4 soatdan keyin majburiy tarzda yoriladi
+- pufak yorilishi uchun vakuum-ekstraktor qo'llanadi
+- pufak yorilgach, tug'ruq 24 soatgacha kutiladi
+! Suvsiz davrning uzayishi va invaziv aralashuvlar virus yuqish xavfini oshiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Protokolga ko'ra OIV bilan yashovchi onaning chaqaloqni oziqlantirishida qaysi usul tavsiya etilmaydi?
++ aralash oziqlantirish
+- quruq sut aralashmasi bilan oziqlantirish
+- 6 oy faqat ona suti bilan, ona ART qabul qilganda
+- sun'iy oziqlantirish, shart-sharoit bo'lganda
+- ona sutidan to'liq voz kechish
+! Ona suti bilan aralash oziqlantirish boshqa usullarga qaraganda xavfliroq deb hisoblanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Kuzatuv jadvaliga ko'ra ayol tug'ruqxonaga qaysi haftada qabul qilinadi?
++ 37–38 haftada
+- 14–16 haftada
+- 24–28 haftada
+- 34–35 haftada
+- 40–41 haftada
+! Qabul tug'ruqqa tayyorlanish va rejalashtirilgan aralashuvlar uchun muddatga yaqin amalga oshiriladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? 277-son protokolga ko'ra chaqaloqda qaysi ARV-profilaktika sxemasi keltirilgan?
++ uch komponentli: zidovudin, lamivudin va nevirapin
+- bir komponentli: faqat zidovudin sirop 4 mg/kg ikki marta, 4 hafta
+- ikki komponentli: faqat nevirapin va efavirenz 6 oy
+- to'rt komponentli: zidovudin, lamivudin, nevirapin va kotrimoksazol
+- profilaktika faqat onaga beriladi, chaqaloqqa dori berilmaydi
+! Joriy protokolda eski bir komponentli sxema o'rniga kombinatsiyalangan profilaktika qo'llanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+#D 139 / 8: taqdimot (88-son buyruq asosida) chaqaloqqa faqat zidovudin sirop tayinlashni ko'rsatadi, 277-son protokolda uch komponentli sxema berilgan; protokol asos qilib olindi.
+? Quyidagi ona omillaridan qaysi biri vertikal yuqish xavfini oshiradi?
++ yuqori virus yuklamasi va chuqur immunosupressiya
+- ARTga yuqori sodiqlik va aniqlanmaydigan virus yuklamasi, shuningdek muntazam kuzatuv
+- homiladorlikdan oldin to'liq emlanganlik va sog'lom ovqatlanish
+- ayolning tug'ruqdan oldin dispanser kuzatuvida bo'lishi
+- rejali kesar kesishning o'z vaqtida o'tkazilishi
+! Qonda virus qancha ko'p va immunitet qancha zaif bo'lsa, bolaga o'tish ehtimoli shuncha yuqori.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Akusherlik omillari orasida qaysi biri vertikal yuqish xavfini oshiradi?
++ suvsiz davrning 4 soatdan uzayishi
+- tug'ruqning 38 haftada rejali kesar kesish bilan o'tkazilishi
+- chaqaloqqa ARV-profilaktikaning erta boshlanishi
+- tug'ruq yo'llarida invaziv muolajalarning bajarilmasligi
+- virus yuklamasining aniqlanmaydigan darajada ekanligi
+! Uzoq suvsiz davrda bola virus bilan kontaktda bo'ladigan vaqt uzayadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Protokolga ko'ra multidisiplinar guruhlar (MDG) tarkibiga qaysi mutaxassislar kiradi?
++ yuqumli kasalliklar shifokorlari, pediatrlar, ijtimoiy xodimlar va psixologlar
+- akusher-ginekologlar, jarrohlar va anesteziologlar, ijtimoiy xodimlarsiz
+- huquqshunoslar, ichki ishlar xodimlari va prokuratura vakillari hamda sud ekspertlari
+- sanitariya shifokorlari, laborantlar va dezinfektorlar, davolovchi mutaxassislarsiz
+- stomatologlar, fizioterapevtlar va reabilitologlar, ijtimoiy yordamsiz
+! Guruh bemor va oilaga psixologik, ijtimoiy va huquqiy yordamni birgalikda ko'rsatadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Onadan bolaga yuqishning har bir holati qayerda tanqidiy ko'rib chiqiladi?
++ hududiy tibbiy kengashlarda
+- sud majlisida
+- mahalla fuqarolar yig'inida
+- bolalar bog'chasi pedagogik kengashida
+- Vazirlar Mahkamasi majlisida
+! Har bir holatni ko'rib chiqish tizimdagi kamchiliklarni aniqlashga yordam beradi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i

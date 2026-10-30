@@ -1,0 +1,97 @@
+=== 088
+? O'lat uchun tabiiy o'choq tushunchasi nimani anglatadi?
++ qo'zg'atuvchi, hayvon rezervuari va tashuvchi vektor bir hududda birga mavjud bo'lib, odam uchun xavf doimiy saqlanishi
+- faqat inson organizmida qo'zg'atuvchi ko'payishi va odamdan odamga yuqishi tufayli doimiy xavf yuzaga kelishi
+- qo'zg'atuvchining oziq-ovqat mahsulotlarida to'planib, ular orqali tarqalishi va xavfning mavsumiy bo'lishi
+- hayvonlar va vektorlar bo'lmagan hududda qo'zg'atuvchining havo orqali uzoq masofalarga tarqalishi
+- tibbiyot muassasalarida qo'zg'atuvchi to'planib, bemorlar va xodimlar orasida takror yuqishi
+! Tabiiy o'choqda infeksiya hayvonlar va vektorlar o'rtasida inson ishtirokisiz aylanadi va odam tasodifan zararlanadi.
+@ WHO. Plague (fact sheet); Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'zbekistondagi o'latning tabiiy o'choqlaridan qaysi biri eng katta maydonni egallaydi?
++ Qizilqum tabiiy o'chog'i, taxminan 14,72 mln ga
+- Ustyurt tabiiy o'chog'i, taxminan 4,0 mln ga
+- Qoraqum tabiiy o'chog'i, taxminan 10 mln ga
+- Tojikiston bilan chegaradosh tog'li o'choq, taxminan 8 mln ga
+- Qirg'iziston bilan chegaradosh tog'li o'choq, taxminan 12 mln ga
+! Qizilqum cho'l zonasidagi bir necha viloyatni qamrab oluvchi ulkan maydon bo'lib, tog'li o'choqlar esa ancha kichik.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Qoraqum tabiiy o'chog'i qaysi viloyat hududida joylashgan?
++ Xorazm viloyatida
+- Surxondaryo viloyatida
+- Namangan viloyatida
+- Farg'ona viloyatida
+- Jizzax viloyatida
+! Qoraqum o'chog'i Xorazm hududida joylashgan va maydoni jihatidan kichik o'choqlardan biri.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'zbekistonda odam uchun o'latning yetakchi manbalari qaysilar?
++ katta qumsichqon, sug'ur, yumronqoziq va tuya
+- uy sichqoni, uy kalamushi, mushuk va kaptar
+- yo'l-yo'l bo'ri, tulki, bo'rsiq va kiyik
+- qoramol, qo'y, echki va cho'chqa
+- chumchuq, quzg'un, o'rdak va tustovuq
+! Cho'l va tog'li tabiiy o'choqlarda aynan shu kemiruvchilar va tuyalar qo'zg'atuvchi saqlaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'lat qo'zg'atuvchisini hayvonlar orasida qaysi turkum burgalari tashiydi?
++ Xenopsylla turkumiga mansub burgalar
+- Pulex turkumiga mansub kiyim burgalari
+- Ctenocephalides turkumiga mansub it burgalari
+- Ixodes turkumiga mansub ixodid kanalar
+- Anopheles turkumiga mansub chivinlar
+! Xenopsylla turkumiga mansub burgalar epizootik jarayonni ushlab turuvchi asosiy vektorlardir.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'zbekiston tabiiy o'choqlarida oxirgi o'lat holatlari qaysi viloyatda qayd etilgan va qaysi shakl bilan kechgan?
++ Navoiy viloyatida (1990 va 1999 yillar), bubon shaklida
+- Xorazm viloyatida (2005 va 2010 yillar), o'pka shaklida
+- Surxondaryo viloyatida (1985 va 1992 yillar), septik shaklda
+- Toshkent viloyatida (2001 va 2004 yillar), ichak shaklida
+- Qoraqalpog'iston Respublikasida (2015 va 2020 yillar), teri shaklida
+! Oxirgi holatlar Uchquduq va Tomdi hududlarida bo'lgan, shundan beri odamlarda kasallanish qayd etilmagan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'lat bo'yicha endemik noxush hududlardan kelganlar sanitariya nazorati punktlarida necha kun tibbiy kuzatuvga olinadi?
++ 6 kun
+- 21 kun
+- 14 kun
+- 1 kun
+- 30 kun
+! Bu muddat o'latning yashirin davridan kelib chiqadi va importni to'sish uchun yetarli hisoblanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Cho'l zonalaridagi tuyalarga nisbatan qanday talab qo'yiladi?
++ hech bir tuya veterinar klinik ko'rigisiz so'yilmasligi va go'shti sotilmasligi kerak
+- kasallik belgisiz bo'lsa, tuyalar ko'riksiz so'yilishi va go'shti erkin sotilishi mumkin
+- so'yish qishda amalga oshiriladi, ko'rik talab etilmaydi va go'shti sotuvga chiqariladi
+- ommaviy ravishda yo'q qilinadi va o'choqlarda tuyalarni boqish taqiqlanadi
+- har kuni emlanadi, ko'rik o'rniga qo'shimcha dori beriladi va so'yish erkin bo'ladi
+! Tuya o'latdan kasallanishi va odamga yuqtirishi mumkin, shuning uchun go'sht veterinariya nazoratidan o'tishi shart.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? JSST burgalarga qarshi kurashni kemiruvchilarni yo'qotishga nisbatan qanday ketma-ketlikda o'tkazishni tavsiya etadi?
++ burgalarga qarshi kurash kemiruvchilarni yo'qotishdan oldin o'tkazilishi kerak
+- kemiruvchilar avval yo'qotilishi, burgalarga qarshi kurash esa keyin o'tkazilishi kerak
+- ikkala tadbir faqat qishda va bir vaqtda o'tkaziladi
+- burgalarga qarshi kurash umuman talab qilinmaydi, kemiruvchilarni yo'qotish yetarli
+- burgalar faqat tuyalarda yo'q qilinadi, kemiruvchilarga tegilmaydi
+! Kemiruvchilar yo'qolganda burgalar yangi xo'jayinlarga, jumladan odamlarga o'tib, xavfni oshiradi.
+@ WHO. Plague (fact sheet)
+? JSST o'latga qarshi emlashni qaysi guruhlar uchun tavsiya etadi?
++ doimiy xavf ostidagi laboratoriya va tibbiyot xodimlari uchun
+- barcha aholi uchun ommaviy tarzda, har yili qayta emlash bilan, cho'l va shahar farqisiz
+- 1 yoshgacha bo'lgan chaqaloqlar uchun, tug'ruqxonada, tug'ilgan kunning o'zida
+- sayohatchilar va turistlar uchun, chegarada majburiy tarzda, tashrifdan oldin
+- homilador ayollar uchun, tug'ruqdan oldingi davrda, har trimestrda
+! Vaksina cheklangan himoya beradi, shu sababli u ommaviy emas, tanlab qo'llanadi.
+@ WHO. Plague (fact sheet)
+? Tabiiy o'choqli hududlarda eng samarali sanitariya-ma'rifiy usul qaysi deb ko'rsatilgan?
++ har bir xonadon (qo'ra) a'zolari bilan suhbat o'tkazish va eslatmalar tarqatish
+- televizorda yilda bir marta qisqa roliklar ko'rsatish
+- gazetalarda katta maqolalar chop etish va ularni kutubxonalarga jo'natish
+- ijtimoiy tarmoqlarda tasodifiy e'lonlar joylashtirish
+- shahar markazlarida yirik reklama stendlari o'rnatish
+! Cho'l va tog'li joylarda aholiga shaxsiy suhbat eng samarali ta'sir qiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'zbekiston tabiiy o'choqlarida epizootiya davomiyligi qanday bo'lishi mumkin?
++ 1, 3, 7, 14 va 21 yil, ba'zi o'choqlarda uzluksiz
+- 1 oy, so'ng barcha o'choqlarda to'xtaydi
+- 2, 4, 6 va 8 oy, barcha o'choqlarda mavsumiy tarzda
+- har doim 100 yil, hamma o'choqda bir xil
+- 5 kun, barcha o'choqlarda qisqa epizootiya
+! Epizootiyalar davriy bo'lib, davomiyligi o'choqlarda turlicha va ba'zan to'xtamaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)

@@ -1,0 +1,99 @@
+=== 069
+? JSST ma'lumotiga ko'ra, COVID-19 asosan qanday yo'l bilan va qaysi sharoitda ko'proq yuqadi?
++ havo orqali nafas zarralari bilan; yaqin kontaktda va yopiq xonalarda xavf ortadi
+- ifloslangan suv orqali; ochiq havoda va keng maydonlarda xavf eng yuqori bo'ladi
+- qon orqali; shifoxonadan tashqarida va oddiy maishiy sharoitda xavf umuman yo'q
+- hasharotlar chaqishi orqali; yopiq xonalarda va qish mavsumida xavf past bo'ladi
+- genetik moyillik orqali; yashash muhiti va yaqin aloqa omillari ahamiyatsiz hisoblanadi
+! Yaqin aloqa va yopiq, yomon shamollatiladigan joylar yuqish xavfini oshiradi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? JSST tavsiyasiga ko'ra, kasal odam o'ziga qanday yondashishi kerak?
++ uyda qolishi va xavfi yuqori shaxslar bilan kontaktdan saqlanishi kerak
+- o'zini sog'lom his qilsa, ishga darhol chiqishi va jamoat transportidan foydalanishi mumkin
+- tibbiy niqob taqib, odatdagidek ishlashi va tadbirlarda qatnashishi mumkin
+- tungi vaqtda tashqariga chiqishi va yolg'iz sayr qilishi tavsiya etiladi
+- hech qanday cheklovsiz, oddiy turmush tarzini davom ettirishi kerak
+! Uyda qolish va xavfli guruhlardan uzoqlashish yuqish zanjirini uzadi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? Milliy qarorga ko'ra koronavirus aniqlangan hududlarda bo'lib kirganlar va ular bilan birga yashovchilar qancha muddat izolyatsiyada bo'lishi shart?
++ 14 kun uyda yoki maxsus joyda
+- 3 kun, faqat o'zlari uchun
+- 30 kun, faqat shifoxonada
+- 7 kun, faqat birga yashovchilar uchun
+- 48 soat, faqat simptom bo'lsa
+! Muddat milliy tartibda belgilangan izolyatsiya davriga mos keladi.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? 2020 yil avgustdagi buyruqqa ko'ra, bemor ahvoli yaxshilangan va PZR manfiy bo'lsa, qancha kundan keyin shifoxonadan chiqariladi?
++ 5 kun davolangandan keyin
+- 10 kun davolangandan keyin
+- 15 kun davolangandan keyin
+- 2 kun davolangandan keyin
+- 25 kun davolangandan keyin
+! PZR manfiy natijasi bo'lsa, chiqarish muddati qisqaroq bo'ladi.
+@ O'zR SSV 2020-yil 5-avgustdagi 201-son buyrug'i
+? Ta'lim muassasalari uchun SanPiN 0011-21 ga ko'ra kirishdan oldin nima amalga oshiriladi?
++ pirometr bilan harorat o'lchash va haroratli yoki belgili shaxslarni kiritmaslik
+- ismni ro'yxatga olish va tashrif maqsadini so'rash, boshqa tekshiruvlarsiz kiritish
+- qo'l yuvish va sovunlash, harorat o'lchanmaydi hamda ro'yxat yuritilmaydi
+- niqob kiyish va oyoq kiyimni almashtirish, boshqa chora ko'rilmaydi
+- imtihon natijalarini tekshirish va talabalar hujjatlarini ko'rib chiqish
+! Harorat skrining orqali gumon qilinganlar muassasaga kiritilmaydi.
+@ SanPiN № 0011 (0012)-21
+? Tasdiqlangan simptomsiz COVID-19 holatida kontaktdagilarni aniqlash davri qanday belgilanadi?
++ namuna olishdan 2 kun oldin boshlanib, 14 kun keyin tugaydi
+- namuna olingan kuni boshlanib, 24 soatda tugaydi
+- namuna olishdan 1 oy oldin boshlanib, namuna olingan kuni tugaydi
+- namuna olingandan 7 kun keyin boshlanib, 21 kun davom etadi
+- faqat bemor gospitalizatsiya qilingandan keyin boshlanadi
+! Bu davr simptomsiz yuqumlilik imkoniyatini hisobga oladi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Emlanmagan, koronavirus kasalligi bilan og'rigan bemorlar bilan kontaktda bo'lganlar qachon emlanishi mumkin?
++ karantin muddati tugaganidan keyin
+- kontaktdan keyin darhol, karantinni kutmasdan
+- bir yil o'tgach, har qanday holatda
+- qayta kasallanmagan taqdirda, muddatsiz kutish bilan
+- kontaktdan oldin, profilaktik tarzda
+! Karantin davrida kasallanish ehtimoli borligi uchun emlash undan keyin amalga oshiriladi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? Dezinfeksiya bo'yicha ma'ruza ma'lumotiga ko'ra, virus spirt (70%) va xlorgeksidin (1%) ta'sirida qancha vaqtda inaktivatsiya bo'ladi?
++ 2 daqiqagacha
+- 30 soniyadan kam
+- 30 daqiqa
+- 2 soat
+- 24 soat
+! Standart dezinfeksiyalovchi vositalar virusni qisqa vaqt ichida inaktivatsiya qiladi.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? JSSTning global nazorat maqsadlari qatoriga nima kiradi?
++ nazorat choralari ta'sirini baholash
+- vaksina ishlab chiqarish quvvatini oshirishning moliyaviy rejasini tuzish
+- chegaralarni butunlay yopish va xalqaro aloqalarni to'xtatish
+- tibbiy sug'urta tizimini isloh qilish va dori narxlarini tartibga solish
+- yangi dori moddalarini sintez qilish va patentlash
+! Global nazorat maqsadlari tendensiyalarni kuzatish va choralar ta'sirini baholashni o'z ichiga oladi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Ma'ruzaga ko'ra, 2021 yil boshida O'zbekistonda dastlab qancha kishini emlash rejalashtirilgan?
++ 4 112 668 kishi
+- 412 668 kishi
+- 41 126 680 kishi
+- 1 112 668 kishi
+- 4 112 668 ming kishi
+! Birinchi bosqich ro'yxatiga keksalar, tibbiyot xodimlari va boshqa xavf guruhlari kiritilgan.
+@ Zoirova N.T. COVID-19 epidemiologiyasi va profilaktikasi (ma'ruza taqdimoti, 2021)
+? JSST bo'yicha tibbiyot xodimlari qo'shimcha himoya vositalaridan, ayniqsa qaysi muolajalarda foydalanishi tavsiya etiladi?
++ aerozol hosil qiluvchi muolajalarda
+- ma'muriy ishlarda, qo'lqoplardan foydalangan holda
+- tashqi ko'rikda, ko'zoynakdan boshqa vositalarsiz
+- laboratoriya ichida, bemorlar bilan aloqa bo'lmaganda
+- tungi smenada, kunduzgi smenada talab qilinmaydi
+! Aerozol hosil qiluvchi muolajalarda havo orqali yuqish xavfi ortadi, shu sababli qo'shimcha himoya kerak.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? Tadbirlar samaradorligini baholashda qanday ko'rsatkichlar qo'llaniladi?
++ kasallanish va o'lim dinamikasi, tibbiyot xodimlari orasidagi holatlar, klasterlar soni, kontaktdagilarning tekshirilish ulushi va emlash qamrovi
+- bir martalik so'rovnoma natijalari va OAVda chiqqan maqolalar soni, ijtimoiy tarmoqlardagi fikrlar hamda tashkilotlar rahbarlarining og'zaki bayonotlari
+- bitta shifoxonadagi statistik ko'rsatkich, tibbiyot muassasalarining umumiy soni, ularning to'shak fondi va jihozlanish darajasi
+- mahalliy OAV xabarlari soni, aholi o'rtasidagi so'rovnoma natijalari va reklama yo'nalishlari
+- tibbiy muassasalar soni, ularning joylashuvi va xodimlarning o'rtacha ish haqi miqdori
+! Kompleks baholash bir nechta ko'rsatkichni birlashtirishni talab qiladi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+#U 069 / 10: 4 112 668 kishini birinchi bosqichda emlash rejasi faqat ma'ruza materialida keltirilgan, rasmiy statistika bilan tasdiqlanmagan.
+#U 069 / 8: spirt, xlorgeksidin ta'sirida 2 daqiqada inaktivatsiya haqidagi ma'lumot faqat ma'ruza materialiga tayangan (eskirgan bo'lishi mumkin).

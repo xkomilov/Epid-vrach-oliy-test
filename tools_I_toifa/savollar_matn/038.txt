@@ -1,0 +1,97 @@
+=== 038
+? Aktiv immunizatsiya nima?
++ Organizmga vaksina yoki anatoksin yuborib, uning o'z immun javobini uyg'otish
+- Organizmga tayyor antitelolarni o'z ichiga olgan immunoglobulin yoki zardob kiritish
+- Onadan bolaga platsenta va ona suti orqali antitelolarning o'tishi hisobiga himoya olish
+- Kasallik qo'zg'atuvchisi bilan tabiiy uchrashuv natijasida hosil bo'lgan himoyani saqlab turish
+- Antibiotik va boshqa kimyoviy preparatlar bilan qo'zg'atuvchini yo'q qilish orqali profilaktika
+! Bunda organizm o'zi antitelolar va immunologik xotira hujayralarini ishlab chiqaradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Aktiv immunizatsiyadan keyin immunitet odatda qancha vaqt ichida shakllanadi?
++ 1–3 hafta ichida
+- Bir necha soat ichida, kiritilgan zahoti
+- 1–2 kun ichida, birinchi dozadan keyin
+- 3–6 oy ichida, ikkinchi dozadan keyin
+- 1 yil ichida, uchinchi dozadan keyin
+! Organizm antitelo va xotira hujayralarini ishlab chiqarishi uchun bir necha hafta kerak.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Passiv immunizatsiyaning xususiyatlari qaysi javobda to'g'ri keltirilgan?
++ Darhol ta'sir qiladi, bir necha hafta yoki oy davom etadi, xotira qoldirmaydi
+- Kech shakllanadi, yillar davomida saqlanadi va immunologik xotira qoldiradi
+- Darhol ta'sir qiladi, umrbod saqlanadi va takroriy ta'sirda kuchli javob beradi
+- Kechikib shakllanadi, qisqa muddatli va xotirasiz bo'ladi
+- Kech shakllanadi, bir necha oy davom etadi va xotira qoldiradi
+! Tayyor antitelolar darhol ishlaydi, lekin organizm ularni o'zi ishlab chiqarmagani uchun xotira hosil bo'lmaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. What is vaccination?
+? Quyidagi holatlarning qaysi birida passiv immunizatsiya qo'llanadi?
++ Odam quturgan hayvon bilan kontaktda bo'lib, tez himoya zarur bo'lganda
+- Bolani milliy kalendar bo'yicha rejali emlashda uzoq muddatli himoya uchun
+- Aholida jamoaviy immunitetni oshirish uchun o'tkaziladigan ommaviy emlashda
+- Revaksinatsiya orqali immunologik xotirani mustahkamlash zarur bo'lganda
+- Qizamiqqa qarshi 12 oylikda birinchi dozani kiritishda
+! Qoqshol, quturish, difteriya kabi hollarda tez himoya uchun tayyor antitelolar kiritiladi.
+@ WHO. Immunization in practice; Mavzu materiali (038.docx)
+? Jamoaviy immunitet shakllanganda emlanmagan shaxslarga nima bo'ladi?
++ Ular ham qo'zg'atuvchi uzatilishi uzilgani sababli bilvosita himoyalanadi
+- Ular to'liq aktiv immunitet hosil qilib, umrbod himoyalanadi
+- Ular passiv immunitet olib, kasallikni doim og'ir o'tkazadi, shu bois alohida himoya talab qiladi
+- Ular kasallikka moyilroq bo'lib qoladi va xavf guruhiga o'tadi
+- Ularda tug'ma immunitet susayib, antitelolar parchalanadi
+! Emlanganlar ko'p bo'lsa, qo'zg'atuvchi yangi moyil odamni topa olmaydi.
+@ WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? Qizamiq uchun jamoaviy immunitetga erishishda aholining qancha qismi emlangan bo'lishi talab etiladi?
++ 95 % dan ortig'i
+- Yarmiga yaqini, ya'ni 50 %
+- Uchdan ikki qismi, ya'ni 65 %
+- Taxminan 75 %
+- 85 % atrofida
+! Qizamiq juda yuqumli (R0 taxminan 12–18), shu bois yuqori qamrov kerak.
+@ WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? Immunoglobulin yuborilgandan keyin AKDS, ADS va ADS-M vaksinalari qachondan keyin yuboriladi?
++ Bir oydan keyin
+- Bir haftadan keyin
+- Uch oydan keyin
+- Olti oydan keyin
+- Ikki haftadan keyin
+! Qizamiq, qizilcha, parotit va rotavirus vaksinalari uchun muddat uzunroq — 3 oy.
+@ SanQvaM № 0239-07/3
+? Eritrotsitar massa quyilgandan keyin tirik qizamiq-qizilcha-parotit vaksinasi qachon beriladi?
++ 6 oydan keyin
+- 1 oydan keyin
+- 3 oydan keyin
+- 7 oydan keyin
+- 12 oydan keyin
+! Trombotsitar massa yoki plazmadan keyin esa muddat 7 oyni tashkil etadi.
+@ SanQvaM № 0239-07/3
+? Inaktivlangan va anatoksinli vaksinalar tirik vaksinalardan nimasi bilan farq qiladi?
++ Ular ko'pincha takroriy dozalar va davriy revaksinatsiyani talab qiladi
+- Ular har doim bir dozadan keyin umrbod kuchli immunitet beradi
+- Ular faqat passiv immunitet hosil qiladi, chunki antigenlari o'lik
+- Ular muzlatilishi shart, aks holda immunogenligi yo'qoladi
+- Ular faqat tug'ma immunitetni faollashtirib, xotira hosil qilmaydi
+! Tirik vaksinalar kuchliroq va uzoqroq immunitet beradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Passiv immunizatsiyada qaysi preparatlar ishlatiladi?
++ Immunoglobulin yoki giperimmun zardob
+- Anatoksin yoki o'ldirilgan vaksina
+- Tirik attenuatlangan vaksina
+- Rekombinant subyunit vaksina
+- mRNK vaksina
+! Bu preparatlar tayyor antitelolarni saqlaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Passiv immunizatsiya qisqa muddatli bo'lgani uchun uzoq muddatli himoya zarur bo'lsa u nima bilan to'ldiriladi?
++ Aktiv immunizatsiya (emlash) bilan
+- Yana bir dozada tayyor immunoglobulin yuborish bilan
+- Tabiiy passiv immunitetni oshiruvchi ona suti bilan oziqlantirish bilan
+- Antibiotik profilaktikasini davom ettirish bilan
+- Antiseptik vositalarni qo'llash bilan
+! Aktiv immunizatsiya xotira hosil qilib, uzoq himoyani ta'minlaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Immunoglobulin yuborilgandan keyin poliomielit va grippga qarshi emlash qachondan keyin o'tkaziladi?
++ 1,5 oydan keyin
+- 1 oydan keyin
+- 3 oydan keyin
+- 6 oydan keyin
+- Ikki oydan keyin
+! Qizamiq, qizilcha va parotit uchun esa 3 oydan keyin.
+@ SanQvaM № 0239-07/3

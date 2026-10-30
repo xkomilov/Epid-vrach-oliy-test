@@ -1,0 +1,99 @@
+=== 099
+? Sap (malleus) kasalligining qo'zg'atuvchisi va asosiy moyil hayvonlari qaysi javobda to'g'ri keltirilgan?
++ Burkholderia mallei; asosan toq tuyoqlilar (ot, eshak, xachir)
+- Burkholderia pseudomallei; asosan juft tuyoqlilar (qoramol, qo'y)
+- Brucella melitensis; asosan mayda shoxli hayvonlar (qo'y, echki)
+- Bacillus anthracis; asosan o'txo'r hayvonlar (qoramol, qo'y)
+- Francisella tularensis; asosan kemiruvchilar (sichqon, quyon)
+! Odam tasodifiy xo'jayin bo'lib, hayvon bilan aloqa orqali zararlanadi.
+@ WOAH. Glanders (kasallik sahifasi)
+? Melioidoz qo'zg'atuvchisi B. pseudomallei sapni qo'zg'atuvchi B. mallei dan qaysi belgisi bilan farq qiladi?
++ xivchinli va harakatchan, bipolyar bo'yaladi
+- kapsulali va harakatsiz, spora hosil qiladi
+- gramm-musbat tayoqcha, sporali va harakatsiz
+- tayoqcha shaklida, spora hosil qiluvchi va kapsulali
+- spirallarga o'xshash shakldagi va tuzli muhitda o'suvchi
+! B. mallei kapsulasiz va harakatsiz, B. pseudomallei esa oddiy oziq muhitlarda yaxshi o'sadi.
+@ Mavzu materiali (099.docx); Patogen psevdomonadalar. Melioidoz (taqdimot)
+? Sapda infeksiya manbai va rezervuari kimlar hisoblanadi?
++ kasal va belgisiz kasallangan otlar, eshaklar, xachirlar
+- qum sichqonlar va boshqa yovvoyi kemiruvchilar hamda ularning ektoparazitlari
+- kasal odamlar va belgisiz tashuvchilar hamda ularning yaqin kontaktlari
+- qoramol, qo'ylar va echkilar hamda boshqa tuyoqli uy hayvonlari
+- qushlar va suvda yashovchi hasharotlar hamda ularning lichinkalari
+! Toq tuyoqlilar bu kasallikka eng moyil, odam esa tasodifiy xo'jayin.
+@ WOAH. Glanders (kasallik sahifasi)
+? Melioidozda asosiy rezervuar nima?
++ ifloslangan tuproq va turg'un suv (hovuz, sholipoya)
+- kasal odamlar va doimiy tashuvchilar organizmi
+- ixodid kanalar va chivinlarning ichak tizimi hamda so'lak bezlari
+- tuxum, sut va go'sht mahsulotlari omborlari
+- yovvoyi qushlar va ularning tuxum qobig'i
+! Hayvonlar siydik va najas bilan qo'zg'atuvchini ajratadi, uzoq muddat saqlanadigan manba tuproq va suvdir.
+@ Mavzu materiali (099.docx); MSD ma'lumotnomasi (Melioidoz)
+? Melioidozda bo'g'imoyoqlilarning yuqishdagi roli qanday?
++ yuqishda ishtirok etmaydi
+- asosiy tashuvchi hisoblanadi
+- ikkinchi darajali o'tkazuvchi bo'g'in
+- vektor hisoblanib, tabiiy rezervuar vazifasini bajaradi
+- faqat laboratoriyada ishtirok etadi
+! Odam ifloslangan oziq-ovqat, suv, havo-chang va tuproq orqali zararlanadi.
+@ Mavzu materiali (099.docx); Melioidoz (ma'lumotnoma matni)
+? Melioidoz bilan og'rish xavfi yuqori bo'lgan shaxslarga kimlar kiradi?
++ qandli diabet, alkogolizm yoki surunkali buyrak kasalligi bo'lganlar
+- bolalar bog'chasi tarbiyachilari va maktab o'qituvchilari, ish tajribasi uzoq bo'lgan
+- sog'lom yoshlar va sport bilan muntazam shug'ullanuvchilar, immuniteti kuchli
+- sutni pasterizatsiya qiluvchi korxonalardagi xodimlar va texnologlar
+- ko'p marta qon topshirgan donorlar va nasl bergan ayollar
+! Immuniteti susaygan organizmda qo'zg'atuvchi osonlik bilan tarqalib, og'ir shakllarni chaqiradi.
+@ MSD ma'lumotnomasi (Melioidoz)
+? WOAH ma'lumotiga ko'ra, sapni nazorat qilishda quyidagilardan qaysi biri qo'llanadi?
++ ijobiy hayvonlarni yo'q qilish, karantin, dezinfeksiya va import nazorati
+- hayvonlarni ommaviy emlash va antibiotik bilan davolash kursi
+- kasal hayvonlarni davolab, o'z joyida saqlash va ishlatish
+- chivinlarga qarshi dezinseksiya va repellent ishlatish, deraza to'rlari
+- aholini ommaviy emlash va revaksinatsiya qilish kalendari bo'yicha
+! Sapda vaksina yo'q, shuning uchun zararlangan hayvonlarni aniqlash va yo'qotish asosiy yo'l.
+@ WOAH. Glanders (kasallik sahifasi)
+? Hayvonlar kasallikdan xoli mamlakatdan olib kirilganda ular qancha muddat saqlangan bo'lishi talab etiladi?
++ kamida 6 oy
+- kamida 1 hafta
+- kamida 1 oy
+- kamida 3 yil
+- hech qancha, talab yo'q
+! Import nazorati kasallikning qaytib kirib kelishining oldini oladi.
+@ WOAH. Glanders (kasallik sahifasi)
+? Sap tashxisida oltin xomyak yoki dengiz cho'chqasi erkagiga teri ostiga yuborilganda qaysi hodisa kuzatiladi?
++ orxit (Shtraus fenomeni)
+- ensefalit (Negri tanachalari)
+- gemorragik sindrom (Bunyavirus)
+- pnevmoniya (Sil tayoqchasi)
+- meningit (Kernig belgisi)
+! Biosinov patologik materialdan qo'zg'atuvchini aniqlashga xizmat qiladi.
+@ Patogen psevdomonadalar. Melioidoz (taqdimot)
+? Melioidozning o'pka shakli radiologik jihatdan qaysi kasallikka o'xshaydi?
++ sil kasalligiga
+- gripp pnevmoniyasiga
+- bronxial astmaga
+- o'pka emfizemasiga
+- yurak yetishmovchiligiga
+! Bu o'xshashlik tashxis qo'yishda qiyinchilik tug'diradi.
+@ Mavzu materiali (099.docx); Melioidoz (ma'lumotnoma matni)
+? Melioidoz qaysi hududlarda endemik hisoblanadi?
++ Janubi-Sharqiy Osiyo va Shimoliy Avstraliya
+- Skandinaviya va Boltiqbo'yi
+- Markaziy Osiyo cho'llari va Qizilqum
+- Shimoliy Amerika qit'asining shimoliy qismi
+- Sibir va Uzoq Sharq
+! Issiq nam iqlim va sholipoyalar qo'zg'atuvchining tuproq va suvda saqlanishiga qulay.
+@ Melioidoz (ma'lumotnoma matni)
+? Sapda odamdan odamga yuqish haqida nima deyish mumkin?
++ odamdan odamga yuqish kam uchraydi
+- odamdan odamga yuqish eng ko'p uchraydi
+- doim havo-tomchi yo'li bilan yuqadi
+- asosan jinsiy yo'l bilan yuqadi
+- shifoxonada yuqadi
+! Odam tasodifiy xo'jayin bo'lib, epidemik zanjirda asosiy bo'g'in emas.
+@ WOAH. Glanders (kasallik sahifasi)
+#U 099 / 2: B. mallei va B. pseudomallei morfologik farqi faqat mavzu materiali va talabalar taqdimotiga tayangan.
+#U 099 / 4, 5: rezervuar tavsifi faqat mavzu materiali va ma'lumotnoma matniga tayangan.

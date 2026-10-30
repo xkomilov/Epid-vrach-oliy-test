@@ -1,0 +1,97 @@
+=== 117
+? Kistoz exinokokkozning qo'zg'atuvchisi qaysi?
++ Echinococcus granulosus
+- Echinococcus multilocularis
+- Taenia solium
+- Taenia saginata
+- Hymenolepis nana
+! E. multilocularis alveolyar shaklni, E. granulosus esa kistoz shaklni qo'zg'atadi; teniidlar esa boshqa kasalliklarni keltirib chiqaradi.
+@ JSST. Echinococcosis (fact sheet)
+? Exinokokkozda yakuniy (definitiv) xo'jayin kim?
++ itlar oilasi vakillari
+- qoramol va qo'y kabi hayvonlar
+- odam
+- pashsha va qo'ng'iz
+- kalamush va sichqon
+! Voyaga yetgan gijja itlarning ingichka ichagida yashaydi, oraliq xo'jayinlar esa sut emizuvchilar hisoblanadi.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (o'quv-uslubiy qo'llanma), 2020
+? Odam exinokokkoz epidemik zanjirida qanday o'rin tutadi?
++ tasodifiy oraliq xo'jayin bo'lib, qo'zg'atuvchi aylanishiga ta'sir qilmaydi
+- asosiy manba bo'lib, qo'zg'atuvchini sog'lom odamlarga bevosita yuqtiradi
+- yakuniy xo'jayin bo'lib, ichagida jinsiy yetilgan gijjani saqlaydi
+- biologik tashuvchi bo'lib, qo'zg'atuvchi unda ko'payib hasharotga o'tadi
+- rezervuar bo'lib, tuxumlarni yillar davomida najas bilan tashqi muhitga ajratadi
+! Odam zanjirning boshi berk bo'g'ini hisoblanadi, shuning uchun nazorat hayvonlar bo'g'iniga qaratiladi.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (o'quv-uslubiy qo'llanma), 2020; JSST. Echinococcosis (fact sheet)
+? Odam exinokokk tuxumlarini asosan qaysi yo'l bilan yuqtiradi?
++ og'iz orqali, it bilan muloqotda, yuvilmagan sabzavot yoki suv orqali
+- qon quyish va tibbiy asboblar orqali, parenteral yo'l bilan
+- kana yoki chivin chaqishi orqali, teri orqali o'tuvchi transmissiv yo'l bilan
+- jinsiy aloqa va tomchi yo'li, bemor bilan yaqin kontaktda bo'lganda
+- pishirilmagan baliq iste'mol qilganda va sistitserklarni yutganda
+! Yuqish mexanizmi fekal-oral bo'lib, tuxumlar qo'l, it juni va ifloslangan mahsulotlar orqali og'izga tushadi.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (o'quv-uslubiy qo'llanma), 2020
+? Exinokokkoz bilan zararlangan organlar asosan qaysilar?
++ jigar va o'pka
+- bosh miya va ko'z
+- buyrak va qovuq
+- yurak va yirik tomirlar
+- teri va teri osti kletchatkasi
+! 85% hollarda jigar va o'pka zararlanadi.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (o'quv-uslubiy qo'llanma), 2020
+? Odamda exinokokkozni aniqlashda qaysi usul tanlov usuli hisoblanadi?
++ ultratovush tekshiruvi
+- umumiy qon tahlili
+- Kato-Kats usuli
+- najasni koproskopik tekshirish
+- perianal yelimli lenta usuli
+! KT va MRT uni to'ldiradi, serologik testlar esa tashxisni qo'llab-quvvatlaydi.
+@ JSST. Echinococcosis (fact sheet)
+? Exinokokkozning har bir holati bo'yicha shifokor qaysi shoshilinch xabarnomani yuboradi va o'choqni tekshirish kartasi qaysi shaklda yuritiladi?
++ 058/u shakli; 357/u shakli
+- 089/u shakli; 060/u shakli
+- 357/u shakli; 058/u shakli
+- 025/u shakli; 003/u shakli
+- 060/u shakli; 089/u shakli
+! Epidemiologik tekshiruvni DSENM parazitologlari veterinariya xodimlari bilan birgalikda o'tkazadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? JSST itlarni prazikvantel bilan dehelmintizatsiya qilishni qanday chastotada tavsiya etadi?
++ kamida yiliga 4 marta
+- yiliga 1 marta
+- har 2 yilda 1 marta
+- har oyda 1 marta
+- faqat so'yish mavsumida bir marta
+! Muntazam davolash itlarda jinsiy yetilgan gijja yashash davrini uzib qo'yadi.
+@ JSST. Echinococcosis (fact sheet)
+? Xavf ostidagi aholini milliy yo'riqnomaga ko'ra serologik tekshirish qanday o'tkaziladi?
++ har yili IFA usulida
+- har oyda KSR usulida
+- har 5 yilda Mantu sinamasi bilan
+- faqat bir marta, bolalikda, RPGA bilan
+- har chorakda qirindi mikroskopiyasi bilan
+! Xavf guruhlariga chorvadorlar, cho'ponlar, ovchilar, veterinariya xodimlari, it egalari va avval operatsiya qilinganlar kiradi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Quyidagi qaysi shaxslar exinokokkoz bo'yicha xavf guruhiga kiradi?
++ chorvadorlar, cho'ponlar, ovchilar va veterinariya xodimlari
+- faqat bolalar bog'chasidagi 1 yoshgacha chaqaloqlar
+- bank xodimlari va ofis kotiblari
+- dengiz bo'yida dam oluvchi sayyohlar
+- kasalxonada davolanayotgan yurak kasalligi bilan og'rigan bemorlar
+! Xavf hayvonlar, ayniqsa itlar bilan yaqin aloqada bo'lganlarda yuqori.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Operatsiya qilingan exinokokkoz bemorlari dispanserizatsiyasida qaytalanishga qarshi albendazol qancha muddatga tayinlanadi?
++ 1 oy
+- 1 hafta
+- 6 oy
+- 12 oy
+- umrbod
+! Operatsiya qilinganlar yiliga 1–2 marta tekshiriladi; alveokokkozda esa umrbod dispanser kuzatuvi o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Sanitariya-gelmintologik nazoratda exinokokkoz o'chog'idan bitta ob'ektdan nechta surtma olinadi?
++ 25 ta
+- 4 ta
+- 100 ta
+- 2 ta
+- 250 ta
+! Surtmalar bilan birga tuproq, sabzavot, ko'kat va suv namunalari ham tekshiriladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova

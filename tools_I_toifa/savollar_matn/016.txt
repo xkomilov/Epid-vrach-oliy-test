@@ -1,0 +1,98 @@
+=== 016
+? Yuqish mexanizmi haqidagi ta'limotni L.V. Gromashevskiy epidemiologiyaning qanday g'oyasi deb atagan?
++ Yetakchi spetsifik g'oya
+- Asosiy statistik g'oya
+- Birlamchi klinik g'oya
+- Umumbiologik qonuniyat g'oyasi
+- Yagona profilaktik g'oya
+! Yuqish mexanizmi epidemik jarayonning ikkinchi bo'g'ini sifatida epidemiologiyaning o'ziga xos g'oyasi hisoblangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Yuqish mexanizmining birinchi bosqichi qaysi?
++ Qo'zg'atuvchining yuqtirgan organizmdan chiqarilishi
+- Qo'zg'atuvchining sog'lom organizmga kirishi
+- Qo'zg'atuvchining tashqi muhitda saqlanishi
+- Qo'zg'atuvchining to'qimalarda ko'payishi
+- Qo'zg'atuvchining immun tizim tomonidan yo'q qilinishi
+! Bu bosqich qo'zg'atuvchining organizmdagi joylashuviga bog'liq (yo'tal, najas va h.k.).
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi holatda yuqish mexanizmining ikkinchi bosqichi (tashqi muhitda bo'lish) umuman bo'lmasligi mumkin?
++ Bevosita kontaktda, masalan jinsiy yo'l bilan yuqadigan kasalliklarda
+- Fekal-oral mexanizmda, suv va oziq-ovqat orqali yuqishda va uning omillarida
+- Geogelmintozlarda, tuproq orqali yuqishda
+- Oziq-ovqat orqali yuqadigan infeksiyalarda
+- Maishiy buyumlar orqali yuqadigan infeksiyalarda
+! To'g'ridan-to'g'ri kontaktda qo'zg'atuvchi tashqi muhitga chiqmasdan moyil organizmga o'tadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagilardan qaysi biri yuqish omillariga kiradi?
++ Havo, tuproq, suv, oziq-ovqat mahsulotlari, maishiy buyumlar
+- Kasal hayvon va bemor odam organizmi, ya'ni infeksiya manbalari majmuasi
+- Qabul qiluvchan organizmning immun holati
+- Epidemiolog va laboratoriya xodimi
+- Emlash kalendari va profilaktik dasturlar
+! Tashqi muhit ob'ektlari qo'zg'atuvchini uzatishda ishtirok etuvchi omillar sanaladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Omillar majmuasi qatnashganda yuqish yo'li odatda qanday nomlanadi?
++ Oxirgi omil bo'yicha
+- Birinchi omil bo'yicha
+- Eng ko'p uchragan omil bo'yicha
+- Qo'zg'atuvchining nomi bo'yicha
+- Bemorning yashash joyi bo'yicha
+! Masalan, suv yo'li yoki oziq-ovqat yo'li shu qoidaga muvofiq ataladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, parazitning bir xo'jayindan ikkinchisiga o'tishi zarurligini hisobga olgan holda nechta evolyutsion tizim shakllangan?
++ 4 ta
+- 2 ta
+- 3 ta
+- 6 ta
+- 8 ta
+! Tashqi qoplamalar, nafas yo'llari, me'da-ichak yo'li va qon aylanish tizimi uchun alohida mexanizm mavjud.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qo'zg'atuvchi nafas yo'llarida joylashganda qaysi yuqish mexanizmi mos keladi?
++ Havo-tomchi mexanizmi
+- Fekal-oral mexanizm
+- Transmissiv mexanizm
+- Kontakt mexanizmi
+- Vertikal mexanizm
+! Joylashuv va mexanizm o'zaro mos tizimni hosil qiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qo'zg'atuvchi qon va qon tomirlar endoteliysida joylashganda qaysi mexanizm yetakchi?
++ Transmissiv mexanizm
+- Fekal-oral mexanizm
+- Havo-chang mexanizmi
+- Vertikal mexanizm
+- Kontakt mexanizmi
+! Bunda bo'g'imoyoqlilar qon so'rganda qo'zg'atuvchini uzatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, tug'ruq vaqtida yuqish qaysi mexanizmga kiritilishi mumkin?
++ Tug'ruq yo'llari shilliq pardasi bilan kontakt tufayli kontakt mexanizmiga
+- Vertikal mexanizmning yagona shakli sifatida vertikal mexanizmga
+- Qon so'ruvchi bo'g'imoyoqli vektorlar orqali yuqishi tufayli transmissiv mexanizmga
+- Ona sutini iste'mol qilish orqali fekal-oral mexanizmga
+- Nafas yo'llari orqali havo-tomchi mexanizmiga
+! Tug'ish vaqtida shilliq parda bilan aloqa bo'lgani uchun u kontaktga kiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Toshmali tifda qo'zg'atuvchi odamga qanday yuqadi?
++ Bit najasi yoki ezilgan bit gemolimfasining terining shikastlangan joyiga tushishi (kontaminatsiya) orqali
+- Bitning qon so'rishi vaqtida so'lak bezlari orqali odamning qoniga tushishi orqali, bezgakdagi kabi bevosita qon orqali
+- Kasal odamning yo'talishi va aksirishi bilan havo orqali nafas yo'llariga tushishi orqali
+- Iflos suv va oziq-ovqat iste'mol qilish orqali ichak yo'liga tushishi orqali
+- Kasal hayvonning tishlashi va so'lagi orqali yara yuzasiga tushishi orqali
+! Ba'zi transmissiv kasalliklarda qo'zg'atuvchi qon so'rish bilan emas, kontaminatsiya yo'li bilan uzatiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagi vektorlardan qaysi biri bezgak qo'zg'atuvchisini tashiydi?
++ Anopheles
+- Aedes
+- Culex
+- Phlebotomus
+- Ixodes
+! Aedes dengue va sariq isitma, Culex yapon ensefaliti, Phlebotomus esa leyshmaniozni tashiydi.
+@ WHO. Vector-borne diseases (fact sheet)
+? JSSTga ko'ra, vektor bilan bog'liq kasalliklar barcha yuqumli kasalliklarning qancha qismini tashkil etadi?
++ 17 % dan ortig'ini
+- 5 % ga yaqinini
+- 30 % dan ortig'ini
+- 50 % ga yaqinini
+- 2 % ga yaqinini
+! Bu kasalliklar yiliga 700 000 dan ortiq o'limga sabab bo'ladi.
+@ WHO. Vector-borne diseases (fact sheet)
+#U 016 / 9: tug'ruqda yuqishni kontakt mexanizmiga kiritish - darslik muallifining talqini, tashqi manba bilan tasdiqlanmagan.

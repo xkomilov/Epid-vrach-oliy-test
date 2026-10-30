@@ -1,0 +1,97 @@
+=== 086
+? Virusli gepatit C epidemik jarayonining asosiy o'ziga xosligi nimada?
++ yashirinligi: o'tkir shakl odatda belgisiz, surunkali infeksiya esa o'nlab yillar belgisiz kechadi
+- tez va ommaviy tarqalishi: infeksiya bir necha kun ichida butun jamoani sariqlik bilan qamrab oladi
+- qat'iy mavsumiyligi: kasallanish faqat yoz oylarida qayd etilib, qishda butunlay to'xtaydi
+- kuchli tabiiy o'choqliligi: qo'zg'atuvchi kemiruvchilar orasida aylanib, burgalar orqali tarqaladi
+- kasallikdan keyin umrbod mustahkam immunitet qolishi va qayta zararlanishning kuzatilmasligi
+! Odamlar o'z holatini bilmaydi va virusni tarqatishda davom etadi, shu sababli epidemiya ko'rinmay rivojlanadi.
+@ WHO. Hepatitis C (fact sheet)
+? Gepatit C virusining o'lchami va tuzilishi qanday?
++ 30–60 nm o'lchamli, qobiqli RNK-virus
+- 27–30 nm o'lchamli, qobiqsiz RNK-virus
+- 42 nm o'lchamli, qo'sh qobiqli DNK-virus
+- 80–120 nm o'lchamli, qobiqsiz DNK-virus
+- 17–22 nm o'lchamli, nuqsonli qobiqsiz RNK-virus
+! Qobiqli RNK-virus ekani uni lipoproteinlar bilan bog'lanib qonda aylanishiga imkon beradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Gepatit C qaysi yo'l bilan yuqmaydi?
++ ona suti, ovqat, suv yoki oddiy kontakt (quchoqlash, o'pish, ovqatni birga yeyish) orqali
+- zararlangan qon quyilganda yoki tekshirilmagan qon mahsulotlari kiritilganda, kasalxonada
+- in'ektsion giyohvandlarning umumiy shpritslari va ignalaridan foydalanishi natijasida
+- yetarlicha sterilizatsiya qilinmagan tibbiy asboblar bilan o'tkazilgan muolajalar orqali
+- onadan bolaga tug'ruq vaqtida o'tishi orqali, kam hollarda uchraydigan yo'l bilan
+! Virus asosan qon bilan uzatiladi, kundalik maishiy kontaktda esa yuqmaydi.
+@ WHO. Hepatitis C (fact sheet)
+? JSST bo'yicha gepatit C simptomlari zararlanishdan qancha vaqt o'tib paydo bo'lishi mumkin?
++ 2 hafta – 6 oy o'tib
+- 1–3 kun o'tib
+- 2–3 yil o'tib
+- 10–14 yil o'tib
+- bir necha soat o'tib
+! O'tkir bosqichda belgilar bo'lsa ham kech namoyon bo'ladi, ko'pincha esa umuman bo'lmaydi.
+@ WHO. Hepatitis C (fact sheet)
+? JSST ma'lumotiga ko'ra, surunkali gepatit C bilan yashovchilar eng ko'p qaysi mintaqada to'plangan?
++ Sharqiy O'rta yer dengizi mintaqasida, taxminan 12 million kishi
+- Amerika mintaqasida, taxminan 5 million kishi
+- G'arbiy Tinch okeani mintaqasida, taxminan 1 million kishi atrofida
+- Afrika mintaqasida, taxminan 25 million kishi
+- Yevropa mintaqasida, taxminan 40 million kishi
+! Kasallik hamma joyda uchraydi, ammo notekis taqsimlangan va bu mintaqada yuk eng katta.
+@ WHO. Hepatitis C (fact sheet)
+? 2015–2024-yillarda gepatit C bilan zararlangan odamlarning qancha qismi o'z tashxisini bilgan?
++ taxminan 36 foizi
+- taxminan 90 foizi
+- taxminan 75 foizi
+- taxminan 6 foizi
+- taxminan 60 foizi
+! Ko'pchilik zararlanganlar belgisiz kechgani uchun tashxis qo'ymaydi, shu sababli skrining muhim.
+@ WHO. Hepatitis C (fact sheet)
+? O'tkir gepatit C o'chog'ida kontaktdagilar ustidan qanday kuzatuv o'tkaziladi?
++ bemor yotqizilganidan 6 oy davomida, shifokor ko'rigi 2 oyda bir marta, ALT va anti-HCV aniqlanadi
+- bemor yotqizilganidan 10 kun davomida, har kuni ko'rik va faqat termometriya o'tkaziladi
+- bemor yotqizilganidan 3 yil davomida, yiliga bir marta ko'rik, HBsAg va HBeAg aniqlanadi
+- bemor yotqizilganidan 1 oy davomida, haftada bir marta ko'rik va najas ekmasi olinadi, bundan keyin kuzatuv tugaydi
+- bemor yotqizilganidan 2 yil davomida, har oy ko'rik va qon ivishi tekshiriladi
+! Yashirin davr uzun bo'lgani sababli kuzatuv 6 oy davom etadi va jigar shikastlanishi va antitelalar tekshiriladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST bo'yicha surunkali gepatit C ni davolash kursi odatda qancha davom etadi?
++ 12–24 hafta davomida
+- 1–2 hafta davomida
+- 2–3 oy davomida
+- 1–2 yil davomida
+- butun umr davomida to'xtovsiz
+! Pan-genotipik bevosita ta'sir qiluvchi dorilar bilan davolash nisbatan qisqa va kam nojo'ya ta'sirli.
+@ WHO. Hepatitis C (fact sheet)
+? JSST ma'lumotiga ko'ra, ko'plab mamlakatlarda gepatit C ning standart davosi narxi qancha?
++ 50 AQSh dollaridan past
+- 500 AQSh dollaridan yuqori
+- 5000 AQSh dollaridan yuqori
+- 1500 AQSh dollari atrofida
+- 20 000 AQSh dollaridan yuqori
+! Generik preparatlar tufayli davo juda arzonlashgan va keng qo'llanilishi mumkin.
+@ WHO. Hepatitis C (fact sheet)
+? Maishiy xizmat ko'rsatish obyektlarida manikyur, pedikyur va tatuaj asboblari bo'yicha qanday talab qo'yiladi?
++ asboblar soni kunlik mijozlar soniga mos bo'lishi va dezinfeksiya qilinishi yoki mijozning shaxsiy to'plamidan foydalanilishi
+- bitta asbob kun davomida barcha mijozlarga ishlatiladi va faqat oyda bir marta artib qo'yiladi
+- asboblar faqat suv bilan chayiladi, dezinfeksiya talab etilmaydi, chunki virus tashqi muhitda yashamaydi
+- mijozlar o'z asbobini olib kelishi taqiqlanadi, barcha ishlar umumiy asboblar bilan bajariladi
+- asboblar haftada bir marta quyoshda quritiladi, boshqa ishlov berilmaydi va navbatdagi mijozlarda qayta ishlatiladi
+! Terini jarohatlovchi asboblar qon bilan ifloslanishi mumkin, shu sababli har bir mijoz uchun alohida yoki dezinfeksiya qilingan asbob kerak.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Surunkali gepatit C da 20 yil ichida sirroz rivojlanish xavfi JSST bo'yicha qancha?
++ 15–30 foiz
+- 1–2 foiz
+- 60–70 foiz
+- 90–100 foiz
+- 5–7 foiz
+! Surunkali infeksiya jigar to'qimasini asta-sekin shikastlaydi, ammo barcha bemorlarda sirroz rivojlanmaydi.
+@ WHO. Hepatitis C (fact sheet)
+? Gepatit C da jinsiy yo'l bilan yuqish ehtimoli gepatit B ga nisbatan qanday?
++ ancha kam
+- ancha ko'p
+- bir xil darajada
+- jinsiy yo'l umuman bo'lmagan
+- faqat ayollar orasida ko'p
+! Virus RNKsi ba'zi suyuqliklarda topilsa ham, jinsiy kontaktda yuqish ehtimoli kam.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova

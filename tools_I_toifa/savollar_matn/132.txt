@@ -1,0 +1,98 @@
+=== 132
+? OIV bilan yashovchi ona tug'ruqxonaga kech murojaat qilganda chaqaloq uchun qaysi dastlabki parvarish qoidasi tavsiya etiladi?
++ ohista yuvib quritiladi, onaning qorniga qo'yiladi, ammo ko'kragiga yaqinlashtirilmaydi
+- darhol onaning ko'kragiga qo'yilib, birinchi emizish tug'ruq zalida o'tkaziladi va ona sutini olishi uchun bir soat saqlanadi
+- ona bilan kontaktga kiritilmasdan, tug'ilgan zahoti alohida bokssga ko'chirilib, kuzatuvga olinadi
+- yuvilmasdan, dastlabki himoya qatlami bilan 24 soat saqlanadi
+- yuqori nafas yo'llaridan so'rilmaydi va faqat quruq mato bilan artiladi
+! Chaqaloqning ona qoni va sekretlari bilan kontakti kamaytirilishi, shilimshiq so'rib olinishi va ko'krak orqali kontaktning oldi olinishi kerak.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Chaqaloqda ARV-profilaktikani boshlash muddati qaysi?
++ hayotning dastlabki 4 soati ichida
+- 12 soat o'tgach, birinchi ovqatlantirishdan keyin
+- 48 soat o'tgach, laborator natija olingach
+- hayotning birinchi haftasi oxirida, DNK PZR natijasi chiqqach
+- 28 kun o'tgach, kotrimoksazol bilan birga
+! Himoyaning samaradorligi dori qancha erta berilishiga bog'liq.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Chaqaloq uchun uch komponentli sxemada nevirapin qanday qabul qilinadi?
++ birinchi haftada kuniga bir marta, ikkinchi haftada har 12 soatda 2 mg/kg, so'ng bekor qilinadi
+- birinchi haftada har 12 soatda, ikkinchi haftada kuniga bir marta 4 mg/kg va 12 haftagacha davom ettiriladi
+- dastlabki to'rt hafta davomida har 8 soatda 4 mg/kg, keyin dozasi ikki baravar oshiriladi
+- bir martalik doza tug'ilgan zahoti beriladi va qaytarilmaydi, chunki yarim yemirilish davri uzun
+- 18 oygacha har kuni bir marta 2 mg/kg beriladi va emlash bilan birga to'xtatiladi
+! Nevirapin sxemasi qisqa muddatli bo'lib, dozalash tezligi birinchi va ikkinchi haftada farqlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+#U 132 / 3: nevirapin sxemasi faqat protokol ko'chirmasiga tayanadi, jadvalning klinik holatlarga mosligi to'liq ajratilmagan.
+? Pnevmotsistali zotiljam profilaktikasi uchun kotrimoksazol OIV bilan yashovchi onalardan tug'ilgan bolalarga qaysi yoshdan boshlab beriladi?
++ 5 haftalikdan boshlab
+- tug'ilgan kundan boshlab, 4 soat ichida
+- 2 haftalikdan boshlab, nevirapin tugagach
+- 12 haftalikdan boshlab, ikkinchi PZR natijasidan keyin
+- 18 oylikdan boshlab, IFA natijasi chiqqach
+! Preparat bola OIV provirus DNK PZR bo'yicha ikki marta manfiy natija olguncha beriladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? OIV DNK PZR bo'yicha birinchi tekshiruv chaqaloqda qachon o'tkaziladi?
++ 6–8 haftalikda, kindik qonidan emas
+- tug'ilganda kindik qonidan, tug'ruq zalida
+- 3 kunlikda, bolaning kapillyar qonidan
+- 6 oylikda, emizish tugagandan keyin
+- 18 oylikda, serokonversiyani aniqlash uchun
+! Kindik qoni ona qoni bilan aralashishi mumkin, shu sababli bolaning o'z virusini aniqlash uchun keyingi muddat tanlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Emizishsiz ikki marta manfiy PZR olingan bolada yuqmaganlik tasdig'i uchun qaysi tekshiruv o'tkaziladi?
++ 18 oyligida IFA serokonversiyani aniqlash uchun
+- 6 oyligida immunoblot barcha bolalarda
+- 12 oyligida bakteriologik ekma qon bo'yicha
+- 3 yoshida PZR kasallikning kech belgilari paydo bo'lganda
+- 1 oyligida tezkor antikor testi onasi bilan taqqoslab
+! Onadan o'tgan antikorlar bola organizmida uzoq saqlanadi, shu sababli antikorlarga asoslangan tasdiq kechroq o'tkaziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol); World Health Organization. HIV and AIDS (fact sheet)
+? Emizgan bolada OIV testi qachon takrorlanadi?
++ ko'krak sutidan to'liq voz kechilgandan keyin 6 hafta ichida
+- emizishning har oyida, to bola 2 yoshga yetguncha
+- emizish boshlangan kuni va keyingi haftada
+- faqat bola 18 oyga to'lganda, emizishdan qat'i nazar
+- ona ART boshlagandan 3 oy o'tgach, emizishni to'xtatmasdan
+! Emizish davomida yuqish xavfi saqlanadi, shuning uchun tasdiq xavfli ta'sir to'xtagandan keyin olinadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? JSST sun'iy oziqlantirishni qaysi mezonlar bajarilganda tavsiya etadi?
++ maqbul, bajarilishi mumkin, arzon, barqaror va xavfsiz bo'lganda
+- ona sutini saqlash imkoni bo'lmaganda va bola vazni yetarli bo'lganda, shuningdek ona ART olmayotganda
+- ona qarshi bo'lmaganda hamda aralashma narxi past, bola esa 6 oydan katta bo'lganda
+- oila boy, shifokor ruxsat bergan va bola tug'ilganda og'ir bo'lmaganda
+- faqat shahar sharoitida yashayotgan va ona ishlayotgan bo'lsa
+! Mezonlar aralashma bilan oziqlantirishning o'zi yangi xavf tug'dirmasligini ta'minlash uchun qo'yilgan.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Onadagi OIV ta'siridagi, OIV belgilari bo'lmagan bolalar tug'ruqxonada qaysi vaksina bilan emlanadi?
++ BCG
+- OPV, tug'ruqxonada uch tomchi
+- KPK, tug'ilgandan keyingi birinchi kunda
+- AKDS, uchinchi kuni
+- gepatit A vaksinasi, bolaning ahvoli barqaror bo'lgach
+! Bunday bolalar tirik vaksinaga qarshi ko'rsatma belgilari yo'qligida milliy kalendar bo'yicha emlanadi, BCG esa tug'ruqxonada beriladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Virus yuklamasi 34–36 haftada 1000 nusxa/ml dan yuqori bo'lsa, qaysi sabab tekshiriladi?
++ ART qabul qilish muddatining 3 oydan qisqaligi
+- ayolning tug'ruqdan oldin vitaminlar qabul qilmagani
+- homila vazni 3000 g dan oshgani
+- ayolning qon guruhi va rezus omili mos kelmagani
+- homiladorlikda ultratovush tekshiruvi kam o'tkazilgani
+! Virus yuklamasining yuqori bo'lishi davolash samarasi yetarli emasligini ko'rsatadi, uning sabablari aniqlanib tuzatish kiritiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Bolada 18 oygacha ikki marta musbat PZR olinsa, ART qachon boshlanadi?
++ klinik-immunologik ko'rsatkichlardan qat'i nazar
+- CD4 soni pasaygandagina, immunologik tekshiruvdan keyin
+- 3-4 klinik bosqich aniqlanganda
+- bola 18 oyga to'lgandan so'ng
+- ota-onasi rozi bo'lib, kotrimoksazol kursi tugagandan keyin
+! Erta yuqqan bolalarda kasallik tez rivojlanadi, shu sababli davolashni kechiktirish xavfli.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Muddatidan oldin og'ir tug'ilgan chaqaloqda peroral ARV preparatlar qarshi ko'rsatma bo'lishi mumkin. Buning sababi qaysi xavf?
++ ichak so'rilishining buzilishi va nekrotik enterokolit
+- jigar siroziga aylanish va gepatit B bilan koinfeksiya
+- buyrak yetishmovchiligi va gemolitik anemiya rivojlanishi
+- o'pka gipertenziyasi va bronxolegochnoy displaziya
+- markaziy asab tizimining shikastlanishi va tutqanoq xurujlari
+! Nomukammal ichak funksiyasida og'iz orqali berilgan dori yetarlicha so'rilmaydi hamda ichak shikastlanishini kuchaytiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)

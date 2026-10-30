@@ -1,0 +1,100 @@
+=== 070
+? Inaktivatsiyalangan (o'ldirilgan) virusli COVID-19 vaksinalari haqida qaysi fikr to'g'ri?
++ eng eski vaksina turi; antitelalar hosil bo'ladi, lekin uzoq saqlanmasligi mumkin
+- eng yangi texnologiya; virus genomining bir qismi hujayra DNKsiga qo'shiladi
+- tirik virusdan tayyorlanadi, shu sababli faol infeksiya chaqirishi mumkin
+- faqat nukleokapsid oqsilining sintetik peptidlaridan iborat, adjuvantsiz
+- adenovirus vektori yordamida koronavirus oqsilini organizmda sintezlaydi
+! Inaktivatsiyalangan vaksina eng eski texnologiya bo'lib, uzoq muddatli antitelalar saqlanishi cheklangan bo'lishi mumkin.
+@ Mavzu materiali (070.docx)
+? Vektorli (adenoviral) vaksinalarning ishlash printsipi qanday?
++ adenovirusning bitta geni koronavirus geniga almashtiriladi, organizmda koronavirus oqsili sintezlanadi va antitelalar hosil bo'ladi
+- koronavirusning butun o'ldirilgan zarralari yuboriladi va organizm ularga qarshi antitelalar hosil qilishi, shuningdek hujayra immuniteti shakllanishi kutiladi
+- sintetik mRNK lipid nanozarrachalarida yuboriladi va hujayralarda koronavirus oqsili sintezlanadi
+- tayyor monoklonal antitelalar yuboriladi va passiv immunitet hosil bo'ladi, organizm ularni o'zi sintez qilmaydi va xotira hujayralari paydo bo'lmaydi
+- tirik susaytirilgan koronavirus intranazal yuboriladi va nafas yo'llarida ko'payib immunitet hosil qiladi
+! Vektorli vaksinalar zararsiz adenovirusni koronavirus geni tashuvchisi sifatida ishlatadi, «Sputnik V» shu printsipga asoslangan.
+@ Mavzu materiali (070.docx)
+? Pfizer va Moderna COVID-19 vaksinalari qaysi texnologik platformaga kiradi?
++ mRNK vaksinalar
+- vektorli adenoviral vaksinalar
+- inaktivatsiyalangan virusli vaksinalar
+- tirik susaytirilgan vaksinalar
+- anatoksin (toksoid) vaksinalar
+! Bu vaksinalar viruslarning genetik ko'rsatmasini hujayraga yetkazishga asoslangan yangi texnologiyadir.
+@ Mavzu materiali (070.docx)
+? JSST 2023 yil noyabrdan emlanmagan shaxslar uchun nechta doza tavsiya etadi?
++ bir doza
+- ikki doza, orasida 4 hafta bilan
+- uch doza, orasida 6 oy bilan
+- har yili ikki doza
+- bir yoshgacha to'rt doza
+! Xavfga asoslangan yondashuvda emlanmagan shaxslar uchun bitta doza yetarli deb tavsiya etilgan.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? JSST bo'yicha yuqori ustuvor guruhlarda qayta emlash so'nggi dozadan qancha vaqt o'tgach kerak bo'lishi mumkin?
++ 6–12 oy
+- 1–2 hafta
+- 2–3 yil
+- 5 yil
+- 3 kun
+! Immunitet so'nishi va og'ir kasallik xavfi yuqori bo'lgani sababli xavfli guruhlarga qayta doza kerak bo'ladi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? JSST ma'lumotiga ko'ra COVID-19 vaksinalarining asosiy ta'siri qaysi?
++ og'ir kasallik, kasalxonaga yotqizish va o'limdan himoya, yuqishni kamaytirishga ta'siri esa cheklangan
+- yuqishni to'liq to'xtatadi, emlanganlar esa hech qachon infeksiyani boshqalarga yuqtirmaydi
+- yengil shamollash belgilarini kamaytiradi, og'ir shakllarga esa hech qanday ta'sir ko'rsatmaydi
+- bolalarni himoya qiladi, kattalarga va keksalarga esa deyarli ta'sir qilmaydi
+- OIV bilan yashovchilarda ishlaydi, boshqa guruhlarda esa samarasiz hisoblanadi
+! Vaksinalar og'ir oqibatlardan himoya qiladi, emlangan odam infeksiyalansa ham boshqalarga yuqtirishi mumkin.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? Sog'liqni saqlash vazirining 204-son buyrug'i bilan tasdiqlangan tartib qaysi yoshdagi aholini emlashni belgilaydi?
++ 18 va undan katta yoshdagilarni
+- 12 va undan katta yoshdagilarni
+- 6 oylikdan boshlab bolalarni
+- 65 yosh va undan kattalarni
+- 14 yoshdan 17 yoshgacha o'smirlarni
+! Buyruq birlamchi tibbiy-sanitariya muassasalarida kattalar emlash qoidalarini belgilaydi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? 204-son buyruqqa ko'ra emlashdan oldin ko'rik xulosasi qaysi hujjatda qayd etiladi?
++ 025/h shaklidagi ambulator kartada
+- 058/u shaklidagi shoshilinch xabarnomada
+- 089/u-00 shaklidagi hisobotda
+- 063/h shaklidagi emlash sertifikatida
+- 112/h shaklidagi bola rivojlanish tarixida
+! Oilaviy shifokor ko'rigi natijasi ambulator kartada qayd etilishi belgilangan.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? 204-son buyruqqa ko'ra birinchi va keyingi dozalar oralig'i qanday belgilanadi?
++ JSST tavsiyalari va vaksina yo'riqnomasiga asoslanib 21 kundan 12 haftagacha
+- barcha vaksinalar uchun aniq 24 soat, yo'riqnomadan qat'i nazar va JSST tavsiyalarisiz
+- har doim 6 oydan kam bo'lmasligi shart, shifokor ruxsatidan qat'i nazar
+- 3 yilgacha, kasallanganlar va keksalar uchun, boshqalar uchun esa 3 oy
+- 2 kundan 5 kungacha, vaksina yo'riqnomasidan qat'i nazar va qo'shimcha tekshiruvsiz
+! Oraliq vaksina turiga qarab belgilanadi va 21 kundan 12 haftagacha bo'ladi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? 204-son buyruqqa ko'ra emlangan shaxs emlash punktida qancha vaqt kuzatiladi?
++ 15–30 daqiqa
+- 1–2 daqiqa, ko'rik tugagach
+- 3–4 soat, xonada
+- 24 soat, statsionarda
+- 2 hafta, uyda
+! Erta reaksiyalar, shu jumladan anafilaksiya, odatda shu vaqt ichida rivojlanadi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? COVID-19 dan tuzalgan va reabilitatsiya davrini o'tkazgan shaxs shifokor ruxsati bilan qachon emlanishi mumkin?
++ 3–6 oydan keyin
+- 1–2 haftadan keyin
+- 3 kundan keyin
+- 5 yildan keyin
+- hech qachon emlanmaydi
+! Tuzalgandan keyin tabiiy immunitet davrida emlash ma'lum muddatdan so'ng amalga oshiriladi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+? 204-son buyruqqa ko'ra emlashdan oldin antitelalarga tekshirish talabi qanday?
++ shart emas
+- har bir shaxs uchun majburiy hisoblanadi
+- shifoxonada tekshiriladi, boshqa joyda emas
+- chet eldan kelganlar uchun belgilangan
+- bolalar uchun alohida belgilangan
+! Emlash faqat shifokor ko'rigidan keyin amalga oshiriladi, ammo serologik tekshiruv talab etilmaydi.
+@ O'zR SSV 2021-yil 17-avgustdagi 204-son buyrug'i
+#U 070 / 1: vaksina turlari (inaktivatsiyalangan, vektorli, mRNK) haqidagi tavsif faqat ma'ruza materialiga tayangan.
+#U 070 / 2: vektorli vaksinalar haqidagi tavsif faqat ma'ruza materialiga tayangan.
+#U 070 / 3: mRNK vaksinalar haqidagi tavsif faqat ma'ruza materialiga tayangan.

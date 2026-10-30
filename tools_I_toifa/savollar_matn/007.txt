@@ -1,0 +1,106 @@
+=== 007
+? O'zbekistonda mustaqil epidemiologiya kafedrasi qachon va qaysi muassasa tarkibida tashkil topgan?
++ 1935-yilda Toshkent davlat tibbiyot instituti tarkibida
+- 1920-yilda Toshkent davlat tibbiyot instituti tarkibida
+- 1935-yilda Samarqand tibbiyot instituti tarkibida
+- 1952-yilda Toshkent pediatriya instituti tarkibida
+- 1930-yilda mikrobiologiya kafedrasi tarkibida
+! Bundan oldin, 1930–1935-yillarda, fan mikrobiologiya va yuqumli kasalliklar kafedralari qoshida kurs sifatida o'qitilgan.
+@ Mavzu materiali (007.docx)
+? Toshkent davlat tibbiyot instituti epidemiologiya kafedrasiga dastlab kim rahbarlik qilgan?
++ A.V. Georgiyevskiy (1935–1952)
+- M.N. Soshnikova (1954–1972)
+- M.Q. Usmonov (1972–1993)
+- O.M. Mirtazayev (1993–2010)
+- G.S. Matnazarova (2013 yildan)
+! Georgiyevskiy kafedra tashkil topgan 1935-yildan boshlab 1952-yilgacha mudir bo'lgan, keyingilar undan keyin kelgan.
+@ Mavzu materiali (007.docx)
+? Kafedraga 1972–1993-yillarda qaysi professor rahbarlik qilgan?
++ M.Q. Usmonov
+- M.N. Soshnikova
+- L.I. Matsina
+- S.E. Umirov
+- O.M. Mirtazayev
+! Soshnikova undan oldin (1954–1972), Mirtazayev esa keyin (1993–2010) rahbarlik qilgan.
+@ Mavzu materiali (007.docx)
+? O'zbekistonlik olimlarning ilmiy ishlari natijasida aholi orasida qaysi kasalliklar tugatilgan?
++ chechak, rishta va poliomielit
+- o'lat, bezgak va traxoma
+- qizamiq, difteriya va ich terlama
+- gripp, virusli gepatitlar va OIV-infeksiyasi
+- leyshmanioz, brutsellyoz va kuydirgi
+! Qolgan kasalliklar, jumladan o'tkir ichak infeksiyalari va virusli gepatitlar, hozir ham dolzarb muammo bo'lib qolmoqda.
+@ Mavzu materiali (007.docx)
+? Respublika, viloyat va o'lka SES qoshida o'ta xavfli infeksiyalar bo'limlari to'g'risidagi nizom qachon tasdiqlangan?
++ 1955-yil 20-avgustda
+- 1918-yil 11-iyulda
+- 1935-yil 20-avgustda
+- 1965-yil 20-iyulda
+- 1920-yil 1-sentyabrda
+! Bu sana sanitariya-epidemiologiya xizmati tarixiga bag'ishlangan monografiyada keltirilgan, 1918-yil esa xalq komissarligi tashkil etilgan sana.
+@ Niyazmatov B.I. va boshq. Istoriya organizatsii i razvitiya sanitarno-epidemiologicheskoy sluzhby v Respublike Uzbekistan, 2008
+? Markaziy Osiyo sharoitida amaliy tasdig'ini topgan tabiiy o'choqlilik ta'limoti qaysi kasalliklarni o'rganishda qo'llangan?
++ o'lat, leyshmanioz va toshbaqa kanalari orqali yuqadigan isitmalar
+- ich terlama, vabo va virusli gepatit A kabi ichak infeksiyalari guruhi
+- qizamiq, qizilcha va epidemik parotit kabi bolalar infeksiyalari
+- difteriya, ko'kyo'tal va skarlatina kabi nafas yo'llari infeksiyalari
+- OIV-infeksiyasi, gepatit B va gepatit C kabi qon orqali yuqadigan kasalliklar
+! Bu kasalliklarning qo'zg'atuvchilari tabiiy o'choqlarda yovvoyi hayvonlar va ularning parazitlari orasida saqlanadi.
+@ Mavzu materiali (007.docx)
+? O'latga qarshi stansiyalar tizimi qaysi ishlar asosida tashkil etilgan?
++ tabiiy o'choqlilik ta'limoti va o'lat tabiiy o'choqlarini o'rganish natijalari asosida
+- bezgakka qarshi o'tkazilgan antimalyariya tadbirlari va chivinlarga qarshi kurash natijalari asosida
+- dezinfeksiya va emlash dasturlarining samaradorligini baholash natijalari asosida
+- ich terlama o'choqlarini davolash va bemorlarni izolyatsiya qilish tajribasi asosida
+- gelmintozlarga qarshi dori vositalarini sinash natijalari asosida
+! O'latning tabiiy o'choqlarini (jumladan cho'l mintaqalarida) o'rganish uning nazorat tizimini yaratishga asos bo'lgan.
+@ Mavzu materiali (007.docx)
+? Epizootiya nima?
++ hayvonlar orasida kasallik avj olishi
+- odamlar orasida kasallik avj olishi
+- hasharotlar orasida qo'zg'atuvchining tabiiy aylanishi
+- tashqi muhitda qo'zg'atuvchi saqlanishi
+- o'simliklar orasida kasallik avj olishi
+! Tabiiy o'choqlarda epizootiyalarni nazorat qilish o'ta xavfli infeksiyalar odamlarga o'tishining oldini oladi.
+@ Mavzu materiali (007.docx)
+? XX asr o'rtalarida O'zbekistonda bezgak keskin kamaytirilishiga qaysi tadbirlar sabab bo'lgan?
++ tashuvchi chivinlarga qarshi kurash, suv havzalarini nazorat qilish va bemorlarni davolash
+- kemiruvchilarni qirish, uy-joylarni dezinfeksiya qilish va hayvonlarni emlash
+- aholini ommaviy emlash, bemorlarni izolyatsiya qilish va chegara karantini
+- ichimlik suvini xlorlash, oziq-ovqat nazorati va chiqindilarni olib chiqish
+- kanalarga qarshi ishlov berish, repellentlar tarqatish va chorva mollarini ajratish
+! Bezgak chivinlar orqali yuqadi, shu sababli vektor va uning ko'payish joylariga qarshi kurash hamda bemorlarni davolash asosiy edi.
+@ Mavzu materiali (007.docx)
+? Mustaqillik yillarida O'zbekiston sanitariya-epidemiologiya xizmatida laboratoriya diagnostikasi bo'yicha nima joriy etilgani qayd etilgan?
++ PZR-diagnostika va boshqa zamonaviy usullar
+- bakteriologik ekma va mikroskopiya usullari bilan cheklangan klassik diagnostika
+- hayvonlarga biologik sinov o'tkazish usuli
+- serologik agglyutinatsiya reaksiyalari
+- klinik tekshiruv va anamnez to'plash usullari
+! Laboratoriya bazasi yangilanib, PZR kabi molekulyar usullar joriy etilgan.
+@ Mavzu materiali (007.docx)
+? Xalqaro miqyosda qaysi kasallikning 1960–1970-yillarda butun dunyoda tugatilishi amaliy epidemiologiyaning misli ko'rilmagan yutug'i sifatida baholanadi?
++ chechak
+- poliomielit
+- qizamiq
+- vabo
+- bezgak
+! Chechak butun dunyoda tugatilgan yagona inson kasalliklaridan biri hisoblanadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+? O'zbekistonda uyushgan sanitariya-epidemiologiya xizmati tashkil etila boshlanganda asosiy e'tibor qaysi kasalliklarga qaratilgan?
++ bezgak, ich terlama, traxoma va o'lat
+- OIV-infeksiyasi, gepatit C va COVID-19
+- gripp, qizamiq va ko'kyo'tal
+- kuydirgi, qutirish va Ebola
+- difteriya, poliomielit va ichburug'
+! Dastlab keng tarqalgan va yuqori o'lim keltirgan infeksiyalarga e'tibor qaratilgan.
+@ Mavzu materiali (007.docx)
+#U 007 / 1: Kafedra tashkil topish sanasi va muassasa faqat mavzu materialiga tayangan.
+#U 007 / 2: Kafedra mudirlari ro'yxati va yillari faqat mavzu materialiga tayangan.
+#U 007 / 3: Kafedra mudirlari ro'yxati va yillari faqat mavzu materialiga tayangan.
+#U 007 / 4: Kasalliklarning tugatilishi haqidagi ma'lumot faqat mavzu materialiga tayangan.
+#U 007 / 6: Tabiiy o'choqlilik ta'limotining Markaziy Osiyo kasalliklariga tatbiqi faqat mavzu materialiga tayangan.
+#U 007 / 7: O'latga qarshi stansiyalar tizimining kelib chiqishi faqat mavzu materialiga tayangan.
+#U 007 / 9: Bezgakka qarshi tadbirlar tavsifi faqat mavzu materialiga tayangan.
+#U 007 / 10: PZR joriy etilgani haqidagi ma'lumot faqat mavzu materialiga tayangan.
+#U 007 / 12: Xizmat boshlanishidagi ustuvor kasalliklar faqat mavzu materialiga tayangan.

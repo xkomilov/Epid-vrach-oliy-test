@@ -1,0 +1,97 @@
+=== 114
+? Ichak gelmintlari yuqish mexanizmi bo'yicha qaysi guruhlarga bo'linadi?
++ bio-, geo- va kontagioz gelmintozlar
+- zoonoz, antroponoz va sapronoz gelmintozlar
+- nematodoz, sestodoz va trematodoz gelmintozlar
+- transmissiv, parenteral va aspiratsion gelmintozlar
+- o'tkir, surunkali va yashirin gelmintozlar
+! Har bir guruh uchun epidemiologik inkubatsiya, yuqish omillari va tadbirlar farq qiladi, nematoda-sestoda-trematoda bo'linishi esa sistematik tasnifdir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Quyidagi qaysi gelmintozlar nematodozlar qatoriga kiradi?
++ askaridoz, trixotsefalyoz va enterobioz
+- teniarinxoz, gimenolepidoz va difillobotrioz
+- opistorxoz, fastsiolyoz va klonorxoz
+- exinokokkoz, alveokokkoz va teniozlar
+- paragonimoz, klonorxoz va opistorxoz
+! Nematodozlarni yumaloq gijjalar chaqiradi, sestodozlar tasmasimon, trematodozlar esa so'rg'ichli gijjalar qo'zg'atadigan kasalliklardir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Maktabgacha va maktab yoshidagi bolalar ichak gelmintozlarida nima uchun asosiy xavf guruhi hisoblanadi?
++ zararlanish bolalarda yuqori bo'lib, jamoalarda tez tarqaladi va rivojlanish kechikishiga olib keladi
+- immuniteti kuchli bo'lgani uchun gijjalar organizmda ko'payib, avlodlar soni ortadi
+- go'sht mahsulotlarini ko'proq iste'mol qilgani sababli biogelmintozlarga ko'proq duchor bo'ladi, bu esa asosiy sabab
+- gijjalar teri orqali kirib, o'pka orqali ichakka yetib boradi
+- bolalar xlorli eritmalar bilan ko'proq aloqada bo'lgani uchun tuxumlar yuqumli bo'lib qoladi
+! Yosh bolalarda gigiena ko'nikmalari shakllanmagan, shu sababli ular ko'proq zararlanadi va oqibatlari og'irroq bo'ladi.
+@ JSST. Soil-transmitted helminth infections (fact sheet); Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Tuproq orqali yuqadigan gelmintozlarning og'ir invaziyasida qaysi belgilar kuzatilishi mumkin?
++ diareya, qorin og'rig'i, oziqlanish buzilishi, bolalarda rivojlanishning kechikishi va ichak tutilishi
+- yuqori isitma, toshma, bo'g'imlar shishi va ko'zlarda sariqlik hamda qon bosimining keskin tushishi
+- o'tkir tomoq og'rig'i, quruq yo'tal, burun bitishi va nafas qisilishi hamda ovoz bo'g'ilishi
+- qon bilan siydik ajralishi, bel og'rig'i, qovuq shishi va siydik chiqarishning to'xtashi
+- terida pufakchalar paydo bo'lishi, mushaklar falajligi, tutqanoq va ko'rishning yo'qolishi
+! Kasallik og'irligi gijjalar soniga bog'liq: yengil invaziya belgisiz kechadi, og'ir invaziyada ichak va oziqlanish buzilishlari yuzaga keladi.
+@ JSST. Soil-transmitted helminth infections (fact sheet)
+? Tuproq gelmintlari tuxumlarining yetilishi uchun taxminan qancha vaqt kerak bo'ladi?
++ 3 hafta
+- 3 kun
+- 1 hafta
+- 3 oy
+- 1 yil
+! Shu sababli odamdan odamga yoki yangi najas orqali bevosita yuqish bo'lmaydi.
+@ JSST. Soil-transmitted helminth infections (fact sheet)
+? Ichak gelmintozlarida laborator aniqlash uchun tanlab tekshiruvga bolalar jamoalarining kamida qancha qismi olinadi?
++ 5%
+- 50%
+- 20%
+- 90%
+- 2%
+! Tanlab tekshiruv jamoadagi vaziyatni baholash uchun belgilangan minimal ulushni qamrab oladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Askaridoz, trixotsefalyoz, teniarinxoz va teniozlar qanday hujjat bilan hisobga olinadi?
++ 058/u shoshilinch xabarnoma
+- 089/u shoshilinch xabarnoma
+- 025/u ambulator karta
+- 003/u kasallik tarixi
+- 060/u jurnal
+! Bundan tashqari o'choqlar pasportlashtiriladi va 357/u epidemiologik karta to'ldiriladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Gimenolepidozda dispanser kuzatuvi va qayta tahlillar qanday tartibda o'tkaziladi?
++ 6 oy kuzatuv, davolangandan keyin 1, 3 va 6 oyda qayta tahlil
+- 3 oy kuzatuv, davolangandan keyin 2, 4 va 6 oyda qayta tahlil
+- 12 oy kuzatuv, davolangandan keyin har chorakda qayta tahlil
+- 1 oy kuzatuv, davolangandan keyin 1 hafta va 1 oyda qayta tahlil
+- 2 yil kuzatuv, davolangandan keyin har yili qayta tahlil
+! Teniidozlardan farqli ravishda gimenolepidozda qayta tahlillar 1, 3 va 6 oylarga belgilangan.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Epidemiologik nazoratda retrospektiv tahlil kamida qancha yillik ma'lumotni qamrab oladi?
++ 5 yillik
+- 1 yillik
+- 2 yillik
+- 10 yillik
+- 20 yillik
+! Uzoq muddatli dinamika, mavsumiylik va o'choqlanishni baholash uchun bir necha yillik ma'lumot kerak.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 7-ilova
+? Quyidagi qaysi usul ichak gelmintozlarini laboratoriyada aniqlash usullariga kiradi?
++ Kato-Kats usuli
+- Vidal reaksiyasi
+- Mantu sinamasi
+- Shik reaksiyasi
+- Paul–Bunnel reaksiyasi
+! Kato-Kats gijja tuxumlarini najas surtmasida sanash imkonini beradi, boshqalari esa boshqa kasalliklar uchun serologik yoki teri sinamalaridir.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Sanitariya-gelmintologik nazoratda qaysi obyektlardan surtma va namunalar olinadi?
++ o'yinchoqlar, choyshablar, eshik tutqichlari, o'yin maydonchasi tuprog'i va qumi
+- bemorlarning qoni, siydigi va orqa miya suyuqligi hamda balg'am namunalari
+- ichimlik suvi quvurlaridagi radioaktiv chiqindilar va havodagi chang zarralari
+- dori vositalari omborlari va shifoxona dorixonalaridagi sterillangan asboblar
+- mevali daraxtlar po'stlog'i, o'rmon hayvonlari terisi va yovvoyi qushlar patlari
+! Bu nazorat tashqi muhitdagi gijja tuxumlari bilan ifloslanishni aniqlashga qaratilgan, shu sababli bolalar bilan aloqador buyumlar va tuproq tekshiriladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Ichak gelmintozlarida dehelmintizatsiyaning umumiy JSST yondashuvi nimaga asoslanadi?
++ xavf ostidagi aholini individual tashxissiz davriy davolash
+- har bir bemorni faqat laborator tasdiqlangandan keyin alohida davolash
+- og'ir asoratlangan bemorlarni statsionarda jarrohlik yo'li bilan davolash
+- barcha sog'lom aholini yiliga to'rt marta emlash va davolash
+- gijjalar tushgan oziq-ovqatni yo'q qilishdan boshqa chorani qo'llamaslik
+! Preventiv kimyoterapiya morbidlikni kamaytirish uchun xavf guruhlarida skrining talab qilmasdan o'tkaziladi.
+@ JSST. Soil-transmitted helminth infections (fact sheet)

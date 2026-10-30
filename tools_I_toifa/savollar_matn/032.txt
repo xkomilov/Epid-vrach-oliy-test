@@ -1,0 +1,100 @@
+=== 032
+? Markaziy sterilizatsiya bo'limi (MSB) faoliyatidagi eng muhim tashkiliy talab qaysi?
++ Materiallar harakatining "iflosdan tozaga" bir yo'nalishli oqimi va oqimlar kesishmasligi
+- Toza va iflos asboblarni bir xonada, lekin turli stollarda qayta ishlash tartibi
+- Steril materiallarni qabul qilish xonasi orqali ishlatilgan asboblarni qaytarib olib chiqish
+- Har bir klinik bo'limda asboblarni mustaqil sterilizatsiya qilish va bir joyda jamlash
+- Barcha asboblarni dezinfeksiyalamasdan bevosita sterilizatorga yuklab, keyin ularni yuvish tartibi
+! Bir yo'nalishli oqim ishlatilgan va tayyor materiallarning aralashib ketishini, ya'ni qayta ifloslanishni oldini oladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); SanQvaM № 0365-19
+? MSB qanday funksional zonalarga bo'linadi?
++ Iflos, toza va steril zonalarga
+- Qabul, ordinatorlik va saqlash zonalariga
+- Isitiladigan, sovutiladigan va neytral zonalarga
+- Infeksion, noinfeksion va karantin zonalariga
+- Qabul, davolash va tashish zonalariga
+! Zonalar texnologik jarayon bosqichlariga ko'ra: qabul va tozalash, ishlov va qadoqlash, sterilizatsiya va saqlash.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); SanQvaM № 0365-19
+? MSBning qaysi zonasida asboblar quritiladi, tekshiriladi va qadoqlanadi?
++ Toza zonada
+- Iflos zonada
+- Steril zonada
+- Yordamchi xonalar zonasida
+- Karantin zonasida
+! Quritish, tekshirish va qadoqlash tozalashdan keyin, lekin sterilizatsiyadan oldin bajariladi.
+@ SanQvaM № 0365-19; Mavzu materiali (032.docx)
+? Sterilizatsiyadan oldingi tozalash sifatida yashirin qon qoldig'i qaysi sinama bilan aniqlanadi?
++ Azopiram yoki amidopirin sinamasi
+- Fenolftalein sinamasi
+- Chayqatish sinovi
+- Gram usulida bo'yab mikroskopiya qilish
+- Benedikt sinamasi
+! Bu sinama qondagi gemoglobin ta'sirida rang hosil qiladi va yuvilmagan qon izlarini ko'rsatadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); Mavzu materiali (032.docx)
+? Yuvish vositasi qoldig'ini aniqlash uchun qaysi sinama qo'llaniladi?
++ Fenolftalein sinamasi
+- Azopiram sinamasi
+- Amidopirin sinamasi
+- Biologik indikator sinamasi
+- Biuret sinamasi
+! Fenolftalein ishqoriy qoldiq mavjud bo'lganda rang beradi.
+@ Mavzu materiali (032.docx)
+? Sterilizatsiyadan oldingi tozalash sifatini tekshirishda sinama musbat natija bersa, nima qilinadi?
++ Asboblarning butun partiyasi qayta ishlanadi
+- Faqat sinama o'tkazilgan bitta asbob qayta yuviladi, qolganlari qadoqlashga yuboriladi
+- Asboblar bevosita sterilizatorga solinadi, chunki sterilizatsiya qoldiqni yo'q qiladi
+- Sinama natijasi jurnalga yoziladi, ammo asboblar o'z holicha ishlatishga beriladi
+- Partiya shu holicha quritishga yuboriladi, qayta ishlash esa keyingi smenaga qoldiriladi
+! Musbat sinama qoldiq mavjudligini bildiradi, bu esa sterilizatsiya samaradorligini pasaytiradi.
+@ Mavzu materiali (032.docx)
+? Qadog'i buzilgan yoki sterillik muddati o'tgan material bilan nima qilinadi?
++ Steril hisoblanmaydi va qayta ishlanadi
+- Tashqi qadog'i almashtirilib, o'sha holicha steril material sifatida saqlanadi
+- Faqat kimyoviy indikatori tekshirilib, rangi o'zgargan bo'lsa ishlatishga ruxsat etiladi
+- Ishlatiladi, ammo bemorga faqat terining butunligi buzilmagan joylarda qo'llanadi
+- Tashqi qadog'i dezinfeksiya qilinib, material qisqa muddatga ishlatishga ruxsat etiladi
+! Qadoq butunligi va muddat sterillik kafolatining asosiy shartidir.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Zamonaviy MSBda ultratovushli yuvish moslamalari va avtomatik dezinfeksiya-yuvish mashinalarining asosiy afzalligi nima?
++ Jarayonni standartlashtirib, inson omili xatosi va xodimning zararli moddalar bilan kontaktini kamaytiradi
+- Sterilizatsiya bosqichini to'liq o'rnini bosib, sporalarni bir daqiqada yo'q qiladi
+- Biologik nazoratga ehtiyojni yo'qotadi, chunki ular test-sporalarni sterilizatordan oldin avtomatik hisoblab chiqadi
+- Qadoqlash materialini ishlatishni keraksiz qiladi, chunki ular steril holatni doimiy saqlaydi
+- Asboblarni yuvish va dezinfeksiya qilishni tezlashtirib, steril zonaga kirish talabini bekor qiladi
+! Mexanizatsiya qo'lda bajariladigan ishni kamaytiradi va natijani bir xil qiladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? MSBda xodimlar oqimini iflos va toza zonalar o'rtasida nazorat qilish qaysi xavfni kamaytiradi?
++ Chalkash (krest) ifloslanish xavfini
+- Asboblarning korroziyasi xavfini, chunki xodimlar namlikni zonalararo olib o'tadi
+- Sterilizatorning elektr tarmog'iga ortiqcha yuklanish xavfini
+- Xodimlarning kasbiy charchashi va ish haqi me'yoridan oshib ketish xavfini
+- Zonalardagi havo harorati va namlik rejimining buzilib ketish xavfini
+! Xodimlar bir zonadan ikkinchisiga mikroorganizmlarni olib o'tishi mumkin.
+@ Mavzu materiali (032.docx)
+? Markazlashtirilgan sterilizatsiyaning bo'limma-bo'lim o'tkaziladigan sterilizatsiyaga nisbatan ustunligi nimada?
++ Sifat nazoratini bir joyda birlashtiradi va malakali xodimlar mehnatidan oqilona foydalanadi
+- Har bir bo'limning o'z asboblari to'plamini saqlashga ehtiyojni oshiradi va xarajatni ko'paytiradi
+- Hujjatlashtirish va jihozlarni validatsiya qilish talabini bekor qiladi
+- Sterilizatsiya jarayonida bug' va quruq issiq havo usullaridan foydalanishni taqiqlaydi
+- Har bir bo'limda sterilizatorlar sonini ko'paytirib, nazoratni alohida bo'limlar zimmasiga yuklaydi
+! Bitta markazda jihozlar, xodimlar va nazorat jamlanadi, shuning uchun xavfsizlik va samaradorlik oshadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? SanQvaM № 0365-19 ga ko'ra sterilizatsiya markazining nopok zonasiga qaysi xonalar kiradi?
++ Asbob-anjomlarni qabul qilish, dezinfeksiya va sterilizatsiya oldi tozalash xonalari
+- Qadoqlash, sterilizatorlarni yuklash va tayyor buyumlarni nazorat qilish xonalari
+- Steril materiallarni saqlash va bo'linmalarga tarqatish xonalari
+- Xodimlar uchun kiyim almashtirish, dam olish va sanitariya xonalari
+- Sterilizatorlarni o'rnatish va ularga texnik xizmat ko'rsatish xonalari
+! Nopok zona ishlatilgan buyumlar bilan ishlash bosqichlarini o'z ichiga oladi.
+@ SanQvaM № 0365-19
+? Nosozlik aniqlangan sterilizator bilan qanday ish tutiladi?
++ Jihoz ishlatilmaydi va tekshiruvdan keyingina qayta ishga tushiriladi
+- Past yuklama bilan ishlatiladi, natijalar esa kimyoviy indikator bilan baholanadi
+- Faqat metall asboblar uchun ishlatiladi, to'qima materiallar esa boshqa jihozga o'tkaziladi
+- Ishlatilaveradi, chunki nosozlik bakteriologik nazorat bilan keyinroq aniqlanadi
+- Jihoz ishlatiladi, nazorat esa har chorakda faqat kimyoviy indikator bilan o'tkaziladi
+! Sterilizatsiya rejimi ishonchsiz bo'lganda jihozdan foydalanish bemorlarga infeksiya yuqish xavfini tug'diradi.
+@ Mavzu materiali (032.docx)
+#U 032 / 4: azopiram/amidopirin va fenolftalein sinamalari faqat mavzu materialiga tayanadi
+#U 032 / 5: fenolftalein sinamasi faqat mavzu materialiga tayanadi
+#U 032 / 6: musbat sinamada butun partiyani qayta ishlash qoidasi faqat mavzu materialiga tayanadi

@@ -1,0 +1,99 @@
+=== 009
+? Hozirgi epidemiologiya qaysi ikki yirik yo'nalishga bo'linadi?
++ yuqumli kasalliklar epidemiologiyasi va noinfeksion kasalliklar epidemiologiyasi
+- tavsifiy epidemiologiya va eksperimental epidemiologiya yo'nalishlari ketma-ketligi
+- umumiy epidemiologiya va xususiy farmakologiya fanlari yo'nalishlari
+- klinik epidemiologiya va sanitariya statistikasi yo'nalishlari
+- bolalar epidemiologiyasi va kattalar epidemiologiyasi yo'nalishlari
+! Birinchisi klassik yo'nalish bo'lib epidemik jarayonni, ikkinchisi yuqumli bo'lmagan kasalliklarning populyatsion taqsimotini o'rganadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 1-bob
+? L.V. Gromashevskiy ta'biri bilan, yuqumli kasalliklar epidemiologiyasi o'rganadigan ob'ekt nima?
++ epidemik jarayon va unga xos qonuniyatlar
+- bemor organizmidagi patogenetik o'zgarishlar
+- dori vositalarining klinik samaradorligi
+- laboratoriya diagnostikasi usullari
+- aholining demografik tarkibi va ko'chib yurishi
+! Aniq ob'ekt mavjudligi yuqumli kasalliklar epidemiologiyasini sifat jihatidan mustaqil ilmiy intizomga aylantiradi.
+@ Mavzu materiali (009.docx)
+? Oxirgi yillarda yuqumli kasalliklar epidemiologiyasining asosiy e'tibori qaysi kasalliklarga yo'naltirilgan?
++ surunkali gepatitlar, sil va OIV-infeksiya kabi surunkali kasalliklarga
+- vabo, ich terlama va dizenteriya kabi o'tkir ichak infeksiyalariga
+- qizamiq, gripp va ko'kyo'tal kabi o'tkir nafas yo'llari infeksiyalariga
+- bezgak, o'lat va leyshmanioz kabi o'tkir transmissiv infeksiyalarga
+- qoqshol, quturish va kuydirgi kabi o'tkir kontakt infeksiyalariga
+! Surunkali infeksiyalar salomatlikka uzoq muddatli salbiy ta'sir ko'rsatadi va jamiyatga katta ijtimoiy-iqtisodiy zarar keltiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 1-bob
+? 1950-yillarda R. Doll va A.B. Hill tadqiqotlari qaysi bog'liqlikni tasdiqlagan?
++ tamaki chekish va o'pka saratoni o'rtasidagi bog'liqlikni
+- ionlashgan radiatsiya va qon kasalliklari o'rtasidagi bog'liqlikni
+- alkogol iste'moli va jigar sirrozi o'rtasidagi bog'liqlikni
+- tuzni ko'p iste'mol qilish va gipertoniya o'rtasidagi bog'liqlikni
+- yod yetishmovchiligi va endemik buqoq o'rtasidagi bog'liqlikni
+! Bu tadqiqotlar noinfeksion epidemiologiyaning klassik misollaridan biri bo'lib qolgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 29-bob
+? Minamata kasalligi qaysi kimyoviy modda bilan bog'liq?
++ simob
+- qo'rg'oshin
+- mishyak
+- kadmiy
+- ftor
+! Fabrikalarning simob saqlovchi oqova suvlari dengiz baliqlarida to'planib, ularni iste'mol qilganlarda zaharlanish chaqirgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 29-bob
+? Endemik buqoq profilaktikasiga epidemiologiya qanday hissa qo'shgan?
++ iodlangan tuz joriy etilishiga
+- kanalizatsiya tizimi qurilishiga
+- ommaviy emlash dasturini yo'lga qo'yishga
+- kemiruvchilarga qarshi kurash tizimiga
+- ichimlik suvini xlorlash usuliga
+! Aholi o'rtasidagi yod yetishmovchiligi populyatsion tadqiqotlarda aniqlanib, iodlangan tuz bilan bartaraf etilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 29-bob
+? JSST ma'lumotiga ko'ra, noinfeksion kasalliklar ichida eng ko'p o'limga sabab bo'luvchi guruh qaysi?
++ yurak-qon tomir kasalliklari (kamida 19 million)
+- saraton kasalliklari (taxminan 10 million)
+- surunkali nafas kasalliklari (taxminan 4 million)
+- qandli diabet kasalligi (2 milliondan ortiq)
+- jigar sirrozi va boshqa kasalliklar (1 milliondan ortiq)
+! 2021 yilda noinfeksion kasalliklar kamida 43 million kishining o'limiga sabab bo'lgan va yurak-qon tomir kasalliklari birinchi o'rinda.
+@ WHO. Noncommunicable diseases (fact sheet)
+? Onkologik kasalliklarning xalqaro TNM tizimida "N" harfi nimani bildiradi?
++ regionar limfa tugunlarining holatini
+- o'sma o'lchamini
+- metastaz mavjudligini
+- o'sma hujayralarining differensiatsiya darajasini
+- bemorning umumiy holatini
+! T o'sma o'lchamini, M esa metastazni bildiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 29-bob
+? 1775-yilda P. Potti saratonning qanday omil bilan bog'liqligini qayd etgan?
++ mo'ri tozalovchilarda kasbiy omillar bilan
+- o'sma o'lchamini va o'sish tezligini
+- metastaz mavjudligini va tarqalish darajasini
+- o'sma hujayralarining differensiatsiya darajasini va xavfliligini
+- bemorning umumiy holatini va yoshini
+! Kasbiy omil ta'sirida bo'lgan guruhda saraton ko'proq uchrashi guruhlarni taqqoslash usulining qadimiyligini ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 29-bob
+? Insidentlik zichligi ko'rsatkichining afzalligi nimada?
++ u xavf omili ta'sirining davomiyligini hisobga oladi
+- u kasallikning aholi orasida bir paytdagi tarqalganligini ko'rsatadi
+- u faqat o'lim holatlarini hisobga oladi
+- u kasallik og'irligini balllarda baholaydi
+- u faqat bolalar orasidagi kasallanishni aks ettiradi
+! Shu sababli u noinfeksion kasalliklar va gospital epidemiologiyada ko'p ishlatiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 5-bob
+? Epidemiologik tadqiqotlarning tahlil bosqichida qaysi usullar qo'llanadi?
++ biostatistika, kogort va "holat-nazorat" tadqiqotlari
+- bemorlarni so'rab, tavsifiy hisobot tuzish bilan cheklanish
+- laboratoriya sinovlari va mikroskopiya
+- kasallanish soni va dinamikasini sanash
+- xavf omillari haqida faraz ilgari surish
+! Tavsif bosqichi kasallanish sonini va xavf omillari haqidagi farazni beradi, tahlil bosqichi esa farazni sinaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 5-bob
+? Rus qo'llanmasiga ko'ra, noinfeksion kasalliklarda "infeksiya manbai" va "yuqish mexanizmi" tushunchalarini to'g'ridan-to'g'ri qo'llab bo'lmasligining sababi nima?
++ noinfeksion kasalliklarda parazitar tizim va epidemik jarayon yo'q
+- noinfeksion kasalliklar faqat qariyalarda uchraydi
+- noinfeksion kasalliklarda moyillik tushunchasi umuman mavjud emas
+- noinfeksion kasalliklar faqat genetik omillar bilan keltirib chiqariladi
+- noinfeksion kasalliklarni epidemiologiya umuman o'rganmaydi
+! Parazit–xo'jayin tizimi bo'lmagani uchun tushunchaviy apparat alohida ishlab chiqilishi kerak degan nuqtai nazar bildirilgan.
+@ Mavzu materiali (009.docx)
+#U 009 / 2: Gromashevskiy iqtibosining talqini rus qo'llanmasiga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 009 / 12: Rus qo'llanmasidagi nuqtai nazar faqat mavzu materialiga tayangan.

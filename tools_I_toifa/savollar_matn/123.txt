@@ -1,0 +1,97 @@
+=== 123
+? Sapronoz kasalliklar qo'zg'atuvchilarining asosiy xususiyati qaysi?
++ Tashqi muhit obyektlarida yashaydigan fakultativ patogen parazitlar
+- Faqat odam organizmida ko'payadigan majburiy hujayra ichi parazitlari
+- Hayvonlar organizmida yashab, tashqi muhitda tezda nobud bo'ladigan viruslar
+- Hasharotlar tanasida ko'payadigan va faqat chaqish orqali o'tadigan mikroblar
+- Odam tanasida sog'lom tashuvchilik holatida yashovchi majburiy parazit bakteriyalar
+! Sapronozlarda tashqi muhit mikroorganizm uchun tabiiy yashash va ko'payish joyi bo'lib, odam tasodifiy zararlanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob
+? Sapronozlarni mustaqil guruh sifatida birinchi bo'lib kim taklif qilgan?
++ V.I. Terskix (1958)
+- E.N. Pavlovskiy (1939)
+- L.V. Gromashevskiy (1941)
+- D.K. Zabolotniy (1927)
+- I.I. Mechnikov (1896)
+! Bu taklif dastlab qattiq tanqidga uchragan, chunki issiq qonli hayvonlar parazitlari tashqi muhitda ko'paymaydi deb hisoblangan.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob
+? Yersinia pseudotuberculosis ning sapronoz sifatidagi qaysi xususiyati muhim?
++ Past haroratda (4–10 °C) ham ko'payishi (psixrofilligi)
+- Faqat 37 °C dan yuqori haroratda ko'payishi
+- Quruq muhitda sporalar hosil qilib, yillab saqlanishi
+- Tuproqda emas, faqat odam ichagida ko'payishi
+- Qaynatilganda ham nobud bo'lmasligi
+! Mikrob sovutgich va sabzavot omborlari sharoitida ham ko'payadi, shu sababli qishki saqlashdan keyin mahsulot zararlanishi keskin oshadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob
+? Soxta sil (psevdotuberkulyoz) ning asosiy yuqish omili qaysi?
++ Issiqlik ishlovisiz iste'mol qilinadigan sabzavotlar (salat, karam, sabzi)
+- Chala pishirilgan baliq va dengiz mahsulotlarini iste'mol qilish, ayniqsa yoz oylarida
+- Kasal odamning so'lagi va aksirishi bilan havo-tomchi yo'li orqali tarqaladi
+- Pashshalar tushgan qaynatilgan sut mahsulotlarini iste'mol qilish
+- Iksod kanalari chaqishi orqali, mavsumiy tabiiy o'choqlarda
+! Mikrob omborlarda saqlangan sabzavotlarda ko'payadi, termik ishlov esa uni o'ldiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob
+? Legionellyozning asosiy yuqish yo'li qaysi?
++ Sovutish tizimi, kondensioner, dush suvidagi aerozolni nafas olish
+- Kasal odam bilan yaqin kontakt, qo'l siqish va umumiy idishlar orqali
+- Iksod kanasi yoki chivin chaqishi orqali, transmissiv yo'l
+- Ifloslangan go'shtni chala pishirib iste'mol qilish orqali, alimentar yo'l
+- Jinsiy aloqa, qon quyish yoki umumiy shpritslar orqali
+! Legionella suv tizimlarida ko'payib, aerozol bilan o'pkaga tushadi; odamdan odamga yuqishi isbotlanmagan.
+@ WHO. Legionellosis (fact sheet)
+? JSST ma'lumotiga ko'ra legionellyozda o'lim odatda qancha?
++ 5–10 %
+- 0,1–0,5 %
+- 1–2 %
+- 20–25 %
+- 90–95 %
+! Kasallik og'ir zotiljam bilan kechadi, o'lim davolanganda ham sezilarli bo'lib qoladi.
+@ WHO. Legionellosis (fact sheet)
+? JSST tavsiyasiga ko'ra legionellaning ko'payishini oldini olish uchun issiq suv harorati qanday bo'lishi kerak?
++ 50 °C dan yuqori
+- 30 °C atrofida
+- 35 °C atrofida, iliq holatda
+- 40 °C atrofida, iliq holatda
+- 25 °C dan past, ya'ni sovuq suv darajasida
+! 20–50 °C oralig'ida bakteriyalar tizimda ko'payadi, shuning uchun issiq suv bu chegaradan yuqori saqlanadi.
+@ WHO. Legionellosis (fact sheet)
+? Kondensionerlar legionellyoz profilaktikasi uchun qanday tartibda tozalanadi va bakteriologik tekshiriladi?
++ Yiliga kamida ikki marta
+- Har kuni, ishga tushirishdan oldin
+- Har oyda bir marta, doimiy tartibda
+- Besh yilda bir marta, rejali ravishda
+- Faqat shikoyat tushgandan keyin
+! Muntazam tozalash va tekshiruv suv tizimlarida stagnatsiya va bakteriya to'planishini kamaytiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob; WHO. Legionellosis (fact sheet)
+? Soxta sil o'choqlarining oldini olishda sabzavot omborlarini yangi hosilga tayyorlashda qaysi eritma ishlatiladi?
++ 3 % xlorli ohak
+- 10 % kaliy permanganat eritmasi
+- 70 % etil spirti
+- 0,5 % formalin eritmasi
+- 20 % natriy xlorid eritmasi
+! Xlor saqlovchi vositalar yersiniyalarni tez o'ldirgani sababli omborning devor, uskuna va idishlari shu bilan ishlanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob
+? Sapronozlarda bemorni izolyatsiya qilish odatda nima uchun talab etilmaydi?
++ Odamdan odamga yuqish yo'q yoki juda kam uchraydi
+- Kasallik doim yengil kechadi va o'z-o'zidan o'tadi
+- Qo'zg'atuvchi faqat hayvonlarda ko'payadi va odamga o'tmaydi
+- Emlash orqali barcha aholi to'liq himoyalangan
+- Qo'zg'atuvchi odam tanasida bir necha soatda nobud bo'ladi
+! Manba tashqi muhit bo'lgani uchun tadbirlar muhit omillarini bartaraf etishga qaratiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob
+? Melioidozning (Burkholderia pseudomallei) endemik hududi qayerda?
++ Janubi-Sharqiy Osiyo va Shimoliy Avstraliya
+- Skandinaviya mamlakatlari va Shimoliy Yevropa, sovuq iqlimli hududlar
+- Markaziy Afrika sahrosi va Arab yarimorolining sharqiy qismlari
+- Shimoliy Amerikaning tog'li hududlari va Kanadaning g'arbiy qirg'oqlari
+- Janubiy Amerikaning And tog'lari va Patagoniya yaylovlari
+! Qo'zg'atuvchi issiq nam iqlimli hududlarning tuproq va suvida yashaydi.
+@ MSD Professional Version. Melioidoz (Uitmor kasalligi); Limmathurotsakul D. va b. Nature Microbiology (2016)
+? Sapronozlarda odamning moyilligi nima uchun odatda past?
++ Kasallik chaqiruvchi doza katta (masalan soxta silda 9×10^8 mikrob hujayrasi)
+- Odamlarning ko'pchiligida tug'ma mustahkam immunitet mavjud va hech kim kasallanmaydi
+- Qo'zg'atuvchilar faqat qon so'ruvchi hasharotlar chaqishi orqali yuqadi
+- Ko'pchilik aholi sapronozlarga qarshi bolalikda muntazam emlanadi
+- Qo'zg'atuvchilar odam hujayralariga kira olmaydigan viruslardir, shu sababli zararlamaydi
+! Mikrob katta miqdorda tushmasa kasallik rivojlanmaydi, shuning uchun u asosan zaiflashgan kishilarda va bolalarda og'ir kechadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 21-bob

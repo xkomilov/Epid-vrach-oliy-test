@@ -1,0 +1,97 @@
+=== 074
+? Ich terlamada surunkali bakteriotashuvchilik nima uchun alohida epidemiologik ahamiyatga ega?
++ tashuvchilar klinik belgisiz qo'zg'atuvchi ajratib infeksiyani tarqatadi va manbani nazorat qilishni qiyinlashtiradi
+- tashuvchilar qo'zg'atuvchini faqat inkubatsion davrda ajratadi va ular tez aniqlanadi
+- tashuvchilar sog'ayganidan keyin hayot davomida immunitet hosil qilib, boshqalarga xavf tug'dirmaydi
+- tashuvchilik faqat hayvonlarda uchraydi va odamlar uchun epidemiologik ahamiyati yo'q
+- tashuvchilar qo'zg'atuvchini havo-tomchi yo'li bilan tarqatadi, shu sababli ular doimo kasalxonada saqlanadi
+! Belgisiz ajratish tufayli tashuvchi aniqlanmay qolishi va ko'p sonli kasallanishga sabab bo'lishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1–3-ilovalar
+? Ichak infeksiyalari bo'yicha epidemik nazorat (surveillance) nimani o'z ichiga oladi?
++ kasallanishni uzluksiz kuzatish, ro'yxatga olish va tahlil qilishni
+- faqat bemorlarni statsionarda davolash natijalarini yozib borishni
+- aholini yillik rejali emlash hisobotlarini yig'ishni
+- dori vositalarining narxini tartibga solishni
+- yilning oxirida o'lim holatlarini umumlashtirib hisobot yozishni
+! Nazorat tizimli ma'lumot yig'ish va tahlil orqali tadbirlarni maqsadli rejalashtirish uchun asos beradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Operativ epidemiologik tahlilning retrospektiv tahlildan farqi nimada?
++ kasallanishning kutilmagan ko'tarilishini erta aniqlashga xizmat qiladi
+- ko'p yillik mavsumiy va hududiy qonuniyatlarni aniqlashga xizmat qiladi
+- laboratoriya tasdig'isiz tashxis qo'yishga imkon beradi
+- kasallanishni faqat o'tgan yillar bilan solishtirmasdan baholaydi
+- faqat bitta tuman doirasida qo'llanilib, boshqa hududlarga tatbiq qilinmaydi
+! Operativ tahlil joriy ma'lumotlarni kunma-kun kuzatib, kutilmagan o'sishni vaqtida ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Ichak infeksiyalari bo'yicha dekretlangan kontingentga qaysi xodimlar kiradi?
++ oziq-ovqat, suv ta'minoti va bolalar muassasalari xodimlari
+- bank xodimlari, soliq inspektorlari va kutubxonachilar
+- qurilish ishchilari, haydovchilar va qo'riqchilar
+- tijorat savdosidagi yetkazib beruvchi kuryerlar va reklama agentlari
+- ofis menejerlari, dasturchilar va moliyachilar
+! Bu xodimlar zararlangan taqdirda oziq-ovqat yoki suv orqali ko'p kishiga yuqtirishi mumkin, shuning uchun muntazam tekshiriladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Zamonaviy epidemik nazoratda PZR va sekvenlash kabi molekulyar usullar nima uchun qo'llaniladi?
++ shtammlarni taqqoslab, infeksiya uzatilish zanjirini tiklash uchun
+- bemorning isitmasini kamaytirish va ich ketishni to'xtatish uchun
+- suvni xlorlash dozasini aniqlash uchun
+- aholini ommaviy emlash jadvalini tuzish uchun
+- oziq-ovqatning kaloriyasi va ozuqaviy qiymatini baholash uchun
+! Genetik taqqoslash turli bemorlardan ajratilgan qo'zg'atuvchilar bir manbadan kelganini ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Yo'riqnomaga ko'ra shigellyozda alimentar (oziq-ovqat) yo'l asosan qaysi tur uchun xos?
++ Zonne shigellasi
+- Flekssner shigellasi
+- Boydi shigellasi
+- Grigoryev–Shiga shigellasi
+- Neyshtadt shigellasi
+! Milliy yo'riqnomada oziq-ovqat yo'li asosan Zonne bilan, suv yo'li esa Flekssner bilan bog'langan.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Yo'riqnomaga ko'ra shigellyoz qo'zg'atuvchilarining manbalari kimlar?
++ bemorlar, tranzitor tashuvchilar va rekonvalessentlar
+- uy hayvonlari, kemiruvchilar va parrandalar
+- faqat dori vositalari bilan davolanayotgan bolalar
+- suv havzalaridagi baliqlar va suv qushlari
+- sog'lom odamlar, ularning kasallik tarixidan qat'i nazar
+! Shigellyoz antroponoz bo'lgani sababli manba odam: kasal, vaqtincha tashuvchi yoki tuzalayotgan shaxs.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Yo'riqnomaga ko'ra esherixiozning kam uchraydigan generalizatsiyalashgan shakllari qanday tarzda uchraydi?
++ kasalxona ichi infeksiyasi tarzida
+- qishloq joylarida tabiiy o'choq tarzida
+- sayohatchilar orasida kelib chiqqan holatlar tarzida
+- hayvonlardan odamga o'tuvchi zoonoz epidemiya tarzida
+- vaksinadan keyingi asorat tarzida
+! Esherixiozlar asosan gastroenterit va enterokolit bo'lib, umumlashgan shakllar kasalxona sharoitida uchraydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Maishiy-kontakt yo'lida holatlar suv yo'liga qaraganda qanday tarqaladi?
++ asta-sekin, oilalar ichida
+- keskin, bir vaqtda minglab odamlarda
+- bir manba (vodoprovod) bilan bog'lanib
+- yozgi oylarda, ob-havoga bog'liq holda
+- faqat shahar aholisi orasida, qishloqlardan tashqari
+! Kontakt orqali yuqishda kasallik odamdan odamga ketma-ket o'tadi, shuning uchun holatlar vaqt bo'yicha cho'ziladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Ko'pchilik ichak infeksiyalarida maxsus profilaktika (vaksina) qanday o'rin tutadi?
++ yetakchi emas, sanitariya choralarini to'ldiruvchi qo'shimcha vosita hisoblanadi
+- yagona va yetarli chora bo'lib, sanitariya tadbirlari zarurati qolmaydi
+- hamma ichak infeksiyalariga qarshi ommaviy qo'llanadi va asosiy chora hisoblanadi
+- chaqaloqlarga xos bo'lib, kattalar uchun qo'llanmaydi
+- o'choq bartaraf etilgandan so'ng, uch yildan keyin qo'llaniladi
+! Faqat ayrim OIKga (vabo, gepatit A, rotavirus) vaksina bor, shu sababli yetakchi yo'nalish yuqish yo'llarini uzishdir.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Xalqaro yondashuvga ko'ra ichak infeksiyalarini nazorat qilishda choralar yuqish zanjirining qaysi bo'g'iniga qaratiladi?
++ aralashuvga eng sezgir bo'g'iniga
+- har doim faqat qo'zg'atuvchining o'ziga
+- har doim faqat moyil mezbonga
+- tashqi muhitdagi barcha bo'g'inlarga bir xil hajmda
+- faqat inkubatsion davrdagi bemorlarga
+! Zanjirning eng zaif yoki o'zgartirish oson bo'lgan bo'g'inini uzish eng tez natija beradi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 10
+? Yuqumli ichak kasalliklari uchun suvni zararsizlantirishning qaysi usuli ko'rsatilgan?
++ xlorlash
+- ultratovush bilan ishlov berish
+- magnit maydonida tindirish
+- rentgen nurlari bilan nurlantirish
+- muzlatish
+! Xlorlash ichimlik suvidagi bakteriyalarni yo'qotuvchi asosiy keng qo'llaniladigan usul.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016

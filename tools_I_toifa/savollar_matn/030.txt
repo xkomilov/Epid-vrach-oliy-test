@@ -1,0 +1,100 @@
+=== 030
+? DPM sterilizatsiya bo'limi faoliyatini tekshirishdan asosiy maqsad nima?
++ Sterilizatsiya jarayonining barcha bosqichlari to'g'ri va samarali o'tkazilayotganiga ishonch hosil qilish
+- Bo'lim xodimlarining ish haqini oshirish va mukofotlash tartibini aniqlash, shuningdek ta'til jadvallarini tasdiqlash
+- Muassasaning tashqi ko'rinishi va reklama materiallarini baholash
+- Yangi asbob-uskunalar savdosini kengaytirish va tijorat daromadini oshirish
+- Bemorlarning ovqatlanish ratsionini nazorat qilish va menyuni tasdiqlash
+! Tekshiruv sanitariya-epidemiologik talablarga muvofiqlikni baholab, shifoxona ichi infeksiyalarining oldini olishga xizmat qiladi.
+@ SanQvaM № 0365-19; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Muassasaning o'zi tomonidan, o'z-o'zini nazorat tarzida o'tkaziladigan tekshiruv qanday ataladi?
++ Ichki tekshiruv
+- Rejadan tashqari tekshiruv
+- Tashqi davlat tekshiruvi
+- Rejali tashqi audit
+- Xalqaro akkreditatsiya tekshiruvi
+! Ichki nazoratni muassasaning sifat nazorati komissiyasi muntazam amalga oshiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Tekshiruv usullariga qaysilar kiradi?
++ Kuzatuv, hujjatlarni o'rganish, intervyu va laboratoriya nazorati (surtma, test namunalari)
+- Bino tashqarisidan fotosurat olish, ularni arxivda saqlash va keyin hech qanday tahlilsiz xulosa yozish
+- Anonim xat yozish va javob kutish
+- Telefon orqali so'rov o'tkazish va xulosa chiqarish
+- Xodimlarning shaxsiy ijtimoiy tarmoq sahifalarini ko'rish va baholash
+! Ob'ektiv baho uchun kuzatuv, hujjatlar, suhbat va laboratoriya ma'lumotlari birgalikda ishlatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Tekshiruv paytida xodimlar oqimi va ularning zonalar o'rtasidagi harakati nima uchun nazorat qilinadi?
++ Krest kontaminatsiya (chalkash ifloslanish) xavfini belgilagani uchun
+- Xodimlarning jismoniy chiniqishini va sport ko'rsatkichlarini baholash uchun
+- Ish haqi to'lovini hisoblash va qaydlash uchun
+- Binoning ichki bezagi go'zalligini baholash uchun
+- Muassasaning tashqi reklamasini yaxshilash uchun
+! Xodimlar zonalar o'rtasida nazoratsiz yursa, ifloslik toza va steril hududga o'tishi mumkin.
+@ SanQvaM № 0365-19
+? Sterilizatsiyadan oldingi tozalashda sinama musbat natija bersa, nima deb hisoblanadi?
++ Tozalash samarasiz hisoblanadi va asboblar qayta ishlanadi
+- Tozalash yetarli hisoblanadi va asboblar to'g'ridan-to'g'ri qadoqlanadi
+- Sinama natijasi e'tiborsiz qoldirilib, asboblar steril deb belgilanadi
+- Asboblar faqat quritilib, keyingi bosqichga o'tkaziladi
+- Sinama bekor qilinib, boshqa tekshiruv o'tkazilmaydi
+! Musbat sinama asbobda qon yoki yuvish vositasi qoldig'i borligini bildiradi, bu sterilizatsiya samaradorligini pasaytiradi.
+@ SanPiN № 0278-09; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Fizik nazorat tekshirilganda nimalar baholanadi?
++ Harorat, bosim va vaqt ko'rsatkichlari jurnallari
+- Indikator rangining o'zgarishi, spora o'sishi va ekmalar
+- Xodimlarning kiyim rangi va yoshi
+- Bino devorlarining rangi va yoritilishi
+- Faqat qadoq ustidagi bosma yozuvlarning shrifti
+! Fizik nazorat sterilizatorning ish parametrlarini o'lchash va qayd etish orqali amalga oshiriladi.
+@ SanPiN № 0278-09
+? Kimyoviy nazoratda nimalar tekshiriladi?
++ Indikatorlar ishlatilishi va ularning natijalari
+- Jihozning tashqi bo'yog'i va dizayni
+- Xodimlarning ish staji va yoshi
+- Bino tomining holati, tashqi suvoq va fasad sifati
+- Muassasaning bank hisobidagi qoldiq mablag'
+! Kimyoviy indikatorlar rangi o'zgarishi bilan belgilangan rejimga erishilganini ko'rsatadi.
+@ SanPiN № 0278-09
+? Tekshiruvchi sterilizatsiya jurnallaridagi yozuvlarni nima bilan solishtiradi?
++ Real sterilizatsiya tsikllari bilan
+- Qo'shni davlatdagi muassasalarning jurnallari bilan
+- Faqat o'tgan asrdagi arxiv yozuvlari bilan
+- Bemorlarning shaxsiy dorixonadan olgan cheklari bilan
+- Xodimlarning bayram tabriknomalari bilan
+! Yozuvlar real ishga mos kelmasa, jurnal rasmiy hujjatga aylanib, jarayon nazoratsiz qoladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Xodimlarni tekshirishda qaysi emlanganlik baholanadi?
++ Virusli gepatit B ga qarshi emlanganlik
+- Sariq isitmaga qarshi emlanganlik
+- Vabo vaksinasi bilan emlanganlik
+- Qizamiqqa qarshi bolalikdagi 3 martalik emlanganlik
+- Quturishga qarshi profilaktik emlanganlik
+! Xodimlar qon bilan ifloslangan asboblar bilan ishlagani uchun gepatit B ga qarshi himoya talab qilinadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? 2024-yildagi nizomga ko'ra, terapevtik va ambulatoriya-poliklinika muassasalarida rejali tekshiruv qanday chastotada o'tkaziladi?
++ Yilda ko'pi bilan ikki marta
+- Har oyda kamida bir marta
+- Har chorakda kamida to'rt marta
+- Yilda kamida o'n marta
+- Haftasiga kamida bir marta
+! Xavfi nisbatan past turdagi muassasalarda rejali tekshiruvlar xavfi yuqori muassasalarga qaraganda kamroq belgilangan.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 15.01.2024-yildagi 9-son buyrug'i bilan tasdiqlangan nizom
+? Nizomga ko'ra, rejali va rejadan tashqari tekshiruv muddati qancha bo'lishi kerak?
++ 15 kundan oshmasligi kerak
+- 1 kundan oshmasligi kerak
+- 3 oydan oshmasligi kerak
+- 1 yildan oshmasligi kerak
+- Cheklanmagan, tekshiruvchi xohlagancha davom ettiradi
+! Nizom tekshiruv muddatini cheklab, muassasa faoliyatiga ortiqcha xalaqit bermaslikni ta'minlaydi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 15.01.2024-yildagi 9-son buyrug'i bilan tasdiqlangan nizom
+? Nazorat tartibidagi tekshiruv nimaga qaratiladi?
++ Faqat dalolatnomada ko'rsatilgan kamchiliklarning bartaraf etilishiga
+- Muassasaning butun faoliyatini noldan to'liq qayta tekshirishga
+- Bino qurilishining dastlabki loyihasini qayta ko'rib chiqishga
+- Xodimlarning shaxsiy hayotini va oilaviy ahvolini o'rganishga
+- Muassasa narxlarini bozor narxlari bilan solishtirishga
+! Nazorat tartibidagi tekshiruv dalolatnomada belgilangan kamchiliklar bartaraf etilganini tekshiradi, dalolatnomada bajarish muddati aniq yoziladi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 15.01.2024-yildagi 9-son buyrug'i bilan tasdiqlangan nizom
+#U 030 / 10: 9-son buyruq nusxasi skanerlangan (OCR xatolari), sana va raqami to'liq o'qilmaydi; chastota hozirgi tahrir bilan solishtirilmagan.
+#U 030 / 11: 15 kunlik muddat va nazorat tartibidagi tekshiruv qoidasi faqat mavzu materiali (OCR nusxa) asosida.
+#U 030 / 12: nazorat tartibidagi tekshiruv qoidasi faqat mavzu materiali (OCR nusxa) asosida.

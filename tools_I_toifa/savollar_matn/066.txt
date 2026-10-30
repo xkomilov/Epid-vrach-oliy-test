@@ -1,0 +1,98 @@
+=== 066
+? COVID-19 da asosiy yuqish yo'li qaysi?
++ havo-tomchi (aerozol) yo'li: nafas olganda, gapirganda, yo'talganda ajraladigan zarralar orqali
+- transmissiv yo'l: qon so'ruvchi hasharotlar chaqishi va ularning so'lagi orqali o'tishi
+- najas-og'iz yo'li: ifloslangan suv va oziq-ovqat iste'moli hamda iflos qo'llar orqali
+- vertikal yo'l: ona qornida homilaga o'tish hamda tug'ruq vaqtida chaqaloqqa yuqishi orqali
+- parenteral yo'l: zararlangan tibbiy asboblar, shprits va qon quyish orqali
+! Nafas zarralari yaqin masofada va yopiq, yomon shamollatiladigan xonalarda yuqish xavfini oshiradi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? SARS-CoV-2 yuqori nafas yo'llarida simptomlar boshlanishiga nisbatan qachon aniqlana boshlaydi?
++ simptomlardan 1–3 kun oldin
+- simptomlardan 10 kun oldin
+- simptomlar tugagandan keyin 3 hafta o'tib
+- simptomlardan 1 soat oldin
+- faqat simptomlar boshlanganidan 7 kun keyin
+! Virus miqdori simptomlar boshlanganda eng yuqori bo'ladi, shu sababli simptomlardan oldin ham yuqtirish mumkin.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? Tasdiqlangan simptomsiz holatda kontakt davri qanday hisoblanadi?
++ namuna olishdan 2 kun oldin boshlanib, namuna olingandan keyin 14 kunda tugaydi
+- namuna olingan kundan boshlanib, 3 kun o'tgach tugaydi
+- namuna olishdan 14 kun oldin boshlanib, namuna olingan kuni tugaydi
+- namuna olishdan 7 kun oldin boshlanib, namuna olingandan keyin 28 kunda tugaydi
+- namuna olingandan keyin 48 soat o'tgach boshlanib, 1 oyda tugaydi
+! Kontakt davri inkubatsion davrdagi yuqumlilikni hisobga olib, namuna olishdan oldingi va keyingi kunlarni qamrab oladi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? JSST ma'lumotiga ko'ra COVID-19 da mavsumiylik qanday?
++ aniq mavsumiy naqsh yo'q, virus yil davomida aylanadi
+- sovuq oylarda qayd etiladi, issiq oylarda to'xtaydi
+- yozda keskin ko'tarilib, qishda butunlay yo'qoladi
+- bahor va kuzda ikki to'lqin bilan namoyon bo'ladi
+- tropik mintaqalarda mavsumiy, boshqa joylarda yo'q
+! Aniq mavsumiylikning yo'qligi epidemiyaga qarshi tadbirlarni yil bo'yi saqlashni talab qiladi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? COVID-19 o'tkazgan kishilarning taxminan qancha qismida uzoq davom etuvchi COVID rivojlanadi?
++ taxminan 6%
+- taxminan 60%
+- taxminan 0,1%
+- taxminan 30%
+- taxminan 90%
+! Uzoq davom etuvchi COVID holsizlik, nafas qisilishi va diqqatni jamlashga qiyinchilik bilan kechadi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? JSST ma'lumotiga ko'ra, 2019 yil dekabridan beri dunyoda qancha COVID-19 holati va o'lim qayd etilgan?
++ taxminan 780 million holat va 7,1 milliondan ortiq o'lim
+- taxminan 78 million holat va 710 mingga yaqin o'lim
+- taxminan 7,8 milliard holat va 71 million o'lim
+- taxminan 78 ming holat va 7 mingga yaqin o'lim
+- taxminan 3 million holat va 300 mingga yaqin o'lim
+! Rasmiy qayd etilgan raqamlar haqiqiy ko'rsatkichlardan past deb hisoblanadi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? 2020 yil avgustdagi 201-son buyruqqa ko'ra COVID-19 bemori ahvoli yaxshilangan va PZR manfiy bo'lsa, shifoxonadan qachon chiqarilishi mumkin?
++ 5 kun davolangandan keyin
+- 8 kun davolangandan keyin
+- 3 kun davolangandan keyin
+- 21 kun davolangandan keyin
+- 28 kun davolangandan keyin
+! Manfiy PZR natijasi va ahvolning yaxshilanishi chiqarish muddatini qisqartirishga imkon beradi.
+@ O'zR SSV 2020-yil 5-avgustdagi 201-son buyrug'i
+? «COVID-19-ambulator» tizimida umumiy amaliyot shifokorlari va patronaj hamshiralari biriktirilgan xonadonlar bilan qanday bog'lanadi?
++ har kuni telefon orqali algoritm bo'yicha savol-javob o'tkazadi
+- haftada bir marta xonadonga kirib, to'liq tibbiy ko'rik o'tkazadi
+- ijobiy PZR natijasi bor oilalarga oyiga bir marta SMS yuboradi
+- oyiga bir marta mahalla yig'inida ommaviy so'rov o'tkazadi
+- bemor shifoxonaga yotqizilgandan keyingina qo'ng'iroq qiladi
+! Faol aniqlash kundalik telefon so'rovi orqali amalga oshiriladi.
+@ O'zR SSV 2020-yil 27-iyuldagi 192-son buyrug'i
+? Kuchaytirilgan tartibga ko'ra kasal bilan birga yashovchilar qancha muddat izolyatsiyada bo'lishi shart?
++ 14 kun yoki Sanepidqo'm belgilagan muddat davomida
+- 3 kun, har qanday holatda ham, test natijasidan qat'i nazar
+- 30 kun, shifoxonaning yuqumli kasalliklar bo'limida
+- 7 kun, belgilar paydo bo'lgandagina va uyda
+- 48 soat, agar test manfiy bo'lsa va belgilar bo'lmasa
+! Qaror inkubatsion davrga mos 14 kunlik izolyatsiyani yoki sanitariya-epidemiologiya qo'mitasi belgilagan muddatni nazarda tutadi.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? JSST ma'lumotiga ko'ra Omikron variantlarida inkubatsion davr oldingi variantlarga nisbatan qanday?
++ qisqaroq, simptomlar odatda 3–6 kun o'tib boshlanadi
+- uzoqroq, simptomlar 3 haftadan keyin boshlanadi
+- o'zgarmagan, avvalgidek 14–21 kun
+- umuman bo'lmaydi, simptomlar bir zumda paydo bo'ladi
+- uzoqroq, odatda 30–40 kun
+! Omikron variantlarida yuqish tezroq kechadi, chunki yashirin davr qisqaroq.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? JSST ma'lumotiga ko'ra hozirgi variantlarda eng ko'p uchraydigan belgilar qaysilar?
++ isitma, qaltirash va tomoq og'rig'i
+- hid va ta'mning to'liq yo'qolishi hamda og'ir hansirash
+- qon bilan yo'tal va ko'krak qafasida kuchli og'riq
+- ich ketish va qayt qilish bilan suvsizlanish
+- toshma, konyunktivit va limfa tugunlarining kattalashuvi
+! Hid va ta'm o'zgarishi hozirgi variantlarda kamroq uchraydigan belgilar qatoriga kiradi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+? COVID-19 da og'ir kasallik xavfi yuqori guruhlarga qaysilar kiradi?
++ keksalar, diabet, semizlik, surunkali o'pka-yurak-jigar-buyrak kasalliklari bor va emlanmagan odamlar
+- 5 yoshgacha sog'lom bolalar va yosh sportchilar, sog'lom jismoniy faol odamlar ham
+- emlangan, sog'lom 20–30 yoshli kattalar, ya'ni hamroh kasalliklari yo'q odamlar
+- sog'lom jismoniy mehnat bilan shug'ullanuvchi erkaklar, surunkali kasalliklarsiz
+- OIV infeksiyasi bo'lmagan va surunkali kasalliklarsiz 40 yoshli ayollar, shuningdek to'liq emlangan odamlar
+! Xavf yosh, hamroh kasalliklar va emlanmaganlik bilan oshadi.
+@ World Health Organization. Coronavirus disease (COVID-19) (fact sheet)
+#D 066 / 10: ma'ruzada inkubatsion davr 2–14 kun (o'rtacha 10 kun) deb berilgan, JSST ma'lumotida Omikron variantlarida 3–6 kun; savol JSST ma'lumotiga tayanadi.

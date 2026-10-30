@@ -1,0 +1,98 @@
+=== 116
+? Lyamblioz qo'zg'atuvchisi qaysi mikroorganizm?
++ Lamblia (Giardia) intestinalis
+- Entamoeba histolytica (dizenteriya amebasi)
+- Balantidium coli
+- Cryptosporidium parvum
+- Trichomonas vaginalis
+! Lyamblioz ichak protozoozi bo'lib, uning qo'zg'atuvchisi 1859 yilda D.F. Lyambl tomonidan topilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.10-bo'lim
+? Lyambliyaning qaysi shakli tashqi muhitda uzoq saqlanadi va yuqish omili hisoblanadi?
++ sista
+- vegetativ shakl (trofozoit)
+- shizont
+- gametotsit
+- ootsista
+! Sistalar ingichka ichakning pastki qismida hosil bo'lib, najas bilan chiqadi va yuqish omili bo'lib xizmat qiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyamblioz uchun yuqish mexanizmi va asosiy yo'llar qaysilar?
++ fekal-oral mexanizm; suv va maishiy-kontakt yo'llari
+- aspiratsion mexanizm; havo-tomchi va havo-chang yo'llari
+- transmissiv mexanizm; chivin va burga chaqishi yo'llari
+- kontakt mexanizm; faqat jinsiy yo'l va qon quyish yo'llari
+- vertikal mexanizm; faqat onadan bolaga tug'ruq vaqtida yo'llari
+! Avj olishlar asosan suv orqali bo'ladi, maishiy yo'l esa bolalar muassasalarida kuzatiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyambliya sistalari qaysi dezinfeksiya omilga chidamli?
++ xlor
+- yuqori harorat
+- ultrabinafsha nurlari
+- quritish
+- qaynatish
+! Sistalar xlorga chidamli bo'lgani uchun dezinfeksiyada yuvuvchi-dezinfeksiyalovchi vositalar va ultrabinafsha nurlanish qo'llanadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyamblioz bilan eng ko'p kasallanadigan aholi guruhi qaysi?
++ bolalar, ayniqsa 9 yoshgacha
+- 40–50 yoshdagi erkaklar
+- homilador ayollar
+- 60 yoshdan oshgan keksalar
+- sog'lom o'smir qizlar
+! Kasallanish 9 yoshgacha bolalarda kattalarga nisbatan 2–3 marta ko'p, bolalarda zararlanish 15–20% ni tashkil etadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyamblioz mavsumiyligi qanday?
++ bahor (aprel–may) va yoz oylarida ko'payadi
+- qish oylarida (dekabr–fevral) keskin ko'payadi
+- kuz oxirida (noyabr) kuzatiladi, boshqa fasllarda uchramaydi
+- butun yil davomida mutlaqo bir xil darajada bo'ladi
+- yanvar–mart oylarida yig'iladi, yozda deyarli uchramaydi
+! Xavf guruhlari orasida shaxsiy gigiena ko'nikmasi yo'q bolalar va ayrim kasbiy guruhlar ham ajratiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyambliozda doimiy surunkali shaklda sistalar davriy ajraladi. Shuning uchun tashxis uchun qaysi tavsiya berilgan?
++ 2–4 hafta ichida najasni 5–6 marta tekshirish
+- bir martalik najas tekshiruvi bilan chegaralanish
+- qon zardobida IgE aniqlash bilan cheklanish
+- siydik tahlili va umumiy qon tahlili bilan cheklanish
+- 6 oy davomida har kuni najas tekshirish
+! Sistalar bir tekis ajralmaydi, shu sababli bitta manfiy natija kasallikni inkor etmaydi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyamblioz bilan og'rigan yoki tashuvchi bo'lgan shaxslar uchun dispanser kuzatuvi qancha davom etadi?
++ kamida 12 oy
+- 1 hafta, bir marta tekshirilgach
+- 1 oy, bir marta tekshirilgach
+- 3 oy, bir marta tekshirilgach
+- 5 yil, umrbod hisobdan chiqarilmasdan
+! Kuzatuv davrida tibbiy ko'rik va laborator tekshiruv choraklik o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyamblioz qaysi hollarda laborator tekshirish uchun ko'rsatma hisoblanadi?
++ sababi noaniq diareya, jismoniy rivojlanishdan orqada qolish va immuntanqislik
+- yangi tug'ilgan chaqaloqda yo'q bo'lgan ko'zlarda ko'rish o'tkirligining pasayishi
+- suyak sinishidan keyingi reabilitatsiya davridagi og'riq sindromi
+- tish karies va milk yallig'lanishi bo'lgan bemorlarda
+- qon bosimi ko'tarilishi bilan kechadigan gipertoniya kasalligida
+! Yo'riqnomada dermatit, eshakem, obstruktiv bronxit va surunkali oshqozon-ichak kasalliklari ham ko'rsatma sifatida keltirilgan.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Sanitariya-gigiena tadbirlarisiz bolalar muassasalarida bemor va tashuvchilarni davolash qanday natija beradi?
++ tez natija beradi, ammo bu qisqa muddatli bo'ladi
+- uzoq muddatli to'liq sog'lomlashtirishga olib keladi
+- hech qanday natija bermaydi, chunki dori sistalarga ta'sir qilmaydi
+- sistalarni tashqi muhitda ko'paytiradi
+- epidemik jarayonni butunlay to'xtatib qo'yadi
+! Qayta zararlanish davom etgani uchun faqat davolash yetarli emas, umumsanitariya choralari ham kerak.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.10-bo'lim
+? Lyamblioz oqsil so'rilishining buzilishiga olib kelishi sababli bolalarda nimaga ta'sir qiladi?
++ emlash samarasi kamayadi
+- tug'ma immunitet butunlay mustahkamlanadi
+- ichakda sista hosil bo'lishi to'xtaydi
+- vitamin K tanqisligi sababli qon ivishi tezlashadi
+- oshqozon shirasi kislotaligi keskin ortadi
+! Oziqlanish va immun javob buzilishi sababli vaksinadan keyingi himoya pasayadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Lyambliyaning ultrabinafsha nurlari ta'sirida nobud bo'lishi uchun qaysi doza ko'rsatilgan?
++ ≥40 mJ/sm²
+- ≥1 mJ/sm²
+- ≥400 mJ/sm²
+- ≥4000 mJ/sm²
+- ≥0,1 mJ/sm²
+! Ultrabinafsha nurlari xlorga chidamli sistalar uchun muqobil zararsizlantirish vositasi hisoblanadi.
+@ Mavzu materiali (116.docx)
+#U 116 / 11: ultrabinafsha nurlari dozasi (≥40 mJ/sm²) faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.

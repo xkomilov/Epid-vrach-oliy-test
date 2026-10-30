@@ -1,0 +1,98 @@
+=== 109
+? Bezgakdan holi deb sertifikatlangan mamlakat uchun asosiy xavf qaysi?
++ kasallikning chetdan kirib kelishi va mahalliy yuqishning qayta tiklanishi
+- mahalliy chivinlarning bezgak qo'zg'atuvchisini mustaqil ravishda yaratishi
+- qo'zg'atuvchining tashqi muhitda sporalar hosil qilib saqlanishi
+- hayvonlar orasida bezgak o'choqlarining tabiiy shakllanishi
+- kasallikning aholi orasida havo-tomchi yo'li bilan tarqalishi
+! Sertifikatdan keyin mahalliy yuqish yo'q bo'lgani uchun xavf import qilingan holatlar va ularni tarqatishi mumkin bo'lgan chivinlar bilan bog'liq.
+@ WHO. WHO certifies that Uzbekistan has eliminated malaria (2018); O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova
+? Bezgakning chetdan kirib kelishi nechta turda bo'lishi mumkin va ular qaysilar?
++ uch tur: bemor yoki tashuvchi odamlar bilan, chivinlarning uchib kirishi (faol) va transportda kelgan chivinlar (passiv)
+- ikki tur: havo-tomchi yo'li bilan kirib kelish hamda ifloslangan suv orqali tashqaridan tushish va tarqalish
+- bir tur: endemik mamlakatlardan keltirilgan dori vositalari va oziq-ovqat bilan birga kirish
+- to'rt tur: oziq-ovqat, suv, tuproq va maishiy buyumlar orqali o'z-o'zidan kirib kelish va saqlanish
+- uch tur: kemiruvchilar, ko'chmanchi qushlar va uy hayvonlari orqali tabiiy yo'l bilan kirib kelish va tarqalish
+! Kirib kelish odamlar orqali, chegaradosh hududdan chivinlarning o'zi uchib kirishi yoki transport vositalarida passiv ravishda kelishi mumkin.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Endemik mamlakatlarga ketayotgan shaxslarga bezgakning oldini olish bo'yicha maslahat qayerda beriladi?
++ shahar va tuman tibbiyot birlashmalari qoshidagi maslahat berish xonalarida
+- aeroportdagi bojxona nazorati punktlarida va chegara postlarida, chiptalar sotilayotganda
+- mahalla fuqarolar yig'inlarining majlislarida, har chorakda o'tkaziladigan yig'inlarda
+- maktab va bog'chalarning tarbiyaviy ishlar xonalarida, o'qituvchilar yordamida
+- dorixonalarda, retsept asosida dori sotish paytida, farmatsevt tomonidan
+! Maslahat xonalarida yuqish yo'llari, klinik belgilar va chivin chaqishidan saqlanish usullari tushuntiriladi, eslatmalar beriladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Xorijiy davlatlarga borib kelgan shaxslar qancha muddat dispanser nazoratiga olinadi?
++ 3 yil davomida
+- 14 kun davomida
+- 6 oy davomida
+- 1 yil davomida
+- 10 yil davomida
+! Ularning ambulator kartasiga «Xorijdan kelgan» belgisi qo'yiladi va laborator tekshiriladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Ambulator kartaga xorijdan kelgan shaxslar uchun qanday belgi qo'yiladi?
++ «Xorijdan kelgan»
+- «Bezgak gumon»
+- «Xavfli kontakt»
+- «Karantinda»
+- «Import qilingan»
+! Belgi shaxsni hisobga olish va nazorat qilishni osonlashtiradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Chegaradosh hududlarda chivinlarga qarshi kurash qancha masofada o'tkaziladi?
++ 3 km masofada
+- 300 m masofada
+- 1 km masofada
+- 10 km masofada
+- 30 km masofada
+! Masofa urg'ochi Anopheles chivinining uchish radiusiga mos keladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak); Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Shikoyat qilmayotgan aholi orasida faol aniqlash va ommaviy tekshiruv qachon o'tkaziladi?
++ o'ta zarur hollarda, masalan endemik hududlardan kelgan migrantlar orasida
+- butun aholi orasida yilda bir marta rejali ravishda, bir xil tartibda va majburiy
+- maktab o'quvchilarining qonini chorakda bir marta tekshirib
+- barcha donorlar va sog'lom aholini oyda bir marta ommaviy tekshirib
+- hududda isitma bo'lmasa ham, kunlik uyma-uy yurish orqali
+! Shikoyatsiz aholida faol aniqlash qimmat va kam samarali, shu sababli u xavfi yuqori guruhlar bilan cheklanadi.
+@ Umirov S.E. va boshq. Bezgakning etiologiyasi... (uslubiy qo'llanma, 2009)
+? Uyma-uy yuruvchi brigada qanday tarkibda bo'ladi?
++ 3 o'rta tibbiy xodim va 1 vrach
+- 1 o'rta tibbiy xodim va 3 vrach
+- 2 vrach va 2 hamshira
+- 5 o'rta tibbiy xodim
+- 1 vrach
+! Brigada isitmali bemorlarni davolash va qon namunasini olish uchun termometr va steril to'plam bilan ta'minlanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Aeroportdagi sanitariya nazorati punktining bezgakka oid vazifasi nima?
++ samolyotlarni bezgak chivinlariga tekshirish va aeroport hududida chivinlarga qarshi tadbirlar o'tkazish
+- yo'lovchilarning barchasiga qon quyish va bezgakka qarshi vaksina yuborish hamda ularni qayd etish
+- samolyot dvigatellarini texnik tekshirish va uchish yo'lagini tungi yoritish ishlarini nazorat qilish
+- bojxona to'lovlarini undirish va yuk hujjatlarini tekshirish hamda ularni rasmiylashtirish
+- bagajdagi dori vositalarini musodara qilish va ularni yo'qotish choralarini ko'rish
+! Transport orqali passiv kirib kelgan chivinlarni topish va yo'qotish tadbirlari sanitariya punktlari vazifasi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Chetdan keltirilgan bezgak holati aniqlanganda holat qanday tasniflanadi va kontaktdagilar necha kun kuzatiladi?
++ «olib kelingan»; kontaktdagilar 21 kun kuzatiladi
+- «mahalliy»; kontaktdagilar 7 kun kuzatiladi
+- «emlangan»; kontaktdagilar 14 kun kuzatiladi
+- «qaytalangan»; kontaktdagilar 30 kun kuzatiladi
+- «yolg'on»; kontaktdagilar 3 kun kuzatiladi
+! Chetdan kelgan holat «olib kelingan» deb tasniflanadi, o'choq kategoriyalanadi va 3 km radiusda chivinlarga qarshi ishlov o'tkaziladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Chetdan keltirilgan tropik bezgak bilan og'rigan bemorga yuqish mavsumida qo'shimcha qanday davo beriladi?
++ gametotsitlarga qarshi davo
+- gipnozoitlarga qarshi davo
+- virusga qarshi davo
+- antigelmint davo
+- bakteriyaga qarshi davo
+! Gametotsitlar chivinga yuqish uchun asos bo'lgani sababli ularni yo'qotish epidemiyaga qarshi chora hisoblanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Bezgak holati aniqlangan kuni parazitolog va entomolog o'choqda nima qiladi?
++ epidemiologik va entomologik tekshiruv o'tkazadi
+- faqat bemor yaqinlariga tushuntirish xatini topshiradi
+- hududda ommaviy emlash o'tkazishni boshlaydi
+- bemorni sud tartibida majburiy davolashga yuboradi
+- qo'shni tumanlarga ma'lumot bermay, kuzatadi
+! Ma'lumot olingan kuni o'tkaziladigan tezkor tekshiruv manba, chivinlar va kontaktdagilarni aniqlashga imkon beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+#U 109 / 7: faol aniqlash taktikasi migrantlar uchun mosligi haqidagi fikr muallif xulosasi; savol faqat qo'llanma va yo'riqnomadagi mazmunga tayanadi.

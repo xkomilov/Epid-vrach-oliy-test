@@ -1,0 +1,98 @@
+=== 039
+? Uzluksiz sovuqlik zanjirining tarkibiy qismlari qaysilar?
++ Jihozlar, tashish vositalari va malakali xodimlar hamda nazorat tartiblari
+- Vaksina ishlab chiqarish zavodlari, bojxona omborlari va reklama xizmatlari
+- Elektr ta'minoti tarmog'i, suv quvurlari va kanalizatsiya tizimlari
+- Emlash xonalari, bemorlar ro'yxati va hisobot shakllari
+- Dori-darmon ombori, apteka tarmog'i va sug'urta kompaniyalari
+! Zanjirning uchala tarkibiy qismi vaksina haroratini barcha bo'g'inlarda belgilangan oraliqda ushlab turishga xizmat qiladi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Ko'pchilik vaksinalar uchun standart saqlash harorati qanday?
++ +2 °C dan +8 °C gacha
+- -5 °C dan -10 °C gacha
+- +10 °C dan +15 °C gacha
+- +15 °C dan +25 °C gacha
+- -20 °C dan -25 °C gacha
+! Bu oraliq vaksinalarning immunogenligini saqlash uchun JSST tomonidan tavsiya etilgan.
+@ WHO. Immunization in practice: a practical guide for health staff; SanQvaM № 0239-07/3
+? Quyidagi vaksinalardan qaysi biri adsorbsiyalangan bo'lib, uni muzlatish qat'iyan taqiqlanadi?
++ Virusli gepatit B ga qarshi vaksina
+- Poliomielitga qarshi tirik og'iz vaksinasi (OPV)
+- BSJ vaksinasi (silga qarshi tirik vaksina)
+- Rotavirusga qarshi tirik og'iz vaksinasi
+- Qizamiq-qizilcha-parotit tirik vaksinasi
+! Adsorbsiyalangan vaksinalar muzlaganda cho'kma hosil qilib, samaradorligini yo'qotadi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Muzlagan bo'lishi mumkin bo'lgan adsorbsiyalangan vaksinani tekshirish uchun qaysi sinov qo'llaniladi?
++ Chayqatish sinovi (shake test)
+- Tuberkulin sinamasi (Mantu sinovi)
+- Azopiram sinamasi (yashirin qon uchun)
+- Gram usulida bo'yash va mikroskopiya
+- Biologik indikator sinovi (test-sporalar)
+! Muzlab erigan vaksina tez cho'kma hosil qiladi, bu esa uning yaroqsizligini ko'rsatadi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? FEFO tamoyiliga ko'ra vaksinalar qanday tartibda ishlatiladi?
++ Yaroqlilik muddati avval tugaydigan vaksina birinchi ishlatiladi
+- Omborga oxirgi kelgan vaksina birinchi navbatda ishlatiladi
+- Eng qimmat narxdagi vaksina birinchi navbatda ishlatiladi
+- Eng katta hajmdagi flakon birinchi navbatda ochiladi
+- Tasodifiy tartibda tanlangan flakon birinchi ochiladi
+! Bu tamoyil muddati o'tib ketib yo'qotilgan vaksinalarni kamaytiradi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Vaksina flakoni monitori (VVM) nimani ko'rsatadi?
++ Vaksina qancha vaqt issiqlikka ta'sirlanganini
+- Flakondagi vaksina dozasining qancha qismi ishlatilganini
+- Vaksina muzlab erigan yoki erimaganini va undagi cho'kma hajmini
+- Vaksinaning ishlab chiqarilgan sanasi va seriya raqamini
+- Flakondagi vaksinaning yaroqlilik muddati tugagan yoki tugamaganini
+! Indikator issiqlik ta'sirida asta-sekin rangi o'zgaradi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Muzlatgichdagi harorat nazorat qilinganda uni qancha tez-tez o'lchash tavsiya etiladi?
++ Kuniga kamida ikki marta
+- Oyda kamida bir marta
+- Haftada kamida bir marta
+- Yilda kamida ikki marta
+- Elektr uzilishi sodir bo'lgandagina
+! Natijalar maxsus jurnalda qayd etiladi.
+@ Mavzu materiali (039.docx)
+? Vaksina tashishdan oldin muz akkumulyatorlari nima uchun konditsiyalanadi?
++ Muzlashga sezgir vaksina haddan ortiq sovib, muzlab qolmasligi uchun
+- Vaksina ichidagi mikroblarni zararsizlantirish va sterillikni oshirish uchun
+- Sumkadagi vaksinalarning massasini kamaytirib, tashishni yengillashtirish uchun
+- Vaksina flakonini yorug'likdan to'liq himoya qilish uchun
+- Sumkaga sig'adigan muz miqdorini ko'paytirish va tashish vaqtini uzaytirish uchun
+! Akkumulyatorlar sirtida kondensat paydo bo'lguncha ushlab turiladi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Vaksinalarni muzlatgich eshigidagi javonlarda saqlamaslik nima uchun tavsiya etiladi?
++ U yerda harorat beqaror bo'ladi
+- U yerda yorug'lik kuchli bo'lib, vaksinalar tez ko'rinib qoladi
+- U yerda namlik juda past bo'lib, flakon yorliqlari yopishmay qoladi
+- U yerda joy tor bo'lgani uchun faqat bitta flakon sig'adi
+- U yerda havo aylanishi juda kuchli bo'lib, vaksinalar quriydi
+! Eshik tez-tez ochilganda harorat keskin o'zgaradi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Sovuqlik zanjiri buzilgan vaksina bilan emlangan shaxs haqida qaysi fikr to'g'ri?
++ U himoyalanmagan bo'lib qoladi, lekin rasman emlangan hisoblanadi
+- U vaqtincha himoyalanadi, ammo kasallik yengil o'tadi
+- U boshqalarga infeksiya yuqtirib, jamoaviy immunitetni oshiradi
+- U emlanmagan hisoblanadi va avtomatik ravishda qayta emlanadi
+- U boshqa emlanganlar uchun xavf tug'diradi va infeksiya manbaiga aylanadi
+! Bunday holat aholining haqiqiy immun qatlamini pasaytiradi.
+@ WHO. Immunization in practice: a practical guide for health staff
+? Milliy qoidalarga ko'ra, qaysi vaksinani muzlatish mumkin?
++ OPV
+- BSJ
+- AKDS
+- Rotavirus vaksinasi
+- KPK
+! Muzlatish faqat shu tirik vaksina uchun ruxsat etilgan, qolgan preparatlar +2…+8 °C da saqlanadi.
+@ SanQvaM № 0239-07/3
+? Ba'zi mRNK vaksinalar qaysi haroratda saqlanishi kerak?
++ -60 °C dan -80 °C gacha
+- +2 °C dan +8 °C gacha
+- -5 °C dan -15 °C gacha
+- +15 °C dan +25 °C gacha
+- -15 °C dan -25 °C gacha
+! Bunday vaksinalar eritilgandan keyin cheklangan muddat ichida ishlatiladi.
+@ WHO. Immunization in practice: a practical guide for health staff
+#U 039 / 7: muzlatgich haroratini kuniga kamida ikki marta o'lchash faqat mavzu materialiga tayanadi

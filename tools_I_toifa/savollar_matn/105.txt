@@ -1,0 +1,98 @@
+=== 105
+? Bezgakning uch kunlik shaklini qaysi plazmodiy turi qo'zg'atadi?
++ Plasmodium vivax
+- Plasmodium malariae
+- Plasmodium falciparum
+- Plasmodium ovale
+- Plasmodium knowlesi
+! P. vivax har 48 soatda eritrotsitar shizogoniya tugallashi sababli «tertiana» deb ataladi, to'rt kunlik shakl esa P. malariae bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? Eritrotsitar shizogoniyaning davomiyligi P. malariae da qancha soat?
++ 72 soat
+- 24 soat
+- 36 soat
+- 48 soat
+- 96 soat
+! To'rt kunlik bezgakda eritrotsitar sikl uch sutka davom etadi, boshqa turlarda esa u 48 soatni tashkil etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? JSST bo'yicha qaysi bezgak turi eng halokatli hisoblanadi va davolanmasa 24 soat ichida og'ir kasallikka olib kelishi mumkin?
++ P. falciparum
+- P. vivax, chunki u keng tarqalgan
+- P. malariae
+- P. ovale, Afrikada uchraydigan
+- P. knowlesi
+! Tropik bezgak qo'zg'atuvchisi eritrotsitlarni keng ko'lamda zararlashi sababli tez og'irlashadi, shu bois gumon qilinganda davolash kechiktirilmaydi.
+@ WHO. Malaria (fact sheet)
+? Bezgakning kechiktirilgan retsidivlari qaysi parazit shakli bilan bog'liq?
++ P. vivax ning jigarda mudroq turuvchi bradisporozoitlari (gipnozoitlar)
+- P. falciparum ning qonda aylanuvchi gametotsitlari va shizontlari
+- P. malariae ning eritrotsitlardagi yosh trofozoitlari va merozoitlari
+- Anopheles chivinining so'lak bezlaridagi sporozoitlari va oositlari
+- P. knowlesi ning maymun qonidagi trofozoitlari va gametotsitlari
+! Ayrim sporozoitlar jigarda 8–14 oy yoki undan ko'proq mudroq turib, keyin faollashadi va qaytalanishga olib keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? O'zbekistonda Anopheles chivinlarining nechta turi bor va qaysi biri eng ko'p uchraydi?
++ 9 ta tur; eng ko'pi A. maculipennis
+- 3 ta tur; eng ko'pi A. stephensi
+- 5 ta tur; eng ko'pi A. gambiae
+- 15 ta tur; eng ko'pi A. funestus
+- 25 ta tur; eng ko'pi A. culicifacies
+! Mamlakatda 9 tur qayd etilgan, shulardan A. maculipennis keng tarqalgan va asosiy tashuvchilardan biri.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? Urg'ochi Anopheles chivini qancha radiusda uchishi mumkin?
++ 3 km radiusda
+- 100 m radiusda
+- 500 m radiusda
+- 10 km radiusda
+- 30 km radiusda
+! Uchish masofasi o'choqdagi chivinlarga qarshi tadbirlar o'tkaziladigan hudud chegarasini belgilaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? Bezgak gumon qilinganda bemordan kamida nechta qon preparati olinadi?
++ kamida 2 ta
+- faqat 1 ta
+- kamida 4 ta
+- kamida 6 ta
+- kamida 10 ta
+! Bitta preparatda parazit kam bo'lganda topilmay qolishi mumkin, shuning uchun kamida ikkita preparat tayyorlanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Bezgak tashxisi qo'yilgan holatda isitma deb qaysi harorat hisoblanadi?
++ 37,5 °C dan yuqori harorat
+- 36,6 °C dan yuqori harorat
+- 37,0 °C dan yuqori harorat
+- 38,5 °C dan yuqori harorat
+- 39,5 °C dan yuqori harorat
+! Milliy yo'riqnomada isitma uchun 37,5 °C chegarasi qabul qilingan, bu gumon qilinganlarni o'z vaqtida aniqlashga imkon beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Uch kunlik va tropik bezgak bilan og'riganlar qancha muddat dispanser nazoratida turadi?
++ uch kunlik bilan 3 yil, tropik bilan 1 yil
+- uch kunlik bilan 1 yil, tropik bilan 3 yil
+- uch kunlik bilan 6 oy, tropik bilan 1 yil
+- ikkala shakl bilan ham 5 yil davomida
+- ikkala shakl bilan ham 3 oy davomida
+! Vivax retsidivlari uzoq vaqtdan keyin ham bo'lishi mumkinligi uchun uch kunlik bezgakda nazorat uzoqroq davom etadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Binolarga qoldiq ta'sirli insektitsidlar bilan ishlov berishda qamrov kamida qancha bo'lishi kerak?
++ 90–95 foiz
+- 40–45 foiz
+- 60–65 foiz
+- 70–75 foiz
+- 100 foiz
+! Yuqori qamrov chivinlar sonini yetarli darajada kamaytiradi, past qamrov esa samaradorlikni pasaytiradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Bezgak o'chog'ida kontaktdagilar necha kun tibbiy kuzatuvda bo'ladi?
++ 21 kun
+- 7 kun
+- 10 kun
+- 14 kun
+- 30 kun
+! Kontaktdagilar o'choqda yashirin davr hisobga olinib, bir necha hafta kuzatiladi va tekshiriladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? JSST bezgakni bartaraf etish (elimination) ni qanday ta'riflaydi?
++ belgilangan hududda ma'lum bezgak turining mahalliy yuqishini maqsadli tadbirlar bilan to'xtatish
+- dunyoda barcha bezgak turlarining so'nggi qo'zg'atuvchisini to'liq yo'qotish va tugatish
+- hududdagi barcha Anopheles chivinlarini kimyoviy vositalar bilan batamom yo'qotish
+- chetdan keltirilgan barcha holatlarni to'xtatib, mahalliy kasallanishni 50% ga kamaytirish
+- bezgakdan o'limni nolga tushirish va kasallanishni yillik kuzatuv ostida saqlash
+! Bartaraf etishda xalqaro chegara emas, aniq hudud va tur nazarda tutiladi, shuning uchun chetdan kelgan holatlar bo'lishi mumkin.
+@ WHO. Malaria (fact sheet); WHO. WHO certifies that Uzbekistan has eliminated malaria (2018)
+#U 105 / 5: bezgak tarqalishidagi A. maculipennis ulushi va turlar soni faqat darslik/qo'llanmaga tayangan.

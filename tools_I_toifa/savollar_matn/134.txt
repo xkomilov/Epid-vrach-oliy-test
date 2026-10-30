@@ -1,0 +1,97 @@
+=== 134
+? Tibbiy xodimda o'tkir asbob bilan jarohat paytida OIV yuqishining o'rtacha xavfi qancha?
++ 0,23% atrofida
+- 2,3% atrofida
+- 0,009% atrofida
+- 10% atrofida
+- 30% atrofida
+! Xavf manbadagi virus yuklamasi va jarohat chuqurligiga qarab o'zgaradi, o'rtacha ko'rsatkich esa bir foizdan ancha past.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Xodimning shilliq qavati OIV bilan zararlangan material bilan kontaktda bo'lganda o'rtacha yuqish xavfi qanday?
++ 0,09%
+- 0,9%
+- 3%
+- 0,23%
+- 5%
+! Shilliq qavat orqali yuqish xavfi o'tkir asbob bilan jarohatdagiga qaraganda past.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Igna jarohati olgan xodimga birinchi yordam sifatida qaysi harakat tavsiya etiladi?
++ jarohatni sovun bilan yuvib, oqar suv ostida tutish
+- jarohatni spirt yoki yod eritmasi bilan kuydirish, so'ng bog'lam qo'yish
+- jarohatni qisib, qonni siqib chiqarish va oqartiruvchi suyuqlik bilan ishlov berish
+- jarohatni og'iz bilan so'rib, qonni tupurib tashlash
+- jarohat ustiga bog'lam qo'yib, 24 soat ochmaslik
+! Jarohatni ezish va kuchli antiseptiklar to'qimani zararlab, mexanik tozalashga xalaqit berishi mumkin.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Xavfli kontaktdan keyin kontaktdan keyingi profilaktika qaysi muddat ichida ko'rib chiqiladi va qancha davom etadi?
++ 72 soat ichida, 28 kun
+- 24 soat ichida, 7 kun
+- 7 kun ichida, 14 kun
+- 72 soat ichida, 3 oy
+- 2 soat ichida, 28 kun
+! Profilaktikaning ta'siri erta boshlanganda yuqori, muddati esa bir oydan iborat.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Tashqi muhitda OIV qaysi sharoitda inaktivatsiya bo'ladi?
++ 56 °C da 30 daqiqa qizdirilganda
+- 37 °C da 30 daqiqa saqlanganda
+- 80 °C da 1 soat qizdirilganda, lekin qaynatishda barqaror qoladi
+- 40 °C da 2 soat, 0,01% eritmada
+- xona haroratida quritilganda 3 kun mobaynida
+! Virus tashqi muhitda chidamsiz, shu sababli oddiy termik va kimyoviy ishlov uni zararsizlantiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Kasbga oid kontaktni qayd qilish hujjatlari OITS markazlariga qancha vaqt ichida yuboriladi?
++ 72 soatdan kechiktirmay
+- 24 soat ichida, har bir xodim uchun alohida
+- 7 kun ichida, chorak yakunida jamlangan holda
+- keyingi oyning 5-sanasigacha, hisobot bilan birga
+- 30 kun ichida, davolash komissiyasi xulosasi bilan
+! Tibbiy avariya holatlarida profilaktika va nazorat tezkor o'tkazilishi uchun ma'lumot tez uzatiladi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? Yangi qabul qilingan DPM xodimlari OITSga qarshi kurash markazlariga qancha ish kuni ichida yo'naltiriladi?
++ 30 ish kuni ichida
+- 3 ish kuni ichida
+- 10 ish kuni ichida
+- 90 ish kuni ichida
+- 6 oy ichida
+! Tadbir xodimlar bilimini oshirish rejasi doirasida belgilangan.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? Quyidagi mezonlardan qaysi biri OIVning shifoxona ichida yuqishini gumon qilishga asos bo'ladi?
++ bemor 18 yoshgacha, onasi sog'lom va tartibsiz jinsiy aloqalar inkor etilgan
+- bemor 40 yoshdan oshgan va giyohvand moddalarni ko'p yillar in'ektsion qabul qilgan
+- bemorning jinsiy sherigi OIV bilan yashaydi va prezervativdan foydalanilmagan
+- onasi OIV bilan yashaydi, bola esa tug'ruqdan keyin ko'krak suti bilan oziqlangan
+- bemor yaqinda chet eldan qaytgan va xavfli jinsiy aloqada bo'lgan
+! Boshqa yuqish yo'llari inkor etilganda, tibbiy muolajalar yuqish manbai bo'lishi ehtimoli kuchayadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Xususiy DPMda epidemiologik surishtiruv o'tkazish uchun kimdan ruxsat so'raladi?
++ Litsenziyalash va akkreditatsiyalash boshqarmasidan
+- muassasa asoschisidan va ta'sischilar yig'ilishi yozma qarori asosida
+- hududiy prokuratura organidan
+- sud tibbiy ekspertiza byurosidan
+- bemorning o'zidan yoki qonuniy vakilidan
+! Xususiy muassasada tekshiruv uchun nazorat qiluvchi organning ruxsati talab qilinadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Retrospektiv surishtiruv yakunlari qanday rasmiylashtiriladi?
++ konsilium bayonnomasi bilan, muassasaga 4-shakl bo'yicha bildirishnoma yuboriladi
+- bosh shifokor buyrug'i bilan, hududiy boshqarmaga hisobot hamda ma'lumotnoma taqdim etiladi
+- bemorning ambulator kartasiga yozuv kiritilib, muassasaga yuborilmaydi
+- sud qarori bilan, ishtirokchilarga 1-shakl bo'yicha ma'lumot beriladi
+- faqat og'zaki xulosa tarzida, tibbiy kengashga
+! Xulosa bir necha mutaxassisning jamoaviy fikriga asoslanishi kerak.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Xodim uchun potensial xavfli material qaysi?
++ qon va ko'zga ko'rinadigan qon aralashgan suyuqliklar
+- ko'rinadigan qon aralashmasi bo'lmagan so'lak va balg'am
+- ko'z yoshi, ter va siydik, aralashmasi bo'lmaganda
+- najas va qusuq massalari, qon aralashmasi ko'rinmaganda
+- burun ajralmasi, ko'rinadigan qon bo'lmaganda
+! Qon aralashmasi bo'lmagan suyuqliklarda virus miqdori xodimni zararlash uchun yetarli bo'lmaydi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Qonunga ko'ra tibbiyot xodimlarida xizmat vazifasini bajarishda OIV yuqishi qanday hisoblanadi?
++ kasb kasalligi
+- ish joyidagi baxtsiz hodisa, ammo kasb kasalligi emas
+- jinoyat, aybdor shaxsga javobgarlik yuklanadi
+- shaxsiy ish, tibbiy kengashda ko'rib chiqilmaydi
+- nogironlik guruhini berish uchun yagona asos
+! Xizmat vazifasi bilan bog'liq zararlanishga qonunchilikda imtiyozlar nazarda tutilgan.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»

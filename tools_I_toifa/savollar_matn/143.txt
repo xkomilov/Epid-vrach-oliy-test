@@ -1,0 +1,97 @@
+=== 143
+? 18 oygacha bo'lgan bolalarda OIV infeksiyasi tashxisining oltin standarti qaysi?
++ provirus DNKsini PZR usulida aniqlash
+- IFA yordamida IgG antitelalarni aniqlash
+- immunoblot usulida p24 antitelalarni tasdiqlash
+- oqimli sitofluorimetrda CD4 limfotsitlar sonini o'lchash
+- tezkor test bilan so'lakdagi antitelalarni aniqlash
+! Bu yoshda antitelalar tashxisni aniqlay olmaydi, shuning uchun virusning o'zini aniqlaydigan usul tanlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i; WHO. HIV and AIDS (fact sheet)
+? Nima uchun 18 oygacha bolalarda IFA tashxis qo'yish uchun yetarli emas?
++ onaning IgG antitanalari platsenta orqali o'tib, 18 oygacha saqlanishi mumkin
+- bola immun tizimi antitelalar ishlab chiqarishga qodir emas, shu sababli IgG yo'qoladi
+- IFA test-tizimlari kattalar qonida ishlashga mo'ljallangan
+- virus bolalarda antigen o'zgaruvchanligi tufayli aniqlanmaydi, bu esa natijani buzadi
+- bolalarda IgM sinfi antitelalari soxta musbat natija bermaydi
+! Passiv olingan ona antitanalari bolaning o'zi virus yuqtirmagan bo'lsa ham musbat natija berishi mumkin.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Chaqaloqda birinchi va ikkinchi PZR tekshiruvlari qaysi muddatlarda o'tkaziladi?
++ 6–8 haftalikda va 12 haftalikda
+- tug'ilganda va 4 haftalikda, so'ng 6 oylikda
+- 4 haftalikda va 6 oylikda, 12 oylikda
+- 12 haftalikda va 6 oylikda, 12 oylikda
+- 5 haftalikda va 18 oylikda hamda 24 oylikda
+! Birinchi tekshiruv 6–8 haftada, manfiy bo'lsa takroriy tekshiruv 12 haftada o'tkaziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? PZR tekshiruvi uchun qaysi namunadan foydalanilmaydi?
++ kindik qoni
+- venoz qon
+- quruq qon tomchisi
+- bolaning periferik qon plazmasi
+- bolaning oldingi qismidan olingan qon
+! Kindik qoni ona qoni bilan aralashib ketishi mumkin, shu sababli bu namunadan foydalanilmaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Serokonversiyani aniqlash uchun bolada IFA qachon o'tkaziladi?
++ 18 oyligida
+- 6 oyligida
+- 9 oyligida
+- 12 oyligida
+- 24 oyligida
+! 18 oyga kelib onaning antitanalari yo'qolishi kutiladi, shuning uchun bu paytdagi musbat natija bolaning o'z antitanalarini bildiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? PZR sezgirligi tug'ilgandan keyin 2 haftada qaysi ko'rsatkichga yetadi?
++ 95–98%
+- 38%
+- 60–65%
+- 75–80%
+- 100%
+! Birinchi 48 soatda sezgirlik 38% atrofida, 3 oyga kelib esa deyarli 100% ga yetadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Tug'ilganning dastlabki 48 soatida PZR musbat bo'lsa, yuqish qanday vaqtda sodir bo'lgan deb hisoblanadi?
++ bachadon ichida (antenatal)
+- tug'ruq paytida (intranatal)
+- emizish davrida (postnatal)
+- tug'ruqdan keyin 2 haftada
+- tug'ruqdan keyingi tibbiy parvarish paytida
+! Virus erta aniqlansa, u bola tug'ilishidan oldin yuqqan bo'ladi, intranatal yuqishda dastlabki tahlil manfiy bo'ladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Chaqaloq uchun nevirapin profilaktikasi qanday tartibda beriladi?
++ birinchi haftada kuniga bir marta, ikkinchi haftada har 12 soatda 2 mg/kg
+- birinchi haftada har 12 soatda, ikkinchi haftada kuniga bir marta 4 mg/kg
+- barcha 4 hafta davomida har 8 soatda 2 mg/kg
+- birinchi kunda bir marta, so'ng 5 haftalikdan boshlab har 12 soatda
+- ikkinchi haftadan boshlab kuniga bir marta 4 mg/kg, 12 haftagacha
+! Nevirapin boshqa preparatlardan farqli ravishda davolash boshida kamroq, keyin ko'proq chastotada beriladi va so'ng bekor qilinadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Chaqaloq uchun lamivudin profilaktikasi qanday dozada va qancha muddat beriladi?
++ 2 mg/kg har 12 soatda 4 hafta
+- 4 mg/kg har 12 soatda 4 hafta
+- 2 mg/kg kuniga bir marta 12 hafta
+- 4 mg/kg har 8 soatda 2 hafta
+- 1 mg/kg har 12 soatda 6 hafta
+! Lamivudin uch komponentli sxemaning bir qismi bo'lib, zidovudin bilan bir xil muddatda beriladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Belgisiz, OIV ta'siridagi chaqaloq BCG bilan qachon emlanadi?
++ tug'ruqxonada, milliy kalendar bo'yicha
+- PZR manfiy bo'lgandan keyingina, 12 haftalikda
+- 18 oylikda IFA natijasi chiqqach
+- faqat ART boshlangandan so'ng 6 oylikda
+- ona emizishni to'xtatgandan keyin
+! Belgisiz bolalar BCG bilan tug'ruqxonada emlanadi, boshqa emlashlar milliy kalendarga muvofiq o'tkaziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Qaysi holatda 1 haftalikda erta PZR tekshiruvi tavsiya etiladi?
++ ona kech murojaat qilgan yoki davolash samarasiz bo'lgan yuqori xavfli holatda
+- ona homiladorlik davomida ART ga sodiq bo'lib, virus yuklamasi aniqlanmaganda
+- bola sun'iy oziqlantirilib, kotrimoksazol 5 haftalikdan boshlanganda
+- bola 18 oylikka yetib, IFA manfiy chiqqanda
+- bolada BCG emlashidan keyin mahalliy reaksiya kuzatilganda
+! Yuqori xavfli bolalarda erta aniqlash ART ni kechiktirmasdan boshlash imkonini beradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Kotrimoksazol profilaktikasi OIV bilan yashovchi onadan tug'ilgan bolada qaysi yoshdan boshlanadi?
++ 5 haftalikdan
+- tug'ilgan kunning o'zidan
+- 1 haftalikdan
+- 12 haftalikdan
+- 18 oylikdan
+! Profilaktika pnevmotsistali zotiljamga qarshi qaratilgan va ikki marta manfiy PZR olinguncha davom etadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i

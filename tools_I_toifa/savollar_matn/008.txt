@@ -1,0 +1,98 @@
+=== 008
+? L.V. Gromashevskiy taklif etgan yuqumli kasalliklarning epidemiologik tasnifi qaysi belgiga asoslangan?
++ yuqish mexanizmiga, ya'ni qo'zg'atuvchining organizmdagi birlamchi joylashuvi va yuqish usuli o'rtasidagi bog'liqlikka
+- qo'zg'atuvchi turiga, ya'ni bakteriya, virus, zamburug', protozoy yoki gelmintga mansubligiga
+- infeksiya manbaiga, ya'ni odam, hayvon yoki tashqi muhit ekaniga qarab, qo'zg'atuvchining xossalaridan qat'i nazar
+- nazorat darajasiga, ya'ni vaksina mavjudligiga qarab, qo'zg'atuvchining tarqalish yo'lidan qat'i nazar
+- kasallikning og'irlik darajasiga va o'lim ko'rsatkichining yuqoriligiga qarab, tarqalish yo'lidan qat'i nazar
+! Aynan shu bog'liqlik har bir guruh uchun yetakchi chora yo'nalishini oldindan belgilab beradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Quyidagi kasalliklardan qaysi biri qon infeksiyalari (transmissiv mexanizm) guruhiga kiritilgan?
++ bezgak
+- dizenteriya
+- difteriya
+- qoqshol
+- virusli gepatit A
+! Bezgak qo'zg'atuvchisi qonda joylashadi va chivin chaqishi orqali yuqadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Aerozol-tomchi mexanizmli nafas yo'llari infeksiyalariga qaysi kasalliklar kiradi?
++ qizamiq, difteriya, gripp va ko'kyo'tal
+- ich terlama, vabo va salmonellyoz
+- bezgak, toshbaqa ensefaliti va Qrim-Kongo isitmasi
+- quturish, qoqshol va kuydirgi
+- virusli gepatit A, dizenteriya va vabo
+! Bu kasalliklar qo'zg'atuvchisi nafas yo'llarida joylashgani uchun tomchi va aerozol orqali tarqaladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Tashqi qoplam infeksiyalariga qaysi kasallik kiradi?
++ qoqshol
+- ich terlama
+- qizamiq
+- bezgak
+- ko'kyo'tal
+! Bu guruhda qo'zg'atuvchi teri va shilliq qavatlarda joylashadi hamda kontakt orqali yuqadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Qo'zg'atuvchi asosan qonda joylashgan bo'lsa, u odatda qanday yo'l bilan tarqaladi?
++ tashuvchi hasharot orqali
+- najas va ifloslangan suv orqali
+- tomchi va aerozol orqali
+- teri va shilliq qavat bilan kontakt orqali
+- ifloslangan tuproq orqali
+! Qo'zg'atuvchining birlamchi joylashuvi uning qaysi mexanizm bilan tarqalishini belgilaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Sapronozlarda infeksiya manbai nima hisoblanadi?
++ tashqi muhit
+- kasal odam
+- kasal hayvon
+- tashuvchi hasharot
+- sog'lom tashuvchi
+! Antroponozlarda manba odam, zoonozlarda hayvon, sapronozlarda esa tashqi muhit.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Nazorat darajasiga ko'ra "boshqariladigan" infeksiyalar qaysilar?
++ vaksinasi mavjud bo'lgan infeksiyalar
+- davolash uchun antibiotik mavjud bo'lgan infeksiyalar
+- hayvonlardan odamga o'tadigan infeksiyalar
+- inkubatsion davri bir haftadan qisqa bo'lgan infeksiyalar
+- kasalxona ichida yuqadigan infeksiyalar
+! Boshqarilmaydigan infeksiyalarda esa vaksina yo'q.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Fekal-oral mexanizmli ichak infeksiyalarida epidemiyaga qarshi choralarning yetakchi yo'nalishi qanday?
++ yuqish yo'llarini uzish: xavfsiz suv ta'minoti, kanalizatsiya, oziq-ovqat xavfsizligi va dezinfeksiya
+- ommaviy emlash orqali populyatsion immunitetni oshirish va emlash qamrovini yuqori ushlab turish
+- dezinseksiya va deratizatsiya o'tkazish hamda aholini hasharot chaqishidan himoyalash
+- kasal hayvonlarni ajratish va veterinariya-sanitariya nazoratini o'rnatish choralari
+- xavfli xulq-atvorni o'zgartirish va shoshilinch profilaktika sifatida zardob yuborish
+! Najas orqali tarqalgan qo'zg'atuvchining yo'lini kesish sanitariya choralariga tayanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Nafas yo'llari infeksiyalarida asosiy e'tibor nimaga qaratiladi va nima uchun?
++ qabul qiluvchan organizmga, immunprofilaktikaga; yuqish yo'lini texnik uzish qiyin bo'lgani uchun
+- yuqish yo'lini uzishga; havo orqali yuqishni texnik jihatdan to'xtatish oson bo'lgani uchun
+- tashuvchi hasharotlarga qarshi kurashga; qo'zg'atuvchi qonda joylashgani uchun
+- infeksiya manbai bo'lgan hayvonlarni yo'q qilishga; ular asosiy rezervuar bo'lgani uchun
+- suv ta'minotini nazorat qilishga; qo'zg'atuvchi ichakda joylashgani uchun
+! Yuqori va barqaror emlash qamrovi boshqariladigan nafas yo'llari infeksiyalarida hal qiluvchi ahamiyatga ega.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Qizamiqda jamoaviy immunitet hosil bo'lishi uchun emlash qamrovi taxminan qanday bo'lishi kerak (R0 taxminan 12–18)?
++ 95 foizdan ortiq
+- 50 foizdan kam
+- 60 foiz atrofida
+- 70 foiz atrofida
+- 80 foiz atrofida
+! Reproduksiya ko'rsatkichi yuqori bo'lgani sari zanjirni uzish uchun emlangan aholi ulushi ham oshishi kerak.
+@ Mavzu materiali (008.docx)
+? Transmissiv infeksiyalarda epidemiyaga qarshi choralar qaysi yo'nalishga qaratiladi?
++ tashuvchi bo'g'imoyoqlilarga qarshi kurash (dezinseksiya), chaqishdan himoyalanish va tabiiy o'choqlarni nazorat qilishga
+- yuqish yo'li bo'lgan suv va oziq-ovqatni zararsizlantirish, kanalizatsiya tizimini yaxshilash va shaxsiy gigiyenaga rioya qilish
+- aholini ommaviy emlash, emlash qamrovini oshirish va havoni filtrlab turish hamda bemorlarni izolyatsiya qilish
+- bemorni qat'iy izolyatsiya qilish, havoni muntazam shamollatib turish va muloqotdagilarni tibbiy kuzatuvga olish
+- xavfli xulq-atvorni o'zgartirish, qo'lqop va niqob bilan ishlash hamda shoshilinch profilaktika zardobini yuborish
+! Zoonozlarda qo'shimcha ravishda rezervuar hayvonlar ustidan veterinariya-sanitariya nazorati o'rnatiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Epidemiyaga qarshi tadbirlar rejasi qaysi talablarga javob berishi kerak?
++ aniq maqsad, bajaruvchilar, muddatlar va nazorat ko'rsatkichlariga ega bo'lishi
+- faqat bitta yo'nalishdagi chorani tanlab, qolganlaridan butunlay voz kechishi
+- tadbirlarni o'choq paydo bo'lgandan keyingina tuzilib, oldindan rejalashtirilmasligi
+- resurslarni teng bo'lib, kasallik xususiyatlariga qaramasdan taqsimlashi
+- samaradorligi baholanmasdan, har yili o'zgarishsiz takrorlanishi
+! Reja profilaktik va o'choqdagi tadbirlarni uyg'unlashtirib, resurslarni epidemiologik tashxisga mos taqsimlashi kerak.
+@ Mavzu materiali (008.docx)
+#U 008 / 10: R0 ko'rsatkichi va emlash qamrovi chegarasi faqat mavzu materialiga tayangan.
