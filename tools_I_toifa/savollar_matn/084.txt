@@ -1,0 +1,98 @@
+=== 084
+? Parenteral virusli gepatitlar guruhiga qaysi gepatitlar kiradi?
++ B, C va D gepatitlar, ya'ni qon va boshqa biologik suyuqliklar orqali yuqadiganlari
+- enteral guruhga mansub A, B va E gepatitlar, ya'ni najas bilan ifloslangan suv orqali yuqadiganlari
+- enteral guruhdagi gepatitlar: A va E, ya'ni oziq-ovqat va ichimlik suvi orqali yuqadiganlari
+- havo-tomchi va fekal-oral yo'l bilan yuqadigan A, C va E gepatitlar
+- umumiy maishiy buyumlar va suv orqali yuqadigan A va D gepatitlar
+! Parenteral guruh qon orqali yuqish va surunkalilashish bilan ajraladi, A va E esa enteral guruhga kiradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Gepatit C virusi qaysi oilaga mansub va qanday xususiyatlarga ega?
++ Flaviviridae oilasiga mansub RNK-virus, 8 genotip va 100 dan ortiq kenja tipga ega
+- Hepadnaviridae oilasiga mansub DNK-virus, 4 genotip va 10 ga yaqin kenja tipga ega
+- Picornaviridae oilasiga mansub RNK-virus, bitta serotip va bitta kenja tipga ega
+- Deltavirus turkumiga mansub nuqsonli RNK-virus, 3 genotip va 20 ga yaqin kenja tipga ega
+- Herpesviridae oilasiga mansub DNK-virus, 2 genotip va ko'p kenja tipga ega
+! Bu virusning genetik xilma-xilligi yuqori bo'lib, shuning uchun samarali vaksina yaratish qiyin.
+@ WHO. Hepatitis C (fact sheet)
+? Virusli gepatit C ning inkubatsion davri yo'riqnomada qancha deb ko'rsatilgan?
++ 2–26 hafta, o'rtacha 6–8 hafta
+- 2–6 kun, o'rtacha 3–4 kun
+- 14–28 kun, o'rtacha 20–25 kun
+- 6–12 oy, o'rtacha 8–9 oy
+- 1–2 yil, o'rtacha 18 oy
+! Bu davr uzun va keng oraliqda o'zgaruvchan, shu sababli aloqador shaxslarni kuzatish uzoq davom etadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Gepatit C virusi bilan zararlanganlarning o'z-o'zidan tuzalishi va surunkalilashishi JSST ma'lumotiga ko'ra qanday?
++ taxminan 30 foizi 6 oy ichida o'zi tuzaladi, qolgan taxminan 70 foizida surunkali infeksiya rivojlanadi
+- taxminan 90 foizi 6 oy ichida o'zi tuzaladi, qolgan taxminan 10 foizida surunkali infeksiya rivojlanadi
+- barchasi 3 oy ichida o'zi tuzaladi, surunkali infeksiya umuman rivojlanmaydi
+- taxminan 5 foizi o'zi tuzaladi, qolgan taxminan 95 foizi bir yil ichida sirrozga o'tadi
+- taxminan 50 foizi o'zi tuzaladi, qolgan 50 foizi esa bir yil ichida jigar saratoni bilan o'ladi
+! O'tkir gepatit C ning ko'pchiligi o'z-o'zidan tuzalmaydi va surunkali shaklga o'tadi, shuning uchun skrining muhim.
+@ WHO. Hepatitis C (fact sheet)
+? Gepatit D virusining asosiy biologik xususiyati nimadan iborat?
++ nuqsonli virus bo'lib, faqat gepatit B virusi mavjud bo'lgandagina ko'payadi
+- mustaqil ravishda ko'payadi va gepatit B virusisiz ham surunkali infeksiya beradi
+- DNK tutuvchi katta virus bo'lib, faqat bolalarning ichagida ko'payadi
+- najas orqali yuqadigan enterovirus bo'lib, jigarni zararlamasdan ichak shilliq qavatida qoladi
+- gepatit A virusi mavjud bo'lgandagina faollashadigan, vaksina bilan boshqariladigan qo'zg'atuvchi
+! Deltavirusda o'z qobiq oqsili yo'q, shu sababli u HBsAg dan foydalanadi va faqat HBV ishtirokida infeksiya qiladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Qaysi vaksina gepatit D infeksiyasidan ham himoya qiladi?
++ gepatit B ga qarshi vaksina, anti-HBs hosil bo'lishi hisobiga
+- gepatit A ga qarshi vaksina, anti-HAV IgG hosil bo'lishi hisobiga
+- gepatit C ga qarshi vaksina, bevosita ta'sir qiluvchi antitelalar hisobiga
+- gepatit E ga qarshi vaksina, tabiiy killer hujayralar faolligi hisobiga
+- BCG vaksinasi, hujayraviy immunitetni umumiy kuchaytirish hisobiga
+! Gepatit D virusi HBsAg qobig'iga muhtoj, shuning uchun anti-HBs himoyasi uning rivojlanishini ham to'sadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Gepatit C tashxisi qaysi ketma-ketlikda qo'yiladi?
++ avval anti-HCV serologik aniqlanadi, musbat bo'lsa surunkali infeksiyani tasdiqlash uchun HCV RNK topiladi
+- avval HCV RNK aniqlanadi, so'ngra faqat HBsAg bo'yicha anti-HCV ning miqdori baholanadi
+- faqat bitta anti-HCV testi yetarli bo'lib, qo'shimcha tasdiqlash o'tkazilmaydi
+- avval jigar biopsiyasi o'tkaziladi, so'ngra serologik testlar va molekulyar tekshiruv bajariladi, shundan keyingina jigar ultratovushi
+- avval siydikda urobilin aniqlanadi, keyin najas bakteriologik ekmasi bilan tasdiqlanadi
+! Antitelalar o'z-o'zidan tuzalganlarda ham musbat qoladi, shu sababli faol infeksiya RNK bilan tasdiqlanadi.
+@ WHO. Hepatitis C (fact sheet)
+? In'ektsion giyohvandlar orasida zararni kamaytirish dasturlariga qaysi tadbirlar kiradi?
++ igna almashtirish dasturlari, narkologik maslahat va opiatlarni o'rnini bosuvchi terapiya
+- umumiy shpritslarni jamoa bo'lib dezinfeksiya qilish va qayta ishlatishni rag'batlantirish
+- faqat jazo choralarini kuchaytirish va narkologik hisobga olishni to'xtatish
+- shpritslar sonini cheklash va steril igna sotilishini taqiqlash
+- giyohvandlarni ommaviy ravishda gepatit C vaksinasi bilan emlash
+! Steril asboblar va davolash xizmatlari qon orqali yuqishni keskin kamaytiradi.
+@ WHO. Hepatitis C (fact sheet)
+? Bevosita ta'sir qiluvchi antivirus dorilar gepatit C bemorlarining qanchasini davolaydi?
++ 95 foizdan ko'pini
+- bemorlarning 40 foizini
+- atigi 15 foizini
+- 60 foizga yaqinini
+- chorak qismini
+! Zamonaviy pan-genotipik dorilar virusni deyarli barcha bemorlarda yo'qotadi, shu sababli kasallikni bartaraf etish mumkin.
+@ WHO. Hepatitis C (fact sheet)
+? Yo'riqnomaga ko'ra, surunkali holatlar bo'yicha o'choqqa tibbiy xodimlar va epidemiolog tashrifi qanday davriylikda o'tkaziladi?
++ yarim yilda bir marta
+- haftada bir marta
+- oyiga uch marta
+- besh yilda bir marta
+- sutkada bir marta
+! Surunkali o'choqlar barqaror bo'lgani uchun uzoq vaqt kuzatiladi, ammo har kuni ziyorat qilish talab etilmaydi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Virusli gepatitlar kechish davomiyligiga ko'ra qanday turlarga bo'linadi?
++ o'tkir (1–3 oy), cho'zilgan (3–6 oy) va surunkali (6 oydan ko'p)
+- o'tkir (1–3 hafta), cho'zilgan (3–6 hafta) va surunkali (6 haftadan ko'p)
+- o'tkir (6 oygacha), cho'zilgan (6–12 oy) va surunkali (12 oydan ko'p)
+- o'tkir (1 haftagacha), cho'zilgan (1–2 oy) va surunkali (2 oydan ko'p)
+- o'tkir (3–6 oy), cho'zilgan (6–12 oy) va surunkali (1 yildan ko'p)
+! Kechish davomiyligi bo'yicha 6 oydan ortiq davom etgan jarayon surunkali hisoblanadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST ma'lumotiga ko'ra, 2024-yilda dunyoda qancha kishi surunkali virusli gepatit C bilan yashagan?
++ taxminan 47 million kishi
+- taxminan 240 million kishi
+- taxminan 500 million kishi
+- taxminan 4,7 million kishi
+- taxminan 1,1 million kishi
+! Surunkali C gepatit soni surunkali B gepatitdan ancha kam; 240 million B gepatitga tegishli.
+@ WHO. Hepatitis C (fact sheet)
+#D 084 / 12: yo'riqnomada (542-son) VGS bilan zararlanganlar ~500 million deb keltirilgan, JSSTning hozirgi bahosi 47 million (surunkali); savolda JSST bahosi ishlatildi.

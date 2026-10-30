@@ -1,0 +1,99 @@
+=== 021
+? Operativ (tezkor) epidemiologik tahlilning mohiyatini qaysi ta'rif to'g'ri ifodalaydi?
++ Epidemik vaziyatni haftalik yoki oylik ro'yxatga olish ma'lumotlari asosida doimiy kuzatib borish
+- O'tgan bir necha yillik kasallanish dinamikasini kalendar yil oxirida yagona hisobotda to'liq tavsiflash
+- Aholining immunitet holatini seroepidemiologik tekshiruv orqali yiliga bir marta rejali baholash
+- Bitta o'choqdagi bemorlarning klinik kechishini kasallik tarixlari bo'yicha chuqur o'rganish
+- Faqat laboratoriya natijalarini yig'ib, ularni qo'zg'atuvchi turlari bo'yicha guruhlash
+! Operativ tahlil uzluksiz va tezkor bo'lib, joriy vaziyatdagi o'zgarishni o'z vaqtida ko'rsatadi, uzoq davr tavsifi esa retrospektiv tahlilga xosdir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Operativ epidemiologik tahlilning birinchi vazifasi nima?
++ Kasallanish darajasi o'zgarganini zudlik bilan aniqlash
+- Kasallikning ko'p yillik davriyligini matematik usullar bilan bashorat qilish
+- Emlash qamrovining yillik ko'rsatkichlarini viloyatlar bo'yicha taqqoslash
+- Qo'zg'atuvchi shtammlarning antibiotiklarga sezgirligini yillar kesimida o'rganish
+- Dezinfeksiya vositalarining samaradorligini laboratoriya sharoitida baholash
+! Tezkor tahlil avvalo darajadagi o'zgarishni imkon qadar erta ushlashga qaratilgan, sabab izlash esa undan keyingi vazifadir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? O'zgarishlarni baholashda etalon vazifasini nima bajaradi?
++ Shu hudud uchun xos bo'lgan odatdagi kasallanish darajasi
+- Qo'shni hududlardagi eng yuqori qayd etilgan kasallanish ko'rsatkichi
+- Respublika bo'yicha o'tgan yilgi umumiy o'rtacha ko'rsatkich
+- Aholining jon boshiga to'g'ri keladigan tibbiy xizmat ko'rsatkichi
+- Oldingi hafta qayd etilgan holatlarning mutlaq soni
+! Hudud uchun odatiy bo'lgan daraja ma'lum bo'lsagina undan chetga chiqishni avj olish belgisi sifatida baholash mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Darslikka ko'ra, odatdagi daraja uchun qaysi davr ma'lumotlari ishlatiladi (mavsumiy ko'tarilishsiz davrda)?
++ Barqaror oylardagi haftalik o'rtacha ko'rsatkichlar
+- Eng yuqori kasallanish qayd etilgan oylardagi haftalik maksimal ko'rsatkichlar
+- Faqat so'nggi ikki hafta ichidagi kundalik holatlar yig'indisi
+- Yilning birinchi choragidagi umumiy mutlaq holatlar soni
+- O'tgan yil davomidagi barcha epidemik avj olish oylarining o'rtachasi
+! Odatdagi daraja tasodifiy yoki mavsumiy tebranishlardan xoli, barqaror davr ma'lumotlaridan olinadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiologik chizma (hisob-ishchi jadvali)da haftalik oraliq qanday tuziladi?
++ 1-hafta kunlar bo'yicha (1–7), keyingi haftalar xuddi shunday, 4 hafta yig'indisi va odatdagi darajadan farq belgilanadi
+- Barcha haftalar faqat yig'indi ko'rinishida beriladi va kunlar bo'yicha ajratilmaydi
+- Har bir oy uchun bitta yig'indi ko'rsatkich yoziladi, odatdagi daraja bilan taqqoslanmaydi
+- 1-hafta kunlar bo'yicha yoziladi, keyingi uch hafta esa umuman jadvalga kiritilmaydi
+- Haftalik oraliq tuzilmaydi: jadval faqat yil choraklari bo'yicha to'ldiriladi, kunlar va 4 haftalik yig'indi ko'rsatilmaydi, farq belgisi qo'yilmaydi
+! Chizma kunlik va haftalik dinamikani ko'rsatib, 4 haftalik yig'indini odatdagi daraja bilan solishtirish imkonini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Yakka holat bo'yicha o'tkazilgan epidemiologik tekshirish umumlashtirish jadvaliga odatda kiritilmaydi. Quyidagilardan qaysi biri bundan istisno hisoblanadi?
++ Epidemik xavf yashirgan ekzotik kasalliklar, masalan, vabo va bezgak
+- Yengil kechgan va tez tuzalgan o'tkir respirator virusli infeksiyalar
+- Oilada uchragan yakka-yakka sporadik gripp holatlari
+- Mavsumiy ko'tarilish davridagi ichak infeksiyalarining har qanday yakka holati
+- Bolalar muassasasiga qatnamaydigan bolalardagi tomoq og'rig'i holatlari
+! Importga oid ekzotik infeksiyalarda bitta holat ham keng tarqalish xavfini tug'diradi, shuning uchun u alohida hisobga olinadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Operativ tahlil tizimida qanday o'choqlar majburiy tekshiriladi?
++ Ikki va undan ko'p holatli o'choqlar
+- Faqat tabiiy o'choqli kasalliklarning yakka holatlari
+- Bolalar muassasasidan tashqarida uchragan barcha yakka holatlar
+- Yengil kechgan va laboratoriyada tasdiqlanmagan har qanday holat
+- Yilning sovuq oylarida qayd etilgan nafas yo'llari infeksiyalari
+! Guruhli holatlar umumiy omil bo'lishi mumkinligini ko'rsatadi, shu sababli ularning barchasi majburiy ravishda o'rganiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? 2019-yilgi o'zbek–JSST qo'llanmasiga ko'ra, «avj olish» nimani anglatadi?
++ Ma'lum hududda yilning shu vaqtida kutilganga nisbatan kasallanish holatlari sonining odatdagidan tashqari ko'payishi
+- Bitta bemorda kasallik klinik belgilarining yilning istalgan vaqtida keskin og'irlashishi
+- Biror kasallikning ko'p yillar davomida bir xil past darajada saqlanib qolishi
+- Kasallik qo'zg'atuvchisining laboratoriyada yangi shtamm sifatida aniqlanishi
+- Bolalar jamoasida ikki va undan ortiq bolaning emlash taqvimiga rioya qilmagan holda aniqlanishi va ularning alohida hisobga olinishi
+! Ta'rif holatlar sonini kutilgan daraja bilan taqqoslashga tayanadi, shu bois hudud va fasl hisobga olinadi.
+@ Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma, Toshkent, 2019
+? Qo'llanmada avj olishni tekshirish nechta qadamdan iborat deb berilgan?
++ 7 ta
+- 4 ta
+- 5 ta
+- 9 ta
+- 12 ta
+! Qo'llanma tasdiqlashdan hisobotgacha bo'lgan ketma-ketlikni yetti qadamda beradi.
+@ Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma, Toshkent, 2019
+? Quyidagi sabablardan qaysi biri holatlar sonining ortishi haqiqiy avj olish bo'lmasa ham kuzatilishi mumkinligini tushuntiradi?
++ Holat ta'rifining o'zgarishi yoki diagnostikaning yaxshilanishi
+- Qo'zg'atuvchi virulentligining laboratoriyada isbotlangan oshishi
+- Ayni bir oziq-ovqat mahsulotini iste'mol qilganlarning birdaniga kasallanishi
+- Bitta suv manbaidan foydalanuvchilar orasida bir vaqtda kasallik boshlanishi
+- Muloqotda bo'lganlar orasida ikkilamchi holatlarning ketma-ket paydo bo'lishi
+! Hisobga olish tartibi, ta'rif yoki aniqlash imkoniyati o'zgarsa, kasallanish haqiqatda o'zgarmagan bo'lsa ham ko'rsatkich ortib ko'rinadi.
+@ Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma, Toshkent, 2019
+? Retrospektiv epidemiologik tahlil qachon va qanday davriylikda o'tkaziladi?
++ Har yili, kalendar yil oxirida, har bir yuqumli kasallik bo'yicha
+- Har hafta, kasallik darajasi odatdagidan oshgan paytda
+- Faqat epidemik avj olish qayd etilganda, uni bartaraf etish vaqtida
+- Har kuni, ro'yxatga olish jurnali to'ldirilgandan keyin
+- Besh yilda bir marta, barcha infeksiyalar uchun umumiy hisobot sifatida
+! Retrospektiv tahlil o'tgan davr dinamikasini to'liq tavsiflash uchun yil yakunida muntazam o'tkaziladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiologik tashxis ishida immunologik usullar nima uchun ishlatiladi?
++ Moyil guruhlarni aniqlash va emlash sifatini baholash uchun
+- Kasallikning hududiy taqsimotini xaritada ko'rsatish uchun
+- Ro'yxatga olish jurnalidagi xatolarni avtomatik tuzatish uchun
+- Qo'zg'atuvchining yuqish yo'li va omilini bevosita aniqlash uchun
+- Bemorlarni bolalar muassasasidan ajratish muddatini belgilash uchun
+! Antitelo darajasi himoyalanmagan guruhlarni va emlash natijadorligini ko'rsatadi, yuqish omilini esa epidemiologik tekshiruv aniqlaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+#U 021 / 4: odatdagi daraja uchun barqaror oylardagi haftalik o'rtachadan foydalanish faqat mavzu materiali (darslik OCR) asosida, joriy hujjat bilan tasdiqlanmagan.
+#U 021 / 5: epidemiologik chizma tuzilishi (1–7 kun, 4 hafta yig'indisi) faqat mavzu materialiga tayangan.

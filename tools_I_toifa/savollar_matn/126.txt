@@ -1,0 +1,98 @@
+=== 126
+? Bezgak tabiiy sharoitda qaysi mexanizm bilan yuqadi?
++ Transmissiv, sporogoniyani tugatgan urg'ochi anofeles chaqishi orqali
+- Fekal-oral, ifloslangan suv va oziq-ovqat orqali, odamdan odamga
+- Aerogen, bemor yo'talganda havo-tomchi yo'li orqali
+- Kontakt, bemor bilan maishiy buyumlar orqali, teri jarohatlari orqali
+- Transmissiv, Culex turkumidagi chivinlar chaqishi orqali, bo'lib o'tgan qishlovdan keyin
+! Plazmodiylar sporogoniya jarayonini anofeles organizmida tugatgandan keyingina urg'ochi chivin chaqishi bilan odamga o'tadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? Bezgak bemorining qo'zg'atuvchini tarqatish xavfi nimaga bog'liq?
++ Qondagi gametotsitlar soni va gametotsit tashuvchanlik davomiyligiga
+- Qondagi leykotsitlar soni va isitma davomiyligiga
+- Taloq kattaligi va kamqonlik darajasiga
+- Bemorning yoshi va yashash joyidagi qishloq yoki shahar bo'lishiga
+- Xurujlar soni va ular orasidagi isitmasiz davrlarning uzoqligiga
+! Chivinga faqat gametotsitlar yuqadi va u orqali parazit rivojlanishni davom ettiradi, shuning uchun xavf shu shakllar miqdori bilan belgilanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? Anofeles chivinining rivojlanishi qaysi haroratdan pastda to'xtaydi?
++ 10 °C
+- 2 °C
+- 16 °C
+- 22 °C
+- 30 °C
+! Past haroratda chivin hamda unda parazitning sporogoniyasi to'xtaydi, shuning uchun bezgak mavsumiy.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? Bezgak tarqalishi uchun havo harorati qaysi chegaradan yuqori bo'lishi zarur?
++ 16 °C dan yuqori
+- 4 °C dan yuqori
+- 8 °C dan yuqori
+- 25 °C dan yuqori
+- 35 °C dan yuqori
+! Sporogoniya va chivin rivojlanishi uchun yetarli issiqlik bo'lmasa, yuqish ro'y bermaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? G'arbiy Afrika aholisi nima sababdan P. vivax bilan kasallanmaydi?
++ Eritrotsitlarda Duffi (Fy) antigeni yo'qligi tufayli
+- Eritrotsitlarda gemoglobin S borligi tufayli
+- Anofeles chivini ular orasida uchramasligi tufayli
+- Bolalikdan bezgakka qarshi emlanishi tufayli
+- Taloqning katta bo'lishi va doimiy isitma tufayli
+! Parazit eritrotsitga kirishi uchun Duffi retseptori kerak, u bo'lmasa P. vivax hujayraga kira olmaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? Endemik o'choqlarda yangi tug'ilgan chaqaloqlar necha oygacha passiv immunitet tufayli bezgak bilan kasallanmaydi?
++ 2–5 oygacha
+- 1–2 haftagacha
+- 8–10 oygacha
+- 2–3 yilgacha
+- 5–6 yilgacha
+! Ona antitelalari chaqaloqni hayotining dastlabki oylarida himoya qiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? To'rt kunlik bezgak qo'zg'atuvchisi bemor qonida mudroq holda necha yildan ko'proq saqlanishi mumkin?
++ 25 yildan ko'proq
+- 1 yildan ko'proq
+- 3 yildan ko'proq
+- 5 yildan ko'proq
+- 10 yildan ko'proq
+! Shuning uchun to'rt kunlik bezgak o'tkazganlar qon topshirishdan chetlashtiriladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? Milliy 121-son yo'riqnomaga ko'ra uch kunlik bezgakni o'tkazganlar necha yil dispanser nazoratida turadi?
++ 3 yil
+- 6 oy
+- 1 yil
+- 5 yil
+- 10 yil
+! Muddat qaytalanishlar va jigardagi mudroq shakllarni hisobga olib belgilangan; darslikdagi muddat bundan farq qiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 1-ilova
+? Bezgak chivinlari lichinkalariga qarshi biologik usul sifatida qaysi baliq turi qo'llanadi?
++ Gambuziya
+- Oltin baliq (zolotaya rybka)
+- Laqqa baliq va tovonbaliq
+- Zog'ora baliq va qizilkanot
+- Cho'rtan va oq amur, kattalari
+! Gambuziya, karp va yosh amur chivin lichinkalarini iste'mol qilib, ularning sonini kamaytiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+? JSST O'zbekistonni bezgakdan holi deb qaysi yilda sertifikatlagan?
++ 2018 yilda
+- 1998 yilda
+- 2006 yilda
+- 2012 yilda
+- 2023 yilda
+! Mamlakat bezgakning mahalliy yuqishini to'xtatgani uchun JSST sertifikati berilgan.
+@ WHO. WHO certifies that Uzbekistan has eliminated malaria (2018)
+? JSST 2021 yildan Afrikadagi bolalar uchun qaysi bezgak vaksinasini tavsiya etgan?
++ RTS,S
+- BCG
+- PCV13
+- DTP-HepB
+- MMR
+! RTS,S birinchi tavsiya etilgan bezgak vaksinasi bo'lib, 2023 yildan R21 vaksinasi ham tavsiya etilgan.
+@ WHO. Malaria (fact sheet)
+? Urg'ochi anofeles odatda qancha radiusda uchadi?
++ 3 km radiusda
+- 50 m radiusda
+- 300 m radiusda
+- 30 km radiusda
+- 100 km radiusda
+! Chivin uchish masofasi chegaralangani sababli tadbirlar manba atrofidagi shu radiusni qamrab oladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 19.2-bo'lim
+#D 126 / 8: darslikda tropik bezgak uchun 1,5 yil, uch kunlik uchun 2,5 yil ko'rsatilgan, milliy yo'riqnomada esa 1 yil va 3 yil; savol yo'riqnomaga tayanadi.

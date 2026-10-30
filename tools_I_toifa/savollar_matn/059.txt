@@ -1,0 +1,99 @@
+=== 059
+? Rinovirusli infeksiya nafas yo'llarining qaysi qismini zararlaydi va qanday klinik ko'rinish beradi?
++ yuqori qismini zararlaydi, ko'pincha rinit ya'ni oddiy tumov ko'rinishida kechadi
+- quyi qismini zararlaydi, ko'pincha og'ir zotiljam ko'rinishida kechadi
+- o'pka alveolalarini zararlaydi, ko'pincha plevrit va yiringli abssess ko'rinishida kechadi
+- ko'z konyunktivasini zararlaydi, ko'pincha ichak buzilishi ko'rinishida kechadi
+- bronxlarning shilliq qavatini zararlaydi, ko'pincha bo'g'ma ko'rinishida kechadi
+! Rinovirus asosan burun va halqum shilliq qavatida ko'payib, rinit va «shamollash» belgilarini chaqiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6.4-bo'lim
+? Rinovirus qaysi virus oilasiga mansub?
++ Picornaviridae
+- Adenoviridae
+- Orthomyxoviridae
+- Paramyxoviridae
+- Coronaviridae
+! Rinoviruslar pikornaviruslar oilasiga kiradi, bu oilaga enteroviruslar ham mansub.
+@ Rhinoviruses (sharh maqola). PMC7150364
+? Rinovirusning antigen jihatdan farqlanadigan turlari soni haqida qaysi ma'lumot keltirilgan?
++ 150 dan ortiq tur ma'lum, ular HRV A, B va C guruhlariga bo'linadi
+- 3 ta tur ma'lum, ular A, B va C gripp viruslari kabi guruhlanadi
+- 10 ga yaqin tur ma'lum, ular faqat bolalarda kasallik chaqiradi
+- 30 ga yaqin tur ma'lum, ular ubikvitar va hududiy turlarga bo'linadi
+- 1000 dan ortiq tur ma'lum, ular faqat hayvonlarda parazitlik qiladi
+! Turlarning ko'pligi uzoq muddatli umumiy immunitet va vaksina yaratishni qiyinlashtiradi.
+@ Frontiers in Microbiology, 2017: Rhinovirus Biology, Antigenic Diversity, and Advancements in the Design of a Human Rhinovirus Vaccine
+? Rinovirus infeksiyasi qanday yo'llar bilan yuqadi?
++ aerogen yo'l bilan, shuningdek ajralmalar bilan kontakt orqali (qo'llar)
+- fekal-oral yo'l bilan, ifloslangan suv va oziq-ovqat mahsulotlari orqali, asosan yozda
+- transmissiv yo'l bilan, chivin va kana chaqishi orqali, issiq mavsumda
+- vertikal yo'l bilan, homiladorlik davrida onadan bolaga, yo'ldosh orqali
+- parenteral yo'l bilan, qon quyish va in'yeksiyalar orqali, tibbiy muassasalarda
+! Virus bemorning ajralmalarida bo'ladi va aerozol hamda ifloslangan qo'l orqali sog'lom odamga o'tadi.
+@ Eccles R. Prevention and treatment of the common cold: making sense of the evidence. PMC3928210
+? Qidiruv parchalariga ko'ra rinovirus oddiy tumovlarning taxminan qancha qismining sababchisi hisoblanadi?
++ taxminan 50 foizining
+- taxminan 5 foizining
+- taxminan 10 foizining
+- taxminan 25 foizining
+- taxminan 99 foizining
+! Rinovirus oddiy tumovning eng ko'p uchraydigan sababi bo'lsa-da, yagona qo'zg'atuvchi emas.
+@ Eccles R. Prevention and treatment of the common cold: making sense of the evidence. PMC3928210
+? Rinovirusga qarshi vaksina yaratish nima sababdan qiyin?
++ antigen jihatdan farqlanadigan turlari juda ko'p bo'lgani uchun
+- virus faqat bitta yagona serotipga ega bo'lgani uchun
+- o'ldirilgan virus umuman immunogen bo'lmagani uchun
+- virus faqat hayvonlarni zararlagani va odamga yuqmagani uchun
+- kasallik har doim o'lim bilan tugagani uchun
+! O'ldirilgan rinovirus kuchli immunogen ekani ko'rsatilgan, ammo turlarning ko'pligi universal vaksinani qiyinlashtiradi.
+@ Frontiers in Microbiology, 2017: Rhinovirus Biology, Antigenic Diversity, and Advancements in the Design of a Human Rhinovirus Vaccine
+? Qidiruv parchasiga ko'ra oddiy tumovni davolash bo'yicha qanday xulosa keltirilgan?
++ o'ziga xos samarali davosi yo'q, kasallik o'z-o'zidan o'tadi
+- yagona samarali davosi antibiotiklar kursi hisoblanadi
+- faqat vena ichiga yuboriladigan antiviral dori qo'llanadi
+- kasallik har doim davolanmasa surunkali shaklga o'tadi
+- maxsus vaksina bilan davolash standart tartib hisoblanadi
+! Davo simptomatik bo'lib, belgilarni yengillashtirishga qaratilgan.
+@ Eccles R. Prevention and treatment of the common cold: making sense of the evidence. PMC3928210
+? Britaniya markazida ko'ngillilar o'rtasida o'tkazilgan tadqiqotlar nimani ko'rsatdi?
++ sun'iy sovuq qotish va kam virus bilan zararlash kasallik chaqirmadi
+- sun'iy sovuq qotish barcha ko'ngillilarda og'ir kasallik chaqirib, ko'pchiligi yotqizildi
+- virus bilan zararlash faqat sovuq sharoitda kasallik chaqirdi, issiqda esa chaqirmadi
+- ko'ngillilarning barchasi kasallikdan keyin umrbod immunitet oldi va qayta kasallanmadi
+- kam miqdordagi virus ko'ngillilarda og'ir asoratlar va o'limga olib keldi
+! Bu dalil O'RK epidemiologiyasida asosiy omil sovuq emas, qo'zg'atuvchining kirib kelishi ekanini ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6.4-bo'lim
+? Darslikka ko'ra O'RK da kasallanish qaysi mavsumiy dinamikani ko'rsatadi?
++ oktyabr oxiridan ko'tarilib, yanvar oxiri–fevral boshida maksimumga yetadi
+- iyun oyida ko'tarilib, avgust oyida eng yuqori darajaga chiqib, kuzda pasayadi
+- barcha oylarda bir xil, hech qanday mavsumiy o'zgarishlarsiz saqlanib turadi
+- mart oyida ko'tarilib, may oyida eng yuqori nuqtaga yetib, yozda yo'qoladi
+- sentabrda keskin ko'tarilib, oktyabr oyida to'liq to'xtab, qishda uchramaydi
+! O'RK da mavsumiylik aniq, kuz oxiridan boshlab ko'tarilish kuzatiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6.4-bo'lim
+? Rinovirusli infeksiyada qo'l gigienasi nega muhim hisoblanadi?
++ virus ifloslangan qo'llar orqali tarqalishi mumkin bo'lgani uchun
+- virus ichimlik suvi orqali yuqishi hisobiga
+- virus qo'llar orqali emas, chivin chaqishi orqali yuqishi hisobiga
+- virus qo'lni yuvmaslik tufayli teridan o'z-o'zidan paydo bo'lishi sababli
+- qo'l yuvish rinovirus vaksinasining o'rnini to'liq bosishi sababli
+! Kontakt yo'li bo'yicha qo'l gigienasi virusning ajralmalardan og'iz-burunga o'tishini kamaytiradi.
+@ Eccles R. Prevention and treatment of the common cold: making sense of the evidence. PMC3928210
+? Rinovirusli infeksiya tashxisi amaliyotda ko'pincha qanday qo'yiladi?
++ klinik belgilar (rinit, tomoq og'rig'i, yengil intoksikatsiya) asosida
+- yuqori narxli serologik tekshiruv asosida, doimiy ravishda har bir holatda
+- jarrohlik biopsiyasi natijasi asosida, doimiy ravishda har bir holatda
+- ko'krak qafasi rentgenologik tekshiruvi natijasi asosida, doimiy ravishda
+- qon madaniyatini ekish natijasi asosida, doimiy ravishda har bir holatda
+! Rinovirus yengil kechgani uchun alohida etiologik tashxis amaliyotda keng qo'yilmaydi.
+@ Mavzu materiali (059.docx)
+? Rinovirusli infeksiyada antibiotiklar nima uchun odatda ko'rsatilmaydi?
++ qo'zg'atuvchi virus bo'lgani uchun, antibiotiklar viruslarga ta'sir qilmaydi
+- qo'zg'atuvchi bakteriya bo'lgani uchun, antibiotiklar unga allergiya chaqiradi
+- antibiotiklar rinovirusni to'liq yo'qotgani uchun, kasallik takrorlanmaydi
+- antibiotiklar kasallik mavsumida umuman ishlab chiqarilmagani uchun
+- qo'zg'atuvchi zamburug' bo'lgani uchun, faqat fungitsid beriladi
+! Antibakterial vositalar viruslarga ta'sir qilmaydi; ular faqat bakterial asoratlar qo'shilganda o'ylab ko'riladi.
+@ Mavzu materiali (059.docx)
+#U 059 / 11: rinovirus tashxisining asosan klinik qo'yilishi mavzu materialidagi muallif xulosasiga tayangan.
+#U 059 / 12: antibiotiklarning virus infeksiyasida ko'rsatilmasligi mavzu materialida muallif xulosasi sifatida berilgan.

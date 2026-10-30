@@ -1,0 +1,97 @@
+=== 058
+? O'tkir respirator kasalliklar (O'RK) guruhining asosiy qo'zg'atuvchilari qaysilar?
++ asosan viruslar, ularni bakteriyalar va mikoplazmalar ham chaqirishi mumkin
+- asosan zamburug'lar, viruslar esa kasallikni kamdan-kam hollarda chaqiradi
+- faqat bakteriyalar, viruslar bu guruhdagi kasalliklarga aloqador emas
+- asosan sodda hayvonlar, ularga bakteriyalar qo'shilib kasallikni og'irlashtiradi
+- asosan gelmintlar, ularning lichinkalari nafas yo'llariga o'tib kasallik chaqiradi
+! Guruh klinik o'xshashligi va nafas yo'llarining zararlanishi bilan birlashtirilgan, ammo qo'zg'atuvchilar orasida viruslar ustun turadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? Paragripp bilan asosan qaysi yosh guruhidagi bolalar kasallanadi?
++ 1 yoshgacha bo'lgan bolalar
+- 6 oygacha bo'lgan chaqaloqlar
+- 3 yoshdan 5 yoshgacha bo'lgan bolalar
+- 10 yoshdan 14 yoshgacha bo'lgan o'smirlar
+- 60 yoshdan oshgan keksalar
+! Paragrippda yosh bolalar ko'proq kasallanadi, ba'zan bo'g'ilish bilan og'ir kechadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? RS-infeksiya qaysi yoshdagi bolalarda ko'p uchraydi va qanday muhitda avj olishi mumkin?
++ 6 oygacha bolalarda; bolalar shifoxonalarida kasalxona ichi infeksiyasi sifatida
+- 7–12 yoshli maktab o'quvchilarida; faqat maktab yotoqxonalarida mavsumiy sifatida
+- 40–50 yoshli kattalarda; faqat ishlab chiqarish korxonalarida kasbiy sifatida
+- 60 yoshdan oshgan keksalarda; faqat qariyalar uylarida, sezilarli darajada yoz oylarida
+- homilador ayollarda; faqat tug'ruqxonalarda, yangi tug'ilganlardan ajratilgan holda
+! RS-infeksiya yosh chaqaloqlarda ko'proq uchraydi va ularning shifoxonalarida nozokomial avj olishlar chaqirishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? Darslikka ko'ra qaysi O'RK boshqalariga nisbatan xavfliroq hisoblanadi va qanday shakllarda o'tadi?
++ adenovirus infeksiyasi; rinit, bronxit va zotiljam shaklida
+- rinovirus infeksiyasi; faqat yengil tumov va burun bitishi shaklida
+- paragripp; faqat teri toshmasi va bo'g'imlar og'rig'i shaklida
+- bakterial infeksiyalar; faqat ichak buzilishi va ich ketish shaklida
+- mikoplazmoz; faqat yuqori nafas yo'llarining yengil yallig'lanishi shaklida
+! Adenoviruslar nafas yo'llarining turli qismlarini zararlab, o'rtacha va og'ir shakllarga olib kelishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? Darslikka ko'ra O'RK bilan kasallanish qaysi oylarda maksimumga yetadi?
++ yanvar oxiri yoki fevral boshida
+- iyun oyining oxiri yoki iyul boshida
+- may oyining o'rtasi yoki oxirida
+- avgust oyining oxiri yoki sentabrda
+- sentabr oyining boshi yoki o'rtasida
+! Kasallanish oktyabr oxiri va noyabrda ko'tarila boshlaydi va qishning ikkinchi yarmida eng yuqori nuqtaga chiqadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? JSST ma'lumotiga ko'ra mavsumiy grippda yuqish qaysi yo'llar bilan amalga oshadi?
++ havo-tomchi yo'li bilan, shuningdek qo'llar orqali
+- faqat suv orqali, ifloslangan ichimlik suvini ichish bilan
+- hasharotlar chaqishi orqali, ayniqsa chivin va burgalar vositasida
+- jinsiy aloqa va qon quyish orqali, qon mahsulotlari bilan
+- tuproq orqali, sporalarni teri yaralariga tushishi bilan
+! Zich joylarda, masalan maktablarda va qariyalar uylarida, havo-tomchi yo'li ayniqsa tez tarqalishni ta'minlaydi.
+@ WHO. Influenza (seasonal) (fact sheet)
+? Spitsbergen arxipelagi misoli O'RK epidemiologiyasi haqida nimani ko'rsatadi?
++ epidemiya sovuqdan emas, tashqaridan yangi qo'zg'atuvchi kirib kelishidan boshlanishini
+- sovuq qotish shamollash kasalliklarining yagona va hal qiluvchi sababi ekanini isbotlashini
+- kasallanish issiq iqlimli hududlarda kuzatilishi va sovuqda umuman uchramasligini
+- virusning dengiz suvi orqali yuqishi va kemalarda tarqalmasligini
+- mavsumiylik O'RK uchun xos emasligi va haroratga bog'liq emasligini
+! Juda sovuq kunlarda ham kasallik bo'lmagan, kun isishi va kemalar qatnovi boshlanishi bilan esa epidemiya boshlangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? Og'ir o'tkir respirator sindrom (SARS) qo'zg'atuvchisi qaysi guruhga kiradi?
++ koronavirus
+- adenovirus
+- paragripp virusi
+- Mycoplasma pneumoniae
+- Haemophilus influenzae
+! SARS koronavirus chaqirgan zoonoz infeksiya bo'lib, odamdan odamga havo-tomchi yo'li bilan yuqishi isbotlangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? O'RK ga qarshi maxsus profilaktika va grippdagi holat qanday?
++ grippdan tashqari maxsus profilaktika deyarli yo'q, gripp esa yillik emlash bilan oldini olinadi
+- barcha O'RK ga qarshi samarali vaksinalar mavjud, grippga qarshi emlash esa tavsiya etilmaydi
+- adenovirus va paragripp vaksinalari kurashda yuqori samara bermoqda, gripp emlanmaydi
+- maxsus profilaktika sifatida antibiotiklar yetarli, gripp emlash esa foydasizdir
+- bemorni ajratish yagona samarali vosita bo'lib, emlash hech qaysi kasallikda qo'llanmaydi
+! Adenovirus va paragripp vaksinalari bo'yicha izlanishlar samara bermagan, grippga qarshi esa yillik vaksina mavjud.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob; WHO. Influenza (seasonal) (fact sheet)
+? 236-son buyruqqa ko'ra qaysi sanadan boshlab barqaror sanitar-epidemiologik holat ta'minlangunga qadar muassasalarda gripp va O'RI tarqalishining oldini olish choralari ko'riladi?
++ 25 sentabrdan boshlab
+- 1 yanvar kunidan boshlab
+- 1 martdan boshlab
+- 15 iyundan boshlab
+- 1 dekabrdan boshlab
+! Buyruq mavsum oldidan tayyorgarlik choralarini kuzning boshidan yo'lga qo'yishni nazarda tutadi.
+@ O'zR SSV 2023-yil 25-sentabrdagi 236-son buyrug'i
+? Nafas yo'llarida doimiy yashovchi pnevmokokk, stafilokokk va neysseriyalar O'RK epidemiologiyasida qanday ahamiyatga ega?
++ shartli patogen bo'lib, ekzogen zararlanish hisobiga kamdan-kam kasallik chaqiradi
+- har doim yuqori kontagiozli birlamchi qo'zg'atuvchi sifatida epidemik avj olishlarni chaqiradi
+- kasallik chaqirmaydi va nafas yo'llaridan hech qachon ajratilmaydi
+- faqat teri orqali yuqadigan qo'zg'atuvchi hisoblanadi va nafas yo'llariga aloqasi yo'q
+- doimiy rezervuar bo'lib, jamoaviy immunitetni oshirishga xizmat qiladi
+! Bu bakteriyalar stress, sovuq qotish yoki boshqa infeksiya fonida faollashadi, shuning uchun ular asosiy qo'zg'atuvchi emas.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6-bob
+? Epidemik bo'lmagan davrda SARS-CoV-2, rinovirus, RS-virus, paragripp va adenovirus gripp o'xshash kasallik chaqirishi mumkinligi nimani anglatadi?
++ klinik farqlash qiyin, shuning uchun laboratoriya tekshiruvi zarur
+- klinik belgilar yetarli, shuning uchun laboratoriya tekshiruvi ortiqcha
+- barcha qo'zg'atuvchilar bitta vaksina bilan oldini olinadi
+- gripp virusi bu belgilarni chaqiradi, boshqalari esa chaqirmaydi
+- kasallik mavsumiy emas va yil davomida bir tekis kechadi
+! Belgilarning o'xshashligi sababli qo'zg'atuvchini faqat klinika bo'yicha aniqlab bo'lmaydi.
+@ WHO. Influenza (seasonal) (fact sheet)

@@ -1,0 +1,97 @@
+=== 106
+? Bezgakning tabiiy sharoitda yagona yuqish yo'li qaysi?
++ zararlangan urg'ochi Anopheles chivinining chaqishi
+- zararlangan Phlebotomus moskitining chaqishi orqali
+- Ixodes kanalarining qon so'rishi hamda ularning tishlashi
+- havo-tomchi yo'li orqali bemorning yo'talishi bilan
+- ifloslangan oziq-ovqat va suv orqali fekal-oral yo'l
+! Tabiiy sharoitda sporogoniyani tugatgan urg'ochi anofeles chivini chaqqanda sporozoitlar qonga tushadi, odamdan odamga bevosita yuqmaydi.
+@ WHO. Malaria (fact sheet); Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik jihatdan bezgak qaysi guruhga kiradi?
++ antroponoz transmissiv infeksiya
+- zoonoz transmissiv infeksiya
+- antroponoz kontakt infeksiya
+- sapronoz alimentar infeksiya
+- zooantroponoz aerogen infeksiya
+! Manba faqat bemor yoki parazit tashuvchi odam, uzatuvchi esa chivin bo'lgani uchun u antroponoz transmissiv infeksiyadir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Anopheles rivojlanishi qaysi haroratdan pastda to'xtaydi?
++ 10 °C dan past haroratda
+- 0 °C dan past haroratda
+- 5 °C dan past haroratda
+- 20 °C dan past haroratda
+- 25 °C dan past haroratda
+! Chivinda parazit rivojlanishi uchun ma'lum issiqlik zarur, past haroratda esa sporogoniya to'xtaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Gonotrofik davr +30 °C da qancha davom etadi?
++ taxminan 2 kun
+- taxminan 1 soat
+- taxminan 5 kun
+- taxminan 10 kun
+- taxminan 20 kun
+! Harorat yuqori bo'lsa qon hazm bo'lishi tezlashadi, +15 °C da esa 7–10 kungacha cho'ziladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Bezgak qon quyish orqali yuqishi mumkinmi va bu qaysi holatga misol bo'ladi?
++ ha, qon va zararlangan ignalar orqali parenteral yuqish mumkin
+- yo'q, bezgak faqat chivin orqali, hech qanday parenteral yo'l bilan yuqmaydi
+- ha, lekin bu faqat ona sutini ichgan chaqaloqlarda kuzatiladi
+- yo'q, parazit qonda yashasa ham u quyilgan qonda tezda nobud bo'ladi
+- ha, biroq bunda parazit havo-tomchi yo'li bilan boshqalarga tarqaladi
+! Eritrotsitlardagi parazitlar quyilgan qon yoki umumiy ignalar bilan yuboriladi, bu shizont yuqish deb ataladi.
+@ WHO. Malaria (fact sheet); Umirov S.E. va boshq. Bezgakning etiologiyasi... (2009)
+? JSST ma'lumotiga ko'ra bezgak belgilari odatda chivin chaqqandan keyin qachon boshlanadi?
++ 10–15 kun o'tib
+- bir necha soat o'tib
+- 1–2 kun o'tib
+- 40–50 kun o'tib
+- bir necha yil o'tib
+! Dastlabki belgilar — isitma, bosh og'rig'i va qaltirash — parazit qonda ko'payib bo'lgach paydo bo'ladi.
+@ WHO. Malaria (fact sheet)
+? JSST bo'yicha qaysi guruhlar bezgakning og'ir shaklidan ko'proq xavf ostida?
++ 5 yoshgacha bolalar, homilador ayollar va OIV bilan yashovchilar
+- 20–30 yoshdagi sog'lom erkaklar va sportchilar
+- faqat qishloq joylarda yashovchi keksa fermerlar
+- bolalar va kattalar orasida har doim chivinlardan himoyalanganlar
+- doimiy ravishda bezgak endemik hududida yashagan kattalar
+! Immuniteti zaif yoki shakllanmagan guruhlarda kasallik tezroq og'irlashadi.
+@ WHO. Malaria (fact sheet)
+? Hozirgi vaqtda JSST P. falciparum uchun eng samarali davo sifatida nimani ko'rsatadi?
++ artemizininli kombinatsiyalangan terapiya
+- penitsillin bilan monoterapiya
+- tetratsiklin bilan 3 kunlik davo
+- faqat antipiretiklar bilan simptomatik davo
+- aminoglikozidlar va sefalosporinlar kombinatsiyasi
+! Artemizininga asoslangan kombinatsiyalar parazitni tez kamaytiradi va qarshilik rivojlanishini sekinlashtiradi.
+@ WHO. Malaria (fact sheet)
+? Qaysi dori P. vivax retsidivlarining oldini olish uchun xlorokinga qo'shiladi?
++ primakin
+- artemeter
+- azitromitsin
+- doksitsiklin
+- mefloxin
+! Primakin jigardagi gipnozoitlarga ta'sir qiladi, xlorokin esa faqat qondagi shakllarni yo'qotadi.
+@ WHO. Malaria (fact sheet); O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova
+? JSST sayohatchilar uchun kimyoprofilaktikani qachon boshlashni va qancha davom ettirishni tavsiya etadi?
++ ba'zi dorilar safardan 2–3 hafta oldin boshlanib, xavfli hududdan chiqqandan keyin 4 hafta davom ettiriladi
+- safar kuni boshlanib, xavfli hududdan chiqqan zahoti darhol to'xtatiladi va davom etmaydi
+- safardan bir kun oldin boshlanib, qaytgandan keyin faqat 2 kun davom ettiriladi, ortig'i kerak emas
+- safardan bir yil oldin boshlanib, qaytgandan keyin 6 oy davomida uzluksiz qabul qilinadi
+- belgilar paydo bo'lganidan keyin boshlanib, 10 kun davomida qabul qilinadi
+! Dori to'liq himoya darajasiga erishishi va qaytgach qolgan parazitlar yo'qotilishi uchun profilaktika xavfli hududdan oldin va keyin davom etadi.
+@ WHO. Malaria (fact sheet)
+? Mahalliy yuqish necha yil ketma-ket nol bo'lganda mamlakat bezgakdan holi sertifikatiga murojaat qila oladi?
++ 3 yil ketma-ket
+- 1 yil
+- 2 yil ketma-ket
+- 5 yil ketma-ket
+- 10 yil ketma-ket
+! Uch yillik nol ko'rsatkich mahalliy yuqish to'xtaganini ishonchli ko'rsatadi.
+@ WHO. Malaria (fact sheet)
+? Bezgak o'choqlarida musbat qon preparatlari qancha vaqt ichida Respublika markaziga nazorat uchun yuboriladi?
++ 24 soat ichida
+- 1 soat ichida
+- 6 soat ichida
+- 72 soat ichida
+- 10 kun ichida
+! Musbat preparatlarni markazda qayta tekshirish tashxis sifatini nazorat qilishga imkon beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)

@@ -1,0 +1,98 @@
+=== 136
+? 18 oygacha bo'lgan bolada IFA musbat natijasi nima uchun OIV infeksiyasini isbotlamaydi?
++ onaning G sinfi antitanalari platsenta orqali o'tib, bolada 18 oygacha saqlanishi mumkin
+- IFA virusning o'zini emas, faqat T-limfotsitlar sonini aniqlaydi va natija bolaning yoshiga bog'liq
+- bolalarda IFA reagentlari ishlab chiqarilmaydi, shuning uchun natija ishonchsiz
+- bola immun tizimi antitelalarni umuman hosil qilmaydi, natija doim manfiy chiqadi
+- bolalarning qoni ona suti ta'sirida IFA ni buzadi, natija soxta chiqadi
+! Ona antitanalari bola organizmida pasayib borguncha aniqlanadi, shuning uchun serologik natija bolaning o'z immun javobini aks ettirmaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? 18 oygacha bolalarda OIV tashxisining «oltin standarti» qaysi?
++ OIV DNK provirusini PZR usulida aniqlash
+- OIV antitanalarini tezkor test bilan aniqlash
+- IFA va immunoblotni qo'shib o'tkazish
+- CD4 limfotsitlar sonini oqim sitometriyasi bilan o'lchash
+- kindik qonida IFA o'tkazish
+! PZR virus genetik materialini aniqlaydi, ona antitelalari bunga ta'sir qilmaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Bolada OIV DNK PZR bo'yicha musbat natijani tasdiqlash qanday amalga oshiriladi?
++ 5–7 kun ichida, yangi qon namunasida va aynan shu laboratoriyada
+- 2 haftadan keyin, boshqa laboratoriyada, kindik qonidan olingan namunada
+- 1 oydan keyin, immunoblot yordamida
+- 24 soat ichida, o'sha namunani qayta o'tkazib
+- 3 oydan keyin, IFA usulida
+! Tasdiqlash laborator xatoni istisno qilish uchun yangi namunada bajariladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+#D 136 / 3: protokolda tasdiqlash 5–7 kun ichida tavsiya etilgan, taqdimot slaydlarida esa 2 haftadan keyin ko'rsatilgan; protokol asos qilib olindi.
+? Emizishsiz bolada yuqmaganlikni bildiruvchi PZR natijalari qaysilar?
++ 6 va 12 haftalikdagi ikki marta manfiy natija
+- tug'ilgandagi bitta manfiy natija
+- 6 haftalikdagi musbat va 12 haftalikdagi manfiy natija
+- 12 oylikdagi bitta manfiy natija, 6 haftalikdagi natijasiz
+- 3 va 6 oylikdagi ikki manfiy natija, faqat IFA bilan birga
+! Bitta manfiy natija yetarli emas, shu sababli ketma-ket ikki tekshiruv talab etiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Kontaktda bo'lgan bolada PZR manfiy bo'lganda serokonversiyani aniqlash uchun qaysi tekshiruv qachon o'tkaziladi?
++ 18 oyligida IFA
+- 6 oyligida immunoblot
+- 12 oyligida PZR
+- 24 oyligida tezkor test
+- 3 oyligida IFA
+! Ona antitelalari yo'qolgach, bolaning o'z antitelalari bo'lmasligi yuqmaganlikni tasdiqlaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Qaysi holatda bolada hayotining dastlabki haftasida (1 haftalikda) erta PZR tekshiruvi tavsiya etiladi?
++ ona tug'ruqxonaga kech murojaat qilgan bo'lsa
+- ona emizishdan voz kechgan bo'lsa
+- bola muddatida va sog'lom tug'ilgan bo'lsa
+- ona ART ni homiladorlikning 14-haftasidan olgan bo'lsa
+- bola BCG bilan emlangan bo'lsa
+! Yuqish xavfi yuqori bo'lgan holatlarda tashxis va davolashni erta boshlash zarur.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Dastlabki 48 soat ichida OIV DNK PZR musbat bo'lsa, yuqish qachon sodir bo'lgan deb taxmin qilinadi?
++ bachadon ichida (antenatal)
+- tug'ruq paytida (intranatal)
+- ko'krak suti bilan oziqlantirishda (postnatal)
+- tug'ruqdan keyingi in'ektsiyalar orqali
+- tug'ruqxonadagi nozokomial kontakt orqali
+! Tug'ilgandan keyin juda qisqa vaqtda virusni topish uning homiladorlik davrida mavjudligini ko'rsatadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Dastlabki 48 soatda PZR manfiy bo'lib, keyinroq musbat bo'lsa, yuqish qachon sodir bo'lgan hisoblanadi?
++ tug'ruq paytida (intranatal)
+- bachadon ichida (antenatal)
+- homiladorlikning birinchi trimestrida
+- tug'ilishdan bir yil keyin
+- bolaning birinchi emlashi paytida
+! Virusning topilishi kechikishi infeksiya tug'ilish paytida yoki undan sal oldin boshlanganini ko'rsatadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Emizikli bolada zararlanmaganlikni tasdiqlash uchun OIV testi qachon takrorlanadi?
++ emizish to'liq to'xtatilgandan keyin 6 hafta ichida
+- emizish davomida har kuni
+- tug'ilgandan keyin 2 haftada, emizishdan qat'i nazar
+- emizish to'xtatilgandan keyin 2 yil o'tgach
+- emizish boshlanishidan oldin, tug'ruq zalida
+! Emizish davomida yuqish xavfi saqlanadi, shuning uchun yakuniy xulosa kontakt to'xtagandan so'ng chiqariladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? 18 oydan katta bolalarda OIV tekshiruvi qanday o'tkaziladi?
++ kattalardagi kabi: IFA bilan antitanalar aniqlanib, musbat natija immunoblot bilan tasdiqlanadi
+- PZR bilan, antitanalar aniqlanmasdan va immunoblotsiz, chunki antitelalar baribir ishonchsiz
+- kindik qonida PZR va keyin tezkor test bilan, so'ng natija OITS markaziga yuboriladi
+- onaning natijasiga qarab, bolaning o'zi laborator tekshirilmaydi va hisobga olinmaydi
+- klinik belgilar bo'yicha, laborator tasdiqsiz tashxis qo'yiladi va OITS markaziga yuboriladi
+! Onadan o'tgan antitelalar 18 oyga kelib yo'qoladi, shu sababli antitanalarga asoslangan usul ishonchli bo'ladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Bola OIV bilan nozokomial yo'l bilan zararlangan deb gumon qilinadigan holat qaysi?
++ bemor 18 yoshgacha, onasi sog'lom va tartibsiz jinsiy aloqalar inkor etilgan
+- ona OIV bilan yashaydi va bola ko'krak suti bilan oziqlangan
+- bola ona bilan birga tug'ruq paytida bevosita kontaktda bo'lgan
+- ota-onasidan biri in'ektsion giyohvand bo'lib, bola nazoratsiz qolgan va oilada xavfli xulq-atvor kuzatilgan
+- bola chet elda tug'ilgan va emlash kalendari buzilgan
+! Onadan yuqish va xavfli xulq-atvor inkor etilsa, tibbiy muolajalar bilan bog'liq yuqish ehtimoli o'rganiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Kotrimoksazol profilaktikasi bolalarda qachongacha davom ettiriladi?
++ ikki marta manfiy PZR olingunicha
+- 18 oyligida IFA natijasi chiqquncha, natijadan qat'i nazar
+- 6 oyligigacha, PZR natijasidan qat'i nazar
+- tug'ilgandan 2 yoshgacha, uzluksiz
+- ART boshlangunga qadar, CD4 soni aniqlangach
+! Pnevmotsistali zotiljam xavfi bola OIV bilan zararlanmaganligi tasdiqlanmaguncha saqlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)

@@ -1,0 +1,97 @@
+=== 073
+? Darslikka ko'ra ichak infeksiyalarida qaysi yo'llar asosiy, qaysi biri qo'shimcha yo'l hisoblanadi?
++ suv va oziq-ovqat yo'llari asosiy, maishiy-muloqot yo'li qo'shimcha
+- maishiy-muloqot va suv yo'llari asosiy, oziq-ovqat yo'li qo'shimcha
+- oziq-ovqat va maishiy-muloqot yo'llari asosiy, suv yo'li qo'shimcha
+- havo-tomchi yo'li asosiy, suv va oziq-ovqat yo'llari qo'shimcha
+- transmissiv yo'l asosiy, oziq-ovqat va maishiy-muloqot yo'llari qo'shimcha
+! Suv va oziq-ovqat orqali organizmga qo'zg'atuvchining ko'p miqdori tushishi mumkin, maishiy-muloqotda esa doza kamroq bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16-bob
+? Qo'zg'atuvchining oziq-ovqatga pishirilgandan keyin tushishi nima uchun ayniqsa xavfli?
++ bunday mahsulotda bakteriyalar tez ko'payadi va qayta issiqlik ishlovi berilmaydi
+- bakteriyalar pishirilgan mahsulotda darhol nobud bo'ladi va toksin ajratmaydi
+- pishirilgan mahsulot kislotali muhitga ega bo'lgani uchun qo'zg'atuvchi spora hosil qiladi
+- tayyor taom sovitilganda qo'zg'atuvchi tashqi muhitga chidamli kapsula hosil qilib, faolsizlanadi
+- pishirilgan mahsulot faqat bolalar tomonidan iste'mol qilinadi va ular moyilroq bo'ladi
+! Issiqlik ishlovi o'tgan taomga tushgan mikroblar raqobatsiz ko'payadi, so'ng ularni yo'qotadigan bosqich bo'lmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16-bob
+? Oziq-ovqat yo'li bilan bog'liq avj olishning qaysi xususiyati darslikda ko'rsatilgan?
++ tez ko'tarilib tez pasayadi, odatda bitta qo'zg'atuvchi (monofagotip) aniqlanadi
+- sekin ko'tarilib, bir necha oy davom etadi va bir necha xil qo'zg'atuvchi navbatma-navbat chiqadi
+- faqat qishda kuzatiladi va asosan keksalar orasida tarqaladi
+- holatlar uy a'zolari ichida bir-biridan ketma-ket yuqishi hisobiga asta-sekin ko'payadi
+- avj olish boshlanishi bemorlarning yashash joyi bo'yicha tarqoq joylashishi bilan tavsiflanadi
+! Bir mahsulot ko'pchilikka bir paytda tushgani uchun avj tez ko'tarilib, mahsulot olib tashlangach tez pasayadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16-bob
+? Surunkali suv avj olishlarida ichak infeksiyalari qaysi tartibda navbatma-navbat ko'tariladi?
++ avval ichburug' va boshqa OIK, so'ng ich terlama va paratiflar, keyin virusli gepatitlar
+- avval virusli gepatitlar, so'ng ich terlama va paratiflar, keyin ichburug' va boshqa OIK
+- avval ich terlama va paratiflar, so'ng virusli gepatitlar, keyin ichburug' va boshqa OIK
+- avval salmonellyoz, so'ng vabo, keyin ichburug' va rotavirus infeksiyasi
+- avval virusli gepatitlar, so'ng ichburug', keyin ich terlama va paratiflar
+! Surunkali ifloslanishda qo'zg'atuvchilar ko'payish va tushish imkoniyatiga qarab ketma-ket namoyon bo'ladi, ya'ni eng tez qo'zg'atuvchilar birinchi chiqadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16-bob
+? Yo'riqnomaga ko'ra bemorlar soni qaysi muddat ichida tez ko'tarilsa, bu o'tkir mahalliy ko'tarilishni ko'rsatadi?
++ 1–3 kun davomida
+- 5–7 kun davomida
+- 10–14 kun davomida
+- 1 oy davomida
+- 3 oy davomida
+! Qisqa vaqtda keskin o'sish bir martalik ifloslanishdan darak beradi, 3 kundan keyin ham davom etish esa surunkali ko'tarilishni bildiradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1–3-ilovalar
+? Epidemiologik tashxis uchun belgili xaritada bemorlarning yashash joylari nuqta bilan belgilanib, yana nimalar tushiriladi?
++ suv ta'minoti, umumiy ovqatlanish va savdo muassasalari
+- faqat aholining yosh tarkibi va ish haqi darajasi
+- harbiy qismlar va yopiq turdagi xizmat obyektlari
+- bolalar o'yingohlari va sport zallarining ish jadvali
+- aholining shaxsiy avtotransport vositalari soni
+! Xarita bemorlarning umumiy suv va oziq-ovqat manbalari bilan bog'liqligini ko'rsatishga xizmat qiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1–3-ilovalar
+? Yo'riqnomaga ko'ra OIK bo'yicha epidemiologik tekshiruv qaysi holatda o'tkaziladi?
++ maktabgacha muassasalarga qatnovchi bolalar yoki 2 yoshgacha uyushmagan bolalar orasida holat qayd etilganda
+- 10 yoshdan katta maktab o'quvchilari orasida yakka holat bo'lib, takrorlanmagan va oilaviy poliklinikada hisobga olingan taqdirda ham
+- faqat dam olish kunlari kechgan kasallanish holatlarida
+- ish stajiga ega bo'lmagan yosh xodimlar orasida yakka holat qayd etilganda
+- chet eldan kelgan sayyohlarda ich ketish kuzatilganda
+! Bu guruhlar epidemiologik ahamiyatli hisoblanadi, ko'p marta takrorlangan o'choqlarda ham tekshiruv o'tkaziladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1–3-ilovalar
+? JSST diareyaning oldini olish choralaridan qaysi biri go'dak yoshdagi bolalarga tegishli?
++ birinchi 6 oy faqat ko'krak suti bilan boqish
+- birinchi 3 oy davomida faqat sun'iy aralashma bilan boqish
+- yoshi 1 oyga yetganda qo'shimcha oziq sifatida xom sut berish
+- 2 oylikdan boshlab har kuni antibiotikli profilaktik eritma berish
+- 4 oylikdan boshlab oilaviy dasturxondagi oziq-ovqat bilan boqish
+! Ko'krak suti chaqaloqni ifloslangan oziq-ovqat va suv xavfidan himoya qiladi hamda immun himoyani oshiradi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? SanQvaN bo'yicha jamoat binolari, transport va chegara obyektlarida profilaktik dezinfeksiya qanday chastotada o'tkaziladi?
++ oyiga bir marta, epidemik mavsumda esa tez-tez
+- yilda bir marta, epidemik mavsumda esa har yili ikki marta
+- haftasiga bir marta, mavsumdan qat'i nazar
+- har kuni, mavsumga bog'liq bo'lmagan holda
+- chorakda bir marta, epidemik mavsumda esa o'zgarmagan holda
+! Doimiy profilaktik dezinfeksiya epidemiya bo'lmaganda ham o'tkaziladi, mavsumda esa chastota oshiriladi.
+@ SanQvaN № 0090-25, 5, 55, 56, 65-bandlar
+? O'choqli dezinfeksiya ichak infeksiyalari o'choqlarida qanday muddat va qamrov bilan o'tkaziladi?
++ bemor yotqizilgan paytdan 24 soat ichida va kamida 95 foiz qamrov bilan
+- bemor aniqlanganidan 7 kun ichida va kamida 50 foiz qamrov bilan
+- bemor yotqizilgan paytdan 72 soat ichida va kamida 75 foiz qamrov bilan
+- o'choq so'nganidan keyin bir oy ichida va to'liq 100 foiz qamrov bilan
+- bemor yotqizilishi bilan bir vaqtda, lekin 60 foiz qamrov bilan
+! Dezinfeksiyani tez va keng qamrovda o'tkazish qo'zg'atuvchining o'choqda saqlanib qolishini kamaytiradi.
+@ SanQvaN № 0090-25, 55, 56, 65-bandlar
+? Maishiy-muloqot yo'li bilan yuqishda nima uchun odatda yengil shakl yoki tashuvchilik kuzatiladi?
++ organizmga qo'zg'atuvchining kam miqdori tushishi tufayli
+- ifloslangan buyumlarda qo'zg'atuvchi spora holiga o'tishi tufayli
+- bolalarda immunitet to'liq shakllangan bo'lishi tufayli
+- bunday yo'lda qo'zg'atuvchining faqat o'lgan shakllari tushishi tufayli
+- vaksinatsiya jadvali bo'yicha emlash barcha bolalarni qamrab olishi tufayli
+! Kasallik og'irligi tushgan qo'zg'atuvchi dozasiga bog'liq bo'lib, kontakt yo'lida u kam bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16-bob
+? Darslikka ko'ra ichak infeksiyalari manbasiga nisbatan qo'llaniladigan profilaktik chora qaysi?
++ ishga qabul qilishda oziq-ovqat va bolalar muassasalari xodimlarini bakteriya tashuvchilikka tekshirish
+- quduqlarni saqlash va chiqindilarni olib chiqish tizimini yaxshilash hamda aholi punktlarini obodonlashtirish
+- jamoat joylarida profilaktik dezinfeksiya va dezinseksiya o'tkazish hamda ularning sifatini nazorat qilish
+- chorvachilik va parrandachilikda sanitariya-veterinariya tadbirlarini kuchaytirish hamda ularni nazorat qilish
+- hammom, kir yuvish va sterilizatsiya xizmatlarini kengaytirish hamda ularni sifatini oshirish
+! Tashuvchilarni ishga qabul qilishda aniqlash manbani yuqish yo'llariga chiqmasdan to'sadi, boshqa choralar esa umumsanitariya tadbirlari hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 16-bob

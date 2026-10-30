@@ -1,0 +1,97 @@
+=== 080
+? Qaysi patogen ichak tayoqchasi guruhida yetakchi yuqish yo'li maishiy-kontakt bo'lib, chaqaloqlar va nimjon bolalar ko'proq kasallanadi?
++ enteropatogen (EPIT)
+- enterotoksigen (ETIT)
+- enterogemorragik (EGIT)
+- enteroinvaziv (EIIT)
+- enteroagregativ (EAIT)
+! EPIT koli-enteritlar chaqirib, chaqaloq parvarishlovchilar qo'li, o'yinchoq va so'rg'ich orqali yuqadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.2-bo'lim
+? EPIT chaqirgan kasallanishning taxminan 90 foizi qaysi yoshdagi bolalarga to'g'ri keladi?
++ bir yoshgacha bolalarga
+- 3–5 yoshdagi bolalarga
+- maktab yoshidagi bolalarga
+- o'smirlarga
+- 60 yoshdan oshgan kattalarga
+! Chala tug'ilgan, nimjon va sun'iy oziqlantiriladigan chaqaloqlar moyilroq bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.2-bo'lim
+? JSST ma'lumotiga ko'ra Shiga toksinini ishlab chiqaruvchi E. coli (STEC) rezervuari asosan qaysi hayvonlar?
++ qoramollar
+- itlar va mushuklar
+- cho'chqa va tovuqlar
+- baliqlar va qisqichbaqalar
+- hasharotlar
+! Qoramol ichagida STEC saqlanadi va uning go'shti, suti hamda najasi orqali odamga o'tadi.
+@ WHO. E. coli (fact sheet)
+? JSST bo'yicha STEC infeksiyasining yashirin davri qancha?
++ 3–8 kun, o'rtacha 3–4 kun
+- bir necha soat, o'rtacha 1 soat
+- 3–4 hafta, o'rtacha 20 kun
+- 2–3 oy, o'rtacha 2 oy
+- 1 yil va undan ortiq
+! Qisqa yashirin davr tufayli guruhiy kasallanishlar tez ko'rinadi.
+@ WHO. E. coli (fact sheet)
+? STEC infeksiyasida rivojlanishi mumkin bo'lgan og'ir asorat qaysi?
++ gemolitik-uremik sindrom (GUS)
+- virusli ensefalit
+- yurak qopqoqlarining stenozi
+- o'pka sili
+- surunkali gepatit
+! GUS yosh bolalarda o'tkir buyrak yetishmovchiligining eng ko'p sababi bo'lib, 10 foizgacha holatda rivojlanadi.
+@ WHO. E. coli (fact sheet)
+? JSST bo'yicha STEC infeksiyasini davolashda antibiotiklarga qanday munosabat bildiriladi?
++ davo tarkibiga kirmaydi va GUS xavfini oshirishi mumkin
+- doimo birinchi tanlov bo'lib, barcha bemorlarga beriladi
+- faqat vena ichiga katta dozada yuboriladi, xavfsizdir
+- profilaktik tarzda barcha sog'lom oila a'zolariga beriladi
+- yosh bolalarga mo'ljallangan, kattalarga mutlaqo kerak emas
+! Antibiotiklar toksin ajralishini kuchaytirishi mumkin, shu sababli davo asosan qo'llab-quvvatlovchi bo'ladi.
+@ WHO. E. coli (fact sheet)
+? Oziq-ovqatni pishirishda STEC ni yo'qotish uchun mahsulot markazida kamida qancha harorat bo'lishi kerak?
++ 70 °C
+- 40 °C
+- 50 °C
+- 55 °C
+- 60 °C
+! 70 °C va undan yuqori haroratda to'liq pishirish STECni halok qiladi, 50 °C gacha esa bakteriya hali ko'payishi mumkin.
+@ WHO. E. coli (fact sheet)
+? Enterotoksigen (ETIT) ichak tayoqchalari chaqiradigan kasallik qaysi infeksiyaga o'xshab kechadi va qaysi yo'l bilan yuqadi?
++ vaboga o'xshash; asosan suv yo'li bilan
+- dizenteriyaga o'xshash; asosan maishiy-kontakt yo'li bilan
+- ich terlamaga o'xshash; asosan havo-tomchi yo'li bilan
+- salmonellyozga o'xshash; asosan transmissiv yo'l bilan
+- gepatit Aga o'xshash; asosan parenteral yo'l bilan
+! ETIT toksini vaboga o'xshash suvsimon ich ketish chaqiradi va u tropik hududlarda suv orqali tarqaladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.2-bo'lim
+? Esherixiozlarga qarshi maxsus profilaktika bo'yicha darslikda nima ko'rsatilgan?
++ maxsus profilaktika ishlab chiqilmagan
+- barcha chaqaloqlar tug'ruqxonada majburiy emlanadi
+- doimiy emlanish jadvaliga kiritilgan
+- kasallikka qarshi yagona effektiv vaksina keng qo'llanadi
+- yuqori xavfli hududlarda profilaktik antibiotik beriladi
+! Maxsus vosita yo'qligi sababli sanitariya-gigiyena, qo'l yuvish va ko'krak suti bilan oziqlantirish asosiy chora.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.2-bo'lim
+? Ichak esherixiozlariga tashxis asosan qaysi usullar bilan qo'yiladi?
++ bakteriologik usul, qisman serologik usullar
+- rentgenologik va ultratovush tekshiruv usullari
+- teri-allergik sinamalar va to'qima biopsiyasi usullari
+- elektrokardiografiya va spirometriya usullari
+- umumiy qon tahlili va siydik tahlili usullari
+! Najas yoki qusuq massasi ekilib, qo'zg'atuvchi ajratiladi; serologiya yordamchi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.2-bo'lim
+? JSST ko'rsatmasiga ko'ra STEC xavfi yuqori bo'lgan zaif guruhlar (kichik bolalar, keksalar) nimadan voz kechishi kerak?
++ xom go'sht va xom sut mahsulotlaridan
+- pishirilgan sabzavot va qaynatilgan suvdan
+- non va yorma mahsulotlaridan
+- quruq mevalar va yong'oqdan
+- yaxshilab pishirilgan tuxumdan
+! Xom go'sht va xom sutda STEC saqlanishi mumkin, ular zaif guruhlarda og'ir kechishiga sabab bo'ladi.
+@ WHO. E. coli (fact sheet)
+? STEC bilan kasallanganlarning taxminan qancha qismida gemolitik-uremik sindrom rivojlanishi mumkin va o'lim darajasi qancha?
++ 10 foizgacha; o'lim 3–5 foiz
+- 90 foizdan ko'p; o'lim 0 foiz
+- 50 foiz; o'lim 80 foiz
+- 1 foizdan kam; o'lim 25 foiz
+- 30 foiz; o'lim 60 foiz
+! GUS kam uchraydi, ammo og'ir oqibatlar tufayli STEC jiddiy xavf hisoblanadi.
+@ WHO. E. coli (fact sheet)

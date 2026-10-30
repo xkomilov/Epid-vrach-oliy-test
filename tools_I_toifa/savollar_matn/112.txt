@@ -1,0 +1,97 @@
+=== 112
+? Geogelmintozlarga qaysi kasalliklar kiradi?
++ askaridoz, trixotsefalyoz va toksokaroz
+- opistorxoz, difillobotrioz va klonorxoz hamda boshqa baliq orqali yuqadigan trematodozlar
+- enterobioz, gimenolepidoz va sistitserkoz kabi kontagioz gelmintozlar
+- teniarinxoz, teniozlar va exinokokkoz kabi sestodozlar
+- trixinellyoz, paragonimoz va metagonimoz kabi go'sht orqali yuqadiganlar
+! Bu guruhda rivojlanish oraliq xo'jayinsiz kechadi, tuxum yoki lichinkalar tuproqda yetiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Askarida tuxumlari yangi najas bilan ajralgan paytda nima uchun odamga yuqmaydi?
++ tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerak bo'ladi
+- tuxumlar najas tarkibida bir necha soat ichida butunlay nobud bo'lib ketadi
+- tuxumlar faqat oraliq xo'jayin organizmida yetiladi va keyin odamga o'tadi
+- tuxumlar odam ichagida yetilmaydi, shuning uchun odam ularni yutsa ham zararlanmaydi
+- tuxumlar faqat havo-tomchi yo'li bilan tarqaladi va ovqat orqali yutilmaydi
+! Invazion bo'lish uchun tuxum tashqi muhitda, tuproqda yetilishi kerak, shu sababli yangi najasdan zararlanish bo'lmaydi.
+@ JSST. Soil-transmitted helminth infections (fact sheet); O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Askaridozda intensiv o'choq mezoni qaysi?
++ aholi zararlanishi 30% va undan yuqori
+- 15–29% zararlanish bo'lib, mikro-o'choqlarning kamida yarmida
+- aholining 15% gacha qismi zararlangan holat
+- 10–15% oralig'idagi zararlanish darajasi
+- 3–9% oralig'idagi zararlanish darajasi
+! O'choqlar intensivligi zararlanish ulushiga qarab bo'linadi, o'rta intensivlikda bu ko'rsatkich pastroq bo'ladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Trixotsefalyozda intensiv o'choq uchun qaysi zararlanish ko'rsatkichi belgilangan?
++ 10–15%
+- 30% va undan yuqori
+- 15–29%
+- 3–9%
+- 50% va undan ko'p
+! Trixotsefalyoz uchun mezonlar askaridozdagiga nisbatan pastroq belgilangan.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Intensiv geogelmintoz o'choqlarida ommaviy dehelmintizatsiya qanday tartibda o'tkaziladi?
++ aholiga yiliga 2 marta: bahor oxiri–yoz boshida va kech kuz–qish boshida
+- aholiga yiliga 1 marta: faqat qish oxirida, kasallanish eng past bo'lgan davrda
+- aholiga yiliga 4 marta: har chorak boshida, barcha kontaktdagilar bilan birga
+- faqat mikro-o'choqlarda yiliga 1 marta: kuz boshida, ekinlar yig'ib olingandan keyin
+- har 2 yilda 1 marta: yoz oxirida, maktab o'quvchilari ishtirokida
+! Ikki muddatli davolash bahorda va kech kuzda to'planadigan zararlanishni ketma-ket bartaraf etadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Dehelmintizatsiya samarasi qanday baholanadi?
++ oxirgi dehelmintizatsiyadan 3 oy o'tgach 200–300 kishilik doimiy guruhni qayta tekshirish bilan
+- davolashdan 3 kun o'tgach barcha bolalarni qayta tekshirish va natijani hududiy markazga yuborish bilan
+- davolashdan 1 yil o'tgach 1000 kishidan iborat tasodifiy guruhni serologik tekshirish bilan
+- davolash vaqtida 20–30 kishidan iborat guruhda qon tahlili o'tkazish va natijani solishtirish bilan
+- oxirgi davolashdan 5 yil o'tgach faqat xonadonlarning sanitariya holatini baholash bilan
+! Samarani aniqlash uchun davolangan aholining doimiy guruhi belgilangan muddatdan keyin koproskopik qayta tekshiriladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Geogelmintoz o'chog'i qanday sharoitda hisobdan chiqariladi?
++ 2 yil davomida invaziya aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa
+- 3 oy davomida bitta bemor aniqlanmasa va hovli tuprog'i bir marta tekshirilsa
+- 1 yil davomida aholi to'liq davolangan bo'lsa, tashqi muhit tahlillaridan qat'i nazar
+- 5 yil davomida retrospektiv tahlil o'tkazilgan bo'lsa, laborator natijalarsiz
+- ommaviy dehelmintizatsiya ikki marta o'tkazilgandan keyin darhol, qayta tekshiruvsiz
+! Hisobdan chiqarish uchun uzoq muddatli klinik-laborator va tashqi muhit nazorati natijalari birgalikda manfiy bo'lishi kerak.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? JSST tavsiya etgan albendazol va mebendazol dozalari qaysi variantda to'g'ri keltirilgan?
++ albendazol 400 mg, mebendazol 500 mg
+- albendazol 500 mg, mebendazol 400 mg
+- albendazol 200 mg, mebendazol 100 mg
+- albendazol 1000 mg, mebendazol 250 mg
+- albendazol 100 mg, mebendazol 1000 mg
+! Bu ikki preparat xavf ostidagi guruhlarni individual tashxissiz davriy davolashda tavsiya etiladi.
+@ JSST. Soil-transmitted helminth infections (fact sheet)
+? O'zbekiston yo'riqnomasiga ko'ra geogelmintozlarda yuqtirish mavsumi qaysi davrga to'g'ri keladi?
++ yoz–kuz
+- qish–erta bahor
+- faqat kech qish
+- bahor boshi
+- butun yil davomida bir xil
+! Mavsumiylik tuproqdagi tuxumlarning yetilishi va aholining tuproq bilan aloqasiga bog'liq.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Bitta urg'ochi askarida bir kecha-kunduzda taxminan nechta tuxum qo'yadi?
++ 240 mingtagacha
+- 3000–6000 tagacha
+- 500–800 tagacha
+- 20–50 tagacha
+- 10 milliongacha
+! Bu juda yuqori ko'rsatkich tuproq ifloslanishining tez ortishiga olib keladi; qilbosh urg'ochisi esa ancha kam tuxum qo'yadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? «Yolg'on» geogelmintoz o'chog'ining xarakterli belgisi qaysi?
++ manba mavjud, ammo yuqish omillari va tashqi muhitda aylanish sharoiti yo'q
+- manba ham, yuqish omillari ham, aholi moyilligi ham to'liq mavjud
+- manba yo'q, lekin tuproq tuxum bilan ifloslangan va aholi moyil
+- faqat laboratoriya xatosi tufayli qayd etilgan, haqiqiy bemor bo'lmagan holat
+- oraliq xo'jayin ishtirokida rivojlanadigan biogelmintoz o'chog'i
+! «Asl» o'choqda aylanish sharoiti mavjud bo'ladi, «yolg'on» o'choqda esa faqat manba bor.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? JSSTning umumiy tamoyiliga ko'ra, davriy davolash dasturi qaysi shart bajarilganda epidemiologik jihatdan baholanadi?
++ 5–6 yillik dasturdan keyin davolash qamrovi kamida 75% bo'lganda
+- 1 yillik dasturdan keyin davolash qamrovi kamida 25% bo'lganda
+- 10 yillik dasturdan keyin davolash qamrovi kamida 95% bo'lganda
+- 2 yillik dasturdan keyin davolash qamrovi kamida 50% bo'lganda
+- har yili davolash qamrovidan qat'i nazar, avtomatik tarzda
+! Qamrov yetarli darajaga yetgandan keyingina prevalentlik va intensivlik o'zgarishini ishonchli baholash mumkin.
+@ JSST. Soil-transmitted helminth infections (fact sheet)

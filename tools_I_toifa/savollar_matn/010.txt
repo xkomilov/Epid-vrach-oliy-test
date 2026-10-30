@@ -1,0 +1,99 @@
+=== 010
+? Yuqumli va yuqumli bo'lmagan kasalliklar epidemiologiyasi uchun umumiy bo'lgan tadqiqot usullari qaysi javobda to'g'ri keltirilgan?
++ tavsif bosqichi hamda biostatistika, kogort va "holat-nazorat" tadqiqotlari
+- qo'zg'atuvchini ajratib olish va uning antigen tuzilishini aniqlash usullari
+- o'choqda yakuniy dezinfeksiya o'tkazish va muloqotdagilarni kuzatish tartibi
+- emlash qamrovini hisoblash va populyatsion immunitetni baholash
+- tashuvchi hasharotlar populyatsiyasini monitoring qilish usullari
+! Metodologiya ikkala yo'nalishda ham bir xil: avval tavsif, keyin tahlil.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 5-bob
+? Insidentlik zichligi ko'rsatkichi qaysi sohalarda ayniqsa ko'p ishlatiladi?
++ noinfeksion kasalliklar va gospital (kasalxona ichi) epidemiologiyada
+- o'ta xavfli infeksiyalar o'choqlarida va ularga qarshi tadbirlarni rejalashtirishda
+- bolalar infeksiyalarini emlash natijalarini baholashda va qamrovni hisoblashda
+- tabiiy o'choqli zoonozlarni kuzatishda va epizootiyalarni nazorat qilishda
+- sanitariya-gigiyena me'yorlarini nazorat qilishda va ularni tekshirishda
+! Bu ko'rsatkich xavf omili ta'siri davomiyligini hisobga oladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 5-bob
+? Infeksion kasalliklarda nozologik birlikni ajratib turuvchi asosiy xususiyat nima?
++ qo'zg'atuvchining spetsifikligi
+- bemorning yoshi va jinsi
+- kasallikning mavsumiyligi
+- xavf omillarining ko'pligi
+- kasallikning ijtimoiy-iqtisodiy zarari
+! Spetsifik qo'zg'atuvchi qorin tifi va vabo, difteriya va qizamiq kabi kasalliklarni bir-biridan ajratadi.
+@ Mavzu materiali (010.docx)
+? "Polietiologiya" noinfeksion kasalliklarda nimani anglatadi?
++ bitta sindrom turli omillardan paydo bo'lishi mumkin
+- bitta omil faqat bitta kasallikni keltirib chiqaradi
+- kasallik faqat bitta aniq qo'zg'atuvchidan paydo bo'ladi
+- barcha kasalliklar bir xil sabab bilan bog'liq
+- kasallikning sababi doimo to'liq aniq va isbotlangan bo'ladi
+! Masalan, chekish yurak-tomir kasalliklarini ham, o'smalarni ham keltirib chiqarishi mumkin.
+@ Mavzu materiali (010.docx)
+? Quyidagi xususiyatlardan qaysi biri faqat infeksion kasalliklarga xos?
++ belgisiz (sog'lom) tashuvchilik va qayta kasallanishga qarshi turg'un immunitet
+- populyatsiya darajasida tahlil qilish va xavf omillarini aniqlash imkoniyati
+- kasallanish dinamikasidagi mavsumiy o'zgarishlar va tendensiyalar tahlili
+- insidentlik va prevalentlikni hisoblash hamda ularni solishtirish imkoniyati
+- profilaktika choralarini aholi guruhlari kesimida ishlab chiqish va baholash
+! Noinfeksion kasalliklar uchun siklik kechish, tashuvchilik va turg'un immunitet xos emas.
+@ Mavzu materiali (010.docx)
+? Qaysi tushunchalar faqat infeksion kasalliklarga tegishli?
++ infeksiya manbai va uzatish mexanizmi
+- xavf omili va moyillik darajasi
+- insidentlik va prevalentlik ko'rsatkichi
+- profilaktika va skrining dasturi
+- tendensiya va mavsumiylik tahlili
+! Manba qo'zg'atuvchining tabiiy yashash joyi, fizik yoki kimyoviy agentlar tarqaladigan joy esa manba hisoblanmaydi.
+@ Mavzu materiali (010.docx)
+? JSST ma'lumotiga ko'ra, 70 yoshgacha noinfeksion kasalliklardan vafot etganlarning qancha qismi kam va o'rta daromadli mamlakatlarda bo'lgan?
++ 82 foizi
+- 25 foizi
+- 40 foizi
+- 60 foizi
+- 98 foizi
+! Noinfeksion kasalliklar yuki kam va o'rta daromadli mamlakatlarda nomutanosib darajada yuqori.
+@ WHO. Noncommunicable diseases (fact sheet)
+? 1950-yillarda Yaponiyaning Minamata shahrida kasallanishning sababi nima bo'lgan?
++ fabrikalarning simob saqlovchi oqova suvlari dengizga tashlanishi va baliqlarda simob to'planishi
+- ichimlik suvining vabo vibrioni bilan ifloslanishi va suv orqali odamdan odamga yuqishi
+- tashuvchi hasharotlar orqali yuqadigan qo'zg'atuvchining tabiiy o'choqlarda aylanishi va tarqalishi
+- qizamiq virusining havo-tomchi yo'li bilan tarqalishi va moyil kishilarga o'tishi
+- sut mahsulotlaridagi brutsella bakteriyalarining ko'payishi va ular orqali yuqishi
+! Sababni epidemiologik tahlil aniqladi; bu holatda umumiy xavf omiliga duchor bo'lgan guruh kasallangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 29-bob
+? Mavsumiy ko'tarilish noinfeksion kasalliklardan qaysilarida ham kuzatilishi mumkin?
++ qishda yurak-tomir, serebrovaskulyar va nafas yo'llari kasalliklarida
+- yozda yurak-qon tomir kasalliklari va qandli diabetda, qishda esa hech qanday o'zgarishsiz
+- bahorda onkologik kasalliklarda va ruhiy buzilishlarda
+- kuzda ruhiy kasalliklar va allergik kasalliklarda
+- barcha noinfeksion kasalliklarda yil bo'yi bir xil darajada
+! Kasallanish dinamikasi va mavsumiyligi infeksion va ba'zi noinfeksion kasalliklarda o'xshash o'rganiladi.
+@ Mavzu materiali (010.docx)
+? Quyidagi kasalliklardan qaysi birida infeksiya manbai abiotik muhit hisoblanadi?
++ legionellyoz
+- qizamiq kasalligi
+- gripp kasalligi
+- difteriya kasalligi
+- ko'kyo'tal kasalligi
+! Legionellyozda sotsial omil (kondensionerlar) epidemik jarayonni belgilaydi, qolganlari antroponozlar.
+@ Mavzu materiali (010.docx)
+? Quyidagi kasalliklardan qaysi biri uzoq kechishi va ijtimoiy-iqtisodiy ahamiyati bo'yicha noinfeksion kasalliklarga yaqin turuvchi surunkali yuqumli kasallik hisoblanadi?
++ virusli gepatit B va C
+- qizamiq va qizilcha kasalliklari
+- ko'kyo'tal va difteriya kasalliklari
+- vabo va ich terlama kasalliklari
+- qoqshol va quturish kasalliklari
+! Surunkali yuqumli kasalliklar o'tkir infeksiyalardan farqli ravishda uzoq muddatli salomatlik va iqtisodiy ta'sir ko'rsatadi.
+@ Mavzu materiali (010.docx)
+? Noinfeksion kasalliklar uchun chora-tadbirlar tizimi qanday asosga qurilgan?
++ xavf omillarini (tamaki, spirt, noto'g'ri ovqatlanish, harakatsizlik) kamaytirish, skrining va erta davolash
+- manbani aniqlash, ajratish va kontaktdagilarni kuzatish, uzatish yo'llarini uzish hamda o'choqda yakuniy dezinfeksiya o'tkazish
+- uzatish yo'llarini uzish, o'choqda yakuniy dezinfeksiya o'tkazish va muloqotdagilarni tibbiy kuzatuvga olish
+- tashuvchi hasharotlarga qarshi kurash, deratizatsiya, dezinseksiya va tabiiy o'choqlarda epizootologik kuzatuv
+- moyil kishilarni ommaviy emlash, shoshilinch profilaktika o'tkazish va populyatsion immunitetni oshirish
+! Noinfeksion kasalliklarda xavf omillari va ko'p tarmoqli hamkorlik markaziy o'rin tutadi.
+@ WHO. Noncommunicable diseases (fact sheet)
+#U 010 / 3: Nozologiya bo'yicha talqin rus qo'llanmasiga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 010 / 5: Infeksion va noinfeksion kasalliklar xususiyatlari bo'yicha talqin mavzu materialiga tayangan.

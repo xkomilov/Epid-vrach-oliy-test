@@ -1,0 +1,99 @@
+=== 051
+? Dezinfeksiya tadbirlari epidemik jarayonning qaysi bo'g'iniga ta'sir qiladi?
++ qo'zg'atuvchining yuqish mexanizmiga
+- bemor va tashuvchilar bo'lgan infeksiya manbaiga
+- aholining kollektiv immunitet darajasiga
+- qo'zg'atuvchining virulentlik darajasiga
+- tabiiy rezervuar hisoblangan hayvonlar soniga
+! Dezinfeksiya qo'zg'atuvchini tashqi muhit obyektlarida yo'q qiladi, shu sababli uning yuqish yo'lini uzadi.
+@ SanQvaN № 0090-25 (2025); Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Infeksiya manbai aniqlangan-aniqlanmaganidan qat'i nazar, doimiy ravishda o'tkaziladigan dezinfeksiya qanday nomlanadi?
++ profilaktik dezinfeksiya
+- joriy dezinfeksiya
+- yakuniy dezinfeksiya
+- kamerali dezinfeksiya
+- bakteriologik dezinfeksiya
+! Profilaktik dezinfeksiya epidemik vaziyatga bog'liq bo'lmay, kasallik oldini olish uchun jamoat joylarida o'tkaziladi.
+@ SanQvaN № 0090-25 (2025)
+? Joriy dezinfeksiya qaysi davrda o'tkaziladi?
++ bemor o'choqda bo'lib, atrofga qo'zg'atuvchi ajratib turgan davrda
+- bemor kasalxonaga yotqizilgandan so'ng, o'choq bo'shaganda bir marta
+- kasallik o'chog'i butunlay bartaraf etilgan, bemor sog'ayib bo'lgan paytda
+- infeksiya manbai hali aniqlanmagan, kasallanish holatlari bo'lmagan davrda
+- faqat o'lim holati qayd etilgan taqdirda, o'choq yopilgandan keyin
+! Joriy dezinfeksiya qo'zg'atuvchini ajralgan zahoti yo'q qilib, tarqalishiga yo'l qo'ymaslik uchun manba mavjud paytda olib boriladi.
+@ SanQvaN № 0090-25 (2025); Osipova V.L. Dezinfeksiya (GEOTAR-Media, 2009)
+? Yakuniy (o'choqli) dezinfeksiya qachon o'tkaziladi?
++ infeksiya manbai o'choqdan bartaraf etilgandan keyin bir marta
+- bemor o'choqda bo'lgan butun davr mobaynida har kuni uzluksiz
+- epidemik vaziyatdan qat'i nazar, oyda bir marta rejaviy tartibda
+- yuqumli kasallikka shubha tug'ilgan zahoti, tashxis aniqlanmasdan oldin
+- faqat o'lim holati yuz bergan va jasad olib chiqilgan taqdirdagina
+! Maqsad manba ketgach o'choqda qolgan qo'zg'atuvchini to'liq yo'qotish bo'lgani uchun ishlov manba chiqib ketgandan keyin o'tkaziladi.
+@ SanQvaN № 0090-25 (2025)
+? Dezinfeksiya o'tkazish usullari qanday guruhlarga bo'linadi?
++ mexanik, fizik va kimyoviy
+- mexanik, biologik va immunologik
+- fizik, kimyoviy va farmakologik
+- kimyoviy, bakteriologik va serologik
+- biologik, fizik va epidemiologik
+! Usullar ta'sir mexanizmi bo'yicha ajratiladi: iflosni olib tashlash, yuqori harorat va nur, hamda kimyoviy moddalar.
+@ Osipova V.L. Dezinfeksiya (GEOTAR-Media, 2009)
+? Quyidagi ishlov turlaridan qaysi biri dezinfeksiyaning fizik usuliga kiradi?
++ ultrabinafsha nurlanish yoki quruq issiq havo bilan ishlov berish
+- xonani changyutgich bilan tozalash va iflos qatlamni olib tashlash
+- polga xlorli ohak eritmasini purkash va devorlarni artish
+- qo'lni sovunlab yuvish hamda yuzalarni nam latta bilan arting
+- idishlarni dezinfeksiyalovchi eritmaga botirib qo'yish
+! Fizik usul harorat, bug' va nurlanish kabi omillarga asoslanadi, yuvish va changyutish mexanik, eritmalar esa kimyoviy usulga kiradi.
+@ Osipova V.L. Dezinfeksiya (GEOTAR-Media, 2009)
+? Choyshab, yotoq va ustki kiyim, gilam kabi yumshoq buyumlarni zararsizlantirishda ayniqsa qaysi usul qo'llaniladi?
++ kamerali dezinfeksiya
+- yuzalarni nam latta bilan artish
+- ultratovush yordamida tozalash
+- faqat quyoshda shamollatib quritish
+- xona havosini kvarslash
+! Kamerali ishlovda bug' yoki issiq havo matoning ichiga o'tib, qo'zg'atuvchini yo'qotadi, yuzaki artish esa buning uchun yetarli emas.
+@ SanQvaN № 0090-25 (2025)
+? Spora hosil qiluvchi qo'zg'atuvchilar bo'lgan o'choqda dezinfeksiya rejimi qanday tanlanadi?
++ eng kuchli rejimlar, ya'ni yuqori konsentratsiya va uzoqroq ekspozitsiya qo'llaniladi
+- eng yengil rejimlar tanlanadi, chunki sporalar tashqi muhitda tez nobud bo'ladi
+- faqat mexanik tozalash yetarli bo'ladi, kimyoviy vositalar umuman kerak bo'lmaydi
+- vegetativ shakllar uchun mo'ljallangan odatiy rejim aynan o'zgarishsiz qo'llanadi
+- ekspozitsiya vaqti qisqartiriladi, ammo konsentratsiya doimo pasaytiriladi
+! Sporalar tashqi muhitga o'ta chidamli bo'lgani uchun ularni inaktivatsiya qilishga kuchli rejim kerak.
+@ Osipova V.L. Dezinfeksiya (GEOTAR-Media, 2009)
+? Dezinfeksiya samaradorligini baholashda kimyoviy nazorat nimani tekshirishni anglatadi?
++ eritmadagi faol modda konsentratsiyasini
+- yuzalar tozaligini ko'zdan kechirish orqali baholashni
+- ishlov berilgan yuzadan olingan surtmada qo'zg'atuvchi qolganini
+- xodimlarning shaxsiy himoya vositalaridan foydalanish tartibini
+- vositaning yaroqlilik muddati va saqlash joyining haroratini
+! Kimyoviy nazorat eritmaning faol moddasi belgilangan konsentratsiyada ekanini tekshiradi; ko'zdan kechirish vizual, surtma esa bakteriologik nazoratga kiradi.
+@ Osipova V.L. Dezinfeksiya (GEOTAR-Media, 2009)
+? Ishlov berilgan yuzalardan olingan surtmada qo'zg'atuvchi topilsa, qanday xulosa qilinadi?
++ dezinfeksiya samarasiz deb baholanadi, sabablari tahlil qilinib, tadbir qayta o'tkaziladi
+- dezinfeksiya yetarli deb hisoblanadi va keyingi ishlov bir oydan so'ng rejalanadi
+- faqat vizual nazorat natijasi inobatga olinadi, surtma natijasi esa e'tiborga olinmaydi
+- tadbir samarali bo'lgan, topilgan mikroblar esa tasodifiy ifloslanish sifatida qaraladi
+- ishlov to'xtatiladi va o'choq epidemiologik jihatdan xavfsiz deb e'lon qilinadi
+! Qo'zg'atuvchining saqlanib qolishi ishlov sifatsiz o'tganini bildiradi, shuning uchun noto'g'ri konsentratsiya yoki qisqa ekspozitsiya kabi sabablar aniqlanadi.
+@ Osipova V.L. Dezinfeksiya (GEOTAR-Media, 2009)
+? Kimyoviy dezinfeksiyalovchi vosita tanlanganda inson va atrof-muhitga zarar yetkazmaslik uchun qanday vositalar nazarda tutiladi?
++ kam zaharli, III–IV xavf sinfidagi vositalar
+- yuqori zaharli, I xavf sinfidagi kuchli vositalar
+- II xavf sinfidagi va o'tkir ta'sirli vositalar
+- xavf sinfi hisobga olinmaydigan har qanday vositalar
+- faqat qo'lda tayyorlangan uy sharoitidagi eritmalar
+! Zaharliligi past vositalar xodim va aholi uchun xavfni kamaytiradi, shu sababli xavf sinfi hisobga olinadi.
+@ Mavzu materiali (051.docx)
+? Yakuniy dezinfeksiyada ajralmalar quruq xlorli ohak bilan zararsizlantirilganda qanday nisbat va ekspozitsiya ko'rsatilgan?
++ 200 g/kg (1:5) nisbatda, 1 soat ushlab turiladi
+- 100 g/kg (1:10) nisbatda, 2 soat ushlab turiladi
+- 200 g/kg (1:5) nisbatda, 6 soat davomida ushlab turiladi
+- 50 g/kg (1:20) nisbatda, 30 daqiqa ushlab turiladi
+- 400 g/kg (1:2,5) nisbatda, 24 soat ushlab turiladi
+! Material bo'yicha quruq xlorli ohak va gipoxlorid kalsiy uchun nisbat va ushlab turish vaqti har xil belgilangan.
+@ Mavzu materiali (051.docx)
+#U 051 / 11: kimyoviy vositalarni III–IV xavf sinfidan tanlash talabi faqat mavzu materialiga tayangan.
+#U 051 / 12: xlorli ohak 200 g/kg (1 soat) va gipoxlorid kalsiy 100 g/kg (2 soat) me'yorlari faqat mavzu materialiga tayangan.

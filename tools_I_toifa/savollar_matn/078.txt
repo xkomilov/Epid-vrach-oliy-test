@@ -1,0 +1,100 @@
+=== 078
+? Qorin tifi o'chog'ida muloqotda bo'lganlar doirasi qaysi omil asosida belgilanadi?
++ umumiy suv manbai yoki bitta ovqatlanish joyidan birga foydalanish, bu uy a'zolari doirasidan kengroq bo'lishi mumkin
+- bemor bilan bir xonadonda yashovchi qarindoshlar, boshqa shaxslar esa kirmaydi va ularning hech biri tekshirilmaydi, hatto umumiy suv ishlatgan bo'lsa ham
+- shu shaharda istiqomat qiluvchi aholining hammasi, ularning bemor bilan o'zaro munosabatidan qat'i nazar
+- ijtimoiy tarmoqdagi do'stlari va tanishlari, ular bilan jismoniy aloqa bo'lmagan bo'lsa ham
+- bemor bilan bir kunda va bir poliklinikaga murojaat qilgan boshqa bemorlar
+! Qorin tifi ko'pincha umumiy suv yoki oziq-ovqat orqali yuqadi, shuning uchun muloqotdagilar doirasi shu omilga bog'lanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Qorin tifi o'chog'ida muloqotda bo'lganlar qancha muddat tibbiy kuzatuvda bo'ladi?
++ bir maksimal inkubatsion davr mobaynida
+- bemor kasalxonaga yotqizilgandan keyin 24 soat mobaynida
+- o'choq aniqlangandan keyin 3 kun mobaynida
+- bemor sog'ayganidan keyin bir yil mobaynida
+- to'liq sog'ayguncha, umr bo'yi uzluksiz
+! Kuzatuv muddati kasallikning eng uzun yashirin davriga mos bo'lishi kerak, shunda yangi holat o'z vaqtida aniqlanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Dekretlangan kontingentga mansub muloqotdagilar qachongacha o'z ishiga qo'yilmaydi?
++ bakteriologik tekshiruv salbiy natija bergunicha
+- kasallik belgilari paydo bo'lguniga qadar
+- muloqot bo'lgandan keyin ikkinchi kuni ishga qaytguncha
+- bemor kasalxonadan chiqquniga qadar
+- bir oylik ta'til tugagunicha
+! Zararlangan dekretlangan xodim oziq-ovqat yoki suv orqali ko'pchilikka yuqtirishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Qorin tifi o'chog'ida muloqotdagilarga nisbatan ko'rsatma bo'yicha qanday shoshilinch profilaktika choralari qo'llaniladi?
++ ich terlama bakteriofagini berish
+- gripp vaksinasini ommaviy qo'llash
+- qizamiqqa qarshi immunoglobulin yuborish
+- qoqshol anatoksinini yuborish
+- vitamin kompleksini uzoq muddat ichish
+! Bakteriofag moyil shaxslarni o'choqda himoyalash uchun beriladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Kasallikning qaysi haftalarida ich terlama bemori najas va siydik bilan qo'zg'atuvchini eng ko'p ajratadi?
++ 2–3-haftalarida
+- 1-kunida
+- inkubatsion davrning birinchi sutkasida
+- 6–8-haftalarida
+- 10-haftasidan keyin
+! Kasallik avjida va xolesistit yoki pielit qo'shilsa ajralish yanada ko'payadi, bemorning atrofga xavfi oshadi.
+@ Mavzu materiali (078.docx)
+? Muloqotdagilar orasida kasallik belgilari (isitma, bosh og'rig'i, holsizlik) paydo bo'lsa, nima qilinadi?
++ shaxs ajratiladi va to'liq tekshiruvdan o'tkaziladi
+- kuzatuv to'xtatiladi, chunki u kasal hisoblanmaydi
+- uyda dam olish tavsiya etiladi, laboratoriya tekshiruvisiz
+- muloqotdagilar bir xil ishdan bo'shatiladi
+- jamoat joylaridagi shaxslar ogohlantiriladi
+! Belgilar bo'lsa shaxs yangi bemor sifatida ko'rilib, ajratiladi va laboratoriya orqali tasdiqlanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? Muloqotdagilar doirasi haddan tashqari tor belgilansa qanday xavf tug'iladi?
++ ayrim zararlangan shaxslar kuzatuvdan tashqarida qolib, infeksiya tarqalishda davom etadi
+- resurslar behuda sarflanadi va aholi ortiqcha tekshiruvdan o'tkaziladi, ammo yangi o'choqlar paydo bo'lmaydi
+- bemorlar kasalxonada ortiqcha yotib qoladi va ularning davolanish muddati cho'zilib ketadi
+- suv manbai ortiqcha xlorlanadi
+- dezinfeksiya vositalari ortiqcha sarflanadi
+! Tor doira zararlanganlarning ro'yxatga tushmasligiga, keng doira esa resurs sarfiga olib keladi.
+@ Mavzu materiali (078.docx)
+? Muloqotdagilar bilan ishlash epidemik jarayonning qaysi bo'g'inlariga ta'sir qiladi?
++ manbaga (tashuvchilarni aniqlash), yuqish mexanizmiga (dezinfeksiya, suv nazorati) va qabul qiluvchan organizmga (bakteriofag)
+- qo'zg'atuvchining genetik tuzilishiga, tashqi muhit haroratiga va yilning fasliga, ammo odamlarga ta'sir qilmaydi
+- jamoaning demografik tarkibiga, aholi sonining o'zgarishiga va uy-joy sharoitlariga, ammo epidemik jarayonga ta'sir qilmaydi
+- tibbiyot xodimlarining shaxsiy immunitetiga, malakasiga va ish stajiga, ammo kasallik manbaiga ta'sir qilmaydi
+- manbaga va yuqish mexanizmiga, lekin qabul qiluvchan organizmga hech qanday ta'sir ko'rsatmaydi, chunki bakteriofag berilmaydi
+! Bu tadbirlar epidemik zanjirning uchala bo'g'iniga ta'sir qiladi: manba, mexanizm, moyil organizm.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Qorin tifida muloqotdagilar laboratoriya tekshiruvida qaysi namunalar tekshiriladi?
++ najas va siydik
+- balg'am va bronx yuvindisi
+- orqa miya suyuqligi
+- teri va soch parchalari
+- so'lak va ko'z yoshi
+! Najas va siydik qo'zg'atuvchi ajraladigan chiqindilar bo'lgani uchun tashuvchilarni aniqlash shu namunalar orqali bajariladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 2-ilova
+? O'choqda dezinfeksiya bemor yotqizilgandan keyin qancha muddat ichida o'tkazilishi kerak?
++ 24 soat ichida
+- 6 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+- 1 oy ichida
+! Dezinfeksiyani tez o'tkazish qo'zg'atuvchining o'choqda saqlanishini kamaytiradi.
+@ SanQvaN № 0090-25, 55, 56, 63, 65-bandlar
+? Qorin tifi o'chog'idagi tadbirlarni rejalashtirishda nima asos qilib olinadi?
++ epidemiologik tashxis: infeksiya manbai, yuqish yo'li va xavf ostidagi shaxslar doirasi
+- bemorning shaxsiy xohishi va uning qarindoshlarining talablari hamda mahalla fikri
+- o'tgan yilgi hisobotdagi umumiy raqamlar va qo'shni hududlarning ko'rsatkichlari
+- bemor kasalxonaga yotqizilgan kunning sanasi va haftaning qaysi kuniga to'g'ri kelishi
+- tibbiyot muassasasining moliyaviy imkoniyatlari va xodimlar soni
+! Tadbirlar o'choqning real sharoitiga mos bo'lishi uchun epidemiologik tashxis asosida tuziladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Muloqotdagilar bilan ishlashda hujjatlashtirish nimaga kerak?
++ o'choqning so'nganini asoslash va keyingi tahlil uchun
+- bemorning shaxsiy ma'lumotlarini ommaviy e'lon qilish uchun
+- aholini ma'muriy jarimaga tortish uchun
+- hisobot hajmini oshirish va qog'oz sarfini ko'paytirish uchun
+- qo'zg'atuvchiga qarshi vaksina tayyorlash uchun
+! Kuzatuv natijalari va ko'rilgan choralar qayd etilishi o'choq bartaraf etilganini isbotlaydi.
+@ Mavzu materiali (078.docx)
+#U 078 / 5: 2–3-haftalarda eng ko'p ajralish ko'rsatkichlari faqat mavzu materialiga (yo'riqnoma bayoniga) tayanadi.
+#U 078 / 7: Tor belgilangan doira xavfi haqidagi mulohaza faqat mavzu materialiga tayanadi.
+#U 078 / 12: Hujjatlashtirishning maqsadi haqidagi fikr faqat mavzu materialiga tayanadi.

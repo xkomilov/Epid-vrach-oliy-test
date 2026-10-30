@@ -1,0 +1,98 @@
+=== 001
+? "Epidemiologiya" atamasi qaysi yunoncha so'zlardan olingan?
++ epi (ustida, orasida), demos (xalq) va logos (fan)
+- pathos (kasallik), genesis (kelib chiqish) va logos (fan)
+- epi (ustida, orasida), bios (hayot) va logos (fan) so'zlaridan
+- demos (xalq), hygieia (sog'liq) va graphos (yozuv) so'zlaridan
+- endo (ichida), demos (xalq) va metron (o'lchov) so'zlaridan
+! Atama xalq orasida tarqalgan hodisalarni o'rganuvchi fanni bildiradi va aynan shu uch ildizdan tuzilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, I bob
+? Xalqaro amaliyotda qabul qilingan ta'rifga ko'ra, epidemiologiyaning asosiy mohiyati nimadan iborat?
++ belgilangan aholi guruhlarida sog'liq holatlari tarqalishi va determinantlarini o'rganish hamda bilimni nazoratda qo'llash
+- faqat yuqumli kasalliklar qo'zg'atuvchilarini laboratoriyada ajratib olish va ularning xossalarini mikroskop yordamida o'rganish
+- bemorlarni yotoq-kunlar bo'yicha davolash va statsionar sharoitida klinik tashxis qo'yish tartibini ishlab chiqish
+- dori vositalarining farmakologik ta'sirini hayvonlarda tajriba o'tkazish orqali baholash va ularni ro'yxatdan o'tkazish
+- aholi orasida sanitariya-gigiyena me'yorlarini belgilash va ishlab chiqarish korxonalarini faqat litsenziyalash
+! Ta'rif uch yo'nalishni birlashtiradi: tarqalishni tavsiflash, sabablarni aniqlash va amaliy nazorat choralarini qo'llash.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 1
+? Epidemiologik ta'rifdagi "determinantlar" tushunchasi nimani anglatadi?
++ kasallik paydo bo'lishiga ta'sir qiluvchi sabablar va xavf omillarini
+- sog'liq hodisalarining vaqt, joy va shaxs bo'yicha chastotasi hamda tuzilishini
+- olingan natijalarni amaliy jamoat salomatligi choralariga aylantirish jarayonini
+- ma'lumotlarni tizimli va xolis yig'ish, tahlil qilish hamda sharhlash usullarini
+- kasallik asoratlarini davolash va reabilitatsiya choralarini rejalashtirish tartibini
+! Determinantlar sabab va xavf omillarini bildiradi, tarqalish va qo'llash esa ta'rifning boshqa tarkibiy qismlaridir.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 1
+? Kasallikning bemordan sog'lomga yuqishi tufayli paydo bo'lishini tushuntiruvchi qadimgi faraz qanday nomlanadi?
++ kontagioz farazi
+- miazma farazi
+- tabiiy o'choqlilik farazi
+- o'z-o'zini boshqarish farazi
+- genetik moyillik farazi
+! Kontagioz farazi kasallik bemordan yuqishini tan oladi, miazma farazi esa uni tuproq, botqoq yoki havodagi moddalar bilan bog'laydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, I bob
+? 1854-yilda London Golden Square hududidagi vabo epidemiyasida Jon Snou nimani aniqladi va qanday choradan keyin epidemiya to'xtadi?
++ manba Broad Street quduq suvi deb aniqlandi; quduq dastagi olib tashlangach epidemiya to'xtadi
+- havodagi miazma manba deb aniqlandi; botqoqliklar quritilgach epidemiya to'xtadi va tozalandi
+- kana chaqishi manba deb topildi; uylar zararsizlantirilgach epidemiya to'xtadi
+- sut mahsulotlari manba deb topildi; sut sotish taqiqlangach epidemiya to'xtadi
+- bemor kiyimlari manba deb aniqlandi; kiyimlar yoqib tashlangach epidemiya to'xtadi
+! Snou bemorlar yashagan uylarni xaritaga tushirib, ularning aksariyati bir quduq suvidan foydalanganini ko'rsatdi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+? Jon Graunt 1662-yilda qaysi ma'lumotlarni tahlil qilib, epidemiologiya tarixida qanday ish qildi?
++ London o'lim ko'rsatkichlarini tahlil qilib, o'lim va kasallanishdagi farqlarni birinchi bo'lib miqdoriy tavsifladi
+- Londondagi vabo bemorlarini xaritaga tushirib, zararlangan quduqni birinchi bo'lib aniqladi
+- chechakka qarshi birinchi vaksinani yaratib, uning samaradorligini aholi o'rtasida sinab ko'rdi
+- vabo qo'zg'atuvchisini mikroskop yordamida ko'rib, uni sof kulturada birinchi bo'lib ajratib oldi va tasvirladi
+- o'lim statistikasini tizimli to'plab, kasalliklarning birinchi xalqaro tasnifini yaratdi va uni rasmiy ravishda joriy etdi
+! Graunt o'lim va kasallanishning jins, joy va mavsumga bog'liq farqlarini raqamlar bilan ko'rsatgan birinchi olim sifatida tilga olinadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+? Quyidagi olimlardan qaysi biri tabiiy o'choqlilik nazariyasini ishlab chiqqan?
++ E.N. Pavlovskiy
+- L.V. Gromashevskiy
+- V.D. Belyakov
+- D.K. Zabolotniy
+- N.A. Semashko
+! Pavlovskiy tabiiy o'choqlilik ta'limotining muallifi; Gromashevskiy esa epidemik jarayon va yuqish mexanizmi ta'limotini yaratgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, I bob
+? V.D. Belyakov epidemiologiya fanida qaysi nazariyani asosladi?
++ epidemik jarayonning o'z-o'zini boshqarish nazariyasini
+- tabiiy o'choqlilik nazariyasini
+- epidemik jarayon va yuqish mexanizmi ta'limotini
+- kontagioz va miazma farazlarining uyg'unligi nazariyasini
+- sanitariya statistikasi va tasnif nazariyasini
+! Bu nazariya epidemik jarayonni parazit va xo'jayin populyatsiyalarining o'zaro ta'siri asosida boshqariladigan tizim sifatida talqin qiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, I bob
+? O'zbekistonda mustaqil epidemiologiya kafedrasi qaysi yilda va qaysi muassasa tarkibida tashkil topgan?
++ 1935-yilda Toshkent davlat tibbiyot instituti tarkibida
+- 1920-yilda Toshkent davlat tibbiyot instituti tarkibida
+- 1935-yilda Samarqand tibbiyot instituti tarkibida
+- 1952-yilda Toshkent pediatriya instituti tarkibida
+- 1993-yilda Toshkent tibbiyot akademiyasi tarkibida
+! 1930–1935-yillarda fan faqat mikrobiologiya va yuqumli kasalliklar kafedralari qoshida kurs sifatida o'qitilgan.
+@ Mavzu materiali (001.docx)
+? Quyidagi kasalliklarning qaysi biri o'zbekistonlik olimlarning ilmiy ishlari natijasida aholi orasida tugatilgan deb ko'rsatilgan?
++ rishta
+- virusli gepatitlar
+- OIV-infeksiyasi
+- gripp va O'RK
+- o'tkir ichak infeksiyalari
+! Chechak, rishta va poliomielit tugatilgan, qolgan guruhlar esa hozir ham dolzarb muammo bo'lib qolmoqda.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, I bob
+? Hozirgi epidemiologiyaning qadimgi davrdagi tushunchadan farqi qaysi javobda to'g'ri ko'rsatilgan?
++ u epidemik jarayon haqidagi fanga aylanib, xavf guruhlari va hududlarini aniqlaydi hamda choralar samaradorligini baholaydi
+- u faqat epidemiyalar tarixini yozib boruvchi fan bo'lib qoldi va xavf omillarini aniqlash bilan shug'ullanmaydi
+- u faqat klinik tashxis qo'yish va bemorlarni davolash usullarini ishlab chiqish bilan shug'ullanuvchi fanga aylandi
+- u yuqumli bo'lmagan kasalliklarni o'rganishdan butunlay voz kechib, faqat laboratoriya tadqiqotlariga asoslandi
+- u kasalliklarni o'rganishni to'xtatib, faqat sanitariya-gigiyena me'yorlarini yozib chiqish bilan cheklandi
+! Dastlab ommaviy tarqalish haqidagi fan sifatida shakllangan epidemiologiya keyinchalik epidemik jarayonni o'rganuvchi fanga aylangan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, I bob
+? 1990-yillardan boshlab epidemiologlar yuqumli qo'zg'atuvchilarning tabiiy tarqalishidan tashqari yana nimani hisobga olishga majbur bo'ldi?
++ ularning biologik qurol sifatida ataylab tarqatilishini
+- ularning faqat hayvonlar orasidagi tabiiy aylanishini
+- ularning antibiotiklarga o'z-o'zidan sezgir bo'lib qolishini
+- ularning faqat laboratoriya sharoitida ko'payish tezligini
+- ularning tashqi muhitda spora hosil qilmasdan yashashini
+! Yangi infeksiyalar paydo bo'lishi bilan birga qo'zg'atuvchilarni qasddan tarqatish xavfi ham epidemiologik nazoratning bir qismiga aylandi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+#U 001 / 9: O'zbekistondagi kafedra tashkil topish yili va muassasasi faqat mavzu materialiga tayangan.

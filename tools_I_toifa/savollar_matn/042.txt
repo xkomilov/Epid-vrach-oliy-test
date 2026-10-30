@@ -1,0 +1,98 @@
+=== 042
+? Emlashning immunologik samaradorligi nimani ifodalaydi?
++ Emlangan odam organizmida himoyalovchi immun javob hosil bo'lishini
+- Emlash natijasida aholi orasida kasallanish va o'lim darajasi pasayishini
+- Emlangan bolalarning emlash kalendari bo'yicha qamrab olinish ulushini
+- Vaksina ishlab chiqarish va tashish jarayonida harorat saqlanganligini
+- Emlashdan keyingi noxush hodisalar sonining kamayishini ko'rsatuvchi tahlilni
+! Bu ko'rsatkich individual darajadagi immun javobga tegishli, aholi darajasidagi natija esa boshqa turdagi samaradorlikni anglatadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? JSST «effectiveness» (vaksina ta'siri) tushunchasini qanday farqlaydi?
++ Vaksinaning real sharoitda, katta va xilma-xil aholi orasida qanchalik ishlashi sifatida
+- Nazoratli klinik sinovda o'lchanadigan xavfning pasayishi sifatida
+- Vaksinaning laboratoriyada antitelo titri hosil qilish qobiliyati sifatida
+- Vaksinaning ishlab chiqaruvchi tomonidan kafolatlangan saqlanish muddati sifatida
+- Yon ta'sirlarning umumiy chastotasi va og'irlik darajasi sifatida
+! Klinik sinovdagi natija (efficacy) nazorat ostida olinadi, real amaliyotdagi natija esa undan farq qilishi mumkin.
+@ WHO. Vaccine efficacy, effectiveness and protection
+? Emlanmaganlarda kasallanish 1000 kishiga 20 ta, emlanganlarda 5 ta bo'lsa, epidemiologik samaradorlik necha foizni tashkil etadi?
++ 75 %
+- 25 %
+- 15 %
+- 80 %
+- 300 %
+! Farq (15) emlanmaganlardagi kasallanishga (20) bo'linib 100 ga ko'paytiriladi.
+@ WHO. Vaccine efficacy, effectiveness and protection
+? JSST misoliga ko'ra, samaradorligi 80 % bo'lgan vaksina nimani anglatadi?
++ Placebo guruhiga nisbatan kasallanish xavfi 80 % kam bo'lishini
+- Emlangan har 100 kishidan 20 tasi albatta kasallanishini, qolganlari esa saqlanishini
+- Emlanganlarning 80 % ida hech qanday yon reaksiya bo'lmasligini
+- Vaksina saqlash harorati talabining 80 % bajarilganini ko'rsatishini
+- Aholining 80 % i emlash bilan qamrab olinganini bildirishini
+! Bu ko'rsatkich xavfning nisbiy pasayishini bildiradi, qamrov yoki xavfsizlikni emas.
+@ WHO. Vaccine efficacy, effectiveness and protection
+? Tirik vaksinalarning o'ldirilgan vaksinalardan asosiy immunologik farqi nimada?
++ Kam doza va kam revaksinatsiya bilan ishonchli immunitet hosil qilishida
+- Har doim ko'p doza va tez-tez revaksinatsiya talab qilishi, shu bilan xavfsizroq bo'lishida
+- Immuntanqisli bemorlar uchun mutlaqo xavfsiz bo'lishida
+- Toksinlarga qarshi immunitet berib, mikroblarga ta'sir qilmasligida
+- Passiv immunitetni tayyor antitelolar yordamida yaratishida
+! Tirik preparat organizmda ko'payib tabiiy infeksiyani taqlid qiladi, shu sababli kuchliroq va uzoqroq javob beradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? O'ldirilgan vaksinalarning tirik vaksinalarga nisbatan qaysi jihati ularni xavfsizroq qiladi va qanday kamchilik keltiradi?
++ Klinik shakl chaqirmaydi, lekin ko'p doza va ko'p revaksinatsiya talab qiladi
+- Immunitetni umrbod ta'minlaydi, ammo kamdan-kam klinik shakl chaqiradi
+- Faqat bir marta yuboriladi, biroq muzlatilgandan keyin faolligini yo'qotadi
+- Tayyor antitelolarni kiritadi, ammo immun xotira hosil qilmaydi
+- Tabiiy infeksiyadan kuchliroq immunitet beradi, lekin juda qimmat turadi
+! O'ldirilgan preparat ko'payolmasligi sababli kasallik chaqirmaydi, shu bilan birga immun javobni qo'llab-quvvatlash uchun takroriy dozalar kerak.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemik vaziyat yomonlashganda qizamiqqa qarshi dastlab qaysi yoshdagi bolalar emlanadi?
++ 8 oylik bolalar
+- 3 oylik bolalar
+- 5 oylik bolalar
+- 15 oylik bolalar
+- 2 yoshli bolalar
+! Xavf yuqori bo'lganda emlash odatdagidan ertaroq boshlanadi, garchi to'liq qimmatli immunitet bir yoshdan keyin shakllansa ham.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda emlash kalendari bo'yicha bolalar va o'spirinlarni profilaktik emlashga qamrov kamida qancha bo'lishi belgilangan?
++ 95 %
+- 70 %
+- 80 %
+- 85 %
+- 99 %
+! Yuqori qamrov populyatsion immunitetni ta'minlab, emlanmaganlarni ham bilvosita himoya qiladi.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Passiv emlashning faol emlashdan asosiy farqi qanday?
++ Antitelolar organizmga tayyor holda kiritiladi
+- Organizm antitelolarni o'zi uzoq muddat ishlab chiqaradi
+- Qo'zg'atuvchining zaiflashtirilgan shtammi ko'paytiriladi
+- Immun xotira T- va B-limfotsitlar orqali shakllanadi
+- Anatoksin yordamida toksinga qarshi immunitet yaratiladi
+! Tayyor antitelolar darhol himoya beradi, ammo ular organizmda uzoq saqlanmaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagi kasalliklardan qaysi birida himoyalovchi immunitetning roli juda kam bo'lgani uchun emlash qo'llanilmaydi?
++ Zahm
+- Difteriya
+- Qizamiq, havo-tomchi yo'li bilan tez tarqaluvchi
+- Virusli gepatit B
+- Poliomielit
+! Zahm qo'zg'atuvchisiga qarshi barqaror himoyalovchi immunitet shakllanmaydi, shu bois vaksina yaratilmagan.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ma'lumotiga ko'ra, to'liq emlangan odamda «breakthrough» infeksiya rivojlansa, u qanday kechadi?
++ Odatda yengilroq kechadi, og'ir kasallik va o'lim kam uchraydi
+- Emlanmagan odamdagidek og'ir kechadi, farq bo'lmaydi
+- Mutlaq himoya tufayli umuman rivojlanmaydi, bunday hol kuzatilmaydi
+- Surunkali shaklga o'tib, doimiy tashuvchilikka aylanadi
+- Bolalarda uchraydi, kattalarda esa kuzatilmaydi
+! Qisman himoya saqlanib qolgani sababli kasallik klinik jihatdan yengillashadi, garchi vaksina 100 % kafolat bermasa ham.
+@ WHO. Vaccine efficacy, effectiveness and protection
+? Rejali emlashlar qanday sharoitda o'tkaziladi?
++ Epidemik sharoitdan qat'i nazar, belgilangan kalendar bo'yicha
+- Epidemiologik vaziyat yomonlashgandagina o'tkaziladi, undan oldin emas
+- Kasallik o'choqlari aniqlangan hududlardagina o'tkaziladi, boshqa joyda emas
+- Xavf guruhlari mahalliy qonunchilik asosida emlanganda o'tkaziladi
+- Bemor bilan muloqotda bo'lganlar emlanganda o'tkaziladi
+! Vaziyat istalgan vaqtda yomonlashishi mumkinligi sababli himoya oldindan va muntazam yaratiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+#U 042 / 3: samaradorlik formulasi manbada formula shaklida berilmagan (muallif xulosasi).

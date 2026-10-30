@@ -1,0 +1,99 @@
+=== 025
+? Shifoxona vrach-epidemiologining asosiy vazifasi nima?
++ Shifoxona ichi infeksiyalarini aniqlash, hisobga olish va ularni nazorat qilishni tashkil etish
+- Bemorlarni jarrohlik yo'li bilan davolash, operatsiyalar rejasini tuzish va operatsiyadan keyingi reabilitatsiyani nazorat qilish
+- Muassasa xodimlarining mehnat haqi va mukofotlarini hisoblab chiqish
+- Dori vositalarini xarid qilish bo'yicha tender hujjatlarini tayyorlash
+- Bemorlarga psixologik reabilitatsiya dasturlarini ishlab chiqish
+! Epidemiolog infeksion xavfsizlikning asosiy ijrochisi sifatida nozokomial infeksiyalarni aniqlash va tahlil qilishni yo'lga qo'yadi.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Nozokomial infeksiyalarning o'ziga xosligi nimada?
++ Ular ko'pincha shartli-patogen va antibiotiklarga chidamli mikroorganizmlar tomonidan, ojiz immunitetli bemorlarda yuzaga keladi
+- Ular faqat sog'lom odamlarda va faqat qishloq joylarida uchraydi, tibbiy aralashuvlar bilan bog'liq emas hamda antibiotiklarga doimo sezgir bo'ladi
+- Ular doimo faqat tabiiy o'choqli zoonozlar qo'zg'atuvchilari tufayli kelib chiqadi
+- Ular tibbiy aralashuvlar bilan umuman bog'liq bo'lmaydi va faqat oziq-ovqat orqali yuqadi
+- Ular faqat bolalarda uchraydi va hech qachon kattalarda kuzatilmaydi
+! Operatsiya, kateter, sun'iy nafas kabi aralashuvlar va zaiflashgan organizm chidamli opportunistik mikroblar uchun qulay sharoit yaratadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016; WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Nozokomial infeksiyalarni standart ta'riflar asosida hisobga olishning afzalligi nimada?
++ Ma'lumotlarni to'g'ri taqqoslash imkonini beradi
+- Har bir shifoxona o'z mezonini qo'llab, hisobotlarni bir-biridan ajratib oladi
+- Infeksiyalarni hisobga olish zaruratini butunlay yo'qotadi
+- Faqat laboratoriya tasdiqlagan holatlarni qoldirib, qolganlarini yashiradi
+- Hisobotlar sonini kamaytirib, tahlilni ixtiyoriy qiladi
+! Yagona ta'rif turli bo'limlar va muassasalar ko'rsatkichlarini bir xil mezonda solishtirishga yordam beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiolog tibbiy xodimlarning infeksion xavfsizligini ta'minlash uchun qaysi emlashni tashkil etadi?
++ Virusli gepatit B ga qarshi emlash
+- Ensefalitga qarshi mavsumiy emlash
+- Sariq isitmaga qarshi emlash
+- Vabo vaksinasi bilan har yili emlash
+- Quturishga qarshi yillik profilaktik emlash
+! Xodimlar qon bilan aloqa qilgani sababli gepatit B yuqish xavfi yuqori, shu bois emlash asosiy himoya chorasi hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Ignadan sanchilish kabi professional ekspozitsiya yuz berganda epidemiolog qanday chorani tashkil etadi?
++ Shoshilinch (post-ekspozitsion) profilaktikani
+- Jarohatni e'tiborsiz qoldirib, kuzatishsiz ishni davom ettirishni
+- Xodimni darhol ishdan bo'shatish va hujjatlarni arxivga topshirishni
+- Bemorlarning hammasini vaqtincha ambulatoriyaga o'tkazishni
+- Faqat ertasi kuni umumiy majlisda muhokama qilishni
+! Ekspozitsiyadan keyin imkon qadar erta boshlangan profilaktika infeksiya yuqish xavfini kamaytiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Qo'l gigienasi infeksion nazoratda qanday baholanadi?
++ Eng oddiy, arzon va ayni paytda eng samarali choralardan biri sifatida
+- Jarrohlar uchungina ahamiyatli, qolgan xodimlarga kerak bo'lmagan chora sifatida
+- Qimmat va murakkab texnologiya talab qiladigan, shuning uchun amaliyotda qo'llanmaydigan chora sifatida
+- Nozokomial infeksiyalarga hech qanday ta'sir qilmaydigan an'anaviy odat sifatida
+- Faqat epidemik avj olish paytida qo'llaniladigan favqulodda chora sifatida
+! Qo'l orqali yuqish nozokomial infeksiyalarning asosiy yo'li bo'lgani uchun gigiyena ularni kamaytirishning asosiy vositasi hisoblanadi.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Antibiotiklardan oqilona foydalanishni targ'ib qilish (stewardship) nimaga qaratilgan?
++ Antimikrob chidamlilikning paydo bo'lishi va tarqalishini kamaytirishga
+- Antibiotiklarning narxini oshirib, savdo hajmini ko'paytirishga
+- Barcha bemorlarga profilaktik tarzda keng spektrli antibiotik berishga
+- Antibiotiklarni xuddi vitaminlar kabi ixtiyoriy iste'molga ruxsat berishga
+- Mikrobiologik monitoringni to'xtatib, empirik davolashga to'liq o'tishga
+! Noto'g'ri va ortiqcha antibiotik qo'llash chidamli shtammlarni tanlab, davolashni murakkablashtiradi.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Nozokomial avj olish aniqlanganda o'choqda qaysi chora ko'rilishi mumkin?
++ Qo'shimcha dezinfeksiya, bemorlarni ajratish va zarur bo'lsa bo'limni vaqtincha yopish
+- Bemorlarning hammasini tekshirmasdan darhol uylariga chiqarib yuborish, bo'limni esa o'z holiga tashlab qo'yish
+- Avj olishni sir tutib, hech qanday chora ko'rmaslik va hisobotni to'xtatish
+- Bitta bemorning kasallik tarixini o'zgartirish va hisobotni yashirish
+- Faqat xodimlarning ish jadvalini bir hafta oldinga surish
+! Epidemiolog manbani aniqlagach, tarqalishni to'xtatish uchun dezinfeksiya, izolyatsiya va kerak bo'lsa bo'limni yopish choralarini qo'llaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Avj olish o'choqida yagona manbani aniqlash uchun zarur bo'lganda qo'zg'atuvchi shtammlar qanday taqqoslanadi?
++ Molekulyar usulda
+- Faqat bemorlar shikoyatlarini og'zaki solishtirish orqali
+- Bemorlarning ism-familiyalari bo'yicha alfavit tartibida
+- Bemorlarning bo'y va vazn ko'rsatkichlari bo'yicha
+- Palatalarning rangi va joylashuvi bo'yicha
+! Molekulyar tipirlash bir xil klonning tarqalganligini yoki holatlar bir-biriga bog'liq emasligini ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? 2019-yildagi 92-son buyruqqa ko'ra, infeksion nazorat komissiyasining asosiy yo'nalishi nima?
++ Shifoxona ichi infeksiyalarini aniqlash va ro'yxatga olishni yo'lga qo'yish, profilaktik choralarni ishlab chiqish va bajarilishini tashkil etish
+- Bemorlar uchun to'lov tariflarini belgilash va ularni muassasa daromadi bilan solishtirish, byudjet tushumlarini rejalashtirish va xizmat narxlarini yillik tasdiqlatish
+- Yangi tibbiy asbob-uskunalar sotib olish uchun moliyaviy mablag' izlash
+- Xodimlarni ishga qabul qilish bo'yicha tanlov o'tkazish
+- Muassasa hovlisini obodonlashtirish ishlarini rejalashtirish
+! Buyruq komissiya zimmasiga KIIni aniqlash, ro'yxatga olish va ularni bartaraf etish choralarini tashkil etishni yuklagan.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 02.04.2019-yildagi 92-son buyrug'i, 1-ilova
+? 92-son buyruqda DPM va DSENM xodimlari bilimini attestatsiyadan o'tkazish qanday chastotada belgilangan?
++ Yiliga bir marta
+- Har oyda bir marta
+- Har chorakda bir marta
+- Besh yilda bir marta
+- Faqat ishga qabul qilinganda bir marta
+! Buyruq xodimlar bilimini yiliga bir marta attestatsiya qilishni nazarda tutadi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 02.04.2019-yildagi 92-son buyrug'i, 1-ilova
+? Epidemiologik nazoratda yuqish zanjirining qaysi bo'g'iniga e'tibor qaratiladi?
++ Aralashuvga eng sezgir bo'g'iniga
+- Zanjirning eng uzoq va eng kam o'rganilgan bo'g'iniga
+- Har doim faqat qo'zg'atuvchi bo'g'iniga, boshqalarini hisobga olmay
+- Tasodifiy tanlangan bo'g'inga, tahlilsiz
+- Faqat moyil organizmga, boshqa bo'g'inlardan qat'i nazar
+! Eng sezgir bo'g'inga qaratilgan aralashuv zanjirni eng kam sarf bilan uzadi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 10
+#U 025 / 10: buyruqning aniq bandlari skanerlangan nusxa (kirill va lotin aralash) asosida; yillik attestatsiya talabi hozirgi tahrir bilan solishtirilmagan.
+#U 025 / 11: 92-son buyruq mazmuni faqat mavzu materiali (skanerlangan nusxa) orqali ko'rilgan.

@@ -1,0 +1,98 @@
+=== 081
+? 1973-yilda immun elektron mikroskopiya yordamida bemorlar najasidan topilgan gepatit A virusi zarrachalarining o'lchami va taksonomik mansubligi qanday?
++ 27–30 nm o'lchamli, enterovirus avlodi va pikornavirus oilasiga mansub zarrachalar
+- 42 nm o'lchamli, gepadnavirus oilasiga mansub qo'sh qobiqli zarrachalar, DNK tutuvchi virionlar
+- 60–80 nm o'lchamli, flavivirus oilasiga mansub qobiqli RNK-virus zarrachalari, lipid qatlamli
+- 100–120 nm o'lchamli, koronavirus oilasiga mansub toj shaklidagi yirik virion zarrachalari
+- 35–40 nm o'lchamli, kaliciviruslar oilasiga mansub qobiqsiz yumaloq zarrachalar, shakli kosasimon
+! Gepatit A virusi kichik, qobiqsiz RNK-virus bo'lib, enteroviruslarga yaqin turadi; qobiqli yoki DNK tutuvchi viruslar boshqa gepatitlarga xos.
+@ Mavzu materiali (081.docx); WHO. Hepatitis A (fact sheet)
+? Gepatit A infeksiyasining gepatit B va C dan asosiy farqi nimada?
++ surunkali jigar kasalligini keltirib chiqarmaydi va tuzalgach uzoq muddatli immunitet qoldiradi
+- ko'pincha surunkali gepatitga o'tadi, keyinchalik sirroz va birlamchi jigar saratoniga olib keladi
+- asosan qon quyish va steril bo'lmagan in'ektsiyalar orqali yuqadi hamda kasallikdan keyin virus butun umr saqlanib qoladi
+- faqat homilador ayollarda kechadi va onadan bolaga perinatal yo'l bilan uzatiladi, surunkali tashuvchilik bilan kuzatiladi
+- boshqa gepatit virusi mavjud bo'lganda ko'payadi va mustaqil infeksiya bermaydi
+! Fekal-oral yo'l bilan yuqadigan bu virus jigarda doimiy infeksiya qoldirmaydi, shu sababli surunkalilashish kuzatilmaydi.
+@ WHO. Hepatitis A (fact sheet)
+? Gepatit A virusi tanadan qaysi davrda eng ko'p ajraladi?
++ yashirin davrning oxirgi 7–10 kuni va sariqlikdan oldingi davrda, sariqlik paydo bo'lishi bilan ajralish kamayadi
+- sariqlik avjiga chiqqan davrda, kasallikning ikkinchi–uchinchi haftasida, shundan so'ng ajralish yanada kuchayib boradi
+- tuzalish davrining 3–4-oylarida, anti-HAV IgG antitelalari yuqori titrga yetganda, ajralish eng yuqori darajaga chiqadi
+- faqat klinik belgilar to'liq yo'qolgandan keyin, rekonvalestsensiya oxirida va uzoq muddatli tashuvchilik bosqichida
+- kasallikning birinchi kunidan boshlab bir xil darajada, sariqlik davri tugagunga qadar tekis ajraladi
+! Virus sariqlikdan oldin eng ko'p ajralgani uchun belgisiz va notipik shakldagi bemorlar eng xavfli manba bo'ladi.
+@ Mavzu materiali (081.docx); WHO. Hepatitis A (fact sheet)
+? JSST ma'lumotiga ko'ra, gepatit A ning yashirin davri odatda qancha davom etadi?
++ 14–28 kun
+- 45–180 kun, o'rtacha ikki–uch oy
+- 2–6 oy, ba'zan undan ham uzoq
+- 3–7 kun, o'rtacha ikki–uch kun
+- 30–60 kun, o'rtacha bir yarim oy
+! Bu muddat fekal-oral yo'l bilan yuqadigan enterovirus infeksiyasiga xos, uzoqroq muddatlar parenteral gepatitlarga tegishli.
+@ WHO. Hepatitis A (fact sheet)
+? Gepatit A bilan kasallanishning mavsumiy ko'tarilishi qachon boshlanadi va qachon kuchayadi?
++ sentyabr o'rtasidan boshlanib, oktyabr–noyabr oylarida kuchayadi
+- yanvar oyidan boshlanib, fevral–mart oylarida avjiga chiqadi, yozda esa kamayadi
+- may oyi boshidan boshlanib, iyun–iyul oylarida eng yuqori darajaga yetadi
+- dekabr oyidan boshlanib, qish bo'yi bir tekis saqlanadi, bahorda keskin pasayadi
+- mavsumiylik umuman kuzatilmaydi, holatlar butun yil davomida teng taqsimlanadi
+! Kuzgi ko'tarilish bolalarning maktab va bog'chalarga qaytishi bilan jamoalarda aloqa kuchayishiga mos keladi.
+@ Mavzu materiali (081.docx)
+? JSST ma'lumotiga ko'ra, 6 yoshgacha bo'lgan bolalarning qancha qismida gepatit A da sariqlik rivojlanadi?
++ taxminan 10 foizida
+- taxminan 50 foizida
+- taxminan 90 foizida
+- taxminan 30 foizida
+- taxminan 70 foizida
+! Kichik yoshdagi bolalarda infeksiya ko'pincha belgisiz o'tadi, kattalarda esa belgilar tez-tez va og'irroq bo'ladi.
+@ WHO. Hepatitis A (fact sheet)
+? Taqdimotga ko'ra, qon zardobida gepatit A ning o'tkir bosqichini ko'rsatuvchi anti-HAV IgM qancha vaqt saqlanadi?
++ taxminan 3–4 oy
+- taxminan 1–2 hafta
+- taxminan 6–8 yil
+- umr bo'yi
+- taxminan 10–12 kun
+! IgM sinfidagi antitelalar o'tkir infeksiya belgisi bo'lib, bir necha oydan so'ng yo'qoladi, umrbod IgG esa qoladi.
+@ Mavzu materiali (081.docx)
+? A va E virusli gepatitlar o'choqlarida o'choqli (yakuniy) dezinfeksiya qachon va qanday qamrovda o'tkazilishi belgilangan?
++ bemor yotqizilgandan keyin 24 soat ichida, kamida 95 foiz qamrov bilan
+- bemor yotqizilgandan keyin 3 sutka ichida, 50 foiz qamrov bilan o'tkaziladigan ixtiyoriy tadbir sifatida
+- kasallik aniqlangandan keyin 7 kun o'tgach, kontaktdagilar guruhining 30 foizini qamrab olgan holda
+- yashirin davr tugagach, barcha kontaktdagilar sog'ayganidan keyingina, qamrov talab etilmagan holda
+- bemor yotqizilgandan keyin 48 soat ichida, faqat bemor yotgan xonani ishlash bilan
+! Fekal-oral yuqish xavfi o'choqda qisqa muddatda zararsizlantirishni va yuqori qamrovni talab qiladi.
+@ SanQvaN № 0090-25, 55, 56, 65-bandlar
+? Gepatit A epidemiyalari ifloslangan oziq-ovqat yoki suv orqali portlashsimon avj olishi mumkinligiga qaysi misol keltirilgan?
++ 1988-yilda Shanxayda taxminan 300 ming kishining kasallanishi
+- 1988-yilda Shanxayda taxminan 30 ming kishining kasallanishi, asosan dengiz mahsulotlari bilan bog'liq
+- 2001-yilda AQSHda taxminan 300 kishining kasallanishi, pochta jo'natmalari orqali
+- 1973-yilda Londonda taxminan 3 ming kishining kasallanishi, hovuz suvi orqali
+- 1966-yilda Moskvada taxminan 3 million kishining kasallanishi, shahar suv quvuri orqali
+! Katta epidemiya ifloslangan oziq-ovqat bilan bog'liq bo'lgan va yuz minglab odamni qamragan.
+@ WHO. Hepatitis A (fact sheet)
+? JSST ma'lumotiga ko'ra, 2023-yilda gepatit A dan o'lganlar virusli gepatitlardan o'limning qancha qismini tashkil etgan?
++ 2,6 foizini
+- 26 foizini
+- 12 foizini
+- 0,26 foizini
+- 48 foizini
+! Gepatit A o'limi virusli gepatitlardan o'limning kichik bir qismini tashkil etadi, asosiy yuk B va C gepatitlarga to'g'ri keladi.
+@ WHO. Hepatitis A (fact sheet)
+? Quyidagi qaysi juftlikdagi gepatitlarda ham surunkali infeksiya rivojlanmaydi?
++ A va E gepatitlar
+- C va D gepatitlar
+- B va E gepatitlar
+- C va E gepatitlar
+- A va B gepatitlar
+! Surunkalilashish faqat qon orqali yuqadigan gepatitlarga xos, enteral guruhda doimiy infeksiya bo'lmaydi.
+@ Mavzu materiali (081.docx); WHO. Hepatitis A (fact sheet)
+? Gepatit A ning asosiy yuqish mexanizmi qaysi?
++ fekal-oral, ifloslangan oziq-ovqat va suv orqali
+- transmissiv, qon so'ruvchi chivinlar chaqishi orqali, yozgi mavsumda faol
+- parenteral, steril bo'lmagan in'ektsiya asboblari va qon mahsulotlari orqali
+- vertikal, tug'ruq vaqtida onadan bolaga o'tishi yo'li bilan
+- aerogen, havo-tomchi orqali, yopiq xonalarda bemor yo'talganda
+! Virus bemor najasi bilan tashqariga chiqadi va ifloslangan suv, oziq-ovqat yoki iflos qo'l orqali og'izga tushadi.
+@ WHO. Hepatitis A (fact sheet)
+#U 081 / 7: anti-HAV IgM ning 3–4 oy saqlanishi faqat mavzu materialiga (taqdimotga) tayangan, tashqi manba bilan tasdiqlanmagan.

@@ -1,0 +1,98 @@
+=== 100
+? Chin chechakning dunyoda tugatilgani qaysi yilda va qaysi tashkilot tomonidan rasman e'lon qilingan?
++ 1980 yilda, 33-Butunjahon sog'liqni saqlash assambleyasi tomonidan
+- 1958 yilda, JSST ijroiya qo'mitasi qarori bilan
+- 1796 yilda, Jahon sog'liqni saqlash kengashi qarori bilan
+- 1990 yilda, Birlashgan Millatlar Tashkiloti Bosh Assambleyasi tomonidan
+- 2022 yilda, Xalqaro favqulodda holatlar qo'mitasi tomonidan
+! Bu birinchi marta odamlar orasida butunlay tugatilgan yuqumli kasallik bo'ldi.
+@ Arita I. va boshq. The Confirmation and Maintenance of Smallpox Eradication. N Engl J Med, 1980
+? Chin chechak virusi tashqi muhitda +100 °C da qancha vaqtda halok bo'ladi?
++ 10 daqiqada
+- 5 soniyada
+- 1 soatda
+- 6 soatda
+- 3 sutkada
+! Virus qurigan holatda va past haroratda uzoq saqlansa-da, yuqori haroratga bardosh bera olmaydi.
+@ Mavzu materiali (100.docx)
+? Chin chechakda yetakchi yuqish mexanizmi qaysi?
++ aerogen (havo-tomchi va havo-chang)
+- fekal-oral (suv va oziq-ovqat)
+- transmissiv (chivin chaqishi)
+- parenteral (in'ektsiya va qon quyish)
+- kontakt-jinsiy (jinsiy aloqa)
+! Virus bemorning yuqori nafas yo'llari shilliq qavatida bo'lib, havoga tushadi.
+@ Mavzu materiali (100.docx)
+? Hozirda tirik chin chechak virusi JSST ruxsati bilan qaysi mamlakatlardagi laboratoriyalarda saqlanadi?
++ AQSH va Rossiya
+- Buyuk Britaniya va Fransiya
+- Xitoy va Hindiston
+- Yaponiya va Germaniya
+- Braziliya va Janubiy Afrika
+! Saqlash ruxsat etilgan tadqiqotlar uchun va JSST nazorati ostida amalga oshiriladi.
+@ WHO. Research using live variola virus
+? Maymun chechagi (mpoks) qo'zg'atuvchisi qaysi avlodga kiradi?
++ Orthopoxvirus avlodiga
+- Flavivirus avlodiga
+- Nairovirus avlodiga
+- Enterovirus avlodiga
+- Hantavirus avlodiga
+! Bu avlodga chin chechak virusi ham mansub, shu sababli klinik jihatdan o'xshashlik bor.
+@ WHO. Mpox (fact sheet)
+? JSST ma'lumotiga ko'ra, 2022–2023 yillardagi global mpoks avj olishini qaysi klada keltirib chiqargan?
++ IIb klada
+- Ia klada
+- Ib klada
+- IIa klada
+- I klada, Ia kichik klada bilan birga
+! Boshqa kladalar KDR va qo'shni mamlakatlardagi avj olishlar bilan bog'liq.
+@ WHO. Mpox (fact sheet)
+? Maymun chechagi virusi odamda birinchi marta qaysi yilda va qayerda aniqlangan?
++ 1970 yilda Zairda (hozirgi KDR)
+- 1958 yilda Daniyadagi tadqiqot maymunlarida
+- 1980 yilda Yaponiyadagi shifoxonada
+- 2003 yilda AQSHdagi shaharda
+- 2022 yilda Yevropadagi shaharda
+! Tadqiqot maymunlarida virus 1958 yilda topilgan, odamdagi birinchi holat esa keyinroq qayd etilgan.
+@ WHO. Mpox (fact sheet)
+? JSST ga ko'ra, mpoks virusining tabiiy rezervuari haqida nima ma'lum?
++ noma'lum, olmaxon va maymun kabi mayda sut emizuvchilar moyil
+- aniq ma'lum, yirik tuyoqli hayvonlar va qoramol
+- tabiiy rezervuar sifatida odam hisoblanadi va ular orqali tarqaladi
+- asosiy rezervuar xonaki mushuklar va itlar hamda ularning tashqi parazitlaridir
+- yovvoyi qushlar va ularning tuxumlari asosiy manba hisoblanadi
+! Hayvondan odamga yuqish ov qilish, terisini shilish va go'sht iste'moli bilan bog'liq.
+@ WHO. Mpox (fact sheet)
+? JSST ga ko'ra, mpoksning odamdan odamga yuqishi qaysi yo'llar bilan sodir bo'ladi?
++ yaqin kontakt: teri-teri, og'iz-og'iz va ifloslangan kiyim-choyshab orqali
+- chivin chaqishi orqali, odamlar o'rtasida bevosita aloqasiz
+- ichimlik suvi va oziq-ovqat orqali fekal-oral yo'l bilan, ifloslangan idish-tovoq orqali
+- bemor yonida bir xonada bo'lish orqali, kontaktsiz va masofadan
+- tuproq va ochiq suv havzalari bilan to'g'ridan-to'g'ri aloqa orqali
+! Shuningdek, tibbiyotda igna jarohati va homiladorlikda homilaga yuqishi mumkin.
+@ WHO. Mpox (fact sheet)
+? JSST ga ko'ra, mpoksning yashirin davri odatda qancha?
++ 1–21 kun, odatda bir hafta ichida
+- 1–3 kun, kana chaqqanda maksimal 9 kun
+- 12 soatdan 5 kungacha
+- 2–4 hafta, 1 haftadan 2 oygacha
+- 6–12 oy, ba'zan 3 yilgacha
+! Alomatlar odatda 2–4 hafta davom etadi.
+@ WHO. Mpox (fact sheet)
+? JSST bo'yicha mpoks tashxisida qaysi usul afzal hisoblanadi?
++ toshmadan olingan namunada PZR bilan virus DNKsini aniqlash
+- qondagi antitelalarni tekshirish va ularning titrini aniqlash
+- tuberkulin sinamasi, teri ichiga yuborib baholash
+- umumiy qon tahlili va leykotsitar formula
+- ko'krak qafasi rentgenografiyasi
+! JSST qon tekshirish va antitela usullarini tavsiya etmaydi, namuna toshmadan olinadi.
+@ WHO. Mpox (fact sheet)
+? Mpoks bilan kontaktda bo'lganlar qancha vaqt kuzatuvda bo'ladi?
++ 21 kun, kuzatuv ostida
+- 3 kun, har kuni harorat o'lchab
+- 7 kun, har kuni harorat o'lchab
+- 3 oy, har oyda tibbiy ko'rik bilan
+- 1 yil, har chorakda tibbiy ko'rik bilan
+! Kuzatuv muddati yashirin davrning eng uzun chegarasiga moslashtirilgan.
+@ WHO. Mpox (fact sheet)
+#U 100 / 2, 3: chin chechak virusining barqarorligi va yuqish mexanizmi faqat mavzu materialiga (Saparov qo'llanmasi) tayangan.

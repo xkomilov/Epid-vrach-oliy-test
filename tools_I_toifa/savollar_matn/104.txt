@@ -1,0 +1,98 @@
+=== 104
+? O'zbekistonda parazitar kasalliklarning qancha qismini gelmintozlar tashkil etadi?
++ taxminan 90 foizini
+- taxminan 30 foizini
+- taxminan 50 foizini
+- taxminan 65 foizini
+- taxminan 99 foizini
+! Gelmintozlar respublikada eng ko'p tarqalgan parazitozlardir, protozoozlar va transmissiv parazitozlar esa ancha kam qayd etiladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 4-ilova (gelmintozlar)
+? Quyidagilardan qaysi biri O'zbekistonda endemik hisoblanadigan gelmintoz?
++ exinokokkoz
+- difillobotrioz
+- paragonimoz
+- klonorxoz
+- shistosomoz
+! Respublikada exinokokkoz endemik hudud sifatida qaraladi, qolgan sanalgan gelmintozlar baliq, qisqichbaqa yoki tropik suv havzalari bilan bog'liq.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (2020)
+? Teri zoonoz leyshmaniozida (L. major) rezervuar xo'jayin kim hisoblanadi?
++ qum sichqonlar
+- daydi itlar
+- bemor odamlar
+- ko'rshapalaklar
+- yovvoyi cho'chqalar
+! L. major qum sichqonlar orasida saqlanadi, itlar esa visseral leyshmaniozning rezervuari hisoblanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 2-ilova (leyshmanioz)
+? Visseral leyshmanioz o'choqlarida asosiy rezervuar kim hisoblanadi?
++ itlar
+- qum sichqonlar
+- kiyik va bug'ular
+- mushuk va tulkilar
+- bemor bolalar
+! Visseral leyshmaniozni L. infantum keltirib chiqaradi, uning rezervuari itlar bo'lgani uchun daydi itlarni yo'qotish tadbirlar tarkibiga kiradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 2-ilova (leyshmanioz)
+? Kanali qaytalama tifning qo'zg'atuvchisi qaysi mikroorganizmlar guruhiga kiradi?
++ borreliyalar
+- rikketsiyalar
+- leptospiralar
+- xlamidiyalar
+- yersiniyalar
+! Kanali qaytalama tif Ornithodoros kanalari orqali yuqadigan borreliya keltirib chiqaradi, rikketsiyalar esa tif guruhi kasalliklarini qo'zg'atadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 3-ilova (kanali qaytalama tif)
+? Enterobioz va gimenolepidozda bolalar muassasalarida zararlanish darajasi qancha va undan yuqori bo'lganda jamoa to'liq davolanadi?
++ 15 foiz va undan yuqori bo'lganda
+- 1 foiz va undan yuqori bo'lganda
+- 5 foiz va undan yuqori bo'lganda
+- 25 foiz va undan yuqori bo'lganda
+- 50 foiz va undan yuqori bo'lganda
+! Bir martalik tekshiruvda zararlanish ushbu chegaradan oshganda jamoaning barcha a'zolari 100% davolanadi, past bo'lsa faqat topilganlar davolanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 4-ilova (gelmintozlar)
+? Enterobioz va gimenolepidoz o'choqlarida dezinfeksiya uchun qaysi eritma ishlatiladi?
++ sovun-soda eritmasi
+- xloramin eritmasi
+- xlorli ohak eritmasi
+- vodorod peroksid eritmasi
+- spirtli yod eritmasi
+! Xlorli vositalar gijja tuxumiga ta'sir qilmaydi, shuning uchun sovun-soda eritmasi tanlanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 4-ilova (gelmintozlar)
+? Epidemiologik nazoratda ko'p yillik retrospektiv tahlil kamida qancha yilni qamrab olishi kerak?
++ oxirgi 5 yilni
+- oxirgi 1 yilni
+- oxirgi 2 yilni
+- oxirgi 10 yilni
+- oxirgi 25 yilni
+! Besh yillik davr ko'p yillik va mavsumiy dinamikani ishonchli baholashga imkon beradi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 7-ilova (parazitar kasalliklar epidemiologik nazorati)
+? Parazitar kasalliklarda operativ (joriy) epidemiologik tahlil qanday davrni qamrab oladi?
++ kunlik, o'tgan hafta va o'tgan oy ma'lumotlarini
+- oxirgi 5 yillik kasallanish dinamikasini
+- o'tgan yilgi umumiy yillik hisobotni va yillik xulosani
+- 10 yillik yosh tarkibi o'zgarishini
+- bir choraklik mavsumiy qaytalanish ko'rsatkichlarini
+! Operativ tahlil kasallanishning kundalik o'zgarishini tez baholash va shoshilinch qaror qabul qilish uchun o'tkaziladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 7-ilova (parazitar kasalliklar epidemiologik nazorati)
+? Lyamblioz va amebiazda dispanser kuzatuvi kamida qancha davom etadi?
++ 12 oy davomida, choraklik ko'rik va laborator tekshiruv bilan
+- 1 oy davomida, haftalik ko'rik va laborator tekshiruv bilan
+- 3 oy davomida, har oylik tekshiruvlar bilan ko'rik
+- 3 yil davomida, har yilgi bir martalik tekshiruv bilan
+- umr bo'yi, har olti oyda rentgen tekshiruvi bilan
+! Ichak protozoozlarida qaytalanish va tashuvchilik ehtimoli bor, shuning uchun uzoq muddatli rejali kuzatuv talab etiladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 5-ilova (ichak protozoozlari)
+? Exinokokkoz profilaktikasida xavf guruhlari qanday tartibda tekshiriladi?
++ yiliga bir marta serologik tekshiruvdan o'tkaziladi
+- oyiga bir marta najas koproskopiyasi o'tkaziladi
+- har haftada qorin bo'shlig'i rentgenografiyasi o'tkaziladi
+- har besh yilda bir marta teri allergik sinamasi qo'yiladi
+- tekshiruv talab etilmaydi, faqat ma'rifiy ish olib boriladi
+! Chorvadorlar, cho'ponlar, ovchilar va it egalari kabi xavf guruhlarida kasallikni erta aniqlash uchun muntazam serologik skrining o'tkaziladi.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (2020)
+? Exinokokkozga qarshi qaysi tadbir itlar bilan bog'liq asosiy profilaktik chora hisoblanadi?
++ itlarni degelmintizatsiya qilish
+- itlarni umumiy sterillash
+- itlarni sovuqda saqlash
+- itlarni faqat sut bilan boqish
+- itlarni uy ichida ushlash
+! Itlar exinokokkning yakuniy xo'jayini bo'lgani uchun ularni gijjadan tozalash zanjirni uzadi.
+@ Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati (2020)
+#U 104 / 1: gelmintozlarning 90% ulushi O'zR SSV buyrug'i ilovasiga tayangan, joriy statistika bilan tekshirilmagan.

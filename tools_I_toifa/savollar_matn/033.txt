@@ -1,0 +1,98 @@
+=== 033
+? Aholining immun holati epidemik jarayonning qaysi bo'g'iniga bevosita ta'sir qiladi?
++ Uchinchi bo'g'in — qabul qiluvchan organizmga
+- Birinchi bo'g'in — infeksiya manbaiga
+- Ikkinchi bo'g'in — yuqish mexanizmiga
+- To'rtinchi bo'g'in — atrof-muhit omillariga
+- Birinchi va ikkinchi bo'g'inlarga — manba va yuqish mexanizmiga
+! Immunitet darajasi moyillikni, ya'ni qabul qiluvchanlikni belgilaydi.
+@ Mavzu materiali (033.docx); CDC. Principles of Epidemiology (SS1978), Lesson 1
+? T-limfotsitlar qaysi markaziy immun organda yetiladi va tanlanadi?
++ Timusda (ayrisimon bezda)
+- Taloqda
+- Limfa tugunlarida
+- Peyer pilakchalarida va ichak limfoid to'qimasida
+- Suyak ko'migida
+! Timus gormonlari ta'sirida T-limfotsitlar turli vazifali subpopulyatsiyalarga ajraladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Infeksiyaning o'tkir bosqichida qaysi immunoglobulin sinfi birinchi bo'lib paydo bo'ladi?
++ IgM
+- IgG
+- IgA
+- IgE
+- IgD
+! Yangi yuqtirilgan infeksiyada dastlab IgM ishlab chiqariladi, keyin IgG almashtiradi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Qon zardobida faqat IgG antitelolarining mavjudligi nimani ko'rsatadi?
++ O'tkazilgan infeksiya yoki emlash natijasida shakllangan immunitetni
+- Hozirgina yuqqan o'tkir infeksiyaning dastlabki kunlarini
+- Allergik reaksiya rivojlanayotganini va organizm gelmintlar bilan zararlanganini
+- Ona suti orqali kelgan IgA hisobiga shilliq qavatlar himoyalanganini
+- Organizmda hozir faol kechayotgan o'tkir infeksiya va yuqori yuqumlilik davrini
+! IgM o'tkir jarayon belgisi, IgG esa kechroq paydo bo'lib, uzoq saqlanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va boshq. (2018)
+? Tug'ma immunitetning asosiy xususiyati qaysi?
++ Oldingi uchrashuvni talab qilmay, mikrob kirgach darhol ta'sir qiladi
+- Aniq antigenga yo'naltirilgan va takroriy uchrashuvda kuchayadigan xotiraga ega
+- Vaksinatsiyadan keyingina hosil bo'ladi va yillar davomida saqlanadi
+- B-limfotsitlar ishlab chiqargan antitelolarga to'liq asoslangan
+- Kasallikdan keyingina shakllanib, qayta uchrashuvda kuchliroq javob beradi
+! Tug'ma himoya spetsifik emas, shu sababli oldindan sensibilizatsiyani kutmaydi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Yangi tug'ilgan chaqaloqni platsenta orqali qaysi antitelolar himoya qiladi?
++ IgG
+- IgM
+- IgE
+- IgD
+- IgA
+! Yo'ldosh orqali o'tish IgG xos xususiyati bo'lib, bu tabiiy passiv immunitetni beradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Qaysi infeksiyadan keyin odatda qisqa muddatli immunitet qoladi?
++ Gripp
+- Qizamiq, undan keyin immunitet umrbod saqlanadi
+- Epidemik parotit, undan keyin mustahkam immunitet umrbod qoladi
+- Suvchechak, undan keyin mustahkam umrbod immunitet shakllanadi
+- Qizilcha, undan keyin ham uzoq, ko'pincha umrbod immunitet saqlanadi
+! Immunitet davomiyligi kasallikka bog'liq va revaksinatsiya muddatlarini belgilashda hisobga olinadi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Keksalikda immun tizim faolligining pasayishi qanday ataladi?
++ Immunosenessensiya
+- Immunosupressiya
+- Immunizatsiya
+- Sensibilizatsiya
+- Immunotolerantlik
+! Yoshga bog'liq pasayish sababli keksalarda infeksiyalar og'irroq kechadi.
+@ Mavzu materiali (033.docx)
+? Mavzu materialiga ko'ra, neytrofil o'rtacha nechta bakteriyani fagotsitoz qilgach halok bo'ladi?
++ 10–20 ta
+- 1–3 ta, shundan keyin yiring hosil bo'lishi to'xtaydi
+- 50–60 ta, shundan keyin u makrofagga aylanadi
+- 100–200 ta, shundan keyin u yallig'lanish o'chog'idan chiqib ketadi
+- 200–300 ta, shundan keyin u qon oqimiga qaytadi
+! Halok bo'lgan neytrofillar yiring tarkibining asosini tashkil etadi.
+@ Mavzu materiali (033.docx)
+? Taloq immun tizimdagi qaysi vazifani bajaradi?
++ Qondagi antigenlarga qarshi immun javob markazi
+- T-limfotsitlarning yetilishi va tanlanishi markazi
+- Barcha qon hujayralarining asosiy hosil bo'lish manbai
+- To'qimalardan limfa orqali kelgan antigenlarni filtrlash joyi
+- Shilliq qavatlardagi antigenlarni ushlab turuvchi limfoid to'qima markazi
+! Taloq periferik organ bo'lib, qon bilan kelgan antigenlarga javob shakllantiradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Makrofaglar va dendrit hujayralarning orttirilgan immunitetdagi asosiy vazifasi nima?
++ Antigenni tutib, limfotsitlarga taqdim etish
+- Antitelolar ishlab chiqaruvchi plazmatik hujayralarga aylanish
+- Timusda yetilib, sitotoksik subpopulyatsiyalarga bo'linish
+- Komplement tizimining barcha oqsillarini to'liq sintez qilish
+- Timus gormonlari timozin va timopoetinni ishlab chiqarish
+! Shu tariqa ular tug'ma va orttirilgan immunitet o'rtasida bog'lovchi vazifasini bajaradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Quyidagilardan qaysi biri epidemiologik jihatdan alohida xavf guruhini tashkil etadi?
++ Immuntanqis holatidagi shaxslar, masalan OIV bilan yashovchilar
+- Yaqinda grippga qarshi emlangan sog'lom kattalar
+- Qizamiqni bolalikda o'tkazgan, immuniteti mustahkam shaxslar
+- Ona suti bilan oziqlangan sog'lom, to'liq emlangan chaqaloqlar
+- Immuniteti mustahkam, barcha dozalarni olgan va antitelo titri yuqori shaxslar
+! Immuntanqislikda infeksiya og'irroq kechadi va maxsus himoya talab etiladi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+#U 033 / 9: neytrofil 10–20 bakteriyani fagotsitoz qilgach halok bo'lishi (Zornikov va Litusov o'quv qo'llanmasiga tayanadi, tashqi manba bilan tasdiqlanmagan)

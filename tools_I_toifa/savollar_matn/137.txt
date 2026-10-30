@@ -1,0 +1,97 @@
+=== 137
+? Hududiy OITSga qarshi kurashish markazlari qaysi tuzilma tarkibiga kiradi va nimaga javobgar?
++ Respublika OITSga qarshi kurashish markazi tarkibiga kiradi va OIV tarqalishini oldini olish bo'yicha yagona davlat siyosatini amalga oshiradi
+- hududiy sanitariya-epidemiologiya xizmati tarkibiga kirib, tibbiyot muassasalarida sanitariya qoidalariga rioya etilishi ustidan davlat nazoratini olib boradi
+- viloyat sog'liqni saqlash boshqarmasi tarkibiga kirib, faqat OIV bilan yashovchilarni davolash dasturlarini moliyalashtiradi
+- ichki ishlar vazirligi tarkibiga kirib, jazoni ijro etish muassasalaridagi OIV yuqish yo'lini aniqlaydi
+- nodavlat notijorat tashkilot sifatida mustaqil faoliyat yuritib, aholini xabardor qilish bilan shug'ullanadi
+! Markazlar yuqumli kasalliklar bo'yicha ixtisoslashgan davlat muassasalari bo'lib, respublika darajasidagi tuzilmaga bo'ysunadi.
+@ SEO va JSB qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'iga 19-ilova (namunaviy nizom)
+? Tasdiqlovchi natija (immunoblot) olgan laboratoriya majmuasi bayonnomani kimlarning imzosi bilan tuzadi?
++ ikki shifokor va laborant imzosi bilan
+- bosh vrach va epidemiolog imzosi bilan
+- uchta shifokor va bo'lim mudiri imzosi bilan
+- bemor va yuqumli kasalliklar shifokori imzosi bilan
+- laborant va hamshira imzosi bilan
+! Rasmiy hujjat bir necha mutaxassis tomonidan tasdiqlanishi natijaning ishonchliligini kafolatlaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? «IB gumon» shaxs haqidagi ma'lumot kimga yuboriladi?
++ yashash joyidagi birlamchi bo'g'in mas'ul shifokoriga
+- hududiy OITS markazi bosh vrachiga bevosita va markaz epidemiologiga
+- ichki ishlar organlariga
+- shaxsning ish joyi rahbariga
+- mahalla fuqarolar yig'ini raisiga
+! Yakuniy natija chiqquncha shaxs shifokor nazoratida bo'lishi uchun ma'lumot yashash joyidagi shifokorga beriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Tasdiqlangandan keyin epidemiologik monitoring bo'limi markazga yuboradigan 1-shakldagi xabarnomada nima so'raladi?
++ testdan keyingi maslahat, dispanser nazoratiga olish va o'choqda profilaktik tadbirlarni tashkil etish
+- bemorni majburiy davolash, ish joyidan chetlashtirish va yashash joyidagi qo'shnilarni xabardor qilish tartibini belgilash
+- bemor yashash joyidagi qo'shnilarni xabardor qilish va ularni tekshirish
+- bemorning barcha qarindoshlari ro'yxatini jinoyat qidiruv bo'limiga topshirish
+- bemorni xavf guruhlari ro'yxatiga kiritish va uni kuzatuvdan chiqarish
+! Xabarnoma maslahat, hisobga olish va o'choq tadbirlarini boshlash uchun asos bo'ladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? «OIV infeksiyasi bo'yicha epidemiologik surishtiruv kartasi» qaysi shakl hisoblanadi?
++ 2-shakl
+- 1-shakl
+- 3-shakl
+- 4-shakl
+- 5-shakl
+! Ota-ona bilan suhbat varaqasi alohida (3-shakl) to'ldiriladi, xabarnoma esa 1-shakl.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Epidemiologik surishtiruv xabarnomadan boshlab qancha vaqtdan oshsa, bosh vrachdan ruxsat so'raladi?
++ bir oydan
+- bir haftadan
+- ikki haftadan
+- uch oydan
+- olti oydan
+! Surishtiruv tezkor o'tkazilishi kerak, kechikish sabablari bildirishnomada ko'rsatiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? «IFA musbat» natijali donor qoni bilan nima qilinadi?
++ 24 soat ichida komissiya ishtirokida yo'q qilinadi, donor umrbod chetlashtiriladi
+- 72 soat ichida immunoblot natijasini kutib saqlanadi, donor 6 oydan keyin qaytariladi
+- 7 kun ichida qayta tekshirilib, manfiy bo'lsa qon ishlatiladi
+- retsipiyentga ma'lum qilinmasdan quyiladi, donor kuzatuvga olinadi
+- plazma ajratib olinib, qon hujayralari yo'q qilinadi, donor esa kuzatuvda qoladi
+! Xavfli qonni muomaladan chiqarish va ilgari topshirilgan qon oluvchilarni aniqlash yuqish zanjirini to'xtatadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? OIV infeksiyasi bo'yicha epidemiologik surishtiruv kimga yuklatilgan?
++ OITSga qarshi kurashish markazlari epidemiologlariga
+- mahalla vrachlariga, ularning o'z hududida
+- ichki ishlar organlarining jinoyat qidiruv bo'limiga
+- poliklinika bo'limi hamshiralariga
+- viloyat prokuraturasining sanitariya nazoratchilariga
+! Surishtiruv ixtisoslashgan mutaxassislar tomonidan o'tkazilishi uchun markaz epidemiologlariga yuklatilgan.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Oy yakuniga ko'ra tasdiqlangan holatlar statistikasi qaysi kesimda taqdim etiladi?
++ tuman va shahar kesimida
+- respublika yig'ma ko'rsatkichi sifatida, hududlarga bo'linmasdan
+- yosh guruhlari kesimida, hududiy ajratmasiz
+- ish joylari va kasblar bo'yicha guruhlangan holda, aniq hisobot tarzida
+- mahalla va ko'chalar kesimida, bemorlarning shaxsiy ma'lumotlari ko'rsatilgan holda
+! Hududiy taqsimot vaziyatni baholash va tadbirlarni yo'naltirish uchun zarur.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Turmush o'rtog'i yoki jinsiy sherigiga o'z maqomini aytish kerakligi haqidagi ogohlantirish qayerga yoziladi?
++ dispanser kartasiga
+- bemorning pasportiga
+- ish joyidagi shaxsiy ishga
+- yashash joyidagi uy daftariga
+- sherikning ambulator kartasiga
+! Ogohlantirish tibbiy hujjatda qayd etilsa, vrachlik siri saqlanadi va majburiyat hujjatlashtirilgan bo'ladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? SEO va JSB qo'mitasining tibbiyot muassasalaridagi asosiy vazifasi nima?
++ normativ talablarga rioya etilishi ustidan davlat nazoratini amalga oshirish
+- bemorlarni dispanser hisobiga olish, davolash va ularga ixtisoslashgan yordam ko'rsatish
+- OIV bilan yashovchilarga ixtisoslashgan yordam ko'rsatish va dispanser kuzatuvini olib borish
+- donorlardan qon olish va uni saqlash
+- tasdiqlovchi laborator tahlillarni o'tkazish
+! Qo'mita nazorat qiluvchi organ bo'lib, klinik va davolash funksiyalarini bajarmaydi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? Epidemiologik surishtiruvda 18 yoshgacha bolalar uchun qo'shimcha qaysi hujjat to'ldiriladi?
++ ota-ona bilan suhbat varaqasi (3-shakl)
+- bolaning ish joyi tavsifnomasi (4-shakl)
+- maktab shifokorining ma'lumotnomasi (5-shakl)
+- bolaning emlash kartasi (1-shakl)
+- ota-onaning ish joyidan tavsifnoma
+! Bola uchun yuqish yo'lini aniqlashda ota-onadan olinadigan anamnez muhim.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova

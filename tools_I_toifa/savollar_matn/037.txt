@@ -1,0 +1,97 @@
+=== 037
+? Profilaktik emlashlar milliy kalendarini va uni o'tkazish tartibini qaysi mansabdor shaxs tasdiqlaydi?
++ O'zbekiston Respublikasi Bosh davlat sanitariya vrachi
+- Sog'liqni saqlash vazirligining bosh pediatri va neonatologi
+- Hududiy davolash-profilaktika muassasasi rahbari
+- Vazirlar Mahkamasi Bosh vaziri
+- Jahon sog'liqni saqlash tashkiloti mintaqaviy direktori
+! Qonunga ko'ra kalendar sanitariya-epidemiologik xizmat rahbari tomonidan tasdiqlanadi, JSST esa faqat tavsiya beradi.
+@ O'zbekiston Respublikasining "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 33-modda
+? Kalendar bo'yicha hayotning birinchi kunida qaysi emlash o'tkaziladi?
++ Virusli gepatit B ga qarshi birinchi doza (VGB-1)
+- Silga qarshi BSJ vaksinasining birinchi dozasi (BSJ-1)
+- Poliomielitga qarshi birinchi doza (OPV-1)
+- Rotavirusga qarshi birinchi doza (ROTA-1)
+- Pnevmokokk infeksiyasiga qarshi birinchi doza (PNEVMO-1)
+! VGB-1 tug'ilgandan keyingi dastlabki sutkada, BSJ-1 esa 2–5-kunlarda beriladi.
+@ SanQvaM № 0239-07/3
+? Silga qarshi BSJ-1 kalendar bo'yicha qaysi muddatda beriladi?
++ Hayotning 2–5-kunlarida
+- Hayotning 1-sutkasida, VGB-1 bilan bir vaqtda
+- 2 oylikda, penta-1 va OPV-1 bilan birga
+- 12 oylikda, QPQ-1 emlashi bilan birgalikda
+- 6 yoshda, QPQ-2 emlashidan oldin
+! Sil vaksinasi go'daklarga tug'ruqxonada dastlabki kunlarda yuboriladi.
+@ SanQvaM № 0239-07/3
+? Qizamiq, qizilcha va parotitga qarshi KPK-1 vaksinasi kalendarda qaysi yoshda beriladi?
++ 12 oylikda
+- 2 oylikda, penta-1 bilan birga
+- 4 oylikda, IPV bilan birga
+- 16 oylikda, AKDS-4 bilan birga
+- 6 yoshda, maktabga borishdan oldin
+! KPK-2 esa 6 yoshda beriladi.
+@ SanQvaM № 0239-07/3
+? Kalendar bo'yicha bolalar va o'smirlarni emlash qamrovi kamida qancha bo'lishi kerak?
++ Kamida 95 foiz
+- Kamida 80 foiz
+- Kamida 85 foiz
+- Kamida 100 foiz
+- Kamida 70 foiz
+! Muassasa rahbari kontingentning kamida shu qismi qamrab olinishi uchun shaxsan javobgar.
+@ SanQvaM № 0239-07/3
+? Homilador ayolda HBsAg aniqlansa, chaqaloq tug'ilgandan keyin qancha vaqt ichida VGB ga qarshi emlanadi?
++ 3–12 soat ichida
+- 24–48 soat ichida
+- 2–5 kun ichida
+- 1 oy ichida
+- 7–10 kun ichida
+! Onadan bolaga yuqish xavfi yuqori bo'lgani sababli emlash imkon qadar erta o'tkaziladi.
+@ SanQvaM № 0239-07/3
+? Turli tirik vaksinalar orasidagi minimal muddat qanday?
++ Kamida bir oy
+- Kamida bir hafta
+- Kamida ikki hafta
+- Kamida uch oy
+- Kamida olti oy
+! Tirik vaksinalar o'rtasida interferensiya ehtimoli bor.
+@ SanQvaM № 0239-07/3
+? Quyidagi holatlardan qaysi biri emlash uchun qarshi ko'rsatma hisoblanmaydi?
++ O'tkir respirator kasallik va og'ir bo'lmagan diareya
+- O'rta og'ir va og'ir somatik kasallikning avj olish davri
+- AKDS ga oldingi ensefalopatiya yoki anafilaksiya reaksiyasi
+- Immunitet tanqisligi bo'lgan bolaga KPK vaksinasini yuborish
+- Tuxum oqsiliga og'ir allergiyasi bo'lgan bolaga KPK vaksinasini yuborish
+! O'rta og'ir va og'ir kasalliklarda emlash tuzalgandan keyin 3–14 kunda o'tkaziladi.
+@ SanQvaM № 0239-07/3
+? Quyidagi vaksinalardan qaysi birini muzlatish mumkin?
++ OPV (poliomielitga qarshi tirik og'iz vaksinasi)
+- AKDS (adsorbsiyalangan ko'k yo'tal-difteriya-qoqshol vaksinasi)
+- Rotavirusga qarshi vaksina (tirik og'iz vaksinasi)
+- BSJ (silga qarshi tirik vaksina)
+- VGB (virusli gepatit B ga qarshi rekombinant vaksina)
+! Anatoksinlar, o'ldirilgan va rekombinant vaksinalar muzlatilmaydi, KPK, BSJ va rotavirus vaksinalari esa +2…+8 °C da saqlanadi.
+@ SanQvaM № 0239-07/3
+? Trombotsitar massa yoki plazma quyilgandan keyin qizamiq, qizilcha va parotitga qarshi emlash qachon o'tkaziladi?
++ 7 oydan so'ng
+- 1 oydan so'ng
+- 3 oydan so'ng
+- 12 oydan so'ng
+- 5 oydan so'ng
+! Eritrotsitar va leykotsitar massalardan keyin esa 6 oydan so'ng emlanadi.
+@ SanQvaM № 0239-07/3
+? BSJ vaksinasi qanday yo'l bilan yuboriladi?
++ Teri ichiga, 0,05 mg yoki 0,1 ml hajmda
+- Teri ostiga, KPK vaksinasi kabi 0,5 ml hajmda
+- Mushak orasiga, AKDS vaksinasi kabi 0,5 ml hajmda
+- Og'iz orqali, OPV kabi 2 tomchi hajmda
+- Og'iz orqali, rotavirus kabi 1,5 ml hajmda
+! OPV og'izga, KPK teri ostiga, o'ldirilgan va rekombinant vaksinalar mushak orasiga yuboriladi.
+@ SanQvaM № 0239-07/3
+? AKDS vaksinasiga ensefalopatiya yoki anafilaksiya bo'lgan bolada emlash qanday davom ettiriladi?
++ Ko'kyo'tal komponentisiz, ADS-M bilan yakunlanadi
+- Emlash butunlay to'xtatiladi va bola boshqa emlashlarga ham yuborilmaydi
+- Shu AKDS vaksinasi kamaytirilgan dozada qaytadan yuboriladi
+- Ko'kyo'tal komponentli AKDS vaksinasi antihistamin vositalari fonida davom ettiriladi
+- Emlash BSJ vaksinasi bilan almashtiriladi va keyingi dozalar tirik vaksina bilan davom ettiriladi
+! Ko'kyo'tal komponentiga og'ir reaksiya bo'lganda faqat difteriya va qoqsholga qarshi tarkib qo'llanadi.
+@ SanQvaM № 0239-07/3

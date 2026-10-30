@@ -1,0 +1,101 @@
+=== 048
+? Dezinfeksiya stansiyalari yillik idoraviy statistika hisobotini qaysi shakl bo'yicha topshiradi?
++ 21-SSV shakli «Dezinfeksion stansiya hisoboti»
+- 12-SSV shakli «Yuqumli kasalliklar bo'yicha hisobot»
+- 63-SSV shakli «Profilaktik emlashlar hisoboti»
+- 07-SSV shakli «Bolalar kasallanishi hisoboti»
+- 30-SSV shakli «Davolash muassasalarining faoliyati haqida hisobot»
+! Hisobotda stansiyaning shtatlari, lavozimlari va xodimlar tarkibi aks ettiriladi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2021-yil 27-dekabrdagi 297-son buyrug'iga ilova (21-SSV)
+? Dezinfeksiya bilan shug'ullanuvchi tashkilotlarni qaysi hududlarda joylashtirish taqiqlanadi?
++ Turar-joy binolari hududida
+- Sanoat korxonalari hududida
+- Shahar chekkasidagi alohida binolarda
+- Ma'muriy binolarning birinchi qavatida
+- Omborxona majmualari yaqinida
+! Zaharli vositalar bilan ishlash va ularni saqlash aholi salomatligiga xavf tug'dirmasligi uchun bunday cheklov qo'yilgan.
+@ SanPiN RUz № 0291-11
+? Dezinfeksiya stansiyasining ish turi bo'yicha qaysi bo'linmasi kasalliklarning oldini olish uchun jamoat binolari, transport va boshqa obyektlarda dezinfeksiya, dezinseksiya va deratizatsiyani o'tkazadi?
++ Profilaktik dezinfeksiya bo'limi
+- Dezkamera ishlari guruhi
+- Yakuniy dezinfeksiya brigadasi
+- Laboratoriya nazorati guruhi
+- Moddiy-texnik ta'minot xizmati
+! Bu bo'lim epidemiya holatidan qat'i nazar, oldindan rejali tadbirlar o'tkazadi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2021-yil 27-dekabrdagi 297-son buyrug'iga ilova (21-SSV); SanQvaN № 0090-25
+? Hududiy boshqarmalarning dezinfeksiya bo'limiga kim boshchilik qiladi?
++ Vrach-epidemiolog
+- Vrach-bakteriolog
+- Vrach-entomolog
+- Vrach-gigienist
+- Vrach-statistik
+! Bo'lim tadbirlari epidemiyaga qarshi ishni tashkil etishni talab qilgani uchun uni epidemiologiya mutaxassisi boshqaradi.
+@ SEO va JS qo'mitasining 2023-yil 23-dekabrdagi 79-son buyrug'iga 17-ilova
+? Dezinfeksiya bo'limi boshlig'ini lavozimga kim tayinlaydi va ozod qiladi?
++ Boshqarma boshlig'i
+- Sog'liqni saqlash vaziri
+- Bosh davlat sanitariya vrachi o'rinbosari
+- Tuman (shahar) bo'limi mudiri
+- Viloyat hokimi
+! Bo'lim boshqarmaning tarkibiy bo'linmasi bo'lgani uchun uning rahbari boshqarma boshlig'iga bo'ysunadi.
+@ SEO va JS qo'mitasining 2023-yil 23-dekabrdagi 79-son buyrug'iga 17-ilova
+? Hududiy dezinfeksiya bo'limining vazifalaridan biri qaysi?
++ Tuman (shahar) bo'limlari dezinfeksiya mutaxassislariga amaliy-uslubiy yordam berish
+- Yuqumli kasalliklarni davolashda statsionar tibbiy yordam ko'rsatish
+- Aholini kalendar bo'yicha profilaktik emlash va revaksinatsiya qilish
+- Dori vositalarini ro'yxatdan o'tkazish va sertifikatlash ishlarini olib borish
+- Sanitariya vrachlarini davlat attestatsiyasidan o'tkazish
+! Bo'lim hududdagi quyi bo'g'in mutaxassislarining ishini uslubiy jihatdan qo'llab-quvvatlaydi.
+@ SEO va JS qo'mitasining 2023-yil 23-dekabrdagi 79-son buyrug'iga 17-ilova
+? Respublika darajasidagi o'choqli dezinfeksiya bo'limi nizomida qo'shimcha vazifa sifatida nima belgilangan?
++ Respublikadagi shifoxona ichi infeksiyalari profilaktikasi tadbirlari bajarilishini tizimli monitoring va nazorat qilish
+- Mamlakatdagi barcha bolalarni yillik tibbiy ko'rikdan o'tkazish va ularning sog'lig'i holatini hisobga olib borish tizimini yuritish
+- Respublika bo'ylab vaksinalar sifatini ro'yxatdan o'tkazish va sertifikatlash tartibini ishlab chiqish
+- Aholini suv bilan ta'minlash tarmoqlarini qurish va ularga xizmat ko'rsatish ishlarini olib borish
+- Kasalxonalarni moliyalashtirish byudjetini tasdiqlash, taqsimlash va nazorat qilib borish
+! Bu bo'lim o'choqli ishdan tashqari shifoxona ichi infeksiyalariga qarshi tizimli nazoratni ham ta'minlaydi.
+@ SEO va JS xizmatining 2021-yil 5-fevraldagi 20-son buyrug'iga 36- va 36-A ilovalar
+? Dezinfeksiya bilan shug'ullanuvchi muassasada bir mutaxassis uchun xona maydoni kamida qancha bo'lishi tavsiya etilgan?
++ 6 m²
+- 3 m²
+- 9 m²
+- 12 m²
+- 15 m²
+! Bu me'yor xodim ishchi o'rnining yetarli bo'lishi uchun belgilangan.
+@ SanPiN RUz № 0291-11
+? O'lja tayyorlash xonasi kamida qancha maydonga ega bo'lishi tavsiya etilgan?
++ 12 m²
+- 6 m²
+- 8 m²
+- 18 m²
+- 24 m²
+! Xona shamollatish, qo'riqlash signalizatsiyasi va lavabo bilan jihozlanishi kerak, chunki u yerda zaharli xo'raklar tayyorlanadi.
+@ SanPiN RUz № 0291-11
+? Dezinfeksiya vositalari saqlash qoidalariga ko'ra qanday sharoitda saqlanadi?
++ Zich yopilgan holda, quyosh nuridan himoyalangan joyda, oziq-ovqat va ichimlik suvidan alohida
+- Ochiq idishlarda, yorug' joyda, oziq-ovqat mahsulotlari va ichimlik suvi yaqinida, qopqoqsiz
+- Xodimlar xonasida, ish stoli ichida, shaxsiy buyumlar bilan birga, qulflanmagan holda
+- Ochiq havoda, quyoshda qizdirilgan holda, tashish uchun qulay joyda, belgisiz holatda
+- Umumiy omborda, boshqa kimyoviy moddalar bilan aralash, belgilarsiz holda
+! Zaharli va agressiv moddalar yorug'lik va namlikda buziladi hamda oziq-ovqatga tushsa zaharlanish xavfi tug'iladi.
+@ SanPiN RUz № 0291-11; SanQvaN № 0090-25
+? Xonadonda yakuniy dezinfeksiyani qaysi tashkilot bo'limi bajarishi bayon etilgan?
++ DSENM dezinfeksiya bo'limi
+- Oilaviy poliklinikaning protsedura xonasi
+- Qishloq vrachlik punktining hamshirasi
+- Maktab huzuridagi sog'lomlashtirish xonasi
+- Tez tibbiy yordam brigadasi
+! Yakuniy dezinfeksiya maxsus tayyorlangan mutaxassislarni talab qilgani uchun uni sanitariya-epidemiologiya xizmatining bo'limi bajaradi.
+@ Mavzu materiali (048.docx)
+? Boshqa vazirlik va idoralar tasarrufidagi dezinfeksiya stansiyalari (masalan, temir yo'l) 21-SSV hisobotini kimga topshiradi?
++ To'g'ridan-to'g'ri Sog'liqni saqlash vazirligining sanitariya-epidemiologiya xizmatiga
+- Viloyat hokimligining sog'liqni saqlash boshqarmasiga, keyin vazirlikka yuborish uchun
+- Hududiy dezinfeksion boshqarmaga, u orqali yig'ma hisobot sifatida
+- Davlat statistika qo'mitasining tuman bo'limiga, yillik hisobot bilan birga
+- Ta'sischisi bo'lgan vazirlikning moliya bo'limiga, byudjet hisoboti sifatida
+! Idoraviy bo'ysunuvchi stansiyalar hududiy boshqarma tizimiga kirmagani uchun hisobot yuqori turuvchi sog'liqni saqlash xizmatiga yo'naltiriladi.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2021-yil 27-dekabrdagi 297-son buyrug'iga ilova (21-SSV)
+#U 048 / 11: xonadonda yakuniy dezinfeksiyani kim bajarishi faqat savol-javob (test) materialiga tayangan, tasdiqlanmagan.
+#U 048 / 2: SanPiN № 0291-11 ning hozirgi kuchda ekani tekshirilmagan; 2025-yilgi SanQvaN bilan solishtirilmagan.
+#U 048 / 8: xona maydoni me'yori SanPiN 0291-11 ga tayangan, uning kuchda ekani tekshirilmagan.
+#U 048 / 9: xona maydoni me'yori SanPiN 0291-11 ga tayangan, uning kuchda ekani tekshirilmagan.

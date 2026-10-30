@@ -1,0 +1,97 @@
+=== 075
+? JSST ma'lumotiga ko'ra diareya kasalliklari 1–59 oylik bolalar o'limining nechanchi yetakchi sababi hisoblanadi?
++ uchinchi
+- birinchi
+- ikkinchi
+- to'rtinchi
+- beshinchi
+! Diareya besh yoshgacha bolalar o'limining yetakchi sabablaridan biri bo'lib, katta qismi xavfsiz suv, sanitariya va gigiyena yordamida oldi olinadi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Bolalarda eng ko'p uchraydigan virusli diareya qo'zg'atuvchilari qaysilar?
++ rotavirus, norovirus, adenovirus va astrovirus
+- gepatit B virusi, OIV, sitomegalovirus va papillomavirus
+- gripp virusi, paragripp virusi, koronavirus va tepki virusi
+- quturish virusi, kanali ensefalit virusi, sariq isitma virusi va denge virusi
+- poliovirus, qizamiq virusi, qizilcha virusi va suvchechak virusi
+! Bu to'rt virus bolalarda oshqozon-ichak infeksiyalarining eng keng tarqalgan virusli sababidir.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Yo'riqnomaga ko'ra etiotrop davo boshlanishidan oldin olingan namunalar qabul bo'limidan qancha vaqt ichida laboratoriyaga yetkaziladi?
++ 2 soat ichida
+- 30 daqiqa ichida
+- 6 soat ichida
+- 24 soat ichida
+- 48 soat ichida
+! Namunalar tezda ekilsa, qo'zg'atuvchi nobud bo'lmaydi va natija ishonchli bo'ladi; yetkazib bo'lmasa, muzlatgichda 12 soatgacha saqlanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Yo'riqnomaga ko'ra OIK o'chog'ida muloqotda bo'lganlar ustidan tibbiy kuzatuv necha kun davom etadi?
++ 7 kun
+- 3 kun
+- 14 kun
+- 21 kun
+- 30 kun
+! Kuzatuv davomida har kuni so'rov, ko'rik, ich ketishini kuzatish va termometriya o'tkaziladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Oziq-ovqat korxonalari ishchilari OIKdan tuzalgach qancha muddat dispanser kuzatuvida bo'ladi va qanday tekshiriladi?
++ 1 oy; 2–3 kun oralatib ikki marta bakteriologik tekshiriladi
+- 3 oy; haftasiga bir marta serologik tekshiriladi
+- 6 oy; har kuni najas mikroskopiyasidan o'tkaziladi
+- 2 hafta; bir marta qon tahlili bilan cheklanadi
+- 1 yil; 3 oyda bir marta duodenal zond bilan tekshiriladi
+! Bu xodimlar tashuvchi bo'lib qolsa, ko'p kishiga yuqtirishi mumkin, shuning uchun laboratoriya tasdig'i talab qilinadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Surunkali ichburug'li bemorlar necha oy dispanser kuzatuvida bo'ladi?
++ 6 oy
+- 1 oy
+- 3 oy
+- 12 oy
+- 24 oy
+! Surunkali shaklda qo'zg'atuvchi uzoq ajralishi mumkin, shu sababli kuzatuv muddati oziq-ovqat xodimlariga nisbatan uzoqroq.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Quyidagilardan qaysi biri OIK bemorini kasalxonaga yotqizish uchun epidemiologik ko'rsatma hisoblanadi?
++ bemorning yashash joyida epidemiyaga qarshi choralarni o'tkazish sharoiti yo'qligi
+- bemorning yoshi 60 dan oshganligi, lekin surunkali kasalligi yo'qligi va uyda parvarish qilinishi
+- bemorda kasallik yengil kechishi va xonadonda boshqa kasal yoki tashuvchi bo'lmasligi
+- bemor bolalar bog'chasi tarbiyachisining yaqin qarindoshi ekanligi hamda u bilan bir xonadonda yashashi
+- bemorning oxirgi yilda chet elga chiqqanligi
+! Epidemiologik ko'rsatma o'choqda tarqalish xavfi bilan bog'liq, klinik ko'rsatma esa kasallik og'irligi bilan.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? OIKdan tuzalgan oziq-ovqat korxonalari xodimlari va maktabgacha muassasalarga qatnovchi bolalar uchun uyga ruxsat berishdan oldin qanday tekshiruv o'tkaziladi?
++ davo kursidan 1–2 kun o'tgach, bir marta bakteriologik tekshiruv
+- davo kursi boshlanishidan oldin, uch marta qon tekshiruvi
+- sog'ayganidan 1 oy o'tgach, ikki marta siydik umumiy tahlili va ultratovush tekshiruvi
+- davo kursining 1-kunida, bir marta rentgenologik tekshiruv
+- sog'ayish bilan bir kunda, faqat klinik ko'rik va bemorning o'zi bergan ma'lumot asosida
+! Sog'ayish klinik belgilar yo'qolishi bilan emas, laboratoriya tasdig'i bilan yakunlanadi; natija musbat bo'lsa, davo kursi qaytariladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Maktab-internat va yozgi dam olish maskanlarida sog'aygan bolalarga qancha muddat oshxona ishlariga ruxsat berilmaydi?
++ 1 oy davomida
+- 3 kun davomida
+- 10 kun davomida
+- 6 oy davomida
+- 1 yil davomida
+! Oziq-ovqat bilan bog'liq ishlarda tashuvchilik xavfi bor, shu sababli oy davomida cheklov qo'yiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova
+? Ichak infeksiyalariga qarshi kurashda eng samarali profilaktika qaysi yo'nalishga qaratilgan?
++ yuqish yo'llarini to'sishga
+- inkubatsion davrdagi bemorlarni ommaviy antibiotik bilan davolashga
+- hayvonlarni butunlay yo'q qilishga
+- aholining ko'chish harakatini cheklashga
+- barcha bolalarni yagona vaksina bilan emlashga
+! Fekal-oral mexanizm xavfsiz suv, sanitariya, qo'l gigiyenasi va oziq-ovqat xavfsizligi orqali uziladi.
+@ WHO. Diarrhoeal disease (fact sheet); CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Qonunga ko'ra epidemik ko'rsatmalar bo'yicha dezinfeksiyani kim amalga oshiradi, profilaktik dezinfeksiyani-chi?
++ epidemik ko'rsatma bo'yicha — davlat sanitariya nazorati organlari, profilaktik — shartnoma asosida dezinfeksiya stansiyalari
+- epidemik ko'rsatma bo'yicha — bemorning oilasi va qo'shnilari, profilaktik — shifoxona qorovullari va bog'bonlar
+- ikkalasini ham bemor yashayotgan uyning mulkdori o'zi mustaqil ravishda o'tkazadi
+- epidemik ko'rsatma bo'yicha — mahalla fuqarolar yig'ini faollari, profilaktik — maktab o'quvchilari va ularning ota-onalari
+- ikkalasini ham harbiy qismlar va chegara qo'shinlari amalga oshiradi
+! Qonunda vazifalar taqsimlangan: davlat nazorati epidemik holatlarni, mutaxassis stansiyalar esa profilaktikani bajaradi.
+@ O'zbekiston Respublikasining "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 32, 34-moddalar
+? Yo'riqnomaga ko'ra OIK bo'yicha epidemiologik tekshiruvning maqsadi nima?
++ kasallik manbasi, omillari va yuqish sharoitlarini erta aniqlash, tarqalish chegarasini belgilash va majmuaviy choralar o'tkazish
+- bemorning shaxsini aniqlab, uni ma'muriy javobgarlikka tortish va jarimaga hukm qilish, shuningdek uning oila a'zolarini ishdan chetlatish
+- kasallik bo'yicha statistik hisobot tuzib, uni yillik hisobotga kiritish va vazirlikka yuborish
+- sog'lom aholini ommaviy ravishda dori vositalari bilan davolash va profilaktik karantinga olish
+- oziq-ovqat narxlarini baholab, ularni bozor bahosi bilan solishtirish va savdo shoxobchalarini ro'yxatga olish
+! Tekshiruv choralarni to'g'ri yo'naltirish uchun manba, omil va tarqalish chegarasini aniqlashga qaratilgan.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 1-ilova

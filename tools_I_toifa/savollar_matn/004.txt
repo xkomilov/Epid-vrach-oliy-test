@@ -1,0 +1,98 @@
+=== 004
+? S. Morse ta'rifiga ko'ra, yangi (paydo bo'layotgan) yuqumli kasalliklar qanday infeksiyalardir?
++ yangidan paydo bo'lgan yoki ilgaridan mavjud bo'lib, kasallanishi yoki tarqalish hududi tez o'sayotgan infeksiyalar
+- aholida faqat yangi kashf etilgan qo'zg'atuvchilar keltirib chiqargan va ilgari hech qachon uchramagan infeksiyalar
+- tabiiy o'choqlarda yovvoyi hayvonlar orasida saqlanib, odamlarga hech qachon o'tmaydigan infeksiyalar
+- antibiotiklar yaratilgandan keyin butunlay yo'qolgan va endi faqat tarixiy ahamiyatga ega bo'lgan infeksiyalar
+- faqat kasalxona ichida davolash jarayonida yuqadigan va boshqa joyda uchramaydigan infeksiyalar
+! Ta'rif mutlaq yangilikni emas, kasallanish yoki tarqalish geografiyasining tez o'sishini asosiy mezon qilib oladi.
+@ Morse S.S. Factors in the emergence of infectious diseases // Emerging Infectious Diseases. 1995
+? K. Jons tahlili (1940–2004-yillar, 335 ta hodisa) bo'yicha yangi kasalliklarning qancha qismini zoonozlar tashkil etgan?
++ 60,3 foizini
+- 25,4 foizini
+- 54,3 foizini
+- 71,8 foizini
+- 89,5 foizini
+! Yangi kasalliklarning ko'pchiligi hayvonlardan odamga o'tgan, shu sababli epidemiologik kuzatuv hayvonlarni ham qamrab olishi kerak.
+@ Jones K.E. va boshq. Global trends in emerging infectious diseases // Nature. 2008
+? Jons tadqiqotida yangi kasallik hodisalarining eng yuqori ko'rsatkichi qaysi davrga to'g'ri kelgan?
++ 1980-yillarga, ya'ni OIV pandemiyasi davriga
+- 1940-yillarga, ya'ni antibiotiklar kashf etilishi davriga
+- 1960-yillarga, ya'ni chechakni tugatish dasturi davriga
+- 1990-yillarga, ya'ni molekulyar epidemiologiya shakllanishi davriga
+- 2000-yillarga, ya'ni SARS epidemiyasi davriga
+! Yangi kasallik hodisalari vaqt o'tishi bilan oshgan va OIV tarqalgan yillarda eng yuqori cho'qqiga chiqqan.
+@ Jones K.E. va boshq. Global trends in emerging infectious diseases // Nature. 2008
+? Jons tahliliga ko'ra, yangi zoonoz va vektorli kasalliklar xavfi qaysi hududlarda yuqori?
++ hisobot tizimi kuchsiz bo'lgan quyi kengliklarda
+- hisobot tizimi kuchli bo'lgan yuqori kengliklarda
+- aholisi siyrak yashaydigan qutb mintaqalarida
+- iqlimi sovuq va quruq bo'lgan baland tog'larda
+- aholisi zich yashaydigan, tibbiy xizmati rivojlangan sanoat shaharlarida
+! Quyi kengliklarda yovvoyi hayvonlar xilma-xil, nazorat esa sust, shu sababli yangi kasalliklar paydo bo'lish ehtimoli yuqori.
+@ Jones K.E. va boshq. Global trends in emerging infectious diseases // Nature. 2008
+? Zoonozlarda odam ko'pincha qanday rol o'ynaydi va bu nimaga olib keladi?
++ biologik boshi berk bo'g'in bo'ladi, kasallik odamdan odamga yuqmaydi
+- asosiy rezervuar bo'ladi, kasallik odamdan odamga doimiy ravishda yuqadi
+- vektor bo'ladi, qo'zg'atuvchi odam organizmida ko'payib kanalarga o'tadi
+- immunitet hosil qilmaydigan xo'jayin bo'ladi, qo'zg'atuvchi o'z-o'zidan yo'qoladi
+- faqat tashuvchi bo'ladi, kasallik klinik belgilarsiz o'tadi
+! Qo'zg'atuvchining keyingi yashashi imkonsiz bo'lgani uchun epidemik jarayon boshlanmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 9-bob
+? Yangi zoonoz infeksiyada qanday sharoitda epidemik jarayon boshlanadi va pandemiya xavfi paydo bo'ladi?
++ hayvondan odamga o'tgan qo'zg'atuvchi odamdan odamga ham uzatilsa
+- hayvonlar orasida qo'zg'atuvchi ko'payib, epizootiya tarqalsa
+- qo'zg'atuvchi odam organizmida faqat latent holatda saqlansa
+- odam kasallangan hayvon bilan bir marta aloqa qilgan bo'lsa
+- aholining emlanganlik darajasi 85 foizdan oshgan bo'lsa
+! Odamdan odamga uzatilish bo'lmasa, kasallik boshi berk holatda qolib, kichik o'choq bilan cheklanadi.
+@ Morens D.M., Fauci A.S. Emerging pandemic diseases: how we got to COVID-19 // Cell. 2020
+? E.N. Pavlovskiy ta'limotiga ko'ra, ikkilamchi antropurgik o'choqlarni qaysi hayvonlar hosil qilishi mumkin?
++ sinantrop va uy hayvonlari
+- yirtqich yovvoyi hayvonlar va ularning tashqi parazitlari
+- migratsiya qiluvchi suv qushlari va ularning ko'chib yuruvchi turlari
+- tabiiy o'choqlardagi o'txo'r kemiruvchilar
+- qon so'ruvchi bo'g'imoyoqlilar (kanalar va burgalar)
+! Birlamchi tabiiy o'choqlar yovvoyi hayvonlarda saqlansa, odam yashash joyiga yaqin hayvonlar ikkilamchi o'choq hosil qiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Xalqaro tibbiy-sanitariya qoidalari (2005) bo'yicha ishtirokchi davlat baholashdan so'ng qancha vaqt ichida JSSTni xabardor qilishi shart?
++ 24 soat ichida
+- 6 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+! Qoidalar xalqaro ahamiyatga ega favqulodda vaziyat bo'lishi mumkin hodisalar haqida tezkor xabar berishni talab qiladi.
+@ WHO. International Health Regulations (2005), Article 6
+? Mavsumiy ko'tarilish davrida epidemiya paydo bo'lish ehtimoli nima uchun mavsumlararo davrga nisbatan yuqori?
++ infeksiya manbalari soni ko'payadi, ba'zan yuqish mexanizmi faolligi va moyillik ortadi
+- infeksiya manbalari soni kamayadi, lekin yuqish mexanizmi faolligi o'zgarmaydi
+- aholining populyatsion immuniteti mavsum davomida butunlay yo'qoladi
+- qo'zg'atuvchilar faqat shu davrda yangidan paydo bo'ladi va mutatsiyaga uchraydi
+- tibbiy hisobot tizimi mavsum davomida kasallanishni ikki baravar oshirib ko'rsatadi
+! Mavsumiylik uch zanjirning ham o'zgarishi bilan bog'liq, shuning uchun ko'tarilish davrida jarayon kuchayadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? CDC materiallariga ko'ra, quyidagilardan qaysi biri o'zgargan (o'zgarib borayotgan) qo'zg'atuvchilarga misol bo'ladi?
++ dori-darmonga chidamli sil mikobakteriyasi va qush grippi
+- Ebola virusi, OIV va yangi aniqlangan Legionella bakteriyasi
+- SARS koronavirusi va Legionella kabi yangi aniqlangan qo'zg'atuvchilar
+- chechak virusi va poliomielit virusi kabi tugatilgan qo'zg'atuvchilar
+- Vibrio cholerae va gepatit A virusi kabi ichak infeksiyasi qo'zg'atuvchilari
+! Ebola, OIV/OITS va SARS yangi qo'zg'atuvchilar sifatida alohida tilga olinadi, o'zgarganlar esa chidamli va yangi grippa shtammlaridir.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+? V.D. Belyakov va hamkasblari asoslab bergan nazariyaga ko'ra, epidemik jarayon qanday boshqariladi?
++ parazit va xo'jayin populyatsiyalarining o'zaro ta'siri natijasida ichki mexanizm orqali
+- tashqi muhit haroratining o'zgarishi va iqlim sharoitlari ta'sirida
+- faqat sog'liqni saqlash tizimining ma'muriy qarorlari asosida
+- aholining ijtimoiy-iqtisodiy sharoiti o'zgarishi orqali, qo'zg'atuvchidan mustaqil holda
+- qo'zg'atuvchining genetik mutatsiyalari natijasida, xo'jayin populyatsiyasiga bog'liq bo'lmagan holda
+! Nazariyaga ko'ra jarayon tashqi buyruqlarsiz, ikki populyatsiyaning o'zaro munosabati bilan o'zini tartibga soladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? 2020-yil 25-iyuldagi PF-6035-sonli Farmon nimani ko'zda tutgan?
++ sanitariya-epidemiologiya xizmatining institutsional asoslarini va tuzilmasini takomillashtirishni
+- barcha yuqumli kasalliklarga qarshi majburiy emlashni bekor qilishni va uni ixtiyoriy qilishni
+- xususiy tibbiyot muassasalarini yuqumli kasalliklar bo'yicha faoliyatdan chetlatishni va yopishni
+- chegara hududlarida doimiy karantin postlarini tashkil etishni va ularni kuchaytirishni
+- yuqumli kasalliklar bo'yicha hisobotni qog'oz shaklida yuritishni majburiy qilishni va saqlashni
+! Farmon koronavirus pandemiyasini yumshatish va aholining sanitariya-epidemiologik osoyishtaligini ta'minlash tizimini isloh qilishga qaratilgan.
+@ Mavzu materiali (004.docx)
+#U 004 / 12: Farmon mazmuni faqat mavzu materialidagi tavsifga tayangan.

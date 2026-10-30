@@ -1,0 +1,97 @@
+=== 098
+? Quturishda klinik belgilar paydo bo'lgandan keyin kasallik qanday oqibat bilan tugaydi?
++ deyarli 100 % hollarda o'lim bilan
+- ko'pchilik hollarda to'liq tuzalish bilan
+- taxminan yarmida surunkali shaklga o'tish bilan
+- 10–40 % hollarda o'lim, qolganlarida nogironlik bilan
+- ko'pincha antibiotiklar yordamida sog'ayish bilan
+! Neyrotrop virus markaziy asab tizimini zararlagach, davolash imkoniyati deyarli yo'qoladi.
+@ WHO. Rabies (fact sheet)
+? JSST ma'lumotiga ko'ra, inson quturishining qanchasida virus itlar orqali yuqadi?
++ 99 % gacha
+- 50 % atrofida
+- 25 % atrofida
+- yarim yuzdan 10 % gacha
+- 1 % dan kam
+! Shu sababli itlarni emlash odamlar orasidagi o'limni kamaytirishning asosiy yo'li hisoblanadi.
+@ WHO. Rabies (fact sheet)
+? Quturishning yuqish mexanizmi va odamdan odamga yuqishi haqidagi holat qaysi javobda to'g'ri?
++ kontakt mexanizmi; odamdan odamga yuqishi isbotlanmagan
+- fekal-oral mexanizm; bemor najasi orqali oilada tarqaladi
+- aerogen mexanizm; bemor yo'talganda atrofdagilarga yuqadi
+- transmissiv mexanizm; chivinlar chaqishi orqali tarqaladi
+- parenteral mexanizm; faqat qon quyilganda yuqadi
+! Virus kasal hayvon so'lagi bilan ajraladi va tishlash, so'laklash yoki tirnash orqali kiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010; WHO. Rabies (fact sheet)
+? Quturgan hayvon yuzdan tishlaganda kasallik rivojlanish ehtimoli taxminan qancha?
++ 90 %
+- 5 %
+- 23 %
+- 63 %
+- 100 %
+! Yuz va bosh nerv markazlariga yaqin bo'lgani uchun virus tez miyaga yetib boradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? JSST ga ko'ra, quturishda inkubatsiya davri odatda qancha davom etadi?
++ odatda 2–3 oy, 1 haftadan 1 yilgacha
+- odatda 1–3 kun, maksimal 9 kun
+- odatda 12–36 soat, 4 soatdan 8 kungacha
+- odatda 5–17 kun, o'rtacha 14 kun
+- odatda 2–4 hafta, 1 haftadan 2 oygacha
+! Davr jarohat joyining miyadan uzoqligiga va virus miqdoriga bog'liq.
+@ WHO. Rabies (fact sheet)
+? Hayvon tishlagan jarohatga birinchi tibbiy yordamda qaysi tartib qo'llanadi?
++ oqar suvda yuvish, 20 % sovunli eritma bilan ishlov berish, 70 % spirt va steril bog'lam
+- darhol jarohat chetlarini kesib, tikish va qon to'xtatuvchi jgut qo'yish, so'ng sovuq bosish
+- jarohatga yod quyib, yopishqoq plastyr bilan berkitish, suv bilan yuvmasdan
+- vodorod peroksid bilan bir marta artib, bog'lamasdan ochiq qoldirish
+- jarohatni muzlatib, sovun ishlatmasdan 3 kun ochiq qoldirish
+! Mexanik tozalash va sovun virusni jarohatdan chiqaradi va uni inaktivatsiya qiladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 1-ilova; WHO. Rabies (fact sheet)
+? Antirabik yordam ketma-ketligi qaysi javobda to'g'ri keltirilgan?
++ jarohatga ishlov, antirabik immunoglobulin, antirabik vaksina, so'ngra qoqshol profilaktikasi
+- antirabik vaksina, jarohatga ishlov, qoqshol anatoksini, antibiotik, so'ngra immunoglobulin
+- qoqshol profilaktikasi, antirabik vaksina, jarohatga ishlov, so'ngra immunoglobulin
+- antirabik immunoglobulin, qoqshol profilaktikasi, jarohatga ishlov, so'ngra vaksina
+- antibiotik kursi, antirabik vaksina, jarohatga ishlov, so'ngra immunoglobulin
+! Jarohatni mexanik tozalash va passiv himoya faol immunitet hosil bo'lguncha virusni to'xtatadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 1-ilova
+? Hayvon tishlagani haqida sanitariya-epidemiologiya markaziga shoshilinch xabarnoma qancha vaqt ichida beriladi?
++ 12 soat ichida (058/h shakli)
+- 1 soat ichida (391/h shakli)
+- 24 soat ichida (391/h shakli)
+- 3 kun ichida (058/h shakli)
+- 7 kun ichida (060/h shakli)
+! Tez xabar berish o'choqni aniqlash va jabrlanganlarni tezda emlashga imkon beradi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 1-ilova
+? To'liq antirabik kurs olganlar dispanser nazoratida qancha vaqt bo'ladi va qachon ko'rikdan o'tadi?
++ bir yil, kurs boshlanganidan keyin 3, 6 va 12-oylarda
+- olti oy, kurs tugagandan keyin 1, 2 va 3-oylarda
+- ikki yil, kurs boshlanganidan keyin har oyda va 24-oyda
+- uch yil, kurs boshlanganidan keyin har yarim yilda
+- bir yil, kurs boshlanganidan keyin har haftada va 52-haftada
+! Kuzatuv davomida immun javob va asoratlar nazorat qilinadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 1-ilova
+? Respublika markazi omborida antirabik preparatlarning doimiy zaxirasi qancha bo'lishi belgilangan?
++ 200 ml immunoglobulin va 500 komplekt vaksina
+- 100 ml immunoglobulin va 200 komplekt vaksina
+- 500 ml immunoglobulin va 200 komplekt vaksina
+- 400 ml immunoglobulin va 300 komplekt vaksina
+- 50 ml immunoglobulin va 1000 komplekt vaksina
+! Zaxira jabrlanganlarga uzluksiz yordam berishni ta'minlaydi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 1-ilova
+? Epidemiologik ko'rsatma bo'yicha quturishga qarshi profilaktik emlash kalendarida qaysi yoshdan emlanadi?
++ 16 yoshdan, birinchi revaksinatsiya bir yildan keyin, so'ngra har 3 yilda
+- 2 oylikdan, birinchi revaksinatsiya 6 oydan keyin, so'ngra har 10 yilda
+- 6 yoshdan, birinchi revaksinatsiya 2 yildan keyin, so'ngra har yili
+- 12 yoshdan, bitta doza, keyingi revaksinatsiya hech qachon talab qilinmaydi
+- 1 yoshdan, har yili bir marta, umr bo'yi
+! Bu ekspozitsiyadan oldingi emlash xavf guruhlariga tegishli.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika, 2017)
+? JSST ga ko'ra, quturishni odamlar orasida kamaytirishning eng samarali strategiyasi qaysi?
++ itlarni ommaviy emlash
+- ko'cha itlarini ommaviy yo'q qilish va otib tashlash
+- barcha aholini har yili ommaviy emlash
+- yovvoyi hayvonlarni ovlash va ularni kamaytirish
+- aholini xavfli hududlardan boshqa joyga ko'chirish
+! Strategiya zararlanishni manbaning o'zida to'xtatadi.
+@ WHO. Rabies (fact sheet)

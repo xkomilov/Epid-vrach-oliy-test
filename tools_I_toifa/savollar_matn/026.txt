@@ -1,0 +1,98 @@
+=== 026
+? Kasalxona ichi (nozokomial) infeksiyasi qaysi ta'rifga mos keladi?
++ Bemorda DPMga tushishdan oldin bo'lmagan va DPM sharoitida paydo bo'lgan yoki chiqarilgandan keyin namoyon bo'lgan yuqumli kasallik
+- Bemor kasalxonaga tushgan paytda mavjud bo'lgan infeksiyaning tabiiy davomi yoki uning asorati, shu jumladan surunkali kasallik avj olishi
+- Bemorlardan xodimlarga yuqqan infeksiya, xodimning kasbiy faoliyatidan tashqari
+- Muassasadan tashqarida, oilada yoki jamoada olingan har qanday o'tkir ichak infeksiyasi
+- Faqat jarrohlik amaliyotidan keyin yuzaga kelgan yiringli asoratlar, boshqa holatlar kirmaydi
+! KII kasalxonaga tushish paytida bo'lmagan va tibbiy yordam sharoitida orttirilgan infeksiyani bildiradi, mavjud kasallikning davomi unga kirmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016; SanQvaM № 0342-17
+? Quyidagilardan qaysi holat KII hisoblanmaydi?
++ Kasalxonaga tushishdan oldin mavjud bo'lgan infeksiyaning davomi yoki asorati
+- Mavjud kasallikka yangi qo'zg'atuvchi qo'shilib, boshqa infeksiya rivojlanishi
+- Tibbiyot xodimiga kasbiy faoliyatida yuqqan infeksiya
+- Bemor chiqarilgandan keyin namoyon bo'lgan, yashirin davrdagi infeksiya
+- Ambulatoriya-poliklinika sharoitida tibbiy yordam bilan bog'liq paydo bo'lgan infeksiya
+! Tushishdan oldin mavjud infeksiyaning davomi kasalxonada orttirilmagan, shu bois KIIga kirmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? JSST 2022-yilgi global hisobotiga ko'ra, o'tkir yordam kasalxonalarida davolanish davomida kamida bitta tibbiy yordam bilan bog'liq infeksiya oladigan bemorlar ulushi qanday?
++ Har 100 bemordan yuqori daromadli mamlakatlarda 7, past va o'rta daromadli mamlakatlarda 15 nafari
+- Har 100 bemordan yuqori daromadli mamlakatlarda 15, past va o'rta daromadli mamlakatlarda 7 nafari
+- Har 100 bemordan barcha mamlakatlarda bir xil — 1 nafari
+- Har 100 bemordan yuqori daromadli mamlakatlarda 30, past daromadli mamlakatlarda 45 nafari
+- Har 100 bemordan yuqori daromadli mamlakatlarda 70, past va o'rta daromadli mamlakatlarda 90 nafari
+! Hisobotda yuk daromadi past mamlakatlarda taxminan ikki baravar yuqori ekani ko'rsatilgan.
+@ WHO. WHO launches first ever global report on infection prevention and control (2022)
+? Darslikda keltirilgan JSST tadqiqotiga ko'ra, 14 mamlakatning 55 kasalxonasida bemorlarning o'rtacha necha foizida KII aniqlangan?
++ 8,7 foiz (3–21 foiz oralig'ida)
+- 0,87 foiz (0,3–2,1 foiz oralig'ida)
+- 28 foiz (15–40 foiz oralig'ida)
+- 50 foiz (40–60 foiz oralig'ida)
+- 1,5 foiz (0,5–3 foiz oralig'ida)
+! Tadqiqotda KII ko'rsatkichi mamlakatlar va muassasalar bo'yicha keng oraliqda tebranib, o'rtacha qiymati 8,7 foizni tashkil etgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Barcha KIIning taxminan 90 foizini qaysi qo'zg'atuvchilar chaqiradi?
++ Bakteriyalar
+- Viruslar
+- Zamburug'lar
+- Sodda jonivorlar
+- Ektoparazitlar
+! Kasalxona ichi infeksiyalarining katta qismi bakteriyalar tufayli rivojlanadi, boshqa qo'zg'atuvchilar kamroq uchraydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Gospital (kasalxona) shtammining asosiy xususiyatlari qaysilar?
++ Yuqori virulentlik hamda antibiotiklar va dezinfeksiya vositalariga chidamlilik
+- Past virulentlik va barcha antibiotiklarga yuqori sezgirlik
+- Tashqi muhitda ko'payish va tibbiy muassasada hech qachon uchramaslik
+- Dezinfeksiya vositalariga o'ta sezgirlik va tez nobud bo'lish
+- Faqat sog'lom odamlarda kasallik chaqirish va immuniteti zaiflarda zararsizligi
+! Shifoxona sharoitiga moslashgan shtammlar virulent bo'lib, dori va dezinfektantlarga chidamlilik orttiradi.
+@ SanQvaM № 0342-17; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Aspergillus va Legionella uchun yagona yuqish yo'li qaysi tashqi muhit obyektlari bilan bog'liq?
++ Nam obyektlar: distillyatorlar, konditsionerlar, namlagichlar va suv isitgichlar
+- Quruq jun va paxta buyumlari, kitoblar, arxiv hujjatlari hamda omborxonadagi quruq qadoqlangan mahsulotlar
+- Metall asboblar va ularning quruq steril qadoqlari
+- Bemorlar kiyadigan quruq bahorgi kiyimlar va poyabzal
+- Qadoqlangan quruq dori preparatlari va vitamin kapsulalari
+! Bu qo'zg'atuvchilar namlik va suv bilan bog'liq tizimlarda ko'payib, aerozol orqali yuqadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Sanitariya qoidasiga ko'ra, jarrohlik infeksiyalarida kesilgan joy yuza infeksiyasi qancha muddat ro'yxatga olinadi?
++ Operatsiyadan keyin 30 kungacha
+- Operatsiyadan keyin 7 kungacha
+- Operatsiyadan keyin 3 oygacha
+- Operatsiyadan keyin 6 oygacha
+- Operatsiyadan keyin 2 yilgacha
+! Yuza infeksiya operatsiyadan keyin 30 kun ichida, implant bo'lsa chuqur infeksiya bir yilgacha qayd etiladi.
+@ SanQvaM № 0342-17
+? Qanday statsionarlarda KII profilaktikasi uchun vrach-epidemiolog shtati ajratiladi?
++ 200 o'rindan ortiq, ayniqsa jarrohlik, tug'ruq va bolalar bo'limlari bor statsionarlarda
+- 20 o'rindan kam bo'lgan sanatoriy-kurort muassasalarida va dam olish uylarida
+- Ambulatoriya-poliklinika muassasalarida, statsionarlarda esa ajratilmaydi va talab qilinmaydi
+- Barcha tibbiy muassasalarda, kattaligidan qat'i nazar, majburiy ravishda
+- Xususiy stomatologiya kabinetlarida va ixtisoslashgan estetik klinikalarda
+! Katta va xavfi yuqori bo'limlari bor statsionarda KIIni aniqlash va nazorat qilish uchun doimiy epidemiolog zarur.
+@ SanQvaM № 0342-17
+? Infeksion nazorat komissiyasi qanday rahbarlikda va qanday davriylikda yig'iladi?
++ Bosh shifokorning davolash ishlari bo'yicha o'rinbosari boshchiligida, kamida har chorakda
+- Bosh buxgalter boshchiligida, yilda bir marta, moliyaviy hisobotlarni muhokama qilish uchun
+- Xo'jalik mudiri boshchiligida, har kuni
+- Eng yosh hamshira boshchiligida, besh yilda bir marta
+- Tashqi tashkilot vakili boshchiligida, faqat avj olish tugagandan keyin
+! Komissiya har yili bosh shifokor buyrug'i bilan tuziladi, bog'liq holatlarda esa navbatdan tashqari yig'iladi.
+@ SanQvaM № 0342-17
+? JSST ko'p qirrali strategiyasiga ko'ra, qo'l gigienasini yaxshilash dasturlari tibbiy yordam bilan bog'liq infeksiyalarning qancha qismini oldini olishi mumkin?
++ 50 foizgacha
+- 5 foizgacha
+- 10 foizgacha
+- 90 foizdan ortig'ini, deyarli hammasini
+- Umuman ta'sir qilmaydi
+! JSST qo'l gigienasi dasturlari infeksiyalarning yarmigacha oldini olishi va katta iqtisodiy tejash berishi mumkinligini qayd etadi.
+@ WHO. World Hand Hygiene Day: key facts and figures
+? Passiv va faol aniqlash usullarini solishtirganda qaysi fikr to'g'ri?
++ Passiv kuzatuv KIIning haqiqiy sonini kamaytirib ko'rsatadi, faol aniqlash samaraliroq
+- Passiv kuzatuv doimo haqiqiy sondan ortiqroq natija beradi, faol aniqlash esa keraksiz
+- Ikkalasi bir xil natija beradi va ularni ajratishning hojati yo'q
+- Faol aniqlash faqat patologoanatomiya hisobotlariga tayanadi, boshqa manba ishlatilmaydi
+- Passiv kuzatuv faol aniqlashdan ancha aniqroq va qimmatroq usul hisoblanadi
+! Shifokor va hamshiralarning o'zi xabar berishiga tayangan passiv tizimda ko'p holatlar qayd etilmay qoladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+#U 026 / 4: 14 mamlakat, 55 kasalxona tadqiqoti ma'lumoti darslikda keltirilgan, yangi JSST hisobotlari bilan solishtirilmagan.

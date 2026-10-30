@@ -1,0 +1,97 @@
+=== 092
+? Arbovirusli infeksiyalarni qo'zg'atuvchi viruslarning hayot sikli qanday kechadi?
++ ikki xo'jayinda: bo'g'imoyoqlilar va umurtqali hayvonlarda, ba'zan odamda
+- odam organizmida, havo-tomchi yo'li bilan birdan-bir uzatilish
+- tuproq va suvda saprofit holda yashab, ichak orqali ko'payish
+- faqat bo'g'imoyoqlilar organizmida, umurtqali hayvonlarsiz davom etish
+- qushlar va kemiruvchilar o'rtasida kontakt yo'li bilan, hasharotlarsiz
+! Virus bo'g'imoyoqli vektorda ham, umurtqali xo'jayinda ham ko'payadi, shu sababli kasalliklar transmissiv hisoblanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Arbovirusli infeksiyalarning epizootik zanjirida qaysi bo'g'in olib tashlansa, transmissiv infeksiya paydo bo'lmaydi?
++ qon so'ruvchi bo'g'imoyoqli o'tkazuvchi
+- viremiya davridagi kasal hayvon manbai
+- moyil organizm sifatidagi odam yoki hayvon
+- hayvon qonida to'plangan antitelalar zahirasi
+- virus ko'payadigan tashqi muhitdagi suv havzasi
+! O'tkazuvchisiz virus manbadan moyil organizmga yetib bora olmaydi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? JSST ga ko'ra dengue infeksiyasini asosan qaysi chivinlar tarqatadi?
++ Aedes aegypti va Ae. albopictus
+- Anopheles maculipennis va An. superpictus
+- Culex pipiens va Culex tritaeniorhynchus
+- Phlebotomus papatasi va Ph. sergenti
+- Hyalomma asiaticum va H. anatolicum
+! Bu turlar shaharlarda ham ko'payib, virusni odamdan odamga o'tkazadi.
+@ WHO. Dengue and severe dengue (fact sheet)
+? JSST ma'lumotiga ko'ra, 25–28 °C da dengue virusining chivin tanasidagi tashqi inkubatsiya davri qancha?
++ 8–12 kun
+- 1–3 kun
+- 14–21 kun
+- 30–40 kun
+- 3–5 soat
+! Virus chivin ichagida ko'payib, so'lak bezlariga yetgandan keyingina yuqumli bo'ladi.
+@ WHO. Dengue and severe dengue (fact sheet)
+? Qrim–Kongo gemorragik isitmasi qo'zg'atuvchisi qaysi virus turkumiga mansub?
++ Nairovirus (Bunyaviridae oilasi)
+- Flavivirus (Flaviviridae oilasi)
+- Alphavirus (Togaviridae oilasi)
+- Hantavirus (Bunyaviridae oilasi)
+- Phlebovirus (Bunyaviridae oilasi)
+! Qo'zg'atuvchi uch segmentli RNK saqlovchi, kana orqali yuqadigan virus hisoblanadi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? O'zbekistondagi birlamchi tabiiy Qrim–Kongo gemorragik isitmasi o'chog'ida virus rezervuari va tashuvchisi qaysilar?
++ qum sichqonlar va Hyalomma asiaticum asiaticum kanasi
+- kulrang kalamushlar va Ixodes persulcatus kanasi
+- uy mushuklari va Aedes aegypti chivini, ular orqali o'tkazilishi
+- yovvoyi cho'chqalar va Culex pipiens chivini, ularning so'lagi orqali
+- qoramol va Ornithodoros papillipes kanasi, o'choq ichida
+! Qizilqum cho'llaridagi tabiiy sikl kichik sut emizuvchilar va kanalar o'rtasida aylanadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Alveonasus lahorensis kanasi qaysi davrda faol bo'lib, kasallikning qishda ham uchrashiga sabab bo'ladi?
++ oktyabrdan aprelgacha
+- aprel oyidan sentabrgacha
+- faqat iyun-iyul oylarida
+- may oyining ikkinchi yarmidan avgustgacha
+- mart oyining o'zida, qor erigach
+! Bu kana sovuq oylarda faollashgani uchun mavsumiylik yoz bilan cheklanmaydi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? JSST bo'yicha Qrim–Kongo gemorragik isitmasida o'lim ko'rsatkichi qancha?
++ taxminan 10–40 %
+- taxminan 0,1–1 %
+- taxminan 2–5 %
+- taxminan 60–70 %
+- taxminan 90–100 %
+! Kasallik og'ir gemorragik sindrom bilan kechgani uchun o'lim darajasi yuqori.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? JSST bo'yicha Qrim–Kongo gemorragik isitmasida kana chaqqandan keyingi yashirin davr qancha?
++ 1–3 kun, maksimal 9 kun
+- 5–6 kun, maksimal 13 kun
+- 12 soatdan 5 kungacha
+- 7–19 kun, o'rtacha 12 kun
+- 2–4 hafta, maksimal 2 oy
+! Qon yoki to'qima bilan aloqadan keyingi muddat uzoqroq bo'lib, bu ikki yo'lni farqlashga yordam beradi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Qrim–Kongo gemorragik isitmasi o'chog'ida aloqada bo'lganlar ustidan tibbiy kuzatuv qancha davom etadi va qanday o'tkaziladi?
++ 7 kun, kuniga 2 marta termometriya bilan
+- 21 kun, kuniga 1 marta termometriya bilan
+- 14 kun, haftada 1 marta tibbiy ko'rik bilan
+- 3 kun, har soatda harorat o'lchash bilan
+- 30 kun, oyiga 2 marta serologik tekshiruv bilan
+! Muddat maksimal yashirin davrdan kelib chiqib belgilangan, harorat esa kasallikning birinchi belgisini erta tutadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Hayvon saqlanadigan binolarda Qrim–Kongo gemorragik isitmasiga qarshi profilaktik zararsizlantirish yiliga necha marta o'tkaziladi?
++ 4 marta
+- 1 marta
+- 2 marta
+- 6 marta
+- 12 marta
+! Muddatlar kanalar faolligi davrlariga moslab, mart–aprelda boshlab, sentabr–oktabrda yakunlanadigan qilib belgilangan.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Qrim–Kongo gemorragik isitmasi uchun maxsus profilaktika holati haqida JSST nima deydi?
++ keng qo'llaniladigan xavfsiz va samarali vaksina mavjud emas
+- bir martalik emlash ko'pchilik uchun umrbod himoya beradi
+- jonli susaytirilgan vaksina ommaviy emlash taqvimiga kiritilgan
+- yangi tug'ilgan chaqaloqlarni emlash eng samarali usul hisoblanadi
+- vaksina Hyalomma kanalarini yo'q qilish uchun ishlatiladi
+! Shu sababli asosiy e'tibor vektor nazorati va shaxsiy himoyaga qaratiladi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)

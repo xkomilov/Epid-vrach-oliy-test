@@ -1,0 +1,97 @@
+=== 119
+? Qo'tirning qo'zg'atuvchisi qaysi?
++ Sarcoptes scabiei
+- Pediculus humanus
+- Phthirus pubis
+- Demodex folliculorum
+- Ixodes ricinus
+! Qo'tir kanasi teri ichida yo'l ochib yashaydi va tuxum qo'yadi, bitlar esa boshqa kasalliklarni (pedikulyoz) keltirib chiqaradi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey (darslik); JSST. Scabies (fact sheet)
+? Qo'tirda qichishish nima uchun ayniqsa kechqurun va tunda kuchayadi?
++ urg'ochi kanalar kechqurun va tunning birinchi yarmida tuxum qo'yadi
+- erkak kanalar faqat tunda teri yuzasiga chiqib, qon so'radi
+- kechasi teri harorati pasayib, kanalar harakatsiz holatga o'tadi
+- tunda bemorning immuniteti kuchayib, allergik reaksiya susayadi
+- kanalar yorug'likdan qochib, soch follikulalariga kirib ketadi
+! Shu sababli tungi kontaktda yuqish ko'p kuzatiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.6-bo'lim
+? Qo'tirda manba va yuqish mexanizmi qanday?
++ bemor odam (antroponoz); kontakt, asosan teri-teri aloqasi
+- uy hayvonlari (zoonoz); alimentar, go'sht orqali
+- kemiruvchilar; transmissiv, burga chaqishi orqali
+- tuproq va suv (sapronoz); fekal-oral, ifloslangan suv orqali
+- qon tashuvchi bit; transmissiv, kiyim biti najasi orqali
+! Oilada va jinsiy aloqada yuqish asosiy, maishiy buyumlar orqali esa oddiy qo'tirda kam ehtimolli.
+@ JSST. Scabies (fact sheet); Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.6-bo'lim
+? JSSTga ko'ra qo'tirda belgilar odatda kasallanishdan qancha vaqt o'tgach boshlanadi?
++ 4–6 haftadan keyin
+- 1–2 kundan keyin
+- 3–4 kundan keyin
+- 3–4 oydan keyin, bir yilgacha
+- bir yildan keyin
+! Shu davrda ham yuqtirish mumkin.
+@ JSST. Scabies (fact sheet)
+? Po'stloqli (norvegiya) qo'tir qanday xususiyatga ega?
++ immuniteti susayganlarda rivojlanadi, minglab va millionlab kana bo'ladi, juda yuqumli
+- chaqaloqlarda uchraydi, kana soni 10–15 tadan oshmaydi, yuqumliligi past
+- tropik hududlarda bo'ladi, qo'zg'atuvchisi bit, teri-teri aloqasi talab etilmaydi
+- sog'lom kattalarda uchraydi, kuchli qichishish bilan kechadi, yuqumli emas
+- hayvonlardan yuqadi, odamdan odamga o'tmaydi, davolashni talab qilmaydi
+! Bunday shakl OIV bilan yashovchilar va gormon qabul qiluvchilarda kuzatiladi, qichishishsiz kechishi ham mumkin.
+@ JSST. Scabies (fact sheet)
+? Qo'tir bo'yicha oilaviy o'choqlarning epidemiologik ahamiyati nimada?
++ 90% dan ortiq holatda qo'zg'atuvchini oilaga uning a'zolaridan biri olib kiradi
+- oilaviy o'choqlar kam uchraydi, asosiy yuqish yo'li hayvonlardan bo'ladi
+- qo'zg'atuvchi oilaga asosan oziq-ovqat mahsulotlari va suv orqali kiradi
+- oilada bolalar kam kasallanadi, chunki ularda immunitet kuchli bo'ladi
+- oilaviy o'choqlarda faqat kattalar yuqtiradi, bolalar zararlanmaydi
+! Oilaviy o'choqlar qo'tir epidemiologiyasida asosiy o'rin tutadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.6-bo'lim
+? Qo'tirda mavsumiylik qanday?
++ kuzgi-qishki, ayniqsa sentabr–noyabr
+- bahorgi mavsum, ayniqsa mart–may oylarida
+- yozgi mavsum, ayniqsa iyun–avgust oylarida
+- aniq mavsumiylik kuzatilmaydi, butun yil teng
+- yanvar–fevral oylarida faqat kuchayadi, boshqa vaqtda yo'q
+! Urg'ochi kana sentabr–dekabrda yanvar–iyundagiga nisbatan ko'proq tuxum qo'yadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.6-bo'lim
+? Yuqumli teri kasalliklari (qo'tir, trixofitiya, mikrosporiya, favus) birinchi marta aniqlanganda qaysi xabarnoma yuboriladi?
++ 24 soat ichida 089/u shaklida DSENM ga
+- 3 kun ichida 058/u shaklida DSENM ga
+- 1 hafta ichida 357/u shaklida DSENM ga
+- 24 soat ichida 060/u shaklida jurnalga
+- 12 soat ichida 025/u shaklida poliklinikaga
+! Bemorlar bilan aloqador shaxslar tekshiriladi va davolanadi, hujjatlarni yuritishda sir saqlanadi.
+@ O'zR SSV 2010-yil 31-martdagi 99-son buyrug'i
+? Qo'tir o'chog'ida qayta kasallanishning oldini olish uchun aloqadagilar qancha vaqt kuzatiladi va qachon tekshiriladi?
++ 2 hafta kuzatiladi; aniqlanganda va 2 haftadan keyin tekshiriladi
+- 1 kun kuzatiladi; aniqlanganda bir marta tekshiriladi, qayta ko'rik o'tkazilmaydi
+- 3 oy kuzatiladi; har haftada tekshiriladi
+- 6 oy kuzatiladi; har oyda tekshiriladi
+- 1 yil kuzatiladi; har chorakda tekshiriladi
+! Muloqotda bo'lganlar aniqlanib profilaktik davolanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.6-bo'lim
+? JSSTga ko'ra qo'tirda 5% li krem sifatida qaysi vosita tavsiya etiladi?
++ permetrin
+- benzilbenzoat
+- malation
+- ivermektin
+- oltingugurt
+! Boshqa vositalar: 0,5% malation, 10–25% benzilbenzoat emulsiyasi, 5–10% oltingugurt malhami; og'ir hollarda og'iz orqali ivermektin.
+@ JSST. Scabies (fact sheet)
+? Qo'tir bo'yicha dezinfeksiyada JSST yuvib bo'lmaydigan buyumlar uchun nimani tavsiya etadi?
++ bir hafta davomida plastik xaltada saqlash
+- bir soat davomida qaynatish va quritish
+- ochiq havoda bir kecha qoldirish
+- xlorli eritmaga 24 soat botirib qo'yish
+- muzlatkichda 2 soat saqlab, so'ng ishlatish
+! Yuvish mumkin bo'lgan ko'rpa-to'shak va kiyim esa issiq suvda yuviladi, xonalar changyutgich bilan tozalanadi.
+@ JSST. Scabies (fact sheet)
+? JSST qo'tir tarqalishi qancha bo'lganda ommaviy davolashda (MDA) ivermektinni ikki dozada berishni tavsiya qiladi?
++ 10% va undan yuqori bo'lganda
+- 1% dan past bo'lganda
+- 3% bo'lganda
+- 50% dan yuqori bo'lgandagina
+- har qanday tarqalishda, davriylik bo'lmasdan
+! Past tarqalishda dalillar aniq emas.
+@ JSST. Scabies (fact sheet)

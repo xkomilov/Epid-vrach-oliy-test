@@ -1,0 +1,98 @@
+=== 125
+? Amebiazda invazion (yuqtiruvchi) shakl qaysi?
++ To'rt yadroli yetilgan sista
+- Eritrotsitlarni yutgan katta vegetativ shakl
+- Bir yadroli oraliq (minuta) shakl, tashuvchilarda uchraydigan
+- Hujayra ichidagi amastigot shakl, makrofaglarda joylashgan
+- Gametotsit shakli, chivin organizmida rivojlanadigan
+! Tashqi muhitga chidamli yetilgan sista ichakka tushgach, oraliq shaklga aylanadi; vegetativ shakllar tashqi muhitda tez nobud bo'ladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova; Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey
+? Amebiazning yuqish mexanizmi qanday?
++ Fekal-oral
+- Transmissiv, iskabtoparlar chaqishi orqali
+- Aerogen, havo-tomchi yo'li bilan
+- Vertikal, onadan homilaga platsenta orqali
+- Parenteral, qon quyish va in'ektsiyalar orqali asosan
+! Qo'zg'atuvchi najas bilan ajraladi va suv, oziq-ovqat hamda maishiy buyumlar orqali og'izga tushadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 16.10-bo'lim
+? Najas mikroskopiyasida amebiazning o'tkir shaklini tasdiqlovchi topilma qaysi?
++ Eritrotsitlarni yutgan katta vegetativ shakl
+- Faqat to'rt yadroli sistalar, ularning soni qancha bo'lishidan qat'i nazar
+- Sakkiz yadroli sistalar va ularning o'lchamlari
+- Parazit tuxumlari va lichinkalari, shuningdek ularning bo'laklari
+- Najasdagi leykotsitlar va shilimshiq massalar, parazit topilmasa ham
+! Eritrotsitofagiya to'qimaga o'tgan patogen E. histolytica ning belgisi, sistalar esa tashuvchilikda ham uchraydi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova; Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey
+? Amebiazda vegetativ shakllarni topish uchun najas qanday tekshiriladi?
++ Yangi chiqarilgan najas, chunki vegetativ shakllar 15–30 daqiqada nobud bo'ladi
+- Bir sutka sovutgichda saqlangan najas, shundan keyin aniqroq natija beradi
+- Uch kun davomida termostatda saqlangan najas, parazit ko'payishi uchun
+- Formalin bilan fiksatsiya qilingan quritilgan najas, tekshiruvdan oldin
+- Qaynatilgan va keyin sovitilgan najas, mikrob ifloslanishini yo'qotish uchun
+! Vegetativ shakllar tashqi muhitda tez nobud bo'lgani uchun namuna olingach darhol mikroskop ostida ko'riladi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey; Romanenko N.A. va b. Sanitarnaya parazitologiya
+? Najasdagi amebiaz sistalarini bo'yash uchun qaysi eritma ishlatiladi?
++ Lyugol eritmasi
+- Metilen ko'ki eritmasi
+- Ziyl–Nilson fuksini
+- Sudan III eritmasi
+- Kongo qizili eritmasi
+! Yod eritmasi sistalar yadrolarini ko'rinadigan qiladi va morfologiya bo'yicha aniqlash imkonini beradi.
+@ Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey; Romanenko N.A. va b. Sanitarnaya parazitologiya
+? Amebiazda kasallik chaqirishi mumkin bo'lgan sista dozasi qancha?
++ Bittadan mingtagacha sista
+- 10 000 dan 100 000 gacha sista
+- Bir milliondan o'n millionga qadar sista
+- Kamida yuz milliard sista
+- 500 000 dan 1 milliongacha sista
+! Moyillik nisbatan yuqori bo'lib, ozgina miqdor ham kasallik chaqirishi mumkin.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 16.10-bo'lim
+? Amebiazning yashirin davri ko'proq qancha davom etadi?
++ 3–6 hafta
+- 1–2 kun
+- 2–3 hafta
+- 6–9 oy
+- 12–18 oy
+! Yashirin davr bir haftadan uch oygacha o'zgaradi, eng ko'p uch-olti hafta.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Nima uchun najasda sista topilgan har bir holat amebiaz hisoblanmaydi?
++ E. dispar mikroskopda E. histolytica dan farqlanmaydi, lekin odam uchun patogen emas
+- Sistalar faqat tashqi muhitda ko'payadi va odamga zarar yetkazmaydi
+- Barcha sistalar tuxum shaklida bo'lib, kasallik chaqirmaydi
+- Sista topilishi doim mikroskopik xato natijasi hisoblanadi
+- Sistani aniqlash qiyin, shuning uchun ularni kasallik belgisi deb hisoblash mumkin emas
+! 1999 yildan keyin ikki tur ajratildi; morfologik o'xshashlik sababli ularni faqat molekulyar usullar farqlaydi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Amebiazga qarshi maxsus profilaktika (emlash) haqida nima deyiladi?
++ Maxsus profilaktika (emlash) qo'llanilmaydi
+- Bolalar milliy kalendar bo'yicha tug'ilganda emlanadi
+- Safarga chiquvchilar xavfli hududga borishdan oldin jonli vaksina bilan emlanadi
+- O'choq aholisi epidemiologik ko'rsatma bilan emlanadi
+- Yoz oylarida suv ta'minoti xodimlari yiliga bir marta emlanadi
+! Amebiazga qarshi vaksina yo'q, shuning uchun umumiy sanitariya tadbirlari va tashuvchilarni aniqlash muhim.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Joriy dezinfeksiyada amebiaz bemorining najasi qaysi eritma bilan zararsizlantiriladi?
++ 5 % lizol eritmasi
+- 1 % xlorli ohak eritmasi
+- 5 % formalin eritmasi
+- 70 % etil spirti
+- 3 % vodorod peroksid eritmasi
+! Sistalar ayrim keng qo'llanadigan dezinfektantlarga chidamli bo'lgani uchun lizol ishlatiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Milliy yo'riqnomaga ko'ra amebiaz bilan kasallanganlar dispanser kuzatuvi qanday?
++ Kamida 12 oy, choraklik tibbiy ko'rik va laborator tekshiruv bilan
+- 1 oy, har hafta tibbiy ko'rik va laborator tekshiruv bilan, shundan so'ng hisobdan chiqariladi
+- 3 oy, oyiga bir marta ko'rik, laborator tekshiruvsiz, keyin hisobdan chiqariladi
+- 24 oy, har yarim yilda tibbiy ko'rik o'tkazilgan holda
+- 60 oy, yiliga bir marta tibbiy ko'rik o'tkazilgan holda
+! Kuzatuv qaytalanish va tashuvchilikni aniqlash uchun belgilanadi; darslikdagi muddat bundan farq qiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+? Amebiaz bemorining o'tkir bosqichi nima uchun epidemiologik jihatdan kam xavfli hisoblanadi?
++ Bemor chiqargan vegetativ shakllar tashqi muhitda tez nobud bo'ladi
+- Bemor najasida qo'zg'atuvchi umuman bo'lmaydi
+- Qo'zg'atuvchi faqat siydik bilan ajraladi va yuqmaydi
+- Kasallik doim tashuvchilarga o'tib ketadi va bemorlarda kuzatilmaydi
+- Bemorlar odatda yotoq rejimida bo'lgani uchun muloqotga kirishmaydi
+! Asosiy xavf tashqi muhitda chidamli sistalar bilan bog'liq, ularni asosan tashuvchilar ajratadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 16.10-bo'lim; O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 5-ilova
+#D 125 / 11: yo'riqnomada dispanser kuzatuv kamida 12 oy, darslikda esa 6 oy ko'rsatilgan; savol milliy yo'riqnomaga tayanadi.

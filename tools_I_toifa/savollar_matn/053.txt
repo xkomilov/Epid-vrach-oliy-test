@@ -1,0 +1,99 @@
+=== 053
+? Immunoprofilaktika deganda nima tushuniladi?
++ aholini vaksinalar bilan emlash orqali boshqariladigan yuqumli kasalliklarning oldini olishga qaratilgan tadbirlar tizimi
+- bemorlarni ajratish va kontaktdagilarni kuzatish orqali yuqumli kasallik o'chog'ini bartaraf etishga qaratilgan choralar majmui
+- tashqi muhit obyektlarida qo'zg'atuvchilarni yo'qotishga qaratilgan dezinfeksiya, dezinseksiya va deratizatsiya tadbirlari tizimi
+- yuqumli kasallik bilan og'rigan bemorlarni antibiotik va immunoglobulin bilan davolash hamda reabilitatsiya qilish tartibi
+- aholining oziqlanishi va yashash sharoitini yaxshilash orqali umumiy chidamliligini oshirishga qaratilgan ijtimoiy dastur
+! Emlash maxsus immunitet hosil qilib, vaksina yordamida boshqariladigan infeksiyalarni oldindan to'sadi, davolash yoki dezinfeksiya esa bu tushunchaga kirmaydi.
+@ World Health Organization. Vaccines and immunization: What is vaccination?; SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Immunoprofilaktikani rejalashtirishning pirovard maqsadi nima?
++ har bir bolaning o'z vaqtida va to'liq emlanishini hamda aholida yuqori jamoaviy immunitetni ta'minlash
+- faqat epidemik mavsumda vaksina sotib olishni ko'paytirish va omborxonalarni to'ldirib qo'yish
+- emlanmagan bolalarni jamoa tarkibidan butunlay chiqarib tashlash va ularni alohida hisobga olish
+- vaksinalarni xorijdan olib kelish hajmini oshirish va ichki ishlab chiqarishni to'xtatish
+- kasallanish bo'yicha hisobot shakllarining sonini ko'paytirish va ularni muntazam yangilash
+! Rejalashtirish jamoaviy immunitet shakllanishini ta'minlab, boshqariladigan kasalliklar tarqalishini to'xtatish uchun xizmat qiladi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff
+? Maqsadli kontingent hisobi odatda qaysi ko'rsatkich va yosh guruhlari asosida tuziladi?
++ yillik tug'ilgan bolalar kogorti va emlanishi kerak bo'lgan yosh guruhlari
+- ro'yxatdan o'tmagan migrantlarning taxminiy soni va ularning mehnat faoliyati turi
+- aholining umumiy o'rtacha umr ko'rish davomiyligi va kattalar o'limi darajasi
+- viloyatdagi dorixonalar soni va ularning vaksina sotish bo'yicha yillik aylanmasi
+- maktab o'quvchilarining o'zlashtirish ko'rsatkichi va ta'lim muassasalari soni
+! Dozalar ehtiyoji har yili tug'iladigan bolalar soniga va kalendardagi yoshga bog'liq, shu sababli hisob aynan shu ma'lumotlarga tayanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"; World Health Organization. Immunization in practice: a practical guide for health staff
+? Vaksina ehtiyojini hisoblashda isrof koeffitsiyenti (wastage factor) nimani hisobga oladi?
++ ishlatilmay qolgan, buzilgan, to'kilgan yoki muddati o'tgan dozalarni
+- emlangan bolalarda emlashdan keyin yuzaga kelgan noxush hodisalar sonini va ularning og'irligini
+- vaksinaning sovuqlik zanjirida tashilish masofasini hamda yo'l sarfini
+- emlash xonasidagi xodimlarning ish haqi, mehnat sharoiti va lavozim yuklamasini
+- aholi o'rtasida emlashdan bosh tortganlarning umumiy ulushini va uning dinamikasini
+! Ko'p dozali flakon ochilgach ayrim dozalar yo'qoladi, shuning uchun bunday yo'qotishlar ehtiyojga qo'shib hisoblanadi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff
+? Rejalashtirilgan hudud uchun 2000 ta bolaga har birining kalendari bo'yicha 3 dozadan vaksina kerak, isrof koeffitsiyenti 1,25. Zaxirasiz umumiy ehtiyoj nechta doza?
++ 7500 doza
+- 6000 doza
+- 2500 doza
+- 3750 doza
+- 4800 doza
+! Ehtiyoj kontingent, dozalar soni va isrof koeffitsiyentining ko'paytmasiga teng: 2000 × 3 × 1,25.
+@ World Health Organization. Immunization in practice: a practical guide for health staff
+? Vaksinalar zaxirasi (rezervi) nima uchun kerak?
++ ta'minot kechikkanda emlash uzilmasligi hamda epidemik vaziyatda qo'shimcha emlash o'tkazish uchun
+- vaksinaning yaroqlilik muddatini cheksiz uzaytirish va sovuqlik zanjirisiz saqlash uchun
+- emlash qamrovi hisobotlarini sun'iy oshirish va rejadagi ko'rsatkichlarni to'ldirish uchun
+- tibbiy xodimlarning ish haqini to'lash va emlash nuqtalarini moliyalashtirish uchun
+- emlashga qarshi ko'rsatma bo'lgan bolalarni majburan emlash imkoniyatini yaratish uchun
+! Zaxira kutilmagan holatlarda, masalan, ta'minot uzilishi yoki partiyaning yaroqsizligida dasturning uzluksizligini kafolatlaydi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Vaksina zaxirasi haddan tashqari ko'p bo'lsa, qanday salbiy oqibat yuzaga keladi?
++ saqlash xavfi va sovuqlik zanjiriga tushadigan yuk ortadi, yaroqlilik muddati o'tib ketish ehtimoli oshadi
+- emlash qamrovi o'z-o'zidan 100 foizga yetadi va qo'shimcha monitoring butunlay keraksiz bo'lib qoladi
+- emlashdan keyingi noxush hodisalar butunlay yo'qoladi va ularni kuzatish tizimi bekor qilinadi
+- aholining kasallikka moyilligi pasayadi va jamoaviy immunitet zaxira miqdoriga to'g'ridan-to'g'ri bog'lanadi
+- vaksinalarning immunogenligi saqlash davomida kuchayadi va dozalar sonini kamaytirish mumkin bo'ladi
+! Ortiqcha zaxira vaksinaning buzilish xavfini va saqlash xarajatini oshiradi, shu bois u optimal darajada ushlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Grippga qarshi emlash rejada qachon rejalashtiriladi?
++ epidemik mavsum oldidan, kuz oylarida
+- epidemik mavsum avjida, qish oyining oxirida
+- bahor oylarida, kasallanish pasayganidan keyin
+- yoz oylarida, maktablar yopiq bo'lgan paytda
+- yil davomida bir tekis, har oyda teng ulushda
+! Emlash immunitet shakllanishi uchun mavsumdan oldin o'tkazilishi kerak, shuning uchun uni kuzga rejalashtirish maqsadga muvofiq.
+@ World Health Organization. Influenza (seasonal) (fact sheet); SanQvaM № 0239-07/3
+? Immunoprofilaktika rejasi hududlar bo'yicha qanday tartibda tuziladi va umumlashtiriladi?
++ quyidan yuqoriga: tuman, viloyat, respublika darajasida
+- yuqoridan pastga: respublikadan tumangacha faqat markaz tomonidan belgilanib
+- shahar darajasida, qishloq tumanlari rejaga kiritilmasdan
+- har bir muassasa mustaqil ravishda, hududiy umumlashtirishsiz
+- faqat Sog'liqni saqlash vazirligida, hududlarning ma'lumotlarisiz
+! Real demografik ma'lumotlar quyi bo'g'inda to'planadi, keyin ular tuman, viloyat va respublika bo'yicha jamlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Sanitariya qoidalariga ko'ra kalendar bo'yicha bolalar va o'smirlarni emlash bilan qamrab olish ko'rsatkichi kamida qancha bo'lishi vazifa qilingan?
++ kamida 95 foiz
+- kamida 50 foiz
+- kamida 70 foiz
+- kamida 80 foiz
+- 100 foiz, istisnosiz
+! Yuqori va bir tekis qamrov jamoaviy himoyani saqlaydi, past qamrovli joylarda esa kasallik avj olishi mumkin.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Emlash sessiyasidan oldin hamshira qanday ishlarni bajaradi?
++ muzlatgichdan kerakli miqdordagi vaksinani olib, yaroqlilik muddati va holatini tekshiradi
+- ishlatilgan shpritslarni oddiy chiqindi qutisiga tashlab, ular sonini jurnalga yozadi
+- ochilgan flakonlarni keyingi kunga qoldirib, ularni xona haroratida saqlaydi
+- ishlatilgan dozalar sonini hisoblab, hisobotni yuqori tashkilotga topshiradi
+- emlangan bolalarni kuzatib, noxush hodisalarni ertasi kuni aniqlaydi
+! Sessiya oldidan vaksinaning yaroqliligi va sifati tekshirilmasa, emlash samarasiz yoki xavfli bo'lishi mumkin.
+@ Mavzu materiali (053.docx)
+? Sanitariya qoidalariga ko'ra o'tkazib yuborilgan emlashga nisbatan qanday tartib qo'llaniladi?
++ emlash takrorlanmaydi, balki davom ettiriladi
+- barcha dozalar boshidan qayta takrorlanadi
+- bola kalendardan butunlay chiqarib yuboriladi
+- emlash faqat ikki yildan keyin qayta boshlanadi
+- bola faqat qo'shimcha vaksina bilan emlanadi
+! Uzilish emlash sxemasini bekor qilmaydi, shu sababli doza davom ettirilib, sxema yakunlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+#U 053 / 8: grippga qarshi emlashni kuz oylarida rejalashtirish materialdagi umumiy ko'rsatmaga tayangan, aniq oy ko'rsatilmagan.
+#U 053 / 11: emlash sessiyasidan oldingi bosqichlar ro'yxati faqat mavzu materialidagi taqdimotga tayangan.

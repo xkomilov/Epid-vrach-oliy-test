@@ -1,0 +1,100 @@
+=== 050
+? Joriy dezinfeksiya o'choqda qachon o'tkaziladi?
++ Bemor o'choqda bo'lgan, qo'zg'atuvchi ajralib turgan butun davr mobaynida muntazam
+- Bemor kasalxonaga yotqizilgandan keyin bir marta, qisqa muddatda o'tkaziladi
+- Bemor sog'aygach, o'choqni yopish oldidan bir marta o'tkaziladi
+- Kasallik paydo bo'lishidan oldin, profilaktika sifatida rejali tarzda o'tkaziladi
+- Bemor vafot etgandan keyin, buyumlarni yo'q qilish uchun o'tkaziladi
+! Qo'zg'atuvchi bemordan doimiy ajralib turgani uchun ishlov ham uzluksiz va o'z vaqtida bo'lishi talab qilinadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016; SanQvaN № 0090-25
+? Yakuniy dezinfeksiya o'choqda qachon o'tkaziladi?
++ Manba o'choqdan olib chiqilgach, ya'ni kasalxonaga yotqizilgan yoki vafot etgan paytda bir marta
+- Bemor o'choqda turgan butun davr mobaynida har kuni, uzluksiz ravishda muntazam tarzda o'tkaziladi
+- Bemor uyda davolangan holatlarda, kasallik avjida, qo'zg'atuvchi ajralayotgan vaqtda
+- Kasallik rivojlanishidan oldin, aholi ko'p yig'iladigan joylarda profilaktika sifatida
+- Muloqotda bo'lganlar kuzatuvdan chiqarilgach, yarim yil o'tib, bir marta
+! Manba ketgach, o'choqda qolgan qo'zg'atuvchini to'liq yo'qotish uchun bir yo'la, tez va to'liq ishlov beriladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016; SanQvaN № 0090-25
+? Quyidagi kasalliklardan qaysi birining o'chog'ida yakuniy dezinfeksiya majburiy hisoblanadi?
++ Vabo
+- Gripp
+- Qizamiq
+- Suvchechak
+- Rinovirus infeksiyasi
+! Vabo qo'zg'atuvchisi tashqi muhitda ancha chidamli va fekal-oral yo'l bilan tarqaladi, qolganlari tashqi muhitda tez nobud bo'ladigan havo-tomchi infeksiyalaridir.
+@ SanQvaN № 0090-25; Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? SanQvaN 0090-25 ga ko'ra, o'choqli (yakuniy) dezinfeksiya bemor shifoxonaga yotqizilgan paytdan qancha vaqt ichida o'tkazilishi kerak?
++ 24 soat ichida
+- 6 soat ichida
+- 12 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+! Qo'zg'atuvchi tarqalishining oldini olish uchun ishlov imkon qadar tez bajarilishi kerak.
+@ SanQvaN № 0090-25
+? Yakuniy dezinfeksiya o'choqni kamida qancha foiz qamrab olishi kerak?
++ Kamida 95 foiz
+- Kamida 50 foiz
+- Kamida 65 foiz
+- Kamida 75 foiz
+- Kamida 85 foiz
+! Qamrov yuqori bo'lmasa, ishlov berilmay qolgan joylarda qo'zg'atuvchi saqlanib qoladi.
+@ SanQvaN № 0090-25
+? Dezinfeksiya samaradorligini aniqlashda qaysi nazorat turi eng ishonchli hisoblanadi?
++ Bakteriologik nazorat
+- Vizual nazorat
+- Kimyoviy nazorat
+- Hujjatlarni ko'zdan kechirish
+- Xodimlar so'rovi
+! Ishlov berilgan yuzadan olingan surtmada mikroorganizm qolgan-qolmaganligi laboratoriyada aniq tekshiriladi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Kimyoviy nazorat dezinfeksiyada nimani tekshirishga qaratilgan?
++ Dezinfeksiyalovchi eritmadagi faol modda miqdorini (konsentratsiyani)
+- Ishlov berilgan yuzada mikroorganizmlar qolganligini surtma bilan
+- Xonaning tozaligi va tartibini ko'z bilan baholashni
+- Xodimlarning shaxsiy himoya vositalaridan foydalanishini
+- Dezinfeksiya jurnalining to'g'ri to'ldirilganligini va imzolanganligini
+! Kuchsizlangan yoki noto'g'ri tayyorlangan eritma samarasiz bo'ladi, shu sababli uning tarkibi o'lchanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Quyidagi qo'zg'atuvchilardan qaysi biri spora hosil qilgani sababli eng kuchli dezinfeksiya rejimini talab qiladi?
++ Kuydirgi qo'zg'atuvchisi
+- Gripp virusi
+- Qizamiq virusi
+- Vibrio cholerae
+- Shigella turlari, ya'ni dizenteriya tayoqchalari
+! Sporalar tashqi muhitda juda chidamli bo'lib, oddiy vegetativ shakllarga qaraganda yumshoq rejimlar ularni yo'q qilmaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Dezinfeksiyadan keyin nazorat natijasi qoniqarsiz bo'lsa nima qilinadi?
++ Dezinfeksiya qaytadan o'tkaziladi va sabablar tahlil qilinadi
+- Natija hujjatga yozilib, keyingi o'choqqacha kutiladi, takroriy ishlov o'tkazilmaydi
+- Dezinfeksiya tugatilgan deb hisoblanadi va o'choq yopiladi
+- Vizual nazorat bilan almashtirilib, natija qabul qilinadi
+- Bemorning yotqizilish muddati uzaytiriladi va ishlov takrorlanmaydi
+! Samarasiz ishlov o'choqda qo'zg'atuvchi saqlanib qolganini bildiradi, shu sababli tadbir takrorlanadi.
+@ SanQvaN № 0090-25; Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Patogen bo'lmagan mikroflora musbat surtmalarining ulushi qancha foizdan oshmasa, dezinfeksiya sifati qoniqarli hisoblanadi?
++ 5 foizdan oshmasa, ya'ni yigirmadan bir qismidan
+- 1 foizdan oshmasa, ya'ni deyarli yo'q bo'lsa
+- 10 foizdan oshmasa, ya'ni o'ndan bir qismidan
+- 20 foizdan oshmasa, ya'ni beshdan bir qismidan
+- 30 foizdan oshmasa, ya'ni uchdan bir qismidan
+! Surtmalardagi musbat natijalar ulushi ishlov sifatining miqdoriy mezoni sifatida xizmat qiladi.
+@ SanQvaN № 0090-25
+? O'choqdagi dezinfeksiya hajmi va rejimi nimaga bog'liq holda belgilanadi?
++ Kasallikning nozologik shakli va qo'zg'atuvchining tashqi muhitdagi chidamliligiga
+- Bemorning yoshi va jinsiga qarab belgilanadi, kasallikdan qat'i nazar
+- Bemor yashayotgan uyning narxi va maydoniga, shuningdek qavatiga
+- Dezinfeksiya brigadasi xodimlarining soniga va ish staji uzunligiga
+- Yilning faslidan boshqa omillarga e'tibor bermasdan, uyning joylashgan hududidan
+! Chidamli qo'zg'atuvchilar kuchli rejim talab qiladi, tez nobud bo'luvchilar uchun esa shamollatish va nam tozalash yetarli bo'lishi mumkin.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Bajarilgan o'choqli dezinfeksiya ishi qaysi shaklda qayd etiladi?
++ F.323/U shaklida
+- F.063/U shaklida
+- F.058/U shaklida
+- F.025/U shaklida
+- F.003/U shaklida
+! Hujjat dezinfeksiya sanasi, usuli va vositasini qayd etish uchun yuritiladi.
+@ Mavzu materiali (050.docx)
+#U 050 / 12: F.323/U shakli raqami faqat SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan, hujjat matni tekshirilmagan.
+#U 050 / 4: 24 soat muddati SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan, hujjat matni tekshirilmagan.
+#U 050 / 5: 95 % qamrov talabi SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan, hujjat matni tekshirilmagan.

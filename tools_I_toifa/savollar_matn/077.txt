@@ -1,0 +1,99 @@
+=== 077
+? Salmonellyozda yetakchi yuqish yo'li qaysi?
++ oziq-ovqat yo'li
+- ifloslangan ichimlik suvi orqali suv yo'li
+- havo-tomchi yo'li
+- transmissiv yo'l (qon so'ruvchi hasharotlar orqali)
+- jinsiy yo'l
+! Qo'zg'atuvchi oziq-ovqatda (tuxum, go'sht, sut) ko'payadi va shu orqali ko'p kishiga yetib boradi.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? Salmonellyozning eng ko'p uchraydigan serotiplari qaysilar?
++ S. Enteritidis va S. Typhimurium
+- S. Typhi va S. Paratyphi A
+- S. dysenteriae va S. flexneri
+- S. aureus va S. pyogenes
+- S. cholerae va S. enterica serovar Typhi
+! Nostifoid salmonellyozning aksariyati aynan shu ikki serotip bilan bog'liq.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? Salmonellalarning qaysi biologik xususiyati oziq-ovqat orqali yuqishni va yozgi mavsumiylikni belgilaydi?
++ issiqlik ishlovida halok bo'ladi, ammo xona haroratida oziq-ovqatda jadal ko'payadi
+- issiqlik ishlovida spora hosil qilib, qaynatilganda ham saqlanib qoladi va keyinchalik ko'payadi
+- muzlatilgan mahsulotlarda ko'payib, xona haroratida esa tezda nobud bo'ladi
+- quruq havoda ko'payib, nam muhitda tezda halok bo'ladi
+- suv bilan aloqada ko'payib, oziq-ovqatda esa saqlanmaydi
+! Yetarli pishirish uni o'ldiradi, lekin tayyor taomning noto'g'ri saqlanishi ko'payishiga sharoit yaratadi.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? Nostifoid salmonellyoz ich terlamadan farqli ravishda odatda qanday kechadi?
++ o'z-o'zidan cheklanadigan gastroenterit shaklida
+- yuqori isitma va tipik toshma bilan, uzoq muddatli tashuvchilikka olib borib
+- faqat o'tkir nafas yo'llari zararlanishi bilan
+- asosan markaziy nerv tizimi zararlanishi bilan, ichak belgilarisiz
+- doimo o'limga olib keladigan septik shaklda
+! Odatda ichak belgilari bilan cheklanadi, ammo xavf guruhlarida umumlashgan shakllarga o'tishi mumkin.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? Antibiotiklarga chidamli salmonella shtammlarining tarqalishi ko'pincha nima bilan bog'liq?
++ chorvachilikda antibiotiklardan keng foydalanish bilan
+- aholining ko'proq suv ichishi va sovuq ovqat iste'mol qilishi bilan
+- bolalarni ommaviy emlash dasturlarining kengayishi bilan
+- oziq-ovqat mahsulotlarini muzlatishning keng qo'llanilishi bilan
+- yuqori balandlikdagi hududlarda yashash bilan
+! Hayvonlardagi antibiotik ta'siri chidamli shtammlarni tanlab, ular oziq-ovqat zanjiri orqali odamga o'tadi.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? «Yagona salomatlik» (One Health) yondashuvi nimani nazarda tutadi?
++ odam, hayvon va atrof-muhit salomatligini birgalikda ko'rib chiqishni
+- odam salomatligini individual davolash orqali ta'minlash va hayvonlarni nazorat qilmaslikni
+- hayvonlarni emlash orqali odam kasalliklarini oldini olishni
+- sog'liqni saqlashni shahar aholisi uchun tashkil etishni
+- kasalliklarni vaksina bilan boshqarishni
+! Salmonellyoz zoonoz bo'lgani uchun nazorat tibbiyot, veterinariya va atrof-muhit sohalarining hamkorligini talab qiladi.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? Nega salmonellyoz profilaktikasida asosiy e'tibor sanitariya-veterinariya choralariga qaratiladi?
++ maxsus profilaktika (vaksina) salmonellyozda keng qo'llanilmaydi
+- salmonellyozga qarshi barcha bolalar bir yoshgacha majburiy emlanadi
+- salmonellyoz faqat shahar sharoitida uchraydi
+- salmonellyozning qo'zg'atuvchisi muhitda umuman saqlanmaydi
+- salmonellyozning yetakchi yuqish yo'li havo-tomchi hisoblanadi
+! Vaksina keng qo'llanilmagani uchun oziq-ovqat zanjiri va hayvonlar ustidan nazorat asosiy himoyadir.
+@ WHO. Salmonella (non-typhoidal) fact sheet
+? JSSTning «xavfsiz oziq-ovqatning besh qoidasi»ga qaysi to'plam kiradi?
++ tozalik, xom va tayyor mahsulotni ajratish, to'liq pishirish, xavfsiz haroratda saqlash, xavfsiz suv va xomashyo
+- tozalik, mahsulotni quritish, tuzlash, achitish va muzlatib saqlash
+- ovqatni faqat sovuq iste'mol qilish, tuxumni xom yeyish, suvni qaynatmaslik va tez tayyorlash
+- faqat tashqi ko'rinish, narx, brend, o'ram va transportga e'tibor berish
+- sut mahsulotlarini xona haroratida saqlash, go'shtni yuvmaslik, qo'lni yuvmaslik va qaytadan isitmaslik
+! Besh qoida kontaminatsiyani oldini olish va qo'zg'atuvchini yo'qotish bosqichlarini qamrab oladi.
+@ WHO. Food safety (five keys to safer food)
+? Yo'riqnomaga ko'ra salmonellalarning nechta serovari ma'lum?
++ 2500 dan ortiq
+- 25 dan kam
+- 250 dan ortiq
+- 500 ga yaqin
+- 10 000 dan ortiq
+! Salmonella avlodi juda ko'p serovarlarga ega, ularning ayrimlari odamlar uchun patogen.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 3-ilova
+? Yo'riqnomaga ko'ra salmonellyozning kasalxona ichi «gospital» shtammlari antibiotiklar va dezinfektantlarga ko'p chidamliligi nima bilan genetik mustahkamlangan?
++ R-plazmid bilan
+- sporalar hosil qilish bilan
+- kapsula hosil bo'lishi bilan
+- flagellar yo'qolishi bilan
+- bakteriofag ta'siri bilan
+! Plazmid chidamlilik genlarini bir shtammdan boshqasiga tez uzatadi, shu sababli shtammlar jamoada aylanib yuradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 3-ilova
+? Guruhiy salmonellyoz o'chog'ida aybdor mahsulotni ishonchli aniqlash uchun nima qilinadi?
++ shubhali mahsulot namunalaridan va bemorlardan ajratilgan shtammlar taqqoslanadi
+- bemorlarning shikoyatlari so'rab, namuna olinmaydi
+- mahsulotlar bir xil deb hisoblanib, laboratoriya tekshiruvi o'tkazilmaydi
+- shtammlar taqqoslanmay, taom tayyorlagan xodim ishdan bo'shatiladi
+- aholidan qon olinib, barcha ishtirokchilar emlanadi
+! Shtammlar mosligi bemorlarning aynan shu mahsulotdan kasallanganini isbotlaydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 3-ilova
+? Yo'riqnomaga ko'ra salmonellyoz manbalari orasida epidemiologik hissa jihatidan qaysi biri yuqoriroq?
++ qishloq xo'jaligi hayvonlari va parrandalar
+- kasal odamlar va asimptomatik tashuvchilar
+- uy mushuklari va itlari
+- yovvoyi kemiruvchilar
+- sovuq qonli hayvonlar
+! Qishloq xo'jaligi hayvonlari va parrandalarning hissasi odamlarnikidan yuqori, shu sababli veterinariya nazorati muhim.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i, 3-ilova
+#U 077 / 10: «gospital» shtammlar R-plazmid bilan mustahkamlangani faqat yo'riqnoma bayoniga (mavzu materialiga) tayanadi.
+#U 077 / 12: Qishloq xo'jaligi hayvonlari hissasi odamlarnikidan yuqori ekani faqat mavzu materialida yo'riqnoma bayoni sifatida berilgan.

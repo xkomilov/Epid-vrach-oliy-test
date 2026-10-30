@@ -1,0 +1,101 @@
+=== 017
+? Yuqumli kasalliklarning tabiiy o'choqlilik nazariyasini kim yaratgan?
++ E.N. Pavlovskiy
+- L.V. Gromashevskiy
+- V.D. Belyakov
+- I.I. Shmalgauzen
+- Z.G. Frosh
+! Pavlovskiy ekspeditsiya tadqiqotlarini umumlashtirib, o'choqlar landshaft va iqlim sharoitlariga bog'liqligini ko'rsatgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Tabiiy o'choqlar nazariyasiga ko'ra, qo'zg'atuvchi tabiatda qanday aylanib yuradi?
++ Yovvoyi hayvonlar (rezervuar) va qon so'ruvchi vektorlar o'rtasida, odamdan mustaqil ravishda
+- Odamdan odamga bevosita kontakt orqali, hayvonlar va vektorlar ishtirokisiz, uzluksiz tarzda
+- Tuproq va suv muhitida, hayvonlar va vektorlar ishtirokisiz
+- Uy hayvonlari va ularning egalari o'rtasida, vektorlarsiz
+- Bemor odam va shifokor o'rtasida, kasalxona sharoitida
+! Epizootik jarayon hayvonlar orasida kechadi, odam o'choqqa kirgandagina epidemik jarayonga qo'shiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Hayvonlar orasida tarqalish va odamlar orasida tarqalish tegishli ravishda qanday ataladi?
++ Epizootiya va epidemiya
+- Epidemiya va epizootiya
+- Endemiya va pandemiya
+- Sporadiya va epizootiya
+- Panzootiya va endemiya
+! Hayvonlar populyatsiyasidagi jarayon epizootiya, odamlardagi jarayon epidemiya deyiladi.
+@ Jahongirov Sh.M. Tibbiy entomologiya (o'quv qo'llanma), 2016
+? Epizootik jarayon uy hayvonlari orasida rivojlansa, qanday o'choqlar haqida gapiriladi?
++ Antropurg o'choqlar
+- Birlamchi tabiiy o'choqlar
+- Sinantrop o'choqlar
+- Landshaft o'choqlari
+- Importdan kelgan o'choqlar
+! Antropurg o'choq odam faoliyati va uy hayvonlari bilan bog'liq ikkilamchi o'choqdir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Sinantrop hayvonlarga qaysi biri kiradi?
++ Kalamush, uy sichqoni, kaptar, chumchuq
+- Qum sichqon, tulki, chiyabo'ri, jayra
+- Sigir, qo'y, echki, ot
+- Itlar, mushuklar, tovuqlar va g'ozlar
+- Kana, bit, burga va chivin
+! Sinantroplar xonakilashtirilmagan, ammo odam yaqinida yoki aholi punktlarida yashaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Zoonozlarning ko'pchiligida odam epidemiologik jihatdan qanday o'rin tutadi?
++ Biologik tupik: odamdan odamga yuqmaydi va qo'zg'atuvchining tabiatda saqlanishiga ahamiyati yo'q
+- Asosiy rezervuar: qo'zg'atuvchining tabiatda saqlanishini ta'minlovchi yagona va doimiy manba hisoblanadi
+- Doimiy vektor: qo'zg'atuvchini boshqa odamlarga tashuvchi bo'g'imoyoqli
+- Muhim o'tkazuvchi: kasallikni odamdan hayvonga yuqtiruvchi bo'g'in
+- Epizootik zanjirning ikkinchi qismi: vektor vazifasini bajaruvchi
+! Odam tasodifiy xo'jayin bo'lib, qo'zg'atuvchi tabiatda hayvonlar orasida saqlanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epizootik zanjirning tarkibiy qismlari qaysilar?
++ Manba (viremiya davridagi hayvonlar), o'tkazuvchi (vektor) va moyil organizm
+- Qo'zg'atuvchi, yuqish omili, emlangan aholi va tashqi muhit ob'ektlari majmuasi
+- Rezervuar, tashuvchi odam va davolovchi shifokor
+- Kasal hayvon, dezinfektant va veterinar
+- Birlamchi o'choq, ikkilamchi o'choq va aralash o'choq
+! Moyil organizm doim mavjud bo'lgani uchun epizootik holatni zanjirning ikkinchi qismi — vektor belgilaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi kasallik kanali qaytalama tifning tashuvchisi hisoblanadi?
++ Ornithodoros kanalari
+- Hyalomma kanalari
+- Ixodes kanalari
+- Dermacentor kanalari
+- Boophilus kanalari
+! Ornithodoros kanalari tog' va tog' oldi hududlarida keng tarqalgan.
+@ Mavzu materiali (017.txt)
+? Qrim–Kongo gemorragik isitmasining birlamchi tabiiy o'choqlari O'zbekistonda asosan qayerda joylashgan?
++ Qizilqum cho'llarida
+- Farg'ona vodiysining sug'oriladigan tekisliklarida
+- Chotqol tizmasining o'rmonli yon bag'irlarida
+- Orol bo'yi botqoqliklarida
+- Surxondaryoning subtropik bog'larida
+! Bu o'choqlarda kichik sut emizuvchilar, asosan qum sichqonlar va Hyalomma asiaticum kanasi qatnashadi.
+@ Mavzu materiali (017.txt)
+? Zoonoz teri leyshmaniozining asosiy rezervuari qaysi hayvon?
++ Katta qum sichqon (Rhombomys opimus)
+- Uy kalamushi va shahar sharoitidagi sinantroplar
+- Xonaki it
+- Qoramol
+- Tulki
+! Vektor Phlebotomus turlari qum sichqonlar uyalarida ko'payadi.
+@ Mavzu materiali (017.txt)
+? Qrim–Kongo isitmasi bo'yicha epidemiologik mavsum qaysi oylarni qamrab oladi?
++ Aprel–oktyabr
+- Noyabr–mart
+- Yanvar–aprel
+- Iyun–avgust
+- Mart–iyun
+! Alveonasus lahorensis oktyabrdan aprelgacha faol bo'lgani uchun kasallik qishda ham uchrashi mumkin.
+@ Mavzu materiali (017.txt)
+? Tabiiy o'choqli infeksiyalarga qarshi emlash kimlar uchun o'tkaziladi?
++ Xavf guruhlari: o'choqda ishlaydigan yoki dam oladigan shaxslar uchun
+- Barcha aholi uchun, kasallik kam uchraganda ham ommaviy ravishda
+- Bolalar uchun, bog'cha va maktablarda majburiy tartibda
+- Kasalxona xodimlari uchun, boshqa guruhlarsiz, doimiy tartibda
+- Hayvonlar uchun, odamlarga emlash o'tkazilmaydi
+! Juda kam uchraydigan kasalliklarda butun aholini emlash maqsadga muvofiq emas.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+#U 017 / 8: kanali qaytalama tif tashuvchisi va tarqalishi - faqat mavzu materialida keltirilgan SSV 2015-yil 121-son buyrug'i (3-ilova) matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 017 / 9: Qrim-Kongo isitmasi o'choqlari joylashuvi - faqat mavzu materialida keltirilgan SSV 2015-yil 37-son buyrug'i (4-ilova) matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 017 / 10: leyshmaniozning rezervuari - faqat SSV 2015-yil 121-son buyrug'i (2-ilova) matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 017 / 11: Qrim-Kongo isitmasi epidemiologik mavsumi - faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.

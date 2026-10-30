@@ -1,0 +1,98 @@
+=== 146
+? OIV infeksiyasi bo'yicha epidemiologik surishtiruv qachon boshlanadi va kim tomonidan olib boriladi?
++ shaxsda OIV mavjudligi haqida xabarnoma olingach, OITSga qarshi kurash markazlari epidemiologlari tomonidan
+- bemor dispanser hisobiga qo'yilgach, oilaviy poliklinika hamshirasi va maslahatchi tomonidan
+- IFA natijasi birinchi marta musbat chiqqanda, laborant va hamshira tomonidan hamda shifoxona hamshiralari ishtirokida
+- bemor o'zi murojaat qilganda, tuman IIB xodimi va prokuratura tomonidan
+- jinsiy sherik tekshirilgach, tuman hokimligi vakili va mahalla raisi tomonidan
+! Xabarnoma surishtiruvni boshlash uchun rasmiy asos bo'ladi, uni esa OITS markazining mutaxassis epidemiologi bajaradi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? Epidemiologik surishtiruv kartasi qaysi shaklda to'ldiriladi?
++ 2-shakl
+- 1-shakl
+- 3-shakl
+- 4-shakl
+- 5-shakl
+! 1-shakl xabarnoma, 3-shakl 18 yoshgacha bolalar uchun varaq, 4-shakl esa muassasa rahbariga bildirishnoma.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? 18 yoshgacha bola bo'yicha yuqish yo'li xulosasi axborot shaklida qachongacha Respublika OITSga qarshi kurash markaziga topshiriladi?
++ har oyning 10-sanasigacha
+- har haftaning juma kunigacha
+- har chorakning oxirgi kunigacha
+- har yilning 1-yanvarigacha
+- har oyning 25-sanasigacha
+! Axborot oylik hisobot tarzida umumlashtiriladi va markazga muntazam yuboriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? Surishtiruv xabarnomadan boshlab bir oydan ortiq cho'zilsa, epidemiolog nima qiladi?
++ bosh shifokorga sabablarini ko'rsatib bildirishnoma kiritib, ruxsat so'raydi
+- surishtiruvni to'xtatib, ishni arxivga topshiradi va bemorni dispanser hisobidan chiqaradi
+- hududiy prokuraturaga jinoyat ishi qo'zg'atish uchun murojaat yuboradi
+- surishtiruvni boshqa hududga o'tkazib, natijani kutadi
+- bemorning roziligini olmasdan karta xulosasini yozadi
+! Muddat uzayishi nazoratsiz qolmasligi uchun sabablar yozma bayon qilinib, har oy tahlil etiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? Shaxs surishtiruvdan bosh tortsa, dastlab nima qilinadi?
++ unga huquq va majburiyatlari, ma'lumotlar sir saqlanishi, bepul davolash imkoniyatlari tushuntiriladi
+- darhol hududiy IIB Jinoiy qidiruv bo'limiga bildirishnoma yuboriladi va ish qo'zg'atiladi
+- surishtiruv kartasi bemorning ishtirokisiz yopiladi
+- bemor tibbiy kuzatuvdan chiqariladi va dispanser kartasi arxivlanadi hamda rad etgani qayd etiladi
+- uning ish joyiga tashxis haqida rasmiy ma'lumot beriladi va ishdan chetlatiladi
+! Avval tushuntirish ishlari olib boriladi, bosh tortish davom etsagina tushuntirish xati olinadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? Bemor sherigiga o'z holatini aytishdan bosh tortsa, epidemiolog yoki shifokor qaysi qonun moddasi asosida sherikka aytish huquqiga ega?
++ «Fuqarolar sog'lig'ini saqlash to'g'risida»gi Qonunning 45-moddasi
+- «Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida»gi Qonunning 12-moddasi
+- «Jinoyat kodeksi»ning 113-moddasi
+- «Shaxsga doir ma'lumotlar to'g'risida»gi Qonunning 7-moddasi
+- «Mehnat kodeksi»ning 77-moddasi
+! Bu norma sherik sog'lig'ini himoya qilish uchun shifokorga bemor rad etganda ham ma'lumot berish imkonini beradi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? OITS markazi shifokori sherikning tekshirilishini qanday davriylikda ta'minlaydi?
++ har 6 oyda
+- har 2 haftada
+- har oyda
+- har yili
+- har 3 yilda
+! Sherik xavf ostida bo'lgani uchun tekshiruv muntazam takrorlanadi va har 6 oyda monitoring qilinadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? JSST ma'lumotiga ko'ra OIV-manfiy sherik uchun davolanayotgan va virusi aniqlanmaydigan sherik qanday xavf tug'diradi?
++ virus jinsiy yo'l bilan yuqmaydi
+- yuqish xavfi bor, faqat prezervativ ishlatilganda kamayadi
+- xavf bor, lekin u bir yildan so'ng yo'qoladi
+- yuqish ehtimoli deyarli bir xil saqlanib qoladi
+- virus yuqadi, lekin kasallik belgilari rivojlanmaydi
+! Virusi aniqlanmaydigan sherikda yuqish bo'lmagani sababli uni ARTga erta jalb qilish ham epidemiyaga qarshi chora hisoblanadi.
+@ WHO. HIV and AIDS (fact sheet)
+? Quyidagilardan qaysi biri tibbiy muassasada shifoxona ichi yuqishni gumon qilish uchun asos bo'ladi?
++ bemor 18 yoshgacha, onasi sog'lom va bolada tartibsiz jinsiy aloqalar inkor etilgan
+- bemor 40 yoshda, giyohvand modda iste'mol qiladi va sherigi OIV bilan yashaydi
+- onasi OIV bilan yashagan 6 oylik bola ko'krak suti bilan oziqlangan
+- bemor migrant bo'lib, xorijda ko'p marta jinsiy aloqada bo'lgan
+- bemor 25 yoshda, in'ektsion giyohvandlik tarixi bor va umumiy shpritsdan foydalangan
+! Onasi sog'lom bolada boshqa yuqish yo'llari inkor etilsa, tibbiy muolajalar yuqish manbai sifatida qaraladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? Donorda IFA musbat bo'lsa, uning qoni bilan nima qilinadi?
++ 24 soat ichida komissiya ishtirokida yo'q qilinadi
+- 7 kun karantinda saqlanib, qayta tekshiriladi
+- tarkibiy qismlarga ajratilib, faqat plazma ishlatiladi
+- immunoblot natijasi chiqquncha bemorlarga quyiladi
+- 3 oy davomida muzlatilgan holda saqlanadi
+! Donor qonini xavfsizlik uchun tezda yo'q qilish retsipiyentning zararlanish xavfini oldini oladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? Shaxs tashxisga ishonmay, komission tekshiruvda IFA/PZR musbat chiqsa, immunoblot bilan nima qilinadi?
++ immunoblot qayta o'tkazilmaydi, tashxis tasdiqlanadi
+- immunoblot majburiy takrorlanadi, natija 6 oydan keyin chiqariladi
+- immunoblot o'rniga tezkor test qo'llanadi
+- tashxis bekor qilinib, bemor kuzatuvdan chiqariladi
+- sinov uchun uchinchi laboratoriyaga IFA yuboriladi
+! Komission tekshiruvda musbat natija olinsa, qo'shimcha immunoblot talab qilinmaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i, 3-ilova
+? OIV aniqlangan tibbiyot xodimi bo'yicha yuqish qaysi toifaga kiradi?
++ kasb kasalligi toifasiga
+- nokasbiy yuqish toifasiga
+- maishiy yuqish toifasiga
+- nozokomial holat sifatida hisobga olinmaydi
+- ixtiyoriy tekshiruv natijasi sifatida
+! Xizmat vazifasini bajarishda yuqish qonun bo'yicha kasb kasalligi hisoblanadi va imtiyozlar beriladi.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+#U 146 / 6: modda raqami faqat mavzu materialiga tayanadi.

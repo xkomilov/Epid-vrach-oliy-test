@@ -1,0 +1,98 @@
+=== 120
+? Epidemik toshmali tifning qo'zg'atuvchisi qaysi?
++ Rickettsia prowazekii
+- Rickettsia typhi
+- Borrelia recurrentis
+- Salmonella typhi
+- Coxiella burnetii
+! R. typhi kalamush (murin) toshmali tifining qo'zg'atuvchisi bo'lib, epidemik shakldan ajratiladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tifda epidemik jarayonning yagona manbai kim?
++ toshmali tif yoki Brill kasalligi bilan og'riyotgan odam
+- kasal kalamushlar va boshqa kemiruvchilar
+- uy hayvonlari: it, mushuk va qoramol, ayniqsa chorvadorlar uchun
+- kasal bitlarning tuxumlari
+- tashqi muhitdagi ifloslangan suv va tuproq
+! Hayvonlarning rezervuar roli aniqlanmagan, kasallik odamdan odamga bevosita yuqmaydi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tifning asosiy tashuvchisi qaysi?
++ kiyim biti (Pediculus humanus corporis)
+- bosh biti (Pediculus humanus capitis)
+- burga (Xenopsylla cheopis)
+- iksod kanasi (Ixodes ricinus)
+- chivin (Anopheles)
+! Bosh biti ham tashuvchi bo'la oladi, ammo kamroq ahamiyatga ega.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tifda odam qanday yo'l bilan zararlanadi?
++ qashinishda bit najasidagi rikketsiyalarning shikastlangan terigacha ishqalanishi bilan
+- bitning chaqishi paytida so'lak bezlari orqali qon oqimiga tushishi, ya'ni bevosita inokulyatsiya bilan
+- bemor bilan havo-tomchi yo'li orqali bevosita aloqada bo'lish bilan
+- ifloslangan suv yoki oziq-ovqatni og'iz orqali iste'mol qilish bilan
+- jinsiy aloqa va qon quyish paytida rikketsiyalar o'tishi bilan
+! CDC ham zararlanish bit najasi yoki ezilgan bit shikastlangan teriga tegishi bilan yuz berishini ko'rsatadi.
+@ CDC. About Epidemic Typhus
+? Brill kasalligi nima?
++ ilgari toshmali tif o'tkazganlarda saqlanib qolgan rikketsiyalar faollashishi natijasidagi qaytalanish
+- kalamush tifining epidemik shakli, R. typhi qo'zg'atadi va burga orqali yuqadi
+- yangi bit chaqishi bilan yuqadigan va og'ir kechadigan birlamchi infeksiya
+- qaytalama tif turi bo'lib, Borrelia bakteriyasi qo'zg'atadi
+- laboratoriyada havo-chang yo'li bilan yuqadigan va ilgari kasallanmaganlarda uchraydigan alohida kasallik
+! Odatda yengilroq kechadi va antibiotiklar tezda ahvolni yaxshilaydi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tifning mavsumiyligi qanday?
++ qish va erta bahor
+- yoz va erta kuz
+- bahor oxiri va yoz boshi
+- faqat kuz oxirida
+- mavsumiylik yo'q
+! Qishda odamlar zich yashaydi, issiq kiyinadi, kam yuvinadi va bitlar ko'payadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 19.1-bo'lim
+? Toshmali tifda yashirin davr necha kun?
++ 10–14 kun
+- 1–2 kun
+- 30–45 kun
+- 3 oy
+- 2–3 soat
+! Darslikda 14–15 kun, 7–23 kun oralig'ida ko'rsatilgan.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Rikketsiyalarning qaysi xususiyati to'g'ri?
++ grammanfiy, hujayra ichida ko'payadi va oddiy oziq muhitlarda o'smaydi
+- grammusbat, spora hosil qiladi va oddiy oziq muhitlarda tez o'sadi
+- viruslar kabi DNK saqlaydi va faqat hayvon hujayrasida ko'payadi
+- tashqi muhitda yillar davomida chidamli, qaynatilganda ham nobud bo'lmaydi
+- bakteriya emas, tuproqda erkin yashaydigan zamburug'dir
+! Ular tashqi muhitda chidamsiz: 58 °C da 30 daqiqada nobud bo'ladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tifga gumon qilingan bemor bo'yicha qanday hujjatlar to'ldiriladi?
++ 058/u shoshilinch xabarnoma, 060/u jurnal, 357/u karta
+- 089/u shoshilinch xabarnoma, 025/u karta, 060/u jurnal
+- faqat 003/u kasallik tarixi
+- 025/u ambulator karta va 063/u emlash kartasi
+- 090/u saraton xabarnomasi va 060/u jurnal
+! Epidemiolog 24 soat ichida o'choqni tekshiradi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tifda yakuniy dezinfeksiya va dezinseksiya shifoxonaga yotqizilgandan keyin qancha vaqt ichida o'tkaziladi?
++ 24 soatdan kechikmay
+- 7 kundan keyin, bemor tuzalgach
+- 3 kun ichida
+- 14 kundan keyin
+- bir oy ichida
+! Kiyim kamerada ishlanadi, kamera bo'lmasa 2% soda eritmasida 15 daqiqa qaynatiladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Pedikulyoz o'choqlari qanday tartibda kuzatiladi?
++ bir oy davomida, har 10 kunda tekshiriladi
+- bir hafta davomida, har kuni tekshiriladi
+- uch oy davomida, har oyda tekshiriladi
+- olti oy davomida, har haftada tekshiriladi
+- bir yil davomida, har chorakda tekshiriladi
+! Uch marta tekshiruvdan keyin bit topilmasa o'choq sog'lomlashtirilgan hisoblanadi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+? Toshmali tif bilan bemor bilan aloqada bo'lganlar, agar pedikulyoz bo'lmasa, buyruqqa ko'ra qancha kun kuzatiladi?
++ 25 kun
+- 5 kun
+- 10 kun
+- 50 kun
+- 90 kun
+! Bu muddat maksimal yashirin davrga mos keladi; kuzatuv davomida kunlik termometriya o'tkaziladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'i
+#D 120 / 12: darslikda aloqadagilar uchun kuzatuv muddati 21 kun deb yozilgan, buyruqda esa 25 kun (pedikulyoz bo'lmasa) va 71 kun (bit bo'lsa); savol buyruqqa tayanadi.

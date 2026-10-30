@@ -1,0 +1,98 @@
+=== 035
+? Orttirilgan immunitet kelib chiqishiga ko'ra qanday turlarga bo'linadi?
++ Tabiiy va sun'iy
+- Gumoral va hujayraviy
+- Tug'ma va spetsifik
+- Mahalliy va umumiy
+- Yosh va jins bo'yicha
+! Tabiiy immunitet tibbiy aralashuvsiz, sun'iy immunitet esa tibbiy aralashuv bilan hosil bo'ladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Tabiiy aktiv immunitet qanday hosil bo'ladi?
++ Kasallikni (ba'zan yashirin infeksiyani) o'tkazish natijasida
+- Homiladorlik davrida antitelolarning yo'ldosh orqali o'tishi hisobiga
+- Immun zardob yoki immunoglobulin kiritilishi natijasida
+- Vaksina yuborish orqali organizm antitelo ishlab chiqarishi hisobiga
+- Onaning ona sutidagi IgA antitelolarni chaqaloq qabul qilishi natijasida
+! Organizm o'zi antitelo va xotira hujayralarini ishlab chiqaradi, bu esa kasallik o'tkazishdan keyin sodir bo'ladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Ona suti (ayniqsa og'iz suti) orqali bolaga qaysi immunoglobulin sinfi o'tadi?
++ IgA
+- IgG
+- IgM
+- IgE
+- IgD
+! Sut orqali shilliq qavatlarni himoya qiluvchi IgA o'tadi, platsenta orqali esa IgG.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va boshq. (2018)
+? Sun'iy aktiv immunitet qanday hosil qilinadi?
++ Vaksina (antigen) yuborish orqali
+- Tayyor antitelolarni o'z ichiga olgan immun zardob kiritish orqali
+- Onadan bolaga yo'ldosh orqali IgG o'tishi hisobiga
+- Qizamiqni tabiiy sharoitda o'tkazish natijasida
+- Ona suti orqali IgA antitelolar o'tishi natijasida
+! Vaksina organizmni o'z antitelolarini va immunologik xotirasini ishlab chiqarishga undaydi.
+@ WHO. Vaccines and immunization: What is vaccination?
+? Sun'iy passiv immunitet qaysi preparat kiritilishi bilan hosil bo'ladi?
++ Immunoglobulin yoki immun zardob
+- Anatoksin (toksoid) preparati
+- Tirik attenuatlangan vaksina
+- BSJ vaksinasi
+- Poliomielitga qarshi tirik vaksina (OPV)
+! Tayyor antitelolar tashqaridan kiritiladi, organizm esa ularni o'zi ishlab chiqarmaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Aktiv immunitet odatda qancha vaqt ichida shakllanadi?
++ 1–3 hafta ichida
+- Kiritilgan zahoti, bir necha daqiqada
+- 24 soat ichida, vaksina kiritilgandan keyin
+- 3–6 oy ichida, ikkinchi dozadan keyin
+- 6–12 oy ichida, uchinchi dozadan keyin
+! Organizm antitelo va xotira hujayralarini hosil qilishi uchun vaqt kerak, shu bois himoya darhol shakllanmaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Passiv immunitetning xususiyati qaysi javobda to'g'ri ko'rsatilgan?
++ Darhol ta'sir qiladi, lekin qisqa muddatli va immunologik xotira qoldirmaydi
+- Kech shakllanadi, lekin uzoq muddatli va immunologik xotira qoldiradi
+- Darhol ta'sir qiladi va umrbod saqlanib, takroriy ta'sirda kuchli javob beradi
+- Kech shakllanadi va qisqa muddatli, ammo immunologik xotira qoldiradi
+- Darhol ta'sir qiladi, lekin uzoq muddatli bo'ladi va xotira hujayralarini hosil qiladi
+! Organizm o'zi faol ishtirok etmagani uchun xotira hujayralari hosil bo'lmaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va boshq. (2018)
+? Quturishga qarshi profilaktikada vaksina bilan birga immunoglobulin berilishining sababi nima?
++ Immunoglobulin darhol himoya beradi, vaksina esa uzoq muddatli aktiv immunitetni shakllantiradi
+- Immunoglobulin vaksina antigenini zararsizlantirib, immunitetni qisqartiradi
+- Vaksina darhol ta'sir qiladi, immunoglobulin esa uni uzoq muddat saqlab turadi
+- Ikkala preparat ham faqat tabiiy passiv immunitet hosil qiladi
+- Immunoglobulin vaksinaning o'zidan kuchliroq ta'sir qilib, uni butunlay almashtiradi va vaksina keraksiz bo'lib qoladi
+! Kombinatsiya passiv immunitetning tezligini aktiv immunitetning davomiyligi bilan birlashtiradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Xavfli qo'zg'atuvchi bilan kontaktdan keyin faqat vaksinaga tayanish nima uchun noto'g'ri?
++ Aktiv immunitet shakllanishi uchun vaqt kerak, kasallik esa shu vaqtda rivojlanib ketishi mumkin
+- Vaksina kontaktdan keyin yuborilganda butunlay ta'sirsiz bo'lib qoladi
+- Vaksina antitelolarni parchalab yuboradi va moyillikni oshiradi
+- Bunday holatda vaksina faqat tug'ma immunitetni susaytiradi
+- Kontaktdan keyin vaksina yuborish qonunan taqiqlangan, shu sababli faqat immunoglobulinni kiritish kerak bo'ladi
+! Qoqshol va quturish kabi hollarda tayyor antitelolar kerak bo'ladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Immunoglobulin yuborilgandan keyin qizamiq, qizilcha, parotit va rotavirusga qarshi emlash qachondan keyin o'tkaziladi?
++ 3 oydan keyin
+- 1 oydan keyin
+- 1,5 oydan keyin
+- 6 oydan keyin
+- 12 oydan keyin
+! Bu oraliq immunoglobulin yuborilgandan keyin tirik vaksinalarni qo'llash uchun sanitariya qoidalarida belgilangan.
+@ SanQvaM № 0239-07/3
+? JSSTga ko'ra, vaksina nima uchun kasallik keltirib chiqarmaydi?
++ Unda o'ldirilgan yoki zaiflashtirilgan mikroblar bo'ladi
+- Unda faqat tayyor antitelolar bo'ladi, qo'zg'atuvchi esa umuman bo'lmaydi
+- U faqat tug'ma immunitet omillarini kuchaytiradi
+- U mikroblarni organizmda to'liq ko'paytirib, so'ng yo'q qiladi
+- Unda mikroblarning faqat toksinlari bor, shuning uchun kasallik rivojlanmaydi
+! Vaksina immun tizimga kasallikni eslab qolishni o'rgatadi, kasallikning o'zini esa keltirmaydi.
+@ WHO. Vaccines and immunization: What is vaccination?
+? Sun'iy passiv immunizatsiya asosan qanday maqsadda qo'llaniladi?
++ Shoshilinch profilaktika va davolash uchun, tez himoya zarur bo'lganda
+- Rejali uzoq muddatli massaviy profilaktika va jamoaviy immunitet shakllantirish uchun
+- Immunologik xotirani shakllantirish va revaksinatsiya muddatlarini uzaytirish uchun
+- Chaqaloqlarda tug'ilgandan keyin dastlabki kunlarda tabiiy faol immunitetni hosil qilish uchun
+- Organizmda uzoq muddatli faol immunitet va immunologik xotira hosil qilish uchun
+! Tayyor antitelolar darhol ta'sir qiladi, ammo qisqa muddat saqlanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+#U 035 / 10: 3 oylik oraliq faqat kutubxonadagi SanQvaM № 0239-07/3 nusxasiga tayanadi (hujjat kuchini yo'qotgan qonunga havola qiladi)

@@ -1,0 +1,97 @@
+=== 128
+? 18 oygacha bo'lgan bolalarda OIV infeksiyasi tashxisi qaysi usul bilan qo'yiladi?
++ OIV DNK ni aniqlash uchun PZR
+- Faqat IFA bilan, antitelalarni aniqlash orqali
+- Tezkor antitana testi bilan, bir martalik tekshiruvda
+- Immunoblot bilan, antitelalarni tasdiqlovchi usul sifatida
+- Ko'krak qafasi rentgenografiyasi bilan, o'pka o'zgarishlariga qarab
+! Onadan o'tgan antitelalar bolada 18 oygacha saqlanishi mumkin, shuning uchun serologik testlar ishonchsiz va virusni aniqlash usuli kerak.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Qaysi natija 18 oygacha bo'lgan bolada OIV infeksiyasi taxmin qilinishiga asos bo'ladi?
++ Ikki marta musbat PZR natijasi
+- Bir marta manfiy PZR natijasi
+- Faqat bitta musbat tezkor antitana testi
+- Onaning musbat IFA natijasi
+- Bolada bir marta aniqlangan isitma
+! Ikki mustaqil namunada musbat PZR virusning bolada ko'payayotganini tasdiqlaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? 18 oydan katta bolalarda IFA musbat bo'lsa, keyingi tasdiqlovchi usul qaysi?
++ Immunoblot
+- Qayta PZR faqat 12 oydan keyin
+- Kultura usuli, qon ekmasi bilan
+- Ko'krak suti tahlili
+- Aralash agglyutinatsiya reaksiyasi
+! 18 oydan katta bolalarda tekshiruv kattalardagidek o'tkaziladi: skrining IFA, tasdiqlash immunoblot.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Quyidagilardan qaysi biri 18 yoshgacha bolalarni OIVga tekshirishda taqiqlanadi?
++ Anonim tekshiruv
+- Qonuniy vakil roziligi bilan tekshiruv
+- Maslahatdan keyin natijani berish
+- Tekshiruvdan oldingi maslahat o'tkazish
+- Natijani qonuniy vakilga xabar qilish
+! Voyaga yetmaganlar qonuniy vakillarining roziligi bilan tekshiriladi, shuning uchun anonimlik ruxsat etilmaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i; O'zR Qonuni "OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida"
+? OIV bilan yashovchi onadan tug'ilgan bolada PZR qaysi haftalikda o'tkaziladi?
++ 6–8 va 12 haftalikda
+- 1 va 2 haftalikda
+- 6 va 9 oyligida
+- 12 va 18 oyligida
+- Faqat tug'ilganda bir marta
+! Erta PZR yuqish bo'lgan-bo'lmaganini aniqlaydi, 18 oyligida esa serokonversiyani aniqlash uchun IFA o'tkaziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Kontaktdagi bolalarda kotrimoksazol profilaktikasi qachondan boshlanadi?
++ 5 haftalikdan
+- Tug'ilgan kunning o'zidan
+- 6 oyligidan
+- 12 oyligidan
+- 18 oyligidan
+! Profilaktika ikki marta manfiy PZR olinmaguncha davom ettiriladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OIV bilan yashagan onadan tug'ilgan bolaga tug'ruqxonada qaysi emlash o'tkaziladi (OIV belgilari bo'lmasa)?
++ BCG
+- OPV (og'iz polio vaksinasi)
+- MMR
+- Sariq isitmaga qarshi vaksina
+- Rotavirus vaksinasi
+! OIV belgilari yo'q bolalarda BCG o'tkaziladi, boshqa emlashlar esa milliy kalendar bo'yicha davom etadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? ART olmayotgan bolalarda CD4 limfotsitlar sonini aniqlash qanday davriylik bilan rejalashtirilgan?
++ 6–12 oyda
+- Har hafta
+- Har oy
+- 3 yilda bir marta
+- 5 yilda bir marta
+! Terapiya olmayotgan bolalarda immun holat kasallik rivojlanishini baholash va ART ko'rsatmasini aniqlash uchun kuzatiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? 1 yoshgacha bo'lgan OIV infeksiyali chaqaloqlarda ART qaysi shartda boshlanadi?
++ Klinik-immunologik ko'rsatkichlardan qat'i nazar, barchasiga
+- CD4 soni 350 dan kam bo'lsa va faqat shu holatda
+- JSSTning 3–4 klinik bosqichi bo'lsa va boshqa hollarda emas
+- CD4 soni 750 dan kam bo'lgan va yaxshi vazn olayotganlarga
+- Sil bilan kasallangan va boshqa kasalliklari bo'lmaganlarga
+! Yosh chaqaloqlarda kasallik tez rivojlangani uchun terapiya darhol boshlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Faol sili bor OIV infeksiyali bolada ART qachon boshlanadi?
++ Sil davosi boshlanganidan keyin 8 hafta ichida
+- Sil davosi boshlanishidan oldin, bir haftadan so'ng
+- Sil davosi tugagandan keyin, 6 oydan so'ng
+- Sil davosi bilan bir kunda, barcha hollarda
+- Bolaga 18 yosh to'lgandan keyin
+! Sil davosini oldin boshlash dori o'zaro ta'sirlari va immun tiklanish sindromi xavfini kamaytiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Emizgan kontaktdagi bolada OIV testi qachon takrorlanadi?
++ Ko'krak sutidan to'liq voz kechilgandan keyin 6 hafta ichida
+- Emizish boshlangan zahoti birinchi kuni, tug'ruqxonadan chiqishdan oldin
+- Har oyda bir marta, butun emizish davri davomida to'xtovsiz
+- Ko'krak sutidan voz kechgandan keyin 2 yil o'tgach, rejali tartibda
+- 5 yoshga to'lgandan keyin
+! Emizish davomida yuqish xavfi saqlanadi, shuning uchun test emizish to'xtatilgandan keyin takrorlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OIV infeksiyali bolalar dispanser nazorati kimning metodik rahbarligi ostida olib boriladi?
++ OITSga qarshi kurash markazi shifokorining
+- Hududiy tuman bolalar poliklinikasi bosh vrachining
+- Maktab va bog'cha shifokorining
+- Respublika sil kasalliklari dispanseri mudirining
+- Oilaviy poliklinika hamshirasining
+! Nazoratni markaz mutaxassislari, YuKX shifokorlari va DPM umumiy amaliyot shifokorlari birgalikda olib boradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i

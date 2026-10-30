@@ -1,0 +1,98 @@
+=== 124
+? Leyshmanioz odamga qanday yo'l bilan yuqadi?
++ Zararlangan iskabtopar (moskit) chaqishi orqali
+- Anopheles turkumidagi bezgak chivinlari chaqishi va ularning najasi orqali
+- Ixodes turkumidagi iksod kanalari chaqishi va ularning so'lagi orqali
+- Ifloslangan suv va oziq-ovqat mahsulotlarini iste'mol qilish orqali
+- Kasal odam bilan havo-tomchi yo'li orqali, yaqin muloqot paytida
+! Qo'zg'atuvchi qon so'ruvchi iskabtoparlar tanasida rivojlanadi va ularning chaqishi bilan tarqaladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova; WHO. Leishmaniasis (fact sheet)
+? O'zbekistonda visseral leyshmaniozning asosiy rezervuari qaysi hayvonlar?
++ Itlar
+- Katta qum sichqonlar va qizil dumli qum sichqonlar
+- Tipratikanlar va yumronqoziqlar
+- Qoramol va qo'ylar, ayniqsa yosh hayvonlar
+- Uy sichqonlari va kalamushlar
+! Visseral shakl zoonoz bo'lib, qo'zg'atuvchi L. infantum asosan itlar orasida aylanadi; tulki va chiyabo'ri qo'shimcha rezervuar.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Zoonoz teri leyshmaniozining (L. major) asosiy rezervuari qaysi hayvon?
++ Katta qum sichqon (Rhombomys opimus)
+- Daydi it va tulki
+- Chiyabo'ri va bo'ri, tabiiy o'choqlarda
+- Qoramol va echki, chorvachilik xo'jaliklarida
+- Kasal odam, antroponoz o'choqlarda
+! Qum sichqon inlari moskitlar rivojlanadigan joy bo'lib, tabiiy o'choqlar shu kemiruvchilar bilan bog'liq.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Antroponoz teri leyshmaniozida (L. tropica) infeksiya manbai kim va tashuvchi qaysi?
++ Odam; tashuvchi Phlebotomus sergenti
+- Qum sichqon; tashuvchi Phlebotomus papatasi
+- It; tashuvchi Phlebotomus longiductus va Ph. angustus
+- Tipratikan; tashuvchi Phlebotomus caucasicus
+- Qoramol; tashuvchi Culex pipiens va Aedes aegypti
+! Shahar tipidagi teri leyshmaniozi antroponoz bo'lib, kasal odamdan Ph. sergenti orqali sog'lom odamga o'tadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Leyshmaniyaning umurtqali xo'jayin (odam, it) hujayralari ichidagi shakli qanday ataladi?
++ Amastigot
+- Promastigot
+- Sporozoit
+- Merozoit
+- Trofozoit
+! Hujayra ichidagi harakatsiz shakl amastigot, iskabtopar ichagidagi xivchinli harakatchan shakl esa promastigotdir.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova; Pavlovich S.A. Meditsinskaya parazitologiya s entomologiey
+? Zoonoz teri leyshmaniozining yashirin davri asosan qancha davom etadi?
++ 1–4 hafta
+- 6–12 oy
+- 2–6 oy va undan uzoq
+- 20 kundan bir yilgacha
+- 3–5 kun
+! Antroponoz va visseral shakllarga nisbatan zoonoz teri shaklida yashirin davr ancha qisqa.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Iskabtoparlar tabiiy sharoitda qancha masofagacha uchishi mumkin?
++ 1,5–1,8 km gacha
+- 10–20 m gacha
+- 500–800 m gacha
+- 10–15 km gacha
+- 40–50 km gacha
+! Aholi punktida ularning uchish masofasi ancha qisqa (10 m gacha), tabiiy sharoitda esa ancha uzoqroq.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Visseral leyshmaniozni laborator tasdiqlash uchun qaysi material tekshiriladi?
++ Suyak ko'migi, taloq, jigar yoki limfa tugunlari punktati
+- Najas, parazit tuxumlarini qidirish uchun konsentratsiya usulida
+- Balg'am, kislotaga chidamli tayoqchalarni topish uchun
+- Siydik cho'kmasi, shistosoma tuxumlarini aniqlash maqsadida
+- Bosh miya suyuqligi, tripanosomalarni topish uchun, boshqa material yaroqsiz
+! Parazit retikuloendotelial tizim hujayralarida ko'payadi, shuning uchun amastigotlar shu organlar namunasida topiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Leyshmanioz bo'yicha DSENM laboratoriyasiga qanday surtmalar yuboriladi?
++ Barcha musbat va shubhali surtmalar hamda manfiy surtmalarning 10 %
+- Musbat surtmalar va manfiy surtmalarning 50 %, shubhali surtmalar joyida qoladi
+- Barcha manfiy surtmalar, musbat va shubhali surtmalar joyida saqlanadi
+- Har yuzta surtmadan bittasi tanlab olinadi, natijadan qat'i nazar
+- Manfiy surtmalarning 50 %, musbatlari yuborilmaydi, shubhalilari ham
+! Manfiy natijalarning bir qismini nazorat qilish tashxis xatolarini aniqlash imkonini beradi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Visseral leyshmanioz bo'yicha davolanganlarni kuzatish muddatlari qanday?
++ 1, 3, 6, 9 va 12 oyda; 12 oydan keyin parazitologik manfiy bo'lsa hisobdan chiqariladi
+- Har hafta, 3 oy davomida; shundan so'ng parazitologik tekshiruvsiz hisobdan chiqariladi
+- Yiliga 1 marta, 10 yil davomida; hisobdan chiqarilmaydi, keyin umrbod kuzatiladi
+- Davolash tugagan kuni bir marta, keyingi kuzatuv o'tkazilmaydi va hisobdan chiqariladi
+- Har 2 yilda 1 marta, 6 yil davomida; so'ngra parazitologik tekshiruvsiz hisobdan chiqariladi
+! Davolangandan keyingi qaytalanishni erta aniqlash uchun kuzatuv bosqichma-bosqich, bir yilgacha olib boriladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? Moskitlarga qarshi sanitariya-obodonlashtirish tadbirlari aholi punktidan qancha radiusda o'tkaziladi?
++ 3–5 km radiusda
+- 50–100 m radiusda
+- 300–500 m radiusda
+- 20–30 km radiusda
+- 100–150 km radiusda
+! Iskabtoparlarning uchish masofasi va ko'payish joylari sababli ishlov aholi punktidan bir necha kilometr atrofida o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova
+? JSST bo'yicha leyshmaniozning qaysi shakli davolanmasa deyarli har doim o'limga olib keladi?
++ Visseral shakl
+- Teri shakli
+- Shilliq-teri shakli
+- Post-kala-azar teri shakli
+- Qaytalanuvchi lokal shakl
+! Visseral shakl ichki a'zolarni shikastlaydi va davosiz og'ir kechadi, teri shakli esa ko'pincha o'z-o'zidan bitadi va yara izlari qoldiradi.
+@ WHO. Leishmaniasis (fact sheet)
+#U 124 / 7: iskabtoparning uchish masofasi yo'riqnomadagi ma'lumot, tashqi manba bilan tasdiqlanmagan.

@@ -1,0 +1,99 @@
+=== 005
+? Infeksion jarayon va epidemik jarayon qaysi darajada namoyon bo'ladi?
++ infeksion jarayon organizm darajasida, epidemik jarayon populyatsiya darajasida
+- infeksion jarayon populyatsiya darajasida, epidemik jarayon organizm darajasida
+- ikkalasi ham faqat hujayra va to'qima darajasida
+- infeksion jarayon global darajada, epidemik jarayon hujayra darajasida
+- ikkalasi ham faqat sotsioekosistema darajasida
+! Infeksion jarayon bitta xo'jayin ichidagi o'zaro ta'sirni, epidemik jarayon esa ko'plab shaxslardagi holatlar zanjirini aks ettiradi.
+@ Mavzu materiali (005.docx)
+? Infeksion va epidemik jarayonning umumiy biologik asosi nima?
++ parazitizm, ya'ni parazitning xo'jayin organizmini oziqlanish va yashash muhiti sifatida ishlatishi
+- simbioz, ya'ni ikki organizmning o'zaro foydali va bir-birini to'ldiruvchi birgalikda yashashi
+- kommensalizm, ya'ni bir organizmning ikkinchisiga zarar yetkazmasdan uning hisobidan yashashi
+- saprofitizm, ya'ni qo'zg'atuvchining o'lik organik moddalar hisobidan tashqi muhitda yashashi
+- allergik reaksiya, ya'ni organizmning begona antigenga haddan tashqari javob berishi
+! Ikkala jarayon ham parazit va xo'jayin munosabatidan kelib chiqadi.
+@ Mavzu materiali (005.docx)
+? Individual va populyatsion immunitet infeksion hamda epidemik jarayon bilan qanday bog'langan?
++ individual immunitet infeksion jarayon natijasi, populyatsion immunitet esa epidemik jarayon natijasi
+- individual immunitet epidemik jarayon natijasi, populyatsion immunitet esa infeksion jarayon natijasi
+- ikkala immunitet ham faqat emlash natijasida hosil bo'ladi
+- individual immunitet nomaxsus, populyatsion immunitet esa faqat tug'ma bo'ladi
+- ikkala immunitet ham epidemik jarayonga umuman ta'sir qilmaydi
+! Ular bir-birini taqozo qiladi va tizimni cheklaydi.
+@ Mavzu materiali (005.docx)
+? Epidemik jarayon tarkibini tashkil etuvchi ketma-ket bo'g'inlar qaysi javobda to'g'ri keltirilgan?
++ infeksiya manbai, uzatish mexanizmi va moyil organizm
+- kirish darvozasi, patogenez va immun javob
+- yashirin, prodromal va avj olish davrlari
+- qo'zg'atuvchi dozasi, virulentligi va rezistentligi
+- klinik tashxis, davolash va reabilitatsiya
+! Kirish darvozasi, ko'payish va immun javob infeksion jarayon tarkibiga kiradi.
+@ Mavzu materiali (005.docx)
+? Quyidagi xususiyatlardan qaysi biri infeksion jarayondan farqli ravishda epidemik jarayonga xos?
++ ko'p yillik dinamika, davriylik, mavsumiylik va tasodifiy avj olishlar
+- yashirin, prodromal, avj olish va tuzalish davrlari ketma-ketligi
+- kirish darvozasida qo'zg'atuvchining ko'payishi va patogenez
+- bitta individ organizmida siklik kechish
+- to'qima va a'zolar darajasidagi morfologik o'zgarishlar
+! Epidemik jarayon ko'plab shaxslardagi holatlar zanjiri bo'lgani uchun vaqt bo'yicha dinamikasi bilan tavsiflanadi.
+@ Mavzu materiali (005.docx)
+? Quyidagi misollardan qaysi biri epidemik jarayonda ijtimoiy omilning hal qiluvchi rolini ko'rsatadi?
++ legionellyozning kondensionerlar bilan, iersiniozlarning sabzavotni markazlashgan saqlash bilan bog'liqligi
+- salmonellyozning bemor organizmida kechishi va uning klinik bosqichlarining ketma-ket almashinuvi, shu jumladan asoratlari
+- gripp virusining bemor nafas yo'llari epiteliysida ko'payishi va hujayra darajasidagi zararlanishi hamda yallig'lanishi
+- qutirish virusining nerv to'qimasi bo'ylab harakatlanishi va markaziy asab tizimiga yetib borishi hamda zararlashi
+- bezgak plazmodiysining eritrositlar ichida rivojlanishi va qon hujayralarini yemirishi hamda isitma chaqirishi
+! Bu misollarda parazitar tizimning aholi hayot sharoiti bilan o'zaro ta'siri uni epidemik jarayonga aylantiradi.
+@ Mavzu materiali (005.docx)
+? Odamlarda kuydirgining teri shakli epidemik jarayon nuqtai nazaridan nima bilan tavsiflanadi?
++ odam biologik tupik bo'lib, individ darajasida infeksion jarayon rivojlansa ham odamdan odamga yuqmaydi
+- odam asosiy manba bo'lib, kasallik havo-tomchi yo'li bilan boshqalarga keng tarqaladi va epidemiya chaqiradi
+- odam vektor rolini o'ynab, qo'zg'atuvchi kanalar orqali boshqa odamlarga uzatiladi va tarqaladi
+- odam tashuvchi bo'lib, qo'zg'atuvchini fekal-oral yo'l bilan boshqalarga uzatib, ularni zararlaydi
+- odam immunitet hosil qilmaydi, shu sababli kasallik qayta-qayta yuqadi va uzluksiz davom etadi
+! Zoonozdagi bu holat infeksion jarayonni epidemik zanjirga aylanishiga yo'l qo'ymaydi.
+@ Mavzu materiali (005.docx)
+? Ko'ngillilarda qorin tifi dozasi 10^7 mikrob hujayrasi bo'lganda kasallanish qancha foizni tashkil etgan?
++ 50 foiz
+- 28 foiz
+- 89 foiz
+- 95 foiz
+- 0 foiz
+! Doza oshgan sari kasallanish ulushi ortgan: 10^5 da 28%, 10^8 da 89%, 10^9 da 95%.
+@ Mavzu materiali (005.docx)
+? Bir xil 10^7 dozada Vi-antigenli virulent shtammlar bilan Vi-antigensiz shtammlarga nisbatan kasallanish qanday bo'lgan?
++ Vi-antigenli shtammlarda 51 foiz, Vi-antigensizlarda 26 foiz kasallangan
+- Vi-antigenli shtammlarda 26 foiz, Vi-antigensizlarda 51 foiz kasallangan
+- ikkala shtammda ham 50 foiz kasallangan
+- Vi-antigenli shtammlarda 95 foiz, Vi-antigensizlarda 89 foiz kasallangan
+- Vi-antigenli shtammlarda 28 foiz, Vi-antigensizlarda hech kim kasallanmagan
+! Bu natija infeksion jarayon darajasida qo'zg'atuvchi virulentligining rolini ko'rsatadi.
+@ Mavzu materiali (005.docx)
+? Infeksion jarayon yaqqol kasallik bo'lmasa ham epidemik jarayonning bo'g'ini bo'lishi mumkinligini qaysi holat ko'rsatadi?
++ sog'lom tashuvchilik, bunda kishi o'zi kasal bo'lmasa-da qo'zg'atuvchini boshqalarga o'tkazadi
+- to'liq tuzalish, bunda kishida mustahkam immunitet hosil bo'lib, qo'zg'atuvchi ajralishi to'xtaydi
+- tug'ma immunitet, bunda kishiga qo'zg'atuvchi umuman yuqmaydi va kasallik rivojlanmaydi
+- davolangan bemorning dispanser kuzatuvi, bunda qo'zg'atuvchi organizmdan to'liq yo'qoladi
+- boshi berk zoonoz, bunda qo'zg'atuvchi odamdan keyingi xo'jayinga o'tmaydi va jarayon to'xtaydi
+! Belgisiz kechgan infeksion jarayonda ham qo'zg'atuvchi ajralib, yangi moyil kishilarga yuqishi mumkin.
+@ Mavzu materiali (005.docx)
+? L.V. Gromashevskiy ta'biricha epidemik jarayon faolligini susaytirishi nima bilan izohlanadi?
++ «yoqilg'i materiali», ya'ni moyil kishilar tugab borishi bilan
+- yangi qo'zg'atuvchi shtammlar paydo bo'lishi bilan
+- ijtimoiy aloqalar jadallashishi va aholi zichligi oshishi bilan
+- yuqish mexanizmining evolyutsion o'zgarishi bilan
+- bemorlarni kasalxonaga yotqizish tezligi oshishi bilan
+! Barcha moyil kishilar kasallanmasdan oldin jarayon o'z faolligini yo'qotishi mumkin.
+@ Mavzu materiali (005.docx)
+? Infeksion jarayon va epidemik jarayonni boshqarish usullari qaysi javobda to'g'ri keltirilgan?
++ infeksion jarayonni davolash va individual immunoprofilaktika, epidemik jarayonni profilaktik va epidemiyaga qarshi tadbirlar boshqaradi
+- infeksion jarayonni epidemiyaga qarshi tadbirlar, epidemik jarayonni esa faqat davolash va individual immunoprofilaktika boshqaradi
+- ikkala jarayonni ham faqat antibiotiklar bilan davolash va bemorlarni kasalxonaga yotqizish boshqaradi
+- infeksion jarayonni dezinfeksiya, epidemik jarayonni esa faqat klinik tashxis qo'yish va laboratoriya tekshiruvi boshqaradi
+- ikkala jarayon ham boshqarilmaydi va hech qanday tadbirlarsiz o'z-o'zidan to'xtaydi, bunda aralashuv talab etilmaydi
+! Epidemik jarayonga manbaga, mexanizmga va moyil organizmga qaratilgan tadbirlar ta'sir qiladi.
+@ Mavzu materiali (005.docx)
+#U 005 / 8: Qorin tifi dozalari bo'yicha ko'rsatkichlar faqat mavzu materialiga tayangan.
+#U 005 / 9: Vi-antigenli va Vi-antigensiz shtammlar natijasi faqat mavzu materialiga tayangan.

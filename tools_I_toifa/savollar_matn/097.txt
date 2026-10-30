@@ -1,0 +1,97 @@
+=== 097
+? Oqsim (yashur) kasalligini qaysi qo'zg'atuvchi keltirib chiqaradi?
++ pikornaviruslar oilasiga kiruvchi RNK-saqlovchi filtrlanuvchi virus
+- gerpesviruslar oilasiga kiruvchi DNK-saqlovchi yirik virus, odamda ham ko'payadi
+- Brucella turkumiga mansub gramm-manfiy kokkobakteriya
+- Rickettsia turkumiga kiruvchi hujayra ichi parazitlari
+- Clostridium oilasiga mansub spora hosil qiluvchi tayoqcha
+! Virus mayda RNK-saqlovchi bo'lib, ko'p serotiplarga bo'linishi sababli emlash vositalari serotipga mos tanlanadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim virusi sut qaynatilganda qancha vaqtda halok bo'ladi?
++ 5 daqiqada
+- 30 soniyada
+- 1 soatda
+- 3 soatda
+- 24 soatda
+! Shu sababli sutni yaxshilab qaynatib iste'mol qilish odam uchun asosiy himoya choralaridan biri hisoblanadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim odamdan odamga qanday yuqadi?
++ yuqmaydi, odam kasal hayvondan zararlanadi
+- havo-tomchi yo'li bilan yuqadi, bemor atrofdagilar uchun xavfli
+- jinsiy yo'l bilan yuqadi, bemor jinsiy sherigi uchun xavfli
+- ona sutiga tushib, chaqaloqqa o'tadi
+- ifloslangan buyumlar orqali oilada tez tarqaladi
+! Odam epidemik zanjirda tupik bo'g'in hisoblanadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim odamga qaysi yo'llar bilan yuqadi?
++ alimentar (xom sut va sut mahsulotlari) hamda kontakt (teri va shilliq pardalar orqali)
+- transmissiv (qon so'ruvchi hasharotlar chaqishi) hamda parenteral (tibbiy muolajalar)
+- aerogen (havo-chang) hamda transplasental (homiladorlik davrida)
+- suv orqali (ichimlik suvi), jinsiy hamda kontakt-maishiy yo'l
+- tuproq orqali, jarohatlangan teri tuproq sporalari bilan ifloslanganda, hamda aerogen
+! Bevosita parvarishlash yoki xom sut iste'mol qilish kasallikka olib kelishi mumkin.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim bo'yicha xavf guruhiga qaysi shaxslar kiradi?
++ kasbiga ko'ra hayvonlar bilan aloqada bo'lganlar: veterinarlar, chorvadorlar, sut sog'uvchilar
+- shahar aholisi orasida ishlovchi o'qituvchilar, bank xodimlari, ofis ishchilari va haydovchilar
+- yangi tug'ilgan chaqaloqlar va 1 yoshgacha bo'lgan bolalar bog'chadagi guruhlarda
+- tibbiyot muassasalarida umumiy bemorlarni parvarish qiluvchi hamshiralar va vrachlar
+- xorijga sayohat qiluvchi turistlar va tashrifchilar, hamda ularning oila a'zolari
+! Hayvon va ularning mahsulotlari bilan bevosita kontakt kasbiy xavfni oshiradi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Tuzalgan odamlar oqsim bo'yicha qancha vaqt dispanser kuzatuvida bo'ladi?
++ 1 yil
+- 1 oy
+- 3 oy
+- 5 yil
+- umr bo'yi
+! Virus tashuvchilik tuzalganlarning bir qismida 8–12 oygacha davom etishi mumkin.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim o'choqlarida joriy va yakuniy dezinfeksiya qaysi vositalar bilan o'tkaziladi?
++ 2 % natriy gidroksid yoki 1 % formalin
+- 0,5 % kaliy permanganat yoki 3 % yod spirti
+- 70 % etil spirti yoki 5 % borat kislota
+- 0,1 % kaliy permanganat eritmasi yoki oddiy sovunli suv bilan yuvish
+- 3 % vodorod peroksid yoki 2 % brilliant yashil
+! Virus ishqoriy va aldegidli vositalarga sezgir.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim bo'yicha odamlar uchun maxsus profilaktika holati qanday?
++ odamlar uchun maxsus profilaktika ishlab chiqilmagan
+- barcha chorvadorlar yiliga bir marta jonli vaksina bilan emlanadi, qayta emlash 3 yilda
+- bemor bilan aloqada bo'lganlarga immunoglobulin yuboriladi, keyin kuzatiladi
+- tug'ilgandan keyin 1 yoshda majburiy emlanadi, keyin revaksinatsiya
+- xavf guruhlariga ikki marta anatoksin yuboriladi, 30 kun oralatib
+! Emlash hayvonlar uchun qo'llanadi, odam esa asosan xom sutni qaynatish va kontakt cheklash bilan himoyalanadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Sut sog'uvchining qo'lida kesilgan joy yoki yara bo'lsa, oqsim profilaktikasi nuqtai nazaridan nima qilinadi?
++ ishga qo'yilmaydi
+- qo'lqop kiyib, odatiy tarzda ishlashi mumkin
+- yarani yod bilan bog'lab, ishda davom etadi
+- sog'ish vaqtida o'zining qo'lini yuvib ishlaydi
+- faqat sog'ilgan sutni qaynatib iste'mol qilishi shart
+! Shikastlangan teri orqali virus organizmga oson kirib borishi mumkin.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Odamlarda oqsimning ta'rifida keltirilgan asosiy klinik belgilar qaysi?
++ og'iz bo'shlig'i, burun, barmoqlar orasi va tirnoq ostida pufakchalar hamda yuqori harorat
+- terining sarg'ayishi, siydikning to'q rangga bo'yalishi, jigar kattalashishi va qichishish
+- bo'g'imlar shishi, yurak qopqoqlari zararlanishi, xorea va teri ostidagi tugunlar
+- tomoqda kulrang parda hosil bo'lishi, bo'yin shishi va xirillagan ovoz
+- qonli ich ketish, takroriy qusish, kuchli suvsizlanish va qorin og'rig'i
+! Pufakchali toshma yuqori harorat bilan birga kechadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Hayvonlarda qaysi yoshdagilar oqsim bilan ayniqsa og'ir kasallanadi?
++ yosh hayvonlar: buzoq, qo'zichoq va bolalagan cho'chqalar
+- keksa hayvonlar: 10 yoshdan oshgan sigir va otlar
+- sog'im davridagi urg'ochi hayvonlar, ayniqsa sut beradiganlar
+- qo'ylar orasida tug'ilgandan keyingi 3 yillik davrdagi urg'ochilar
+- yovvoyi kemiruvchilar va ularning barcha avlodlari
+! Yosh hayvonlarda o'lim yuqori bo'lib, cho'chqa bolalarida 60–80 % gacha yetadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova
+? Oqsim bilan zararlangan hayvonlar bo'lgan xo'jalikda veterinariya xizmati bilan hamkorlikda qaysi tadbir o'tkaziladi?
++ kasal hayvonlarni erta aniqlash va majburan so'yish
+- barcha hayvonlarni sog'lomlashtirish uchun bir joyga to'plash
+- kasal hayvonlarni sog'lomlar bilan birga yaylovga chiqarish
+- sutni yaxshilab aralashtirmasdan umumiy sig'imga yig'ish
+- hayvonlarni xo'jalikdan xo'jalikka erkin o'tkazish
+! Hayvonlar harakati ustidan qat'iy nazorat infeksiya tarqalishini cheklaydi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 5-ilova

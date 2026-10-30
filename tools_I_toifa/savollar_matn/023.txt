@@ -1,0 +1,99 @@
+=== 023
+? Darslikka ko'ra, epidemiologik nazorat nima?
++ Epidemik jarayon xususiyatlari va rivojlanishiga uzluksiz baho berib, o'z vaqtida qaror qabul qilishni ta'minlash
+- Yuqumli kasallik o'chog'ida bemorni ajratish va yakuniy dezinfeksiya o'tkazishning bir martalik tadbiri
+- Aholini rejali emlash taqvimi bo'yicha emlash qamrovini yilda bir marta hisoblash
+- Faqat laboratoriya tomonidan qo'zg'atuvchi turini aniqlash va unga antibiotik tanlash
+- Qo'shni davlatlar bilan chegarada karantin postlarini tashkil etish va yuritish
+! Nazorat uzluksiz baholash va qaror qabul qilish tizimi bo'lib, alohida bir martalik tadbirni emas, butun jarayonni qamrab oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Epidemiologik tashxis ishi qaysi ikki o'zaro bog'liq qismdan iborat?
++ Operativ va retrospektiv tahlil
+- Birlamchi va ikkilamchi profilaktika
+- Deskriptiv va eksperimental tadqiqot
+- Klinik va patologoanatomik tahlil
+- Joriy va yakuniy dezinfeksiya
+! Tezkor kuzatuv va o'tgan davrni chuqur o'rganish bir-birini to'ldirib, epidemiologik tashxisning asosini tashkil etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Retrospektiv tahlil nechta bosqichdan iborat?
++ 4 ta: dastur tuzish, materialni guruhlash, tavsiflash va analitik bosqich
+- 3 ta: dastur tuzish, tavsiflash va yakuniy hisobot topshirish
+- 6 ta: ro'yxatga olish, laboratoriya, emlash, o'choq, prognoz va hisobot
+- 2 ta: operativ bosqich va yillik yakuniy bosqich
+- 5 ta: gipoteza, tajriba, kuzatuv, tasdiq va nashr etish
+! Tahlil dastur tuzishdan boshlanib, tavsifiy bosqichdan so'ng sabab-oqibat bog'lanishlarini izlovchi analitik bosqich bilan yakunlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Ro'yxatga olishdagi qaysi muammo yengil «atipik» shakllarning hisobdan chetda qolishiga bog'liq va nima taklif etilgan?
++ Tashxis shifokor malakasiga bog'liq; «kasallikning standart ta'rifi» taklif etilgan
+- Bemorlar xulq-atvoriga bog'liq; har bir bemorga alohida hisobot varag'i joriy qilish taklif etilgan
+- Hududlar o'rtasidagi taqqoslash xatosi; faqat mutlaq sonlardan foydalanish taklif etilgan
+- Kasallanishni yashirish; hisobotlarni yilda bir marta topshirish taklif etilgan
+- Immunologik usullarning kechikishi; ularni umuman qo'llamaslik taklif etilgan
+! Yengil shakllarni tanib olish shifokor malakasiga bog'liq bo'lgani uchun yagona standart ta'rif hisobga olishni bir xil qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Kasallanishni ataylab yashirish ayniqsa qaysi infeksiyalarda saqlanib qolgan va qanday oqibatga olib keladi?
++ Shartli-patogen mikroorganizmlar chaqiradigan yiringli-septik infeksiyalarning yengil shakllarida; gospital virulent shtammlar shakllanishiga
+- Havo-tomchi yo'li bilan yuqadigan bolalar infeksiyalarida, ayniqsa maktabgacha yoshdagilar orasida; emlash qamrovi va jamoaviy immunitetning oshishiga
+- Faqat o'ta xavfli karantin infeksiyalarida; chegara nazoratining kuchayishiga
+- Ichak infeksiyalarining mavsumiy ko'tarilishida; suv sifati yaxshilanishiga
+- Tabiiy o'choqli zoonozlarda; kemiruvchilar sonining kamayishiga
+! Yengil yiringli-septik shakllar, ayniqsa kasalxonalarda, rasmiy hisobga olinmasa, ularning qo'zg'atuvchilari muhitda saqlanib, virulent shtammlarga aylanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? Darslikka ko'ra, amaliy muassasalarning birinchi vazifasi nima?
++ Ro'yxatga olish va hisobga olishni tartibga solish, turli hududlarda bir xil qilish uchun yagona mezonlar ishlab chiqish
+- Yengil kasallanish holatlarini hisobdan chiqarib, faqat og'ir holatlarni yozish va ularni hududlar bo'yicha taqqoslamaslik
+- Har bir hududda o'zining alohida va mustaqil ta'rif mezonlarini qo'llash
+- Hisobotlarni yagona markazga yuborishni to'xtatib, mahalliy darajada yuritish
+- Faqat laboratoriya tasdiqlagan holatlarni va faqat qo'zg'atuvchi ajratilganlarni yozish
+! Hududlararo taqqoslash xatolari ro'yxatga olish farqlaridan kelib chiqadi, shu bois mezonlarni birxillashtirish birinchi navbatda turadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik). Toshkent, 2016
+? JSST va CDC ta'rifiga ko'ra, jamoat salomatligi nazorati nimani o'z ichiga oladi?
++ Sog'liq haqidagi ma'lumotlarni doimiy va tizimli yig'ish, tahlil qilish, talqin etish va tarqatish hamda ular asosida choralarni rejalashtirish va baholash
+- Sog'liqni saqlash muassasalarida kasallik qo'zg'atuvchisini laboratoriyada ajratib olish, uning genomini aniqlash va natijalarni ichki arxivda saqlash
+- Aholini yiliga bir marta tibbiy ko'rikdan o'tkazib, natijalarni bemorlarning o'ziga yetkazish
+- Dori vositalarini ishlab chiqarish sifatini tekshirish va ularni litsenziyalash
+- Bemorlarni davolash natijalarini klinik sinovlar yordamida baholash
+! Nazorat ma'lumot yig'ish bilan cheklanmaydi: tahlil, tarqatish va amaliy choralarni baholash ham uning tarkibiga kiradi.
+@ WHO. Ethics in public health surveillance (Q&A); CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 4
+? Zoonozlar bo'yicha epizootologik-epidemiologik nazoratning asosiy tamoyillaridan biri qaysi?
++ Tibbiy-veterinar kompleks yondashuv va tibbiyot hamda veterinariya xizmatlari o'rtasida doimiy tezkor axborot almashinuvi
+- Tibbiyot xizmatining mustaqil ishlashi va veterinariya ma'lumotlaridan foydalanmasdan, alohida qaror qabul qilishi va o'z ma'lumotlariga tayanishi
+- Ma'lumotni yilda bir marta passiv usulda yig'ish va umumlashtirish
+- Barcha zoonozlar uchun bir xil, kasallik xususiyatini hisobga olmaydigan dastur
+- Qarorlarni har bir xizmat o'zi alohida va bir-biridan bexabar qabul qilishi
+! Zoonozlarda manba hayvonlar orasida bo'lgani uchun tibbiyot va veterinariya xizmatlari birgalikda va tezkor ishlashi shart.
+@ Brico N.I., Pokrovskiy V.I. (tahr.). Rukovodstvo po epidemiologii infeksionnykh boleznei, 1-jild
+? Nazorat tizimida ma'lumot qaysi yo'nalishda uzatiladi va qarorlar qanday tamoyil bilan ishlab chiqiladi?
++ Pastdan yuqoriga bosqichma-bosqich uzatiladi; qarorlar «teskari aloqa» tamoyili bo'yicha yuqoridan pastga beriladi
+- Yuqoridan pastga uzatiladi; qarorlar pastdagi bo'g'inlarning o'zi tomonidan alohida qabul qilinadi
+- Gorizontal ravishda uzatiladi, qarorlar esa umuman ishlab chiqilmaydi va tavsiyalar berilmaydi, teskari aloqa yo'q
+- Respublika darajasidan to'g'ridan-to'g'ri aholiga uzatiladi; viloyat bo'g'ini chetlab o'tiladi
+- Faqat og'zaki ko'rinishda uzatiladi; qarorlar yozma shaklga keltirilmaydi
+! Tuman va viloyatdan respublikaga ma'lumot ko'tariladi, tahlildan so'ng esa tavsiyalar teskari yo'nalishda qaytadi.
+@ Brico N.I., Pokrovskiy V.I. (tahr.). Rukovodstvo po epidemiologii infeksionnykh boleznei, 1-jild
+? Avj olish haqidagi signal 2019-yilgi o'zbek–JSST qo'llanmasiga ko'ra qaysi manbadan kelishi mumkin?
++ Aholi, ishonch telefoni, laboratoriya natijalari yoki davolash muassasalaridan
+- Vazirlar Mahkamasining yillik hisobotidan, boshqa manbalar hisobga olinmaydi
+- Xorijiy davlatlarning rasmiy bayonotlaridan va xalqaro yangiliklar agentliklaridan
+- Bitta mutaxassisning shaxsiy kuzatuvlari daftaridan, hech qanday rasmiy ro'yxatga olishsiz
+- O'quv muassasalarining imtihon natijalaridan va talabalar baholash ro'yxatidan
+! Qo'llanma axborot manbalari sifatida xabarnoma, nazorat ma'lumotlari tahlili, vrachlar, aholi, ishonch telefoni va laboratoriyani sanaydi.
+@ Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma, Toshkent, 2019
+? Tezkor javob guruhi tarkibiga qaysi mutaxassislar kiradi?
++ Epidemiolog, laborant, infeksionist, gigienist va dezinfeksiya mutaxassisi
+- Jarroh, anesteziolog, reanimatolog va operatsion hamshira, jarrohlik bo'limi xodimlari
+- Epidemiolog, moliyachi, huquqshunos va haydovchi
+- Kardiolog, nevrolog, endokrinolog va oftalmolog
+- Stomatolog, dermatolog, ortoped va fizioterapevt
+! Tezkor javob guruhi o'choqni tekshirish uchun epidemiologik, laboratoriya, klinik, gigienik va dezinfeksion yo'nalishlarni birlashtiradi.
+@ Yuqumli kasalliklar avj olishlari va hodisalarini tekshirish bo'yicha qo'llanma, Toshkent, 2019
+? CDC nazoratni qaysi tibbiy kuzatishga o'xshatadi?
++ Jamiyatning «pulsini» kuzatishga
+- Bemorning qon bosimini bir martalik o'lchashga
+- Operatsiyadan keyingi yarani tikishga
+- Rentgen tasvirini tahlil qilishga
+- Ko'z tubini oftalmoskopiya bilan ko'rishga
+! Puls kabi nazorat ham sog'liq holatini doimiy va uzluksiz kuzatib borishni anglatadi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 4
+#U 023 / 9: ma'lumot uzatish yo'nalishi va «teskari aloqa» tamoyili sobiq ittifoq davri rus tilidagi qo'llanmaga (OCR) tayangan, joriy O'zbekiston nizomi bilan tasdiqlanmagan.
+#U 023 / 8: zoonozlar bo'yicha tamoyillar sobiq ittifoq davri qo'llanmasi (OCR) asosida, joriy hujjat bilan tasdiqlanmagan.

@@ -1,0 +1,98 @@
+=== 121
+? Kanali (bahorgi-yozgi) ensefalit qo'zg'atuvchisi qaysi virus avlodiga mansub?
++ Flavivirus avlodiga mansub arbovirus
+- Alfavirus avlodiga mansub, chivinlar orqali yuqadigan arbovirus
+- Enterovirus avlodiga mansub, fekal-oral yo'l bilan yuqadigan virus
+- Orthobunyavirus avlodiga mansub, kemiruvchilar siydigi orqali yuqadigan virus
+- Lyssavirus avlodiga mansub, kasal hayvon so'lagi orqali yuqadigan virus
+! Kanali ensefalit virusi flaviviruslar qatoriga kiradi va iksod kanalari orqali tarqaladi, boshqa avlodlar esa boshqa tashuvchi va yuqish yo'llariga ega.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Kanali ensefalitning asosiy tashuvchilari qaysi kanalar hisoblanadi?
++ Ixodes persulcatus va Ixodes ricinus
+- Hyalomma asiaticum va Hyalomma marginatum
+- Ornithodoros papillipes va Ornithodoros tartakovskyi
+- Dermacentor marginatus va Rhipicephalus sanguineus
+- Sarcoptes scabiei va Dermatophagoides pteronyssinus
+! Virus Ixodes turkumidagi iksod kanalarida ko'payadi va saqlanadi; Hyalomma kanalari boshqa infeksiyalar bilan bog'liq.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Ochlik davrida kana organizmida virus qancha muddatgacha saqlanishi mumkin?
++ Ikki yilgacha
+- Taxminan ikki-uch haftagacha, keyin kananing o'zi bilan birga yo'qoladi
+- Bir oygacha, shundan so'ng virus kana tanasidan to'liq yo'qoladi
+- Atigi bir necha kun, chunki virus kana hujayralarida ko'paymaydi
+- O'n yildan ko'proq, qayta oziqlanmasa ham
+! Virus kananing so'lak bezi va jinsiy a'zolarida ko'payib, ochlikda ham uzoq saqlanadi va transovarial yo'l bilan avlodga o'tadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Kanali ensefalitda kana chaqishidan tashqari yana qaysi yuqish yo'li qayd etilgan?
++ Xom echki (kamdan-kam sigir) sutini va undan tayyorlangan mahsulotlarni iste'mol qilish
+- Kasal odam bilan yaqin muloqot qilganda yo'talish va aksirish natijasida havo-tomchi yo'li orqali
+- Ifloslangan ochiq suv havzasida cho'milganda teri va shilliq pardalar orqali
+- Kasal odam qonini quyish yoki umumiy shprits ishlatish orqali, parenteral yo'l
+- Kemiruvchilar chiqindisi bilan ifloslangan changni nafas olib, aerogen yo'l orqali
+! Alimentar yo'lda virus xom sut orqali o'tadi va oilaviy hamda guruhli avj olishlar xarakterlidir.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Tabiiy o'choqlarda mahalliy aholi orasida belgisiz va yaqqol shakllar nisbati qanday?
++ 12:1 dan 90:1 gacha
+- 1:1 dan 3:1 gacha
+- 2:1 dan 5:1 gacha
+- 200:1 dan 500:1 gacha
+- 1:2 dan 1:5 gacha
+! Belgisiz shakllar yaqqol shakllardan ancha ko'p bo'lgani uchun aholida yashirin immunizatsiya yuz beradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Kanali ensefalit mavsumiyligi qaysi davrga to'g'ri keladi?
++ Bahor va yozning birinchi yarmi
+- Yozning ikkinchi yarmi va kuzning oxiri
+- Qish oylari, ayniqsa dekabrdan fevralgacha
+- Kuz va qishning boshi, kanalar qishlashga ketayotgan paytda
+- Butun yil davomida bir tekis, mavsumga bog'liq bo'lmagan holda
+! Kasallanish kanalarning faollik davriga mos keladi, shuning uchun u qat'iy mavsumiy.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Kanali ensefalitga qarshi emlash qachon o'tkazilishi kerak?
++ Kanalar faollashadigan mavsumdan ancha oldin
+- Kana chaqqandan keyin birinchi sutka ichida, bir martalik dozada
+- Mavsumning eng avj pallasida, kasallanish cho'qqisida
+- Kasallanish qayd etilgandan keyin, o'choqdagi kontaktlarga
+- Kasallik belgilari paydo bo'lgandan keyin, davolash maqsadida
+! Immunitet shakllanishi uchun vaqt kerak, shuning uchun emlash kanalar faol bo'lgunga qadar tugallanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim; WHO. Immunization is the best protection against tick-borne encephalitis (2020)
+? Kanali ensefalitda tezkor (shoshilinch) profilaktika qanday vosita bilan o'tkaziladi?
++ Donorning maxsus titrlangan immunoglobulini
+- Bakteriofag va probiotiklar aralashmasi, og'iz orqali
+- Keng spektrli antibiotik, besh kunlik kursda
+- Jonli zaiflashtirilgan vaksina, bir martalik dozada
+- Interferon induktorlari va vitamin kompleksi, mavsum davomida
+! Tayyor antitelalar passiv himoya beradi, bu emlashga ulgurmagan shaxslar uchun tezkor tadbir hisoblanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Tanadan kanani olib tashlashda asosiy talab qanday?
++ Kananing og'iz apparati tanada qolmasligi kerak
+- Avval kerosin yoki yog' bilan bo'ktirib, uzoq vaqt kutish kerak
+- Qo'l bilan kuchli buralab, tezda uzib tashlash kerak
+- Olib tashlamasdan, chaqqan joyni yod bilan surtib qo'yish yetarli
+- Yoqib yuborish uchun chaqqan joyga cho'g' tutish kerak
+! Og'iz apparatining qolishi yallig'lanish va yuqish xavfini oshiradi, shuning uchun kana butun holda ehtiyotkorlik bilan olinadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Kanalarga qarshi akaritsidlar (piretroidlar) qanday maydonlarda qo'llanadi?
++ Cheklangan maydonlarda, masalan yozgi sog'lomlashtirish muassasalari hududida
+- Butun o'rmon massivlarida, samolyotdan keng ko'lamda sepish yo'li bilan
+- Barcha shahar ko'chalari va aholi turar joylarida doimiy ravishda
+- Mollar yaylovlarida, hayvonlarga ishlov berish orqali
+- Inson terisiga to'g'ridan-to'g'ri, har kuni surtish uchun
+! Akaritsidlar atrof-muhitga ta'sir qilgani sababli faqat cheklangan hududlarda qo'llanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? Darslikka ko'ra kanali ensefalit bo'yicha qaysi guruhlar xavf guruhi hisoblanadi?
++ Nafaqaxo'rlar hamda maktabgacha va boshlang'ich sinf bolalari
+- Faqat o'rmon xo'jaligi ishchilari va ovchilar, boshqa guruhlar kam kasallanadi
+- Homilador ayollar va emizikli onalar, chunki ularning immuniteti past
+- Shahar aholisi orasidagi 30–40 yoshli sog'lom erkaklar
+- Kasalxona va laboratoriya xodimlari, kasal bilan aloqada bo'lganlari uchun
+! Bu guruhlar o'rmon, bog' va tomorqaga tez-tez borishi va immunitet qatlami kamligi sababli ko'proq zararlanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (2016), 20.8.3-bo'lim
+? JSST tavsiyasiga ko'ra yuqori endemik hududlarda kanali ensefalitga qarshi emlash kimlarga taklif etiladi?
++ Barcha yoshdagi aholiga
+- 60 yoshdan oshgan kishilarga, boshqa yoshlar emlanmaydi
+- Tibbiyot xodimlariga va veterinarlarga, kasbiy xavf sababli
+- Yangi tug'ilgan chaqaloqlarga, ona tug'ruqxonadan chiqishi bilan
+- Faqat chet davlatlarga safar qiluvchilarga, mahalliy aholiga emas
+! Endemikligi yuqori joylarda xavf butun aholiga tegishli, shuning uchun umumiy emlash strategiyasi qo'llanadi.
+@ WHO. Immunization is the best protection against tick-borne encephalitis (2020)
+#U 121 / 3: ochlik paytida kanada virusning ikki yilgacha saqlanishi darslikka tayanadi, qo'shimcha manba bilan tasdiqlanmadi.

@@ -1,0 +1,97 @@
+=== 019
+? O'tkazilish vaqtiga ko'ra epidemiologik tahlil qaysi turlarga bo'linadi?
++ Retrospektiv va operativ tahlil
+- Tavsifiy va tahliliy tahlil
+- Kogort va nazorat-tanlov tahlili
+- Sifat va miqdor tahlili
+- Laboratoriya va klinik tahlil
+! Birinchisi o'tgan davrni, ikkinchisi joriy vaziyatni o'rganadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Maqsadiga ko'ra epidemiologik tahlil qaysi turlarga bo'linadi?
++ Tavsifiy (deskriptiv) va tahliliy (analitik) tahlil
+- Retrospektiv va operativ tahlil, vaqt bo'yicha tasnif
+- Mutlaq va nisbiy tahlil
+- Hududiy va davlat tahlili
+- Birlamchi va ikkilamchi tahlil
+! Tavsifiy tahlil gipoteza uchun zamin yaratadi, tahliliy tahlil esa uni sinaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ tahlil uchun "etalon"ni nima beradi?
++ Retrospektiv tahlilda aniqlangan kutilgan (normativ) kasallanish darajasi
+- Qo'shni davlatning joriy yildagi kasallanish ko'rsatkichi va uning o'zgarishi
+- Vrach-epidemiologning shaxsiy taxminiy bahosi
+- Aholi sonining yillik o'sish sur'ati ko'rsatkichi
+- Dorixonalarda sotilgan dori vositalari hajmi
+! "Ko'p" yoki "kam" degan baho faqat avvalgi davr bilan taqqoslash orqali ma'no kasb etadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Tavsifiy tahlil kasallanishni qaysi uch asosiy belgi bo'yicha ta'riflaydi?
++ Vaqt, hudud va aholi guruhi (shaxs)
+- Qo'zg'atuvchi, manba va yuqish yo'li
+- Yosh, jins va kasb faqat laboratoriya bo'yicha
+- Sabab, oqibat va profilaktika
+- Letallik, o'lim va tuzalish
+! U kasallik qachon, qayerda va kimda ko'proq uchrashini ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Tavsifiy tahlil qaysi savolga, tahliliy tahlil esa qaysi savolga javob beradi?
++ Tavsifiy "nima"ga, tahliliy "nima uchun"ga
+- Tavsifiy "nima uchun"ga, tahliliy "nima"ga
+- Tavsifiy "kim to'laydi"ga, tahliliy "qancha"ga
+- Tavsifiy "qanday davolash"ga, tahliliy "qachon"ga
+- Ikkalasi ham faqat "qancha"ga
+! Tahliliy tahlil sabab-oqibat bog'lanishini aniqlaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'p yillik dinamika tahlili nimani aniqlaydi?
++ Kasallanishning yillar bo'yicha o'zgarish tendensiyasini (o'sish, pasayish, davriylik)
+- Kasallanishning yil davomidagi taqsimotini va mavsumiy ko'tarilish vaqtini, oylar bo'yicha
+- Kasallanishning geografik taqsimotini va muammoli hududlarni
+- Kasallanishning yosh, jins va kasb bo'yicha xavf guruhlarini
+- Laboratoriyada ajratilgan shtammlar genetik o'xshashligini
+! Mavsumiy ko'tarilishni yillik dinamika tahlili, hududlarni hududiy tahlil ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Intensivlik ko'rsatkichi nimani ifodalaydi?
++ Aholining ma'lum soniga (masalan 100 ming kishiga) nisbatan kasallar sonini
+- Kasalliklar tarkibidagi bir kasallikning foizdagi ulushini, boshqa kasalliklarga nisbatan
+- Kasallangan bemorlar orasida vafot etganlar ulushini
+- Hududdagi barcha kasalliklarning mutlaq yig'indisini
+- Bemorlarning o'rtacha yoshini yillarda
+! Bu ko'rsatkich kasallanish darajasini, ya'ni haqiqiy xavf darajasini aks ettiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Ekstensivlik ko'rsatkichi nimani ko'rsatadi va nima uchun yaramaydi?
++ Kasalliklar tarkibidagi ulushni ko'rsatadi, kasallanish darajasini baholashga yaramaydi
+- Aholiga nisbatan kasallanish darajasini ko'rsatadi, tarkibni baholashga yaramaydi
+- Kasallikdan o'lganlar ulushini ko'rsatadi, tarkibni baholashga yaramaydi
+- Kasallanishning mutlaq sonini ko'rsatadi, nisbiy taqqoslashga yaramaydi
+- Emlash qamrovini ko'rsatadi, kasallik tarkibini baholashga yaramaydi
+! Ulush o'zgarishi boshqa kasalliklar sonining o'zgarishidan ham kelib chiqishi mumkin.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Xavf omilini aniqlash va isbotlash uchun qaysi tadqiqotlar o'tkaziladi?
++ Tahliliy tadqiqotlar (kogort, nazorat-tanlov)
+- Operativ kuzatuv tadqiqotlari
+- Faqat tavsifiy hisobotlar tahlili
+- Retrospektiv ko'p yillik dinamika tahlili
+- Seroepidemiologik skrining
+! Gipotezani sinash va sababiy bog'lanishni baholash tahliliy tadqiqotlarning vazifasi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Tadbirlar samaradorligini baholashda tahlil nimani taqqoslaydi?
++ Tadbirgacha va undan keyingi kasallanishni
+- Tadbir uchun sarflangan mablag'ni
+- Faqat qo'shni hududning kasallanishini va uning dinamikasini
+- Bemorlarning ish joylarini
+- Xodimlar soni va ularning malakasini
+! Kasallanish pasayishi tadbir samarasining asosiy ko'rsatkichidir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tahlilning umumiy mantig'i qaysi uch bosqichdan iborat?
++ Ma'lumotlar yig'ish, tavsiflash va analitik bosqich
+- Gipoteza ilgari surish, eksperiment o'tkazish va hisobot tayyorlash
+- Reja, ijro va nazorat
+- Tashxis, davolash va reabilitatsiya
+- Kuzatish, emlash va yakuniy baholash
+! Natijada epidemiologik tashxis chiqarilib, tadbirlar asoslanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Ovqatdan zaharlanish avj olganda tahlil turlari qanday ketma-ketlikda qo'llanadi?
++ Avval tavsifiy tahlil taqsimotni ko'rsatadi, so'ng nazorat-tanlov tadqiqoti aybdor mahsulotni aniqlaydi
+- Avval nazorat-tanlov tadqiqoti o'tkaziladi, so'ng tavsifiy tahlil faqat hisobot uchun bajariladi
+- Vaksina klinik sinovi o'tkaziladi, boshqa tahlil turlariga hojat qolmaydi
+- Ko'p yillik retrospektiv dinamika tahlil qilinadi, o'choq tekshirilmaydi
+- Faqat seroepidemiologik skrining o'tkaziladi, mahsulot tekshirilmaydi
+! Tavsifiy tahlil gipoteza tug'diradi, tahliliy tahlil esa uni sinaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016

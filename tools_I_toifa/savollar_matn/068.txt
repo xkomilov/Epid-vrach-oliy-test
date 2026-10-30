@@ -1,0 +1,98 @@
+=== 068
+? 2020 yil 29 yanvardagi F-5537-son farmoyishi bilan tashkil etilgan respublika maxsus komissiyasi kim boshchiligida ishlagan?
++ Bosh vazir boshchiligida
+- Sog'liqni saqlash vaziri boshchiligida
+- Prezident Administratsiyasi rahbari boshchiligida
+- Bosh sanitariya vrachi boshchiligida
+- Ichki ishlar vaziri boshchiligida
+! Komissiya vazirlik va idoralar faoliyatini muvofiqlashtirish uchun hukumat rahbari boshchiligida tuzilgan.
+@ O'zR Prezidentining 2020-yil 29-yanvardagi F-5537-son farmoyishi
+? F-5537-son farmoyishga ko'ra davlat chegarasini kesib o'tish joylaridagi sanitariya-karantin punktlari qaysi texnika bilan jihozlanishi belgilangan?
++ statsionar va portativ termovizorlar bilan
+- rentgen apparatlari bilan, har bir chegara punktida joylashtirilgan
+- ultratovush tekshiruv qurilmalari bilan, ko'chma ko'rinishda
+- tezkor HIV-testlari va gematologik analizatorlar bilan, har bir punktda
+- magnit-rezonans tomograflar bilan, aeroport va vokzallarda
+! Termovizorlar kirayotganlarda harorat ko'tarilishini masofadan aniqlash imkonini beradi.
+@ O'zR Prezidentining 2020-yil 29-yanvardagi F-5537-son farmoyishi
+? F-5537-son farmoyishda qaysi shaxslarning majburiy diagnostikadan o'tkazilishi belgilangan?
++ klinik-epidemiologik ko'rsatmalar bo'yicha koronavirusda gumon qilinganlar hamda grippning va boshqa o'tkir respirator kasalliklarning og'ir shaklidagi bemorlar
+- chet eldan kelgan barcha sog'lom turistlar va xorijiy mehmonlar, ularning kasallik belgilari yo'qligidan va tashrif maqsadidan qat'i nazar, kirish chegarasida
+- 60 yoshdan oshgan aholi, kasallik belgilarisiz, har oyda bir marta ro'yxat bo'yicha
+- hududda yashovchi barcha maktab o'quvchilari, ularning ota-onalari va o'qituvchilari bilan birga
+- tibbiyot xodimlari va ularning oila a'zolari, boshqa gumon qilinganlarsiz va belgilarsiz
+! Majburiy diagnostika klinik-epidemiologik ko'rsatmalar asosida gumon qilinganlarga qaratilgan.
+@ O'zR Prezidentining 2020-yil 29-yanvardagi F-5537-son farmoyishi
+? Vazirlar Mahkamasining 2020 yil 23 martdagi 176-son qaroriga ko'ra chora sifatida nima qilingan?
++ dunyoning barcha davlatlari bilan muntazam aviaqatnovlar to'xtatilgan
+- Xitoy bilan aviaqatnov to'xtatilib, boshqa davlatlar bilan davom ettirilgan, ya'ni qisman cheklov joriy etilgan
+- chegara punktlari ochiq qoldirilib, skrining kuchaytirilgan, lekin hech qanday cheklov kiritilmagan
+- temir yo'l qatnovi to'xtatilgan, aviaqatnov esa avvalgidek davom ettirilgan
+- chet el fuqarolariga viza berish to'xtatilgan, kirish esa cheklanmagan
+! Qaror kirib kelish xavfini kamaytirish uchun aviaqatnovlarni to'xtatishni nazarda tutgan.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? 176-son qarorga ko'ra respublikaga kirishi to'xtatilgan shaxslar toifasi qaysi?
++ chet el fuqarolari va fuqaroligi bo'lmagan shaxslar (respublikada doimiy yashovchilar bundan mustasno)
+- respublika fuqarolari, jumladan chet elda tahsil olayotgan va ishlayotganlar ham
+- diplomatlar va xalqaro tashkilotlar xodimlari, ularning oila a'zolari bilan birga
+- yuk tashuvchi haydovchilar va ularga hamrohlik qiluvchi shaxslar ham, boshqa barcha toifadagi kishilar kirishi mumkin
+- 14 yoshgacha bolalar va ularni kuzatib yuruvchi ota-onalar
+! Chet elliklar kirishi cheklangan, doimiy yashovchilar esa bundan mustasno qilingan.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? 176-son qarorga ko'ra O'zbekistonga kirayotgan shaxslar qancha muddatga karantinga olinishi belgilangan?
++ 14 kunga: maxsus tibbiyot muassasasi, karantin bazasi yoki uy sharoitida
+- 3 kunga: maxsus tibbiyot muassasasida, mustaqil ravishda tarqalmasdan
+- 7 kunga: uy sharoitida, yaqinlari bilan birga va ish joyiga chiqmasdan
+- 21 kunga: karantin bazasida, boshqa kishilar bilan aloqasiz holatda
+- 30 kunga: shifoxonaning reanimatsiya bo'limida, doimiy kuzatuv ostida
+! Muddat inkubatsion davr (1–14 kun) bilan mos keladi.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? Respublikaga xorijdan kelayotgan transport vositalari, tovar va yuklarga nisbatan qanday talab qo'yilgan?
++ majburiy dezinfeksiya qilinishi
+- vizual ko'rikdan o'tkazilishi bilan cheklanishi, dezinfeksiyasiz
+- 30 kun omborda saqlanib, keyin egasiga topshirilishi
+- qadoqlarni yozma hujjatlar bilan solishtirish, boshqa chora ko'rilmasdan
+- hech qanday tekshiruvsiz erkin o'tkazilishi, maxsus nazoratsiz
+! Transport va yuklar orqali olib kelish xavfini kamaytirish uchun dezinfeksiya talab qilingan.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? JSSTning nazorat tavsiyalarida kontaktdagilarni kuzatish davri qanday belgilangan?
++ namuna olishdan 2 kun oldin boshlanib, 14 kun keyin tugaydi
+- namuna olingan kundan boshlab 3 kun
+- namuna olishdan 14 kun oldin boshlanib, namuna olingan kuni tugaydi
+- namuna olingandan 1 oy keyin boshlanib 2 oy davom etadi
+- faqat bemor shifoxonaga yotqizilgan kundan boshlab 48 soat
+! Davr simptomsiz yuqish imkoniyatini va inkubatsion davrni qamrab oladi.
+@ JSST. Sanitarno-epidemiologicheskiy nadzor za COVID-19 (07.08.2020)
+? Chegarada harorat o'lchash nima uchun yagona himoya bo'la olmaydi?
++ virus simptomlardan oldin va simptomsiz kechganda ham yuqishi mumkin, shu sababli karantin va kontaktlarni aniqlash talab etiladi
+- harorat o'lchash qimmat va texnik jihatdan amalga oshirib bo'lmaydi, chunki termovizorlar chegara punktlarida umuman ishlamaydi va ular samarasiz
+- virus harorati past odamlarda uchraydi
+- bemorlar chegarani avtobusda kesib o'tadi
+- COVID-19 sovuq oylarda uchraydi, shuning uchun harorat ahamiyatsiz
+! Simptomsiz va simptomlardan oldingi yuqish tufayli harorat skrining bilan hamma zararlanganlarni aniqlab bo'lmaydi.
+@ JSST. Diagnosticheskoe testirovanie dlya opredeleniya virusa SARS-CoV-2 (11.09.2020)
+? 176-son qarorga ko'ra 2020 yil 24 martdan boshlab qaysi hududga kirish boshqa hududlardan to'xtatilgan?
++ Toshkent shahriga
+- Samarqand viloyatiga
+- Farg'ona vodiysiga
+- Qoraqalpog'iston Respublikasiga
+- Xorazm viloyatiga
+! Koronavirus asosan Toshkent shahrida aniqlangani sababli ichki to'siq shu yerda joriy etilgan.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? Koronavirus aniqlangan hududdan kelganlar 176-son qarorga ko'ra nimalarni bajarishi shart?
++ qaytganligi va bo'lgan joyi haqida zudlik bilan sog'liqni saqlash organlariga xabar berish, 14 kun izolyatsiyada bo'lish
+- o'z ixtiyoriga ko'ra uyda qolish, sog'liqni saqlash organlariga xabar berish talab qilinmaydi, tibbiy ko'rik ham ixtiyoriy bo'ladi
+- 3 kun o'tgach shifokorga murojaat qilish, izolyatsiya talab etilmasdan va ish joyiga chiqib
+- ishga darhol qaytish va hamkasblarga xabar bermaslik, tibbiy ko'rikdan o'tmasdan
+- birinchi simptom paydo bo'lganda ham ish joyida qolish va jamoat transportidan foydalanish
+! Xabar berish va izolyatsiya majburiyati kirib kelgan infeksiyaning tarqalishini cheklashga qaratilgan.
+@ O'zR Vazirlar Mahkamasining 2020-yil 23-martdagi 176-son qarori
+? F-5537-son farmoyishda zaxira shakllantirish nimalarni qamrab olgan?
++ diagnostika vositalari, virusga qarshi preparatlar va shaxsiy himoya vositalari
+- oziq-ovqat va qurilish materiallari hamda maishiy texnika, aholiga tarqatish uchun
+- transport vositalari va yoqilg'i, chegara punktlarida foydalanish uchun
+- tibbiy kitoblar va o'quv qo'llanmalari hamda jihozlangan kutubxonalar
+- kiyim-kechak va maishiy texnika, hamda sport jihozlari to'plami
+! Zaxira epidemiyaga qarshi tayyorgarlikni ta'minlash uchun diagnostika, preparat va himoya vositalarini o'z ichiga oladi.
+@ O'zR Prezidentining 2020-yil 29-yanvardagi F-5537-son farmoyishi
+#U 068 / 10: Toshkent shahriga kirishni to'xtatish va "koronavirus asosan Toshkentda aniqlangani" asosi faqat mavzu materialidagi qaror matniga tayangan, 2025 yilgacha kiritilgan o'zgartirishlar bilan solishtirilmagan.

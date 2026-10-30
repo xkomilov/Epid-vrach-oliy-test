@@ -1,0 +1,187 @@
+# Yakuniy hisobot (I toifa mavzulari)
+
+- Fayllar: 146 (001.xlsx … 146.xlsx), savollar: 1752 (har faylda 12 tadan).
+- To'g'ri javoblar: A 351, B 350, C 350, D 351, E 350.
+- To'g'ri javobi eng uzun noto'g'ri javobdan >10 % uzun savollar ulushi: 0 %.
+
+## Mavzu materiali rasmiy manbalardan farq qiladigan joylar (#D)
+
+- 015 / 12: mavzu materialida 21 kun ham, 25 kun ham 'eng uzun inkubatsiya' deb atalgan (ichki ziddiyat); savol faqat 21 kunlik manba izlash davriga tayangan va rasmiy manba bilan tasdiqlanmagan.
+- 028 / 12: milliy yo'riqnoma 80/20 nisbatni, JSST esa 85/15 nisbatni beradi; mavzu materiali ularni bevosita solishtirmagan.
+- 041 / 5: VPCH yoshi bo'yicha mavzu materialida 12–13 yosh (kalendar) va 9–13 yosh (taqdimot, 6 oylik ikki dozali sxema) farqi bor; savolda yosh so'ralmadi.
+- 043 / 7: mavzu materiali (044.docx) tirik vaksinalar muzlatishga chidamli bo'lishi mumkin deydi, 043 da esa QPQ muzlatilmaydi; savol faqat o'ldirilgan/anatoksinli vaksinalarga tuzildi.
+- 044 / 10: mavzu materialining bir joyida tirik vaksinalar (masalan, qizamiq) muzlatishga chidamli bo'lishi mumkin deyilgan, boshqa joyida (SanQvaM) QPQ muzlatilmaydi deyilgan; savol faqat rotavirus saqlashiga tuzildi.
+- 047 / 8: mavzu materialida E. coli bo'yicha sifat mezoni (tuman markazida 5 %, chekkada 3 %) 048 materialidagi SanPiN 0291-11 mezoni (shaharda 10 %, qishloqda 5 %) bilan mos kelmaydi; savol tuzilmadi.
+- 060 / 2: darslikda adenoviruslar ~30 antigen variantli deb berilgan, zamonaviy manbalarda odam adenoviruslarining serotiplari soni bundan ancha ko'p.
+- 062 / 9: yuqumli davr darslikda klinik belgilardan taxminan 9 kun oldin boshlanadi deb berilgan, CDC bo'yicha parotit boshlanishidan 2 kun oldin; savol faqat CDC ma'lumotiga tayanadi.
+- 063 / 6: darslikda sil o'choqlari xavf darajasi bo'yicha 5 guruhga (beshinchisi zoonoz) bo'lingan, 383-son buyruqda esa to'rt guruh; savol buyruqqa tayanadi.
+- 064 / 9: ma'ruzada inkubatsion davr 2–14 kun (o'rtacha 10 kun), JSST laborator hujjatida o'rtacha 5–6 kun; savol JSST hujjatiga tayanadi.
+- 066 / 10: ma'ruzada inkubatsion davr 2–14 kun (o'rtacha 10 kun) deb berilgan, JSST ma'lumotida Omikron variantlarida 3–6 kun; savol JSST ma'lumotiga tayanadi.
+- 084 / 12: yo'riqnomada (542-son) VGS bilan zararlanganlar ~500 million deb keltirilgan, JSSTning hozirgi bahosi 47 million (surunkali); savolda JSST bahosi ishlatildi.
+- 090 / 8: buyruqda (37-son) monitoring maydan oktyabrgacha, Saparov qo'llanmasida (2010) tuproq namunalari aprel–oktyabr oylarida olinadi — muddatlar farq qiladi; savol buyruq bo'yicha tuzildi.
+- 101 / 6: mavzu materialida emlash muddati (10 yilda bir marta, 30–35 yil) JSST (umr bo'yi, bir doza) dan farq qiladi; 6-savol JSST ma'lumotiga tayanadi.
+- 102 / 3: mavzu materialida ro'yxatdagi karantin muddati va klinik ko'rsatkichlar (Marburgda yashirin davr 4–10 kun, o'lim 30–60%) JSST dan farq qiladi; savollar JSST ma'lumotiga tayangan.
+- 115 / 7: darslikda davolangan hisoblash mezoni davolashdan keyin 6 oy davomida najasning 4 ta nazorat tekshiruvida tuxum bo'lmasligi deb yozilgan, milliy yo'riqnomada esa 1, 3 va 6 oylik jadval; savol milliy yo'riqnomaga tayanadi.
+- 120 / 12: darslikda aloqadagilar uchun kuzatuv muddati 21 kun deb yozilgan, buyruqda esa 25 kun (pedikulyoz bo'lmasa) va 71 kun (bit bo'lsa); savol buyruqqa tayanadi.
+- 125 / 11: yo'riqnomada dispanser kuzatuv kamida 12 oy, darslikda esa 6 oy ko'rsatilgan; savol milliy yo'riqnomaga tayanadi.
+- 126 / 8: darslikda tropik bezgak uchun 1,5 yil, uch kunlik uchun 2,5 yil ko'rsatilgan, milliy yo'riqnomada esa 1 yil va 3 yil; savol yo'riqnomaga tayanadi.
+- 130 / 2: darslikda bolalarning 80–90 % i transplatsentar yo'l bilan zararlangani keltirilgan, taqdimotda esa homiladorlikda ~15 %, tug'ruqda ~5 %, emizishda ~10 % ko'rsatilgan; savol taqdimotga tayanadi.
+- 136 / 3: protokolda tasdiqlash 5–7 kun ichida tavsiya etilgan, taqdimot slaydlarida esa 2 haftadan keyin ko'rsatilgan; protokol asos qilib olindi.
+- 139 / 8: taqdimot (88-son buyruq asosida) chaqaloqqa faqat zidovudin sirop tayinlashni ko'rsatadi, 277-son protokolda uch komponentli sxema berilgan; protokol asos qilib olindi.
+
+## Faqat mavzu materialiga tayangan, tasdiqlanmagan faktlar (#U)
+
+- 001 / 9: O'zbekistondagi kafedra tashkil topish yili va muassasasi faqat mavzu materialiga tayangan.
+- 002 / 7: Kuydirgining 98–99% teri shakli ko'rsatkichi faqat darslikka tayangan va tashqi manba bilan tasdiqlanmagan.
+- 003 / 5: Tulyaremiyada yuqtiruvchi doza ko'rsatkichi faqat darslikka tayangan.
+- 004 / 12: Farmon mazmuni faqat mavzu materialidagi tavsifga tayangan.
+- 005 / 8: Qorin tifi dozalari bo'yicha ko'rsatkichlar faqat mavzu materialiga tayangan.
+- 005 / 9: Vi-antigenli va Vi-antigensiz shtammlar natijasi faqat mavzu materialiga tayangan.
+- 006 / 2: Epidemik jarayon jadalligi darajalarining ta'rifi faqat mavzu materialiga tayangan.
+- 006 / 8: Epidemiologik tashxis va klinik tashxis farqi hamda uchta savol faqat mavzu materialiga tayangan.
+- 006 / 9: Uchta savol bo'yicha talqin faqat mavzu materialiga tayangan.
+- 006 / 10: Retrospektiv va operativ turlarga bo'linish talqini faqat mavzu materialiga tayangan.
+- 007 / 1: Kafedra tashkil topish sanasi va muassasa faqat mavzu materialiga tayangan.
+- 007 / 2: Kafedra mudirlari ro'yxati va yillari faqat mavzu materialiga tayangan.
+- 007 / 3: Kafedra mudirlari ro'yxati va yillari faqat mavzu materialiga tayangan.
+- 007 / 4: Kasalliklarning tugatilishi haqidagi ma'lumot faqat mavzu materialiga tayangan.
+- 007 / 6: Tabiiy o'choqlilik ta'limotining Markaziy Osiyo kasalliklariga tatbiqi faqat mavzu materialiga tayangan.
+- 007 / 7: O'latga qarshi stansiyalar tizimining kelib chiqishi faqat mavzu materialiga tayangan.
+- 007 / 9: Bezgakka qarshi tadbirlar tavsifi faqat mavzu materialiga tayangan.
+- 007 / 10: PZR joriy etilgani haqidagi ma'lumot faqat mavzu materialiga tayangan.
+- 007 / 12: Xizmat boshlanishidagi ustuvor kasalliklar faqat mavzu materialiga tayangan.
+- 008 / 10: R0 ko'rsatkichi va emlash qamrovi chegarasi faqat mavzu materialiga tayangan.
+- 009 / 2: Gromashevskiy iqtibosining talqini rus qo'llanmasiga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 009 / 12: Rus qo'llanmasidagi nuqtai nazar faqat mavzu materialiga tayangan.
+- 010 / 3: Nozologiya bo'yicha talqin rus qo'llanmasiga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 010 / 5: Infeksion va noinfeksion kasalliklar xususiyatlari bo'yicha talqin mavzu materialiga tayangan.
+- 015 / 10: toshmali tifda kontaktlarni kuzatish muddati 25 kun - faqat mavzu materialiga (SSV 2012-yil 6-son buyrug'i matni) tayangan, tashqi manba bilan tasdiqlanmagan.
+- 015 / 11: virusli gepatit E bo'yicha 35 kunlik kuzatuv - faqat mavzu materialiga (SSV 2018-yil 542-son buyrug'i matni) tayangan, tashqi manba bilan tasdiqlanmagan.
+- 016 / 9: tug'ruqda yuqishni kontakt mexanizmiga kiritish - darslik muallifining talqini, tashqi manba bilan tasdiqlanmagan.
+- 017 / 8: kanali qaytalama tif tashuvchisi va tarqalishi - faqat mavzu materialida keltirilgan SSV 2015-yil 121-son buyrug'i (3-ilova) matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 017 / 9: Qrim-Kongo isitmasi o'choqlari joylashuvi - faqat mavzu materialida keltirilgan SSV 2015-yil 37-son buyrug'i (4-ilova) matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 017 / 10: leyshmaniozning rezervuari - faqat SSV 2015-yil 121-son buyrug'i (2-ilova) matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 017 / 11: Qrim-Kongo isitmasi epidemiologik mavsumi - faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 018 / 12: Hornick va boshq. (1970) qorin tifi bo'yicha ko'ngillilar kuzatuvi - faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 020 / 10: meningokokk infeksiyasi va koli-enteritlarda bir yoshgacha bolalarni alohida ajratish - faqat darslik matniga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 021 / 4: odatdagi daraja uchun barqaror oylardagi haftalik o'rtachadan foydalanish faqat mavzu materiali (darslik OCR) asosida, joriy hujjat bilan tasdiqlanmagan.
+- 021 / 5: epidemiologik chizma tuzilishi (1–7 kun, 4 hafta yig'indisi) faqat mavzu materialiga tayangan.
+- 022 / 10: bazis yil 100 foiz deb olinishi hamda 11-savoldagi yosh guruhlari (0–2, 3–6, 7–14, 15–19, 20+) va bir yoshgacha bolalarni ajratish tavsiyasi faqat mavzu materiali (darslik) asosida; joriy hujjat bilan tasdiqlanmagan.
+- 023 / 9: ma'lumot uzatish yo'nalishi va «teskari aloqa» tamoyili sobiq ittifoq davri rus tilidagi qo'llanmaga (OCR) tayangan, joriy O'zbekiston nizomi bilan tasdiqlanmagan.
+- 023 / 8: zoonozlar bo'yicha tamoyillar sobiq ittifoq davri qo'llanmasi (OCR) asosida, joriy hujjat bilan tasdiqlanmagan.
+- 024 / 1: Umirov va Qodirov o'quv qo'llanmasining nashriyoti va yili nusxada tekshirilmagan; fakt asosan darslikka tayanadi.
+- 024 / 11: Epidemiologiya bo'limi nizomi faqat mavzu materiali (kutubxona nusxasi) orqali ko'rilgan.
+- 025 / 10: buyruqning aniq bandlari skanerlangan nusxa (kirill va lotin aralash) asosida; yillik attestatsiya talabi hozirgi tahrir bilan solishtirilmagan.
+- 025 / 11: 92-son buyruq mazmuni faqat mavzu materiali (skanerlangan nusxa) orqali ko'rilgan.
+- 026 / 4: 14 mamlakat, 55 kasalxona tadqiqoti ma'lumoti darslikda keltirilgan, yangi JSST hisobotlari bilan solishtirilmagan.
+- 027 / 11: 2–72 soat va 28 kunlik kurs faqat 2008-yilgi protokolga tayangan, hozirgi milliy tavsiyalar bilan solishtirilmagan.
+- 027 / 12: 28 kunlik kurs faqat 2008-yilgi protokolga tayangan, hozirgi milliy tavsiyalar bilan solishtirilmagan.
+- 027 / 9: 324-son qaror matnida «keyingi tahririga qarang» belgisi bor, hozirgi tahriri tekshirilmagan.
+- 028 / 11: PSR chiqindisini avtoklavlash rejimi faqat mavzu materialidagi ko'rsatma nusxasiga tayangan (tasdiqlovchi organ ko'rsatilmagan).
+- 028 / 12: milliy yo'riqnoma nusxasi skanerlangan (OCR xatolari), aniq sana va raqami o'qilmaydi.
+- 029 / 9: 9-son buyruq nusxasi skanerlangan (OCR xatolari), sana va raqami to'liq o'qilmaydi; chastota hozirgi tahrir bilan solishtirilmagan.
+- 029 / 10: SanPiN № 0278-09 dagi chastota (yiliga kamida 2 marta) faqat mavzu materiali orqali ko'rilgan, qabul sanasi ko'rsatilmagan.
+- 030 / 10: 9-son buyruq nusxasi skanerlangan (OCR xatolari), sana va raqami to'liq o'qilmaydi; chastota hozirgi tahrir bilan solishtirilmagan.
+- 030 / 11: 15 kunlik muddat va nazorat tartibidagi tekshiruv qoidasi faqat mavzu materiali (OCR nusxa) asosida.
+- 030 / 12: nazorat tartibidagi tekshiruv qoidasi faqat mavzu materiali (OCR nusxa) asosida.
+- 031 / 11: SanPiN 0278-09 bo'yicha nazorat chastotasi (kutubxona nusxasida rasmiy qabul sanasi ko'rsatilmagan)
+- 032 / 4: azopiram/amidopirin va fenolftalein sinamalari faqat mavzu materialiga tayanadi
+- 032 / 5: fenolftalein sinamasi faqat mavzu materialiga tayanadi
+- 032 / 6: musbat sinamada butun partiyani qayta ishlash qoidasi faqat mavzu materialiga tayanadi
+- 033 / 9: neytrofil 10–20 bakteriyani fagotsitoz qilgach halok bo'lishi (Zornikov va Litusov o'quv qo'llanmasiga tayanadi, tashqi manba bilan tasdiqlanmagan)
+- 035 / 10: 3 oylik oraliq faqat kutubxonadagi SanQvaM № 0239-07/3 nusxasiga tayanadi (hujjat kuchini yo'qotgan qonunga havola qiladi)
+- 036 / 10: qamrov ko'rsatkichi faqat qidiruv parchasi bo'yicha tasdiqlangan
+- 036 / 11: baholash usullari ro'yxati — muallif xulosasi
+- 039 / 7: muzlatgich haroratini kuniga kamida ikki marta o'lchash faqat mavzu materialiga tayanadi
+- 041 / 1: kalendar hujjatining tasdiqlovchi organi, sanasi va raqami nusxada ko'rsatilmagan; muddatlar faqat mavzu materialiga tayangan.
+- 041 / 2: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+- 041 / 3: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+- 042 / 3: samaradorlik formulasi manbada formula shaklida berilmagan (muallif xulosasi).
+- 045 / 1: kalendar hujjatining tasdiqlovchi organi, sanasi va raqami nusxada ko'rsatilmagan; faqat mavzu materialiga tayangan.
+- 045 / 3: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+- 045 / 4: kalendar muddatlari faqat mavzu materiali (kalendar jadvali) asosida.
+- 045 / 6: 30 daqiqa kuzatuv talabi faqat mavzu materialida keltirilgan.
+- 048 / 11: xonadonda yakuniy dezinfeksiyani kim bajarishi faqat savol-javob (test) materialiga tayangan, tasdiqlanmagan.
+- 048 / 2: SanPiN № 0291-11 ning hozirgi kuchda ekani tekshirilmagan; 2025-yilgi SanQvaN bilan solishtirilmagan.
+- 048 / 8: xona maydoni me'yori SanPiN 0291-11 ga tayangan, uning kuchda ekani tekshirilmagan.
+- 048 / 9: xona maydoni me'yori SanPiN 0291-11 ga tayangan, uning kuchda ekani tekshirilmagan.
+- 049 / 10: 20 foizlik chegara va chivinlarga qarshi muddatlar faqat SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan (hujjat matni tekshirilmagan).
+- 049 / 11: chivinlarga qarshi tadbir oylari faqat SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan (hujjat matni tekshirilmagan).
+- 050 / 12: F.323/U shakli raqami faqat SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan, hujjat matni tekshirilmagan.
+- 050 / 4: 24 soat muddati SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan, hujjat matni tekshirilmagan.
+- 050 / 5: 95 % qamrov talabi SanQvaN 0090-25 ni keltirgan mavzu materialiga tayangan, hujjat matni tekshirilmagan.
+- 051 / 11: kimyoviy vositalarni III–IV xavf sinfidan tanlash talabi faqat mavzu materialiga tayangan.
+- 051 / 12: xlorli ohak 200 g/kg (1 soat) va gipoxlorid kalsiy 100 g/kg (2 soat) me'yorlari faqat mavzu materialiga tayangan.
+- 052 / 12: dala deratizatsiyasi yiliga 3 marta, 3–5 km radiusda o'tkazilishi faqat viloyat taqdimotiga (mavzu materialiga) tayangan.
+- 053 / 8: grippga qarshi emlashni kuz oylarida rejalashtirish materialdagi umumiy ko'rsatmaga tayangan, aniq oy ko'rsatilmagan.
+- 053 / 11: emlash sessiyasidan oldingi bosqichlar ro'yxati faqat mavzu materialidagi taqdimotga tayangan.
+- 054 / 12: Ma'muriy javobgarlik kodeksi 53-moddasi jarima miqdorlari faqat mavzu materialiga tayangan, kutubxona nusxasi eskirgan bo'lishi mumkin.
+- 055 / 8: tekshiruv dalolatnomalarini 10 yil saqlash muddati yig'majildlar nomenklaturasi loyihasiga tayangan, rasmiy tasdiqlangan versiya bilan solishtirilmagan.
+- 055 / 9: bo'lim ish rejasini 3 yil saqlash muddati yig'majildlar nomenklaturasi loyihasiga tayangan, rasmiy tasdiqlangan versiya bilan solishtirilmagan.
+- 056 / 9: MJTK 241-3-moddasidagi jarima miqdori (40–80 baravar) faqat mavzu materialiga tayangan, kutubxona nusxasi eskirgan bo'lishi mumkin.
+- 057 / 12: murojaat materiallarini ikki yil saqlash muddati xizmat nizomining skanerlangan nusxasiga tayangan, buyruq sanasi va raqami tasdiqlanmagan.
+- 059 / 11: rinovirus tashxisining asosan klinik qo'yilishi mavzu materialidagi muallif xulosasiga tayangan.
+- 059 / 12: antibiotiklarning virus infeksiyasida ko'rsatilmasligi mavzu materialida muallif xulosasi sifatida berilgan.
+- 060 / 3: fekal-oral yo'lni ham ko'rsatuvchi yuqish mexanizmlari ro'yxati mavzu materialidagi muallif xulosasiga tayangan.
+- 060 / 9: epidemiologik tahlilda konyunktivit, tonzillit va zotiljamning bir vaqtda ko'payishiga e'tibor berish faqat mavzu materialiga tayangan.
+- 060 / 10: xavf guruhlari ro'yxati mavzu materialidagi muallif xulosasiga tayangan.
+- 060 / 11: davolash bo'yicha xulosa mavzu materialidagi muallif xulosasiga tayangan.
+- 061 / 12: ikki dozali KPK emlashda qamrovni kamida 95% saqlash rejasi faqat mavzu materialida keltirilgan.
+- 063 / 7: 058/u shoshilinch xabarnomani 24 soat ichida yuborish muddati faqat mavzu materialida (buyruq ilovasidan) keltirilgan, matn tashqi manba bilan solishtirilmagan.
+- 063 / 8: yakuniy dezinfeksiyaning bir sutka muddati faqat mavzu materialida keltirilgan.
+- 063 / 9: ftiziatr va epidemiolog o'choqqa uch kun ichida borishi faqat mavzu materialida keltirilgan.
+- 065 / 4: Uxan 22 yanvarda karantinga yopilishi faqat ma'ruza materialiga tayangan, mustaqil manba bilan tasdiqlanmagan.
+- 065 / 5: Tailand (Bangkok) 13 yanvar holati faqat ma'ruza materialiga tayangan.
+- 068 / 10: Toshkent shahriga kirishni to'xtatish va "koronavirus asosan Toshkentda aniqlangani" asosi faqat mavzu materialidagi qaror matniga tayangan, 2025 yilgacha kiritilgan o'zgartirishlar bilan solishtirilmagan.
+- 069 / 10: 4 112 668 kishini birinchi bosqichda emlash rejasi faqat ma'ruza materialida keltirilgan, rasmiy statistika bilan tasdiqlanmagan.
+- 069 / 8: spirt, xlorgeksidin ta'sirida 2 daqiqada inaktivatsiya haqidagi ma'lumot faqat ma'ruza materialiga tayangan (eskirgan bo'lishi mumkin).
+- 070 / 1: vaksina turlari (inaktivatsiyalangan, vektorli, mRNK) haqidagi tavsif faqat ma'ruza materialiga tayangan.
+- 070 / 2: vektorli vaksinalar haqidagi tavsif faqat ma'ruza materialiga tayangan.
+- 070 / 3: mRNK vaksinalar haqidagi tavsif faqat ma'ruza materialiga tayangan.
+- 071 / 8: SanPiN bo'yicha ≥2 m masofa faqat mavzu materialida keltirilgan, matn tashqi manba bilan tekshirilmagan.
+- 071 / 9: Shifoxonadan chiqarish muddatlari (5/10 kun) faqat mavzu materialiga tayanadi.
+- 071 / 10: «COVID-19-ambulator» shtablari faoliyati faqat mavzu materialiga tayanadi.
+- 071 / 11: Kontaktdagilarni karantin tugagach emlash tartibi faqat mavzu materialiga tayanadi.
+- 076 / 11: «Kichik noxush hudud» ta'rifi (3–5 yil) faqat mavzu materialida keltirilgan yo'riqnoma bayoniga tayanadi.
+- 077 / 10: «gospital» shtammlar R-plazmid bilan mustahkamlangani faqat yo'riqnoma bayoniga (mavzu materialiga) tayanadi.
+- 077 / 12: Qishloq xo'jaligi hayvonlari hissasi odamlarnikidan yuqori ekani faqat mavzu materialida yo'riqnoma bayoni sifatida berilgan.
+- 078 / 5: 2–3-haftalarda eng ko'p ajralish ko'rsatkichlari faqat mavzu materialiga (yo'riqnoma bayoniga) tayanadi.
+- 078 / 7: Tor belgilangan doira xavfi haqidagi mulohaza faqat mavzu materialiga tayanadi.
+- 078 / 12: Hujjatlashtirishning maqsadi haqidagi fikr faqat mavzu materialiga tayanadi.
+- 079 / 11: Zonne/Flekssner chidamliligi va muddatlar faqat mavzu materialida yo'riqnoma bayoni sifatida berilgan, tashqi manba bilan tasdiqlanmagan.
+- 079 / 8: Shigella dysenteriae ekzotoksin ishlab chiqarishi bayoni mavzu materialidagi yo'riqnoma ma'lumotiga tayanadi.
+- 081 / 7: anti-HAV IgM ning 3–4 oy saqlanishi faqat mavzu materialiga (taqdimotga) tayangan, tashqi manba bilan tasdiqlanmagan.
+- 091 / 9: mavzu materialidagi 10–20 litr va 10^6–10^10 ko'rsatkichlari faqat darslikka tayangan.
+- 096 / 11: yuqtiruvchi doza (10^5–10^6 KOE/g) faqat mavzu materialiga tayangan (muallifsiz ma'ruza).
+- 099 / 2: B. mallei va B. pseudomallei morfologik farqi faqat mavzu materiali va talabalar taqdimotiga tayangan.
+- 099 / 4, 5: rezervuar tavsifi faqat mavzu materiali va ma'lumotnoma matniga tayangan.
+- 100 / 2, 3: chin chechak virusining barqarorligi va yuqish mexanizmi faqat mavzu materialiga (Saparov qo'llanmasi) tayangan.
+- 101 / 12: bemorni transportda yo'lovchilardan ajratish va karantin muddati (6 yoki 9 kun) faqat mavzu materialiga tayangan, manbalar o'rtasida farq bor.
+- 103 / 9: kanali qaytalama tifning O'zbekistondagi tarqalishi (80% Namangan va Farg'ona) faqat mavzu materialiga tayanadi; savol faqat vektor turini so'raydi.
+- 104 / 1: gelmintozlarning 90% ulushi O'zR SSV buyrug'i ilovasiga tayangan, joriy statistika bilan tekshirilmagan.
+- 105 / 5: bezgak tarqalishidagi A. maculipennis ulushi va turlar soni faqat darslik/qo'llanmaga tayangan.
+- 107 / 12: bezgak epidemiyasi uchun ikki shart faqat mavzu materialida (2009 yilgi qo'llanma) bayon etilgan.
+- 108 / 4: past haroratda rivojlanish haqidagi fikr qo'llanmaga tayanadi; mavzu materialidagi retsidiv va 3 yillik nazorat izohi (vivax retsidivlari 3 yilgacha) tasdiqlanmagan.
+- 109 / 7: faol aniqlash taktikasi migrantlar uchun mosligi haqidagi fikr muallif xulosasi; savol faqat qo'llanma va yo'riqnomadagi mazmunga tayanadi.
+- 110 / 9: O'zbekiston bo'yicha o'choq intensivligi chegaralari (30%, 15–29%) faqat 121-son buyruq ilovasiga tayangan.
+- 116 / 11: ultrabinafsha nurlari dozasi (≥40 mJ/sm²) faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.
+- 121 / 3: ochlik paytida kanada virusning ikki yilgacha saqlanishi darslikka tayanadi, qo'shimcha manba bilan tasdiqlanmadi.
+- 124 / 7: iskabtoparning uchish masofasi yo'riqnomadagi ma'lumot, tashqi manba bilan tasdiqlanmagan.
+- 127 / 10: O'zbekistonda yuqish yo'llari ulushi bo'yicha raqamlar faqat 2009-yil ma'lumotiga tayangan, so'nggi yillar uchun tasdiqlanmagan.
+- 127 / 3: LAV va HTLV-III ajratilishi bo'yicha ma'lumot mavzu materialidagi darslik bayoniga tayanadi.
+- 129 / 4: sentinel nazorat ko'rsatkichlari 2009–2011 yillarga oid taqdimot ma'lumoti, so'nggi yillar uchun tasdiqlanmagan.
+- 129 / 1: xavf guruhi ta'rifi mavzu materialining umumlashtirilgan bayoni, alohida rasmiy manba bilan tasdiqlanmagan.
+- 129 / 12: samaradorlik ko'rsatkichlari mavzu materialidagi umumiy yondashuv, rasmiy hujjat bilan tasdiqlanmagan.
+- 130 / 2: yuqish xavfining davrlar bo'yicha taqsimoti taqdimotga tayanadi, rasmiy manba bilan tasdiqlanmagan.
+- 130 / 3: suvsizlik davri 4 soatdan ortiq chegarasi mavzu materialiga tayanadi, tashqi manba bilan tasdiqlanmagan.
+- 130 / 7: kesarcha kesish samarasi (2 baravar) taqdimotga tayanadi, tashqi manba bilan tasdiqlanmagan.
+- 130 / 4: sil koinfeksiyasida xavf 2,5 baravar ortishi mavzu materialiga tayanadi, tashqi manba bilan tasdiqlanmagan.
+- 131 / 8: uch komponentli sxemaning har bir klinik holatga mosligi ko'chirmada to'liq ajratilmagan, doza faqat protokol ko'chirmasiga tayanadi.
+- 132 / 3: nevirapin sxemasi faqat protokol ko'chirmasiga tayanadi, jadvalning klinik holatlarga mosligi to'liq ajratilmagan.
+- 144 / 9: tumanlararo laboratoriyalarning 2018-yil 1-iyuldan markazlar tarkibiga kiritilishi faqat mavzu materialiga tayanadi.
+- 144 / 10: 88-son buyruqning nomi faqat havolalar orqali ma'lum, matni topilmagan.
+- 144 / 11: 336-son buyruq ilovalari soni faqat mavzu materialiga tayanadi.
+- 145 / 7: fermentlar vazifasi o'quv qo'llanmaga tayanadi, uning muallifi va yili aniq emas.
+- 145 / 8: dendrit hujayralar haqidagi raqamlar faqat o'quv qo'llanmaga tayanadi.
+- 145 / 9: monotsitlarning «Troyan oti» vazifasi faqat o'quv qo'llanmaga tayanadi.
+- 146 / 6: modda raqami faqat mavzu materialiga tayanadi.

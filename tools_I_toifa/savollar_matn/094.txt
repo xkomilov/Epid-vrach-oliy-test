@@ -1,0 +1,97 @@
+=== 094
+? JSST ga ko'ra, Qrim–Kongo gemorragik isitmasining erta bosqichida qaysi laboratoriya usuli qo'llanadi?
++ PZR yordamida virus RNKsini aniqlash
+- bakteriologik ekma orqali qo'zg'atuvchi koloniyasini o'stirish
+- Mantu sinamasi bilan teri ichi sezuvchanlikni baholash
+- Vidal reaksiyasida zardobdagi agglutininlar titrini aniqlash
+- qon surtmasida bakteriyalarni Gram usulida bo'yash
+! Kasallikning boshida antitelalar hali hosil bo'lmaydi, shu sababli virus genomini topish ma'qul.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Qrim–Kongo gemorragik isitmasining serologik tashxisida IFA usuli bilan nima aniqlanadi?
++ virusga qarshi IgM va IgG antitelolar
+- bemor qonidagi vibrionlarga qarshi agglutininlar
+- tuberkulin sinamasiga javob beruvchi T-limfotsitlar
+- toksinni neytrallovchi antitoksik zardob miqdori
+- qon zardobidagi bilirubin va transaminazalar darajasi
+! Antitelalar kasallikning keyingi bosqichlarida paydo bo'lib, infeksiya yoki o'tkazilgan kasallikni tasdiqlaydi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Tabiiy o'choqlilik ta'limotining asoschisi kim?
++ Y.N. Pavlovskiy
+- L. Pasteur
+- R. Koch
+- D.I. Ivanovskiy
+- E. Jenner
+! Ta'limotga ko'ra, qo'zg'atuvchi tabiatda odam ishtirokisiz hayvonlar va vektorlar o'rtasida aylanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Hayvonlar Qrim–Kongo gemorragik isitmasi virusi bilan zararlanganda qanday holat kuzatiladi?
++ kasallanmaydi, lekin qisqa muddatli viremiya bo'lib, kanalarni zararlantiradi
+- og'ir kasallanib, ko'pchiligi halok bo'ladi va kanalarga virus bermaydi
+- umrbod viremiya saqlanadi va virus sut orqali uzatiladi
+- virus faqat teri ostida to'planadi, qonda aylanmaydi
+- har doim qusish va ich ketish kuzatilib, ajralmalar xavfli bo'ladi
+! Viremiya davrida qon so'rgan kanalar hayvondan virusni oladi, shu orqali zanjir davom etadi.
+@ O'zR SSV buyrug'i, 16.05.2016, 226-son
+? Qrim–Kongo gemorragik isitmasining qaysi epidemiologik xususiyati tibbiy xodimlar uchun alohida xavf tug'diradi?
++ bemor qoni va ajralmalari orqali nozokomial yuqish
+- havo-chang orqali bir necha kilometrga tarqalish
+- ovqat tayyorlashda oziq-ovqat mahsulotlarini ifloslantirish
+- oddiy suhbat vaqtida so'lak tomchilari orqali yuqish
+- kasalxona suv ta'minoti tizimida virusning ko'payishi
+! Qon va biologik suyuqliklar bilan kontakt himoyasiz xodimlarni zararlashi mumkin.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL nazoratida "Yagona salomatlik" (One Health) yondashuvi nimani nazarda tutadi?
++ odam, hayvon va atrof-muhit salomatligini birgalikda ko'rib chiqishni
+- faqat tibbiyot muassasalarida bemorlarni davolash sifatini oshirishni
+- hayvonlarni sog'liqni saqlash tizimidan butunlay ajratib olishni
+- aholini ommaviy emlash bilan to'liq qamrab olishni
+- har bir hududda alohida kasalxona ajratishni
+! Kasallik odam, chorva va kanalar orasida aylangani uchun sektorlararo hamkorlik zarur.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL bemori bilan aloqada bo'lgan tibbiy xodimlar qancha muddat kuzatuvda bo'ladi?
++ maksimal inkubatsion davr mobaynida
+- faqat bemor gospitalizatsiya qilingan kunning o'zida
+- laboratoriya natijasi chiqquncha bo'lgan vaqt davomida
+- bir yil davomida har chorakda
+- teri toshmasi paydo bo'lguncha
+! Kuzatuv muddati yashirin davrning eng uzun chegarasidan kelib chiqadi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? 226-son buyruqda KKGI bilan og'rib tuzalgan fuqarolar qonining qaysi qismi davolashda qo'llanishi nazarda tutilgan?
++ qon plazmasi
+- eritrotsitar massa
+- trombotsitar konsentrat
+- to'liq konservalangan qon
+- sut va kolostrum fraksiyasi
+! Tuzalganlar plazmasida virusga qarshi antitelalar bo'ladi.
+@ O'zR SSV buyrug'i, 16.05.2016, 226-son
+? 226-son buyruqqa ko'ra, tuzalgan fuqarolardan olingan qonda IgG antitelolarni aniqlash uchun namunalar qaysi muassasaga yuboriladi?
++ Virusologiya ITIga
+- Respublika onkologiya markaziga
+- Sil va o'pka kasalliklari ITIga
+- Gematologiya va qon quyish institutiga
+- Respublika allergologiya markaziga
+! Antitelolar optik zichligini aniqlash virusologik tadqiqot imkoniyatlarini talab qiladi.
+@ O'zR SSV buyrug'i, 16.05.2016, 226-son
+? Qrim–Kongo gemorragik isitmasining laboratoriya diagnostikasini tashkil etish bo'yicha MU № 012-3.319 metodik tavsiyanomasini kimlar ishlab chiqqan?
++ Virusologiya ITI va Respublika DSENM
+- Respublika onkologiya markazi va Tibbiyot akademiyasi
+- Sil va o'pka kasalliklari ITI hamda Davlat sanitariya markazi
+- Gematologiya ITI hamda Respublika veterinariya xizmati
+- Kardiologiya markazi va o'quv-metodik bo'lim
+! Hujjat laboratoriya tashxisini yagona tartibga solish uchun profilli muassasalar tomonidan tayyorlangan.
+@ Metodik tavsiyanoma MU № 012-3.319
+? SanQvaN № 0090-25 ga ko'ra, yuqori darajada yuqumli virusli gemorragik isitmalar o'choqlarida qaysi dezinfeksiya majburiy?
++ o'choqli dezinfeksiya
+- rejali profilaktik dezinfeksiya, o'choq e'lon qilinmasdan
+- kamerali zararsizlantirishning o'zi, xonani ishlamasdan
+- dezinfeksiya talab qilinmaydi, bemor ajratilishi yetarli
+- xonani havo bilan shamollatish, yuzalarga ishlov bermasdan
+! O'choq ichidagi buyumlar va yuzalar virus manbai bo'lib qolishi mumkin.
+@ SanQvaN № 0090-25
+? JSST ga ko'ra, Qrim–Kongo gemorragik isitmasini asosan qaysi kanalar tarqatadi?
++ Hyalomma avlodiga mansub kanalar
+- Ixodes avlodiga mansub qora oyoqli kanalar
+- Sarcoptes avlodiga mansub qo'tir kanalari
+- Dermacentor avlodidagi o'rmon-dasht kanalari
+- Demodex avlodiga mansub teri kanalari
+! Kasallik kanalar chaqishi orqali yuqadi va Hyalomma avlodi asosiy vektor hisoblanadi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)

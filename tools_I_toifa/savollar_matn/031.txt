@@ -1,0 +1,98 @@
+=== 031
+? Sterilizatsiyaning dezinfeksiyadan tub farqi nimada?
++ Sporalar ham to'liq yo'q qilinib, mutlaq mikrobsizlikka erishiladi
+- Faqat vegetativ patogen shakllar yo'qotilib, sporalar jarayondan keyin ham saqlanib qolishi mumkin
+- Asbob yuzasi mexanik tozalanib, mikroorganizmlar soni sezilarli kamaytiriladi
+- Mikroblar soni xavfsiz darajagacha tushiriladi, lekin ularning toksinlari saqlanadi
+- Havo va yuzalardagi qo'zg'atuvchilar ultrabinafsha nur bilan kamaytiriladi
+! Dezinfeksiya asosan vegetativ shakllarni yo'qotadi, sterilizatsiya esa eng chidamli shakllarni ham butunlay yo'q qilishni maqsad qiladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Bug' sterilizatsiyasining biologik nazoratida qaysi test-mikroorganizm sporalari odatda qo'llaniladi?
++ Geobacillus stearothermophilus
+- Staphylococcus aureus vegetativ hujayralari
+- Escherichia coli vegetativ kulturasi
+- Pseudomonas aeruginosa sporalari
+- Candida albicans xlamidosporalari
+! Bu sporalar issiqlikka juda chidamli, shu sababli ular halok bo'lsa, boshqa mikroorganizmlar ham yo'q qilingan hisoblanadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Sterilizatsiya samaradorligini tasdiqlovchi nazorat turlari qaysilar?
++ Fizik, kimyoviy va bakteriologik nazorat
+- Organoleptik, gigienik va statistik nazorat
+- Fizik, serologik va gistologik nazorat
+- Kimyoviy, immunologik va molekulyar-genetik nazorat
+- Mexanik, vizual va hujjatli nazorat
+! Parametrlar o'lchanadi, indikatorlar rang o'zgartiradi va test-sporalarning tirik qolishi tekshiriladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); Mavzu materiali (031.docx)
+? Gamma-nurlar bilan sterilizatsiya qilish asosan qaysi mahsulotlar uchun qo'llaniladi?
++ Sanoat sharoitida bir marta ishlatiladigan shpritslar, kateterlar va qo'lqoplar
+- Jarrohlik bo'limida ko'p marta ishlatiladigan metall qaychi, qisqich va igna ushlagichlari
+- Operatsiya zalida ishlatiladigan matoli sochiqlar va xalatlar
+- Laboratoriyadagi shisha probirkalar va pipetkalar
+- Bo'limda qayta ishlatiladigan optik tolali endoskoplar va laparoskoplar
+! Nurli usul sanoat uskunalarini talab qiladi va bir martalik tibbiy mahsulotlarni ishlab chiqarishda qo'llaniladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Issiqlikka chidamsiz endoskop va optik asboblar uchun qaysi sterilizatsiya usuli mos keladi?
++ Etilen oksidi yoki vodorod peroksid plazmasi bilan past haroratli gazli usul
+- Quruq issiq havo shkafida yuqori haroratda ushlab turish usuli
+- Avtoklavda yuqori bosimli to'yingan bug' bilan ishlov berish usuli
+- Qaynatish usuli, bunda asboblar distillangan suvda uzoq vaqt qaynatiladi
+- Gamma-nurlar bilan nurlantirish usuli, bunda asboblar maxsus kamerada uzoq ekspozitsiyada qayta ishlanadi
+! Termosezgir materiallar yuqori harorat va namlikka chidamaydi, shu sababli past haroratli usullar tanlanadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Sterilizatsiyadan oldin asboblarni tozalash nima uchun shart?
++ Qon va oqsil qoldig'i mikroorganizmlarni himoya qilib, sterilizatsiya samaradorligini keskin pasaytiradi
+- Asboblarning metall sirti silliqlanib, sterilizator ichidagi bosim oshishiga yordam beradi
+- Organik qoldiq bug'ni to'liq yutib, sterilizator ichidagi haroratni me'yordan ancha ko'tarib yuboradi
+- Sporalar tozalash jarayonida to'liq yo'q qilingani uchun keyingi sterilizatsiya zaruriyati qolmaydi
+- Tozalash asboblarni bir marta ishlatiladigan holga keltirib, ularni qayta sterilizatsiyalash zaruratini yo'qotadi
+! Organik qatlam ostida qolgan mikroblarga sterilizatsiya vositasi yetib bormaydi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Yetarli sterilizatsiya qilinmagan asboblar orqali qaysi infeksiyalar yuqishi mumkin?
++ Virusli gepatit B, C va OIV
+- Qorin tifi, dizenteriya va virusli gepatit A
+- Gripp, qizamiq va suvchechak
+- Bezgak, sariq isitma va ensefalit
+- Brutsellyoz, leptospiroz va tulyaremiya
+! Bu qo'zg'atuvchilar qon bilan yuqadi, ifloslangan in'yeksiya va jarrohlik asboblari esa qon bilan kontaktda bo'ladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Quyidagi qo'zg'atuvchilardan qaysi biri sporalar hosil qilgani uchun sterilizatsiyaning muqobili bo'lmagan asoratlarni keltirib chiqarishi mumkin?
++ Qoqshol qo'zg'atuvchisi
+- Difteriya qo'zg'atuvchisi
+- Qizamiq virusi
+- Gripp virusi
+- Dizenteriya qo'zg'atuvchisi
+! Qoqshol qo'zg'atuvchisi spora hosil qiladi, difteriya tayoqchasi va viruslar esa spora hosil qilmaydi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); Mavzu materiali (031.docx)
+? Sterilizatsiya markazlarini loyihalash, qurish va ekspluatatsiya qilish qoidalarini qaysi sanitariya hujjati belgilaydi?
++ SanQvaM № 0365-19
+- SanQvaM № 0317-15
+- SanQvaM № 0342-17
+- SanQvaM № 0239-07/3
+- SanPiN № 0278-09
+! Sterilizatsiya markazlarining joylashuvi, zonalarga bo'linishi va ishlashi alohida sanitariya hujjati bilan tartibga solingan.
+@ SanQvaM № 0365-19
+? Quruq issiq havo (quruq-havo shkafi) usuli qaysi buyumlar uchun mos keladi?
++ Issiqlikka chidamli metall va shisha buyumlar
+- Rezina va plastmassadan yasalgan naychalar va drenajlar
+- Optik tolali endoskoplar va boshqa optik asboblar
+- Paxtali bint, doka va boshqa bog'lov materiallari
+- Bir marta ishlatiladigan plastmassa shpritslar va kateterlar
+! Bu usul yuqori haroratga asoslangan, shuning uchun termosezgir materiallar buzilishi mumkin.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Sanitariya-epidemiologiya xizmati xodimlari sterillik nazoratini qanday chastotada o'tkazadi?
++ Yiliga kamida ikki marta
+- Oyiga kamida bir marta
+- Har haftada kamida bir marta
+- Yiliga kamida bir marta
+- Har chorakda kamida bir marta
+! Muassasa laboratoriyasi nazoratni ancha tez-tez, sanitariya xizmati esa yiliga ikki marta o'tkazadi.
+@ Mavzu materiali (031.docx); SanPiN № 0278-09
+? Tibbiy asboblarni qayta ishlashda sterilizatsiyadan oldingi qaysi bosqich dezinfeksiyadan keyin keladi?
++ Qon, oqsil va organik qoldiqlarni olib tashlaydigan tozalash
+- Asboblarni qadoqlash, bunda ular steril qadoqqa joylanadi
+- Biologik indikator bilan yakuniy tekshiruv o'tkazish
+- Asboblarni qayta ishlatish uchun bevosita bemorga uzatish
+- Bakteriologik nazoratni o'tkazish va natijani jurnalga yozib qo'yish bosqichi
+! Tozalashdan keyin quritish, nazorat va qadoqlash o'tkaziladi, sterilizatsiya esa eng oxirgi bosqichdir.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+#U 031 / 11: SanPiN 0278-09 bo'yicha nazorat chastotasi (kutubxona nusxasida rasmiy qabul sanasi ko'rsatilmagan)

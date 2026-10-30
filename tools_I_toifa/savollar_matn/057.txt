@@ -1,0 +1,98 @@
+=== 057
+? Murojaatlar to'g'risidagi qonunga ko'ra murojaat turlari qaysilar?
++ ariza, taklif va shikoyat
+- ariza, bayonnoma va dalolatnoma
+- taklif, ko'rsatma va taqdimnoma
+- shikoyat, buyruq va qaror
+- ariza, ma'lumotnoma va xabarnoma
+! Qonun murojaatlarni mazmuniga qarab uch turga ajratadi: huquqni amalga oshirishda yordam so'rovi, takomillashtirish bo'yicha tavsiya va buzilgan huquqni tiklash talabi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Qonunga ko'ra shikoyat qanday murojaat hisoblanadi?
++ buzilgan huquq va qonuniy manfaatlarni tiklash talabini o'z ichiga olgan murojaat
+- huquqlarni amalga oshirishda amaliy yordam so'rab beriladigan murojaat
+- davlat organi faoliyatini yaxshilashga doir tavsiyalar bayon etilgan murojaat
+- muallifi ko'rsatilmagan va imzosiz yuborilgan murojaat
+- avval ko'rilgan murojaat mazmunan takrorlangan murojaat
+! Shikoyatning o'ziga xosligi huquqning allaqachon buzilganligi va uning tiklanishini talab qilishdadir.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Qonunga ko'ra murojaat qanday shakllarda bo'lishi mumkin?
++ og'zaki, yozma yoki elektron shaklda, shakli va turidan qat'i nazar bir xil ahamiyat bilan
+- yozma shaklda, imzo va muhr bilan tasdiqlangan holda, boshqa shakllar qabul qilinmaydi
+- og'zaki va elektron shaklda, ammo yozma murojaatlarga alohida ustunlik berilgan holda
+- elektron shaklda, rasmiy veb-sayt orqali yuborilgan holda, boshqa shakllar qabul qilinmaydi
+- pochta orqali yuborilgan yozma shaklda, konvert bilan, boshqa shakllar qabul qilinmaydi
+! Qonun shakllarni teng qiymatli deb hisoblaydi, shuning uchun og'zaki yoki elektron murojaat ham ro'yxatga olinadi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Anonim murojaatlarga nisbatan qanday tartib qo'llaniladi?
++ ular ko'rib chiqilmaydi, ko'rmay qoldirilganda xulosa tuziladi va rahbar tasdiqlaydi
+- ular har doim ustuvor tartibda, boshqa murojaatlardan oldin va tezkor ko'rib chiqiladi
+- ular muallifi aniqlangunga qadar ro'yxatga olinmaydi va hech qayerda saqlanmaydi
+- ular ariza sifatida qabul qilinib, 15 kun ichida javob beriladi
+- ular avtomatik ravishda tekshiruv o'tkazishga asos bo'ladi
+! Murojaat egasi noma'lum bo'lgani uchun uni ko'rib chiqish mumkin emas, ammo qaror asoslantirilgan xulosa bilan rasmiylashtiriladi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Murojaat qachon ro'yxatga olinadi?
++ kelgan kunning o'zida, ish vaqti tugagandan keyin kelsa keyingi ish kunida
+- kelgan kundan keyingi uchinchi ish kunida, navbat bilan, rahbar ko'rigidan so'ng
+- tekshiruv tugagandan so'ng, natija va javob xati bilan birga
+- har oyning oxirida, barcha murojaatlar bir vaqtda, jamlanma ro'yxat bilan
+- rahbarning ruxsati bilan, uning xohishiga qarab, rad etish imkoniyati bilan
+! Qonun ro'yxatga olishni kechiktirishni ham, rad etishni ham nazarda tutmaydi; muddat hisobi shu sanadan boshlanadi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Xizmat nizomiga ko'ra xizmat vakolatiga kirmaydigan murojaat qanday yuboriladi?
++ besh kundan kechiktirmay tegishli organga yuboriladi yoki asoslab qaytariladi
+- bir oy ichida, murojaat egasining roziligisiz va xabarisiz, kutib turilgach
+- o'n besh kundan keyin, murojaat egasi boshqa organga o'zi murojaat qilishi haqida ogohlantirilib
+- hech qayerga yuborilmaydi va murojaat egasiga xabar berilmay arxivga topshiriladi
+- shikoyat qilinayotgan organning o'ziga ko'rib chiqish uchun, besh kun ichida jo'natiladi
+! Vakolatsiz murojaat qisqa muddatda kerakli organga yo'naltiriladi yoki sababi tushuntirilib qaytariladi.
+@ O'zR SEO va JS xizmati nizomi (murojaatlar bilan ishlash tartibi)
+? Ariza va shikoyat masalani mazmunan hal etishi shart organga kelgan kundan boshlab odatda necha kun ichida ko'rib chiqiladi?
++ 15 kun ichida
+- 3 kun ichida
+- 7 kun ichida
+- 45 kun ichida
+- 60 kun ichida
+! Qo'shimcha o'rganish, tekshirish yoki hujjat so'rash zarur bo'lsa, muddat bir oygacha uzaytiriladi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Taklif qancha muddatgacha ko'rib chiqiladi?
++ bir oygacha muddatda
+- uch kungacha muddatda
+- besh kungacha muddatda
+- ikki oygacha muddatda
+- bir yilgacha muddatda
+! Taklifda buzilgan huquq bo'lmagani uchun muddat shikoyatdan uzoqroq belgilangan, qo'shimcha o'rganish bo'lsa 10 kun ichida yozma xabar beriladi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Bo'ysunuv tartibida yuqori turuvchi organga ariza yoki shikoyat huquq buzilgani ma'lum bo'lgan paytdan boshlab ko'pi bilan qancha muddatda beriladi?
++ bir yil ichida
+- uch kun ichida
+- bir oy ichida
+- uch oy ichida
+- besh yil ichida
+! Uzrli sabab bilan o'tkazib yuborilgan muddat ko'rib chiquvchi organ tomonidan tiklanishi mumkin.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Quyidagi hollardan qaysi birida murojaatni ko'rib chiqish tugatiladi?
++ murojaat qiluvchi murojaatini chaqirib olsa yoki tugatishni so'rasa
+- murojaat qiluvchi yuqori organga qo'shimcha dalillar va hujjatlar taqdim etsa
+- murojaat yuzasidan tekshiruv materiallari hali to'liq bo'lmasa va javob berilmagan bo'lsa
+- murojaat yuqumli kasallik o'chog'i haqida birinchi signal bo'lib, tekshiruv talab etilsa
+- takroriy murojaatda yangi dalil yoki yangidan ochilgan holat keltirilgan bo'lsa
+! Murojaat egasi o'zi talabdan voz kechsa, ko'rib chiqishni davom ettirishga asos qolmaydi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Murojaatlarni ko'rib chiqish uchun nimani qilish taqiqlanadi?
++ ularni asossiz boshqa organlarga o'tkazish yoki shikoyat qilinayotgan organga yuborish
+- ularni ro'yxatga olish jurnaliga yozib borish va hisobga olish kartochkasini to'ldirish
+- ularning ijrosi ustidan monitoring va nazoratni doimiy amalga oshirish
+- javobni murojaat tilida yozish va dalillarni qonun normalariga havola bilan keltirish
+- elektron murojaatlarni qog'ozga chop etib, birinchi sahifaga ro'yxatga olish shtampini qo'yish
+! Shikoyatni uning ustidan shikoyat qilinayotgan organga yuborish xolisona ko'rib chiqishga to'sqinlik qiladi.
+@ O'zR "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (2017-yilgi tahrir)
+? Xizmat nizomiga ko'ra murojaat materiallari tarkibiy bo'limda qancha vaqt saqlanadi, so'ng nima qilinadi?
++ ikki yilgacha saqlanadi, so'ng idoraviy arxivga topshiriladi
+- bir oygacha saqlanadi, so'ng yo'q qilinadi
+- besh yilgacha saqlanadi, so'ng muallifga qaytariladi
+- doimiy saqlanadi va hech qachon arxivga topshirilmaydi
+- olti oygacha saqlanadi, so'ng ommaviy axborot vositalariga beriladi
+! Nizom murojaat hujjatlarini avval bo'limda, keyin arxivda saqlash tartibini belgilaydi.
+@ Mavzu materiali (057.docx)
+#U 057 / 12: murojaat materiallarini ikki yil saqlash muddati xizmat nizomining skanerlangan nusxasiga tayangan, buyruq sanasi va raqami tasdiqlanmagan.

@@ -1,0 +1,102 @@
+=== 060
+? Adenovirusli infeksiya qanday qo'zg'atuvchi chaqiradigan va qaysi shilliq qavatlarni zararlaydigan kasallik?
++ DNK-saqlovchi adenoviruslar; nafas yo'llari, konyunktiva va ichak shilliq qavatini zararlaydi
+- RNK-saqlovchi ortomiksoviruslar; o'pka to'qimasi, plevra va yurak mushagini zararlaydi
+- spora hosil qiluvchi bakteriyalar; teri, yumshoq to'qimalar va suyak to'qimasini zararlaydi
+- sodda hayvonlar; jigar, taloq va qizil ilik to'qimasini zararlaydi
+- RNK-saqlovchi pikornaviruslar; markaziy asab tizimi va skelet mushaklarini zararlaydi
+! Adenoviruslar DNK tutadi va ko'p to'qimalarga tropizmga ega bo'lgani uchun nafas, ko'z va ichak shikastlanishlari uchraydi.
+@ Adenovirus: Epidemiology, Global Spread of Novel Serotypes, and Advances in Treatment and Prevention. PMC7171713
+? Darslikka ko'ra adenoviruslarning taxminan nechta antigen varianti topilgan?
++ 30 ga yaqin
+- 3 ta
+- 8 ta
+- 300 ga yaqin
+- 3000 ga yaqin
+! Darslikda adenoviruslar ko'p serotipli ekani va hammasi ham odamda kasallik chaqirmasligi qayd etilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6.5-bo'lim
+? Adenovirus infeksiyasi qaysi yo'llar bilan yuqadi?
++ havo-tomchi, kontakt va fekal-oral yo'llar bilan
+- transmissiv yo'l bilan, birinchi navbatda chivin chaqishi orqali
+- vertikal yo'l bilan, birinchi navbatda onadan bolaga homiladorlik davrida
+- parenteral yo'l bilan, birinchi navbatda qon quyish orqali
+- jinsiy yo'l bilan, birinchi navbatda himoyalanmagan aloqada
+! Virus nafas yo'llari ajralmalarida, qo'llarda va umumiy buyumlarda bo'lgani uchun bir necha yo'l bilan tarqaladi.
+@ Mavzu materiali (060.docx)
+? Qaysi adenovirus serotiplari harbiy tayyorgarlikdagi yosh kattalarda isitmali respirator kasallik avj olishini chaqirgan?
++ 4 va 7 serotiplar
+- 1 va 2 serotiplar
+- 3 va 5 serotiplar
+- 11 va 14 serotiplar
+- 40 va 41 serotiplar
+! Bu ikki serotip zich jamoalarda, ayniqsa kazarmalarda, tez tarqalishi bilan ajralib turgan.
+@ CDC. MMWR 2001; 50(26): adenovirus serotypes 4 va 7 harbiy tayyorgarlikdagi yoshlar orasida
+? Qidiruv parchasiga ko'ra 1950–1960-yillarda zotiljam sababli kasalxonaga yotqizilgan harbiy chaqiriluvchilarning taxminan qancha qismida adenovirus sababchi bo'lgan?
++ taxminan 90 foizida
+- taxminan 9 foizida
+- taxminan 25 foizida
+- taxminan 40 foizida
+- taxminan 60 foizida
+! Bu holat zich va yopiq jamoalar alohida epidemiologik nazorat talab qilishini ko'rsatadi.
+@ CDC. MMWR 2001; 50(26): adenovirus serotypes 4 va 7 harbiy tayyorgarlikdagi yoshlar orasida
+? Harbiy xizmatchilar uchun 4 va 7 tipli adenovirusga qarshi qanday vaksina AQSH da qo'llanadi?
++ og'iz orqali yuboriladigan tirik susaytirilgan vaksina
+- teri ostiga yuboriladigan o'ldirilgan butun virionli vaksina
+- burun orqali purkaladigan rekombinant oqsil vaksinasi
+- mushak ichiga yuboriladigan anatoksin vaksinasi
+- teri ichiga yuboriladigan BCG turidagi vaksina
+! Bunday vaksina harbiy kontingentlarda avj olishlarning oldini olishda muhim ahamiyatga ega.
+@ CDC. MMWR 2001; 50(26); MSMR, 2025: Vaccine-Preventable Outbreak of Acute Respiratory Illness and Pneumonia Associated with Adenovirus
+? Adenoviruslarning ayrim turlari ko'z shikastlanishida qanday klinik shakl chaqiradi?
++ konyunktivit
+- keratomalyatsiya va uning natijasida ko'rlik
+- katarakta
+- glaukoma
+- retinoblastoma
+! Adenoviruslar konyunktivani zararlab, ajralmalar va qo'llar orqali tarqaluvchi ko'z yallig'lanishini chaqiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6.5-bo'lim
+? Adenovirus infeksiyasi qo'zg'atuvchisini laboratoriyada aniqlash uchun qaysi usullar qo'llaniladi?
++ nafas yo'llari va konyunktiva ajralmasidan PZR, immunoflyuoressensiya va viruslarni ajratish
+- siydik cho'kmasini mikroskopiya qilish va Gram usulida bo'yash, hamda ekish
+- najasni gelmint tuxumlari bo'yicha Kato–Katz usulida va oddiy mikroskopiyada tekshirish
+- teri ostiga allergen yuborib, kechikkan reaksiyani 48–72 soatdan keyin o'lchash
+- qonni malyariya plazmodiylari uchun qalin tomchi va yupqa surtma usulida ko'rish
+! Virusni aniqlash uchun ajralmada nuklein kislota yoki antigenni topish va viruslarni ajratish kerak; serologik usul retrospektiv tashxis uchun qo'llanadi.
+@ Adenovirus: Epidemiology, Global Spread of Novel Serotypes, and Advances in Treatment and Prevention. PMC7171713
+? Epidemiologik tahlilda qaysi holatlarning bir vaqtda ko'payishi adenovirus avj olishiga ishora qilishi mumkin?
++ konyunktivit, tonzillit va zotiljam
+- gepatit, ich terlama va dizenteriya
+- qoqshol, quturish va kuydirgi
+- bezgak, leyshmanioz va pedikulyoz
+- qizilcha, ko'k yo'tal va qizamiq
+! Bu uch klinik shakl adenovirus keltirib chiqaradigan nafas yo'li va ko'z shikastlanishlariga mos keladi.
+@ Mavzu materiali (060.docx)
+? Adenovirus infeksiyasi uchun qaysi jamoalar xavf guruhi sifatida ko'rsatilgan?
++ bolalar jamoalari, kazarma va yotoqxonalardagi yoshlar, immuniteti susayganlar
+- yolg'iz yashovchi sog'lom kattalar va ochiq havoda ishlovchi chorvadorlar, bog'bonlar
+- tog'li hududlarda yashovchi aholi, cho'ponlar va yaylov ishchilari
+- tropik hududlarga sayohat qilmagan va to'liq emlangan sog'lom kattalar
+- yuqori malakali jarrohlar, anesteziologlar va operatsiya xonasi hamshiralari
+! Zichlik, yaqin muloqot va charchoq virusning tez tarqalishiga sharoit yaratadi.
+@ Mavzu materiali (060.docx)
+? Adenovirus infeksiyasini davolash haqida qanday xulosa keltirilgan?
++ aniq antiviral davo bo'yicha yagona standart yo'q, simptomatik davo qo'llanadi
+- yagona standart bo'lib, har bir bemorga antibiotik kursi buyuriladi
+- jarrohlik usuli bilan davolanadi, dori vositalari umuman qo'llanmaydi
+- vitamin va qo'shimchalar yetarli, simptomatik davo va kuzatuv kerak emas
+- maxsus zardob bilan davolash standart tartib hisoblanadi
+! Davo asosan simptomatik va asoratlarni davolashga qaratilgan.
+@ Mavzu materiali (060.docx)
+? Adenovirusning ubikvitar turlari haqida darslikda nima deyilgan?
++ ular deyarli hamma joyda tarqalgan, hatto qisqa muloqot ham kasallik chaqirishi mumkin
+- ular ayrim hududlarda uchraydi, uzoq muddatli yaqin muloqotsiz kasallik chaqirmaydi
+- ular hayvonlarda parazitlik qiladi va odamda umuman kasallik chaqirmaydi
+- ular tropik iqlimda tarqalgan, mo'tadil iqlimda mutlaqo uchramaydi
+- ular kattalarda uchraydi va bolalar bu turlarga moyil emas, deb ta'kidlanadi
+! Ubikvitar turlar keng tarqalgani uchun odamlar ular bilan tez-tez uchrashadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.6.5-bo'lim
+#D 060 / 2: darslikda adenoviruslar ~30 antigen variantli deb berilgan, zamonaviy manbalarda odam adenoviruslarining serotiplari soni bundan ancha ko'p.
+#U 060 / 3: fekal-oral yo'lni ham ko'rsatuvchi yuqish mexanizmlari ro'yxati mavzu materialidagi muallif xulosasiga tayangan.
+#U 060 / 9: epidemiologik tahlilda konyunktivit, tonzillit va zotiljamning bir vaqtda ko'payishiga e'tibor berish faqat mavzu materialiga tayangan.
+#U 060 / 10: xavf guruhlari ro'yxati mavzu materialidagi muallif xulosasiga tayangan.
+#U 060 / 11: davolash bo'yicha xulosa mavzu materialidagi muallif xulosasiga tayangan.

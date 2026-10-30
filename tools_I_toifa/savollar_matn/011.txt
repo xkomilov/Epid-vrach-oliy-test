@@ -1,0 +1,97 @@
+=== 011
+? Epidemiologik tekshiruv usullarida tadqiqotning asosiy obyekti nima hisoblanadi?
++ Aholi guruhi (populyatsiya)
+- Alohida olingan bemorning kasallik tarixi va klinik ko'rsatkichlari
+- Laboratoriyada ajratilgan qo'zg'atuvchi shtammlarining to'plami
+- Kasalxonada davolanayotgan bemorlarning davolash natijalari
+- Bemor yashaydigan uyning sanitariya holati va jihozlari
+! Epidemiologiya kasallik qonuniyatlarini individual darajada emas, aholi darajasida o'rganadi, shuning uchun uning tafakkuri populyatsion hisoblanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Kasallik qachon, qayerda va kimda ko'proq uchrashini aniqlashga qaratilgan usul qaysi?
++ Tavsifiy (deskriptiv) usul
+- Tahliliy (analitik) usul, xavf omilini baholovchi guruhlar bilan
+- Eksperimental usul, maxsus tashkil etilgan sinovlar asosida
+- Matematik modellashtirish usuli, kelgusi vaziyatni bashorat qiluvchi
+- Seroepidemiologik so'rov, aholi immun qatlamini baholovchi
+! Vaqt, hudud va shaxs bo'yicha taqsimotni bayon qilish aynan tavsifiy tadqiqotning vazifasidir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016; CDC. Principles of Epidemiology (SS1978), Lesson 1
+? Quyidagi tadqiqot turlaridan qaysi biri tahliliy (analitik) usulga kiradi?
++ Nazorat-tanlov (case-control) tadqiqoti
+- Vaksina samaradorligini baholovchi klinik sinov
+- Kasallanishning vaqt bo'yicha tavsifi
+- Epidemik jarayonni kompyuterda bashorat qilish
+- Hisobotlar asosida kasallanish darajasini ko'rsatish
+! Tahliliy usul gipotezani tekshiradi va kogort hamda nazorat-tanlov tadqiqotlarini o'z ichiga oladi, qolganlari boshqa guruhlarga mansub.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Nazorat-tanlov tadqiqotida qanday taqqoslash o'tkaziladi?
++ Kasal va sog'lom shaxslarning xavf omiliga duch kelish darajasi
+- Ta'sirlangan va ta'sirlanmagan guruhlarning vaqt o'tishi bilan kuzatilishi
+- Emlangan va emlanmagan bolalarning serologik javobi
+- Turli yillardagi kasallanish ko'rsatkichlarining dinamikasi
+- Turli hududlardagi aholi zichligi va shahar ulushi
+! Bu usul natijadan (kasallikdan) boshlab orqaga qarab, xavf omiliga duch kelish chastotasini solishtiradi; guruhlarni vaqt bo'yicha kuzatish kogort tadqiqotiga xos.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Vaksina klinik sinovlari epidemiologik usullarning qaysi guruhiga kiradi?
++ Eksperimental usul
+- Tavsifiy usul
+- Retrospektiv kogort tahlili
+- Seroepidemiologik tekshiruv
+- Matematik modellashtirish
+! Preparat samaradorligi maxsus tashkil etilgan sinovda baholansa, bu eksperimental usuldir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Tahliliy tadqiqotlarda xavf omilining kasallanishga ta'sir darajasini miqdoran ifodalash uchun qaysi ko'rsatkichlar qo'llaniladi?
++ Nisbiy xavf va shanslar nisbati
+- Letallik va o'lim ko'rsatkichlari hamda ularning dinamikasi
+- Sezuvchanlik va o'ziga xoslik ko'rsatkichlari va ularning farqi
+- Mutlaq son va o'rtacha arifmetik qiymat bilan ularning xatosi
+- Kasalxonaga yotqizish va davolash muddatlari ko'rsatkichlari
+! Nisbiy xavf (relative risk) va shanslar nisbati (odds ratio) omil va kasallik bog'liqligining kuchini ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, bugungi kunda epidemiologiyada ajratilgan ikkita maxsus tekshirish usuli qaysilar?
++ O'choqlarni epidemiologik tekshirish va epidemiologik tahlil
+- Tavsifiy tadqiqot va eksperimental sinov o'tkazish usullari
+- Laboratoriya tekshiruvi va statistik qayta ishlash usullari
+- Kogort tadqiqoti va nazorat-tanlov tadqiqoti usullari
+- Seroepidemiologik so'rov va matematik modellashtirish usullari
+! Tarixiy davrda to'plangan usullar ichidan aynan shu ikkitasi maxsus usul sifatida ajratilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Turli bemorlardan ajratilgan qo'zg'atuvchi shtammlarining genetik jihatdan bir xil ekanligi nimani isbotlaydi?
++ Ularning yagona manbadan kelib chiqqanini
+- Qo'zg'atuvchining antibiotiklarga chidamliligi oshganini
+- Bemorlarning barchasi bir vaqtda emlanganini
+- Immun qatlamining aholi orasida yetarli ekanini
+- Kasallikning mavsumiy ko'tarilish davri boshlanganini
+! Genetik o'xshashlik molekulyar epidemiologiyada infeksiya uzatilish zanjirini tiklashga imkon beradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Aholining immun qatlamini baholash uchun qaysi tekshiruvlar o'tkaziladi?
++ Seroepidemiologik tekshiruvlar
+- Bakteriologik ekmalar yordamida tashuvchilikni aniqlash
+- Nuqtali xaritalash orqali o'choqni belgilash
+- Retrospektiv tahlil asosida prognoz tuzish
+- Sanitariya-gigiyenik baholash va suv namunalari tahlili
+! Qon zardobidagi antitelalarni aniqlash aholining himoyalanganlik darajasini ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? 1854-yilda London vabosini tekshirishda qo'llangan, o'choqni tekshirish usulining klassik namunasi kimning nomi bilan bog'liq?
++ Jon Snou
+- Lui Paster
+- Robert Kox
+- Edvard Jenner
+- Ignats Zemmelvays
+! Snou nuqtali xarita tuzib, suv ta'minoti manbalari bo'yicha kasallanishni taqqoslagan.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+? Statistik usullarning epidemiologiyadagi o'rni haqida darslikda nima deyilgan?
++ Ular tekshiruv instrumenti, rejalashtirish va natijalar mazmunini sharhlash esa epidemiologning vazifasi
+- Ular epidemiologik tekshiruvning o'zi bo'lib, natijalarni sharhlash statistikning mas'uliyati hisoblanadi
+- Ular faqat hisobot tuzish uchun qo'llaniladi va tekshiruv rejasiga aloqador emas deb hisoblanadi
+- Ular o'choq tekshiruvida ishlatilmaydi, ko'p yillik tahlilda esa qo'llanilishi mumkin
+- Ular epidemiologik usullarni to'liq almashtiradi va epidemiologning ishtirokini talab qilmaydi
+! Statistika vosita, tadqiqotni rejalashtirish va xulosa chiqarish esa epidemiolog mas'uliyati.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Ovqatdan zaharlanish avj olganda aybdor mahsulotni aniqlash uchun odatda qaysi tadqiqot qo'llaniladi?
++ Nazorat-tanlov tadqiqoti
+- Vaksinaning klinik sinovi
+- Seroepidemiologik skrining
+- Ko'p yillik dinamikani retrospektiv tahlil qilish
+- Aholining demografik tarkibini o'rganish
+! Kasal va sog'lom shaxslarning turli mahsulotlarni iste'mol qilishi taqqoslanib, gumon qilingan mahsulot aniqlanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016

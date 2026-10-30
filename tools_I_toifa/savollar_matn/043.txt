@@ -1,0 +1,98 @@
+=== 043
+? Vaksina deb nimaga aytiladi?
++ Organizmda aniq qo'zg'atuvchiga qarshi sun'iy aktiv immunitet hosil qiluvchi immunobiologik preparat
+- Organizmga tayyor antitelolarni kiritib, passiv immunitet yaratuvchi gamma-globulin preparati
+- Qo'zg'atuvchini tashqi muhitda yo'q qiluvchi dezinfeksiyalovchi kimyoviy modda yoki eritma
+- Bakteriyalarni o'ldiruvchi, mikroblar o'sishini susaytiruvchi antibiotik guruhidagi dori vositasi
+- Allergik reaksiyani aniqlash uchun teriga qo'yiladigan diagnostik namuna
+! Vaksina antigen orqali organizmning o'zini immun javob hosil qilishga undaydi, tayyor himoya vositalarini esa yetkazmaydi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. How are vaccines developed
+? Tirik attenuatlangan vaksinalarga qaysi shaxslarga qarshi ko'rsatma hisoblanadi?
++ Immun yetishmovchiligi bo'lganlar va homilador ayollar
+- Chaqaloqlar va kichik yoshdagi bolalar, ayniqsa birinchi yilda
+- Sog'lom kattalar, ayniqsa tibbiyot xodimlari
+- Allergik rinit bilan og'rigan, remissiya davridagi bemorlar
+- Sut emizayotgan onalar, bola emizish davrida
+! Zaiflashtirilgan qo'zg'atuvchi ko'paya oladi, immuntanqis organizmda esa u kasallik chaqirishi mumkin.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Anatoksinli vaksinalar nimadan tayyorlanadi?
++ Qo'zg'atuvchi ishlab chiqaradigan zararsizlantirilgan toksindan
+- Zaiflashtirilgan tirik qo'zg'atuvchining butun hujayralaridan
+- Fizik usulda o'ldirilgan butun mikroblardan
+- Qo'zg'atuvchi genetik ko'rsatmasini tashuvchi xabarchi RNK molekulasidan
+- Qo'zg'atuvchi polisaxarid kapsulasi va tashuvchi oqsil birikmasidan
+! Toksin zararsizlantirilsa ham antigenlik xossasini saqlaydi, shu sababli toksin chaqirgan kasalliklarga qarshi qo'llanadi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Quyidagilardan qaysi biri bo'linma (subyunit) yoki konyugatlangan vaksinaga misol bo'ladi?
++ Gemofil (XIB) konyugat vaksinasi
+- Silga qarshi BSJ vaksinasi
+- Poliomielitga qarshi og'iz vaksinasi (OPV)
+- Qizamiq-parotit-qizilchaga qarshi QPQ vaksinasi
+- Rotavirusga qarshi og'iz vaksinasi
+! Konyugat vaksina qo'zg'atuvchining faqat ayrim antigenlaridan iborat, qolgan variantlar esa tirik zaiflashtirilgan mikroblardir.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? mRNK vaksinalarining ta'sir mexanizmi qanday?
++ Hujayralarga antigen oqsilini ishlab chiqarish uchun genetik ko'rsatma yetkazadi
+- Tayyor antitelolarni qonga to'g'ridan-to'g'ri yetkazib beradi, hujayralar ishtirokisiz
+- Zaiflashtirilgan tirik virusni organizmda ko'paytirib, immunitet hosil qiladi
+- Zararsizlantirilgan toksinni immun tizimga ko'rsatib, antitoksin hosil qiladi
+- Virus genomini inson DNKsiga doimiy kiritib qo'yadi
+! Hujayralar kiritilgan ko'rsatma asosida antigen oqsilini hosil qiladi va immun tizim unga javob beradi.
+@ WHO. How are vaccines developed; Vaccine types and safety
+? Inaktivlangan (o'ldirilgan) vaksinalarning asosiy kamchiligi nima?
++ Immunitet nisbatan kuchsiz va qisqa, shu sabab ko'p doza hamda revaksinatsiya kerak
+- Zaiflashgan qo'zg'atuvchi patogen shaklga qaytib, kasallik chaqirishi mumkin
+- Immuntanqisli shaxslarga umuman qo'llab bo'lmaydi
+- Faqat tirik hujayrali muhitda saqlanadi va muzlatilishi shart
+- Vaksina tarkibidagi virus ko'payib, nazoratdan chiqishi mumkin
+! Qo'zg'atuvchi ko'paymagani uchun immun stimul zaif bo'ladi, shu bois adyuvant va takroriy dozalar talab etiladi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Sanitariya qoidalariga ko'ra, quyidagi vaksinalardan qaysi birini muzlatish taqiqlanadi?
++ AKDS, ADS va ADS-M anatoksinlarini
+- Poliomielitga qarshi OPV vaksinasini
+- Tirik virusli vaksinalarning barchasini, istisnosiz
+- Eritgichlarsiz yetkazilgan quruq vaksinalarni, qadoqlangan holda
+- Taqiqlash nazarda tutilmagan, muzlatish barcha vaksinalar uchun ruxsat etilgan
+! Adsorbsiyalangan va anatoksinli preparatlar muzlaganda tarkibi buziladi, bu esa immunogenlikni pasaytiradi.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? QPQ vaksinasi milliy sanitariya qoidalariga ko'ra qanday dozada va qanday yuboriladi?
++ 0,5 ml, teri ostiga
+- 0,05 mg, teri ichiga
+- 0,5 ml, mushak ichiga
+- 2 tomchi, og'iz orqali
+- 1,5 ml, og'izga ichirib
+! Teri ostiga yuborish tirik virusli polivalent vaksina uchun belgilangan usul bo'lib, boshqa yo'llar boshqa preparatlarga mos keladi.
+@ SanQvaM № 0239-07/3 (immunoprofilaktika)
+? Ikki doza qizamiq (MMR) vaksinasi qizamiqqa qarshi taxminan qanday samaradorlikka ega?
++ Taxminan 97 %
+- Taxminan 50 %
+- Taxminan 65 %
+- Taxminan 75 %
+- Taxminan 85 %
+! Ikki doza bilan qizamiqqa nisbatan juda yuqori himoya shakllanadi, shu bois qamrov yuqori bo'lishi muhim.
+@ CDC. Measles Vaccination; WHO. Vaccines and immunization
+? Vaksina samaradorligining «efficacy» va «effectiveness» turlari qanday farqlanadi?
++ Birinchisi klinik sinovlarda, ikkinchisi real amaliyotdagi kuzatuvda baholanadi
+- Birinchisi real amaliyotda, ikkinchisi klinik sinovlarda baholanadi, aksincha emas
+- Birinchisi faqat bolalarda, ikkinchisi kattalarda aniqlanadi, shu bilan farqlanadi
+- Birinchisi inaktivlangan, ikkinchisi tirik vaksinalar uchun qo'llanadi
+- Ikkalasi bir xil ma'noni bildiradi va farqlanmaydi
+! Real sharoitda aholi, yosh va immun holat xilma-xil bo'lgani uchun natija sinovdagidan farq qilishi mumkin.
+@ Pollard A.J., Bijker E.M. A guide to vaccinology (2021)
+? Tirik vaksinalar yaratadigan immunitetning xususiyati qanday?
++ Tabiiy infeksiyaga o'xshash kuchli va ko'pincha uzoq muddatli
+- Zaif va qisqa, shu sababli har yili takrorlanishi lozim bo'ladigan
+- Vaqtinchalik, ona antitelolari tugaguncha davom etadigan
+- Mahalliy shilliq qavatda, tizimli javobsiz hosil bo'ladigan
+- Antitoksik, ya'ni mikroblarga emas, toksinlarga qarshi bo'ladigan
+! Tirik zaiflashtirilgan qo'zg'atuvchi organizmda ko'payib, immun tizimni tabiiy infeksiyadagiga yaqin kuchda rag'batlantiradi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? OPV bilan bog'liq asosiy xavf nima bo'lib, ko'p mamlakatlar nima sababdan IPVga o'tmoqda?
++ Attenuatlangan shtamm juda kam hollarda patogen shaklga qaytib, poliomielit chaqirishi mumkin
+- Vaksina immunitet hosil qilmaydi va faqat mahalliy reaksiya beradi, shu bois samarasiz
+- Alyuminiy tuzlari asab tizimini zararlaydi va falajga olib keladi
+- Muzlatilgan holatda saqlangani uchun tashish qiyin va qimmatga tushadi
+- Onadan o'tgan antitelolar tufayli hech qachon ishlamaydi
+! Tirik zaiflashgan virus ichakda ko'payishi sababli kamdan-kam hollarda virulentligini tiklashi mumkin, inaktivlangan vaksinada bunday xavf yo'q.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. How are vaccines developed
+#D 043 / 7: mavzu materiali (044.docx) tirik vaksinalar muzlatishga chidamli bo'lishi mumkin deydi, 043 da esa QPQ muzlatilmaydi; savol faqat o'ldirilgan/anatoksinli vaksinalarga tuzildi.

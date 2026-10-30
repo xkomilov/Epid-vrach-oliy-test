@@ -1,0 +1,97 @@
+=== 093
+? Qrim–Kongo gemorragik isitmasi virusi +2...+4 °C haroratda virulentligini qancha vaqt saqlaydi?
++ taxminan 2 hafta
+- bir necha lahza, shundan keyin tezda nobud bo'ladi
+- taxminan 18 soat, so'ngra faolligini yo'qotadi
+- taxminan 2 yil, hech qanday o'zgarishsiz
+- taxminan 3 oy, hayvon terisida quriganda
+! Past haroratda virus nisbatan barqaror, qaynatilganda esa bir lahzada nobud bo'ladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Qrim–Kongo gemorragik isitmasi qo'zg'atuvchisining genomi qanday tuzilgan?
++ uchta segmentdan (S, M va L) iborat RNK
+- bitta halqasimon ikki zanjirli DNK molekulasi
+- ikkita segmentdan iborat musbat zanjirli RNK
+- sakkizta segmentli manfiy zanjirli RNK
+- bitta chiziqli bir zanjirli DNK molekulasi
+! Uch segmentli genom Bunyaviridae oilasi vakillariga xos xususiyat hisoblanadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Epizootik zanjirning qaysi bo'g'ini epizootik holatni belgilaydi?
++ o'tkazuvchi bo'g'in — kanalar
+- manba — viremiya davridagi kasal hayvonlar
+- moyil organizm — odam va uy hayvonlari
+- tashqi muhitdagi qo'zg'atuvchi zahirasi
+- hayvonlar immun qatlamining holati
+! Moyil organizm doimo mavjud bo'lgani uchun kanalar yo'qotilsa kasallik kelib chiqmaydi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Qrim–Kongo gemorragik isitmasida kontaminatsion yuqish yo'li qaysi holatda amalga oshadi?
++ kanani qo'l bilan ezganda
+- zararlangan sutni qaynatmasdan ichganda
+- bemor yo'talganda havo-tomchi orqali
+- chivin chaqqanda uning so'lagi orqali
+- bemor bilan bir idishdan ovqatlanganda
+! Ezilgan kana tarkibidagi virus teri jarohatlari orqali organizmga o'tadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Yo'riqnomaga ko'ra, Qrim–Kongo gemorragik isitmasi profilaktikasining uchinchi yo'nalishi qaysi?
++ kasallikni shifoxona ichi infeksiyasi sifatida qayd etilishiga yo'l qo'ymaslik
+- kasallangan hayvonlarni ommaviy emlash orqali tabiiy o'choqlarni tugatish
+- barcha chorvadorlarni yiliga ikki marta profilaktik emlash bilan qamrab olish
+- chegaradan o'tuvchi hayvonlarni uch oy davomida karantinda saqlash
+- tabiiy o'choqlardagi aholini boshqa hududlarga ko'chirish
+! Uchta yo'nalish: kirib kelishining oldini olish, tabiiy o'choqlarda kasallanishning oldini olish va nozokomial holatlarning oldini olish.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Uy hayvonlari turadigan molxonalarda profilaktik akaritsid ishlov yil bo'yi necha marta o'tkaziladi?
++ 4 marta: mart–aprel, may–iyun, iyul–avgust va sentabr–oktabrda
+- 2 marta: bahorda hamda kuzda, faqat sovuq kunlarda
+- 6 marta: har ikki oyda, qish oylarini ham qo'shib
+- 12 marta: har oyning birinchi haftasida, yil bo'yi
+- 1 marta: mart oyida, hayvonlar yaylovga chiqarilishidan oldin
+! Ishlov muddatlari kanalar faolligining turli to'lqinlariga moslashtirilgan.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? Hayvonlarni kanalardan tozalash qaysi davrda va qanday muntazamlikda o'tkaziladi?
++ martdan noyabrgacha har 10 kunda
+- aprelda boshlab avgustgacha har 3 kunda
+- yil bo'yi har oyda bir marta, qishda ham
+- iyun-iyul oylarida har 2 haftada
+- qish oylarida har kuni
+! Kanalarning mavsumiy faolligi uzoq davom etgani uchun tozalash ham uzoq muddatga rejalashtiriladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Kanani olishda shaxsiy himoya qoidasi qanday?
++ yalang qo'l bilan ushlash mumkin emas, rezina qo'lqop kiyiladi
+- qo'l bilan ezib tashlash va teri yuvilmasdan qoldirish
+- gugurt yoki cho'g' bilan kuydirib, darhol sug'urib olish
+- yog' surtib bo'g'ib, keyingi kuni ehtiyotsiz olib tashlash
+- ochiq ko'chada qaychi bilan kesib, qoldiqni terida qoldirish
+! Kanani ezish yoki yalang qo'l bilan olish virusning teri orqali kirishiga yo'l ochadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Immunlangan donorlar bazasini yaratish uchun har yili mart oyida qaysi ro'yxat shakllantiriladi?
++ o'tgan 5 yilda kasallanib tuzalganlar ro'yxati
+- yaqin 5 yilda emlanishi kerak bo'lgan chorvadorlar ro'yxati
+- o'tgan yilda kana chaqqan barcha shaxslar ro'yxati
+- molxonalarda ishlaydigan veterinariya xodimlari ro'yxati
+- tabiiy o'choqlardagi barcha aholining umumiy ro'yxati
+! Tuzalganlarning qonida virusga qarshi IgG antitelalari bo'lib, plazma davolashda ishlatiladi.
+@ O'zR SSV buyrug'i, 16.05.2016, 226-son
+? Gumon qilingan bemor bilan ishlaydigan xodimlar qaysi himoya vositalarida ishlaydi?
++ I tur himoya: ikki juft qo'lqop, 4 qavatli niqob yoki respirator, ko'zoynak
+- II tur himoya: bir juft qo'lqop, oddiy tibbiy xalat va bir qavatli niqob
+- bir martalik qo'lqop bilan, niqobsiz va ko'zoynaksiz, oddiy xalatda ishlash
+- yengil himoya: bir juft qo'lqop va 2 qavatli gazlama niqob
+- oddiy ish kiyimi, yuvib tozalangan etik va bosh kiyim, qo'lqopsiz ishlash
+! Qon va ajralmalar yuqori yuqumli bo'lgani uchun xodimlar to'liq to'siqli himoyaga muhtoj.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Qrim–Kongo gemorragik isitmasi o'chog'ida yakuniy dezinfeksiya qanday eritma bilan o'tkaziladi?
++ 3 % xlorli eritma (1 m2 ga 3 g faollashtirilgan modda hisobida)
+- 0,5 % xlorli eritma (1 m2 ga 30 g faollashtirilgan modda hisobida), 1 soat ushlab
+- 10 % spirtli eritma (1 m2 ga 100 ml hisobida), ikki marta artib
+- 70 % etil spirti bilan ikki marta artish
+- 1 % formalin eritmasi (1 m2 ga 300 ml hisobida), bug'lab ishlov berib
+! Yuqori konsentratsiyali xlor virusni bemor ajralmalarida ishonchli inaktivatsiya qiladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova
+? Bemor chiqindilari (qon, siydik, najas, qusuq) qanday zararsizlantiriladi?
++ xlorli ohak yoki kalsiy gipoxlorit bilan 1:2 aralashtirilib, 2 soat ushlanadi
+- oddiy suv bilan suyultirilib, kanalizatsiyaga darhol va ehtiyot choralarisiz to'kiladi
+- 70 % spirt bilan sepilib, 5 daqiqadan keyin umumiy chiqindiga to'kib tashlanadi
+- 1:20 nisbatda 3 % vodorod peroksid bilan aralashtirilib, 10 daqiqadan keyin to'kiladi
+- quruq holda quritilib, oddiy axlatga chiqariladi
+! Yetarli kontakt vaqti virusning qon va ajralmalardagi faolligini butunlay yo'qotish uchun zarur.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 4-ilova

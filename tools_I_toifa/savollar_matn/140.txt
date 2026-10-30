@@ -1,0 +1,97 @@
+=== 140
+? Zararlangan qonni bir marta quyishda OIV yuqish ehtimoli qancha?
++ 90% dan yuqori
+- 0,3% atrofida
+- 1–2% atrofida
+- 15–45% atrofida
+- 50% atrofida
+! Qon bilan virusning katta miqdori to'g'ridan-to'g'ri qon oqimiga tushadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Quyidagilardan qaysi biri parenteral yo'lning notibbiy guruhiga kiradi?
++ tatuirovka va steril bo'lmagan asboblar bilan teshish
+- endoskopik muolajalar va jarrohlik amaliyotlari
+- tomir ichi kateterlari va infuziya tizimlari bilan muolajalar
+- a'zo va to'qimalarni ko'chirib o'tkazish, shuningdek transplantatsiya
+- qon va qon preparatlarini quyish hamda plazma almashtirish
+! Tibbiy bo'lmagan teri butunligini buzuvchi muolajalar notibbiy guruhga kiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Donorda IFA musbat natija chiqqanda qon va donor bilan nima qilinadi?
++ qon 24 soat ichida komissiya ishtirokida yo'q qilinadi, donor umrbod chetlashtiriladi
+- qon 72 soat saqlanib, donor 1 yildan keyin qayta tekshiriladi va tekshiruv natijasiga qarab donorlikka qaytariladi
+- qon boshqa muassasaga yuboriladi, donor vaqtincha chetlashtiriladi
+- qon qayta ishlanib, plazmasi ishlatiladi, donor kuzatuvda qoladi
+- qon saqlanadi, donor 6 oydan keyin yana donorlikka qo'yiladi
+! Xavfli qonni zudlik bilan muomaladan chiqarish retsipiyentlarning zararlanishini oldini oladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Qon quyilishi tufayli yuqish gumon qilinganda surishtiruv nimani o'z ichiga oladi?
++ qon olgan muassasa donorni qayta tekshirishi
+- bemorning barcha qarindoshlarini majburiy davolash
+- qon quyilgan bemorni boshqa muassasaga ko'chirish
+- donorlik punktini ikki yilga yopish
+- qon quyilgan kundan boshlab bemorni izolyatsiya qilish
+! Donorni qayta tekshirish manbani aniqlashning asosiy qadamidir.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Parenteral kontaktdan keyin shaxsga 6 oy davomida nimalar tavsiya etiladi?
++ antitanalarga test manfiy bo'lguncha prezervativdan foydalanish, qon yoki sperma topshirishdan tiyilish
+- ishdan chetlashtirilib, uyda to'liq izolyatsiyada bo'lish, tashqi aloqalarni cheklash va oila a'zolaridan ajralib yashash
+- har hafta immunoblot o'tkazib, natija chiqquncha davolanmaslik va kuzatuvga kelmaslik
+- ARV preparatlarini qabul qilmaslik va kuzatuvga kelmaslik
+- jinsiy aloqadan tiyilish va oila qurishdan butunlay voz kechish, qon topshirmaslik
+! Bu davrda antitanalar paydo bo'lishi mumkin, shu sababli boshqalarga yuqtirmaslik choralari ko'riladi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? JSST in'ektsion giyohvand moddalarni iste'mol qiluvchilar uchun qaysi xizmatlardan foydalanishni tavsiya qiladi?
++ zararni kamaytirish xizmatlaridan
+- majburiy izolyatsiya xizmatlaridan
+- jinoiy javobgarlik choralaridan
+- umumiy shpritsdan foydalanish xizmatlaridan
+- giyohvandlarni ro'yxatdan chiqarish xizmatlaridan
+! Zararni kamaytirish dasturlari steril asboblar va maslahat orqali yuqishni kamaytiradi.
+@ World Health Organization. HIV and AIDS (fact sheet)
+? Protokolda in'ektsion giyohvandlar uchun qaysi tadbir ko'zda tutilgan?
++ opioid o'rnini bosuvchi terapiya (OO'T)
+- majburiy statsionar davolash, tibbiy kengashsiz
+- ishdan bo'shatish va ro'yxatdan o'chirish
+- qamoqqa olish orqali izolyatsiya qilish
+- umumiy asboblardan foydalanishni rag'batlantirish
+! Bu dastur in'ektsion iste'molni kamaytirib, yuqish xavfini pasaytiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Qonunga ko'ra OIV yuqtirgan shaxs kimlarni kasalligi haqida xabardor etishi shart?
++ jinsiy sherigini hamda sanchiladigan va kesadigan asbob ishlatuvchi xodimlarni
+- ish joyidagi barcha hamkasblarini, rahbariyatni va kasaba uyushmasini
+- qo'shnilarini va mahalla raisini, yozma shaklda, shuningdek tuman hokimligini
+- sinfdoshlarini va o'qituvchilarini, o'qish joyida
+- barcha qarindoshlarini va do'stlarini, ro'yxat bo'yicha, yozma bildirishnoma bilan
+! Xabardor qilish majburiyati yuqish xavfi mavjud bo'lgan kontaktlar uchun belgilangan.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+? Parenteral kontaktdan keyingi profilaktika (KKP) immunoblot natijasi bilan qanday bog'liq?
++ immunoblot natijasini kutib KKP kechiktirilmaydi
+- profilaktika faqat immunoblot musbat bo'lgandan keyin boshlanadi
+- profilaktika immunoblot manfiy bo'lganda tayinlanmaydi
+- immunoblot natijasi chiqquncha KKP 2 haftaga kechiktiriladi
+- ikki marta immunoblot o'tkazilgandan so'ng boshlanadi
+! Profilaktikaning ta'siri vaqtga bog'liq, tasdiqlovchi tahlilni kutish uni kechiktiradi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Qonun bo'yicha tekshiruvning ustuvor kontingentlari qatoriga qaysi bemorlar kiritilgan?
++ qon quyilganlar va a'zo oluvchilar
+- sog'lom bolalar bog'chasi tarbiyalanuvchilari
+- maktab o'qituvchilari
+- sanatoriy dam oluvchilari
+- fuqarolarning barchasi, har yili
+! Qon va a'zo orqali yuqish ehtimoli bor shaxslar ustuvor tekshiriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? 2007–2012 yillarda O'zbekistonda 14 yoshgacha OIV bilan yashovchi bolalar orasida parenteral yo'l ulushi qancha bo'lgan?
++ 60–81%
+- 14–28%
+- 4,7–11,4%
+- 10,9% atrofida
+- 90–100%
+! Bolalar orasida tibbiy muolajalar yuqish tarkibida katta ulushni egallagan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot)
+? 64-son buyruqqa ko'ra davolash-profilaktika muassasalarida har chorakda nima o'rganiladi?
++ sterilizatsiya va dezinfeksiyalovchi vositalar bilan ta'minlanish
+- xodimlarning shaxsiy ish haqi to'lanishi va ta'til jadvallari
+- bemorlarning ovqatlanish ratsioni va oshxona jihozlari holati
+- muassasa binosining kapital ta'miri va uni jihozlash
+- dori vositalarining narxi va xaridi
+! Yuqish zanjirini uzish uchun sterilizatsiya ta'minoti nazorat ostida bo'ladi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i

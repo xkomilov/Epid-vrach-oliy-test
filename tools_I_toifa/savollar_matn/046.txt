@@ -1,0 +1,97 @@
+=== 046
+? O'zbekistonda dezinfeksiya tadbirlarini o'tkazish va dezinfeksiya vositalaridan foydalanish tartibi qaysi sanitariya hujjati bilan belgilangan?
++ SanQvaN № 0090-25
+- SanQvaM № 0239-07/3
+- SanPiN № 0291-11
+- SanQvaN № 0350-03
+- SanQvaM № 0090-05
+! Dezinfeksiya xizmatini tashkil etish, vositalarni saqlash va qo'llash talablari 2025-yilda tasdiqlangan sanitariya qoidalari, normalari va gigiyena normativlarida jamlangan.
+@ SanQvaN № 0090-25
+? Dezinfeksiya vositasini tanlashda odam va atrof-muhit xavfsizligi uchun qaysi xavf sinfidagi vositalardan foydalanish tavsiya etiladi?
++ III–IV xavf sinfi
+- I xavf sinfi
+- I–II xavf sinfi
+- Faqat II xavf sinfi, o'rtacha zaharli
+- Xavf sinfi hisobga olinmaydi
+! Yuqori xavf sinfidagi moddalar odamga ham, tashqi muhitga ham ko'proq zarar yetkazadi, shuning uchun kam zaharli vositalar afzal.
+@ SanQvaN № 0090-25
+? Deratizatsiya nimaga qaratilgan tadbirlar majmuasi?
++ Kemiruvchilar va ularning ektoparazitlarini yo'q qilish hamda ko'payishini nazorat qilishga
+- Qon so'ruvchi bo'g'imoyoqlilarni va hasharotlarni yo'q qilish hamda ko'payishini nazorat qilishga
+- Tashqi muhitdagi patogen mikroorganizmlarni yo'q qilishga, shu jumladan yuzalarda
+- Bemor ajralmalaridagi qo'zg'atuvchini zararsizlantirish va uni utilizatsiya qilishga
+- Suv ta'minoti tarmog'ida bakteriyalar sonini kamaytirish va nazorat qilishga
+! Kemiruvchilar o'lat, leptospiroz va salmonellyoz kabi infeksiyalar rezervuari yoki tashuvchisi bo'lgani uchun alohida nazorat qilinadi.
+@ SanQvaN № 0090-25
+? Chetvertichli ammoniy birikmalari dezinfeksiyalovchi vositalarning qaysi guruhiga kiradi?
++ Sirt-faol moddalar
+- Galogen saqlovchi vositalar
+- Kislorod saqlovchi vositalar
+- Aldegidlar
+- Spirtlar va fenol birikmalari
+! Bu birikmalar sirt tarangligini kamaytiruvchi kationli molekulalar bo'lib, shu xususiyatiga ko'ra tasniflanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Vodorod peroksid va perborat dezinfeksiyalovchi vositalarning qaysi guruhiga kiradi?
++ Kislorod saqlovchi vositalar
+- Galogen saqlovchi vositalar
+- Sirt-faol moddalar
+- Aldegidlar
+- Spirtlar va fenol birikmalari
+! Ularning ta'siri faol kislorod ajralib chiqishiga asoslangan, xlor va yod birikmalari esa boshqa guruhga mansub.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Dezinfeksiyaning biologik usuli asosan qayerda qo'llaniladi?
++ Oqova suvlarni tozalashda
+- Bemor xonasidagi yuzalarni artishda
+- Tibbiy asboblarni sterilizatsiya qilishda
+- Kiyim-kechakni kamerada ishlashda
+- Havoni ultrabinafsha nurlari bilan zararsizlantirishda
+! Mikroorganizmlar va ularning mahsulotlari oqova suvdagi ifloslantiruvchi moddalarni parchalaydi.
+@ SanQvaN № 0090-25; Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Insektitsidlar ta'sir mexanizmiga ko'ra qanday turlarga bo'linadi?
++ Kontakt, ichak va fumigant
+- Spora, vegetativ va toksin
+- Mexanik, fizik va biologik
+- Profilaktik, joriy va yakuniy
+- Galogen, aldegid va fenol
+! Bu tasnif vosita hasharot tanasiga teri orqali, oshqozon-ichak orqali yoki bug' holida nafas yo'li bilan ta'sir etishiga asoslanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Akaritsidlar qaysi bo'g'imoyoqlilarga qarshi qo'llaniladi?
++ Kanalarga
+- Chivinlarga
+- Pashshalarga
+- Burgalarga
+- Bitlarga
+! Akaritsidlar o'rgimchaksimonlar sinfiga kiruvchi kanalarni yo'q qilish uchun mo'ljallangan, boshqalar esa hasharotlardir.
+@ SanQvaN № 0090-25
+? SanQvaN 0090-25 ga ko'ra, bir sutka davomida bitta yopishqoq qog'ozda nechta lichinka, g'umbak yoki qanotli pashsha aniqlansa, dezinseksiya samarali hisoblanadi?
++ 1 dona
+- 5 dona
+- 10 dona
+- 15 dona
+- 20 dona
+! Bu mezon hasharotlar soni deyarli qolmaganini ko'rsatadi, katta sonlar esa samarasizlikka ishora.
+@ SanQvaN № 0090-25
+? Obyektlarda dezinseksiya tadbirlari qachon o'tkaziladi?
++ Ish vaqti tugagandan so'ng yoki dam olish kunlari
+- Ish vaqti davomida, odamlar ko'p bo'lgan paytda
+- Tushlik tanaffusi vaqtida, qisqa muddatda va tezkor ravishda
+- Xodimlar ishga kelishidan bevosita oldin, ertalab
+- Bayram kunlari, yilda bir marta, rejali ravishda
+! Shunda odamlarning insektitsid bilan kontakti oldi olinadi.
+@ SanQvaN № 0090-25
+? Rodentitsid xo'raklar qayerga joylashtirilishi kerak?
++ Odamlar va uy hayvonlari kira olmaydigan joylardagi raqamlangan konteynerlarga
+- Oziq-ovqat saqlanadigan xonalarning pol sathiga, ochiq holda joylashtirish uchun
+- Bolalar o'ynaydigan maydonlar chetiga, yopiq idishlarsiz qoldiriladi
+- Uy hayvonlari ko'p yuradigan hovli burchaklariga, ochiq yuzaga
+- Axlat tashlanadigan joyga, nazoratsiz holda
+! Zaharli xo'rak odamlar, uy hayvonlari va oziq-ovqatga tegmasligi uchun nazorat ostidagi konteynerda turishi shart.
+@ SanQvaN № 0090-25
+? Aholi yashamaydigan hududlarda deratizatsiya samarali hisoblanishi uchun kemiruvchilar soni qancha kamayishi kerak?
++ 80 foiz va undan ko'proqqa
+- 20 foizdan 30 foizgacha
+- 40 foizdan 50 foizgacha kamayganda
+- 50 foizdan 60 foizgacha kamayganda
+- 60 foizdan 70 foizgacha kamayganda
+! Samaradorlik kemiruvchilar sonining keskin pasayishi bilan baholanadi.
+@ SanQvaN № 0090-25

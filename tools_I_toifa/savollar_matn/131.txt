@@ -1,0 +1,98 @@
+=== 131
+? «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»gi Qonunning qaysi moddasida homilador ayollarni majburiy tekshirish belgilangan?
++ 15-modda, unga ko'ra OIV yuqtirgan onalardan tug'ilgan bolalar ham majburiy tekshiriladi
+- 13-modda, unga ko'ra tekshiruv oldidan va keyin maslahat o'tkazilishi hamda tekshiruv ixtiyoriy tartibda bo'lishi belgilanadi
+- 17-modda, unga ko'ra OIV aniqlangan shaxs dispanser hisobiga qo'yiladi va jinoiy javobgarlik haqida ogohlantiriladi
+- 19-modda, unga ko'ra OIV yuqtirganlar ma'lumot olish huquqiga ega va jinsiy sherigini ogohlantirishi shart
+- 21-modda, unga ko'ra OIV mavjudligi sababli ishga qabul qilishni rad etish man etiladi
+! Qonunda majburiy tekshiruv toifalari alohida moddada sanalgan, qolgan moddalar maslahat, hisobga olish, huquq va kamsitmaslik masalalarini tartibga soladi.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+? Milliy klinik protokolga ko'ra OIV bilan yashovchi ayoldan bolaga yuqishni samarali usullar bilan qanchagacha kamaytirish mumkin?
++ 1–2% gacha
+- 5–7% gacha
+- 10–12% gacha
+- 14% gacha
+- 25–30% gacha
+! Birgalikda qo'llangan ART, tug'ish usulini tanlash, chaqaloq profilaktikasi va xavfsiz oziqlantirish xavfni juda past darajaga tushiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Homilador ayolning birinchi murojaatidagi OIV uchun IFA natijasi musbat bo'lsa, keyingi qadam qaysi?
++ immunoblot o'tkazish
+- PZR bilan virus yuklamasini darhol aniqlash va natijani e'lon qilish
+- tezkor testni takrorlash, so'ng tashxisni qo'yish
+- IFAni boshqa laboratoriyada qayta o'tkazish va tashxisni tasdiqlash
+- CD4 limfotsitlar sonini aniqlab, ART tayinlash
+! IFA skrining usuli bo'lib, uning musbat natijasi tasdiqlovchi usul bilan isbotlanmaguncha tashxis e'lon qilinmaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i; O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Tekshiruv oldi maslahatda ixtiyoriy rozilik qanday shaklda olinadi?
++ og'zaki rozilik yetarli, rad etilganda yozma tilxat olinadi
+- har doim notarial tasdiqlangan yozma rozilik talab etiladi, og'zaki rozilik tibbiy hujjatda hisobga olinmaydi
+- ayolning roziligi talab etilmaydi, chunki tekshiruv qonunga ko'ra majburiy hisoblanadi
+- faqat erining yozma roziligi bilan tekshiruv o'tkaziladi
+- rozilik ambulator kartaga yozilmaydi, u faqat laboratoriya jurnalida qayd etiladi
+! Rozilik ixtiyoriylik tamoyiliga asoslanadi, rad etish esa tibbiy hujjatda tilxat bilan rasmiylashtiriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Protokol jadvaliga ko'ra OIV bilan yashovchi homilador ayolda ART homiladorlikning qaysi haftasidan boshlab tayinlanadi?
++ 14-haftadan boshlab
+- 8-haftadan boshlab, tug'ruqgacha bo'lgan butun davrda uzluksiz
+- 24-haftadan boshlab, ultratovush doppleri natijasi olingach
+- 34-haftadan boshlab, virus yuklamasi aniqlangandan keyin
+- 37-haftadan boshlab, tug'ruqxonaga qabul qilinishi bilan
+! Ro'yxatdan o'tish va CD4 hamda virus yuklamasini aniqlashdan keyin davolash erta boshlanadi, bu bolaga yuqish xavfini kamaytiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? 34–36 haftada virus yuklamasi 1000 nusxa/ml dan yuqori bo'lsa, tug'ish usuli bo'yicha qaysi taktika tavsiya etiladi?
++ 38 haftada kesar kesish
+- tabiiy yo'l bilan tug'ish, chunki ART davom etmoqda
+- 41 haftagacha kutib, tug'ruqni qo'zg'atish
+- 34 haftada darhol rejadan tashqari kesar kesish
+- tug'ruq boshlangandan keyin akusherlik ko'rsatmasi bo'yicha qaror qabul qilish
+! Yuqori virus yuklamasida tug'ruq yo'llarida chaqaloqning virus bilan kontakti xavfi katta, shu sababli operativ tug'ruq tanlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? OIV bilan yashovchi onadan tug'ilgan chaqaloqda ARV-profilaktika hayotning qancha vaqti ichida boshlanadi?
++ dastlabki 4 soat ichida
+- dastlabki 12 soat ichida, ona ART qabul qilgan bo'lsa
+- dastlabki 24 soat ichida, bolaning ahvoli barqaror bo'lgach
+- dastlabki 72 soat ichida, birinchi PZR natijasi tayyor bo'lgach
+- birinchi haftaning oxirida, ona suti bilan oziqlantirish boshlanganda
+! Preparatni qanchalik erta berilsa, profilaktik ta'sir shunchalik yuqori bo'ladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Chaqaloq uchun uch komponentli sxemada zidovudin qaysi dozada va qancha muddat beriladi?
++ 4 mg/kg har 12 soatda, 4 hafta
+- 2 mg/kg har 12 soatda, 4 hafta
+- 4 mg/kg har 8 soatda, 2 hafta
+- 4 mg/kg kuniga bir marta, 6 hafta
+- 2 mg/kg har 12 soatda, 12 hafta
+! Zidovudin sirop dozasi lamivudin dozasidan ikki baravar yuqori belgilangan, davomiyligi esa to'rt haftani tashkil etadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+#U 131 / 8: uch komponentli sxemaning har bir klinik holatga mosligi ko'chirmada to'liq ajratilmagan, doza faqat protokol ko'chirmasiga tayanadi.
+? Xavfsiz oziqlantirish sharoiti bo'lmaganda ona 6 oy faqat ona suti bilan emizsa, chaqaloq qancha nevirapin oladi?
++ 6–12 hafta
+- 1–2 hafta
+- 4 hafta, zidovudin bilan birga
+- 6 oy, ona emizishni to'xtatguncha
+- bir martalik doza, tug'ilgandan keyin
+! Emizish davrida chaqaloqning himoyasi nevirapin bilan ta'minlanadi, ona esa butun davr mobaynida ARTni qabul qiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Serodiskordant juftlikda OIV-musbat sherikdan OIV-manfiy homilador sherikka yuqish xavfi qachon bartaraf etiladi?
++ musbat sherik ART olib, virus yuklamasi aniqlanmaydigan darajaga yetganda
+- ikkala sherik ham har oy IFA topshirib turganda, natija manfiy bo'lsa
+- musbat sherik faqat jinsiy aloqadan oldin bir martalik ARV preparat ichganda
+- homilador ayol kontratseptiv vositalar qabul qilib, aloqani faqat ovulyatsiyadan keyin o'tkazganda
+- musbat sherikning CD4 soni 200 dan oshganda, virus yuklamasidan qat'i nazar
+! Virusning qondagi miqdori aniqlanmaydigan darajaga tushganda jinsiy yo'l bilan yuqish amalda sodir bo'lmaydi.
+@ World Health Organization. HIV and AIDS (fact sheet)
+? Protokolga ko'ra OIV bilan yashovchi homilador va emizikli ayollarda ART qanday tayinlanadi?
++ klinik bosqich va CD4 sonidan qat'i nazar boshlanadi va umrbod davom ettiriladi
+- CD4 soni 350 dan past bo'lgandagina boshlanadi va emizish tugagach to'xtatiladi
+- faqat JSSTning 3–4 klinik bosqichida tayinlanib, tug'ruqdan keyin bekor qilinadi
+- virus yuklamasi 1000 nusxa/ml dan oshgandagina tayinlanib, chaqaloq tug'ilgach to'xtatiladi
+- ayol rozi bo'lsa, faqat uchinchi trimestrda va tug'ruqqacha qabul qilinadi
+! Davolash ona sog'lig'ini saqlash bilan birga bolaga yuqishning oldini oladi, shu uchun uni to'xtatish kerak emas.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? OIV aniqlangan shaxs dispanser hisobiga qo'yilganda qanday ogohlantirish yozma shaklda beriladi?
++ boshqalarga infeksiyani yuqtirganlik uchun jinoiy javobgarlik haqida
+- ishdan bo'shatilish va ish joyini o'zgartirish majburiyati haqida
+- oila qurishning taqiqlanishi va farzand ko'rish huquqidan mahrum etilishi haqida
+- davolanishni rad etganda tibbiy yordam ko'rsatilmasligi haqida
+- o'z holatini barcha qarindoshlari va ish joyiga xabar qilish majburiyati haqida
+! Qonun yuqtirish xavfini oldini olish uchun shaxsga uning huquqiy mas'uliyatini tushuntirishni talab qiladi.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»

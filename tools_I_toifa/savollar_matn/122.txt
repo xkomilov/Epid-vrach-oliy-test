@@ -1,0 +1,97 @@
+=== 122
+? Ku isitmasining (Q-isitma) qo'zg'atuvchisi qaysi mikroorganizm?
++ Coxiella burnetii
+- Rickettsia prowazekii
+- Brucella melitensis
+- Francisella tularensis
+- Chlamydia psittaci
+! Ku isitmasini hujayra ichida ko'payuvchi gramnegativ bakteriya Coxiella burnetii chaqiradi; boshqa nomlari keltirilgan mikroblar boshqa zoonoz va rikketsioz kasalliklarning sababchisi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasida odam uchun asosiy infeksiya manbai qaysi hayvonlar?
++ Qo'y, echki va qoramol
+- Bemor odam va sog'lom tashuvchilar, ular orasidan aerozol yo'li bilan
+- Cho'chqa va uy parrandalari, ayniqsa yosh jo'jalar va cho'chqa bolalari
+- Yovvoyi kemiruvchilar va hasharotxo'rlar, faqat tabiiy o'choqlarda
+- Daydi itlar va mushuklar, ularning so'lagi orqali
+! Qo'y, echki va qoramol qo'zg'atuvchini siydik, sut va tug'ruq mahsulotlari bilan ajratadi, shu sababli ular chorvachilikdagi asosiy xavf hisoblanadi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasi qo'zg'atuvchisi qaynatilganda necha daqiqada o'ladi?
++ 5 daqiqada
+- 30 soniyada
+- 60 daqiqada, uzoq qaynatishdan keyingina
+- 2 soatda, bunda ham tirik hujayralar qolishi mumkin
+- 15 sekundda, qaynash boshlanishi bilanoq
+! Mikrob 80–90 °C da ham yarim soat tirik qoladi, lekin qaynatishda tez nobud bo'ladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasining yashirin davri qancha davom etadi?
++ 3–32 kun, o'rtacha 1–2 hafta
+- 1–2 kun, o'rtacha 12 soat
+- 2–3 oy, o'rtacha 10 hafta davomida
+- 6–12 oy, o'rtacha 8 oy davomida
+- 40–60 kun, o'rtacha 50 kun davomida
+! Yashirin davr bir necha kundan bir oygacha cho'ziladi, ko'pincha o'rtacha ikki hafta atrofida bo'ladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasi qo'zg'atuvchisi yuqtiruvchi dozasi ba'zan qancha hujayradan kam bo'lishi mumkin?
++ 10 hujayradan kam
+- 1000 hujayradan kam
+- 100 000 hujayradan kam
+- 10 million hujayradan kam
+- 1 milliard hujayradan kam
+! Qo'zg'atuvchi juda yuqumli bo'lib, kirish yo'llari ochiq bo'lsa, juda oz miqdor ham kasallik chaqirishi mumkin.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Serologik tekshiruvda juft zardob orasida titrning qanday o'zgarishi o'tkir Ku isitmasini ko'rsatadi?
++ 4 marta oshishi
+- 2 marta oshishi
+- 2 marta kamayishi
+- 8 marta kamayishi
+- O'zgarmasdan, doimiy past saqlanishi
+! Birinchi va 10–12 kundan keyin olingan zardoblarda antitela titrining to'rt karra oshishi yaqinda boshlangan infeksiyani tasdiqlaydi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasining har bir kasallik yoki gumon holati haqida shoshilinch xabarnoma necha soat ichida yuboriladi?
++ 12 soat ichida
+- 2 soat ichida
+- 24 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+! Shoshilinch xabarnoma o'choqda tezkor epidemiologik tekshiruvni boshlash imkonini beradi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasi o'chog'ida xavf ostidagi shaxslar ustidan necha kun tibbiy kuzatuv o'rnatiladi?
++ 30 kun
+- 7 kun
+- 14 kun
+- 60 kun
+- 90 kun
+! Kuzatuv muddati yashirin davr va kasallikning kech namoyon bo'lishi imkoniyatini hisobga olib belgilangan.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasi bilan og'rib tuzalganlar infeksionist dispanser kuzatuvida qanday tartibda turadi?
++ Yiliga 2 marta, 2 yil davomida
+- Har oy, 6 oy davomida
+- Yiliga 1 marta, 1 yil davomida
+- Har chorakda, 5 yil davomida
+- Yiliga 4 marta, 3 yil davomida
+! Surunkali shaklga o'tish ehtimoli borligi uchun tuzalganlar uzoq muddat nazoratda bo'ladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasi emlashi kimlarga o'tkaziladi?
++ 18 yoshdan oshgan, qo'y-echki tipidagi o'choqlarda kasal hayvonlardan olingan xomashyoni qayta ishlovchilarga
+- Barcha maktab o'quvchilariga va talabalarga, milliy emlash kalendari doirasida majburiy dastur sifatida
+- Homilador ayollarga va emizikli onalarga, ikkinchi trimestrdan boshlab sog'liqni saqlash muassasalarida
+- Kasal bolalarni parvarish qiluvchi oila a'zolariga va yaqin qarindoshlariga, bemor aniqlangach darhol
+- Shahar aholisining barcha 40 yoshdan oshganlariga, besh yilda bir marta
+! Emlash kasbiy xavf ostidagi katta yoshli shaxslarga, epizootik va epidemik ko'rsatmalar asosida o'tkaziladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Go'sht qayta ishlash korxonalarida devorlar qanday balandlikkacha plitka bilan qoplanishi ko'rsatilgan?
++ 1,8 m balandlikkacha
+- 0,5 m balandlikkacha
+- 1,2 m balandlikkacha
+- 2,5 m balandlikkacha
+- 3,0 m balandlikkacha
+! Plitka devorlarni namlab yuvish va dezinfeksiya qilish imkonini beradi, bu qo'zg'atuvchining chidamliligi sababli muhim.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Nima uchun Ku isitmasi o'choqlarida bemorni ajratish asosiy tadbir hisoblanmaydi?
++ Odamning epidemiologik roli yo'q, odam infeksiya manbai bo'lmaydi
+- Kasallik faqat sut mahsulotlari orqali yuqadi va aloqa orqali yuqmaydi
+- Qo'zg'atuvchi odam tanasida tezda nobud bo'lib, ajralmaydi
+- Kasallik doim yengil o'tadi va asoratlar qoldirmaydi
+- Odamlarda bu infeksiyaga qarshi hamma uchun mustahkam tug'ma immunitet mavjud
+! Qo'zg'atuvchi odamdan odamga yuqmaydi, shuning uchun e'tibor hayvon manbalari va xavf omillarini bartaraf etishga qaratiladi.
+@ O'zR SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova

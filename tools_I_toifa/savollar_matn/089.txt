@@ -1,0 +1,97 @@
+=== 089
+? 1333-yildan boshlangan va 50 milliondan ortiq kishining o'limiga sabab bo'lgan o'lat pandemiyasi qanday nomlanadi?
++ ikkinchi pandemiya, «qora o'lim»
+- birinchi pandemiya, «Yustinian o'lati»
+- uchinchi pandemiya, «Xitoy-Hindiston o'lati»
+- to'rtinchi pandemiya, «Sibir o'lati»
+- ikkinchi pandemiya, «Marsel vabosi»
+! Birinchi pandemiya 527–580 yillarda, uchinchisi esa 1894-yilda Xitoy va Hindistonda boshlangan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'latning bubon shaklida yashirin davr qancha davom etadi va bubon qanday xususiyatga ega?
++ bir necha soatdan 6 kungacha, bubon tuxumdek, qattiq, harakatsiz va og'riqli
+- 2–3 hafta, bubon yumshoq, harakatchan va og'riqsiz, rangi o'zgarmaydi
+- 1–2 oy, bubon suyuqlik bilan to'lgan pufak shaklida, tez yorilib ketadi
+- 6–12 oy, bubon qizil dog' ko'rinishida, yuzaki joylashadi va qichishadi
+- bir necha daqiqa, bubon yaralar bilan qoplangan, juda yumshoq va yopishqoq
+! Limfa tugunining shikastlanishi bubonga xos bo'lib, uning qattiq va og'riqli bo'lishi tashxisda yordam beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Nima uchun o'latning o'pka shakli kam uchrasa ham eng xavfli hisoblanadi?
++ bemor yo'talganda qo'zg'atuvchini 2 metrgacha masofaga tarqatadi, ya'ni havo-tomchi yo'li bilan yuqadi
+- bemor faqat teri jarohatlari orqali yuqtiradi va yaqin aloqa shart bo'lmaydi, shu sababli u kam xavfli
+- qo'zg'atuvchi bemor siydigi bilan chiqib, suv havzalarini ifloslantiradi va ichimlik suvi orqali tarqaladi
+- bemor kasallikning birinchi kunidan boshlab o'z-o'zidan tuzaladi va atrofdagilar uchun xavfsiz bo'lib qoladi
+- bu shakl faqat hayvonlarda uchraydi va odamga hech qachon yuqmaydi
+! O'pka shaklida qo'zg'atuvchi nafas yo'llaridan ajraladi va havo-tomchi orqali tez tarqaladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010); WHO. Plague (fact sheet)
+? O'latning serologik (RPGA) va PZR usullari natijasi qancha vaqtda olinadi?
++ RPGA 2 soatda, PZR 3 soatda
+- RPGA 6 kunda, PZR 3 kunda
+- RPGA 3 kunda, PZR 6 kunda
+- RPGA 24 soatda, PZR 48 soatda
+- RPGA 10 daqiqada, PZR 30 daqiqada
+! Bu usullar tezkor bo'lib, bakteriologik va biologik usullarga qaraganda natijani ancha tez beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'latning qaysi yuqish mexanizmi qaysi klinik shaklga olib keladi?
++ transmissiv va kontakt yo'lda bubon, havo-tomchi yo'lida o'pka shakli rivojlanadi
+- havo-tomchi yo'lida bubon, transmissiv va kontakt yo'lda o'pka shakli rivojlanadi
+- alimentar yo'lda bubon, havo-tomchi yo'lida teri shakli rivojlanadi
+- barcha mexanizmlarda faqat bitta klinik shakl, ya'ni bubon rivojlanadi
+- transmissiv yo'lda o'pka, alimentar yo'lda esa faqat septik shakl rivojlanadi
+! Qo'zg'atuvchi qayerdan kirsa, klinik shakl ham shunga mos bo'ladi: teri orqali limfa tugunlari, nafas yo'li orqali o'pka zararlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Qaysi shakldagi o'lat bemorlari atrofdagilar uchun xavfli manba hisoblanadi?
++ o'pka va septik shakldagi bemorlar
+- faqat bubon shaklidagi, sepsissiz kechayotgan bemorlar
+- tuzalib ketgan va antitelalari paydo bo'lgan bemorlar
+- o'lat bo'yicha emlangan sog'lom shaxslar
+- bemor bilan aloqada bo'lmagan hamma odamlar
+! O'pka va septik shaklda qo'zg'atuvchi bemor ajralmalari bilan tashqi muhitga tushadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Qo'llanmaga ko'ra, o'latning oldini olish qaysi ikki yo'nalishda amalga oshiriladi?
++ kasallikning hududga chetdan kirib kelishining oldini olish va tabiiy o'choqli hududlardagi aholini muhofazalash
+- aholini davolash, kasalxonalar sonini ko'paytirish hamda dori vositalarini xorijdan sotib olish va omborlarda saqlash
+- kemiruvchilarni to'liq yo'qotish va barcha tabiiy o'choqlarni sun'iy ravishda sug'orib, o'simlik ekish
+- aholini ommaviy ko'chirish, barcha cho'l hududlarni yopib qo'yish va ularga kirishni taqiqlash
+- tuyalarni mamlakatdan chiqarib yuborish va chorvachilikni butunlay to'xtatib, aholini qayta joylashtirish
+! Profilaktika importni to'sish va o'choqlardagi aholini himoyalashni birlashtiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Kemada yoki samolyotda o'lat bemori yoki kemiruvchi topilsa, transport bilan qanday ish yuritiladi?
++ transport zararlangan deb baholanib, yuk, buyum va transport dezinfeksiya, dezinseksiya va deratizatsiya qilinadi
+- transport zararlanmagan deb hisoblanadi va faqat bemor tushirilib, qolgan hammasi ruxsat bilan uchib ketadi
+- transport darhol cho'ktiriladi yoki yoqiladi, yuk esa tekshirilmasdan yo'q qilinadi
+- yo'lovchilarning shaxsiy buyumlari musodara qilinadi, transportga esa tegilmaydi
+- yuk sotuvga chiqariladi, transport esa bir hafta ochiq havoda quritilgach foydalaniladi
+! Qo'zg'atuvchi va uning tashuvchilari transportda saqlanishi mumkin, shu sababli to'liq zararsizlantirish o'tkaziladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? O'zbekistonda o'latga qarshi maxsus profilaktika uchun qaysi vaksina qo'llanadi?
++ tirik quritilgan EV vaksinasi
+- BCG vaksinasi
+- o'ldirilgan butun hujayrali ko'kyo'tal vaksinasi
+- konjugatsiyalangan pnevmokokk vaksinasi
+- rekombinant HBsAg vaksinasi
+! EV shtammidan tayyorlangan tirik vaksina o'lat qo'zg'atuvchisiga qarshi maxsus himoya beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? Epidemiyaga qarshi reja bo'yicha «o'choqni cheklash va tugatish» bosqichiga qaysi tadbirlar kiradi?
++ bemor va muloqotdagilarni ajratish va profilaktik davolash, dezinfeksiya, dezinseksiya, deratizatsiya, vaksinatsiya
+- tibbiyot xodimlarini dastlabki o'qitish, xabar berish sxemasini osib qo'yish va jamlamalar saqlanadigan joyni belgilash
+- bemorni izolyatsiya qilish, shifoxona rahbariga xabar berish, maslahat guruhini chaqirish va namunalar olish
+- namuna olish jamlamalarini sotib olish, ularni omborxonaga joylashtirish va ro'yxatga kiritish
+- o'choq yopilgach 10 yil davomida hech qanday tadbirsiz, faqat kuzatib borish va hisobot yuritish
+! Bu bosqichda tarqalish yo'llari uziladi, aloqadorlarga profilaktika o'tkaziladi va hudud zararsizlantiriladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? 1894-yilda boshlangan uchinchi o'lat pandemiyasi qayerda boshlangan va qancha kishining o'limiga sabab bo'lgan?
++ Xitoy va Hindistonda boshlanib, taxminan 12 million kishi vafot etgan
+- Yevropada boshlanib, taxminan 100 million kishi vafot etgan
+- Afrikada boshlanib, taxminan 50 million kishi vafot etgan
+- Janubiy Amerikada boshlanib, taxminan 200 million kishi vafot etgan
+- Avstraliyada boshlanib, taxminan 1 million kishi vafot etgan
+! Bu pandemiya portlar orqali tarqalgan, ammo oldingi ikki pandemiyaga qaraganda o'lim kamroq bo'lgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (2010)
+? JSST ma'lumotiga ko'ra, so'nggi yillarda o'latning aksariyat odam holatlari qaysi mamlakatlarda qayd etilgan?
++ Kongo Demokratik Respublikasi va Madagaskarda
+- Yaponiya, Janubiy Koreya va Singapurda
+- Germaniya, Fransiya, Buyuk Britaniya va Italiyada
+- Braziliya, Argentina va Chilida
+- Kanada, Meksika va Kubada
+! Kasallik hozir antibiotiklar bilan davolanadi, ammo ayrim mintaqalarda hamon tarqaladi.
+@ WHO. Plague (fact sheet)

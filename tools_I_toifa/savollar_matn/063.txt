@@ -1,0 +1,101 @@
+=== 063
+? JSST ma'lumotiga ko'ra, 2024 yilda dunyoda silning taxminiy yangi holatlari va o'limlari qancha bo'lgan?
++ taxminan 10,7 million kasallanish va 1,23 million o'lim
+- taxminan 1,07 million kasallanish va 123 ming o'lim
+- taxminan 25 million kasallanish va 8 million o'lim, asosan OIV tufayli
+- taxminan 3 million kasallanish va 3 million o'lim
+- taxminan 50 million kasallanish va 10 million o'lim
+! Sil dunyoda yagona yuqumli qo'zg'atuvchidan o'limning yetakchi sababi bo'lib qolmoqda.
+@ WHO. Tuberculosis (fact sheet)
+? Sil bakteriyalari bilan zararlangan odamlarning qancha qismida kasallik rivojlanadi?
++ taxminan 5–10%
+- taxminan 50–60%
+- taxminan 90–95%, ko'pincha yashirin davrdan keyin
+- taxminan 25–30%, aksariyati bolalarda
+- taxminan 0,1% dan kam
+! Ko'pchilik zararlangan kishilarda infeksiya yashirin kechadi va faol kasallikka aylanmaydi.
+@ WHO. Tuberculosis (fact sheet)
+? Qaysi bemor sil infeksiyasining eng xavfli manbai hisoblanadi?
++ parchalanish bosqichidagi bakteriya ajratuvchi o'pka sili bemori
+- o'pkadan tashqari shakldagi, bakteriya ajratmaydigan sil bemori
+- BCG vaksinasi yuborilgandan keyin 3 kun o'tgan sog'lom chaqaloq
+- Mantu sinamasi musbat bo'lgan, ammo kasallik belgisiz bolalar
+- tuzalgan va balg'amida bakteriyalar uzoq vaqt aniqlanmagan kishi
+! Parchalanish bosqichida balg'amda juda ko'p Koch tayoqchasi bo'lib, havoga ko'p qo'zg'atuvchi ajraladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.5-bo'lim
+? Sil yuqishida havo-tomchi yo'li zararlanish holatlarining qancha qismini tashkil etadi?
++ 90–95%
+- 20–30%
+- 5–10%
+- 50–60%
+- 100%, boshqa yo'llar mutlaqo uchramaydi
+! Asosiy yo'l havo-tomchi; alimentar va boshqa yo'llar kam ahamiyatga ega.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.5-bo'lim
+? OIV bilan yashovchilarda silga chalinish xavfi OIV bo'lmagan kishilarga nisbatan necha baravar yuqori?
++ 12 baravar
+- 2 baravar
+- 50 baravar
+- 5 baravar
+- 100 baravardan ko'p
+! OIV immunitetni susaytiradi va yashirin sil infeksiyasining faol kasallikka o'tishini tezlashtiradi.
+@ WHO. Tuberculosis (fact sheet)
+? O'zbekiston Sog'liqni saqlash vazirining 2014 yil 24 oktabrdagi 383-son buyrug'iga ko'ra, sil o'choqlari epidemiologik xavfi bo'yicha nechta guruhga bo'linadi?
++ to'rtta guruhga
+- ikkita guruhga
+- uchta guruhga
+- beshta guruhga, beshinchisi zoonoz
+- oltita guruhga
+! Buyruq 13-ilovasi o'choqlarni bakteriya ajratish, dori sezuvchanligi va og'irlashtiruvchi omillarga ko'ra to'rt guruhga ajratadi.
+@ O'zR SSV 2014-yil 24-oktabrdagi 383-son buyrug'i, 13-ilova
+? Bakteriya ajratuvchi sil bemoriga «shoshilinch xabarnoma» (058/u) qancha muddatda yuboriladi?
++ 24 soat ichida
+- 3 kun ichida
+- 7 kun ichida
+- 12 soat ichida
+- 1 oy ichida
+! Shoshilinch xabarnoma o'choqda tezkor tadbirlarni boshlash uchun yuboriladi.
+@ O'zR SSV 2014-yil 24-oktabrdagi 383-son buyrug'i, 13-ilova
+? Sil o'chog'ida yakuniy dezinfeksiya qachongacha o'tkazilishi kerak?
++ bemor yotqizilgan, vafot etgan yoki chiqib ketgan kundan boshlab bir sutkadan kechiktirmay
+- bemor aniqlangandan keyin, o'choq tekshiruvi to'liq yakunlangach, taxminan 10 kun o'tgach
+- bemor chiqib ketgandan keyin 1 oy ichida, sanitariya-epidemiologiya markazining rejasi bo'yicha
+- kontaktdagilarning flyuorografiyasi tugagach va ularga kimyoprofilaktika tayinlangach
+- bemor uchun kimyoprofilaktika boshlangunga qadar
+! Yakuniy dezinfeksiya qo'zg'atuvchi tashqi muhitda uzoq saqlanishi sababli tezda o'tkaziladi.
+@ O'zR SSV 2014-yil 24-oktabrdagi 383-son buyrug'i, 13-ilova
+? Bakteriya ajratuvchi sil bemori o'chog'iga ftiziatr va epidemiolog qancha muddatda birgalikda boradi?
++ uch kundan kechiktirmay
+- bir oy ichida
+- 14 kun ichida
+- bir sutka ichida, ertasi kuni
+- 2 oy ichida
+! O'choqni erta tekshirish kontaktdagilarni aniqlash va zararlanishning oldini olish imkonini beradi.
+@ O'zR SSV 2014-yil 24-oktabrdagi 383-son buyrug'i, 13-ilova
+? BCG vaksinasi asosan nimadan himoya qiladi?
++ silning og'ir shakllaridan (sil meningiti, tarqalgan sil) va o'limdan
+- yuqori nafas yo'llari infeksiyalaridan va gripp virusidan
+- kasallanishdan, tuberkulin sinamasini manfiy holatda ushlab turish orqali
+- o'pka silining bakteriya ajratuvchi shakllaridan, doimiy ravishda
+- OIV bilan koinfeksiyaning rivojlanishidan va zoonoz sildan
+! Vaksina bolalarda kasallikning og'ir tarqalgan ko'rinishlari xavfini kamaytiradi.
+@ WHO. Tuberculosis (fact sheet)
+? OIV bilan yashovchi, CD4 hujayralari 50/mkl dan kam bo'lgan sil bemorida antiretrovirus terapiya qachon boshlanadi?
++ sil davosi boshlanganidan keyin 2 hafta ichida
+- sil davosi tugagandan keyin 6 oy o'tgach
+- sil davosining 8-haftasidan keyin, boshqa shartsiz
+- sil davosi boshlanishidan oldin, avval ART, keyin sil davosi
+- CD4 100 ga yetgunga qadar kutiladi
+! CD4 juda past bo'lsa, o'lim xavfi yuqori bo'lgani uchun ART erta qo'shiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (OIV infeksiyali bemorlar dispanser nazorati bo'yicha milliy klinik protokol)
+? MDR-sil qanday ta'riflanadi?
++ qo'zg'atuvchi rifampitsin va izoniazidga javob bermaydigan sil
+- qo'zg'atuvchi faqat pirazinamidga sezgir bo'lmagan sil
+- sil bilan OIV koinfeksiyasi bo'lgan sil
+- faqat etambutolga chidamli, boshqa dorilarga sezgir sil
+- o'pkadan tashqari joylashgan, bakteriya ajratmaydigan sil
+! Ko'p dori-chidamlilik eng muhim ikki birinchi qator preparatga chidamlilikni bildiradi.
+@ WHO. Tuberculosis (fact sheet)
+#D 063 / 6: darslikda sil o'choqlari xavf darajasi bo'yicha 5 guruhga (beshinchisi zoonoz) bo'lingan, 383-son buyruqda esa to'rt guruh; savol buyruqqa tayanadi.
+#U 063 / 7: 058/u shoshilinch xabarnomani 24 soat ichida yuborish muddati faqat mavzu materialida (buyruq ilovasidan) keltirilgan, matn tashqi manba bilan solishtirilmagan.
+#U 063 / 8: yakuniy dezinfeksiyaning bir sutka muddati faqat mavzu materialida keltirilgan.
+#U 063 / 9: ftiziatr va epidemiolog o'choqqa uch kun ichida borishi faqat mavzu materialida keltirilgan.

@@ -1,0 +1,97 @@
+=== 113
+? Kontagioz gelmintozlarning asosiy ta'rifi qaysi javobda berilgan?
++ tuxumi odam organizmidan to'liq yetilgan holda chiqib, darhol kontakt yo'li bilan yuqadigan gelmintozlar
+- tuxumi tuproqda taxminan uch hafta davomida yetilgandan keyingina yuqumli bo'ladigan va oraliq xo'jayinsiz kechadigan gelmintozlar
+- lichinkasi baliq yoki go'sht orqali yuqib, bir yoki ikkita oraliq xo'jayin orqali rivojlanadigan gelmintozlar
+- qon so'ruvchi hasharotlar chaqishi orqali yuqadigan va tabiiy o'choqlarga ega gelmintozlar
+- hayvonlardan odamga havo-tomchi yo'li bilan o'tadigan zooantroponoz gelmintozlar
+! Bunday gijjalar tuxumi tashqi muhitda yetilishni talab qilmaydi, shu sababli bevosita kontakt orqali yuqish xarakterlidir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Enterobiozning qo'zg'atuvchisi qaysi?
++ Enterobius vermicularis
+- Ascaris lumbricoides
+- Strongyloides stercoralis
+- Hymenolepis nana
+- Taenia saginatus
+! Ostritsa bolalar orasida eng ko'p uchraydigan gelmintoz qo'zg'atuvchisidir va anal teshik atrofiga tuxum qo'yadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Enterobiozda epidemiologik inkubatsiya davri qancha?
++ 2 hafta
+- 3 hafta
+- 2,5–3 oy
+- 10–36 kun
+- 1 oy
+! Ostritsalar odam ichagida juda tez yetiladi, shuning uchun bu davr kontagioz gelmintozlar ichida qisqa.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Enterobiozda qo'llar va ichki kiyim orqali takroriy zararlanishga nima imkon beradi?
++ tuxumlarning anal teshik atrofiga qo'yilishi va qichishish tufayli qo'llarga o'tishi, keyin esa og'izga tushishi
+- tuxumlarning faqat tuproqda yetilishi va ekinlar orqali sabzavotlarga o'tishi hamda ovqat bilan yutilishi
+- lichinkalarning teri orqali kirib, qon aylanishi bilan o'pkaga yetib borishi va yo'tal bilan yutilishi
+- oraliq xo'jayin hisoblangan hasharotlarning tasodifan yutilishi va ichakda rivojlanishi
+- qon quyish yoki shifokorning noto'g'ri sterilizatsiyalangan asboblari orqali kirishi
+! Autoinvaziya tuxumning teridan qo'l orqali og'izga o'tishiga asoslanadi va jamoalarda tez tarqalishni ta'minlaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 16.11-bo'lim
+? Bolalar jamoasida bir marta tekshirilganda qaysi darajada invaziya topilsa, jamoa 100% davolanadi?
++ 15% va undan yuqori
+- 5% va undan yuqori
+- 30% va undan yuqori
+- 50% dan yuqori
+- 1% dan yuqori
+! Chegara belgilangan darajadan oshganda tanlab emas, butun jamoa antigelmint bilan davolanadi va samaradorlik qayta tahlil qilinadi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? JSST ko'rsatmasiga ko'ra rejali tanlab tekshiruvda bolalar jamoalarining kamida qancha qismi qamrab olinadi?
++ 5%
+- 1%
+- 25%
+- 50%
+- 100%
+! Tanlab tekshiruv jamoadagi umumiy vaziyatni baholash uchun yetarli ulushni qamrab oladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Enterobiozda qayta tekshiruvlar qanday oraliqda o'tkaziladi?
++ 3 marta, 2–3 kun oralatib
+- 3 marta, 5–7 kun oralatib
+- 2 marta, 1 oy oralatib
+- 4 marta, 10–15 kun oralatib
+- 1 marta, 6 oydan keyin
+! Enterobiozda tuxum ajralishi muntazam bo'lmagani uchun qisqa oraliqda takroriy tekshirish olib boriladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Maishiy dezinfeksiyada gijja tuxumlariga qarshi qaysi vosita samarasiz hisoblanadi?
++ xlorli eritmalar
+- sovun-soda eritmalari
+- qaynoq suv
+- dazmollash
+- ultrabinafsha nur
+! Xlorli vositalar gijja tuxumiga ta'sir qilmaydi, shu sababli sovun-soda eritmalari va issiqlik ishlovi tavsiya etiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Sutkalik yopiq muassasalarda tekshiruvsiz profilaktik davolash qay tartibda o'tkaziladi?
++ yiliga 2 marta, 1 kurs
+- yiliga 1 marta, 3 kurs
+- har oyda 1 marta, 1 kurs
+- har 3 yilda 1 marta, 2 kurs
+- faqat epidemik ko'rsatma bo'yicha, ikki hafta oralatib
+! Yopiq jamoalarda qayta zararlanish xavfi yuqori bo'lgani uchun profilaktik davolash muntazam o'tkaziladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Sanitariya-gelmintologik nazoratda surtmalar qaysi eritmaga botirilgan tamponlar yordamida olinadi?
++ 1% natriy ishqori yoki 20% glitserin eritmasi
+- 3% xloramin yoki 5% fenol eritmasi
+- 70% etil spirti yoki 10% yod eritmasi, tamponlar bilan
+- 0,9% natriy xlorid yoki distillangan suv
+- 2% soda yoki 1% sulfat kislota eritmasi
+! Bu eritmalar yuzalardagi tuxumlarni tamponga o'tkazish va keyingi mikroskopiyada aniqlash uchun ishlatiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Sanitariya-gelmintologik nazoratda qaysi holat sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi?
++ birorta namunaning musbat chiqishi
+- namunalarning kamida yarmi musbat chiqishi
+- namunalarning 15% dan ko'pi musbat chiqishi
+- musbat namunalar uch marta ketma-ket takrorlanishi
+- faqat tuproq namunasining musbat chiqishi
+! Hatto bitta musbat namuna ham tashqi muhitning ifloslanganini bildiradi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova
+? Enterobioz bo'yicha nima uchun bolalar va xodimlarni davolash dam olish kunlarida o'tkazilishi tavsiya etiladi?
++ davolangan bola dastlabki kunlarda ham gijja tuxumlarini ajratib, jamoani yuqtirishi mumkin
+- davolash preparatlari faqat dam olish kunlarida ichakda to'liq so'riladi va yaxshi ta'sir qiladi
+- jamoa bo'sh bo'lganda xonalarni xlorli eritmalar bilan dezinfeksiya qilish osonroq bo'ladi
+- bolalar muassasada bo'lganda dori vositalarining nojo'ya ta'siri kuchayib ketadi
+- dam olish kunlari laboratoriyalarda najas tekshirish ishlari ko'proq bajariladi
+! Davolangandan keyin ham qisqa muddat tuxum ajralishi davom etgani uchun jamoa bo'lmagan paytda davolash qayta yuqish xavfini kamaytiradi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova

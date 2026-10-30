@@ -1,0 +1,98 @@
+=== 020
+? Amaliyotda tahlil muddati va maqsadiga ko'ra qaysi ikki asosiy tur ajratiladi?
++ Operativ (tezkor) va retrospektiv epidemiologik tahlil
+- Tavsifiy va eksperimental epidemiologik tahlil usullari
+- Klinik va laboratoriya epidemiologik tahlili
+- Mutlaq va nisbiy epidemiologik tahlil
+- Birlamchi va ikkilamchi epidemiologik tahlil
+! Birinchisi joriy holatni, ikkinchisi o'tgan davr dinamikasini baholaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ epidemiologik tahlil (OET) nimadan iborat?
++ Kasallanishning joriy holatini kundalik, haftalik yoki oylik ko'rsatkichlar asosida doimiy kuzatish
+- Epidemik jarayonning o'tgan davrdagi dinamikasini yil oxirida baholash va kelgusi yilga prognoz tuzish
+- Sabab-oqibat bog'lanishlarini faqat eksperimental sinov orqali aniqlash
+- Aholining immun qatlamini serologik tekshiruv orqali baholash
+- Kasallanish sabablarini kalendar yil oxiridagi hisobot orqali aniqlash
+! OET epidemik vaziyatning ehtimol tutilgan o'zgarishlarini doimiy kuzatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? O'tkir, ko'pincha ovqat orqali yuzaga keladigan avj olishlarda vaqt dinamikasi qanday ko'rsatkichlarda tahlil qilinadi?
++ Kundalik ko'rsatkichlarda
+- Haftalik ko'rsatkichlarda
+- Oylik ko'rsatkichlarda
+- Choraklik ko'rsatkichlarda
+- Yillik ko'rsatkichlarda
+! Tez rivojlanuvchi avj olishlarda kunlik kuzatuv o'zgarishni o'z vaqtida ko'rsatadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? OET uchun odatdagi kasallanish ko'rsatkichlarini bilish nima uchun shart?
++ Ular etalon vazifasini o'taydi
+- Ular davolash sxemasini belgilaydi
+- Ular emlash kalendarini o'zgartiradi
+- Ular qo'zg'atuvchi turini aniqlaydi
+- Ular dezinfeksiya vositasini tanlaydi
+! O'zgarishni aniqlash uchun joriy ko'rsatkich odatdagi daraja bilan solishtiriladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Mavsumiy ko'tarilish paytida avj olishni aniqlash nima uchun qiyin?
++ Umumiy o'sish fonida avj olish ajralib ko'rinmaydi, shuning uchun guruhlar darajasi kerak
+- Kasallanish mavsumda hech qachon o'zgarmaydi, shu bois guruhlar o'zaro solishtirilmaydi va tahlil qilinmaydi
+- Laboratoriya mavsumiy davrda ishlamaydi, shu bois namunalar tekshirilmaydi va natija chiqmaydi
+- Xabarnomalar mavsumiy davrda yuborilmaydi, shu bois ro'yxatga olish to'xtab qoladi
+- Epidemiolog mavsumiy davrda ishlamaydi, shu bois ma'lumot yig'ilmaydi va tahlil bajarilmaydi
+! Yosh guruhlari, bolalar muassasalari va hududlar bo'yicha doimiy daraja avj olishni ajratishga yordam beradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv epidemiologik tahlil (RET) odatda qachon o'tkaziladi?
++ Har yili, odatda kalendar yil oxirida yillik hisobotga mos ravishda
+- Har kuni ertalab, bemor aniqlangan zahoti
+- O'lat yoki vabo aniqlangan taqdirdagina, favqulodda tartibda va bir marta
+- Har haftada, dam olish kunlarida
+- Faqat emlash kampaniyasi boshlanishidan oldin bir marta
+! Ko'p yillik tahlil ayniqsa qimmatli, chunki barqaror tendensiyalar bilan birga tasodifiy avj olishlar ham ko'rinadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, RETning samaradorligi nimaga bog'liq?
++ Operativ tahlil sifatiga
+- Aholining ijtimoiy-iqtisodiy holatiga
+- Dorixonalar soniga
+- Laboratoriyadagi reaktivlar zaxirasiga
+- Emlash kalendarining uzunligiga
+! Retrospektiv tahlil avj olishni aniqlaydi, uning sababini esa mahorat bilan o'tkazilgan operativ tahlil ochadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? RET uchun qaysi ma'lumotlar zarur?
++ Hisobot hujjatlari, demografik tavsif, ijtimoiy-tabiiy omillar, suv ta'minoti va turar joy sharoiti
+- Bemorlarning ambulator kartalari va ularning davolash natijalari, shifokorlar belgilagan dori dozalari
+- Laboratoriya reaktivlarining narxi, yetkazib beruvchilar ro'yxati va omborxona hisobotlari, xodimlar ish haqi
+- O'tgan haftadagi kundalik xabarnomalar ro'yxati va shu hafta davomida kelgan qo'ng'iroqlar qaydlari
+- Dorixonalar savdo hisobotlari va ularning daromadlari, shuningdek, moliyaviy tahlil natijalari va soliq yozuvlari
+! Tahlilning sabab-oqibat qismi ijtimoiy va tabiiy omillar haqidagi ma'lumotlarga tayanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikda retrospektiv tahlil nechta izchil bosqichdan iborat deb ko'rsatilgan?
++ To'rtta bosqich
+- Ikkita bosqich
+- Uchta bosqich
+- Beshta bosqich
+- Oltita bosqich
+! Dastur tuzish, guruhlash va ko'rgazmali qilish, tavsiflash va analitik bosqichlar shular.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv tahlilda bir yoshgacha bolalar qaysi infeksiyalarda alohida ko'rsatiladi?
++ Meningokokk infeksiyasi va koli-enteritlarda
+- Qizilcha va suvchechak kabi bolalar infeksiyalarida
+- Gepatit A va gepatit E kabi ichak infeksiyalarida
+- Brutsellyoz va kuydirgida
+- Vabo va o'latda
+! Bu infeksiyalarda bir yoshgacha bolalar eng moyil guruh hisoblanadi.
+@ Mavzu materiali (020.txt)
+? Ko'p yillik dinamikada tendensiyani aniqlash uchun ko'rsatkichlar ba'zan qanday shaklda beriladi?
++ Bazis yil 100 % deb olingan ko'rgazmali shaklda
+- Mutlaq sonlar yig'indisi shaklida
+- O'rtacha arifmetik qiymat shaklida
+- Har yilgi eng yuqori ko'rsatkich 100 % deb olingan shaklda
+- Faqat qo'shni hudud ko'rsatkichiga nisbatan foizda
+! Bunday shakl tendensiyani ko'rishni osonlashtiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), Toshkent, 2016
+? Jon Snou 1854-yilda gipotezasini qanday sinagan?
++ Suv kompaniyalari ta'minlagan tumanlarni taqqoslash bilan
+- Quduq suvidan ajratilgan vabo qo'zg'atuvchisini mikroskopda ko'rsatib
+- Barcha aholini emlab, kasallanish o'zgarishini kuzatib
+- Bemorlarni karantinga olib, o'lim ko'rsatkichini hisoblab
+- Havo namunalarini olib, laboratoriyada ekib
+! Avval nuqtali xarita orqali Broad Street quduq suvi haqida gipoteza ilgari surilgan.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+#U 020 / 10: meningokokk infeksiyasi va koli-enteritlarda bir yoshgacha bolalarni alohida ajratish - faqat darslik matniga tayangan, tashqi manba bilan tasdiqlanmagan.

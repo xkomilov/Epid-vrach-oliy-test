@@ -1,0 +1,97 @@
+=== 083
+? Milliy yo'riqnoma tibbiyot muassasalaridagi parenteral gepatit bilan zararlanishni epidemik jarayonning qaysi yo'li deb belgilaydi?
++ sun'iy yo'l, tibbiy muolajalar orqali amalga oshadigan zararlanish
+- tabiiy yo'l, ona va bola o'rtasidagi vertikal uzatilish orqali
+- tabiiy yo'l, oila a'zolari orasidagi kontakt-maishiy aloqa orqali
+- aerogen yo'l, havo-tomchi orqali bemor yo'talganda tarqalish
+- transmissiv yo'l, qon so'ruvchi bo'g'imoyoqlilar chaqishi orqali
+! Muassasada zararlanish asboblar, qon va xodimlar qo'li orqali, ya'ni inson faoliyati bilan bog'liq tibbiy aralashuvlar natijasida yuz beradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Quyidagi bemorlardan qaysi biri HBsAg va anti-HCV ga statsionarga kirishdan oldin tekshirilishi lozim?
++ gemodializ, buyrak ko'chirish va yurak-qon tomir jarrohligi bo'limlari bemorlari
+- o'tkir respirator infeksiya bilan yotgan bolalar, kasalxonaga kirishda
+- bachadon bo'yni yallig'lanishi bor ayollar, ginekologik ko'rikdan oldin
+- ko'z kasalliklari bilan murojaat qilgan keksa bemorlar, kunduzgi statsionarda
+- oddiy shamollash bilan murojaat qilgan kattalar, ambulator qabulda
+! Qon bilan ko'p kontaktda bo'ladigan va invaziv muolajalar olgan bemorlar zararlanish va tarqatish xavfi yuqori guruhda.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Chaqaloqlar uylari, bolalar uylari va ixtisoslashgan internatlardagi bolalar HBsAg va anti-HCV ga qachon tekshiriladi?
++ qabul qilinganda, keyin kamida yiliga 1 marta
+- har oyda 1 marta, bolalar muassasasida bo'lgan butun davr mobaynida
+- faqat kasallik belgilari paydo bo'lganda, shifokor ko'rsatmasi bilan
+- har 5 yilda 1 marta, umumiy tibbiy ko'rik doirasida o'tkazib turiladi
+- qabul qilinganda bir marta, keyinchalik qayta tekshirilmaydi, chunki xavf past
+! Yopiq bolalar muassasalari doimiy o'choqqa aylanishi mumkin, shuning uchun davriy nazorat zarur.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Xavfi yuqori toifadagi tibbiyot xodimlari VGB va VGS markerlari bo'yicha qanday davriylikda to'liq tekshiriladi?
++ yiliga kamida 1 marta
+- 5 yilda kamida 1 marta
+- oyiga kamida 1 marta
+- 3 yilda kamida 1 marta
+- faqat ishga qabul qilinganda bir marta
+! Qon bilan tez-tez kontaktda bo'ladigan xodimlarda yillik tekshiruv zararlanishni erta aniqlashga imkon beradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Tibbiyot xodimida VGB yoki VGS markerlari musbat chiqsa, dastlab qanday chora ko'riladi?
++ vaqtincha ishdan chetlatilib, jigar ultratovushi, biokimyoviy tahlil va PZR bilan chuqur tekshiriladi
+- ishdan chetlatilmaydi, ish tartibi o'zgarmaydi va keyingi yillik ko'rikka qadar kuzatiladi
+- umrbod ishdan bo'shatilib, bepul davolash va ro'yxatga olishsiz uyiga qaytariladi
+- ishlashda davom etadi, faqat qo'shimcha dori sifatida antibiotik kursi buyuriladi
+- boshqa muassasaga ko'chiriladi, chuqur tekshiruvsiz yangi joyda xuddi shu lavozimda ishlaydi
+! Musbat marker bo'yicha xodim bemorlar uchun xavf tug'dirishi mumkinligi sababli uni to'liq baholash kerak.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Qon va uning komponentlarini tayyorlash bilan bevosita band bo'lgan, gepatit markerlari aniqlangan xodimlar bilan qanday ish yuritiladi?
++ ishdan chetlashtirilib, asosiy kasbiga aloqador bo'lmagan ishga o'tkaziladi
+- qo'sh qo'lqop bilan ishlashda davom ettiriladi va qo'shimcha cheklov qo'yilmaydi
+- faqat tungi smenalarda ishlashga o'tkaziladi, qon bilan ishlash saqlanib qoladi
+- vaksina olgandan keyin bir hafta ichida avvalgi lavozimiga qaytariladi
+- ish joyida qoldiriladi, ammo oylik tekshiruvlar soni ikki baravar oshiriladi
+! Qon preparatlarini tayyorlashda xodim orqali ifloslanish keng aholiga yuqish xavfini yaratadi, shuning uchun u mahsulot bilan kontaktdan chiqariladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Donorlar orasida anti-HCV aniqlansa, ular bilan nima qilinadi?
++ umrbod donorlikdan chetlashtiriladi
+- 6 oydan keyin qayta tekshirilib, donorlikka qaytariladi
+- faqat qon topshirishi cheklanadi, plazma topshirishi davom etadi
+- bir yil muddatga chetlashtiriladi, so'ng qaytadan ruxsat beriladi
+- ogohlantirish beriladi, donorlik qilishda davom etadi
+! Donor qoni orqali gepatit C yuqishini to'liq oldini olish uchun musbat shaxs doimiy chetlashtiriladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Nozokomial parenteral gepatitlar profilaktikasida emlash bo'yicha qaysi to'g'ri?
++ VGB ga qarshi emlash tibbiyot xodimlari uchun asosiy himoya, VGS ga qarshi samarali vaksina yo'q
+- VGS ga qarshi emlash xodimlar uchun asosiy himoya, VGB ga qarshi vaksina mavjud emas
+- ikkala gepatitga qarshi bitta kombinatsiyalangan vaksina barcha xodimlarga majburiy qilinadi
+- ikkala infeksiyaga ham emlash zarur emas, chunki ular nozokomial yo'l bilan yuqmaydi
+- VGB vaksinasi faqat bemorlarga beriladi, xodimlar emlanmaydi, himoya sterilizatsiya bilan cheklanadi
+! Gepatit B ga qarshi vaksina bor va xodimlarni himoya qiladi, gepatit C uchun esa vaksina yaratilmagan.
+@ WHO. Hepatitis C (fact sheet); WHO. Hepatitis B (fact sheet)
+? Tibbiyot muassasasi rahbari parenteral gepatitlar bilan zararlanishning oldini olish tadbirlari uchun qanday javobgar bo'ladi?
++ shaxsan javobgar bo'ladi
+- sanitariya-epidemiologiya markazi javobgar bo'ladi, rahbar javobgar emas
+- faqat bosh hamshira javobgar bo'ladi, rahbarga javobgarlik yuklanmaydi
+- javobgarlik umuman belgilanmagan, tadbirlar ixtiyoriy bajariladi
+- javobgarlik jamoaviy bo'lib, bitta shaxsga yuklatilmaydi
+! Infeksion nazoratni ta'minlash muassasa rahbarining bevosita vazifasi hisoblanadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Davolash muassasalarida xodimlarning qaysi holatlari hisobga olib borilishi kerak?
++ mikrotravmalar va qon yoki biologik suyuqliklar teri yoki shilliq qavatga tushgan avariyalar
+- ishga kechikish holatlari va ta'til muddatlari, xodimning shaxsiy ma'lumotlari bilan birga
+- xodimlarning kasallik varaqalari va oylik ish haqi to'lovlari, moliyaviy bo'lim yozuvlari
+- bemorlarning ovqatlanish tartibi va yotoq-kunlar soni, bo'lim hisobotlari
+- dori vositalarining muddati o'tgan seriyalari va omborxona qoldiqlari
+! Bunday avariyalarni hisobga olish zararlanish xavfini baholash va shoshilinch profilaktika choralarini o'z vaqtida qo'llash imkonini beradi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST VGS ning eng ko'p yuqish yo'llari qatoriga qaysi holatni kiritadi?
++ shprits va ignalarni qayta ishlatish yoki yetarli sterilizatsiya qilmaslik
+- xavfsiz oziq-ovqat va suvni iste'mol qilish, qo'lni sovun bilan yuvish
+- bemor bilan quchoqlashish, o'pishish va ovqatni birga yeyish
+- ona suti bilan emizish, chaqaloq va ona o'rtasidagi oddiy kontakt
+- umumiy hojatxonadan foydalanish va bemor kiyimlari bilan kontakt
+! Gepatit C qon orqali yuqadi, oddiy maishiy kontakt va oziq-ovqat orqali esa yuqmaydi.
+@ WHO. Hepatitis C (fact sheet)
+? Post-transfuzion gepatitning asosiy etiologik omillaridan biri bo'lgan VGS ko'pincha qaysi bemorlarda uchraydi?
++ gemofiliya bilan kasallanganlarda
+- siydik yo'llari infeksiyasi bilan davolanayotganlarda
+- oddiy gripp va respirator infeksiya o'tkazganlarda
+- bronxial astma bilan ro'yxatda turgan bemorlarda
+- qandli diabetning yengil shaklida diyetada yurganlarda
+! Gemofiliyada qon preparatlari ko'p va takror quyiladi, shu sababli zararlanish ehtimoli oshadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova

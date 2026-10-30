@@ -1,0 +1,98 @@
+=== 108
+? Uch kunlik bezgakni qaysi qo'zg'atuvchi chaqiradi?
++ Plasmodium vivax parazitlari
+- Plasmodium malariae parazitlari
+- Plasmodium falciparum parazitlari
+- Plasmodium ovale parazitlari
+- Leishmania tropica parazitlari
+! Uch kunlik (tertiana) shakl P. vivax bilan bog'liq, to'rt kunlik shakl esa P. malariae bilan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? P. vivax gipnozoitlarining epidemiologik ahamiyati nimada?
++ jigarda mudroq turib, oylar yoki yillardan keyin retsidiv chaqirishida
+- eritrotsitlarni to'liq parchalab, o'tkir gemoliz va kamqonlikni chaqirishida bemorda
+- chivin organizmida tez ko'payib, uning yuqumlilik darajasini keskin oshirishida
+- bemor qonida doimiy aylanib, tashxisni osonlashtirishida
+- chivin tuxumlari orqali keyingi avlodga o'tishida
+! Jigardagi mudroq shakllar faollashib, qonga o'tganda qaytalanishlar yuzaga keladi va o'choq saqlanib qoladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? P. vivax qaysi eritrotsitlarda parazitlik qiladi va qaysi izoantigen orqali kiradi?
++ yosh eritrotsitlar (retikulotsitlar) da, Duffi izoantigeni (Fy) orqali
+- keksa eritrotsitlarda parazitlik qilib, ABO qon guruhi izoantigeni orqali
+- barcha eritrotsitlarda parazitlik qilib, Rh izoantigeni orqali
+- leykotsitlarda parazitlik qilib, HLA izoantigeni orqali
+- trombotsitlarda parazitlik qilib, Kell izoantigeni orqali
+! Merozoit yosh eritrotsitga Duffi antigeni bilan o'zaro ta'sirlashib kiradi, shuning uchun Duffi-manfiy odamlar vivaksga kam moyil.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016, 19.2-bo'lim
+? P. vivax ning chivin organizmida past haroratda ham rivojlana olishi epidemiologik jihatdan nimaga olib keladi?
++ parazitning keng tarqalishiga, shu jumladan mo'tadil iqlimli hududlarda
+- faqat tropik zonalarda uchrashiga hamda yuqishning sovuqda to'xtashiga
+- bezgakning odamdan odamga havo-tomchi orqali yuqishiga va tarqalishiga
+- kasallikning faqat qishki mavsumda uchrashiga va yozda yo'qolishiga
+- retsidivlarning butunlay yo'qolishiga va uzoq yashirin davr qisqarishiga
+! Chivinda sporogoniya sovuqroq sharoitda ham tugashi mumkin, shu bois vivax boshqa turlarga qaraganda kengroq tarqaladi.
+@ Umirov S.E. va boshq. Bezgakning etiologiyasi... (uslubiy qo'llanma, 2009)
+? Uch kunlik bezgakda retsidivning oldini olish uchun xlorokin bilan birga qaysi dori beriladi?
++ primakin
+- artesunat
+- tetratsiklin
+- gentamitsin
+- rifampitsin
+! Primakin jigardagi gipnozoitlarni yo'qotadi, xlorokin esa faqat eritrotsitar shizontlarga ta'sir etadi.
+@ WHO. Malaria (fact sheet); O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova
+? Uch kunlik bezgak bilan og'riganlar necha yil dispanser nazoratida turadi?
++ 3 yil
+- 6 oy
+- 1 yil
+- 5 yil
+- 10 yil
+! Retsidivlar uzoq yashirin davrdan keyin bo'lishi mumkinligi bois nazorat uzoq davom etadi, tropik bezgakda esa bu muddat 1 yil.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Asoratsiz uch kunlik bezgak bilan og'rigan bemor qayerda davolanishi mumkin?
++ tibbiy xodim nazorati ostida uyda
+- reanimatsiya bo'limida, mexanik ventilyatsiya sharoitida
+- kasalxonaning kardiologiya bo'limida, monitoring ostida
+- jarrohlik bo'limining alohida palatasida, izolyatsiyada
+- sanatoriyda, shifokor ko'rigi va fizioterapiya bilan
+! Asoratsiz uch kunlik bezgakda uy sharoitida nazorat yetarli, tropik bezgak esa shifoxonada davolanadi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Faol va qoldiq faol o'choqlarda mavsumaro profilaktikada primakin qancha kun beriladi?
++ 14 kun
+- 3 kun
+- 7 kun
+- 21 kun
+- 28 kun
+! Primakinning 14 kunlik kursi jigardagi gipnozoitlarga ta'sir qilib, kechiktirilgan retsidivlarning oldini oladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? P. vivax parazitar tizimi qaysi nozogeografik zonada O'zbekiston joylashgan?
++ qisqa va uzoq yashirin davrli shakllar bimodal taqsimlangan zonada
+- uzoq yashirin davrli shakllar ustun bo'lgan Shimoliy Yevro-Osiyo zonasida
+- ko'p qaytalanishli Chesson fenotipi ustun bo'lgan Tinch okeani zonasida
+- faqat qisqa yashirin davrli shakllar uchraydigan tropik Janubiy zonada
+- vivax umuman uchramaydigan, Duffi-manfiy aholi yashaydigan zonada
+! Bimodal zonada qisqa va uzoq yashirin davrli shakllar aralash holda uchraydi.
+@ Umirov S.E. va boshq. Bezgakning etiologiyasi... (uslubiy qo'llanma, 2009)
+? Bezgak gumon qilinganda birlamchi qon preparatlari qayerda tekshiriladi va musbat preparatlar qayerga yuboriladi?
++ davolash muassasalari laboratoriyalarida; musbat preparatlar 24 soat ichida Respublika markaziga
+- Respublika markazida; musbat preparatlar viloyat markaziga 7 kun ichida yuboriladi
+- xalqaro referens laboratoriyada; natija JSST ga 1 oy ichida yuboriladi, davolash kutiladi
+- tuman markazi laboratoriyasida; musbat preparatlar arxivga topshiriladi va saqlanadi
+- bemorning uyida tezkor test bilan; musbat natijalar hisobga olinmaydi va yuborilmaydi
+! Birlamchi tekshiruv joyida o'tkazilib, tasdiq va nazorat uchun musbat namunalar markazga yuboriladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Chetdan qaytgan shaxslar qaysi hollarda qonni bezgakka tekshirishdan o'tkazishi shart?
++ endemik mamlakatga borganlar va 3 yil dispanser nazoratida bo'lganlar har qanday isitmada
+- tropik mamlakatdan qaytgan va og'ir toshmasi bor shaxslar, shifokor ko'rigidan so'ng
+- qaytgandan keyin bir hafta ichida isitmasi 40 °C dan oshgan shaxslar, tashxis qo'yilgach
+- isitmasi bo'lmagan taqdirda ham barcha sayohatchilar har oyda ketma-ket
+- bolalar va homilador ayollar sayohatdan keyingi dastlabki kunlarda, rejali tartibda
+! Uzoq yashirin davr va retsidivlar tufayli isitma bir necha oydan keyin ham bezgakning ko'rinishi bo'lishi mumkin, shu sababli geografik anamnez muhim.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak)
+? Mahalliy yuqish xavfi qaysi davrda ortadi?
++ chivinlar faol bo'lgan issiq mavsumda
+- chivinlar uxlaydigan sovuq qish oylarida
+- yog'ingarchilik umuman bo'lmagan davrda
+- chivinlar mutlaqo yo'q sovuq mavsumda
+- doimo bir xil, mavsumga bog'liq emas
+! Chivinlar faolligi va parazit rivojlanishi issiq mavsumda yuqori bo'ladi.
+@ O'zR SSV buyrug'i (2015-yil 25-mart, 121-son), 1-ilova (bezgak); Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+#U 108 / 4: past haroratda rivojlanish haqidagi fikr qo'llanmaga tayanadi; mavzu materialidagi retsidiv va 3 yillik nazorat izohi (vivax retsidivlari 3 yilgacha) tasdiqlanmagan.

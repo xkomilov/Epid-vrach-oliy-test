@@ -1,0 +1,97 @@
+=== 135
+? TORCH qisqartmasidagi «H» harfi qaysi qo'zg'atuvchini bildiradi?
++ oddiy gerpes virusi (Herpes simplex)
+- gepatit B virusi (Hepatitis B), jigarning o'tkir zararlanishini chaqiruvchi
+- Haemophilus influenzae, bolalarda meningit chaqiruvchi bakteriya
+- odam papillomavirusi, bachadon bo'yni saratoni bilan bog'liq virus
+- gerpes zoster, suvchechak qo'zg'atuvchisining reaktivatsiyasi
+! Guruh nomi toksoplazmoz, boshqa infeksiyalar, qizilcha, sitomegalovirus va oddiy gerpes virusining bosh harflaridan tuzilgan.
+@ TORCH Infection and the Enigma of Anomalous Fetal Development (PMC10834030)
+? TORCH guruhidagi infeksiyalar qaysi sabab bilan bir guruhga birlashtirilgan?
++ homilada klinik jihatdan o'xshash zararlanish chaqiradi va laboratoriya tekshiruvi bir paketda o'tkaziladi
+- qo'zg'atuvchilari bir xil oilaga mansub RNK-viruslar bo'lib, bir xil yuqish yo'liga ega
+- hammasiga qarshi bir xil emlash sxemasi va bir xil antibiotik kursi qo'llanadi hamda ular homiladorlikdan oldin o'tkaziladi
+- bolalarda faqat havo-tomchi yo'li bilan yuqadi, homiladorlikdan tashqari kechmaydi
+- qo'zg'atuvchilarning barchasi sporali bakteriyalar bo'lib, uzoq tashqi muhitda saqlanadi
+! Guruhlash amaliy sabablarga ko'ra amalga oshirilgan, qo'zg'atuvchilar esa taksonomik jihatdan turlicha.
+@ TORCH Infection and the Enigma of Anomalous Fetal Development (PMC10834030); Elecsys TORCH test paneli (Roche)
+? Birinchi trimestrda qizilcha bilan kasallangan ayol homilasida tug'ma qizilcha sindromi uchun qaysi o'zgarishlar xos?
++ katarakta, karlik va tug'ma yurak nuqsonlari
+- gidrosefaliya, bosh miya ichi kalsifikatsiyalari va xorioretinit
+- jigar va taloq kattalashishi hamda teridagi pufakchali toshmalar
+- bo'g'imlar deformatsiyasi va skelet suyaklarining sinishi
+- buyrak polikistozi va siydik yo'llarining torayishi
+! Embriogenezning ilk bosqichida virus ko'z, quloq va yurak rivojlanishiga ta'sir qiladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 17.10-bo'lim
+? Tug'ma infeksiyalar orasida eng ko'p uchraydigan qo'zg'atuvchi qaysi?
++ sitomegalovirus
+- Toxoplasma gondii
+- qizilcha virusi
+- oddiy gerpes virusi
+- Listeria monocytogenes
+! Sitomegalovirus aholida keng tarqalgan, shu sababli homilaga o'tish holatlari ham ko'p.
+@ Mardanly S.G., Kirpichnikova G.I. Sitomegalovirusli infeksiya (qo'llanma)
+? CDC ma'lumotiga ko'ra tug'ma CMV bilan taxminan nechta chaqaloqdan bittasi tug'iladi?
++ har 200 chaqaloqdan bittasi
+- har 20 chaqaloqdan bittasi
+- har 2000 chaqaloqdan bittasi
+- har 10 000 chaqaloqdan bittasi
+- har 50 chaqaloqdan bittasi
+! Bu ko'rsatkich tirik tug'ilgan chaqaloqlar orasidagi tug'ma CMV chastotasini aks ettiradi.
+@ Centers for Disease Control and Prevention. Cytomegalovirus (CMV) and Congenital CMV Infection
+? Birlamchi CMV infeksiyasi bor homilador ayollarning taxminan qancha qismi virusni homilaga o'tkazadi?
++ taxminan 40%
+- taxminan 4%
+- taxminan 80%
+- taxminan 100%
+- taxminan 10%
+! Virus homilaga platsenta orqali o'tadi, ammo o'tish ehtimoli har doim ham to'liq emas.
+@ Mardanly S.G., Kirpichnikova G.I. Sitomegalovirusli infeksiya (qo'llanma)
+? Toksoplazmoz serologiyasida IgG+/IgM- natija nimani bildiradi?
++ o'tkazilgan infeksiyani
+- yaqinda boshlangan o'tkir infeksiyani
+- immunitet yo'qligini, ya'ni xavf guruhini
+- homila zararlanganini, amnion suyuqligidagi DNK ni
+- infeksiya qaytalanayotganini va davolash zarurligini
+! IgG uzoq muddat saqlanuvchi antitelalar, IgM yo'qligi esa o'tkir jarayon yo'qligini ko'rsatadi.
+@ Elecsys TORCH test paneli (Roche)
+? Toksoplazmaga IgM aniqlanganda past avidlik nimani ko'rsatadi?
++ infeksiya yaqinda boshlanganini
+- infeksiya uzoq vaqt oldin o'tganini
+- emlash natijasida immunitet shakllanganini
+- natija noto'g'ri musbat ekanini
+- homila zararlanmaganini
+! Avidlik antitelalarning antigenga bog'lanish kuchi bo'lib, immun javobning dastlabki davrida past bo'ladi.
+@ Elecsys TORCH test paneli (Roche)
+? Qizilcha serodiagnostikasida IgM va IgG qanday talqin qilinadi?
++ IgM erta o'tkir infeksiyani, IgG o'tkazilgan infeksiya yoki emlashni ko'rsatadi
+- IgM o'tkazilgan infeksiyani, IgG o'tkir infeksiyaning dastlabki kunlarini ko'rsatadi
+- IgM faqat emlashdan keyin, IgG faqat kasallik paytida paydo bo'ladi
+- ikkalasi ham o'tkir infeksiyani bildiradi va bir-biridan farqlanmaydi
+- IgM homilada aniqlanadi, IgG esa faqat onada aniqlanadi va ahamiyatga ega emas
+! IgM antitelalar immun javobda birinchi paydo bo'ladi va tez yo'qoladi, IgG esa uzoq saqlanadi.
+@ Elecsys TORCH test paneli (Roche)
+? O'zbekiston kalendarida qizilchaga qarshi KPK vaksinasi qachon beriladi?
++ KPK-1 12 oylikda, KPK-2 6 yoshda
+- KPK-1 2 oylikda, KPK-2 4 oylikda
+- KPK-1 9 oylikda, KPK-2 12 yoshda
+- KPK-1 6 oylikda, KPK-2 2 yoshda
+- KPK-1 18 oylikda, KPK-2 14 yoshda
+! Ikki dozali emlash qizilcha aylanishini to'xtatish uchun asosiy usul hisoblanadi.
+@ SanQvaM № 0239-07/3, 25.07.2017 (yuqumli kasalliklar immunoprofilaktikasi)
+? TORCH guruhidagi qaysi infeksiyaga qarshi O'zbekiston emlash kalendarida maxsus vaksina mavjud?
++ qizilcha
+- sitomegalovirus infeksiyasi
+- toksoplazmoz
+- oddiy gerpes infeksiyasi
+- listerioz
+! Faqat bitta tirik vaksina milliy kalendarga kiritilgan, qolgan infeksiyalarga qarshi emlash yo'q.
+@ SanQvaM № 0239-07/3, 25.07.2017 (yuqumli kasalliklar immunoprofilaktikasi)
+? OIV bilan yashovchi bemorda qaysi CMV shakli OITS indikator kasalligi hisoblanadi?
++ markaziy asab tizimi zararlanishi bilan kechgani
+- yengil mononukleozga o'xshash isitma bilan kechgani
+- belgisiz virus tashuvchanligi
+- tug'ma CMV bo'lgan bolalarda eshitish pasayishi
+- seropozitivlik bo'lib, klinik belgilarsiz o'tgani
+! Og'ir, a'zolarga tarqalgan shakl chuqur immunosupressiyani ko'rsatadi.
+@ Mardanly S.G., Kirpichnikova G.I. Sitomegalovirusli infeksiya (qo'llanma)

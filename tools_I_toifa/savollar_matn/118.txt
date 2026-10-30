@@ -1,0 +1,97 @@
+=== 118
+? So'zakning qo'zg'atuvchisi qaysi mikroorganizm?
++ Neisseria gonorrhoeae
+- Treponema pallidum
+- Chlamydia trachomatis
+- Trichomonas vaginalis
+- Haemophilus ducreyi
+! Gonokokk gramm-manfiy loviyasimon diplokokk bo'lib, hujayra ichida (leykotsitlarda) joylashadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? So'zak qo'zg'atuvchisi tashqi muhitda qanday chidamlilikka ega?
++ chidamsiz: 56 °C da 5–7 daqiqada, qurishda nobud bo'ladi
+- juda chidamli: 100 °C da ham bir necha soat tirik qoladi va quritilganda saqlanadi
+- sporalar hosil qilib, tuproqda yillar davomida yuqumli holda saqlanadi
+- sovuqda muzlatilganda ham oylar davomida yuqumli bo'lib qoladi
+- suvda va oziq-ovqat mahsulotlarida haftalar davomida ko'payadi
+! Qo'zg'atuvchi qurishga va qizdirishga chidamsiz, shuning uchun maishiy yo'l bilan yuqishi deyarli kuzatilmaydi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? So'zakda yashirin (inkubatsion) davr odatda qancha?
++ 2–10 kun, ko'pincha 3–5 kun
+- 2–3 oy
+- 14–21 kun, ko'pincha 3 hafta
+- 1 yil
+- bir necha soat
+! Yangi tug'ilgan chaqaloqlarda blenoreyada bu davr ancha qisqa bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? So'zakda qo'zg'atuvchining asosiy yuqish yo'li qaysi?
++ bevosita kontakt, jinsiy yo'l bilan
+- fekal-oral yo'l bilan ifloslangan suv orqali
+- havo-tomchi yo'li bilan, nafas orqali
+- bit va burga chaqishi orqali
+- hayvonlar chaqishi orqali, rezervuar
+! Chaqaloqlarga esa onadan tug'ruq paytida yoki xodimlarning qo'llari va o'ramlari orqali yuqadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? So'zakda epidemik jarayon uzluksizligini ko'proq nima ta'minlaydi?
++ belgisiz (surunkali) bemorlar va bakteriya tashuvchilar
+- hayvonlar orasidagi tabiiy rezervuar va ularning o'zaro kontakti
+- tashqi muhitdagi sporalar va ularning tuproqda uzoq saqlanishi
+- qon so'ruvchi hasharotlar va ularning mavsumiy ko'payishi
+- ifloslangan suv havzalari va ularda cho'milish
+! Erkaklarning 10% i va ayollarning 50% ida kasallik belgisiz kechadi, shu sababli ular yashirin manba bo'ladi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? Birinchi marta aniqlangan so'zak holati bo'yicha qanday xabarnoma yuboriladi?
++ 24 soat ichida 089/u shaklida shoshilinch xabarnoma DSENM ga
+- 3 kun ichida 058/u shaklida shoshilinch xabarnoma DSENM ga
+- 1 hafta ichida 357/u shaklida o'choq kartasi DSENM ga
+- 12 soat ichida 060/u shaklida jurnal yozuvi DSENM ga
+- 24 soat ichida 025/u shaklida ambulator karta DSENM ga
+! Shu bilan birga bemor bilan yaqin yoki jinsiy aloqada bo'lganlarga yo'llanma to'ldiriladi.
+@ O'zR SSV 2010-yil 31-martdagi 99-son buyrug'i
+? Homilador ayollar so'zakka qanday tekshiriladi?
++ homiladorlikning birinchi va ikkinchi yarmida
+- tug'ruqdan keyin, chaqaloqda belgilar paydo bo'lganda bir marta
+- birinchi trimestrda bir marta, boshqa tekshiruvsiz
+- klinik belgilar paydo bo'lgandagina, ko'rsatma bo'yicha
+- homiladorlik davomida har oyda, doimiy tartibda
+! Buyruqda homiladorlarni zahm va so'zakka ikki martadan tekshirish ko'zda tutilgan.
+@ O'zR SSV 2010-yil 31-martdagi 99-son buyrug'i
+? So'zakning laboratoriya tashxisida uretra, bachadon bo'yni kanali va to'g'ri ichakdan olingan surtmada qaysi usul qo'llanadi?
++ Gramm bo'yash bilan gramm-manfiy diplokokklarni aniqlash
+- Ziil–Nilsen bo'yash bilan kislotaga chidamli tayoqchalarni aniqlash
+- qorong'i maydon mikroskopiyasida spiroxetalarni aniqlash
+- Romanovskiy–Gimza bo'yash bilan malyariya plazmodiyalarini aniqlash
+- Kato-Kats usuli bilan gijja tuxumlarini aniqlash
+! Toza kultura ajratish uchun esa bakteriologik tekshiruv qo'llanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? So'zakka qarshi emlash holati qanday?
++ tasdiqlangan vaksina yo'q, vaksinalar klinik rivojlanishning dastlabki bosqichida
+- BCG vaksinasi yagona himoya vositasi sifatida qo'llanadi va keng tarqalgan
+- jonli vaksina bilan yiliga bir marta, kuz oylarida emlash o'tkaziladi
+- inaktivlangan vaksina bolalarga 12 oyligida milliy kalendarda beriladi
+- anatoksin bilan emlash 10 yilda bir marta, revaksinatsiya tarzida o'tkaziladi
+! Shu sababli profilaktikaning asosi tarbiya, himoya vositalari va xavf guruhlarini skrining qilishdir.
+@ JSST. Sexually transmitted infections (STIs) (fact sheet)
+? So'zak bilan aniqlangan bemorlar qancha vaqt dispanser nazoratida bo'ladi?
++ 3 oy, manbasi aniqlanmaganda 6 oygacha
+- 1 oy, manbasi aniqlanmaganda 2 oygacha
+- 12 oy, manbasi aniqlanmaganda 24 oygacha
+- 1 hafta, manbasi aniqlanmaganda 1 oygacha
+- umrbod, manbasi aniqlanmaganda ham umrbod
+! Kontaktdagilar va jinsiy sheriklar bu davrda tekshiriladi, kerak bo'lsa davolanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim
+? So'zak qo'zg'atuvchisi JSST GASP ma'lumotlariga ko'ra qaysi antibiotiklarga yuqori chidamlilik ko'rsatgan?
++ xinolonlar, azitromitsin va kengaytirilgan spektrli sefalosporinlar
+- vankomitsin va linezolid kabi glikopeptid hamda oksazolidinonlar
+- aminoglikozidlar va tetratsiklinlar guruhidagi preparatlar
+- makrolidlar o'rniga qo'llanadigan ristomitsin va polimiksinlar
+- antibiotiklarga chidamlilik hozircha qayd etilmagan, barcha shtammlar sezgir
+! Antimikrob chidamlilik so'zakning eng muhim xavflaridan biri hisoblanadi.
+@ JSST. Sexually transmitted infections (STIs) (fact sheet)
+? Yangi tug'ilgan chaqaloqlarda so'zak qaysi ko'rinishda namoyon bo'ladi?
++ ko'z konyunktivasining yallig'lanishi (blenoreya)
+- terida pufakchali toshma bilan kechadigan holat (varitsella)
+- o'tkir sariqlik bilan kechadigan holat (virusli gepatit)
+- mushaklar tortishishi bilan kechadigan holat (qoqshol)
+- yo'tal xurujlari bilan kechadigan holat (ko'kyo'tal)
+! Chaqaloqlarga onadan tug'ruq paytida yuqadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.4-bo'lim

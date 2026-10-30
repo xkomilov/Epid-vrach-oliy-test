@@ -1,0 +1,97 @@
+=== 095
+? Markaziy Osiyoda, shu jumladan O'zbekistonda, odamlardagi brutsellyozning 90 % dan ortig'ini qaysi tur keltirib chiqaradi?
++ Brucella melitensis (qo'y-echki turi)
+- Brucella abortus (qoramol turi)
+- Brucella suis (cho'chqa turi)
+- Brucella ovis (qo'chqor epididimiti turi)
+- Brucella canis (it turi)
+! Bu tur eng yuqumli bo'lib, kasallik chaqirish uchun juda oz miqdordagi mikrob yetarli.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova; WHO. Brucellosis (fact sheet)
+? B. melitensis bilan kasallanish uchun taxminan nechta mikrob yetarli?
++ 1–10 ta
+- 100–500 ta
+- 1000–5000 ta
+- 100 000 ta atrofida
+- 1 000 000 ta
+! B. abortus uchun bu son ancha ko'p, ya'ni 1 000 000 ta atrofida bo'ladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? Brutsellalar suyuq muhitda +80–85 °C da qancha vaqtda nobud bo'ladi?
++ 5 daqiqada
+- 30 daqiqada
+- 2 soatda
+- 5 soatda
+- 3 sutkada
+! Qizdirish brutsellalarni ishonchli yo'qotadi, qaynatilganda esa ular darhol o'ladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? Brutsellyozda hayvonlardagi kasallikning asosiy klinik belgisi qaysi?
++ abort (bola tashlash)
+- terida chandiqli yaralar paydo bo'lishi
+- ko'zlarning ko'r bo'lishi va shox pardaning xiralashishi
+- ichak shilliq qavatida qonli yaralar
+- terining ko'karishi bilan ensefalit
+! Bola tashlash va tug'ish paytida ko'p miqdorda brutsellalar tashqi muhitga ajraladi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? Brutsellyoz epidemiologiyasida odamning o'rni qanday?
++ manba sifatida epidemiologik ahamiyatga ega emas
+- asosiy manba bo'lib, kasallikni havo-tomchi yo'li bilan tarqatadi
+- ikkinchi darajali manba bo'lib, najasi orqali ichak infeksiyasini yuqtiradi
+- tabiiy rezervuar bo'lib, qo'zg'atuvchini yillar davomida saqlaydi
+- mexanik vektor bo'lib, hayvonlarga kontakt orqali uzatadi
+! Odamdan odamga yuqish juda kam uchraydi, epizootik zanjir hayvonlar orqali davom etadi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova; WHO. Brucellosis (fact sheet)
+? Brutsellyozning alimentar yo'li qaysi mahsulotlar iste'mol qilinganda amalga oshadi?
++ xom sut hamda undan tayyorlangan brinza, qaymoq va smetana
+- yaxshi pishirilgan go'sht va qaynatilgan suvdan tayyorlangan sho'rva
+- issiq qovurilgan sabzavotlar bilan birga pishirilgan guruch
+- konservalangan baliq va uzoq saqlangan quruq non
+- yuqori haroratda pasterizatsiya qilingan va qadoqlangan yogurt
+! Qo'zg'atuvchi sutda va undan olingan mahsulotlarda saqlanib, termik ishlov berilmasa tirik qoladi.
+@ WHO. Brucellosis (fact sheet)
+? Qo'y-echki brutsellyozida mavsumiylik qaysi fasllarga to'g'ri keladi?
++ bahor-yoz oylariga: qo'zilatish, abort, jun olish davriga
+- qish oylariga: hayvonlar yopiq joyda zich saqlanganda
+- kuz oylariga: hayvonlar yaylovdan qaytarilganda
+- yilning barcha oylariga, hech qanday farqsiz
+- faqat qor yog'gan sovuq kunlarga
+! Mavsumiylik xo'jalik ishlari va hayvonlar bola tashlash davriga bog'liq.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? JSST ma'lumotiga ko'ra, brutsellyozning inkubatsiya davri odatda qancha?
++ odatda 2–4 hafta, 1 haftadan 2 oygacha
+- odatda 12 soatdan 5 kungacha, ba'zan 8 kunga yetadi
+- odatda 1–3 kun, kana chaqqanda 9 kungacha
+- odatda 5–17 kun, o'rtacha 14 kun
+- odatda 6–12 oy, 3 yilgacha cho'zilishi mumkin
+! O'zgaruvchan davomiylik tashxis qo'yishda anamnezni chuqur yig'ishni talab qiladi.
+@ WHO. Brucellosis (fact sheet)
+? O'choqlarda aholini serologik tekshirishda qaysi usullar tavsiya etiladi?
++ Xeddelson, Rayt agglyutinatsiyasi va IFT
+- Mantu sinamasi, Shik sinamasi va PZR
+- Vidal reaksiyasi, Pirke sinamasi va koprologiya
+- Kumbs sinamasi, Paul-Bunnel reaksiyasi va rentgenografiya
+- Vasserman reaksiyasi, Kasoni sinamasi va elektrokardiografiya
+! Bu usullar qon zardobida brutsellalarga qarshi antitelalarni aniqlaydi.
+@ Brutsellyoz kasalligining laboratoriya tashxisi bo'yicha uslubiy ko'rsatma (SSV, 2015)
+? Brutsellyoz bilan kasallangan hayvon haqida xabar olingach, o'choqda epidemiologik tekshiruv qancha vaqt ichida boshlanadi?
++ bir sutka ichida
+- 3 soat ichida, xabar kelgan zahoti
+- 3 kun ichida, laboratoriya tasdig'idan keyin
+- 7 kun ichida, haftalik hisobot bilan birga
+- bir oy ichida, rejali tekshiruv davrida
+! Tezkor tekshiruv zararlangan odamlarni erta aniqlash va yangi holatlarning oldini olishga imkon beradi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? Chorvachilik xodimlari va xom ashyoni qayta ishlovchilar majburiy dispanser ko'rikdan qanchalik muntazam o'tadi?
++ yiliga kamida 1 marta
+- oyiga 1 marta
+- chorakda 1 marta, tanlab olingan xodimlar
+- uch yilda 1 marta, umumiy ko'rik tarkibida
+- ishga kirishda bir martagina
+! Davriy ko'rik kasbiy xavf guruhlarida kasallikni erta aniqlash imkonini beradi.
+@ O'zR SSV buyrug'i, 23.01.2015, 37-son, 3-ilova
+? JSST ga ko'ra, odamlarda brutsellyozning oldini olishning eng samarali strategiyasi qaysi?
++ hayvonlar orasida infeksiyani yo'qotish
+- odamlarni ommaviy emlash va revaksinatsiya
+- bemorlarni qat'iy izolyatsiya qilish
+- aholini hududdan ko'chirish va karantin
+- hasharotlarga qarshi dezinseksiya o'tkazish
+! Odamlar hayvonlardan yuqtirgani uchun nazoratning asosi epizootik zanjirni uzish hisoblanadi.
+@ WHO. Brucellosis (fact sheet)

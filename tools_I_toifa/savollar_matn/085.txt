@@ -1,0 +1,97 @@
+=== 085
+? Virusli gepatit B ning o'tkir shakli aniqlanganda etiologik tasdiqlash odatda qancha vaqt ichida o'tkaziladi?
++ 5 kun ichida
+- 30 kun ichida
+- 24 soat ichida
+- 3 oy ichida
+- 14 kun ichida
+! Aralash infeksiya yoki surunkali shakllarda bu muddat uzayishi mumkin, odatda esa qisqa muddatda tasdiqlanadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? O'tkir virusli gepatit B o'chog'ida kontaktdagilar ustidan qanday tibbiy kuzatuv o'rnatiladi?
++ bemor yotqizilgan paytdan 6 oy davomida, shifokor ko'rigi 2 oyda bir marta
+- bemor yotqizilgandan 14 kun davomida, shifokor ko'rigi har kuni o'tkaziladi
+- bemor yotqizilgandan 1 yil davomida, shifokor ko'rigi 3 yilda bir marta
+- bemor yotqizilgandan 1 oy davomida, shifokor ko'rigi haftada bir marta
+- bemor yotqizilgandan 3 yil davomida, shifokor ko'rigi yiliga ikki marta
+! Yashirin davr uzunligi tufayli kuzatuv 6 oyga cho'ziladi va tegishli oraliqda shifokor ko'rigi o'tkaziladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? O'tkir virusli gepatit B o'chog'ida kontaktdagining birinchi tashrifida ko'rikdan tashqari qanday laborator ko'rsatkichlar aniqlanadi?
++ ALT faolligi va HBsAg
+- umumiy xolesterin va qand miqdori
+- siydikda ketonlar va gemoglobin
+- bakteriologik ekma va leykotsitlar formulasi
+- C-reaktiv oqsil va qonning ivish vaqti
+! ALT jigar hujayralari shikastlanishini, HBsAg esa faol infeksiyani ko'rsatadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Bolalar muassasalarida surunkali virusli gepatit B o'chog'idagi kontaktdagi bolalar ustidan tibbiy kuzatuv qanday o'tkaziladi?
++ 6 oy davomida, izolyatsiyadan keyin darhol, so'ng har oy ko'rik bilan
+- 1 oy davomida, izolyatsiyadan keyin darhol, so'ng har yili ko'rik bilan
+- 2 yil davomida, izolyatsiyadan keyin bir yil o'tgach, so'ng har 6 oyda bir marta
+- 6 oy davomida, faqat bir marta ko'rik bilan, so'ngra kuzatuv to'xtatiladi
+- 3 hafta davomida, izolyatsiyadan keyin darhol, so'ng har kuni ko'rik bilan
+! Bolalar jamoasida yuqish xavfi yuqori bo'lgani sababli ular birinchi kundan boshlab muntazam kuzatiladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Oilaviy surunkali o'choqlarda kontaktdagilar qaysi markerlarga va qanday davriylikda tekshiriladi?
++ HBsAg, anti-HBs va anti-HCV ga o'choq aniqlanganda va keyin kamida yiliga bir marta
+- faqat anti-HAV IgM ga o'choq aniqlanganda bir marta, keyin tekshirilmaydi
+- HBeAg va HEV RNK ga har oyda bir marta, o'choq mavjud bo'lgan butun davrda
+- umumiy xolesterin va glyukozaga har 5 yilda bir marta, profilaktik ko'rik doirasida
+- HIV va sifilis testlariga faqat bemor o'lgandan keyin bir marta, majburiy tartibda
+! Oilaviy o'choqlar uzoq saqlanadi, shu sababli kontaktdagilar parenteral gepatit markerlari bo'yicha yillik nazoratda bo'ladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Surunkali virusli gepatit B bilan og'rigan homilador ayol bilan qanday ish yuritiladi?
++ yuqumli kasalliklar shifoxonasiga majburiy yotqiziladi
+- uyda qoldirilib, oilaviy shifokor tomonidan bir yilda bir marta ko'riladi
+- oddiy tug'ruq bo'limida boshqa ayollar bilan birga joylashtiriladi
+- ambulator kuzatuvga olinadi, yotqizish faqat sariqlik paydo bo'lganda amalga oshiriladi
+- tug'ruqdan keyin 6 oy o'tgach ro'yxatga olinadi
+! Bunday ayol atrofdagilarga va chaqaloqqa xavf tug'dirishi mumkin, shu sababli maxsus muassasada kuzatiladi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? O'chog'da kontaktdagilardan qaysilari virusli gepatit B ga qarshi emlanadi?
++ bemor yoki tashuvchi bilan aloqada bo'lgan, emlanmagan yoki emlash anamnezi noma'lum shaxslar
+- barcha kontaktdagilar emlash holatidan qat'i nazar, har oyda qayta emlanadi
+- sariqlik bilan kasallangan kontaktdagilar, kasallik tugagandan keyin 5 yil o'tgach
+- tibbiyot xodimlarisiz barcha kattalar, bolalar esa emlanmaydi, chunki ular uchun xavf yo'q
+- avval to'liq emlangan va anti-HBs yuqori bo'lgan shaxslar, qo'shimcha ravishda har hafta
+! Emlash himoyasi bo'lmagan yoki noma'lum shaxslar zararlanish xavfida, to'liq emlanganlar esa allaqachon himoyalangan.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST onadan bolaga virusli gepatit B yuqishini to'xtatish uchun chaqaloqni emlashdan tashqari yana nimani tavsiya etadi?
++ onaga antiviral dori berishni
+- chaqaloqni uch oy davomida emizishni to'xtatishni
+- onaga keng spektrli antibiotik kursini buyurishni
+- chaqaloqni bir oy davomida alohida xonada saqlashni
+- tug'ruqni albatta kesarcha kesish orqali o'tkazishni
+! Onadagi virus yukini kamaytirish perinatal yuqish xavfini pasaytiradi va vaksina bilan birgalikda ishlaydi.
+@ WHO. Hepatitis B (fact sheet)
+? 95-son buyruqqa ko'ra, gepatomarkazlarda virusli gepatit B aniqlangan bemorlarda qaysi miqdoriy tekshiruvlar o'tkaziladi?
++ AFP, PIVKA va HBsAg miqdoriy tekshiruvlari
+- umumiy bilirubin va kreatinin miqdoriy tekshiruvlari
+- bakteriologik ekma va antibiogramma tekshiruvlari
+- gemoglobin, eritrotsit va trombotsit sonini sanash
+- siydikning umumiy tahlili va Zimnitskiy sinamasi
+! Jigar saratoni belgilari va virus yukini baholash uchun maxsus ko'rsatkichlar kerak.
+@ O'zR SSV 2023-yil 1-maydagi 95-son buyrug'i
+? Uy o'choqlarida qaysi chora asosiy hisoblanadi?
++ shaxsiy gigiena buyumlarini (tish cho'tkasi, ustara, manikyur asboblari) ajratish va dezinfeksiya qilish
+- bemorning barcha kiyim-kechaklarini kuniga uch marta qaynatib, xonani ultrabinafsha nurda yoritish
+- oila a'zolarini bir hafta davomida xonalaridan chiqarmasdan alohida saqlash
+- bemor ishlatgan idish-tovoqni yo'q qilish va yangi idishlar sotib olish
+- barcha oila a'zolariga kuniga ikki marta antibiotik berish
+! Virus qon orqali yuqadi, shu sababli qon izlari qolishi mumkin bo'lgan umumiy buyumlarni ajratish yuqish zanjirini uzadi.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? Virusli gepatit B o'choqlari odatda qayerlarda barqaror shakllanadi?
++ surunkali bemorlar oilalarida va bolalar hamda kattalarning yopiq muassasalarida
+- faqat sanoat korxonalarining ochiq ish maydonlarida, mavsumiy ishchilar orasida
+- shahar ko'chalarida, jamoat transportida yo'lovchilar orasida tasodifiy tarzda
+- sport majmualarida, mashg'ulotlar paytida terlagan sportchilar orasida
+- maktab kutubxonalarida, kitoblar almashinuvi orqali tarqalgan holda
+! Bu joylarda yaqin va uzoq muddatli aloqa saqlanadi, shu sababli o'choqlarni sog'lomlashtirish qiyin.
+@ O'zR SSV 2018-yil 27-avgustdagi 542-son buyrug'iga 1-ilova
+? JSST bo'yicha to'liq emlash seriyasidan keyin virusli gepatit B ga qarshi revaksinatsiya haqida nima deyiladi?
++ odatda revaksinatsiya talab etilmaydi
+- yiliga bir marta qayta emlash majburiy
+- 5 yilda bir marta qayta emlash majburiy
+- olti oyda bir marta qayta emlash majburiy
+- faqat 40 yoshdan keyin qayta emlash majburiy
+! Himoya uzoq muddat, kamida 20 yil va ehtimol umr bo'yi saqlanadi.
+@ WHO. Hepatitis B (fact sheet)

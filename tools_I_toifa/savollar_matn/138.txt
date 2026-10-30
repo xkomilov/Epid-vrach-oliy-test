@@ -1,0 +1,97 @@
+=== 138
+? JSSTga ko'ra qaysi kundalik kontakt orqali OIV yuqmaydi?
++ o'pish, quchoqlash va qo'l siqish
+- umumiy shprits yoki igna bilan in'ektsiya
+- himoyasiz jinsiy aloqa
+- zararlangan qon bilan shikastlangan teri kontakti
+- ona suti bilan emizish
+! Virus butun teri orqali kirmaydi, kundalik ijtimoiy kontaktlar yuqish yo'li hisoblanmaydi.
+@ World Health Organization. HIV and AIDS (fact sheet)
+? Quyidagi biologik suyuqliklardan qaysi biri OIV yuqtirishi mumkin?
++ ko'krak suti
+- ko'z yoshi
+- so'lak
+- ter
+- qon aralashmasi ko'rinmaydigan siydik
+! Qon, sperma, qin ajratmasi va ko'krak suti yuqumli suyuqliklar qatoriga kiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Bemor sherigiga kasalligini aytishdan bosh tortsa, epidemiolog yoki shifokorning sherikka aytish huquqi qaysi qonun moddasiga asoslanadi?
++ «Fuqarolar sog'lig'ini saqlash to'g'risida»gi Qonunning 45-moddasi
+- «Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida»gi Qonunning 32-moddasi
+- «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»gi Qonunning 21-moddasi
+- Jinoyat kodeksining tibbiy sir ochilishini jazolovchi moddasi
+- «Donorlik to'g'risida»gi Qonunning 12-moddasi
+! Bu holda tibbiy maxfiylik istisnosi umumiy sog'liqni saqlash qonunchiligida belgilangan.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? OIV bilan yashovchining jinsiy sheriklari OITS markazi poliklinika bo'limida qanday kuzatiladi?
++ har 6 oyda OIVga tekshiriladi
+- har hafta OIVga tekshiriladi
+- har 2 yilda bir marta tekshiriladi
+- faqat birinchi tashrifda tekshiriladi
+- har oy immunoblot bilan tekshiriladi
+! Muntazam takroriy tekshiruv yangi yuqishni vaqtida aniqlash imkonini beradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Ko'zga zararlangan material sachraganda birinchi yordam qanday ko'rsatiladi?
++ darhol suv yoki fiziologik eritma bilan yuviladi, kontakt linzalar yuvish paytida olinmaydi
+- darhol sovun bilan yuvilib, dezinfeksiyalovchi eritma tomiziladi va ko'z bog'lanadi
+- spirt bilan artilib, bog'lam qo'yiladi hamda oftalmologga murojaat qilinadi
+- kontakt linzalar olib tashlanib, ko'z 2% xlorgeksidin eritmasi bilan yuviladi
+- qo'l bilan ishqalab, so'ng quruq mato bilan artiladi
+! Mexanik yuvish zararlangan material miqdorini kamaytiradi, kimyoviy vositalar esa shilliq qavatni shikastlashi mumkin.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Shikastlanmagan teriga zararlangan material sachraganda qanday ishlov berish mumkin?
++ darhol yuvilib, 2–4% xlorgeksidin glyukonat qo'llanadi, artish va bog'lash mumkin emas
+- spirt bilan kuydirilib, qattiq bog'lam qo'yiladi
+- yod eritmasi bilan ishlov berilib, quruq mato bilan artiladi
+- kuchli ishqalab yuviladi, so'ng oqartiruvchi suyuqlik surtiladi
+- ishlov berilmaydi, chunki butun teri orqali yuqish ehtimoli yo'q va xavf mavjud emas
+! Butun teri to'siq vazifasini bajaradi, shuning uchun oddiy yuvish va yumshoq antiseptik yetarli.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? Xavfli kontaktdan keyin qancha muddat davomida OIV antitanasiga manfiy test olingunga qadar prezervativdan foydalanish tavsiya etiladi?
++ 6 oy
+- 1 hafta
+- 28 kun
+- 72 soat
+- 2 yil
+! Antitanalar paydo bo'lishi va yuqmaganlikni ishonchli tasdiqlash uchun uzoq kuzatuv muddati belgilanadi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)
+? OIV tasdiqlangunga qadar bemor vafot etgan bo'lsa, uning holati kimlarga ochiladi?
++ turmush o'rtog'iga, 18 yoshgacha bolalar bo'lsa ota-onasiga
+- barcha qarindoshlariga, yaqin qo'shnilariga va hamkasblariga
+- ish joyi rahbariga va hamkasblariga, tibbiy xulosa bilan birga
+- OITS markazi bosh vrachiga, boshqa hech kimga
+- mahalla raisiga va ichki ishlar organlariga rasmiy xat orqali
+! Maxfiylik saqlangan holda faqat xavf ostidagi yaqin kishilarga axborot berilishi mumkin.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Yuqish ehtimoli bo'yicha umumiy in'ektsion asboblardan foydalanish bir marta jinsiy aloqaga qiyoslanganda qanday baholanadi?
++ birmuncha yuqori
+- birmuncha past
+- amalda bir xil
+- amalda yuqmaydi, ammo gepatitni yuqtirish xavfi bor
+- gepatitga xos, OIV uchun esa xavfsiz hisoblanadi
+! Zararlangan qon bevosita qon oqimiga tushadi, bu yuqish ehtimolini oshiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 18.1-bo'lim
+? Tibbiyot xodimlari OIV bilan yashovchi bemor bilan ishlaganda qaysi tamoyil asos qilib olinadi?
++ har bir bemorning qoni potensial xavfli deb hisoblanadi
+- himoya vositalari tashxisi tasdiqlangan bemorlarda ishlatiladi
+- bemorlar alohida palatada yakka saqlanadi, ularga alohida asboblar ajratiladi
+- ehtiyot choralari jarrohlik bo'limida talab etiladi, boshqa joyda zarur emas
+- qo'lqop qon olishda kiyiladi, qolgan muolajalarda zarur emas
+! Barcha bemorlarga bir xil standart ehtiyot choralari qo'llanishi, noma'lum holat tufayli bo'ladigan xavfni kamaytiradi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? Qonunga ko'ra qaysi shaxslar majburiy tekshiruvga tortiladi?
++ jinsiy sherigida OIV aniqlanganlar
+- yashovchining qo'shnilari
+- bir ish joyida ishlovchi hamkasblar
+- yaqin do'stlari
+- bir transportda yo'l yurgan yo'lovchilar
+! Jinsiy kontakt yuqori xavfli yo'l bo'lgani uchun sheriklar majburiy tekshiruv toifasiga kiritilgan.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+? Og'izga zararlangan material tushganda birinchi yordam qanday?
++ tupurib tashlanadi, suv yoki fiziologik eritma bilan bir necha marta chayiladi
+- yutib yuboriladi, so'ng antibiotik ichiladi va 24 soat kuzatiladi
+- sovun bilan yuvilib, dezinfeksiyalovchi eritma bilan chayiladi, so'ng antibiotik ichiladi
+- spirt eritmasi bilan chayiladi, so'ng kuchli choy ichiladi
+- chayilmaydi, faqat tez yordam chaqiriladi
+! Shilliq qavatni agressiv vositalar bilan ishlash qo'shimcha shikastlanish keltirishi mumkin.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ilovalari (kontaktdan keyingi profilaktika)

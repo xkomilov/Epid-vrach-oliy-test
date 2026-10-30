@@ -1,0 +1,98 @@
+=== 047
+? Dezinfeksiyaning sterilizatsiyadan asosiy farqi nimada?
++ Dezinfeksiya asosan vegetativ patogen shakllarni yo'qotadi, sterilizatsiya sporalarni ham yo'q qiladi
+- Dezinfeksiya sporalarni ham to'liq yo'q qiladi, sterilizatsiya esa faqat toksinlarni zararsizlantiradi
+- Dezinfeksiya tirik organizmlarda o'tkaziladi, sterilizatsiya tashqi muhitda o'tkaziladi, shu bilan farqlanadi
+- Dezinfeksiya hasharotlarga qaratilgan, sterilizatsiya esa kemiruvchilarga qaratilgan
+- Ikkalasi bir xil ma'noda, farqi vositalarning narxida bo'ladi
+! Sterilizatsiya hayot shakllarining barchasini, jumladan chidamli sporalarni to'liq yo'q qilishni talab qiladi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Dezinfeksiya epidemik jarayonning qaysi bo'g'iniga ta'sir qiladi?
++ Yuqish mexanizmiga
+- Infeksiya manbaiga
+- Sezgir aholiga
+- Inkubatsion davr davomiyligiga
+- Bemorning immun holatiga
+! Tashqi muhitdagi qo'zg'atuvchini yo'qotish uni manbadan sezgir organizmga yetkazuvchi yo'lni uzadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? O'tkazilish maqsadiga ko'ra dezinfeksiya qanday asosiy turlarga bo'linadi?
++ Profilaktik va o'choqdagi turlarga
+- Mexanik va fizik turlarga bo'linadi
+- Kimyoviy va biologik turlarga bo'linadi
+- Rejali va tezkor turlarga
+- Joriy va yig'ma turlarga
+! Bu tasnif tadbir infeksiya manbai bo'lmagan joyda yoki aniqlangan manba o'chog'ida o'tkazilishiga asoslanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Joriy dezinfeksiya qachon o'tkaziladi?
++ Bemor infeksiya manbai bo'lib turgan davrda muntazam
+- Manba o'choqdan olib chiqilgach bir marta
+- Kasallik paydo bo'lishidan oldin, rejali ravishda
+- Bemor sog'aygandan keyin ikki hafta o'tgach, bir marta
+- Epidemiya tugaganidan so'ng, hududni yakunlash uchun
+! Qo'zg'atuvchi bemor atrofiga doimiy ajralib turgani sababli ishlov ham uzluksiz bo'lishi kerak.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Yakuniy dezinfeksiyaning o'ziga xos belgisi qaysi?
++ U manba o'choqdan olib chiqilgach bir marta o'tkaziladi
+- U bemor o'choqda bo'lgan butun davr davomida muntazam o'tkaziladi
+- U infeksiya manbai bo'lmagan jamoat joylarida rejali bajariladi
+- U faqat bemorning shaxsiy kiyimiga nisbatan o'tkaziladi
+- U faqat havo-tomchi infeksiyalarida majburiy hisoblanadi
+! Manba ketganidan keyin o'choqda qolgan qo'zg'atuvchini bir yo'la bartaraf etish ko'zda tutiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Profilaktik dezinfeksiya qaysi holatda o'tkaziladi?
++ Aniq infeksiya manbai yo'q, lekin qo'zg'atuvchi to'planishi va yuqishi ehtimoli bor joylarda
+- Bemor kasalxonaga yotqizilgandan so'ng uning xonasida, manba ketgan paytda bir marta
+- Epidemik o'choqda bemor hali uyda turgan davrda, har kuni muntazam ravishda
+- Kasallik aniqlangan oila a'zolari yashaydigan xonadonda, bemor bilan birga bo'lganda
+- Bemor vafot etgandan keyin uning shaxsiy buyumlariga nisbatan, yakunlovchi tarzda
+! Muntazam ishlov kasallik paydo bo'lishidan oldin qo'zg'atuvchining to'planishiga yo'l qo'ymaslikka qaratilgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Galogen saqlovchi dezinfeksiyalovchi vositalarga qaysi birikmalar kiradi?
++ Xlor va yod birikmalari
+- Vodorod peroksid va perborat
+- Chetvertichli ammoniy birikmalari
+- Glutaraldegid va formaldegid
+- Spirtlar va fenol birikmalari
+! Galogenlar davriy jadvalning VII guruhidagi elementlar bo'lib, bu guruh nomi shu elementlar saqlanishiga asoslanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Dezinfeksiya samaradorligini nazorat qilishning eng ishonchli usuli qaysi?
++ Bakteriologik nazorat
+- Vizual nazorat
+- Kimyoviy nazorat
+- Hujjatlarni tekshirish
+- Vositaning hidini baholash
+! Faqat ishlov berilgan yuzadan olingan surtmada qo'zg'atuvchi qolgan-qolmaganligi aniq laboratoriya natijasi bilan tasdiqlanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Nima sababdan dezinfeksiyadan oldin obyekt ko'pincha mexanik tozalanadi?
++ Organik qoldiqlar (qon, oqsil) dezinfeksiyalovchi moddani neytrallab, ta'sirini kamaytirgani uchun
+- Mexanik tozalash o'zi barcha sporalarni to'liq yo'q qilgani va dezinfeksiya kerak bo'lmagani uchun
+- Iflos yuzada eritma tezroq bug'lanib, ekspozitsiya vaqti qisqargani uchun
+- Tozalangan yuza dezinfeksiya vositasining xavf sinfini pasaytirgani uchun
+- Tozalash natijasida bakteriologik nazorat talab etilmay qolgani uchun
+! Qon va oqsil qatlami qo'zg'atuvchini himoyalab, faol moddani sarflab yuboradi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? SanQvaN 0090-25 ga ko'ra, ta'lim tashkilotlarida qo'llash mumkin bo'lgan dezinfeksiya vositalarining xavf sinfi qanday?
++ IV xavf sinfi
+- I xavf sinfi
+- II xavf sinfi
+- III xavf sinfi, o'rtacha xavfli
+- I–II xavf sinflari, yuqori samarali
+! Bolalar va o'quvchilar bor joylarda eng kam xavfli vositalar ruxsat etiladi.
+@ SanQvaN № 0090-25
+? Profilaktik dezinfeksiya obyektlarda (jamoat binolari va joylashtirish vositalarida) qanday davriylikda o'tkaziladi?
++ Oyda bir marta
+- Haftada bir marta
+- Har 3 oyda bir marta
+- Yilda ikki marta
+- Yilda bir marta
+! Epidemik mavsumda esa tadbir tez-tez amalga oshiriladi.
+@ SanQvaN № 0090-25
+? Qaysi infeksiyalarda dezinfeksiya hal qiluvchi ahamiyatga ega, qaysilarida cheklangan?
++ Hal qiluvchi — ich terlama, virusli gepatit, sil; cheklangan — gripp, qizamiq
+- Gripp va qizamiqda hal qiluvchi; ich terlama hamda sil kasalliklarida cheklangan
+- Gripp kasalligida hal qiluvchi; ich terlama va virusli gepatitda cheklangan
+- Qizamiq va sil kasalliklarida hal qiluvchi; dizenteriya va vaboda cheklangan
+- Ikkala guruhda ham ahamiyati bir xil, farq yo'q
+! Tashqi muhitda chidamli qo'zg'atuvchilar bevosita ifloslangan buyumlar orqali tarqaladi, tez nobud bo'luvchilar uchun esa bu yo'l ahamiyatsiz.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+#D 047 / 8: mavzu materialida E. coli bo'yicha sifat mezoni (tuman markazida 5 %, chekkada 3 %) 048 materialidagi SanPiN 0291-11 mezoni (shaharda 10 %, qishloqda 5 %) bilan mos kelmaydi; savol tuzilmadi.

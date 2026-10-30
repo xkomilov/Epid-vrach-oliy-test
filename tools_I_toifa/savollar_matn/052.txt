@@ -1,0 +1,98 @@
+=== 052
+? "Deratizatsiya" atamasi qaysi so'zdan olingan va dastlab nimani bildirgan?
++ lotincha "rattus" (kalamush) so'zidan, dastlab kalamushlarni yo'qotishni
+- lotincha "mus" (sichqon) so'zidan, dastlab uy hayvonlarini davolashni
+- yunoncha "derma" (teri) so'zidan, dastlab teri kasalliklarini davolashni
+- lotincha "insectum" (hasharot) so'zidan, dastlab hasharotlarni qirishni
+- yunoncha "rhodon" (atirgul) so'zidan, dastlab o'simlik zararkunandalarini qirishni
+! Atamada inkor qo'shimchasi "de" kalamush ildiziga qo'shilgan, keyinchalik ma'no barcha kemiruvchilarga kengaygan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Deratizatsiya bugungi tushunchaga ko'ra nimaga qaratilgan tadbirlar tizimi?
++ epidemik jihatdan xavfli kemiruvchilarni yo'qotish yoki ularning sonini kamaytirishga
+- kana, burga, bit va chivin kabi qon so'ruvchi hasharotlarni yo'qotish hamda lichinkalarini qirishga
+- tashqi muhit obyektlaridagi bakteriya va viruslarni zararsizlantirish hamda ishlov sifatini nazorat qilishga
+- uy va yovvoyi hayvonlarni emlash orqali kasalliklarning oldini olishga
+- ichimlik suvi manbalarini ifloslanishdan muhofaza qilishga
+! Hasharotlarga qarshi kurash dezinseksiya, mikroblarga qarshi tadbirlar dezinfeksiya deyiladi; kemiruvchilarga qarshi kurash esa deratizatsiyadir.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016; SanQvaN № 0090-25 (2025)
+? Teri leyshmanioziga qarshi kompleks tadbirlarning birinchi yo'nalishi nima?
++ qum sichqonlarga qarshi kurash: dala deratizatsiyasi va inlarni mexanik buzish
+- iskabtoparlarga qarshi dezinseksiya o'tkazish va ularning lichinkalarini yo'qotish
+- itlar va boshqa uy hayvonlarini yoppasiga emlash hamda ro'yxatga olish
+- bemorlarni majburiy izolyatsiya qilish va yakuniy dezinfeksiya o'tkazish
+- ichimlik suvini xlorlash va oziq-ovqat mahsulotlarini nazorat qilish
+! Qum sichqonlar leyshmaniozning rezervuari bo'lgani uchun avvalo ularning soni kamaytiriladi, ikkinchi yo'nalish esa vektor, ya'ni iskabtoparlarga qaratiladi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova (leyshmanioz bo'yicha yo'riqnoma)
+? Darslikka ko'ra kemiruvchilarga qarshi kurash tadbirlari qanday ikki guruhga bo'linadi?
++ profilaktik (oldini oluvchi) va qirish (qirg'in keltiradigan) tadbirlar
+- mexanik (tuzoq va qopqonlar) va elektr (tok bilan o'ldiruvchi) tadbirlar
+- rejali (yillik reja bo'yicha) va rejadan tashqari (shoshilinch) tekshiruv tadbirlari
+- kimyoviy (zaharli yemlar) va nurlanishga asoslangan (ionlashtiruvchi nur) tadbirlar
+- tabiiy o'choqlarga oid (dala sharoitida) va transportga oid (port va vokzallarda) tadbirlar
+! Birinchi guruh kemiruvchilarni in va oziqdan mahrum qiladi, ikkinchisi populyatsiyani bevosita qisqartiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Quyidagilardan qaysi biri deratizatsiyaning profilaktik tadbirlariga kiradi?
++ kemiruvchilarni in va oziqdan mahrum qilish hamda xonalarga kirishiga to'sqinlik qiluvchi choralar
+- xo'raklarga antikoagulyant rodentitsidlar solib, omborxonalarga joylashtirish va kuzatib borish
+- fumigantlar yordamida inlarni gazlash va yopiq xonalarni zaharlash hamda shamollatish
+- qopqon va tuzoqlarni mavjud kemiruvchilar yo'llariga qo'yish hamda tutilganlarini hisobga olish
+- mushuk va tulki kabi yirtqich hayvonlarni kemiruvchilar yashaydigan joyga jalb qilish hamda boqish
+! Profilaktikaning mohiyati kemiruvchilarning yashashi va oziqlanishi uchun sharoitni yo'qotish, qolgan ishlar esa ularni bevosita qirishga qaratilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Deratizatsiyaning mexanik usuli nimaga asoslangan?
++ tuzoq va qopqonlardan foydalanishga
+- rodentitsidlar bilan zaharlashga
+- yirtqich hayvonlardan foydalanishga
+- fumigant gazlarni qo'llashga
+- ultratovush qurilmalariga
+! Mexanik usulda hayvon qopqonga tushadi, bu usul odam uchun xavfsiz bo'lgani sababli samaradorlikni o'rganishda ham qo'llanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Deratizatsiyaning biologik usulida nimadan foydalaniladi?
++ kemiruvchilarning tabiiy raqiblari bo'lgan yirtqich hayvonlardan, masalan, mushuk va tulkidan
+- qopqon, tuzoq va yopishqoq plastinalardan hamda ularni kemiruvchilar yo'llariga joylashtirishdan
+- o'tkir va surunkali ta'sirli zaharli moddalardan hamda gaz holidagi vositalardan
+- ichak yoki o'pka orqali ta'sir qiluvchi fumigantlar va rodentitsidlardan
+- aholi punktlarini tozalash va hosilni o'z vaqtida yig'ishtirishdan
+! Biologik usul tabiiy dushmanlarga asoslanadi, mexanik usul qopqonlarga, kimyoviy usul esa zaharli moddalarga tayanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Qattiq maishiy chiqindi solinadigan taralarda deratizatsiya sanitariya qoidasiga ko'ra qanday davriylikda o'tkaziladi?
++ oyda bir marta, kemiruvchi aniqlansa esa zudlik bilan
+- haftada bir marta, kemiruvchi aniqlanganidan qat'i nazar
+- yiliga ikki marta, bahor va kuz mavsumlarida rejali ravishda
+- har kuni, tarani bo'shatish bilan bir vaqtda ishlov berilib
+- yiliga bir marta, faqat kemiruvchi aniqlanganidan keyin
+! Taralar kemiruvchilar uchun oziq manbai bo'lgani uchun muntazam oylik ishlov belgilangan, aniqlanganda esa kutmasdan tadbir o'tkaziladi.
+@ SanQvaN № 0090-25 (2025), 2-bob 3-§
+? Rodentitsid joylashtirilgan joylar kuzatilganda, qaysi holatda kemiruvchi yo'q deb hisoblanadi?
++ vosita ikki haftadan ortiq tegilmasdan qolsa
+- vosita uch kun davomida tegilmasdan qolsa
+- vosita bir oy davomida yangilanib turilsa
+- xo'rak faqat qisman yeyilib, izlar saqlansa
+- tuzoqqa bir martagina kemiruvchi tushgan bo'lsa
+! Uzoq vaqt tegilmaslik kemiruvchi yo'qligini bildiradi, shundan keyin kuzatuv to'xtatiladi va vosita profilaktik sifatida qoldiriladi yoki yig'ib olinadi.
+@ SanQvaN № 0090-25 (2025), 2-bob 3-§
+? Dala deratizatsiyasini tashkil etishda asosiy hujjat sifatida nima ko'rsatilgan?
++ maydonning kontur kartasi (1:10000 yoki 1:25000), unda qum sichqon inlari belgilanadi
+- har bir hovli bo'yicha to'ldiriladigan epidemiologik tekshirish kartasi
+- tuzoqlarni hisobga olish jurnali, unda faqat tutilgan kemiruvchilar soni yoziladi
+- tekshiruv dalolatnomasi, uni muassasa rahbari ikki nusxada imzolaydi
+- yuqumli kasallik bilan og'rigan bemor aniqlanganligi to'g'risidagi xabarnoma
+! Kontur karta qirish ishlari hajmini aniqlash va bajarilgan ishni nazorat qilish imkonini beradi.
+@ O'zR SSV 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova (leyshmanioz bo'yicha yo'riqnoma)
+? Xo'raklar (rodentitsidli) sanitariya qoidasiga ko'ra qanday joylanadi?
++ odam va uy hayvonlari kira olmaydigan joylarda, raqamlangan konteynerlarda
+- bolalar o'ynaydigan hovlilarda ochiq holda, ko'zga tashlanadigan joylarda
+- oziq-ovqat omborlarida mahsulot ustiga to'g'ridan-to'g'ri sepib qo'yiladi
+- raqamsiz paketchalarda yalang'och holda, uy hayvonlari yo'lida
+- suv havzalari bo'yiga ochiq yoyib, yomg'irdan himoya qilinmasdan
+! Bu talab zaharning bolalar, uy hayvonlari, oziq-ovqat va atrof-muhitga tushib qolishini oldini oladi.
+@ SanQvaN № 0090-25 (2025), 2-bob 3-§
+? Viloyat taqdimotiga ko'ra dala deratizatsiyasi aholi punktlari va shiyponlardan 3–5 km radiusda yiliga necha marta o'tkaziladi?
++ 3 marta
+- 1 marta
+- 2 marta
+- 6 marta
+- 12 marta
+! Taqdimotda ishlar yanvar–mart, may va sentabr–dekabr oylarida, har bir bosqich o'z maqsadi bilan o'tkazilishi ko'rsatilgan.
+@ Mavzu materiali (052.docx)
+#U 052 / 12: dala deratizatsiyasi yiliga 3 marta, 3–5 km radiusda o'tkazilishi faqat viloyat taqdimotiga (mavzu materialiga) tayangan.

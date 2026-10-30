@@ -1,0 +1,98 @@
+=== 096
+? Botulizm patogenezi bo'yicha ovqat toksiko-infeksiyalaridan nimasi bilan farq qiladi?
++ sof intoksikatsiya: kasallikni mikrobning o'zi emas, uning toksini chaqiradi
+- sof infeksiya: qo'zg'atuvchi ichak devoriga kirib, to'qimalarda ko'payadi
+- bakteriemiya bilan kechadigan sepsis: qo'zg'atuvchi qon orqali a'zolarga tarqaladi
+- virusli kasallik: qo'zg'atuvchi hujayra ichida ko'payib, parazitlik qiladi
+- allergik reaksiya: ovqat tarkibidagi oqsillarga immunitet javobi
+! Kasallik belgilari Clostridium botulinum toksinining asab tizimiga ta'siri bilan bog'liq.
+@ WHO. Botulism (fact sheet)
+? Botulinum toksini organizmda qanday ta'sir ko'rsatadi?
++ periferik nerv uchlarida atsetilxolin ajralishini qaytmas to'sib qo'yadi
+- ichak epiteliysida suyuqlik va elektrolit sekretsiyasini kuchaytiradi
+- eritrotsitlarni parchalab, gemolitik anemiya chaqiradi
+- jigar hujayralarida oqsil sintezini to'xtatadi
+- yurak mushaklarida kaltsiy kanallarini ochib, aritmiya chaqiradi
+! Nerv-mushak o'tkazuvchanligining buzilishi bo'shashgan falajga olib keladi.
+@ MSD Manual (Botulizm), 2018
+? JSST ga ko'ra, botulinum toksini qanday haroratda yo'qoladi?
++ 85 °C dan yuqori haroratda kamida 5 daqiqada
+- 40 °C da bir necha daqiqa davomida isitilganda
+- 60 °C da 30 soniya davomida qizdirilganda
+- 50 °C da 10 daqiqa davomida qizdirilganda
+- –20 °C gacha sovitilganda bir sutka ichida
+! Shuning uchun uyda tayyorlangan mahsulotni iste'moldan oldin qaynatish xavfni kamaytiradi.
+@ WHO. Botulism (fact sheet)
+? C. botulinum qaysi pH sharoitida o'sa olmaydi?
++ pH 4,6 dan past kislotali muhitda
+- pH 7,0 va undan yuqori neytral muhitda
+- pH 8,5 dan yuqori ishqoriy muhitda
+- pH 6,8 atrofidagi kuchsiz kislotali muhitda
+- pH 5,5 atrofidagi o'rtacha kislotali muhitda
+! Past pH bakteriya o'sishini to'xtatadi, ammo allaqachon hosil bo'lgan toksinni buzmaydi.
+@ WHO. Botulism (fact sheet)
+? Botulizm yuqish xususiyati bo'yicha qanday kasallik?
++ ovqat orqali yuqadi, odamdan odamga yuqmaydi
+- havo-tomchi yo'li bilan bemordan sog'lom odamga yuqadi
+- kasal odam bilan kontaktda tuproq orqali tarqaladi
+- tashuvchi hasharotlar chaqishi orqali yuqadi
+- jinsiy yo'l va qon orqali oilada tarqaladi
+! Toksin ovqatda hosil bo'ladi, shu sababli bir xil mahsulot iste'mol qilganlar zararlanadi.
+@ WHO. Botulism (fact sheet)
+? JSST ga ko'ra, ovqat botulizmida yashirin davr odatda qancha?
++ 12–36 soat
+- 30 daqiqadan 2 soatgacha
+- 3–5 kun
+- 2–3 hafta
+- 1–2 oy
+! Muddat toksin miqdoriga qarab o'zgaradi: 4 soatdan 8 kungacha bo'lishi mumkin.
+@ WHO. Botulism (fact sheet)
+? Ovqat botulizmining tipik klinik ko'rinishi qanday?
++ pastga yo'nalgan bo'shashgan falaj, isitma va ong yo'qolishisiz
+- yuqoriga yo'nalgan falaj, yuqori isitma va ong buzilishi bilan
+- tonik-klonik tutqanoq, tez-tez uchraydigan hushdan ketish bilan
+- qonli ich ketish, qorin og'rig'i va tenezmlar bilan
+- teri toshmasi, bo'g'imlar shishi va limfa tugunlari kattalashishi bilan
+! Asosiy belgilar: ko'rishning xiralashishi, og'iz qurishi, yutish va gapirish qiyinlashishi, nafas muskullari falaji.
+@ WHO. Botulism (fact sheet)
+? Botulizmning qaysi shakli eng ko'p uchraydi (MSD ma'lumotiga ko'ra)?
++ chaqaloq botulizmi
+- ovqat botulizmi
+- yara botulizmi
+- ingalyatsion botulizm
+- iatrogen botulizm
+! Chaqaloqlar ichagida sporalar o'sib, toksin ishlab chiqaradi.
+@ MSD Manual (Botulizm), 2018
+? Quyidagi mahsulotlardan qaysi biri botulizm xavfi yuqori bo'lgan uy konservalariga kiradi?
++ uyda konservalangan kislotasiz sabzavotlar, masalan loviya yoki qo'ziqorin
+- qaynatilib darhol iste'mol qilingan guruch uyda saqlanishi bilan
+- issiq holda pishirilgan non va qaymoqli sho'rva tayyorlanishi
+- sutdan tayyorlangan va qaynatib ichiladigan issiq choy
+- uzilgan, yaxshi yuvilgan va tez iste'mol qilingan meva yoki sabzavotlar
+! Kislorodsiz idishda kislotasiz muhit sporalarning o'sishi va toksin hosil bo'lishi uchun qulay.
+@ WHO. Botulism (fact sheet)
+? Tayyor uy konservasini iste'mol qilishdan oldin qaysi chora botulizm xavfini kamaytiradi?
++ mahsulotni qaynatish
+- mahsulotni sovutgichda 1 soat ushlash
+- mahsulotni tuz bilan aralashtirish va bir sutka kutish
+- mahsulotni muzlatish
+- mahsulotning hidi va ko'rinishini baholash
+! Toksin qizdirilganda parchalanadi, hid va tashqi ko'rinish esa ishonchli mezon emas.
+@ WHO. Botulism (fact sheet)
+? Ovqat toksiko-infeksiyalarining rivojlanishi uchun odatda qanday yuqtiruvchi doza zarur?
++ 10^5–10^6 KOE/g atrofida
+- 1–10 KOE/g atrofida
+- 10^2–10^3 KOE/g atrofida
+- 10^9–10^10 KOE/g atrofida
+- 10^12 KOE/g va undan ko'p
+! Toksin yetarli miqdorda to'planishi uchun mikroorganizmlar oziq-ovqatda ko'paygan bo'lishi kerak.
+@ Mavzu materiali (096.docx)
+? Antitoksin va intensiv nafas yordami o'z vaqtida berilmasa, ovqat botulizmida o'lim darajasi qancha bo'lishi mumkin?
++ 5–10 foizgacha
+- 0,1–0,5 foiz atrofida
+- 1–2 foiz atrofida
+- 60–70 foizgacha
+- 95–100 foizgacha
+! Falaj nafas muskullariga o'tganda nafas yetishmovchiligi o'limning asosiy sababi bo'ladi.
+@ WHO. Botulism (fact sheet)
+#U 096 / 11: yuqtiruvchi doza (10^5–10^6 KOE/g) faqat mavzu materialiga tayangan (muallifsiz ma'ruza).

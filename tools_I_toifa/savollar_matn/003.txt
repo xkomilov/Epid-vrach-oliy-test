@@ -1,0 +1,98 @@
+=== 003
+? Epidemik jarayonning elementar katakchasi g'oyasi qaysi olim ta'limotiga asoslanadi?
++ L.V. Gromashevskiy
+- E.N. Pavlovskiy
+- V.D. Belyakov va hamkasblari
+- I. Zemmelveys
+- D.K. Zabolotniy
+! Gromashevskiy epidemik jarayonni uch o'zaro bog'liq qismdan iborat ketma-ketlik sifatida tavsiflagan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Antroponoz, zoonoz va sapronozlarda infeksiya manbai qaysi javobda to'g'ri ko'rsatilgan?
++ mos ravishda odam, hayvon va tashqi muhit
+- mos ravishda hayvon, odam va tashqi muhit
+- mos ravishda tashqi muhit, hayvon va odam
+- mos ravishda odam, tashqi muhit va hayvon
+- mos ravishda hayvon, tashqi muhit va odam
+! Antroponozlarda qo'zg'atuvchi faqat odam organizmida yashaydi, zoonozlarda hayvonda, sapronozlarda esa tashqi muhitda saqlanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Clostridium botulinum misolida rezervuar va infeksiya manbai o'rtasidagi farq qanday?
++ rezervuari tuproq, botulizmning asosiy manbai esa noto'g'ri konservalangan oziq-ovqat
+- rezervuari noto'g'ri konservalangan oziq-ovqat, manbai esa kasallangan odam
+- rezervuari kasallangan hayvon, manbai esa ifloslangan ichimlik suvi
+- rezervuari va manbai ikkalasi ham bir xil bo'lib, kasallangan odam hisoblanadi
+- rezervuari tuproq, manbai esa kasallangan hayvon ichak mikroflorasi
+! Qo'zg'atuvchi tabiatda tuproqda saqlanadi, odam esa uni asosan to'g'ri tayyorlanmagan konserva mahsulotlari orqali oladi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Qo'zg'atuvchining yuqish mexanizmi nima?
++ qo'zg'atuvchining evolyutsion shakllangan tarqalish usuli
+- qo'zg'atuvchining organizmda ko'payish tezligi
+- bemorning klinik belgilari paydo bo'lish tartibi
+- qo'zg'atuvchining tashqi muhitdagi chidamlilik darajasi
+- xo'jayin organizmining immun javob kuchi
+! Mexanizm parazit populyatsiyasi saqlanib qolishi uchun tarixiy davomida shakllangan yo'llar majmuini bildiradi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016, 9-bob
+? Tulyaremiyada moyil organizmni yuqtirish uchun nechta mikrob hujayrasi yetarli deb keltirilgan?
++ 25–50 mikrob hujayrasi
+- 10^7 mikrob hujayrasi
+- 0,5×10^3–0,5×10^4 mikrob hujayrasi
+- 250–500 mikrob hujayrasi
+- 2,5–5 mikrob hujayrasi
+! Tulyaremiya qo'zg'atuvchisining yuqtiruvchi dozasi ich terlama va ichburug'dagiga nisbatan juda kichik.
+@ Mavzu materiali (003.docx)
+? Quyidagilardan qaysi biri moyillikka ta'sir qiluvchi nomaxsus omillarga kiradi?
++ teri, shilliq qavat va oshqozon kislotaliligi
+- vaksinadan keyin hosil bo'lgan antitanalar
+- kasallikni oldin o'tkazgandan keyingi immunitet
+- qo'zg'atuvchining virulentligi va dozasi
+- bemorning ijtimoiy-iqtisodiy sharoiti
+! Nomaxsus omillar qo'zg'atuvchi turidan qat'i nazar ishlaydigan tabiiy to'siqlardir, maxsus immunitet esa aniq antigenga qaratilgan.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Darslikda epidemik jarayonda uchinchi zanjir qanday vazifani bajarishi aytilgan?
++ jarayonni susaytiruvchi tormoz vazifasini
+- jarayonni tezlashtiruvchi harakatlantiruvchi kuch vazifasini
+- qo'zg'atuvchini tashqi muhitga chiqarish vazifasini
+- yuqish mexanizmini belgilovchi vazifani
+- infeksiya manbaining saqlanishini ta'minlash vazifasini
+! Aholining immun qatlami qo'zg'atuvchining yangi odamlarga o'tishini cheklaydi, shu sababli emlash maxsus profilaktikada qo'llanadi.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Ijtimoiy omil epidemik jarayonda qaysi tarkibiy qismlarni o'z ichiga oladi?
++ odamlarning to'planishi, sanitariya-gigiyena sharoitlari, transport aloqalari va sog'liqni saqlash tizimi holati
+- parazit va xo'jayin populyatsiyasining o'zaro munosabati, mavsumiylik va populyatsion immunitet holati
+- iqlim, landshaft, o'simlik va hayvonot dunyosi, hamda tabiiy o'choqlarning mavjudligi
+- qo'zg'atuvchining genetik xossalari, virulentligi va antibiotiklarga chidamliligi
+- bemorning yoshi, jinsi, qon guruhi va ilgari o'tkazgan kasalliklar tarixi
+! Ijtimoiy omil epidemik jarayonning rivojlanish imkoniyati va ko'lamini belgilaydi, biologik omil esa mavsumiylik va immunitet bilan bog'liq.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Emlanganlik 85–90 foizga yetgan aholida ham qizamiq va qizilcha avj olishining sababi nima?
++ moyil kishilar ijtimoiy yoki madaniy omillar bo'yicha ajralgan kichik guruhlarda to'planadi
+- vaksina qo'zg'atuvchining barcha turlariga qarshi umuman himoya bermaydi va samarasiz hisoblanadi
+- emlangan kishilar qo'zg'atuvchini boshqalarga doimo yuqtirib turadi va uni tarqatadi
+- qizamiq va qizilcha qo'zg'atuvchilari faqat hayvonlar orasida aylanadi va odamga o'tmaydi
+- o'rtacha ko'rsatkich har doim real vaziyatdan past qilib hisoblanadi va bunga e'tibor berilmaydi
+! Shu sababli emlash qamrovi o'rtacha ko'rsatkich bilan emas, aniq hududlar va guruhlar kesimida baholanishi kerak.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Profilaktik va epidemiyaga qarshi chora-tadbirlar o'rtasidagi asosiy farq nimada?
++ epidemiyaga qarshi choralar epidemik o'choq paydo bo'lgan sharoitda, profilaktik choralar esa oldini olish uchun o'tkaziladi
+- profilaktik choralar o'choq paydo bo'lgandan keyin, epidemiyaga qarshi choralar esa oldindan o'tkaziladi va bajariladi
+- epidemiyaga qarshi choralar sog'lom aholiga, profilaktik choralar esa faqat bemorlarga qaratiladi
+- bunday choralar o'rtasidagi farq faqat dezinfeksiya yoki emlash bo'yicha belgilanadi
+- ikkala guruh o'tkazilish vaqti, ob'ekti va mazmuni bo'yicha bir-biridan umuman farq qilmaydi
+! Ikkala guruh ham manbaga, yuqish yo'llariga va aholi moyilligiga qaratilishi mumkin, farq esa o'tkazilish sharoitida.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Manbaga nisbatan epidemiyaga qarshi choralarga qaysi biri kiradi?
++ bemorlarni aniqlash, ajratish va bakteriya tashuvchilarni faol izlash
+- reja asosida emlash va sanitariya-ma'rifiy ishlarni yuritish
+- suv ta'minoti va ovqatlanish tizimidagi umumsanitariya tadbirlari
+- joriy va yakuniy dezinfeksiya hamda dezinseksiya o'tkazish
+- shoshilinch profilaktika sifatida faglar va antibiotiklarni qo'llash
+! Bu choralar infeksiya manbaini aniqlash va ajratishga qaratilgan, qolganlari esa yuqish yo'liga yoki moyil jamoaga yo'naltirilgan.
+@ Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? Yuqish yo'liga qaratilgan dezinfeksiyaning o'choqli (yakuniy) turi qachon o'tkaziladi?
++ infeksiya manbai bartaraf etilgandan keyin patogenlarni to'liq yo'qotish uchun
+- epidemiya holatidan qat'i nazar, kasallik bo'lmagan joylarda ham profilaktik maqsadda oldindan
+- bemor aniqlangan paytda, u hali o'choqda turgan davrda doimiy ravishda
+- aholi ommaviy emlangandan keyin qo'shimcha chora sifatida
+- tabiiy o'choqlarda kemiruvchilar soni kamaytirilgandan so'ng
+! Profilaktik dezinfeksiya epidemiya holatidan qat'i nazar o'tkazilsa, o'choqli dezinfeksiya manba chiqarib yuborilgach amalga oshiriladi.
+@ SanQvaN № 0090-25, 1-bob
+#U 003 / 5: Tulyaremiyada yuqtiruvchi doza ko'rsatkichi faqat darslikka tayangan.

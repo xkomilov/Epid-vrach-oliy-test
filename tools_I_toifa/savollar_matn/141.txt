@@ -1,0 +1,97 @@
+=== 141
+? ARVP (antiretrovirus profilaktika) ARVT dan qanday farq qiladi?
++ infeksiyani yuqtirmagan shaxsda zararlanishning oldini olish uchun ARV preparatlar beriladi
+- OIV bilan yashovchi shaxsning o'zi uchun umrbod qabul qilinadigan uch va undan ortiq preparat kombinatsiyasi beriladi
+- opportunistik infeksiyalar rivojlangan bemorlarda immun tiklanishini tezlashtirish uchun yagona preparat qisqa kurs bilan beriladi
+- faqat tug'ruqdan keyingi davrda onada virus yuklamasini pasaytirish uchun muvaffaqiyatsiz davolash o'rniga qo'llaniladi
+- OIV yuqtirgan bemorlarning jinsiy sheriklariga emlash o'rniga yuboriladigan inaktivlangan vaksina kursi hisoblanadi
+! ARVT davolash maqsadida, ARVP esa zararlanishning oldini olish maqsadida qo'llanadi, shu sababli ularning qabul qiluvchilari ham har xil.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i; WHO. HIV and AIDS (fact sheet)
+? Quyidagilardan qaysi biri ARV profilaktikaning yo'nalishlariga kiradi?
++ ekspozitsiyadan oldingi profilaktika (PrEP) xavfi yuqori OIV-manfiy kishilarda
+- ikkilamchi profilaktika sifatida CD4 kamayishi aniqlangan bemorlarda opportunistik infeksiyalarga qarshi antibiotik berish
+- virusi bostirilgan bemorlarda sodiqlikni oshirish maqsadida dori shaklini o'zgartirish
+- jinsiy sherikdan yuqishning oldini olish uchun nospetsifik immunoglobulin yuborish
+- bolalarda kasalxona ichi yuqishining oldini olish uchun vaksinatsiyani tezlashtirish
+! PrEP zararlanmagan, lekin xavfi yuqori bo'lgan shaxslarga beriladi, antibiotik, immunoglobulin va vaksinatsiya esa ARV profilaktikasi hisoblanmaydi.
+@ WHO. HIV and AIDS (fact sheet); Mavzu materiali (141.docx)
+? Kontaktdan keyingi profilaktikada (KKP) ARV kursi odatda necha kun davom etadi?
++ 28 kun
+- 7 kun
+- 14 kun
+- 56 kun
+- 90 kun
+! Xavf darajasi baholangach, qisqa kurs belgilanadi va u to'rt haftalik muddat bilan cheklanadi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i ijrosi bayonnomasi
+? Sil/OIV koinfeksiyasida CD4 soni 50 hujayra/mkl dan kam bo'lsa, RQT sil davosi boshlanganidan keyin qancha muddat ichida qo'shiladi?
++ 2 hafta ichida
+- 4 hafta ichida
+- 8 hafta ichida
+- 12 hafta ichida
+- 6 oy ichida
+! CD4 juda past bo'lganda o'lim xavfi yuqori, shuning uchun RQT boshqa bemorlardagi 8 haftalik muddatdan ancha erta qo'shiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Homilador va emizikli ayollarda RQT boshlash qaysi mezonga ko'ra belgilanadi?
++ klinik bosqich va CD4 sonidan qat'i nazar barcha ayollarda boshlanib, umrbod davom ettiriladi
+- CD4 soni 350 dan past bo'lgan ayollarda boshlanib, tug'ruqdan keyin 6 oy o'tgach to'xtatiladi
+- faqat 3–4 klinik bosqichdagi ayollarda boshlanib, emizish tugagach bekor qilinadi
+- virus yuklamasi 100 000 nusxa/ml dan yuqori bo'lsa boshlanib, bola tug'ilgach to'xtatiladi
+- bola PZR bilan tasdiqlangandan keyingina boshlanadi va yillik kurs bilan cheklanadi
+! Ayol uchun davolash bola himoyasi bilan birga o'zining sog'lig'ini ham saqlaydi, shuning uchun u uzluksiz bo'ladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? RQT tayinlash qaysi tartibda amalga oshiriladi?
++ OITSga qarshi kurash markazlari komissiyasining qarori va bayonnomasi asosida
+- tuman poliklinikasi terapevtining yakka tartibdagi yozma ko'rsatmasi asosida
+- bemorning o'z arizasi va jinsiy sherigining roziligi asosida
+- tuman sanitariya-epidemiologiya xizmati rahbarining buyrug'i asosida
+- yuqumli kasalliklar shifoxonasi bosh shifokorining og'zaki ko'rsatmasi asosida
+! Qaror klinik-laborator ko'rsatkichlar bahosiga ko'ra mutaxassislar komissiyasida chiqariladi va kartaga yoziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Protokolga ko'ra kattalar uchun afzal birinchi qator sxema qaysi?
++ TDF + 3TC (yoki FTC) + EFV
+- AZT + 3TC + ABC + LPV/r
+- ABC + 3TC + LPV/r
+- TDF + AZT + NVP + EFV + 3TC
+- ABC + 3TC + DTG + LPV/r
+! Afzal sxemada ikkita nukleozid ingibitori NNRTI bilan birga qo'llanadi, qolgan kombinatsiyalar asosiy tavsiya emas.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? 3–10 yoshli bolalar uchun protokolda afzal sxema qaysi?
++ ABC + 3TC + EFV
+- TDF + 3TC + EFV
+- AZT + 3TC + LPV/r
+- TDF + FTC + DTG
+- ABC + AZT + NVP
+! Bu yoshdagi bolalar uchun ABC asosidagi uch komponentli sxema birinchi tanlov, TDF esa bolalarda afzal emas.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OBYuP doirasida OIV bilan yashovchi onadan tug'ilgan chaqaloqqa ARV-profilaktika qachon boshlanadi?
++ tug'ilgandan keyingi dastlabki 4 soat ichida
+- tug'ilgandan keyingi 24 soatdan so'ng
+- birinchi PZR natijasi musbat chiqqach
+- hayotning 5-haftasida kotrimoksazol bilan birga
+- ona emizishni to'xtatganidan keyin
+! Preparatlar imkon qadar erta berilsa, intranatal va dastlabki davrdagi yuqish xavfi kamayadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? Samarali OBYuP qo'llanganda onadan bolaga OIV yuqish ehtimoli qaysi darajagacha pasayadi?
++ 1–2% gacha
+- 5–6% gacha
+- 10–12% gacha
+- 15–20% gacha
+- 25–30% gacha
+! Profilaktikasiz yuqish xavfi ancha yuqori, ART va chaqaloq profilaktikasi esa uni bir necha foizdan pastga tushiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? OIV bilan yashovchi onalardan tug'ilgan bolalarda kotrimoksazol profilaktikasi qaysi maqsadda va qachongacha o'tkaziladi?
++ pnevmotsistali zotiljamning oldini olish uchun 5 haftalikdan ikki marta manfiy PZR olingunicha
+- sil mikobakteriyasi bilan zararlanishni oldini olish uchun tug'ilgandan to 18 oygacha doimiy
+- toksoplazmoz bilan kasallanishning oldini olish uchun 12 haftalikdan 6 yoshgacha davom ettirib
+- kandidoz rivojlanishining oldini olish uchun 4 soatlikdan 4 haftalikkacha
+- sitomegalovirus infeksiyasidan saqlanish uchun 5 haftalikdan IFA musbat bo'lguncha doimiy
+! Kotrimoksazol pnevmotsistali zotiljamga qarshi samarali, uni to'xtatish esa OIV infeksiyasi chiqarilishiga bog'liq.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i
+? JSST ma'lumotiga ko'ra davolanayotgan va qonida virus aniqlanmaydigan odam jinsiy sherigiga OIV yuqtirishi haqida nima deyiladi?
++ virusni jinsiy sherigiga yuqtirmaydi
+- yuqtirish xavfi to'liq saqlanadi, chunki virus yuklamasi hisobga olinmaydi
+- faqat prezervativ ishlatilmaganda yuqtiradi
+- virusni yuqtirish ehtimoli yarmiga kamayadi, lekin yo'qolmaydi
+- yuqtirish xavfi faqat ayoldan erkakka saqlanib qoladi
+! Virus yuklamasi aniqlanmaydigan darajaga tushganda virusning jinsiy yo'l bilan yuqishi to'xtaydi.
+@ WHO. HIV and AIDS (fact sheet)
