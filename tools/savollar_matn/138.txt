@@ -1,0 +1,100 @@
+=== 138
+? Brutsellyoz profilaktikasi qaysi uch guruh tadbirlarni qamrab oladi?
++ Veterinariya-sanitariya, xo'jalik va tibbiy-sanitariya tadbirlari
+- Diagnostik, davolash va reabilitatsiya tadbirlari
+- Immunologik, farmakologik va xirurgik tadbirlar, ularning har biri alohida moliyalashtiriladi
+- Epidemiologik, statistik va huquqiy tadbirlar
+- Karantin, izolyatsiya va dezinfeksiya tadbirlari
+! Brutsellyoz zooantroponoz bo'lgani uchun tadbirlar hayvonlar, xo'jalik muhiti va odamlar sog'lig'ini birga qamrab oladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? JSST ma'lumotiga ko'ra brutsellyozda eng samarali strategiya qaysi?
++ Hayvonlarda infeksiyani yo'qotish
+- Barcha kasb egalarini yillik emlash
+- Aholiga profilaktik antibiotiklar berish
+- Chorva mahsulotlari savdosini butunlay to'xtatish
+- Odamlar orasida bemorlarni majburiy izolyatsiya qilish
+! Odam infeksiyasining manbai hayvonlar bo'lgani uchun zanjir shu bo'g'inda uziladi.
+@ WHO. Brucellosis (fact sheet)
+? Brutsellyoz bo'yicha dekretiv kontingentlar dispanser ko'rikdan qanday davriylikda o'tadi?
++ Yiliga kamida 1 marta
+- Uch yilda bir marta
+- Besh yilda bir marta
+- Ikki yilda bir marta
+- Har oyda bir marta
+! Kasallanganlarni o'z vaqtida aniqlash uchun muntazam yillik tekshiruv belgilangan.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Dekretiv kontingentlarning serologik tekshiruvida qaysi reaksiyalar qo'llanadi?
++ Xeddelson, Rayt va IFT
+- Vidal, Vasserman va Kasoni
+- Mantu, Pirke va Kox
+- Shik, Dik va Gruber
+- Aksilovlik, Bordet–Jangu va Kumbs
+! Bu reaksiyalar brutsellyozga xos antitelalarni aniqlash uchun ishlatiladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova; Brutsellyoz laboratoriya tashxisi bo'yicha uslubiy ko'rsatma
+? Klinik belgisiz, lekin serologik musbat yoki shubhali natijali shaxslar qanday kuzatiladi?
++ Infeksionist tomonidan yiliga ikki marta
+- Hududiy terapevt tomonidan yiliga bir marta
+- Kuzatuv talab etilmaydi, chunki klinik belgi yo'q
+- Har oyda travmatolog tomonidan, bir yil davomida
+- Veterinariya shifokori tomonidan har chorakda
+! Belgisiz musbat serologiya yashirin infeksiya bo'lishi mumkinligini ko'rsatadi, shuning uchun mutaxassis nazorati davom ettiriladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Chorvadorlar brutsellyoz bo'yicha qachon tekshiriladi?
++ Ommaviy qo'zilatish va urchitish tugagach 1–2 oy o'tib, odatda II chorakda
+- Ommaviy so'yish tugagach 1–2 oy o'tib, III chorakdan kechikmay
+- Qo'zilash boshlanishidan 6 oy oldin, I chorakda, hayvonlar bilan aloqa boshlanmasidan
+- Har oyning birinchi haftasida, yil davomida
+- Faqat kasallik belgilari paydo bo'lganda
+! Tekshiruv hayvonlar tug'ish va abort davrida infeksiya xavfi eng yuqori bo'lgan paytdan keyin o'tkaziladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Brutsellalar brinzada qancha muddat saqlanadi?
++ 45 kungacha
+- 10 kun
+- 3 kungacha
+- 1 oygacha
+- 6 oygacha
+! Brinza qaynatilmagan sutdan tayyorlanadi va qo'zg'atuvchi unda sutdagidan ancha uzoq yashaydi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Brutsellyoz o'chog'i haqida xabar kelgach, epidemiologik tekshiruv qancha vaqt ichida boshlanadi?
++ 1 sutka ichida
+- 3 sutka ichida
+- 7 sutka ichida
+- 10 sutka ichida
+- 2 hafta ichida
+! Tezkor tekshiruv manbani aniqlash va yangi holatlarning oldini olish uchun zarur.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? JSST yuqori tarqalgan endemik hududlarda hayvonlar orasida qaysi chorani samarali deb hisoblaydi?
++ Qoramol, echki va qo'ylarni emlash
+- Kasal va sog'lom hayvonlarning hammasini ommaviy so'yish
+- Faqat serologik tekshirib, kasal hayvonlarni chiqarib tashlash
+- Hayvonlarni davolash uchun massaviy antibiotik berish
+- Chorva mollarini boshqa hududga ko'chirish va ko'paytirishni cheklash
+! Tarqalish juda yuqori bo'lganda barcha kasal hayvonlarni chiqarib tashlash iqtisodiy jihatdan imkonsiz bo'ladi.
+@ WHO. Brucellosis (fact sheet)
+? Fuqarolarni gigiyenik o'qitish va tarbiyalash "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonunning qaysi moddasida nazarda tutilgan?
++ 36-moddada
+- 32-moddada
+- 33-moddada
+- 35-moddada
+- 28-moddada
+! Modda aholining gigiyenik bilimini oshirishga qaratilgan, 35-modda esa tibbiy ko'riklarga tegishli.
+@ Mavzu materiali (138.docx)
+? JSST bo'yicha to'g'ridan-to'g'ri iste'mol uchun mo'ljallangan sut brutsellyozdan himoya qilish maqsadida qanday ishlov berilishi kerak?
++ Pasterizatsiya qilinishi
+- Sovutgichda 4 °C da bir sutka saqlanishi
+- Tindirilib, yog'i olinishi
+- Suv bilan suyultirilishi
+- Tuz qo'shib saqlanishi va keyin xom holda iste'mol qilinishi
+! Issiqlik ishlovi sutdagi brutsellalarni yo'q qiladi.
+@ WHO. Brucellosis (fact sheet)
+? Brutsellyoz bo'yicha xavfi yuqori ishlarga xodimlar qachon ruxsat etiladi?
++ Faqat yo'riqnomadan o'tgandan keyin
+- Ishga kirgan kuniyoq, yo'riqnoma esa keyinroq o'tkaziladi
+- Bir oylik sinov muddatini o'tagandan keyin, yo'riqnomasiz
+- Dastlabki tibbiy ko'rikdan so'ng, yo'riqnoma talab etilmaydi
+- O'z xohishi bilan yozma ariza berganda
+! Yo'riqnoma xodimga gigiyena qoidalari va brutsellyozga qarshi rejimni o'rgatadi, shu sababli ruxsat uning keyinidan beriladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+#U 138 / 3: ko'riklar davriyligi 2015-yilgi buyruqqa tayangan; buyruqning hozirgi kuchi va aniq muddatlari bo'yicha yangilanishi tasdiqlanmagan.
+#U 138 / 6: ko'rik muddatlari faqat 2015-yilgi buyruq yo'riqnomasiga tayangan; hujjatning hozirgi kuchi tasdiqlanmagan.
+#U 138 / 10: Qonun moddalarining raqami faqat mavzu materialiga tayangan; qonunning asosiy raqami materialda ko'rsatilmagan.

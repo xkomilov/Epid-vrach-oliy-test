@@ -1,0 +1,99 @@
+=== 081
+? Qizilcha qo'zg'atuvchisi qaysi oila va turkumga mansub virus hisoblanadi?
++ Togaviridae oilasi, Rubivirus turkumi, RNK saqlovchi virus
+- Paramyxoviridae oilasi, Morbillivirus turkumi, RNK saqlovchi virus bo'lib, qizamiq qo'zg'atuvchisiga yaqin turadi
+- Herpesviridae oilasi, Varicellovirus turkumi, DNK saqlovchi virus bo'lib, yashirin holatda saqlanadi
+- Picornaviridae oilasi, Enterovirus turkumi, RNK saqlovchi virus bo'lib, ichak orqali ko'payadi
+- Orthomyxoviridae oilasi, Influenzavirus turkumi, segmentlangan RNK saqlovchi virus bo'lib, mavsumiy tarqaladi
+! Qizilcha viruslari boshqa toshmali infeksiyalar qo'zg'atuvchilaridan oilasi va genom tuzilishi bo'yicha farq qiladi, ularning tasnifi taksonomiyada alohida belgilangan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchaning yashirin davri qancha davom etadi?
++ 11–22 kun
+- 2–5 kun, odatda kamdan-kam hollarda 10 kungacha uzayishi mumkin
+- 8–21 kun, avval kataral davr, so'ng toshma davri boshlanadi
+- 3–14 kun, o'rtacha 7–8 kun bo'lib hisoblanadi
+- 1–3 kun, ya'ni juda qisqa muddat davom etadi
+! Bu muddat qizilcha virusining organizmda ko'payishi va limfa tugunlariga tarqalishi uchun zarur vaqtni aks ettiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ma'lumotiga ko'ra, homiladorlikning erta davrida qizilcha bilan kasallangan ayol infeksiyani homilasiga qanday ehtimol bilan o'tkazadi?
++ Taxminan 90%
+- Taxminan 60%, bu holda barcha homilalar nuqson bilan tug'iladi deb hisoblanadi
+- Taxminan 15%, ya'ni har olti homiladan atigi bittasi zararlanadi
+- Taxminan 7%, asosan faqat homiladorlikning ikkinchi yarmida kuzatiladi
+- Taxminan 30%, bunda toshmasiz kechgan hollar hisobga olinmaydi
+! Virus erta homiladorlikda plasenta orqali homilaga oson o'tadi, shu sababli xavf juda yuqori bo'ladi.
+@ WHO. Rubella (fact sheet)
+? Tug'ma qizilcha sindromiga xos klassik uchlik qaysi javobda to'g'ri ko'rsatilgan?
++ Katarakta, karlik va tug'ma yurak nuqsonlari
+- Gidrotsefaliya, bo'g'imlar deformatsiyasi va jigar sirrozi
+- Tug'ma gipotireoz, buyrak yetishmovchiligi va ko'rlik
+- Epilepsiya, o'pka gipoplaziyasi va teri yaralari
+- Mikrosefaliya, suyak sinishlari va o'smirlik davrida paydo bo'luvchi diabet
+! Virus rivojlanayotgan ko'z gavhari, ichki quloq va yurak tuzilmalariga ayniqsa kuchli ta'sir qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchaga qarshi vaksina qaysi shtammdan tayyorlanadi?
++ Wistar RA 27/3 tirik susaytirilgan shtamm
+- Edmonston-Zagreb o'ldirilgan shtamm, formalin bilan inaktivatsiya qilingan
+- Oka tirik susaytirilgan shtamm, suvchechak vaksinasida ishlatiladigan
+- Jeryl Lynn tirik susaytirilgan shtamm, epidemik parotit vaksinasi uchun mo'ljallangan
+- Sabin tirik susaytirilgan shtamm, poliomielit vaksinasi uchun mo'ljallangan
+! Shtamm virusning yuqori immunogenligini saqlagan holda kasallik chaqirish xususiyatini yo'qotgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekiston milliy emlash kalendarida qizilcha komponenti KPK vaksinasi tarkibida qaysi yoshlarda beriladi?
++ 12 oylikda (KPK-1) va 6 yoshda (KPK-2)
+- 2 oylikda (KPK-1) va 4 yoshda (KPK-2), ya'ni bolalar bog'chasiga borishdan oldin
+- 9 oylikda (KPK-1) va 12 yoshda (KPK-2), maktabning yuqori sinfida
+- Tug'ilganda (KPK-1) va 16 oylikda (KPK-2), difteriya revaksinatsiyasi bilan birga
+- 6 oylikda (KPK-1) va 16 yoshda (KPK-2), bolalar poliklinikasida
+! Bu muddatlarda ona antitelalari yo'qolib, bolada o'z immuniteti barqaror shakllanadi va ikkinchi doza immunitetni mustahkamlaydi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? Qizilcha o'chog'ida qaysi shaxslar epidemiologik ko'rsatma bo'yicha emlanadi?
++ 6 oylikdan 30 yoshgacha bo'lgan, avval emlanmagan va kasallanmagan aloqadorlar
+- Faqat homilador ayollar va yangi tug'ilgan chaqaloqlar, bemor bilan aloqada bo'lsa
+- 1 yoshdan 14 yoshgacha bo'lgan barcha bolalar, oldin emlanganidan qat'i nazar
+- 18 yoshdan 50 yoshgacha bo'lgan barcha kattalar, shu jumladan homiladorlar ham
+- Bemor yashaydigan uydagi 7 yoshgacha bolalar, 14 kunlik karantin bilan
+! Emlash qamrovini kengaytirish orqali o'choqda yangi kasallanishlar yo'liga to'siq qo'yiladi, shuning uchun himoyasiz aloqadorlar tanlanadi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? Qizilchada bemorlarni bolalar muassasasidan ajratish nima uchun yetarli samara bermaydi?
++ Belgisiz shakllar ko'p va virus yashirin davr oxirida ham ajraladi
+- Qo'zg'atuvchi tashqi muhitda uzoq saqlanib, buyumlar orqali yuqadi
+- Kasallik faqat transmissiv yo'l bilan, ya'ni chivinlar orqali tarqaladi
+- Bemorlar toshma yo'qolgandan keyin ham bir yil davomida yuqumli bo'ladi
+- Vaksina bilan emlangan bolalar jamoada kasallikni qaytadan tarqatadi
+! Yuqumlilik klinik belgilar paydo bo'lishidan oldin boshlanadi, shuning uchun ajratish faqat bir qismini to'xtatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, homiladorlikning 3–4-haftasida qizilcha bilan kasallanish necha foiz hollarda tug'ma nuqsonga olib keladi?
++ 60%
+- 90%, bu CDC bo'yicha eng xavfli davrdagi ko'rsatkichga teng
+- 15%, bu 9–12-haftadagi infeksiya xavfiga to'g'ri keladi
+- 7%, bu esa 13–16-haftadagi infeksiyaga xos qiymat
+- 30%, bu toshmasiz kechadigan holatlar ulushiga teng
+! Embrion organlari shakllanayotgan eng erta bosqichda virus ta'siri nuqsonga sezilarli darajada ko'proq olib keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Xalqaro tajribada qizilchaga qarshi eng samarali emlash sxemasi qaysi javobda to'g'ri keltirilgan?
++ 12–16 oylikda va 6 yoshda ikki marta emlash hamda o'smir qizlar va tug'ish yoshidagi ayollarni qayta emlash
+- 12 oylikda bir marta emlash va immunoglobulin bilan shoshilinch profilaktikani birga o'tkazish
+- 2, 3 va 4 oylikda uch marta emlash va 16 yoshda faqat o'g'il bolalarni qayta emlash, ayollarni esa emlamaslik
+- Faqat o'choq paydo bo'lganda aloqadorlarga bir martalik emlash va bemorlarni ajratish
+- Tug'ish yoshidagi ayollarni emlashdan voz kechib, faqat chaqaloqlarga immunoglobulin yuborish
+! Ikki doza bolalarda immunitet bo'shlig'ini yopadi, ayollarni qayta emlash esa homila himoyasini ta'minlaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilcha o'chog'ida laboratoriya tekshiruvi uchun qanday materiallar olinadi?
++ Serologik tekshiruv uchun qon, virusologik tekshiruv uchun siydik va burun-halqum surtmasi
+- Serologik tekshiruv uchun likvor, virusologik tekshiruv uchun najas va teri qirindisi
+- Serologik tekshiruv uchun balg'am, virusologik tekshiruv uchun siydik va o'n ikki barmoq ichak shirasi
+- Serologik tekshiruv uchun siydik, virusologik tekshiruv uchun qon zardobi va plevra suyuqligi
+- Serologik tekshiruv uchun burun-halqum surtmasi, virusologik tekshiruv uchun faqat qon
+! Antitelalar qonda aniqlanadi, virus esa nafas yo'llari va siydik bilan ajraladi, shu sababli material shu tarzda tanlanadi.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (uslubiy ko'rsatma, qizamiq va qizilcha)
+? Qizilcha vaksinasi tirik bo'lgani uchun homiladorlikni rejalashtirayotgan ayollarga uni qachon qo'llash tavsiya etiladi?
++ Homiladorlikdan oldin
+- Birinchi trimestrda, antitela titri past bo'lganda
+- Uchinchi trimestrda, tug'ruqdan oldin darhol
+- Faqat tug'ruqdan keyin emizish davri tugagach, ya'ni bir yildan so'ng
+- Homiladorlikning ikkinchi trimestrida, immunoglobulin bilan birga
+! Tirik vaksina homilaga xavf tug'dirishi mumkinligi sababli himoya homiladorlikdan avval shakllantiriladi.
+@ Mavzu materiali (081.docx)
+#D 081 / 9: Darslikda 3–4-haftada 60% keltirilgan, CDC esa 8–10-haftada TQS xavfini 90% gacha ko'rsatadi; raqamlar farq qiladi, qaysi biri aniq ekani tasdiqlanmagan.
+#U 081 / 12: Homiladorlikdan oldin emlash tavsiyasi kutubxona hujjatlarida to'g'ridan-to'g'ri ko'rsatilmagan, faqat mavzu materialiga tayanadi.

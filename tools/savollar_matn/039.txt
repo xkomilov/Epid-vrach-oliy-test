@@ -1,0 +1,101 @@
+=== 039
+? Dezinfeksiya epidemik jarayonning qaysi bo'g'iniga ta'sir qiladi?
++ Ikkinchi bo'g'inga — yuqish mexanizmiga
+- Birinchi bo'g'inga — infeksiya manbaiga
+- Uchinchi bo'g'inga — qabul qiluvchan organizmga
+- Faqat inkubatsion davrga
+- Tashuvchi hayvonlarning soniga
+! Dezinfeksiya tashqi muhit obyektlaridagi qo'zg'atuvchini yo'qotib, uning yangi odamga yetib borishiga yo'l qo'ymaydi.
+@ SanQvaN № 0090-25; CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 10
+? Epidemiya holatidan qat'iy nazar, kasalliklarning oldini olish uchun doimiy o'tkaziladigan dezinfeksiya turi qaysi?
++ Profilaktik dezinfeksiya
+- Joriy dezinfeksiya
+- Yakuniy dezinfeksiya
+- Epidemik ko'rsatmalar bo'yicha o'choqli dezinfeksiya
+- Maxsus kamerali dezinfeksiya
+! Profilaktik dezinfeksiya jamoat joylari, tibbiyot muassasalari, suv ta'minoti va umumiy ovqatlanish obyektlarida rejali o'tkaziladi.
+@ SanQvaN № 0090-25
+? Joriy dezinfeksiya qachon o'tkaziladi?
++ Bemor o'choqda mavjud bo'lib, qo'zg'atuvchi ajralib turgan davrda muntazam ravishda
+- Bemor o'choqdan olib ketilgach, qolgan qo'zg'atuvchilarni yo'qotish uchun bir marta
+- Epidemiya holatidan qat'iy nazar, jamoat joylarida rejali ravishda doimiy
+- Faqat bemor tuzalib chiqqanidan keyin, oxirgi tekshiruv natijasi olingach
+- Laboratoriya xonalarida, namuna olish tugagandan keyin
+! Maqsadi bemor atrofida qo'zg'atuvchi to'planib qolmasligini ta'minlash.
+@ SanQvaN № 0090-25
+? Yakuniy (o'choqli) dezinfeksiya qachon o'tkaziladi?
++ Infeksiya manbai o'choqdan bartaraf etilgach, qolgan patogenlarni yo'q qilish uchun bir marta
+- Bemor o'choqda bo'lgan davrda, qo'zg'atuvchi ajralayotgan vaqtda muntazam ravishda
+- Epidemiya yo'q paytda, kasalliklarning oldini olish maqsadida har oyda va jamoat joylarida rejali tarzda
+- Faqat dezinfeksiya xizmati xodimlari ishdan ketgandan keyin
+- Vaksinalar tashilgandan keyin sovutgichlarni ishlov berish uchun
+! Bunday dezinfeksiya bemor ketgandan so'ng xonada, buyumlarda qolgan qo'zg'atuvchini to'liq yo'q qiladi.
+@ SanQvaN № 0090-25
+? Mavzu materialiga ko'ra, SanQvaN № 0090-25 da profilaktik dezinfeksiya obyektlarda qanday davriylikda o'tkaziladi?
++ Oyda bir marta, epidemik kasalliklar mavsumida esa tez-tez
+- Har kuni, har bir ish smenasi tugagandan keyin
+- Haftada bir marta, mavsumdan qat'i nazar
+- Yilda bir marta, bahor oylarida
+- Besh yilda bir marta, binolarning texnik ko'riki va kapital ta'miri bilan birga
+! Mavsum davomida davriylikning oshirilishi epidemik xavf yuqori paytda himoyani kuchaytiradi.
+@ Mavzu materiali (039.docx)
+#U 039 / 5: profilaktik dezinfeksiyaning "oyda bir marta" davriyligi mavzu materialida SanQvaN № 0090-25 ga havola qilib keltirilgan, matn tashqi manba bilan tekshirilmagan.
+? Dezinfeksiyalovchi eritmaning faol modda konsentratsiyasi qaysi nazorat turi bilan tekshiriladi?
++ Kimyoviy nazorat
+- Bakteriologik nazorat
+- Vizual nazorat
+- Biologik nazorat sporalar yordamida
+- Epidemiologik nazorat
+! Kuchsizlangan eritma samarasiz bo'ladi, shu sababli konsentratsiyani tekshirish zarur.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); SanQvaN № 0090-25
+? Dezinfeksiya samaradorligining eng ishonchli ko'rsatkichi nima?
++ Ishlov berilgan yuzalardan olingan surtmalarni laboratoriyada bakteriologik tekshirish
+- Obyektning tashqi tozaligi va tartibini vizual baholash
+- Eritma idishining etiketkasida yozilgan faol modda foizini tekshirish va yaroqlilik muddatini ko'zdan kechirish
+- Xodimlarning shaxsiy himoya vositalaridan foydalanganligini kuzatish
+- Dezinfeksiya jurnali yozuvlarini hujjatlar bo'yicha o'rganish
+! Surtmada qo'zg'atuvchi yoki sanitariya-ko'rsatkich mikroorganizmlar (masalan, ichak tayoqchasi) qolgan-qolmaganini bevosita aniqlaydi.
+@ SanQvaN № 0090-25; Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Nima uchun dezinfeksiyadan oldin obyektni mexanik tozalash ko'pincha zarur bosqich hisoblanadi?
++ Organik qoldiqlar (qon, oqsil) dezinfeksiyalovchi moddani neytrallaydi, iflos yuzada dezinfeksiya to'liq samara bermaydi
+- Mexanik tozalash sporalarni to'liq yo'q qilib, keyingi dezinfeksiyani ixtiyoriy qiladi
+- Tozalash eritmaning konsentratsiyasini oshiradi va ekspozitsiya vaqtini bir necha marta qisqartirib, vositani tejaydi
+- U faqat estetik maqsadda o'tkaziladi va epidemiologik ahamiyatga ega emas
+- U dezinfeksiyalovchi vositaning xavf sinfini pasaytirib, uni zararsiz qiladi
+! Shu sababli organik qoldiqlar avval olib tashlanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Qaysi qo'zg'atuvchilar dezinfeksiya vositalariga nisbatan eng chidamli bo'lib, eng kuchli rejimlarni talab qiladi?
++ Sporali shakllar (kuydirgi, qoqshol qo'zg'atuvchilari)
+- Vegetativ bakteriyalar (stafilokokk, streptokokk va boshqa nospora hosil qiluvchilar)
+- Gripp va qizamiq viruslari
+- Ichak tayoqchasi
+- Sariq isitma viruslari
+! Spora qobig'i kimyoviy va fizik omillarga ancha chidamli, vegetativ shakllar esa nisbatan oson halok bo'ladi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Mavzu materialiga ko'ra, profilaktik dezinfeksiya sifati surtmalarda E. coli aniqlanishi bo'yicha tuman (shahar) markazida qancha foizgacha bo'lsa, sifatli hisoblanadi?
++ 5 foizgacha
+- 1 foizgacha
+- 10 foizgacha
+- 20 foizgacha
+- Birorta ham musbat surtma bo'lmasligi shart
+! Chekka hududlarda bu chegara qattiqroq, 3 foizgacha belgilangan.
+@ Mavzu materiali (039.docx)
+#U 039 / 10: tuman markazida E. coli bo'yicha 5 foiz, chekka hududlarda 3 foiz chegarasi faqat mavzu materialiga tayangan.
+? Mavzu materialiga ko'ra, o'choqli dezinfeksiya samaradorligi uchun qamrov kamida qancha bo'lishi va dezinfeksiya qancha vaqt ichida o'tkazilishi kerak?
++ Kamida 95 foiz qamrov va 24 soat ichida
+- Kamida 50 foiz qamrov va 7 kun ichida
+- Kamida 80 foiz qamrov va 72 soat ichida
+- Kamida 100 foiz qamrov va 1 soat ichida
+- Kamida 75 foiz qamrov va 12 soat ichida
+! O'z vaqtidalik va qamrov samaradorlik shartlaridan biri hisoblanadi.
+@ Mavzu materiali (039.docx)
+#U 039 / 11: o'choqli dezinfeksiya uchun o'z vaqtidalik (24 soat) va qamrov (kamida 95 foiz) mezonlari faqat mavzu materialiga tayangan.
+? Qaysi infeksiyalarda dezinfeksiyaning ahamiyati cheklangan hisoblanadi?
++ Tashqi muhitda tez nobud bo'ladigan va havo-tomchi orqali yuqadigan infeksiyalarda (gripp, qizamiq)
+- Ich terlama va virusli gepatit A kabi tashqi muhitda chidamli qo'zg'atuvchilar keltiradigan o'choqlarda
+- Kuydirgi va sil kabi tashqi muhitda chidamli sporali yoki mikobakterial qo'zg'atuvchilar bilan bog'liq o'choqlarda
+- Vabo va dizenteriya kabi suv va oziq-ovqat orqali yuqadigan ichak infeksiyalarida
+- Tibbiy muassasalardagi qon orqali yuqadigan shifoxona ichi infeksiyalarida
+! Bunday qo'zg'atuvchilar yuqishida asosiy rolni tashqi muhit buyumlari emas, bevosita aerozol o'ynaydi.
+@ Mavzu materiali (039.docx); Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+#U 039 / 12: dezinfeksiyaning gripp va qizamiq o'choqlarida cheklangan ahamiyati haqidagi bayon faqat mavzu materialiga asoslangan.

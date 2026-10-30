@@ -1,0 +1,99 @@
+=== 106
+? QVP vrachi ambulatoriyada o'ta xavfli infeksiyaga gumon qilingan bemorni aniqlaganda birinchi navbatda nima qiladi?
++ Bemorlarni qabul qilishni to'xtatadi, kabinet eshik va derazalarini yopadi
+- Bemorni darhol poliklinika koridoriga olib chiqib, boshqa bemorlar bilan birga navbatda kutdiradi
+- Kabinetdan chiqib, bosh vrachni shaxsan topish uchun muassasaning boshqa xonalarini aylanadi
+- Bemorni uyiga qaytaradi va telefon orqali ertasiga qayta kelishni tayinlaydi
+- Namuna olish jamlamasini kutmasdan, bemorga mustaqil ravishda keng spektrli antibiotik yuboradi
+! Qo'zg'atuvchi tarqalishining oldini olish uchun avvalo bemor va boshqa shaxslar o'rtasidagi aloqa to'xtatilib, kabinet ajratiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Saparov qo'llanmasida QVP, poliklinika va sanitariya nazorati punktlarida nechtadan MShHVJ saqlanishi ko'rsatilgan?
++ 3 tadan
+- 1 tadan
+- 6 tadan
+- 11 tadan
+- 20 tadan
+! Me'yor tibbiy xodimlarning qisqa vaqt ichida himoya vositalari bilan ta'minlanishi uchun belgilangan.
+@ Mavzu materiali (106.docx)
+? MShHV kiyishdan oldin teri ochiq qismlari va shilliq qavatlarga ishlov berishda qaysi eritma ishlatiladi?
++ 0,5–1% li xloramin yoki 70° li spirt
+- 5% li lizol yoki 96° li spirt, chuqur yuvish bilan
+- 3% li vodorod peroksid yoki 10% li yod eritmasi
+- 20% li xlorli ohak yoki 4% li formaldegid
+- 1% li brilliant yashili yoki 5% li kaliy permanganat
+! Teri yuzasidagi qo'zg'atuvchi o'z vaqtida zararsizlantirilsa, himoya vositalari ostida yuqish xavfi kamayadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? O'latga gumon qilinganda MShHV kiyishdan oldin shilliq qavatlarga ishlov berish uchun qaysi vosita qo'llanadi?
++ Streptomitsin eritmasi
+- Kaliy permanganatning kuchsiz eritmasi
+- Xloramin eritmasi
+- 70° li spirt
+- Furatsilin eritmasi
+! Streptomitsin o'lat qo'zg'atuvchisiga samarali antibiotik bo'lgani uchun shilliq qavatlar shu vosita bilan himoyalanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Maymun chechagiga gumon qilinganda shilliq qavatlar qaysi vosita bilan ishlanadi?
++ Kaliy permanganatning kuchsiz eritmasi
+- Streptomitsinning suvdagi eritmasi, shilliq qavatga tomizib
+- 70° li spirt
+- 20% li sulfatsil natriy eritmasi
+- Xloramin eritmasi
+! Bu virusli infeksiya bo'lgani uchun antibiotik emas, virusga ta'sir qiluvchi dezinfeksiyalovchi eritma tanlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Bemor uyda aniqlanganda vrach uning oxirgi necha haftadagi harakatlari va aloqalarini aniqlaydi?
++ So'nggi 3 hafta
+- So'nggi 1 kun
+- So'nggi 3 kun
+- So'nggi 3 oy davomida
+- So'nggi 6 oy
+! Shu muddat inkubatsion davrni qamrab olib, yuqish manbai va aloqadorlarni topishga imkon beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Tibbiyot xodimlarini o'ta xavfli yuqumli kasalliklar profilaktikasi bo'yicha o'qitish dasturi qaysi hujjat bilan tasdiqlangan?
++ Sog'liqni saqlash vazirligining 2012-yil 29-oktyabrdagi 310-son buyrug'i
+- Sog'liqni saqlash vazirining 2015-yil 1-maydagi 177-son buyrug'i
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i
+- Sog'liqni saqlash vazirligining 2012-yil 25-yanvardagi 25-son buyrug'i
+- Sog'liqni saqlash vazirining 2016-yil 16-maydagi 226-son buyrug'i
+! Aynan shu buyruq vrach va o'rta tibbiyot xodimlari uchun o'quv dasturini 1-ilovada belgilaydi.
+@ Mavzu materiali (106.docx)
+? Karantin muassasalari tarkibida kasallikka gumon qilinganlar qayerga joylashtiriladi?
++ Provizor kasalxonaga
+- Izolyatorga, bemor bilan muloqotdagilar qatorida
+- Observatorga, sog'lom kishilar bilan birga
+- Maxsus infeksion kasalxonaning tasdiqlangan bemorlar bo'limiga
+- Uy sharoitida alohida xonaga, tibbiy kuzatuvsiz
+! Tashxis tasdiqlanmaguncha gumon qilinganlar tasdiqlangan bemorlardan alohida ushlanadi, shunda o'zaro yuqish xavfi bartaraf etiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Bemor yotgan xonada nima uchun ventilyator va konditsionerlar o'chiriladi (vabo bundan mustasno)?
++ Qo'zg'atuvchining havo oqimi bilan boshqa xonalarga tarqalishiga yo'l qo'ymaslik uchun
+- Elektr energiyasini tejash va xonada sukunat hamda qulay muhitni ta'minlash maqsadida, shuningdek shovqinni kamaytirish uchun
+- Xonadagi havo namligini oshirib, dezinfeksiyani osonlashtirish uchun
+- Bemorning isitmasini tushirish uchun xona haroratini oshirish maqsadida
+- Dezinfeksiyalovchi moddalar tezroq bug'lanishi uchun
+! Aerogen yo'l bilan yuqadigan infeksiyalarda havo harakati qo'zg'atuvchini binoning boshqa joylariga olib o'tishi mumkin.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Vabo gumon qilinganda bemor xonasidagi suv va kanalizatsiyadan foydalanish nima uchun to'xtatiladi?
++ Ajralmalar bilan ifloslangan oqava suv orqali infeksiya tarqalmasligi uchun
+- Suv tizimini ta'mirlash va filtrlarni almashtirish, shuningdek bosimni pasaytirish uchun
+- Xonada gaz va elektr tarmoqlarini xavfsiz saqlash maqsadida
+- Bemorni suv ichishdan cheklab, ichak faoliyatini to'xtatish uchun
+- Dezinfeksiya eritmasini suv bilan suyultirib ishlatmaslik uchun
+! Vabo ichak infeksiyasi bo'lib, qo'zg'atuvchi bemor najasi va qusuq massalari bilan ajraladi va oqava suv orqali tarqalishi mumkin.
+@ JSST. Cholera (fact sheet)
+? O'lat, VGI yoki maymun chechagiga gumon qilinganda MShHV yetib kelguncha xodim o'zini qanday himoya qiladi?
++ Og'iz-burnini ro'molcha, paxta, doka yoki sochiq bilan yopib, qo'lqopda ishlaydi
+- Xonadan chiqib ketib, eshikni tashqaridan yopadi va bemorni yolg'iz qoldiradi
+- Himoya vositasisiz bemorni ko'tarib, tez yordam mashinasiga o'zi olib chiqadi
+- Oddiy tibbiy niqobsiz ishlaydi, faqat qo'llarini sovun bilan yuvib turadi
+- Boshqa xodimlarni bemor xonasiga yig'ib, birgalikda parvarish qiladi
+! Himoya jamlamasi kelguncha nafas yo'llari va qo'llar to'siqlar bilan himoyalanib, bemor xonadan chiqarilmaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Bemor bilan muloqotda bo'lgan shifokor va hamshiralar qancha muddat tibbiy kuzatuvga olinadi?
++ Kasallikning inkubatsion davri muddatida
+- Bemor kasalxonaga yotqizilgan kunning o'zida, bir martalik ko'rik bilan
+- O'ta xavfli infeksiyalarning hammasi uchun bir xil, 1 yil davomida
+- Faqat isitma paydo bo'lgunga qadar, ko'rik o'tkazilmaydi
+- Epidemiolog ketgandan keyin 24 soat davomida
+! Aloqadorlarda kasallik belgilari yashirin davr tugagunga qadar paydo bo'lishi mumkin, shu sababli kuzatuv shu muddatni qamrab oladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+#U 106 / 2: MShHVJ soni (3 tadan) 2010-yilgi qo'llanmadan olingan, amaldagi buyruqdagi qiymati tasdiqlanmagan.
+#U 106 / 7: 310-son buyruq mazmuni kutubxona nusxasidan qisman (OCR) o'qilgan, faqat mavzu materialiga tayangan.

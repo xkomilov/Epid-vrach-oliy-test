@@ -1,0 +1,97 @@
+=== 017
+? L.V. Gromashevskiy tasnifi yuqumli kasalliklarni qaysi belgiga asoslanib guruhlarga ajratadi?
++ Qo'zg'atuvchining organizmdagi joylashuvi va unga mos yuqish mexanizmiga
+- Kasallikning klinik og'irligi va asoratlar rivojlanish chastotasiga qarab
+- Qo'zg'atuvchining mikrobiologik turi va uning antibiotiklarga sezgirligiga
+- Kasallikka qarshi vaksina mavjudligi va emlash qamrovining darajasiga
+- Kasallikning mavsumiyligi va aholining yosh tarkibi bo'yicha taqsimotiga qarab
+! Tasnifda qo'zg'atuvchining organizmdagi birlamchi joylashuvi bilan yuqish mexanizmi o'rtasidagi qonuniy bog'liqlik asos qilib olingan. Qolgan belgilar boshqa tasniflarga xos.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Gromashevskiy tasnifiga ko'ra, yuqish mexanizmi bo'yicha yuqumli kasalliklar nechta asosiy guruhga bo'linadi?
++ To'rtta: ichak, nafas yo'llari, qon va tashqi qoplam infeksiyalari
+- Uchta: ichak, nafas yo'llari va qon infeksiyalari, tashqi qoplam infeksiyalarisiz
+- Beshta: ichak, nafas yo'llari, qon, tashqi qoplam va vertikal infeksiyalar
+- Ikkita: antroponozlar hamda zoonozlar, ular ichida yuqish mexanizmi ajratilmagan
+- Oltita: ichak, nafas yo'llari, qon, tashqi qoplam, vertikal va transfuzion infeksiyalar
+! Tasnif ichak, nafas yo'llari, qon va tashqi qoplam infeksiyalaridan iborat to'rt guruhni ajratadi. Boshqa sonlar bu tasnifga mos kelmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Qaysi qatorda fekal-oral mexanizm bilan yuqadigan ichak infeksiyalari keltirilgan?
++ Ich terlama, dizenteriya, vabo, virusli gepatit A
+- Qizamiq, difteriya, gripp, ko'kyo'tal, meningokokk infeksiyasi
+- Bezgak, toshbaqa ensefaliti, Qrim-Kongo gemorragik isitmasi, o'lat
+- Quturish, kuydirgi, qoqshol, OIV va jinsiy yo'l bilan yuqadigan infeksiyalar
+- Qizamiq, ich terlama, bezgak, quturish, virusli gepatit A
+! Fekal-oral mexanizmda qo'zg'atuvchi ichakda joylashadi, najas bilan chiqib, og'iz orqali kiradi. Boshqa qatorlar nafas yo'llari, qon yoki tashqi qoplam infeksiyalarini aks ettiradi yoki guruhlarni aralashtiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Qon (transmissiv) infeksiyalarida qo'zg'atuvchi qanday yuqadi?
++ Qon so'ruvchi bo'g'imoyoqlilar (chivin, kana, burga) orqali
+- Ifloslangan oziq-ovqat va suv orqali og'iz bo'shlig'i orqali
+- Havodagi aerozol zarrachalarini nafas olish orqali
+- Teri va shilliq qavatlarning bevosita kontakti orqali
+- Ifloslangan ichki muhit va maishiy buyumlar orqali, bevosita kontaktsiz
+! Transmissiv mexanizmda qo'zg'atuvchi qonda bo'lib, qon so'ruvchi bo'g'imoyoqlilar orqali yuqadi. Shu sababli bunday infeksiyalarda tashuvchilarga qarshi kurash muhim.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Nafas yo'llari infeksiyalarida (aerozol mexanizm) epidemiyaga qarshi choralarda nima ustuvor hisoblanadi?
++ Qabul qiluvchan organizmga qaratilgan immunprofilaktika
+- Yuqish yo'lini uzishga qaratilgan kanalizatsiya va suv ta'minoti tizimini yaxshilash
+- Tashuvchi bo'g'imoyoqlilarga qarshi dezinseksiya va repellentlardan foydalanish
+- Rezervuar hayvonlar ustidan veterinariya nazoratini o'rnatish va deratizatsiya
+- Bemorlarning axlatini zararsizlantirish va ichimlik suvini doimiy xlorlash
+! Aerozol yo'lini texnik jihatdan uzish qiyin, shu sababli asosiy e'tibor emlashga qaratiladi. Qolgan tadbirlar ichak yoki transmissiv infeksiyalarga mos.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Ichak infeksiyalarida epidemiyaga qarshi choralarning asosiy yo'nalishi qaysi?
++ Yuqish yo'llarini uzish: xavfsiz suv, kanalizatsiya, gigiyena
+- Qabul qiluvchan shaxslarni ommaviy emlash va revaksinatsiya qilish
+- Tashuvchi bo'g'imoyoqlilarni yo'qotish va odamlarni chaqishdan himoyalash
+- Muloqotdagilarni niqob bilan ta'minlash va binolarni tez-tez shamollatish
+- Bemorni ajratish, muloqotdagilarni kuzatish va havoni ultrabinafsha nuri bilan zararsizlantirish
+! Fekal-oral mexanizmni uzish uchun suv, oziq-ovqat va shaxsiy gigiyena nazorati hal qiluvchi. Boshqa yo'nalishlar boshqa guruhlar uchun ustuvor.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Qon (transmissiv) infeksiyalarida asosiy epidemiyaga qarshi chora qaysi?
++ Tashuvchi bo'g'imoyoqlilarga qarshi kurash (dezinseksiya)
+- Ichimlik suvini xlorlash va oziq-ovqat mahsulotlarini sanitariya nazoratidan o'tkazish
+- Bemorlarni ajratib, shamollatish va niqob taqishni joriy qilish
+- Quturishga qarshi emlash va qoqsholga qarshi zardob yuborish
+- Bemorlarni ajratish va muloqotdagilarni kuzatishga qaratilgan karantin tadbirlari
+! Bu infeksiyalar bo'g'imoyoqlilar orqali yuqadi, shuning uchun dezinseksiya, repellentlar va to'rlar yetakchi chora hisoblanadi. Qolgan tadbirlar boshqa guruhlarga xos.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Infeksiya manbasi tashqi muhit bo'lgan kasalliklar qaysi guruhga kiradi?
++ Sapronozlar
+- Antroponozlar (manba — kasal odam yoki tashuvchi)
+- Zoonozlar (manba — kasal hayvon)
+- Transmissiv antroponozlar (manba — qon so'ruvchi vektor)
+- Antropozoonozlar (manba — odam va hayvon bir vaqtda)
+! Manbaga ko'ra antroponozlarda manba odam, zoonozlarda hayvon, sapronozlarda esa tashqi muhit bo'ladi. Shu bilan sapronozlar boshqa guruhlardan farqlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Tashqi qoplam infeksiyalarida shoshilinch profilaktikaga qaysi tadbirlar misol bo'ladi?
++ Quturishga qarshi emlash va qoqsholga qarshi zardob
+- Qizamiqqa qarshi vaksina va ko'kyo'talga qarshi zardob
+- Ichimlik suvini dezinfeksiya qilish va oziq-ovqatni nazorat qilish
+- Bezgakka qarshi preparatlar va chivinlarga qarshi repellentlar
+- Gepatit B ga qarshi emlash va gripp zardobi yuborish
+! Quturish va qoqshol kontakt mexanizmli infeksiyalar bo'lib, ularda shoshilinch emlash yoki zardob yuborish qo'llaniladi. Boshqa tadbirlar boshqa yuqish mexanizmlariga mos.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Darslikka ko'ra, Gromashevskiy tasnifi zamonaviy ma'lumotlarga asosan amalda qaysi infeksiyalar guruhi uchun yaroqli?
++ Antroponozlar (manba — odam)
+- Zoonozlar (manba — hayvon), shu jumladan tabiiy o'choqli kasalliklar
+- Sapronozlar (manba — tashqi muhit), masalan, legionellyoz
+- Gelmintozlar va mikozlar, ya'ni qo'zg'atuvchi turiga ko'ra ajratiladigan kasalliklar
+- Tabiiy o'choqli transmissiv zoonozlar, masalan, o'lat va Qrim-Kongo isitmasi
+! Tasnif asosan antroponozlar uchun yaroqli, zoonozlar uchun esa har doim ham qo'llanavermaydi. Shunga qaramay, u mohiyatan juda ko'p ma'lumot beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Yuqumli kasalliklarni qo'zg'atuvchi turiga ko'ra tasniflashda qaysi guruhlar ajratiladi?
++ Bakterial, virusli, zamburug'li (mikozlar), protozoy va gelmint kasalliklari
+- Antroponozlar, zoonozlar va sapronozlar, ularning har biri alohida ko'rsatiladi
+- Ichak, nafas yo'llari, qon va tashqi qoplam infeksiyalari, ya'ni yuqish mexanizmi bo'yicha
+- Boshqariladigan va boshqarilmaydigan infeksiyalar, ya'ni vaksina mavjudligiga qarab
+- Yuqish omillari bo'yicha: suv, oziq-ovqat, havo va tuproq omillari alohida
+! Qo'zg'atuvchi turiga ko'ra bakterial, virusli, zamburug'li, protozoy va gelmint kasalliklari ajratiladi. Boshqa variantlar manba, yuqish mexanizmi va nazorat darajasiga ko'ra tasniflardir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? JSSTga ko'ra diareya infeksiyalari qanday yo'llar bilan yuqadi?
++ Ifloslangan oziq-ovqat yoki ichimlik suvi orqali, gigiyena buzilganda odamdan odamga
+- Qon so'ruvchi hasharotlar chaqishi orqali va transplasental yo'l bilan
+- Havo-tomchi yo'li orqali, bemor bilan yaqin suhbatlashganda
+- Jinsiy aloqa va qon quyish orqali, ayniqsa kontaminatsiyalangan igna ishlatilganda
+- Hayvon tishlashi va kasal hayvon go'shtini xom holda iste'mol qilish orqali
+! Diareya qo'zg'atuvchilari najas bilan chiqib, ifloslangan suv va oziq-ovqat orqali yoki gigiyena buzilganda aloqa orqali yuqadi. Boshqa yo'llar diareya uchun xos emas.
+@ World Health Organization. Diarrhoeal disease (fact sheet)

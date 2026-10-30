@@ -1,0 +1,100 @@
+=== 135
+? Gemorragik isitma (QKGI) bemori bilan muloqotda bo'lganlar ustidan milliy yo'riqnomaga ko'ra necha kun tibbiy kuzatuv o'rnatiladi?
++ 7 kun
+- 3 kun
+- 10 kun
+- 14 kun
+- 21 kun
+! Muddat aloqadorlarda isitma yoki gemorragik belgi paydo bo'lishini erta aniqlash uchun belgilanadi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Aloqadorlar kuzatuvida tana harorati qanday chastotada o'lchanadi?
++ Har kuni 2 marta
+- Har kuni 1 marta
+- Har 4 soatda
+- Haftada 2 marta
+- Har kuni 4 marta, teri qoplami ko'rigisiz
+! Haroratni kuniga ikki marta o'lchash isitmaning boshlanishini kechiktirmasdan aniqlashga imkon beradi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? JSST ma'lumotiga ko'ra, Qrim-Kongo gemorragik isitmasida kasal qoni yoki to'qimasi bilan kontaktdan keyin hujjatlashtirilgan maksimal inkubatsiya davri qancha?
++ 13 kun
+- 7 kun
+- 10 kun
+- 21 kun
+- 28 kun
+! Odatdagi inkubatsiya 5–6 kun bo'lsa-da, ayrim holatlarda kasallik yana bir necha kundan keyin boshlanishi qayd etilgan.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Aloqadorlarga yuboriladigan donor zardobi katta yoshlilar uchun qanday dozada beriladi?
++ 40 ml, ikkala yonbosh mushakka 20 mldan chuqur
+- 10 ml, bitta yonbosh mushakka chuqur
+- 20 ml, tomir ichiga sekin
+- 100 ml, tomir ichiga tomchilab, ikki soat davomida
+- 5 ml, teri ostiga yelka sohasiga
+! Immunoglobulinlarga o'xshash zardobning katta hajmi mushaklar orasiga bo'lib-bo'lib yuboriladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Donor zardobini yuborishdan oldin qanday premedikatsiya o'tkaziladi?
++ 2% dimedrol 1–2 ml mushak orasiga va 10% kalsiy glyukonat 5–10 ml tomirga
+- 0,1% adrenalin 1 ml teri ostiga va 5% glyukoza 200 ml tomirga
+- Prednizolon 30 mg og'iz orqali va 0,9% natriy xlorid 500 ml tomirga
+- 2% dimedrol 10 ml tomirga va kalsiy glyukonat mushak orasiga
+- Premedikatsiya o'tkazilmaydi, zardob darhol yuboriladi
+! Begona oqsilga allergik reaksiya xavfini kamaytirish uchun antigistamin va kalsiy preparati oldindan yuboriladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Donor zardobi aloqadorlarga qachon yuboriladi?
++ Kontaktning birinchi kuniyoq, laboratoriya natijasini kutmasdan
+- Laboratoriya tashxisi tasdiqlangandan keyingina, kontaktning 3-kuni
+- Isitma paydo bo'lgandan keyin, kasallik boshlangan paytda
+- Yetti kunlik kuzatuv muddati tugagach, belgi bo'lmasa
+- Yashirin davrning o'rtasida, 5-kuni
+! Zardobning samaradorligi yuborish muddatiga bog'liq: qancha erta yuborilsa, shuncha yaxshi himoya beradi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Yo'riqnomaga ko'ra, donor zardobi yuborilgan aloqadorlar orasida kasallikning og'ir turi yuborilmaganlarga nisbatan necha marta kam kuzatilgan?
++ 9 marta
+- 2 marta
+- 3 marta
+- 6 marta
+- 20 marta
+! Kuzatuv ma'lumotlari zardobning passiv himoya samarasini ko'rsatadi, biroq mustaqil nashrda tasdiqlanmagan.
+@ Mavzu materiali (135.docx)
+? 226-son buyruq bo'yicha immunlangan donorlar ro'yxati qachon va qaysi davr uchun shakllantiriladi?
++ Har yili mart oyida, oxirgi 5 yilda kasallanib tuzalganlar bo'yicha
+- Har yili yanvar oyida, oxirgi 1 yilda kasallanib tuzalganlar bo'yicha
+- Har yili iyun oyida, oxirgi 10 yilda kasallanib tuzalganlar bo'yicha
+- Har yili sentabr oyida, oxirgi 3 yilda kasallanib tuzalganlar bo'yicha
+- Har yili dekabr oyida, oxirgi 2 yilda kasallanib tuzalganlar bo'yicha
+! Ro'yxat kasallik mavsumi boshlanishidan oldin yangilanib, IgG antitelalar tekshiruvi bilan tasdiqlanadi.
+@ O'zR Sog'liqni saqlash vazirining 2016-yil 16-maydagi 226-son buyrug'i
+? Igna sanchilishi yoki skalpel bilan kesilish oqibatida qo'l jarohatlansa, qo'l necha daqiqa lizol eritmasiga tiqib turiladi?
++ 4–5 daqiqa
+- 1–2 daqiqa
+- 10–15 daqiqa
+- 30 daqiqa
+- 60 daqiqa
+! Qisqa, lekin yetarli ekspozitsiya jarohatdagi qon qoldiqlarini zararsizlantirish uchun belgilangan.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? JSST ma'lumotiga ko'ra Qrim-Kongo gemorragik isitmasining dastlabki kunlarida laboratoriyada nima aniqlanadi?
++ Virus yoki uning RNKsi
+- IgG antitelalarning o'sishi juft zardobda
+- Faqat IgM sinfidagi antitelalar
+- Vidal reaksiyasidagi agglyutinatsiya titri
+- Qonning umumiy tahlilidagi leykopeniyaning o'zi
+! Birinchi kunlarda antitelalar hali hosil bo'lmasligi mumkin, shuning uchun to'g'ridan-to'g'ri qo'zg'atuvchi izlanadi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Aloqadorlar ro'yxatining bir nusxasi kimga topshiriladi?
++ Hududiy davolash-profilaktika muassasasiga
+- Faqat bemorning ish joyi rahbariga
+- Mahalla fuqarolar yig'ini raisiga
+- Ichki ishlar organlariga, boshqa tibbiyot muassasalariga bermasdan
+- Hududiy kasaba uyushmasi qo'mitasiga
+! Kuzatuvni amalga oshirishi lozim bo'lgan tibbiyot muassasasi aloqadorlarni nomma-nom bilishi kerak.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? O'choqlarda cheklovchi va epidemiyaga qarshi tadbirlar o'tkazishning huquqiy asosi "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonunning qaysi moddasida belgilangan?
++ 32-moddada
+- 18-moddada
+- 21-moddada
+- 35-moddada
+- 36-moddada
+! Mazkur modda o'choqda tadbirlar o'tkazish tartibini tartibga soladi.
+@ Mavzu materiali (135.docx)
+#D 135 / 1: milliy 7 kunlik kuzatuv muddati JSST keltirgan maksimal inkubatsiya davridan (13 kun) qisqa; mavzu materialida bu farq izohlanmagan.
+#U 135 / 7: donor zardobi samaradorligi (og'ir tur 9 marta, o'lim 6 marta kam) faqat milliy yo'riqnomaga tayangan, mustaqil nashrda tasdiqlanmagan.
+#U 135 / 12: Qonunning 32-moddasi raqami faqat mavzu materialiga tayangan; qonun asosiy raqami materialda ko'rsatilmagan.

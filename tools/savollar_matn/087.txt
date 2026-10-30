@@ -1,0 +1,99 @@
+=== 087
+? Qizamiq virusi havo-tomchi yo'li bilan manbadan qancha masofada ham yuqishi mumkin?
++ 5–8 m masofada
+- 0,5–1 m masofada, faqat o'pirik tomchilari tushganda
+- 20–30 m masofada, yopiq xonada devor orqali
+- 50–100 m masofada, shamol yo'nalishida ochiq maydonda
+- Faqat bemor bilan bevosita teri aloqasida, masofasiz
+! Virus havoda uzoq muddat muallaq turadigan mayda aerozol zarrachalari bilan tarqaladi, shuning uchun yuqumlilik juda yuqori.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq o'chog'ida qaysi shaxs qizamiqdan himoyalangan hisoblanadi?
++ Qizamiq bilan laboratoriyada tasdiqlangan kasallik o'tkazgan yoki kalendar bo'yicha hujjatlashtirilgan emlash olgan shaxs
+- Bolaligida qizamiq o'tkazgan, ammo kasallik laboratoriyada tasdiqlanmagan, ota-onasi esa buni og'zaki tasdiqlagan shaxs
+- Emlash olganini og'zaki bayon qilgan, ammo hujjati yo'q shaxs
+- Qizamiq bilan kasallangan oila a'zosi bilan yashagan va o'zida belgilar kuzatilmagan shaxs, hujjatsiz
+- Qizilcha va epidemik parotitga qarshi emlangan, ammo qizamiq komponentini olmagan shaxs
+! Himoya faqat ishonchli tasdiqlangan kasallik yoki hujjatlashtirilgan emlash orqali isbotlanadi, og'zaki ma'lumot yetarli emas.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+? Qizamiq, qizilcha, ko'kyo'tal yoki epidemik parotit bilan kasallanganlik hujjat bilan tasdiqlanmagan bo'lsa, bu emlash uchun nimani anglatadi?
++ Emlash uchun to'siq emas
+- Emlashga doimiy qarshi ko'rsatma hisoblanadi, bola emlanmaydi
+- Emlash faqat serologik tekshiruv natijasini kutib, 3 oydan so'ng beriladi
+- Emlash immunologik komissiya qarorisiz o'tkazilmaydi
+- Emlash faqat yotoq rejimida kasalxonada o'tkaziladi
+! Kasallik o'tkazganligi isbotlanmagan shaxs himoyasiz hisoblanadi, shuning uchun uni emlash zarur va xavfsiz.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+? Qizamiq o'chog'ida qaysi yosh oralig'idagi avval emlanmagan va kasallanmagan aloqadorlar epidemiologik ko'rsatma bo'yicha emlanadi?
++ 6 oylikdan 30 yoshgacha
+- 1 yoshdan 14 yoshgacha, maktab o'quvchilari
+- 12 oylikdan 18 yoshgacha, o'smirlar
+- 6 oylikdan 7 yoshgacha, bolalar muassasalari
+- 15 yoshdan 50 yoshgacha, ishlovchi kattalar
+! Bu oraliq kasallikka moyil va emlash uchun qarshi ko'rsatmasi bo'lmagan asosiy aloqadorlarni qamrab oladi.
+@ SanQvaM № 0239-07/3 (2017), epidemiologik ko'rsatma bo'yicha emlash
+? Qizamiq o'chog'ida xavf ostidagi 12 oydan kichik bolalarni emlash qanday amalga oshiriladi?
++ 6 oylikdan yuboriladi, ammo bu doza keyinchalik kalendar dozasiga hisoblanmaydi
+- 2 oylikdan yuboriladi va bu doza kalendar dozasi sifatida to'liq hisoblanadi
+- 3 oylikdan yuboriladi, ammo faqat immunoglobulin bilan bir vaqtda
+- 9 oylikdan yuboriladi, ammo ikkinchi doza 1 oydan keyin beriladi
+- 6 oylikdan boshlab emlash man etiladi, ular faqat 12 oylikda emlanadi
+! Ona antitelalari erta davrda vaksina samarasini pasaytirishi mumkin, shuning uchun bu doza qo'shimcha himoya vazifasini bajaradi.
+@ Mavzu materiali (087.docx)
+? CDC bo'yicha qizamiq bilan aloqada bo'lgan zaif guruhlarga immunoglobulin kontaktdan keyin qancha vaqt ichida yuboriladi?
++ 6 kun ichida
+- 24 soat ichida, vaksina bilan bir vaqtda
+- 72 soat ichida, bemor aniqlangan kuni
+- 14 kun ichida, kuzatuv yopilguncha
+- 28 kun ichida, IgM aniqlanadigan davrda
+! Passiv himoya yashirin davrning dastlabki kunlarida berilganda kasallikning oldini olish yoki yengillashtirish mumkin.
+@ CDC. Measles Prevention and Treatment Overview (2026)
+? Qon mahsulotlari yoki immunoglobulin olgan shaxslarga KPK vaksinasi qaysi oraliqlardan keyin beriladi?
++ Eritrotsitar/leykotsitar massadan 6 oy, plazma/trombotsit massasidan 7 oy, immunoglobulindan 3 oy
+- Eritrotsitar/leykotsitar massadan 3 oy, plazma/trombotsit massasidan 3 oy, immunoglobulindan 6 oy
+- Eritrotsitar/leykotsitar massadan 1 oy, plazma/trombotsit massasidan 2 oy, immunoglobulindan 14 kun
+- Eritrotsitar/leykotsitar massadan 12 oy, plazma/trombotsit massasidan 12 oy, immunoglobulindan 12 oy
+- Eritrotsitar/leykotsitar massadan 7 oy, plazma/trombotsit massasidan 6 oy, immunoglobulindan 1 oy
+! Quyilgan komponentlardagi tayyor antitelalar tirik vaksina virusini zararsizlantirishi mumkin, shu sababli tanaffus saqlanadi.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+? Emlash uchun qaysi holat qarshi ko'rsatma emas?
++ Yengil respirator kasallik va og'ir bo'lmagan diareya
+- Avvalgi emlashda kuchli reaksiya yoki asorat bo'lishi, bu holda emlash takrorlanmaydi
+- Ikkinchi darajali o'tkir og'ir kasallik, hali tuzalmagan davrda
+- Yuqori harorat bilan kechayotgan o'rtacha og'irlikdagi kasallik
+- Yaqinda qon komponentlari quyilgan holat, belgilangan tanaffus tugamagan
+! Yengil kechuvchi kasalliklar immun javobga sezilarli ta'sir qilmaydi, o'rtacha va og'ir holatlarda esa tuzalgandan keyin emlanadi.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+? Emlanmagan va kasallik o'tkazmagan aloqadorlar bemor bilan oxirgi aloqadan boshlab necha kun kuzatuvda saqlanadi?
++ 21 kun
+- 7 kun
+- 14 kun
+- 28 kun
+- 42 kun
+! Yashirin davr 8–21 kun davom etadi, shuning uchun kuzatuv uning eng uzun muddatiga teng bo'lishi kerak.
+@ Mavzu materiali (087.docx)
+? CDC bo'yicha qizamiq gumon qilingan tibbiyot xodimi qancha muddatga ishdan chetlatiladi?
++ Toshma paydo bo'lgandan keyin 4 kun
+- Toshma paydo bo'lishidan oldin 10 kun
+- Toshma paydo bo'lgandan keyin 21 kun
+- Harorat tushgan kundan boshlab 3 kun
+- Toshma yo'qolguncha, ammo 24 soatdan kam bo'lmagan holda
+! Xodim toshmadan 4 kun keyin ham yuqumli bo'lishi mumkin, shu sababli kasalxona ichidagi yuqish bu muddatda oldi olinadi.
+@ CDC. Infection Control: Measles (healthcare personnel)
+? Qizamiq o'chog'ida immunoglobulin (IG) qanday maqsadda ishlatiladi?
++ O'choqni nazorat qilish uchun emas, xavf ostidagi zaif guruhlarni himoya qilish uchun
+- O'choqdagi barcha aloqadorlarni ommaviy himoyalash va bemorni ajratishdan voz kechish uchun
+- Emlash kalendarini almashtirish va KPK-2 dozasini bekor qilish uchun
+- Bemorni davolash va toshma davrini qisqartirish uchun, aloqadorlarga emas
+- Vaksina ta'sirini kuchaytiruvchi adyuvant sifatida, har bir emlanuvchiga
+! Immunoglobulin qisqa muddatli passiv himoya beradi, shuning uchun u vaksina qarshi ko'rsatma bo'lganlarga ajratiladi.
+@ CDC. Measles Prevention and Treatment Overview (2026)
+? Qizamiq o'chog'ida aloqadorlarni serologik tekshirishda qaysi usullar qo'llanishi mumkin?
++ IgG aniqlash: IFA va RPGA
+- Faqat PCR, bunda seronegativlar emlanmaydi
+- Qon ekmasi va bakteriologik tekshiruv, aloqadorlarning qonidan
+- Teri sinamalari, Mantu sinamasi singari
+- Likvor mikroskopiyasi va bo'yash, Gramm usulida
+! Antitelalar qon zardobida aniqlanadi, seronegativ aloqadorlar himoyasiz hisoblanib, emlanadi.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+#U 087 / 5: 6 oylikdan emlash va bu doza kalendar dozasiga hisoblanmasligi CDC tavsiyasi sifatida keltirilgan, milliy hujjat bilan tasdiqlanmagan.
+#U 087 / 9: Kuzatuv muddati (21 kun) yashirin davr ma'lumotidan hisoblab chiqilgan, milliy hujjatda alohida ko'rsatilmagan.

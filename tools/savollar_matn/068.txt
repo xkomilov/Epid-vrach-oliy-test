@@ -1,0 +1,98 @@
+=== 068
+? Yersinia pestis morfologiyasi va bo'yalishi qanday?
++ Spora hosil qilmaydigan, harakatsiz gramm-manfiy tayoqcha, ikki uchi quyuq bo'yaladi
+- Spora hosil qiluvchi, xivchinli gramm-musbat yirik tayoqcha, bo'yalganda tekis ko'rinadi
+- Gramm-manfiy diplokokk, kofe donasi shaklida joylashgan, kapsulasiz
+- Spiralsimon, harakatchan, ikki uchida xivchinlari bor bakteriya
+- Gramm-musbat tayoqcha, uzun zanjir shaklida joylashadi
+! Bipolyar bo'yalish qo'zg'atuvchini mikroskopda tanishning muhim belgisi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? O'lat qo'zg'atuvchisiga qarshi xlorli ohakning qaysi konsentratsiyali eritmasi halokatli ta'sir qiladi?
++ 10 foizli
+- 0,5 foizli, hatto qisqa kontaktda ham yetarli
+- 1 foizli
+- 2 foizli
+- 25 foizli, faqat metall buyumlar uchun
+! Qo'zg'atuvchi tashqi muhitga chidamsiz, dezinfeksiya vositalariga tez beriladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? O'zbekistonda odam uchun o'lat manbasi bo'lgan yetakchi hayvonlar qaysilar?
++ Katta qumsichqon, sug'ur, yumronqoziq va tuyalar
+- Uy sichqoni, it, mushuk va uy parrandalari, shu jumladan tovuq
+- Qoramol, qo'y va echkilar
+- Chumchuq, kaptar va qaldirg'ochlar
+- Baliqlar, baqalar va toshbaqalar
+! Tabiiy o'choqlarda aynan kemiruvchilar va tuyalar asosiy rezervuar hisoblanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? Burganing ovqat hazm qilish yo'li taxminan qancha vaqtda bakteriyali tiqin bilan tiqiladi?
++ 3 hafta
+- 3 soat, qon so'rgandan so'ng darhol
+- 2 kun
+- 3 oy
+- 1 yil
+! Tiqilgan burga och qolib, qayta qon so'rishga urinadi va qo'zg'atuvchini yangi xo'jayinga o'tkazadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? Tabiiy sharoitda o'latning yetakchi yuqish yo'li qaysi?
++ Transmissiv, burga chaqishi orqali
+- Aerogen yo'l, bemorning yo'tali orqali odamdan odamga tarqalish
+- Alimentar yo'l, sutni qaynatmasdan ichish orqali
+- Parenteral yo'l, tibbiy in'ektsiyalar orqali
+- Kontakt yo'li, bemor bilan musofaha qilish orqali
+! Aerogen yo'l faqat o'pka shaklida muhim bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? Qaysi klinik shakldagi bemor havo-tomchi yo'li bilan atrofdagilar uchun eng xavfli?
++ O'pka shaklidagi
+- Bubon shaklidagi, chunki bubon yiringi havoga tarqalib, atrofdagilar nafas olishi bilan zararlanadi
+- Teri-bubon shaklidagi
+- Ichak shaklidagi
+- Teri shaklidagi
+! Bubon shaklida bemor atrofdagilarga xavf tug'dirmaydi, o'pka shaklida esa qo'zg'atuvchi yo'tal bilan ajraladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi; WHO. Plague (fact sheet)
+? JSST ma'lumotiga ko'ra, o'latning yashirin davri qancha davom etadi?
++ 1–7 kun
+- 10–14 kun, tuzalish bosqichigacha
+- 21–30 kun
+- 6–12 soat
+- 3–6 hafta
+! Muddat bubon shaklida bir necha soatdan kunlargacha bo'lishi mumkin, JSST esa umumiy oraliqni ko'rsatadi.
+@ WHO. Plague (fact sheet)
+? Davolanmagan bubon o'latida JSST bo'yicha o'lim qancha foizni tashkil etadi?
++ 30–60 foizni
+- 1–5 foizni, o'pka shaklida esa nolga yaqin
+- 5–10 foizni
+- 80–90 foizni
+- 100 foizni
+! Davolanmagan o'pka va septik shakllari esa doimo o'limga olib keladi.
+@ WHO. Plague (fact sheet)
+? O'lat bubonini stafilokokk yoki streptokokk limfadenitidan farqlashda qaysi belgi muhim?
++ Bubon kuchli og'riqli, atrofdagi to'qimalarga yopishgan, bemor holati juda og'ir
+- Bubon kam og'riqli, atrofi aniq, harakatchan, umumiy holat qoniqarli va yallig'lanish kirish joyida
+- Bubon qizarmaydi va isitma 37 °C dan oshmaydi
+- Bubon faqat tizza ostida joylashadi, bemor esa o'zini yaxshi sezadi
+- Bubon zich, og'riqsiz, bir oyda sekin o'sadi
+! Yiringli limfadenitlarda yallig'lanish kirish joyi atrofida bo'ladi va umumiy intoksikatsiya o'latdagidan ancha yengil.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? O'lat tashxisida PZR natijasi qancha vaqtda beriladi?
++ 3 soatda
+- 30 daqiqada, namunani yuborishsiz ham
+- 24 soatda
+- 6 kunda
+- 10 kunda
+! PZR tezkor usul bo'lib, bakteriologik va biologik usullardan ancha tez natija beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «O'lat» bobi
+? O'lat o'chog'ida dezinseksiya va deratizatsiya qaysi tartibda o'tkaziladi?
++ Avval burgalarga qarshi, so'ng kemiruvchilarga qarshi
+- Avval kemiruvchilarga qarshi, so'ng burgalarga qarshi, chunki burgalar xo'jayinsiz yashay olmaydi va o'zi yo'qoladi
+- Deratizatsiya o'tkaziladi, dezinseksiya talab etilmaydi
+- Dezinfeksiyadan so'ng bir yil o'tib, ikkalasi birgalikda
+- Bemor bilan muloqotda bo'lganlarning kiyimlariga ishlov beriladi
+! Kemiruvchilar yo'q qilinsa, och burgalar odamga o'tib, xavfni oshirishi mumkin.
+@ WHO. Plague (fact sheet)
+? Tabiiy o'choqlarda epizootologik va epidemiologik monitoringni qaysi muassasa yuritadi?
++ Respublika o'lat profilaktika markazi va uning joylardagi filiallari
+- Respublika qon quyish markazi va uning viloyat bo'limlari, bu markaz faqat donorlik bilan shug'ullanadi
+- Respublika sil va pulmonologiya markazi
+- Respublika onkologiya markazi
+- Respublika travmatologiya markazi
+! Markaz o'lat va tulyaremiya bo'yicha epizootik va epidemik barqarorlikni ta'minlaydi.
+@ SEOJS qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'iga 21-ilova (Respublika o'lat profilaktika markazi nizomi)
+#D 068 / 7: mavzu materialidagi qo'llanmada bubon shaklida yashirin davr bir necha soatdan 6 kungacha deyilgan, JSST esa 1–7 kunni ko'rsatadi; savolda JSST ma'lumoti ishlatilgan.

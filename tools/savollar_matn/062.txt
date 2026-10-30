@@ -1,0 +1,104 @@
+=== 062
+? Salmonellyoz qaysi kasalliklar guruhiga kiradi?
++ Zooantroponoz kasalliklar
+- Sapronoz kasalliklar, ya'ni qo'zg'atuvchi asosan tashqi muhitda ko'payadi
+- Sof antroponoz kasalliklar
+- Transmissiv kasalliklar
+- Kontakt yo'li bilan yuqadigan, o'ta xavfli karantin kasalliklari
+! Manba odamlar bilan birga uy va yovvoyi hayvonlar, qushlar ham bo'lishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? JSST ma'lumotiga ko'ra, Salmonella turkumida nechta serovar aniqlangan?
++ 2500 dan ortiq
+- 250 ga yaqin, ularning hammasi odam uchun patogen
+- 25 000 dan ortiq
+- 120 ga yaqin
+- 50 dan kam
+! Ikki tur — S. bongori va S. enterica doirasida ko'p sonli serovarlar ajratilgan.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? O'zbekistonda qaysi salmonella serovarlari ko'proq uchraydi?
++ S. typhimurium va S. enteritidis
+- S. typhi va S. paratyphi A, ya'ni qorin tifi qo'zg'atuvchilari
+- S. dublin va S. choleraesuis
+- S. bongori va S. arizonae
+- S. gallinarum va S. pullorum
+! Ular odam va hayvonlar orasida eng ko'p aylanadigan serovarlardir.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? Sut, tort va salatlarda salmonella ko'payganda mahsulotning tashqi ko'rinishi qanday bo'ladi?
++ Ko'rinishi va hidi o'zgarmaydi
+- Mahsulot achib, o'tkir nordon hid chiqaradi va ko'pirib bombaj bo'ladi
+- Yuzasida ko'zga ko'rinadigan mog'or qatlami paydo bo'ladi
+- Rangi qorayadi va yoqimsiz chirish hidi paydo bo'ladi
+- Mahsulot quyuqlashib, aniq sassiq hid chiqaradi
+! Shu sababli ko'rinish va hid orqali xavfsizlikni baholab bo'lmaydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? JSST ma'lumotiga ko'ra salmonellyozda belgilar qancha vaqt ichida paydo bo'ladi?
++ 6–72 soat ichida, odatda 12–36 soat
+- 1–2 soat ichida, odatda 1 soatda, toksin ta'sirida
+- 5–10 kun ichida, odatda 7 kunda, bakteriemiya bosqichidan keyin
+- 2–3 hafta ichida
+- 30 kundan keyin
+! Yashirin davr nisbatan qisqa bo'lib, bir necha soatdan uch kungacha davom etadi.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? JSST bo'yicha salmonellyoz holatlarining qancha qismi ma'lum avj olish tarkibiga kirmaydi?
++ 60–80 foizi
+- 5–10 foizi
+- 10–20 foizi, qolganlari esa laboratoriyada tasdiqlangan avj olishlarga kiradi
+- 85–95 foizi
+- Deyarli barchasi
+! Ko'pchilik holatlar sporadik yoki tashxis qo'yilmagan holda qoladi.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? Qo'zg'atuvchining parranda tuxumiga transovarial o'tishi qaysi mahsulotlar orqali epidemik xavfni oshiradi?
++ Mayonez va quruq tuxum kukuni
+- Yaxshi pishirilgan non va oddiy makaron mahsulotlari, shu jumladan quritilgan holda
+- Pasterizatsiya qilingan sut va qatiq
+- Kuchli tuzlangan sabzavot konservalari
+- Qaynatilgan guruch va un mahsulotlari
+! Tuxum xom ashyo sifatida ishlatilganda qo'zg'atuvchi tayyor mahsulotga o'tadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? Shifoxona ichi salmonellyoz o'choqlarida aylanadigan "gospital" shtammlarning asosiy xususiyati nima?
++ Antibiotik va dezinfektantlarga ko'p chidamlilik, R-plazmid bilan genetik mustahkamlangan
+- Yosh bolalarga xos bo'lgan, o'z-o'zidan tezda yo'qoladigan past virulentlik va antibiotiklarga yuqori sezgirlik
+- Spora hosil qilish va yuqori haroratda yashash
+- Toksin hosil qilmaslik va bemordan boshqaga yuqmaslik
+- Sovuq qonli hayvonlarda saqlanib qolish
+! Bunday shtammlar standart davo va dezinfeksiya rejimlariga bo'ysunmay, statsionarda uzoq aylanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? JSST nima uchun engil va o'rtacha salmonellyozda muntazam antimikrob davoni tavsiya etmaydi?
++ Bakteriya to'liq yo'qolmasligi va chidamli shtammlar tanlanishi mumkin
+- Antibiotiklar suvsizlanishni kuchaytirib, regidratatsiya samarasini butunlay yo'qotadi va bemor ahvolini og'irlashtiradi
+- Salmonella barcha antibiotiklarga tug'ma sezgir emas
+- Kasallik doim o'tkir sepsis bilan tugaydi
+- Antibiotiklar faqat virusli ichak infeksiyalarida ishlatiladi
+! Keraksiz antibiotik tashuvchilikni cho'zishi va qarshilikni oshirishi mumkin.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? Salmonellyoz o'choqlarida o'choqli dezinfeksiya qanday muddat va qamrovda bajariladi?
++ 24 soat ichida, kamida 95 foiz qamrov bilan
+- 72 soat ichida, kamida 50 foiz qamrov bilan, qolgan qismi esa nazorat uchun qoldiriladi
+- 48 soat ichida, kamida 70 foiz qamrov bilan
+- 7 kun ichida, kamida 30 foiz qamrov bilan
+- 12 soat ichida, kamida 99 foiz qamrov bilan
+! O'choqli dezinfeksiya majburiy bo'lib, tezkorlik va to'liq qamrov qo'zg'atuvchining tarqalishini to'xtatadi.
+@ SanQvaN № 0090-25, 55, 56, 65-bandlar
+? Shifoxona ichi salmonellyozga gumon qilingan bemor aniqlanganda, u yotgan palataga 7 kun davomida nima qilinadi?
++ Yangi bemor qabul qilinmaydi
+- Yengil kasallangan bemorlar joylashtiriladi, chunki ular xavf tug'dirmaydi va bo'sh o'rinlar to'ldiriladi
+- Bemorlar odatdagidek qabul qilinadi, chunki palata yopilmaydi
+- Xlorli ohak bilan yuvilib, shu kunning o'zida yangi bemorlar bilan to'ldiriladi
+- Darhol yuqumli kasalliklar bo'limiga aylantiriladi
+! Bu choralar yangi bemorlar zararlanishining oldini oladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? Salmonellyoz yoki bakteriya tashuvchi aniqlanganda davolash-profilaktika muassasalari shoshilinch xabarni kimga yuboradi?
++ Hududiy DSENM ga
+- Hududiy veterinariya boshqarmasiga, chunki manba faqat hayvonlar hisoblanadi
+- Respublika o'lat profilaktika markaziga
+- Bemorning yashash joyidagi mahalla fuqarolar yig'iniga
+- Sog'liqni saqlash vazirligining matbuot xizmatiga
+! DSENM o'choqda epidemiologik tekshiruv o'tkazib, tadbirlarni tashkil etadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+#U 062 / 1: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 062 / 3: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 062 / 4: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 062 / 7: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 062 / 8: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 062 / 11: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 062 / 12: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.

@@ -1,0 +1,98 @@
+=== 020
+? Epidemiologik tashxis qaysi uch savolga javob beradi?
++ Epidemik vaziyat qanday, u nima uchun shunday va u qanday rivojlanadi
+- Bemorda qaysi kasallik bor, uni qanday davolash kerak va qachon sog'ayadi
+- Qo'zg'atuvchi qaysi turga mansub, qaysi antibiotikka sezgir va qaysi shtamm
+- Qancha vaksina kerak, uni qayerda saqlash kerak va qachon yetkazib beriladi
+- Qaysi shifoxonada joy bor, qancha xodim ishlaydi va qancha bemor yotadi
+! Epidemiologik tashxis vaziyat holatini, uning sabablarini va kelgusi yo'nalishini (bashoratni) belgilaydi. Qolgan savollar klinik, mikrobiologik yoki tashkiliy masalalar.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik tashxis klinik tashxisdan nimasi bilan farq qiladi?
++ Alohida bemorni emas, butun populyatsiya darajasidagi kasallanish holatini "tashxislaydi"
+- Laboratoriya natijalariga tayanadi, tahlil va xulosa chiqarishni talab qilmaydi
+- Faqat bitta bemorning kasallik tarixiga asoslanadi va individual davolashni belgilaydi
+- Statistik hisobotdan farq qilmaydi, chunki ikkalasi ham faqat raqamlarni keltiradi
+- Hayotning davomiyligini aniqlaydi va bemorning mehnatga layoqatini baholaydi
+! Klinik tashxis alohida bemorning kasalligini, epidemiologik tashxis esa aholi darajasidagi kasallanish holatini aniqlaydi. U epidemiologik nazorat va tadbirlar uchun asos bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? O'tkazilish vaqtiga ko'ra epidemiologik tashxis qaysi ikki turga bo'linadi?
++ Retrospektiv va operativ (joriy)
+- Klinik va laboratoriya
+- Birlamchi va ikkilamchi
+- Statistik va eksperimental
+- Birlamchi (dastlabki) va yakuniy (qayta ko'rib chiqilgan) tashxis turlariga
+! Retrospektiv tashxis o'tgan davr ma'lumotlariga, operativ tashxis esa joriy vaziyatga asoslanadi. Boshqa juftliklar tashxis turlari emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik tashxisda "faol ta'sir qiluvchi omil" nimani bildiradi?
++ Shu vaziyatda kasallikni tarqatayotgan, ta'sir qilinsa epidemiyani to'xtatadigan asosiy omilni
+- Kasallik qo'zg'atuvchisining tashqi muhitda eng uzoq saqlanadigan shaklini
+- Bemorning kasallikka moyilligini oshiradigan barcha genetik va ijtimoiy omillarni
+- Kasallanishning mavsumiy ko'tarilishini keltirib chiqaradigan iqlim sharoitini
+- Kasallik qo'zg'atuvchisining yuqumlilik darajasini va tashqi muhitdagi barqarorligini belgilovchi kimyoviy omilni
+! Faol ta'sir qiluvchi omil — yetakchi yuqish yo'li yoki asosiy xavf omili; unga qaratilgan tadbirlar epidemiyani to'xtatadi. Uni aniqlash tashxisning eng qiyin bosqichi hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik tashxis oddiy statistik hisobotdan nimasi bilan farq qiladi?
++ Raqamlarni izohlaydi, sabablarini tushuntiradi va amaliy xulosaga olib keladi
+- Raqamlarni yig'ib, jadvalga joylaydi va qo'shimcha xulosa chiqarmaydi
+- Yagona bir martalik kasallanish holatini qayd etadi va tahlil qilmaydi
+- Faqat laboratoriya ko'rsatkichlarini qayta ishlab, hisobotga o'tkazadi
+- Hisobotning o'zi tashxis hisoblanadi, chunki ikkalasi ham bir xil mazmunga ega
+! Hisobot raqamlarni keltirsa, tashxis ularni izohlab, sabablarini ochadi va tadbirlarga asos bo'ladi. Shu bilan u sub'ektiv taxminlardan ustun turadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Darslikka ko'ra, epidemiologik tahlil qaysi uch bosqichda olib boriladi?
++ Ma'lumotlar yig'ish, tasvirlash va tahlil (analitik) bosqichlari
+- Gipoteza qo'yish, eksperiment o'tkazish va natijani nashr etish bosqichlari
+- Bemorni aniqlash, ajratish va davolash hamda kuzatish bosqichlari
+- Hujjatlarni yig'ish, arxivga topshirish va hisobot tuzish bosqichlari
+- Tashxis qo'yish, tadbirlar rejalashtirish va ularning samaradorligini baholash bosqichlari
+! Tahlil ma'lumotlar yig'ish, ularni tasvirlash va analitik bosqichlardan iborat; xavf omillari to'g'risidagi tashxis shu tahlilning natijasi. Qolgan to'plamlar bu bosqichlarga mos kelmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik tahlilning qaysi bosqichi eng muhim hisoblanadi va nima uchun?
++ Ma'lumotlar yig'ish, chunki bu bosqichdagi xatolarni amalda bartaraf etib bo'lmaydi
+- Ma'lumotlarni tasvirlash, chunki bu bosqichda hisobot rasmiylashtiriladi
+- Analitik bosqich, chunki tahlil faqat statistik dasturlar yordamida o'tkaziladi
+- Natijalarni nashr etish, chunki ular xalqaro hamjamiyatga yetkaziladi
+- Tahlil bosqichi bo'yicha xulosa chiqarish, chunki xulosa tashxisning yagona mazmuni
+! Yig'ilgan ma'lumotlar sifati keyingi tahlil va xulosalar sifatini belgilaydi, bu bosqichdagi xatolarni keyin to'g'rilab bo'lmaydi. Boshqa bosqichlar keyingi o'rinda.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologiyada "xavf omili" atamasi nimani ifodalaydi?
++ Sababning mutlaq kuchini emas, ta'sir etish ehtimolini
+- Omil ta'sir qilganda kasallik albatta rivojlanishini, ya'ni mutlaq sababni
+- Kasallanishning hududiy taqsimotini ko'rsatuvchi statistik koeffitsiyentni
+- Faqat bemorning irsiy moyilligini, tashqi muhit omillarisiz
+- Kasallikning klinik og'irligini o'lchovchi ko'rsatkichni
+! Sabab-oqibat bog'lanishlari ehtimoliy: sifatsiz suv ichgan har bir kishi kasallanavermaydi, lekin kasallanish ehtimoli oshadi. Shu sababli omil ehtimolni ifodalaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? O'choqdagi epidemiologik tashxis qanday savollarga javob beradi?
++ Infeksiya qayerdan kelgan, qanday yuqqan va yana kimga yuqishi mumkin
+- Bemor qaysi vaksina bilan emlangan, qachon emlangan va qaysi seriyada
+- Qo'zg'atuvchi qaysi antibiotikka sezgir va davolash qancha davom etadi
+- Muassasada nechta bemor yotibdi, ularning davolanish narxi qancha bo'ladi
+- Bemor qaysi kasalxonaga yotqizilgan va u yerda qancha vaqt yotadi
+! O'choqdagi tashxis infeksiya manbaini, yuqish yo'lini va yana kimga yuqishi mumkinligini aniqlab, tadbirlar majmuasini belgilaydi. Qolgan savollar klinik yoki tashkiliy.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Snou tekshiruvi tavsifiy tahlildan amaliy chora ko'rishgacha bo'lgan izchillikni qanday ketma-ketlikda ko'rsatgan?
++ Nuqtali xarita, suv kompaniyalari bo'yicha taqqoslash, suv olish joyini o'zgartirish
+- Aholini ko'chirish, nuqtali xarita, keyin suv kompaniyalari bo'yicha taqqoslash
+- Suv kompaniyalari bo'yicha taqqoslash, suv olish joyini o'zgartirish, nuqtali xarita
+- Emlash kampaniyasi, bemorlarni ajratish, nuqtali xarita tuzish
+- Suv kompaniyalari bo'yicha taqqoslash, emlash kampaniyasi, nuqtali xarita tuzish
+! Snou avval o'choqni xaritaga tushirdi, so'ng suv kompaniyalari bo'yicha kasallanishni taqqosladi va oxirida suv olish joyini o'zgartirdi. Boshqa tartiblar bu izchillikka mos kelmaydi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? Hududda qizamiq bilan kasallanish ko'paygan bo'lsa, epidemiologik tashxis odatda qanday sababni va chorani aniqlaydi?
++ Emlash qamrovining pasayishi yoki immun qatlamidagi bo'shliqni va qo'shimcha emlash kampaniyasini
+- Havo haroratining ko'tarilishini va aholini boshqa hududga ko'chirishni
+- Ichimlik suvining ifloslanishini va suv ta'minoti tizimini almashtirishni
+- Kemiruvchilar sonining oshishini va ommaviy deratizatsiyani
+- Kasallanish mavsumiyligining o'zgarishini va aholi migratsiyasini hamda qo'shimcha karantinni
+! Qizamiq vaksina bilan boshqariladigan infeksiya bo'lgani uchun uning ko'payishi ko'pincha immun qatlamidagi bo'shliq bilan bog'liq, shu sababli qo'shimcha emlash o'tkaziladi. Boshqa sabablar qizamiq uchun xos emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Yo'riqnomaga ko'ra, epidemiologik tekshiruvni boshlash qarorini epidemiolog nimaga qarab belgilaydi?
++ Epidemik vaziyat va retrospektiv tahlil ma'lumotlariga qarab
+- Bemorning shaxsiy iltimosi va ish joyidagi muammolariga qarab
+- Matbuotda chop etilgan ma'lumotlar va jamoatchilik fikriga qarab
+- Hududdagi tibbiy muassasalar soni va xodimlarning mavjudligiga qarab
+- Bemorning yoshiga, ish joyi tarmog'iga va tibbiy muassasaning moliyaviy imkoniyatlariga qarab
+! Qaror epidemik vaziyatni va retrospektiv tahlilda aniqlangan qonuniyatlarni inobatga olib qabul qilinadi. Boshqa omillar tekshiruvni boshlash mezoni emas.
+@ O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015-yildagi buyrug'iga 1-ilova: o'tkir ichak infeksiyalarini oldini olish borasidagi yo'riqnoma, 6-bo'lim
+#U 020 / 12: buyruq raqami mavzu materialida tasdiqlanmagan (122 yoki 125), shu sababli savolda raqam keltirilmadi.

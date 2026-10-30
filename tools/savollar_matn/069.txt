@@ -1,0 +1,100 @@
+=== 069
+? Shigella avlodi nechta turga bo'linadi?
++ 4 ta (dysenteriae, flexneri, boydii va sonnei)
+- 2 ta (dysenteriae va sonnei), qolganlari faqat serovar hisoblanadi
+- 3 ta
+- 6 ta
+- 10 ta
+! Turlar serovarlar soni bilan farqlanadi, eng ko'p serovar Sh. boydii da.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi Shigella turi ekzotoksin ishlab chiqarib og'ir kasallik chaqiradi va O'zbekistonda deyarli uchramaydi?
++ Sh. dysenteriae 1 (Grigoryev–Shiga)
+- Sh. sonnei, u ekzotoksin ishlab chiqaradi va keng tarqalgan
+- Sh. flexneri 2a
+- Sh. boydii
+- Sh. flexneri 6
+! Boshqa turlar faqat endotoksin hosil qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Zonne ichburug'ida infeksiya manbai asosan kimlar hisoblanadi (80% hollarda)?
++ Yengil va belgisiz shakldagi bemorlar
+- Og'ir shakldagi, kasalxonada yotgan bemorlar, chunki ular eng ko'p qo'zg'atuvchi ajratadi
+- Uy hayvonlari va qushlar
+- Sinantrop kemiruvchilar
+- Sog'lom bo'lgan oshxona xodimlari
+! Yengil va belgisiz shakllar aniqlanmay qolib, atrofdagilarga yuqtirishda davom etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ichburug'ning yashirin davri qancha?
++ 1–7 kun, ba'zan 2–3 soat
+- 2–3 hafta, ba'zan 1–2 oygacha cho'ziladi
+- 21–30 kun
+- 3–6 oy
+- 1–2 yil
+! Muddat qo'zg'atuvchi turi va yuqtirilgan dozaga bog'liq o'zgaradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ichburug'dan keyingi immunitet davomiyligi qanday?
++ Qisqa, 4–12 oy va cheklangan
+- Umrbod, qayta kasallanish deyarli kuzatilmaydi va barcha turlarga qarshi himoya beradi
+- 5–10 yil
+- 3 hafta
+- 2–3 yil, faqat Zonne turiga qarshi
+! Shu sababli qayta kasallanish va qaytalanuvchi avj olishlar uchraydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Surunkali ichburug' bilan kasallanganlar necha oy dispanser kuzatuvida bo'ladi?
++ 6 oy
+- 1 oy, oziq-ovqat korxonalari xodimlari singari
+- 2 oy
+- 3 oy
+- 12 oy
+! Oziq-ovqat xodimlari uchun esa muddat qisqaroq, 1 oy.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Ichburug'ga qarshi maxsus profilaktika bo'yicha qaysi fikr to'g'ri?
++ Milliy kalendarda rejali emlash yo'q, guruhli kasallanishlarda bakteriofag qo'llanadi
+- 2 oylikda boshlanadigan rejali emlash bolalar uchun majburiy hisoblanadi hamda barcha turlarga qarshi himoya beradi
+- Maktab yoshida bir marta rejali emlash o'tkaziladi
+- Faqat sayohatchilar uchun yillik emlash qo'llanadi
+- Rejali emlash o'rniga immunoglobulin har yili yuboriladi
+! Ichburug' profilaktikasi asosan sanitariya-gigiyena tadbirlariga tayanadi.
+@ O'zR profilaktik emlashlar kalendar rejasi; SanQvaM № 0239-07/3; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qabul bo'limida olingan namunalar yetkazib berilmasa, muzlatgichda necha soat saqlanishi mumkin?
++ 12 soat
+- 1 soat
+- 3 soat
+- 48 soat
+- 72 soat
+! Odatda namunalar 2 soat ichida yetkaziladi, kechiktirilsa muzlatgichdagi saqlash cheklanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Ichburug' bilan kasallanganda qaysi toifa barcha hollarda kasalxonaga yotqiziladi?
++ Oziq-ovqat korxonalari xodimlari
+- Maktab o'quvchilari, ularning ahvolidan qat'i nazar va uyda sharoit bo'lsa ham
+- Yengil shaklli kattalar
+- Pensiya yoshidagi sog'lom kishilar
+- Uy sharoitida parvarish qilinadigan barcha bolalar
+! Ularning epidemik xavfi yuqori bo'lgani uchun yotqizish epidemiologik ko'rsatma bilan majburiy.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? AQSh CDC ta'rifiga ko'ra shigellyozning shubhali holati qaysi?
++ Klinik jihatdan ichburug'ga o'xshash va aniqlangan bemor bilan epidemiologik aloqasi bor holat
+- Laboratoriyada shigellalar ajratilib, tashxisi tasdiqlangan holat, chunki shubhali holat bundan farq qilmaydi
+- Faqat isitmasiz kechgan, najasi me'yordagi holat
+- Qon tahlili o'zgarmagan, lekin yaqinda sayohat qilgan shaxs
+- Laboratoriya tekshiruvi o'tkazilgan va shigella ajratilmagan holat
+! Laboratoriyada tasdiqlangan holat esa alohida, tasdiqlangan toifaga kiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi yoshdagilar orasida Zonne va Flexner ichburug'i ko'proq uchraydi?
++ Zonne — maktabgacha yoshdagilar, Flexner — 15 yoshdan kattalar
+- Zonne — 15 yoshdan kattalar, Flexner — maktabgacha yoshdagilar, ikkalasida kasallanish teng
+- Zonne ham, Flexner ham yangi tug'ilgan chaqaloqlarda ko'proq uchraydi
+- Zonne ham, Flexner ham 60 yoshdan oshganlarda ko'proq uchraydi
+- Zonne ham, Flexner ham faqat o'smirlarda ko'proq uchraydi
+! Bolalar muassasalarida esa manba ko'pincha kattalar bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Zonne va Flexner ichburug'ining asosiy yuqish yo'llari qanday?
++ Zonne asosan alimentar (sut mahsulotlari), Flexner esa suv orqali
+- Zonne asosan suv orqali, Flexner esa faqat havo-tomchi yo'li bilan yuqadi
+- Zonne ham, Flexner ham faqat transmissiv yo'l bilan yuqadi
+- Zonne ham, Flexner ham faqat parenteral yo'l bilan yuqadi
+- Zonne ham, Flexner ham tuproq orqali yuqadi
+! Maishiy-muloqot yo'li esa ikkalasiga xos.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+#U 069 / 6: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 069 / 8: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 069 / 9: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.

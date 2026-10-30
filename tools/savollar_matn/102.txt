@@ -1,0 +1,99 @@
+=== 102
+? Qizamiqda yashirin (inkubatsion) davr odatda qancha davom etadi?
++ 8–21 kun
+- 2–5 kun
+- 22–35 kun
+- 1–2 oy
+- 3–7 kun
+! Virus organizmga kirgach ko'payib, klinik belgilar paydo bo'lishi uchun bir necha haftagacha cho'ziladigan muddat talab etiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.7-bob
+? CDC ma'lumotiga ko'ra, qizamiq bemori toshma boshlanishiga nisbatan qaysi davrda yuqumli hisoblanadi?
++ Toshmadan 4 kun oldin va undan 4 kun keyin
+- Toshmadan 1 kun oldin va undan 14 kun keyin, ya'ni ikki hafta davomida
+- Faqat toshma yo'qolib, po'stlanish boshlangan davrda
+- Toshmadan 10 kun oldin va undan 2 kun keyin
+- Toshma davomida va undan keyin 1 oy mobaynida
+! Virus prodromal davrda, hali toshma chiqmasdan oldin ham ajraladi, shuning uchun bemor tashxis qo'yilgunga qadar atrofdagilarga xavf tug'diradi.
+@ CDC. Healthcare Providers: Stay Alert for Measles Cases
+? O'zbekiston milliy kalendarida qizamiqqa qarshi KPK vaksinasi qaysi yoshlarda beriladi?
++ 12 oylikda (KPK-1) va 6 yoshda (KPK-2)
+- 2 oylikda (KPK-1) va 4 oylikda (KPK-2) ketma-ket
+- 9 oylikda (KPK-1) va 18 oylikda (KPK-2)
+- 6 oylikda (KPK-1) va 14 yoshda (KPK-2), maktabda
+- 12 oylikda bir marta, qayta emlashsiz
+! Birinchi doza onadan o'tgan antitelalar yo'qolgandan keyin, ikkinchisi esa birinchi doza bilan immunitet hosil qilmagan bolalarni qamrash uchun maktab yoshidan oldin beriladi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Rejali emlash dasturida qizamiqqa qarshi emlash qamrovi kamida qancha bo'lishi belgilangan?
++ 95%
+- 75%
+- 80%
+- 60%
+- 99,9%
+! Jamoa immuniteti yuqori yuqumli infeksiyada faqat juda yuqori qamrovda ta'minlanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? KPK vaksinasi qanday sharoitda saqlanadi va eritilgach qancha vaqt ichida ishlatiladi?
++ +2...+8 °C da, muzlatilmaydi; eritilgach 6 soat ichida
+- –20 °C da muzlatilgan holda; eritilgach 24 soat ichida, sovutgichda saqlanib
+- +15...+25 °C da xona haroratida; eritilgach 1 hafta ichida, quyoshdan himoyalab
+- –10...–5 °C da; eritilgach 48 soat ichida, qayta muzlatilmasdan
+- +2...+8 °C da, muzlatiladi; eritilgach 30 daqiqa ichida
+! Tirik vaksina sovuqlik zanjirini buzishga sezgir bo'lgani uchun harorat rejimi va ishlatish muddati qat'iy belgilangan.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Qizamiq vaksinasi qanday dozada va qaysi usulda yuboriladi?
++ 0,5 ml teri ostiga
+- 0,1 ml teri ichiga, bilak sohasiga
+- 1,0 ml mushak ichiga, dumba sohasiga
+- 0,5 ml vena ichiga sekin
+- 0,2 ml burun shilliq qavatiga purkab
+! Tirik vaksina shu hajmda va shu usulda yuborilganda to'liq himoya hosil qilishi tasdiqlangan.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? CDC tavsiyasiga ko'ra, immuniteti isbotlanmagan shaxsga qizamiq bilan kontaktdan keyin MMR vaksinasi va immunoglobulin qanday muddatlarda yuboriladi?
++ MMR 72 soat ichida, immunoglobulin 6 kun ichida
+- MMR 6 kun ichida, immunoglobulin 72 soat ichida
+- MMR 24 soat ichida, immunoglobulin 14 kun ichida
+- MMR 10 kun ichida, immunoglobulin 30 kun ichida
+- MMR 7 kun ichida, immunoglobulin 72 soat ichida
+! Vaksina immun javobni tez rivojlantirgani uchun qisqa muddatda, immunoglobulin esa passiv himoya sifatida kengroq oraliqda samarali bo'ladi.
+@ CDC. Measles Prevention and Treatment Overview (2026)
+? Qizamiq bo'yicha serologik monitoringda seronegativlar ulushi eng ko'pi bilan qancha bo'lishi kerak?
++ 7% dan oshmasligi
+- 20% dan oshmasligi
+- 15% dan oshmasligi
+- 0,5% dan oshmasligi
+- 35% dan oshmasligi
+! Seronegativlar ulushi shu me'yordan oshsa, jamoa immuniteti yetarli emasligi va epidemik xavf mavjudligi baholanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.7-bob
+? Qizamiq tashxisini tasdiqlash uchun IgM IFA qaysi muddatda olingan zardobda o'tkaziladi?
++ Toshmadan keyin 4–28 kun orasida
+- Toshma boshlanishidan oldin, prodromal davrning 1–2-kunida
+- Toshmadan keyin 60–90 kun o'tgach, tuzalish davrida
+- Toshmadan keyin 1–2-kun ichida, toshma eng yaqqol bo'lganda
+- Toshmadan keyin 6 oy o'tgach, immunitet shakllanganda
+! 4-kundan oldin olingan namunada IgM hali yetarli darajada hosil bo'lmagan bo'lishi mumkin, shuning uchun natija takroran tekshiriladi.
+@ Mavzu materiali (102.docx)
+? Qizamiq virusini ajratish uchun siydik namunasi toshma boshlanganidan keyin eng ko'pi bilan necha kungacha olinadi?
++ 5 kungacha
+- 1 kungacha
+- 15 kungacha
+- 30 kungacha
+- 21 kungacha
+! Virus siydik bilan ajralishi toshmadan keyin faqat qisqa muddat davom etgani uchun namuna erta olinishi lozim.
+@ Mavzu materiali (102.docx)
+? Qizamiqqa qarshi dozalar orasidagi minimal oraliq qancha?
++ 1 oy
+- 1 hafta
+- 3 oy
+- 6 oy
+- 1 yil
+! Bu muddat birinchi dozaga immun javob shakllanishi va dozalarni samarasiz takrorlamaslik uchun yetarli hisoblanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Epidemik o'choqda qizamiq bemori bilan muloqotda bo'lgan qaysi yosh oralig'idagi shaxslar emlanadi?
++ 6 oylikdan 30 yoshgacha bo'lgan emlanmagan shaxslar
+- 3 oylikdan 10 yoshgacha bo'lgan barcha bolalar, emlanganlik holatidan qat'i nazar
+- 1 yoshdan 14 yoshgacha bo'lgan maktab o'quvchilari
+- 18 yoshdan 50 yoshgacha bo'lgan kattalar
+- 2 oylikdan 5 yoshgacha bo'lgan kichik bolalar
+! O'choqda moyil shaxslar aniqlanib, ularga keng yosh oralig'ida qo'shimcha emlash o'tkazilishi kasallik tarqalishini cheklaydi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+#U 102 / 9: IgM IFA muddati (toshmadan keyin 4–28 kun) faqat 2015-yilgi sanasi va raqami tasdiqlanmagan loyiha uslubiy ko'rsatmaga tayangan.
+#U 102 / 10: siydik namunasini olish muddati (5 kungacha) faqat 2015-yilgi sanasi va raqami tasdiqlanmagan loyiha uslubiy ko'rsatmaga tayangan.

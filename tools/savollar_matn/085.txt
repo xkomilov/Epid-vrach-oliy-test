@@ -1,0 +1,98 @@
+=== 085
+? Qizilcha bo'yicha yaqqol va belgisiz shakllar nisbati bolalar va kattalarda qanday?
++ Bolalarda 1:1, kattalarda 1:2–1:8
+- Bolalarda 1:10, kattalarda 1:1, ya'ni bolalarda belgisiz shakl ko'proq uchraydi
+- Bolalarda 1:2–1:8, kattalarda 1:1, ya'ni kattalarda yaqqol shakl ko'proq
+- Bolalarda 1:5, kattalarda 1:20, ikkala guruhda ham belgisiz shakl kam uchraydi
+- Bolalarda ham, kattalarda ham 1:1, yoshga bog'liq farq yo'q
+! Kattalarda belgisiz kechish ko'p uchraydi, shuning uchun manba bo'lgan odamni faqat klinik belgilar bo'yicha aniqlash qiyin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchada necha foiz hollarda toshma bo'lmaydi?
++ 30%
+- 5%, bunda limfadenit ham kuzatilmaydi
+- 50%, bunda virus faqat toshma davrida ajraladi
+- 80%, bunda virus 9 kun ajraladi
+- 90%, bunda tashxis faqat toshmaga asoslanadi
+! Toshmasiz shakllar ham yuqumli bo'lgani uchun tashxis laboratoriya tasdig'iga tayanishi kerak, limfadenit esa doimiy belgi bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tug'ma qizilcha bilan tug'ilgan chaqaloqlarda virus qancha vaqtgacha saqlanib, ular infeksiya manbai bo'ladi?
++ 1,5–2 yoshgacha
+- 1–2 haftagacha, ya'ni tug'ruqxonada yotgan muddat davomida
+- 3 oygacha, onalik antitelalari yo'qolguncha
+- 5–7 yoshgacha, ya'ni maktab yoshigacha
+- Hayotining oxirigacha, virus doimiy tashuvchilikka aylanadi
+! Homila infeksiyalanganda immun tizimi virusni to'liq yo'qota olmaydi, shuning uchun u uzoq vaqt organizmdan ajralib turadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchadagi mayda dog'simon toshmaning joylashuvi qaysi javobda to'g'ri tasvirlangan?
++ Avval yuz va boshning sochli qismida chiqib, kaft va tovonlarga tushmaydi
+- Avval kaft va tovonlarda chiqib, keyin tanaga ko'tariladi va yuzga tushmaydi
+- Faqat bukiluvchi yuzalarda chiqib, bir necha haftadan keyin pigmentatsiya qoldiradi
+- Og'iz bo'shlig'ida Filatov–Koplik dog'lari bilan boshlanib, yuzga o'tadi
+- Avval qorin sohasida chiqib, bir kun ichida oyoqlarga tushadi va ikki hafta saqlanadi
+! Toshma bosh va bo'yin sohasidan boshlanib tez tarqaladi, 1–3 kunda iz qoldirmay yo'qoladi va kaft hamda tovonlarga tushmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchadan keyingi immunitet qaysi shartda susayishi mumkin?
++ Infeksiya bilan 10–20 yil davomida uchrashmagan kishilarda
+- Kasallikdan keyin birinchi yil ichida, barcha bolalarda
+- Faqat homiladorlik davrida, onalik antitelalari tushganda
+- Har besh yilda majburiy ravishda, revaksinatsiyasiz
+- Vaksina saqlash harorati buzilganda, kasallanganlarda ham
+! Qo'zg'atuvchi bilan qayta uchrashish immun xotirani qo'llab-quvvatlaydi, uchrashuv bo'lmaganda esa antitelalar titri pasayadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchada kasallanish dinamikasidagi davriylik qanday muddatlarga ega?
++ Qisqa 3–5 yil va uzoq 11–22 yil
+- Qisqa 1–2 yil va uzoq 30–40 yil
+- Doimiy davriylik yo'q, ko'tarilishlar 8, 10, 12 yil oralig'ida
+- Qisqa 7–10 yil va uzoq 50 yildan ko'p
+- Faqat bir yillik mavsumiy tebranish, boshqa davriylik kuzatilmaydi
+! Davriylik moyil aholi qatlamining to'planishi va qayta kamayishi bilan bog'liq bo'lib, emlashdan oldingi davrga xos edi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Yirik shaharlarda qizilcha bilan kasallanish epidemiyalararo davrda 100 ming aholiga qancha bo'lgan?
++ 250–300
+- 25–30, avj yillarida 150 gacha
+- 1500 gacha, avj yillarida 15 000 gacha
+- 2500–3000, avj yillarida 5000 gacha
+- 5–10, avj yillarida 100 gacha
+! Emlashgacha qizilcha havo-tomchi infeksiyalar orasida kasallanish bo'yicha yetakchi o'rinlardan birini egallagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda qizilchaga qarshi ro'yxatdan o'tgan va qo'llanadigan monovaksina qaysi?
++ Rudivax
+- Priorix-Tetra, suvchechak komponenti bilan birga
+- Pentaksim, besh komponentli kombinatsiyalangan
+- Imovaks Polio, o'ldirilgan polio vaksinasi
+- Menaktra, meningokokk konyugat vaksinasi
+! Monovaksina bilan bir qatorda uch valentli KPK ham ishlatiladi, milliy kalendar esa uch valentli vaksinadan foydalanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, homiladorlikning 9–12-haftasida qizilcha infeksiyasi necha foiz hollarda tug'ma nuqsonga olib keladi?
++ 15%
+- 60%, bu 3–4-haftadagi infeksiyaga xos qiymat
+- 7%, bu 13–16-haftadagi infeksiyaga xos qiymat
+- 90%, bu erta homiladorlikdagi vertikal yuqish ehtimoli
+- 40%, bu spontan abortlarning yuqori chegarasi
+! Homila organlari shakllanishi davom etgani sari virusning nuqson chaqirish ehtimoli pasayib boradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilcha o'chog'ida homilador ayollarni tekshirishda birinchi tekshiruvda maxsus antitelalar qanday darajada bo'lsa, qo'shimcha kuzatuv talab etilmaydi?
++ 25 XB/ml va undan yuqori
+- 5 XB/ml va undan yuqori, IgM bilan birga
+- 100 XB/ml dan yuqori, ikki marta tekshirilganda
+- 1:40 va undan yuqori titr, himoya ko'rsatkichi sifatida
+- 10 XB/ml dan past, ya'ni antitela aniqlanmagan holda
+! Bu darajadagi IgG himoya immuniteti mavjudligini ko'rsatadi, shuning uchun homilaga xavf tug'dirmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tug'ish yoshidagi ayollar uchun qizilcha bo'yicha serologik monitoring qaysi yosh guruhida o'tkaziladi?
++ 23–25 yosh
+- 3–4 yosh
+- 9–10 yosh
+- 40–45 yosh
+- 50–55 yosh
+! Bu yosh guruhi homiladorlikni rejalashtirish davriga mos keladi va immun qatlam bo'shlig'ini aniqlash imkonini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchaning vertikal yuqish mexanizmi qanday kechadi?
++ Virus plasentaga tushib ko'payadi, plasenta to'sig'ini buzib homilani zararlaydi
+- Virus faqat tug'ruq paytida chaqaloq teri orqali yuqadi, homila homiladorlik davrida zararlanmaydi
+- Virus ona sutiga o'tib, chaqaloqning ichak shilliq qavatini zararlaydi
+- Virus kindik tomirlariga tushmasdan, homila suyuqligidagi bakteriyalarni faollashtiradi
+- Virus ona qonidagi eritrotsitlar bilan birga suyak iligiga o'tib, homilada gemolitik anemiya chaqiradi
+! Plasenta infeksiyasi qon tomirlarini buzib, homila oziqlanishini izdan chiqaradi va rivojlanish nuqsonlariga olib keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+#D 085 / 9: Darslikdagi homiladorlik muddatlari bo'yicha foizlar (3–4-haftada 60%, 9–12-haftada 15%) JSST (90%) va CDC ma'lumotlaridan farq qiladi, qaysi biri aniq ekani tasdiqlanmagan.

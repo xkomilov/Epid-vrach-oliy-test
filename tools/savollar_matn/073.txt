@@ -1,0 +1,97 @@
+=== 073
+? Ko'k yo'tal toksini odam organizmida qanday o'zgarishlarni chaqiradi?
++ Limfotsitoz, gistaminga sezgirlik va ko'plab a'zolarning zararlanishi
+- Neytrofil leykotsitoz, gistaminga sezgirlikning pasayishi va faqat o'pka zararlanishi
+- Eritrotsitlar gemolizi, anemiya va o'tkir buyrak yetishmovchiligi
+- Faqat mahalliy nekroz va yiringli yallig'lanish, umumiy ta'sir va sezgirlik o'zgarishlarisiz
+- Mushaklarning spastik qisqarishi va tutqanoq, bunda qon formulasi o'zgarmaydi
+! Toksin mikrobning asosiy patogenlik omili bo'lib, immunitetni ham aynan shu toksinga qarshi hosil bo'lgan antitelalar ta'minlaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'k yo'tal qo'zg'atuvchisining agglyutinogenlari bo'yicha nechta serotipi farqlanadi?
++ To'rtta (1.2.3; 1.2.0; 1.0.3; 1.0.0)
+- Ikkita (1.2.3 va 1.0.0)
+- Oltita (1.2.3; 1.2.0; 1.0.3; 1.0.0; 2.1.0; 2.0.3)
+- Uchta (1.2.3; 1.0.3; 1.0.0), bu serotiplar o'zgarmaydi
+- O'nta, ular hududlarga bog'liq emas
+! Serotiplar nisbati hududlar va yillar bo'yicha o'zgaradi, shuning uchun aylanib yuruvchi shtammlar kuzatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda ko'k yo'talga qarshi qo'llanadigan AKDS vaksinasining tarkibi qanday?
++ O'ldirilgan ko'k yo'tal komponenti hamda difteriya va qoqshol anatoksinlari
+- Tirik zaiflashtirilgan ko'k yo'tal bakteriyalari hamda difteriya va qoqshol anatoksinlari
+- Qizamiq, qizilcha va parotitning tirik zaiflashtirilgan viruslari aralashmasi
+- Gepatit B yuza antigeni, Hib polisaxaridi va difteriya anatoksini aralashmasi
+- Faqat hujayrasiz ko'k yo'tal komponenti hamda qoqshol anatoksini
+! Vaksina uch infeksiyaga qarshi assotsiatsiyalangan bo'lib, ko'k yo'tal qismi o'ldirilgan hujayralardan iborat.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaM № 0239-07/3 (25.07.2017)
+? Kalendarda 7 va 16 yoshda qo'llanadigan ADS-M vaksinasi haqida qaysi fikr to'g'ri?
++ U ko'k yo'tal komponentini saqlamaydi
+- Ko'k yo'tal hujayralarini kamaytirilgan dozada saqlaydi
+- Hujayrasiz ko'k yo'tal komponenti bilan boyitilgan
+- Ko'k yo'talga qarshi asosiy revaksinatsiya vositasi hisoblanadi
+- U qizamiq komponentini ham saqlab, birgalikda yuboriladi
+! ADS-M faqat difteriya va qoqshol anatoksinlaridan iborat, shuning uchun ko'k yo'talga qarshi himoya bermaydi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? AKDS, ADS, ADS-M va AD-M vaksinalari qanday haroratda saqlanadi?
++ +2…+8 °C da, muzlatilmasdan
+- -20 °C da, muzlatgichning chuqur muzlatish kamerasida
+- +15…+25 °C da, xona haroratida yorug'likdan saqlab
+- +10…+15 °C da, sovutgich eshigidagi tokchada
+- -2…-8 °C da, sovutgichning muzlatgich qismiga yaqin joyda
+! Anatoksinli va o'ldirilgan vaksinalar muzlatilganda faolligini yo'qotadi, shuning uchun sovutgichning o'rta tokchasida turishi shart.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? AKDS ga ensefalopatiya yoki anafilaksiya reaksiyasi bo'lgan bolada emlash qanday davom ettiriladi?
++ Ko'k yo'tal komponentisiz, ya'ni ADS-M bilan yakunlanadi
+- AKDS kamaytirilgan dozada, ya'ni yarim doza bilan davom ettiriladi
+- Pentavaksina bilan to'liq dozada va odatdagi muddatlarda davom ettiriladi
+- Emlash butunlay bekor qilinadi, difteriya va qoqsholga qarshi himoya ham berilmaydi
+- Hujayrali vaksina qayta yuboriladi, lekin faqat antihistamin vositalar fonida
+! Ko'k yo'tal komponenti reaktogen bo'lgani uchun uni olib tashlab, difteriya va qoqshol himoyasi saqlab qolinadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Ko'k yo'talda bakteriologik usul bilan laboratoriya tasdig'i qanchadan oshmaydi?
++ 20–30%
+- 60–70%
+- 90–95%
+- 5–10%
+- 45–50%
+! Past tasdiqlanish sababli PCR, IFA kabi boshqa usullar ham qo'llanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Emlash kartalari qaysi shakllar bo'yicha yuritilib, har oy ko'rib chiqiladi?
++ 063/u va 112/u shakllar
+- 058/u va 025/u shakllar
+- 003/u va 066/u shakllar
+- 086/u va 058/u shakllar
+- 025/u va 112/u shakllar
+! 058/u shakli esa yuqumli kasallik haqidagi tezkor xabarnomaga tegishli.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Ko'k yo'tal bilan kasallanishda davriy ko'tarilish qancha yilda kutiladi?
++ 3–4 yilda
+- 1 yilda
+- 7–8 yilda
+- 10–12 yilda
+- 15 yilda
+! Ko'tarilish avgustdan boshlanib, kuz va qishda cho'qqiga chiqadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST bo'yicha pertussis vaksinatsiyasining asosiy maqsadi nima?
++ Go'daklar va kichik bolalarda og'ir shakllar xavfini kamaytirish
+- Kasallikni butun dunyoda butunlay yo'q qilib, vaksinatsiyani to'xtatish
+- Kattalardagi belgisiz tashuvchilikni to'liq bartaraf etib, qo'zg'atuvchi aylanishini to'xtatish
+- Qo'zg'atuvchi serotiplari almashinuvini to'xtatish va shtammlarni bir xil holatda ushlash
+- Faqat maktab yoshidagi bolalarda yo'talni yengillashtirish va davolash muddatini qisqartirish
+! Eng og'ir oqibatlar chaqaloqlarda uchraydi, shuning uchun himoya aynan shu guruhga qaratilgan.
+@ WHO. Pertussis (whooping cough), Western Pacific
+? Darslikka ko'ra, ko'k yo'talda immunitetni baholashda kelajakda qaysi serologik usul istiqbolli hisoblanadi?
++ Immunofermentli tahlil (IFA)
+- Shik sinamasi
+- Mantu sinamasi
+- Aglyutinatsiya reaksiyasi
+- Bilvosita gemagglyutinatsiya reaksiyasi (RPGA)
+! Aglyutinatsiya va RPGA antitelalarning himoya qobiliyatini aniq bermaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Emlashdan keyin necha soatdan ortiq to'xtovsiz yig'lash kuzatilsa, keyingi emlashda ko'k yo'tal komponentidan voz kechiladi?
++ 3 soatdan ortiq
+- 30 daqiqadan ortiq
+- 1 soatdan ortiq
+- 12 soatdan ortiq
+- 24 soatdan ortiq
+! Bunday reaksiya vaksina ko'k yo'tal qismining yuqori reaktogenligidan dalolat beradi, 40 °C dan yuqori harorat ham shunday ko'rsatma.
+@ SanQvaM № 0239-07/3 (25.07.2017)

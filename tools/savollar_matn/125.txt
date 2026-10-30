@@ -1,0 +1,97 @@
+=== 125
+? JSST ma'lumotiga ko'ra, o'pka o'latining yashirin davri qanchagacha qisqa bo'lishi mumkin?
++ 24 soatgacha
+- 6 soatgacha
+- 7 kungacha
+- 14 kungacha
+- 3 oygacha
+! Qisqa yashirin davr o'pka shaklida muloqotdagilarni juda erta ajratish zarurligini ko'rsatadi.
+@ WHO. Plague (fact sheet)
+? Izolyatordagilar kuniga kamida necha marta mutaxassis shifokor (infeksionist) ko'rigidan o'tkaziladi?
++ 2 marta
+- 1 marta
+- 3 marta
+- 4 marta
+- 6 marta
+! Tez-tez ko'rik kasallikka gumon qilinganlarni erta aniqlash imkonini beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'lat bo'yicha karantin zonasidagilar necha kunlik tibbiy kuzatuvdan o'tgandan keyin chiqishga ruxsat etiladi?
++ 6 kun
+- 3 kun
+- 5 kun
+- 10 kun
+- 14 kun
+! Kuzatuv davomida ertalab va kechqurun termometriya o'tkaziladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? JSST tavsiyasiga ko'ra, o'pka o'lati bemorlari bilan yaqin muloqotda bo'lganlarga xemoprofilaktika necha kun beriladi?
++ 7 kun
+- 3 kun
+- 14 kun
+- 21 kun
+- 30 kun
+! Kurs davomiyligi kuzatuv muddatidan farq qilishi mumkin, chunki ular boshqa maqsadga xizmat qiladi.
+@ WHO. Plague (fact sheet)
+? O'pka shaklidagi bemor bilan muloqotda bo'lganlar yotqizilgan izolyatorda xodimlar qaysi tur himoya vositalarini ishlatadi?
++ I tur
+- II tur
+- III tur
+- IV tur
+- V tur
+! Bu shakl havo-tomchi yo'li bilan tez yuqadi, shu sababli eng to'liq himoya talab etiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Karantin zonasida bemor bilan muloqotda bo'lmagan sog'lom kishilar qayerga joylashtiriladi?
++ Observatorga
+- Izolyatorga
+- Provizor kasalxonaga
+- Kasalxonaga
+- Karantin hududidan tashqaridagi uylariga
+! Bu muassasa faqat sog'lom odamlar uchun mo'ljallangan va boshqa toifalardan ajratilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Observatorga joylashtirishdan oldin ko'rikda isitma va diareya belgilari aniqlangan shaxslar qayerga ko'chiriladi?
++ Provizor kasalxonaning alohida palatasiga
+- Izolyatorning umumiy palatasiga, boshqa muloqotdagilar bilan birga
+- Kasalxonaning bubon bo'limiga, tashxis tasdiqlanishini kutmasdan
+- Tez yordam bo'limining kuzatuv xonasiga, 3 sutkaga
+- Observatorning alohida qavatiga, shifokor ko'rigisiz
+! Ularning muloqotdagilari esa laboratoriya natijasi aniq bo'lguncha observatorda ajratib turiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'lat gumon qilinganda xodim tananing ochiq qismlariga nima bilan ishlov beradi?
++ 0,5–1% li xloramin yoki 70° li etil spirti
+- 3% li vodorod peroksid yoki 2% li yod eritmasi
+- 10% li ammiak yoki 5% li kaliy permanganat eritmasi
+- 3–5% li xlorli ohak yoki 20% li soda eritmasi
+- 1% li brilliant yashili yoki 96° li etil spirti
+! Ishlov MShHV kiyishdan oldin o'tkaziladigan shoshilinch shaxsiy profilaktikaning bir qismi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'lat gumon qilinganda xodimlar shilliq qavatlarga nimani suradi?
++ Streptomitsin eritmasini
+- Kaliy permanganatning kuchsiz eritmasini
+- 3% li xloramin eritmasini
+- 6% li vodorod peroksid eritmasini
+- 96° li etil spirtini
+! Virusli isitmalarda boshqa vosita qo'llanadi, o'latda esa bakteriyaga qarshi antibiotik ishlatiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Qo'llanmada o'latga sezgir antibiotiklar orasida eng samarali deb qaysi guruh ko'rsatilgan?
++ Streptomitsin guruhi
+- Penitsillin guruhi
+- Makrolidlar guruhi
+- Sefalosporinlar guruhi
+- Rifampitsin guruhi
+! Tetratsiklin guruhi va levomitsetin ham sezgir, ammo samaradorlik bo'yicha birinchi o'rinda boshqa guruh turadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Karantin hududida qo'llanadigan tadbirlar to'g'risida kim qaror qabul qiladi?
++ Epidemiyaga qarshi kurash favqulodda komissiyasi (EQKFK)
+- Hududiy sanitariya-epidemiologiya markazining bosh vrachi yakka tartibda
+- Viloyat hokimligi huzuridagi veterinariya kengashi
+- Ichki ishlar organlari huzuridagi karantin shtabi
+- Davolash muassasasining shifokorlar konsiliumi
+! Komissiya hududdagi barcha idoralarning tadbirlarini yagona qaror bilan muvofiqlashtiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Observatordagilarning tana harorati qachon o'lchanadi?
++ Har kuni ertalab va kechqurun
+- Faqat ertalab, shifokor ko'rigi paytida
+- Har 4 soatda, kecha-kunduz davomida
+- Haftasiga ikki marta, belgilangan kunlarda
+- Har kuni tushlikdan keyin bir marta
+! Ikki marta o'lchash isitma boshlanishini o'tkazib yubormaslik imkonini beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010

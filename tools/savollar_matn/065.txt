@@ -1,0 +1,104 @@
+=== 065
+? Ovqat orqali salmonellyoz avj olishida qo'zg'atuvchi haqida odatda nima aniqlanadi?
++ Bir turdagi qo'zg'atuvchi va bitta fagotip
+- Har bir bemorda turlicha qo'zg'atuvchi va har xil fagotip, ularning hammasi bir-biriga bog'liq emas
+- Virusli qo'zg'atuvchi, bakteriyalar topilmaydi
+- Zamburug'lar, bakteriyalar aniqlanmaydi
+- Qo'zg'atuvchi aniqlanmaydi, chunki kasallik toksindan kelib chiqadi
+! Umumiy omil bilan zararlanish bitta klonga mansub shtamm bilan bog'liq bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Shifoxona ichi salmonellyoz o'choqlarida qaysi omillar orqali qo'zg'atuvchi tarqaladi?
++ Xodimlar qo'li, choyshab, tozalash anjomlari va dori eritmalari
+- Chivin va burgalar chaqishi, chunki bu muhitda boshqa omil yo'q
+- Ventilyatsiya tizimidagi kondensat suvi va havo namlagichlari
+- Tibbiy asboblarni sterilizatsiya qiluvchi avtoklavlar
+- Bemorlarning qarindoshlari olib kelgan quruq mevalar
+! Statsionarda maishiy-muloqot yo'li ko'proq ahamiyatga ega.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 3-ilova (salmonellyoz yo'riqnomasi)
+? JSST ma'lumotiga ko'ra, odam salmonellani asosan qaysi mahsulotlar orqali yuqtiradi?
++ Hayvon mahsulotlari: tuxum, go'sht, parranda go'shti va sut
+- Quruq g'alla mahsulotlari: un, guruch va makaron, ayniqsa uzoq saqlanganda
+- Yangi uzilgan mevalar va quruq yong'oq
+- Yaxshi pishirilgan non va qandolat
+- Konservalangan sirka eritmali sabzavotlar
+! Salmonellalar hayvonlar ichagida tarqalgan, shuning uchun ular chiqaradigan mahsulotlar asosiy omil.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? Salmonellyozda suvsizlanish og'ir va hayot uchun xavfli bo'lishi mumkin bo'lgan guruh qaysi?
++ Bolalar, keksalar va immuniteti susayganlar
+- Sog'lom o'smirlar va yosh kattalar, ayniqsa sport bilan shug'ullanuvchilar
+- Faqat homilador bo'lmagan sog'lom ayollar
+- Sportchilar va jismoniy faol kattalar
+- Kasallikka umuman chalinmaydigan guruhlar
+! Ularda suyuqlik yo'qotish tezroq xavfli darajaga yetadi.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? Najas konservantga qanday nisbatda solinib laboratoriyaga yuboriladi?
++ 1:3
+- 1:1
+- 1:10
+- 1:20
+- 1:50
+! Najas olingan zahoti yoki 2 soatdan kech bo'lmay ekilmasa, konservantga solinib 12–24 soat ichida yetkaziladi.
+@ O'zR SSV buyrug'iga 4-ilova (o'tkir diareyada bakteriologik tekshirish bo'yicha uslubiy ko'rsatma)
+? Isitmasi 3 kundan ortiq davom etgan bemordan bakteriologik tekshiruv uchun qon qancha hajmda olinadi?
++ 10–20 ml
+- 1–2 ml, chunki ko'proq hajm bakteriyaning o'sishini susaytiradi
+- 30–40 ml
+- 50–100 ml
+- 0,1–0,2 ml
+! Qon yetarli hajmda olinib, o't muhitiga ekilganda qo'zg'atuvchini ajratish ehtimoli oshadi.
+@ O'zR SSV buyrug'iga 4-ilova (o'tkir diareyada bakteriologik tekshirish bo'yicha uslubiy ko'rsatma)
+? Najas olingandan keyin tekshiruv boshlangunga qadar qanday haroratda saqlanadi?
++ +4 dan +6 °C da
+- -20 °C da, chuqur muzlatgichda uzoq muddat
+- +20 dan +22 °C da, xona haroratida
+- +37 °C da, termostatda
+- +45 °C da
+! Past harorat boshqa mikroblarning ko'payib ketishini va qo'zg'atuvchining nobud bo'lishini cheklaydi.
+@ O'zR SSV buyrug'iga 4-ilova (o'tkir diareyada bakteriologik tekshirish bo'yicha uslubiy ko'rsatma)
+? Salmonellalarni ajratish uchun qaysi selektiv muhit ishlatiladi?
++ Vismut-sulfit agar
+- Saburo agari, zamburug'larni ajratish uchun moslashtirilgan muhit
+- Tioglikolli muhit
+- Levenshteyn–Yensen muhiti
+- Qonli-shokoladli agar
+! Vismut-sulfit agar salmonellalar uchun ajratib oluvchi muhitdir, boshqalari boshqa mikroblar uchun mo'ljallangan.
+@ O'zR SSV buyrug'iga 4-ilova (o'tkir diareyada bakteriologik tekshirish bo'yicha uslubiy ko'rsatma)
+? Kampilobakterioz gumon qilinganda najas qaysi muhitga ekiladi?
++ Tioglikolli muhitga
+- Vismut-sulfit agarga, chunki kampilobakter faqat shu muhitda o'sadi va boshqa muhit kerak emas
+- Saburo agariga
+- Selenitli boyitish muhitiga
+- Levin muhitiga
+! Kampilobakterlar mikroaerofil bo'lib, ularga mos muhit kerak.
+@ O'zR SSV buyrug'iga 4-ilova (o'tkir diareyada bakteriologik tekshirish bo'yicha uslubiy ko'rsatma)
+? Salmonellyozning suv o'chog'ida qaysi chora ustuvor rejalashtiriladi?
++ Suv manbasini zararsizlantirish
+- Bemorlarni ajratib, yangi bemor qabul qilishni to'xtatish, chunki asosiy xavf shifoxonada
+- Tayyor taomlar qoldig'ini olib qo'yish va taom tayyorlaganlarni tekshirish
+- Parrandachilik fermalarida qushlarni emlash
+- Tuxum mahsulotlarini yaxshi issiqlik ishlovisiz tarqatish
+! Choralar o'choq turiga mos bo'lishi kerak, suv omilida manbaning o'zi bartaraf etiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Salmonella tashqi muhitda qancha yashashi mumkin?
++ Quruq muhitda bir necha hafta, suvda bir necha oy
+- Quruq muhitda bir necha soat, suvda bir necha daqiqa, quyosh nurida esa ancha uzoq saqlanadi
+- Quruq muhitda bir necha kun, suvda bir necha soat
+- Quruq muhitda bir necha yil, suvda bir necha hafta
+- Ikkala muhitda ham faqat bir necha daqiqa
+! Qo'zg'atuvchining chidamliligi uni oziq-ovqat va suv orqali tarqalishiga imkon beradi.
+@ WHO. Salmonella (non-typhoidal) (fact sheet)
+? Salmonellyozda serologik reaksiya qanday qo'yiladi?
++ Juft zardoblar bilan dinamikada
+- Bitta zardob bilan, kasallikning birinchi kunida bir marta
+- Siydik namunasi bilan bir marta, kasallikning oxirida
+- Najas filtrati bilan har kuni
+- Bemor so'lagi bilan ikki marta
+! Antitana titrining o'sishi kasallikka xos bo'lib, bir martalik tekshiruv yetarli emas.
+@ O'zR SSV buyrug'iga 4-ilova (o'tkir diareyada bakteriologik tekshirish bo'yicha uslubiy ko'rsatma)
+#U 065 / 2: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.
+#U 065 / 5: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.
+#U 065 / 6: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.
+#U 065 / 7: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.
+#U 065 / 8: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.
+#U 065 / 9: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.
+#U 065 / 12: faqat SSV buyrug'iga ilova uslubiy ko'rsatma/yo'riqnomasiga tayangan; sana va raqam tasdiqlanmagan.

@@ -1,0 +1,97 @@
+=== 091
+? Difteriyaga qarshi immunitetning asosida qanday omil yotadi?
++ Ekzotoksinni neytrallovchi antitoksin hosil bo'lishi
+- Qo'zg'atuvchining hujayra devorini parchalovchi fagotsitar faollik va komplement tizimining kuchayishi
+- Bakteriya pilusiga qarshi hosil bo'luvchi sekretor IgA antitelalari
+- Qo'zg'atuvchini bevosita o'ldiruvchi T-killer hujayralar populyatsiyasi
+- Ichak shilliq qavatida hosil bo'ladigan mahalliy bakteritsid omillar
+! Kasallik belgilari asosan bakteriya ajratgan toksin ta'siri bilan bog'liq, shu sababli himoya toksinni zararsizlantirishga qaratilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekiston milliy emlash kalendarida pentavalent vaksina (AKDS + gepatit B + Hib) qaysi oylarda yuboriladi?
++ 2, 3 va 4 oylikda uch marta
+- 1, 2 va 6 oylikda, ya'ni ikkinchi dozadan keyin yarim yil oralig'ida uchinchi doza
+- 3, 6 va 12 oylikda, ya'ni uchinchi doza bir yoshda
+- Tug'ilgandan keyin 1 va 2 oylikda ikki marta
+- 2 va 4 oylikda ikki marta, so'ng 12 oylikda qayta emlash
+! Kalendar dastlabki dozalarni qisqa oraliqda berishni nazarda tutadi, chunki chaqaloqlarda himoya erta shakllanishi kerak.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Milliy kalendarda AKDS-4 qaysi yoshda qilinadi?
++ 16 oylikda
+- 6 oylikda, pentavalent vaksinaning uchinchi dozasidan keyin darhol
+- 12 oylikda, qizamiq-qizilcha-parotit vaksinasi bilan bir kunda
+- 7 yoshda, maktabga kirishdan oldin
+- 3 yoshda, bog'chaga qabul qilishdan oldin
+! Bu doza birlamchi seriyadan keyin immunitetni mustahkamlash uchun ancha kechroq beriladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Kalendar bo'yicha ADS-M qaysi yoshlarda yuboriladi?
++ 7 yoshda (1-sinf) va 16 yoshda
+- 2 yoshda va 6 yoshda, ya'ni maktabgacha yoshdagi bolalarga ikki marta
+- 12 oylikda va 3 yoshda, bog'chaga qabul qilinishidan oldin
+- 10 yoshda va 25 yoshda, tug'ish yoshidagi ayollar uchun
+- 14 yoshda va 30 yoshda, har o'n yilda bir marta
+! Bolalikda va o'smirlikda qayta emlash maktab davri bilan bog'langan, kamaytirilgan antigen miqdorli preparat bilan o'tkaziladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Difteriya anatoksinli vaksinalar (AKDS, ADS, ADS-M, AD-M) qanday sharoitda saqlanadi?
++ +2…+8 °C da, muzlatilmaydi
+- -20 °C da chuqur muzlatilgan holda, ishlatishdan oldin eritiladi
+- +15…+25 °C da, xona haroratida qorong'i joyda
+- +8…+15 °C da, yoz oylarida haroratni pasaytirmagan holda
+- -5…0 °C da, ammo ishlatishdan oldin yarim soat isitiladi
+! Anatoksinlar adsorbsiyalangan preparatlar bo'lgani uchun muzlatilganda xossalari buziladi, shu bois sovuq zanjirga amal qilinadi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? AKDS ga kuchli reaksiya (ensefalopatiya, anafilaksiya, kollaps) kuzatilgan bolaga emlashni yakunlash uchun nima qilinadi?
++ Ko'k yo'tal komponentisiz ADS-M qo'llanadi
+- AKDS ning keyingi dozasi yarim miqdorda, antigistamin vositalar fonida yuboriladi
+- Emlash butunlay bekor qilinadi va bolaga hech qachon difteriya anatoksini yuborilmaydi
+- Pentavalent vaksinaning faqat Hib komponenti bilan kifoyalaniladi
+- Emlash 5 yoshgacha to'xtatiladi, so'ngra AKDS yana to'liq dozada beriladi
+! Kuchli reaksiyani asosan ko'k yo'tal komponenti chaqiradi, anatoksin qismi esa xavfsiz hisoblanadi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Kalendar bo'yicha bolalar va o'smirlarni emlash qamrovi kamida qancha bo'lishi kerak?
++ 95 %
+- 75 %, ya'ni aholining to'rtdan uch qismi emlangan bo'lishi kifoya
+- 80 %, jamoa immunitetini shakllantirish uchun yetarli daraja
+- 85 %, hududiy sanitariya-epidemiologiya xizmati tomonidan belgilangan
+- 99 %, ya'ni deyarli barcha bolalarni to'liq qamrab olish
+! Yuqori qamrov qo'zg'atuvchi aylanishini cheklaydi va jamoa himoyasini ta'minlaydi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Difteriya bo'yicha laboratoriya tashxisida birlamchi tashxis va toksigenlikni aniqlash qanday muddatlarda beriladi?
++ Birlamchi tashxis 1 sutkada, toksigenlik 4 sutkagacha
+- Birlamchi tashxis 3 sutkada, toksigenlik 7 sutkagacha, ya'ni natijalar bir haftada tayyor bo'ladi
+- Birlamchi tashxis 6 soatda, toksigenlik 1 sutkada
+- Birlamchi tashxis 2 sutkada, toksigenlik 10 sutkagacha
+- Birlamchi tashxis 5 sutkada, toksigenlik 14 sutkagacha
+! Ekin o'stirish va toksigenlikni tasdiqlash alohida bosqichlar bo'lib, ikkinchisi uzoqroq vaqt talab qiladi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova (difteriya bakteriologik va serologik indikatsiyasi bo'yicha uslubiy ko'rsatma)
+? JSST bo'yicha difteriya bemori bilan aloqada bo'lgan shaxslarga nisbatan qanday tadbirlar qo'llanadi?
++ Profilaktik antibiotik beriladi, emlash holati tekshiriladi va to'liq emlanmaganlarga vaksina taklif etiladi
+- Aloqadorlarga antitoksin doimiy ravishda yuboriladi va ularning emlash holati hisobga olinmaydi
+- Aloqadorlar 60 kun davomida qat'iy karantinda saqlanadi, antibiotik va vaksina berilmaydi, emlash holati tekshirilmaydi
+- Faqat bolalar tekshiriladi, kattalar esa kuzatuvsiz qoldiriladi
+- Aloqadorlarga immunoglobulin yuboriladi va qayta emlash taqiqlanadi
+! Aloqadorlar ham yuqtirish, ham kasallanish xavfi ostida bo'lgani uchun ularni himoyalash bir necha yo'nalishda olib boriladi.
+@ WHO. Diphtheria (fact sheet)
+? Nima uchun emlangan aholida ham difteriya qo'zg'atuvchisining aylanishi to'liq to'xtamaydi?
++ Emlash faqat toksinni neytrallaydi va mikroblarga qarshi ta'sir ko'rsatmaydi
+- Anatoksin bakteriyani o'ldiradi, ammo burun-halqumdagi tashuvchilikni kuchaytiradi
+- Emlangan odamlarda qo'zg'atuvchi ko'payishi uchun qulay muhit hosil bo'ladi
+- Vaksina hujayra devoriga qarshi antitelalar hosil qiladi, lekin ular juda qisqa vaqt saqlanadi
+- Qo'zg'atuvchi emlangan odam organizmida hech qachon toksin ishlab chiqarmaydi
+! Himoya antitoksinga asoslangani uchun bakteriyaning o'zi burun-halqumda saqlanib, tashuvchilik davom etishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST bolalik va o'smirlik davrida jami nechta qo'shimcha (booster) doza tavsiya qiladi?
++ Uchta
+- Bitta, maktabga kirish arafasida
+- Ikkita, ya'ni 1 yoshdan keyin va maktab yoshida
+- To'rtta, har ikki yilda bir marta, balog'at yoshigacha
+- Beshta, tug'ilgandan boshlab har yili
+! Birlamchi seriya immunitetni yetarli muddatga saqlay olmaydi, shu bois bir necha marta mustahkamlash talab etiladi.
+@ WHO. Diphtheria (fact sheet)
+? Difteriya o'chog'ida aloqada bo'lgan, avval emlanmagan va kasallanmagan shaxslar epidemiologik ko'rsatma bo'yicha qaysi yoshdan boshlab emlanadi?
++ 2 oylikdan
+- Tug'ilgan kunidan boshlab, ya'ni birinchi 24 soat ichida
+- 1 yoshdan, shundan oldin emlash xavfli hisoblanadi
+- 3 yoshdan boshlab, bolalar bog'chasiga borishdan oldin
+- 7 yoshdan boshlab, ya'ni maktabga kirish davridan
+! O'choqdagi emlashning quyi yosh chegarasi kalendardagi birinchi pentavalent doza yoshi bilan mos keladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi

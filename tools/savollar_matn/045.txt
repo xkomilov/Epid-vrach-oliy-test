@@ -1,0 +1,97 @@
+=== 045
+? Salmonellyozda infeksiya manbai asosan kimlar hisoblanadi?
++ Hayvonlar, ayniqsa parrandalar, qoramol va cho'chqalar
+- Kasal odam, hayvonlar esa epidemik jarayonda ishtirok etmaydi
+- Suv havzalaridagi baliqlar va ularning qo'zg'atuvchisi saqlanadigan loyqa
+- Tashuvchi hasharotlar, ya'ni pashsha va chivinlar
+- Tabiiy o'choqlardagi kanalar va ularning organizmida ko'payuvchi qo'zg'atuvchi
+! Salmonellyoz zoonoz-antroponoz tabiatga ega, shu bois veterinariya-sanitariya nazorati alohida ahamiyatli.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Salmonellyozda yetakchi yuqish yo'li qaysi?
++ Oziq-ovqat yo'li
+- Suv yo'li
+- Havo-chang yo'li
+- Parenteral yo'l
+- Transmissiv yo'l
+! Qo'zg'atuvchi asosan tuxum, parranda va qoramol go'shti hamda yetarli ishlov berilmagan sut mahsulotlari orqali yuqadi.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Salmonellyozning eng ko'p uchraydigan serotiplari qaysilar?
++ S. Enteritidis va S. Typhimurium (nostifoid serotiplar)
+- S. Typhi va S. Paratyphi A (enterik isitma qo'zg'atuvchilari)
+- S. sonnei va S. flexneri
+- S. aureus va S. pyogenes
+- S. dysenteriae va S. boydii
+! Boshqa javoblardagi nomlar yoki ich terlama qo'zg'atuvchilariga, yoki shigellalarga, yoki stafilokokk va streptokokklarga tegishli.
+@ Mavzu materiali (045.docx); O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Salmonellalarning qaysi biologik xususiyati ularning oziq-ovqat orqali yuqishini belgilaydi?
++ Yetarli pishirishda halok bo'ladi, lekin xona haroratida oziq-ovqatda jadal ko'payadi
+- Issiqlikka juda chidamli, qaynatishda ham halok bo'lmaydi va sporalar hosil qiladi
+- Muzlatilgan mahsulotda ko'payadi, xona haroratida esa darhol nobud bo'ladi
+- Suvda yashaydi, oziq-ovqatda esa ko'payish qobiliyatiga ega emas
+- Tirik hujayralarda ko'payadi va tashqi muhitda bir necha daqiqada o'ladi
+! Shu sababli salmonellyoz issiq mavsumda va saqlash rejimi buzilganda ko'payadi, termik ishlov esa xavfni kamaytiradi.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Salmonellyozning yozgi-kuzgi mavsumiyligiga nima sabab bo'ladi?
++ Issiq havoda qo'zg'atuvchining oziq-ovqatda tez ko'payishi
+- Aholining yozda havo-tomchi yo'li bilan zich muloqotga kirishishi
+- Kanalar faolligining bahor-yoz oylarida ortishi
+- Tuxum va go'sht iste'molining yozda butunlay to'xtashi
+- Qo'zg'atuvchining sovuq suvda tez ko'payishi
+! Harorat ko'tarilganda mikroorganizm ko'payish tezligi oshadi, shu sababli oziq-ovqatning ifloslanishi xavfi yozda yuqori.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Salmonellyozda kasallik og'irroq va asoratlar bilan kechish xavfi yuqori bo'lgan guruhlar qaysilar?
++ Kichik yoshdagi bolalar, keksalar va immuniteti pasaygan shaxslar
+- 18–30 yoshli sog'lom sportchilar va harbiy xizmatchilar
+- Oldin salmonellyoz o'tkazgan va umrbod immunitet hosil qilgan shaxslar
+- Vegetarianlar, chunki ular go'sht mahsulotlarini umuman iste'mol qilmaydi
+- Barcha sog'lom kattalar, ularda kasallik doim og'ir kechadi
+! Bu guruhlarda gastroenterit umumlashgan shaklga o'tishi va degidratatsiya og'ir kechishi mumkin.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Antibiotiklarga chidamli salmonella shtammlarining tarqalishi ko'pincha nima bilan bog'liq?
++ Chorvachilikda antibiotiklardan keng foydalanish bilan
+- Aholining qo'llarini sovun bilan muntazam yuvishi bilan
+- Oziq-ovqatni yetarli darajada termik ishlash bilan
+- Ichimlik suvini xlorlash bilan
+- Emlash dasturlarining kengayishi va vaksina qamrovi oshishi bilan
+! Chorvadagi antibiotik bosimi chidamli shtammlarni tanlab ko'paytiradi va ular oziq-ovqat zanjiri orqali odamga o'tadi.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? "Yagona salomatlik" (One Health) yondashuvi nimani anglatadi?
++ Odam, hayvon va atrof-muhit salomatligini birgalikda ko'rib chiqishni
+- Odam salomatligini faqat davolash muassasalari kuchi bilan saqlashni
+- Chorva hayvonlarini emlashga e'tibor qaratishni, odamlarni esa hisobga olmaslikni
+- Aholining barcha qatlamlariga bir xil sog'liqni saqlash xizmatini ko'rsatishni, bunda hayvonlar hisobga olinmaydi
+- Atrof-muhitni kimyoviy moddalar bilan zararsizlantirishni
+! Salmonellyoz zoonoz bo'lgani uchun uni nazorat qilishda tibbiyot, veterinariya va atrof-muhit xizmatlari hamkorlik qiladi.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Qaysi tadbir JSSTning xavfsiz oziq-ovqat tamoyillariga kiradi?
++ Xom va tayyor mahsulotlarni alohida saqlash va ishlov berish
+- Tayyor taomlarni kechgacha xona haroratida saqlash
+- Go'shtni yarim pishirib, yumshoq holatda iste'mol qilish
+- Barcha oziq-ovqatni faqat dezinfeksiyalovchi eritmada yuvib, termik ishlovsiz iste'mol qilish
+- Xom tuxumni tayyor taomlar bilan bir idishda saqlash
+! Bu usul krest-kontaminatsiyaning oldini oladi, xom mahsulotdagi salmonella tayyor taomga o'tmaydi.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Salmonellyoz profilaktikasida nima uchun asosiy e'tibor sanitariya-veterinariya choralariga qaratiladi?
++ Maxsus profilaktika (vaksina) salmonellyozda keng qo'llanilmaydi
+- Salmonellyozga qarshi barcha aholiga majburiy bir martalik vaksina mavjud
+- Qo'zg'atuvchi odamda yashagani va hayvonlarda uchramagani uchun veterinariyaning roli yo'q
+- Salmonellyoz o'tkazganlarda umrbod mustahkam immunitet hosil bo'ladi
+- Kasallik faqat havo-tomchi yo'li bilan tarqaladi
+! Vaksina bo'lmagan sharoitda xavfni oziq-ovqat zanjiri va hayvonchilikni nazorat qilish orqali kamaytirish mumkin.
+@ World Health Organization. Salmonella (non-typhoidal) fact sheet; Food safety
+? Oziq-ovqat bilan bog'liq salmonellyoz o'chog'ini tekshirishda qaysi usul aybdor mahsulotni ishonchli aniqlash imkonini beradi?
++ Kasal bo'lganlar umumiy iste'mol qilgan mahsulotni aniqlab, uning shtammini bemorlardan ajratilgan shtamm bilan taqqoslash
+- Barcha bemorlarni klinik ko'rik asosida guruhlab, mahsulot namunalarini laboratoriyaga yubormaslik
+- Bitta bemorning shikoyatiga asoslanib, shubhali mahsulotni taxmin qilish va uni muomaladan chiqarmaslik
+- Umumiy ovqatlanish shoxobchasini tekshiruvsiz yopib, laboratoriya tahlilini o'tkazmaslik va shtammlarni taqqoslamaslik
+- Dekretlangan kontingentning barchasini qo'shimcha sinovsiz ishdan bo'shatish
+! Umumiy omil va shtammlarning mosligi mahsulot va kasallanish o'rtasidagi bog'liqlikni isbotlaydi.
+@ Mavzu materiali (045.docx)
+? Milliy yo'riqnomaga ko'ra salmonellalarning nechta dan ortiq serovari ma'lum?
++ 2500 dan ortiq
+- 25 dan ortiq
+- 250 dan ortiq
+- 25 000 dan ortiq
+- 92 ta
+! Bu xilma-xillik salmonellyozni polietiologik infeksiya qiladi, O'zbekistonda esa ularning ayrimlari ko'proq uchraydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)

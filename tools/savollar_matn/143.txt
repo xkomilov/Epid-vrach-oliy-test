@@ -1,0 +1,98 @@
+=== 143
+? OIV infeksiyasining laboratoriya diagnostikasida hozirgi kunda eng ko'p qo'llanadigan usul qaysi?
++ Qondagi virusga qarshi antitelalarni aniqlash
+- Virusni hujayra kulturasida ajratib o'stirish va identifikatsiyalash
+- Bemor to'qimasida virus zarrachalarini elektron mikroskopda aniqlash
+- Qon zardobida bakterial toksinlarni neytrallash reaksiyasi bilan topish
+- Bemor siydigida virus antigenini aglyutinatsiya reaksiyasi bilan aniqlash
+! Antitelalarni aniqlash arzon, ommaviy va ishonchli bo'lgani uchun skrining tizimining asosini tashkil etadi, qolgan usullar esa kam qo'llanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? «Soxta manfiy» natija ko'proq qaysi davrda kuzatiladi?
++ «Serologik bo'shliq» davrida, ya'ni yuqtirishning dastlabki haftalarida
+- Dispanser nazoratida RQT olayotgan davrda, virus yuklamasi aniqlanmaganda
+- Homiladorlikning uchinchi trimestrida, autoimmun kasalliklar mavjud bo'lganda
+- Virusli va bakterial infeksiyalar qo'shilib kelgan davrda, qizdirma fonida
+- Onkologik kasalliklar rivojlangan davrda, kimyoterapiya boshlanishidan oldin
+! Antitelalar hali hosil bo'lmagan davrda IFA virusni ko'rsata olmaydi; qolgan holatlar ko'proq soxta musbat natijaga olib keladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? JSST tezkor testlar uchun tasdiqlash bosqichida spetsifiklik qaysi ko'rsatkichdan yuqori bo'lishini tavsiya etadi?
++ 99 % dan yuqori
+- 90 % dan yuqori
+- 80 % dan yuqori
+- 85 % dan yuqori
+- 95 % dan yuqori
+! Tasdiqlash bosqichida soxta musbat natijaning oldini olish uchun birlamchi skriningga qaraganda qattiqroq talab qo'yiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? Nima uchun IFA musbat natijasi tashxis qo'yishga yetarli asos hisoblanmaydi va immunoblot orqali tasdiqlanadi?
++ Virus tarkibida boshqa infeksiyalarda ham aniqlanadigan nospetsifik antigenlar bor
+- Virus RNKsini topishga mo'ljallangan va antitelalarni aniqlashga qodir emas
+- Reaksiya faqat zardobda o'tkazilib, plazmada natija bermaydi
+- Natija spektrofotometrda o'lchanmay, faqat ko'z bilan baholanadi
+- Test CD4 hujayralar sonini baholaydi va virusga qarshi reaksiyani topmaydi
+! IFA nospetsifik reaksiyalar sababli soxta musbat berishi mumkin, immunoblot esa maxsus oqsillarga javobni aniqlaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? Sekvenirlash usuli OIV infeksiyasida nimani aniqlash uchun qo'llanadi?
++ Virusning dori vositalariga chidamliligi (rezistentlik) va genotipini
+- Qondagi CD4 hujayralar sonini, T-xelper/T-supressor nisbatini va limfotsitlar umumiy sonini
+- Antitelalarning paydo bo'lish muddati va sinfini
+- Provirus DNKning yangi tug'ilgan bolalardagi miqdoriy ko'rsatkichini
+- Virus yuklamasining log10 bo'yicha o'zgarish tezligini va davolashga javob muddatini
+! Nukleotid ketma-ketligini o'qish mutatsiyalarni topishga imkon beradi, bu davolash sxemasini tanlashda muhim.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? Milliy ko'rsatmada CD4 hujayralar sonining me'yori qanday keltirilgan?
++ 500–1500 hujayra/mkl
+- 100–300 hujayra/mkl
+- 50–150 hujayra/mkl
+- 2000–3000 hujayra/mkl
+- 1600–2500 hujayra/mkl
+! CD4 hujayralar soni me'yordan pasaysa T-hujayra immun tanqisligi rivojlanayotganidan dalolat beradi, shuning uchun u asosiy prognostik ko'rsatkich.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? IFA uchun olingan qon 24 soat ichida laboratoriyaga yetkazilmasa, qaysi tartibda saqlanadi?
++ Kamida 1,5 ml zardob +4…+8 °C da
+- Kamida 5 ml to'liq qon xona haroratida
+- Kamida 1,5 ml zardob −70 °C da muzlatilib
+- Kamida 5 ml to'liq qon +37 °C termostatda
+- Kamida 0,5 ml plazma −20 °C da muzlatilib
+! Zardob sovutgichda saqlansa antitelalar parchalanmaydi va namuna keyinchalik yaroqli bo'lib qoladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? PCR uchun qon qanday probirkaga va qancha muddatda yetkazish uchun olinadi?
++ EDTAli vakutayner, 6 soat ichida
+- Geparinli vakutayner, 6 soat ichida
+- Quruq centrifuga probirkasi, 24 soat ichida
+- Natriy sitratli vakutayner, 48 soat ichida
+- Jel ajratgichli probirka, 72 soat ichida
+! Geparin PCR reaksiyasini ingibirlaydi, shu sababli EDTA ishlatiladi va namuna tez yetkaziladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? Laboratoriyalarda tashqi sifat nazorati qanday muntazamlikda o'tkaziladi?
++ 2 yilda 1 marta
+- Har oyda 1 marta
+- Har chorakda 1 marta
+- Yiliga 4 marta
+- 5 yilda 1 marta
+! Tashqi nazorat ichki nazoratga qaraganda kamroq o'tkaziladi, ichki nazorat esa har kuni qayd etiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? Donorlar qonini tekshirishda bitta lunkada musbat natija olinsa, nima qilinadi?
++ Tasdiqlash uchun qayta tekshirilmaydi, qon yo'q qilinadi va shaxs donorlikdan chetlatiladi
+- Namuna ikki lunkada qayta tekshiriladi va ikkalasi manfiy bo'lsa donorlikka ruxsat beriladi
+- PCR bilan tekshirilib, manfiy bo'lsa qon komponentlarga ajratib ishlatiladi
+- Qon immunoblotga yuboriladi va natija chiqquncha 30 kun karantinda saqlanadi
+- Qon 1 haftadan keyin boshqa test-to'plam bilan qayta tekshirilib baholanadi
+! Qon xavfsizligi eng muhim, shuning uchun donor qonida skrining musbat bo'lsa qayta tekshirish o'tkazilmaydi.
+@ Mavzu materiali (143.docx)
+? Virus yuklamasi o'zgarishi qanday darajadan ortganda sezilarli hisoblanadi?
++ 3 martadan (0,5 log10) ko'p bo'lganda
+- 10 martadan (1,0 log10) ko'p bo'lganda
+- 1,5 martadan (0,2 log10) ko'p bo'lganda
+- 100 martadan (2,0 log10) ko'p bo'lganda
+- 2 martadan (0,1 log10) ko'p bo'lganda
+! Qisqa muddatli tebranishlar tahlilning o'zgaruvchanligiga bog'liq, shu sababli ahamiyatli o'zgarish uchun ma'lum chegara belgilangan.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? 18 oygacha bo'lgan bolalarda OIV tashxisi nega PCR (provirus DNK) bilan qo'yiladi?
++ Ona antitelalari (IgG) bolada saqlanib qolgani sababli antitelalarni aniqlash ishonchsiz
+- Provirus DNK katta yoshlilarga qaraganda bolalarda juda kam miqdorda bo'lgani uchun IFA ishlamaydi
+- IFA uchun yosh bolalardan zardob olishning texnik imkoni bo'lmaydi
+- Immunoblot reaksiyasi uchun bolalarga mo'ljallangan maxsus qurilma yaratilmagan
+- Tezkor testlar bolalarda faqat so'lakda ishlaydi va qonda ishlamaydi
+! Platsenta orqali o'tgan onaning antitelalari 18 oygacha topilishi mumkin, shuning uchun IFA infeksiyani isbotlamaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+#U 143 / 9: Donor qonida bitta lunkadagi musbat natija bo'yicha ko'rsatma faqat mavzu materialiga (219-son buyruq ilovalari bayoni) tayangan, asl hujjat bilan tasdiqlanmagan.

@@ -1,0 +1,98 @@
+=== 056
+? Shigella avlodining qaysi turi ekzotoksin ishlab chiqaradi va og'ir kasallik beradi?
++ Sh. dysenteriae 1 (Grigoryev–Shiga)
+- Sh. sonnei, ya'ni Zonne shigellasi, O'zbekistonda eng ko'p uchraydigan tur
+- Sh. flexneri 2a, ya'ni Flekssner shigellasining eng keng tarqalgan serovari
+- Sh. boydii, ya'ni Boyd shigellasining barcha serovarlari
+- Sh. flexneri 6, ya'ni ichak shilliq qavatini zararlaydigan shtamm
+! Qolgan turlarda faqat endotoksin bor, shuning uchun ular odatda yengilroq kechadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Shigella avlodi nechta turga bo'linadi?
++ To'rt turga: dysenteriae, flexneri, boydii va sonnei
+- Uch turga: dysenteriae, flexneri va sonnei, boydii esa alohida avlod
+- Besh turga: dysenteriae, flexneri, boydii, sonnei va typhi
+- Ikki turga: dysenteriae va sonnei, flexneri va boydii ularning serovarlari
+- Olti turga: dysenteriae, flexneri, boydii, sonnei, enterica va coli
+! Turlar antigen tuzilishi va serovarlariga ko'ra ajratiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? O'zbekistonda ichburug'ni ko'proq qaysi shigellalar keltirib chiqaradi?
++ Sh. flexneri va Sh. sonnei
+- Sh. dysenteriae 1 va Sh. boydii, ya'ni eng og'ir kechadigan turlar
+- Sh. dysenteriae 1 va Sh. dysenteriae 2, ya'ni Grigoryev–Shiga guruhi
+- Sh. boydii va Salmonella Typhi
+- Sh. boydii va Sh. dysenteriae 3, ya'ni kam tarqalgan serovarlar
+! Grigoryev–Shiga shigellasi O'zbekistonda deyarli uchramaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Qaysi shigella tashqi muhitda chidamliroq?
++ Sh. sonnei, Sh. flexneriga nisbatan
+- Sh. flexneri, Sh. sonnei ga nisbatan, ayniqsa suv va sutda
+- Hammasi bir xil chidamli va farqi umuman yo'q
+- Sh. dysenteriae 1, chunki u kuchli ekzotoksin ishlab chiqaradi
+- Sh. boydii, chunki unda eng ko'p serovar bor
+! Milliy yo'riqnomada Zonne shigellasi yuqori, Flekssner o'rtacha chidamlilikka ega deb ko'rsatilgan.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Zonne ichburug'ining taxminan qancha qismi yengil va belgisiz kechadigan bemorlardan yuqadi?
++ 80 foiz
+- 20 foiz
+- 35 foiz
+- 50 foiz
+- 5 foiz
+! Bunday bemorlar shifokorga murojaat qilmay, uyda noto'g'ri davolanib, kasallikni tarqatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Shigellyozning yashirin davri qancha davom etadi?
++ 1 dan 7 kungacha
+- 10 dan 14 kungacha
+- 3 dan 4 haftagacha
+- 2 dan 3 oygacha
+- 6 dan 12 oygacha
+! Qo'zg'atuvchi doza va organizm holatiga qarab yashirin davr qisqa, ba'zan bir necha soat bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Alimentar yo'lda shigellyozning eng muhim omili qaysi?
++ Sut va sut mahsulotlari
+- Yaxshi pishirilgan go'sht va qovurilgan baliq mahsulotlari
+- Qaynatilgan guruch va quruq non mahsulotlari
+- Konservalangan sabzavotlar va uzoq saqlanadigan quruq mevalar
+- Yog'da qovurilgan taomlar va qaynoq choy
+! Shigellalar sut mahsulotlarida saqlanibgina qolmay, ko'payadi ham.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Shigellyozdan keyingi immunitet qancha vaqt saqlanadi?
++ 4–12 oy
+- 5–10 yil
+- Umrbod
+- 2–3 yil
+- 20–30 yil
+! Immunitet qisqa muddatli, mahalliy va umumiy xususiyatga ega, shuning uchun qayta kasallanish mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Shigellyozda mavsumiy ko'tarilish va pasayish qaysi oylarga to'g'ri keladi?
++ Ko'tarilish may–iyunda, pasayish oktyabr–noyabrda
+- Ko'tarilish sentyabr–oktyabrda, pasayish may–iyunda
+- Ko'tarilish dekabr–yanvarda, pasayish iyul–avgustda
+- Ko'tarilish fevral–martda, pasayish yanvar–fevralda
+- Ko'tarilish oktyabr–noyabrda, pasayish iyun–iyulda
+! Issiq mavsumda alimentar va suv omillari faollashadi, sovuq oylarda ular kamayadi.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Shigellyoz o'chog'ida muloqotda bo'lganlar ustidan necha kunlik tibbiy kuzatuv o'rnatiladi?
++ 7 kunlik
+- 3 kunlik
+- 14 kunlik
+- 21 kunlik
+- 30 kunlik
+! Kuzatuv davomida har kuni so'rov, ko'rik, ich ketishini kuzatish va termometriya o'tkaziladi.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Surunkali ichburug'li bemorlar qancha muddat dispanser kuzatuvida bo'ladi?
++ 6 oy
+- 2 oy
+- 12 oy
+- 3 yil
+- 1 hafta
+! Surunkali kechishda qo'zg'atuvchi uzoq ajralishi mumkin, shu sababli kuzatuv uzoqroq davom etadi.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? CDC ma'lumotiga ko'ra, shigellyoz yuqishi uchun taxminan nechta mikroorganizm yetarli?
++ 10–200
+- 1–3 million
+- 100 million–1 milliard
+- 50–100 million
+- 1000–2000 million
+! Shigellalar juda yuqumli, shuning uchun juda oz miqdori ham kasallik keltirib chiqaradi.
+@ CDC. Shigella — Shigellosis, causes
+#D 056 / 12: darslikda Flekssner 2a ning 5000–10 000 bakteriya hujayrasi sog'lom kishilarning 50 foizini kasallantirishi qayd etilgan, CDC esa 10–200 organizm yetarli deydi.

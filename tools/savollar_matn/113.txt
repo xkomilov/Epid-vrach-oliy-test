@@ -1,0 +1,100 @@
+=== 113
+? Quturish epidemik jarayonida odam epidemiologik jihatdan qanday o'rin tutadi?
++ «Boshi berk ko'cha» hisoblanadi, odamdan odamga yuqishi isbotlanmagan
+- Asosiy rezervuar hisoblanadi, kasallik odamlar orasida doimiy aylanib yuradi
+- Mexanik tashuvchi hisoblanadi, qo'zg'atuvchini kiyim orqali boshqalarga o'tkazadi
+- Mavsumiy manba hisoblanadi, kasallik faqat yoz oylarida odamdan odamga yuqadi
+- Biologik vektor hisoblanadi, virus odam tanasida ko'payib qon so'ruvchi hasharotlarga o'tadi
+! Virus odamdan boshqa organizmga o'tmagani sababli profilaktika hayvonlar va jabrlanganlarga qaratiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? JSST ma'lumotiga ko'ra odamdagi quturish holatlarining 99 % gacha qismida virus qaysi hayvonlar orqali yuqadi?
++ Itlar orqali
+- Mushuklar orqali
+- Ko'rshapalaklar orqali
+- Tulkilar orqali
+- Chorva hayvonlari orqali
+! Itlar orasida virus keng tarqalganligi va ular odamlar bilan yaqin yashashi sababli asosiy xavf manbai hisoblanadi.
+@ WHO. Rabies (fact sheet)
+? Quturishning antropurgik («shahar») turida infeksiya manbai kimlar hisoblanadi?
++ Uy hayvonlari: it va mushuk hamda ayrim qishloq xo'jalik hayvonlari
+- Yovvoyi hayvonlar: bo'ri, shoqol, tulki va ko'rshapalaklar
+- Kemiruvchilar: kalamush va sichqonlar, ularning ko'chib yurishi natijasida
+- Parrandalar: uy tovuqlari va yirtqich qushlar, ular ko'chib o'tish davrida
+- Sudralib yuruvchilar: ilonlar va kaltakesaklar, ularning chaqishi orqali
+! Bu tur inson xo'jaligi bilan bog'liq bo'lib, ikkilamchi shahar o'choqlarini hosil qiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? Kasal hayvon so'lagi bilan virus qachon ajraladi?
++ Inkubatsiya davrining oxirgi 10 kunida va butun kasallik davomida
+- Kasallik belgilari boshlangandan keyin 10 kun o'tgach
+- Tishlash sodir bo'lgan zahoti va keyingi 3 oy davomida
+- Hayvon o'lgandan keyin, jasad so'lagi orqali
+- Inkubatsiya davrining birinchi haftasida, so'ng ajralish to'xtaydi
+! Hayvon kasallik belgilari ko'rinmasdan oldin ham xavfli bo'lishi sababli tishlagan hayvon 10 kun kuzatuvda saqlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? Tishlagan hayvonlarning toifalaridan qaysi biri klinik belgilari namoyon bo'lgan hayvonlarni bildiradi?
++ B toifa
+- A toifa, quturish laboratoriyada tasdiqlangan hayvonlar
+- C toifa, qarovsiz hayvonlar, shu jumladan yovvoyilar
+- D toifa, egasi ma'lum hayvonlar
+- E toifa, yovvoyi kemiruvchilar
+! Toifalar hayvonning holati va egasining ma'lum yoki noma'lumligiga qarab belgilanadi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Quturish virusi odamga asosan qaysi yo'l bilan yuqadi?
++ Tishlash orqali, taxminan 90 % hollarda
+- So'laklash orqali, taxminan 90 % hollarda
+- Tirnash orqali, taxminan 50 % hollarda
+- Aspiratsion yo'l orqali, taxminan 30 % hollarda
+- Oziq-ovqat orqali, taxminan 20 % hollarda
+! Virus so'lak bilan ajralgani va tishlashda so'lak jarohat ichiga tushgani uchun bu yo'l eng ko'p uchraydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? Qo'llanmaga ko'ra kasal hayvon qaysi sohadan tishlaganda kasallik 90 % hollarda rivojlangan?
++ Yuzdan
+- Qo'l panjasidan
+- Oyoq-qo'lning boshqa qismlaridan
+- Orqadan
+- Boldirdan
+! Jarohat markaziy nerv tizimiga qancha yaqin bo'lsa, virus miyaga shuncha tez yetib boradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? Quturishning inkubatsiya davri qo'llanmaga ko'ra qancha davom etadi?
++ 7 kundan 1 yilgacha
+- 1–2 kun
+- 2–3 hafta, hech qachon oshmaydi
+- 3–5 yil
+- 10–15 yil
+! Davr jarohat joyi va uning og'irligiga bog'liq: bosh va yuz jarohatlarida u qisqaradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? Quturishda jarohatga ishlov berishda uni 3 kun davomida nima qilmaslik kerak?
++ Kesmaslik va tikmaslik
+- Oqar suvda yuvmaslik
+- Sovunli eritma ishlatmaslik
+- Bint bilan o'ramaslik
+- Shifokorga ko'rsatmaslik
+! Erta jarrohlik aralashuvi virusni chuqur to'qimalarga tarqatishi mumkin.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Epidemiologik tekshiruvda guruhli tishlanish deb necha va undan ortiq kishi jarohat olgan holat hisoblanadi?
++ 3 va undan ortiq kishi
+- 2 va undan ortiq kishi
+- 5 va undan ortiq kishi
+- 10 va undan ortiq kishi
+- 20 va undan ortiq kishi
+! Guruhli holatlarda jarohat olgan boshqa shaxslar va tishlagan hayvonning yurgan yo'li aniqlanadi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? JSST bo'yicha Amerikada hozirgi kunda odam quturishining asosiy manbai qaysi hayvonlar?
++ Qon so'ruvchi ko'rshapalaklar
+- Uy itlari va mushuklari, odamlar bilan yaqin yashashi sababli
+- Qizil tulkilar, Yevropadagi asosiy rezervuar sifatida
+- Mangustlar, Janubiy Afrikadagi rezervuar sifatida
+- Shoqollar, Shimoliy Afrikadagi rezervuar sifatida
+! Itlardan tarqaladigan quturish nazorat qilingach, yovvoyi hayvonlar orasida ko'rshapalaklar yetakchi manbaga aylangan.
+@ WHO. Rabies (fact sheet)
+? JSST quturishni nazorat qilishda qaysi tadbirni eng tejamkor yo'l deb ataydi?
++ Itlarni ommaviy emlash
+- Ko'cha itlarini ommaviy yo'q qilish choralari
+- Yovvoyi hayvonlarni yoppasiga ovlash va yo'q qilish
+- Jabrlanganlarni emlash bilan cheklanish, hayvonlarsiz
+- Chegara punktlarida hayvonlarni karantinga olish
+! Manba bo'lgan itlar orasida virus aylanishini to'xtatish odamlarga yuqishni to'g'ridan-to'g'ri kamaytiradi.
+@ WHO. Rabies (fact sheet)
+#U 113 / 7: kirish joyiga qarab kasallanish ulushi (yuz 90 %, panja 63 %, boshqa 23 %) faqat mavzu materialidagi qo'llanmaga tayanadi.
+#U 113 / 9: jarohatni 3 kun kesmaslik va tikmaslik talabi faqat milliy yo'riqnomaga tayanadi.
+#U 113 / 10: guruhli tishlanish mezoni (3 va undan ortiq kishi) faqat milliy yo'riqnomaga tayanadi.

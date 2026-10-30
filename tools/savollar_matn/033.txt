@@ -1,0 +1,99 @@
+=== 033
+? Dezinseksiya qaysi obyektlarni yo'q qilishga qaratilgan tadbirlar majmuasi?
++ Patogen mikroorganizmlar tashuvchisi bo'lgan qon so'ruvchi bo'g'imoyoqlilar va boshqa hasharotlarni
+- Tashqi muhitdagi vegetativ va sporali shakldagi patogen mikroorganizmlarning o'zini, ya'ni mikrob hujayralarini
+- Zoonoz infeksiyalar rezervuari bo'lgan kemiruvchilarni va ularning ektoparazitlarini
+- Faqat oziq-ovqat mahsulotlarida ko'payadigan zamburug'lar va ularning toksinlarini
+- Oqova suvlardagi gelmint tuxumlari va protozoy kistalarini
+! Hasharotlar va kanalar transmissiv hamda boshqa infeksiyalarni tashiydi, ularni yo'qotish yuqish zanjirini uzadi.
+@ SanQvaN № 0090-25
+? Deratizatsiya qaysi tadbirlar majmuasini bildiradi?
++ Kemiruvchilar va ularning ektoparazitlarini yo'q qilish hamda ular tarqatadigan kasalliklarning oldini olish
+- Qon so'ruvchi hasharotlarni insektitsidlar yordamida yo'qotish va ularning ko'payish joylarini kamaytirish
+- Tashqi muhit obyektlaridagi patogen mikroorganizmlarni kimyoviy eritmalar bilan zararsizlantirish
+- Tibbiy asboblardagi barcha mikroorganizmlarni, jumladan sporalarni ham to'liq yo'qotish
+- Aholini kasal hayvonlar bilan kontaktdan keyin shoshilinch emlash orqali himoyalash
+! Kemiruvchilar o'lat, leptospiroz, salmonellyoz kabi infeksiyalar rezervuari yoki tarqatuvchisi bo'lishi mumkin.
+@ SanQvaN № 0090-25
+? Dezinfeksiyaning biologik usuli asosan qayerda qo'llaniladi?
++ Oqova suvlarni tozalashda
+- Jarrohlik asboblarini qayta ishlashda
+- Bemor xonasining yuzalarini artishda
+- Vaksinalarni tashishda
+- Kiyim-kechakni kamerada ishlashda
+! Biologik usul mikroorganizmlar va ularning mahsulotlaridan foydalanadi, shu sababli oqova suvlarni tozalashda mos keladi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); Mirtazayev O.M. va boshq. Epidemiologiya (darslik), 2016
+? SanQvaN № 0090-25 ga ko'ra inson va atrof-muhit xavfsizligi uchun qaysi xavf sinfidagi dezinfeksiya vositalaridan foydalanish tavsiya etiladi?
++ Kam zaharli, III–IV xavf sinfidagi vositalardan
+- Yuqori zaharli, I xavf sinfidagi vositalardan
+- Juda xavfli, faqat II xavf sinfidagi vositalardan
+- Xavf sinfi hisobga olinmaydi, faqat narxi muhim
+- Faqat I–II xavf sinfidagi vositalardan, chunki ular eng kuchli ta'sir etadi
+! Kam zaharli vositalar xodimlar, aholi va atrof-muhit uchun xavfni kamaytiradi.
+@ SanQvaN № 0090-25
+? Dezinseksiya tadbirlari obyektlarda qachon o'tkazilishi tavsiya etiladi?
++ Ish vaqti tugagandan so'ng yoki dam olish kunlari
+- Ish vaqti davomida, odamlar eng ko'p bo'lgan paytda
+- Tunda, barcha oziq-ovqat mahsulotlari ochiq turgan holatda
+- Bahor oylarida, hasharotlar paydo bo'lishidan oldin
+- Faqat epidemik mavsum davomida va undan keyingi ikki hafta ichida
+! Bunda odamlarning insektitsid bilan keraksiz kontakti bo'lmaydi.
+@ SanQvaN № 0090-25
+? Mavzu materialiga ko'ra, dezinseksiya samarali hisoblanishi uchun bir sutka davomida bitta yopishqoq qog'ozda nechta lichinka, g'umbak yoki qanotli pashsha aniqlanishi kerak?
++ 1 dona
+- 5 dona
+- 10 dona
+- 20 dona
+- Birorta ham aniqlanmasligi shart
+! Mezon yopishqoq qog'ozdagi hasharotlar zichligiga asoslanib, tadbirning natijasini ob'ektiv baholashga imkon beradi.
+@ Mavzu materiali (033.docx)
+? Mavzu materialiga ko'ra, aholi yashamaydigan hududlarda deratizatsiya samarali hisoblanishi uchun kemiruvchilar soni kamida qancha foizga kamayishi kerak?
++ 80 foiz va undan ko'proqqa
+- 30 foiz va undan ko'proqqa
+- 50 foiz va undan ko'proqqa
+- 65 foiz va undan ko'proqqa
+- 100 foizga, ya'ni batamom yo'qolishi shart
+! Bu mezon deratizatsiya natijasini kemiruvchilar faolligining pasayishi bo'yicha baholashga imkon beradi.
+@ Mavzu materiali (033.docx)
+? Rodentitsid xo'raklar SanQvaN № 0090-25 ga ko'ra qanday joylashtiriladi?
++ Odamlar va uy hayvonlari kira olmaydigan joylarda raqamlangan konteynerlarga
+- Zaharli xo'rak oziq-ovqat omborlarining polida, ochiq holda tarqatib qo'yiladi
+- Hovli va ko'chalarda ochiq idishlarda, bolalar o'ynaydigan joylarga ham qo'yiladi
+- Zaharli xo'rak oziq-ovqat mahsulotlari bilan bir javonda, alohida qadoqda saqlanadi
+- Aholi yashaydigan binolarning xonalarida, mebel ostiga ochiq yoyib qo'yiladi
+! Bu talab rodentitsidlarning zaharli ta'siridan odamlar va hayvonlarni himoya qiladi.
+@ SanQvaN № 0090-25
+? Kimyoviy insektitsidlar ta'sir mexanizmiga ko'ra qaysi turlarga bo'linadi?
++ Kontakt, ichak va fumigant
+- Mexanik, fizik va biologik
+- Galogen, kislorod va aldegidli
+- Repellent, atraktant va akaritsid
+- Profilaktik, joriy va yakuniy
+! Insektitsid hasharotga teri orqali, ichak orqali yoki gaz holida nafas yo'llari orqali ta'sir etishiga qarab turlanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Glutaraldegid va formaldegid dezinfeksiyalovchi vositalarning qaysi kimyoviy guruhiga kiradi?
++ Aldegidlar
+- Galogen saqlovchi birikmalar
+- Kislorod saqlovchi birikmalar
+- Chetvertichli ammoniy birikmalari
+- Fenol birikmalari
+! Aldegidlar faol funksional gruppasi bo'yicha alohida guruhga ajratiladi, xlor va yod esa galogenlar guruhidir.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009)
+? Qonunga ko'ra epidemik ko'rsatmalar bo'yicha dezinfeksiyani kim o'tkazadi?
++ Davlat sanitariya nazorati organlari
+- Faqat tuman hokimligi apparati
+- Shartnoma asosida ishlovchi dezinfeksiya stansiyalari
+- Bemorning o'zi yoki uning oila a'zolari
+- Davolash muassasasining bosh hamshirasi o'z qaroriga ko'ra
+! Profilaktik dezinfeksiya esa shartnoma asosidagi dezinfeksiya stansiyalari tomonidan o'tkaziladi.
+@ O'zbekiston Respublikasining "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 34-modda
+? Nima uchun dezinseksiya va deratizatsiyada vositalarni davriy almashtirib turish tavsiya etiladi?
++ Hasharotlar insektitsidlarga, kemiruvchilar esa rodentitsidlarga nisbatan chidamlilik hosil qilishi mumkin
+- Vositalarning yaroqlilik muddati doim bir haftadan oshmaydi va ular o'z-o'zidan buziladi
+- Bir xil vosita ishlatilsa, aholi unga allergiya hosil qilib, tadbirlarni to'xtatishni talab qiladi
+- Vositalar almashtirilmasa, ular xavf sinfi o'zgarib, I sinfga o'tib ketadi
+- Bir xil vositani ishlatish qonun bilan umuman taqiqlangan va jarima solinadi
+! Chidamlilik rivojlanishi samaradorlikni pasaytiradi, shu sababli entomologik va zoologik monitoring olib boriladi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma (2009); SanQvaN № 0090-25
+#U 033 / 6: yopishqoq qog'ozda 1 dona lichinka, g'umbak yoki qanotli pashsha mezoni faqat mavzu materialiga tayanadi.
+#U 033 / 7: aholi yashamaydigan hududlarda kemiruvchilar sonining 80 foiz va undan ko'proqqa kamayishi mezoni faqat mavzu materialiga tayanadi.

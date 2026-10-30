@@ -1,0 +1,97 @@
+=== 016
+? Boshqariladigan (vaksina bilan oldini olinadigan) yuqumli kasalliklar qanday kasalliklar hisoblanadi?
++ Emlash yordamida tarqalishini nazorat qilish, kamaytirish yoki yo'q qilish mumkin bo'lgan kasalliklar
+- Davolash antibiotiklar bilan to'liq amalga oshiriladigan va emlash talab etilmaydigan kasalliklar
+- Faqat bolalar orasida uchraydigan va yoshi o'tgach o'z-o'zidan yo'qoladigan kasalliklar
+- Tabiiy o'choqlarda saqlanib, kemiruvchilar orqali yuqadigan o'ta xavfli kasalliklar
+- Qo'zg'atuvchisi hanuzgacha aniqlanmagan va maxsus profilaktikasi yo'q kasalliklar
+! Bunday kasalliklarga qarshi samarali va xavfsiz vaksina mavjud, shu sababli ularni emlash orqali nazorat qilish mumkin. Boshqa tavsiflar vaksina bilan boshqarilishga mos kelmaydi.
+@ World Health Organization. Immunization, vaccines and biologicals: Expanded Programme on Immunization (EPI); SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? O'zbekiston milliy emlash kalendariga ko'ra, hayotning 1-sutkasida qaysi vaksina beriladi?
++ Virusli gepatit B ga qarshi birinchi doza (VGB-1)
+- Silga qarshi BSJ vaksinasining birinchi dozasi (BSJ-1)
+- Poliomielitga qarshi OPV vaksinasining birinchi dozasi (OPV-1)
+- Pentavalent vaksinaning birinchi dozasi (penta-1)
+- Qizamiq-parotit-qizilchaga qarshi birinchi doza (QPQ-1)
+! Kalendarga muvofiq chaqaloq hayotining birinchi sutkasida VGB-1 oladi. BSJ-1 2–5-kunlarda, OPV-1 va penta-1 esa 2 oylikda beriladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Silga qarshi BSJ-1 vaksinasi kalendar bo'yicha qaysi muddatda yuboriladi?
++ Hayotning 2–5-kunlarida
+- Hayotning 1-sutkasida, tug'ruqxonada
+- 2 oylikda, penta-1 bilan birga
+- 12 oylikda, QPQ-1 bilan birga
+- 6 yoshda, QPQ-2 bilan birga
+! BSJ-1 chaqaloqqa hayotining 2–5-kunlarida beriladi. 1-sutkada VGB-1 yuboriladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Kalendar bo'yicha 2 oylikda qaysi vaksinalar beriladi?
++ OPV-1, Roto-1, penta-1 va pnevmokokk vaksinasi (PNEVMO-1)
+- OPV-2, Roto-2, penta-2, PNEVMO-2 va shuningdek IPV hamda BSJ-1
+- BSJ-1, VGB-1, QPQ-1, OPV-1, Roto-1 va penta-1
+- OPV-1, IPV, AKDS-4, PNEVMO-3 va Roto-2
+- VPCH, ADS-M-5, QPQ-2, OPV-5 va ADS-M-6
+! Birinchi yilning boshida bola OPV-1, Roto-1, penta-1 va PNEVMO-1 oladi. Boshqa to'plamlar boshqa yoshlarga yoki keyingi dozalarga tegishli.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Kalendar bo'yicha 4 oylikda qaysi vaksinalar yuboriladi?
++ OPV-3, penta-3 va IPV
+- OPV-2, penta-2 va Roto-2
+- OPV-4, AKDS-4 va PNEVMO-3
+- OPV-3, penta-3 va QPQ-1
+- OPV-1, penta-1 va IPV
+! 4 oylikda uchinchi dozalar — OPV-3 va penta-3 — IPV bilan birga beriladi. Boshqa to'plamlar boshqa yoshlarga mos keladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Kalendar bo'yicha 12 oylikda qaysi vaksinalar beriladi?
++ QPQ-1 va PNEVMO-3
+- QPQ-2 va ADS-M-5
+- OPV-4 va AKDS-4
+- VPCH va ADS-M-6
+- Penta-3 va IPV
+! 12 oylikda qizamiq-parotit-qizilchaga qarshi birinchi doza va pnevmokokkning uchinchi dozasi beriladi. OPV-4 va AKDS-4 esa 16 oylikda yuboriladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? QPQ-2 vaksinasi qaysi yoshda beriladi?
++ 6 yoshda
+- 12 oylikda
+- 16 oylikda
+- 12–13 yoshda
+- 16 yoshda
+! Qizamiq-parotit-qizilchaga qarshi ikkinchi doza 6 yoshda yuboriladi. Birinchi doza 12 oylikda beriladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Inson papillomavirusiga qarshi vaksina (VPCH) kalendar bo'yicha kimlarga va qaysi yoshda beriladi?
++ 12–13 yoshdagi qizlarga
+- 12–13 yoshdagi barcha o'smirlarga
+- 6 yoshdagi qizlarga
+- 16 yoshdagi o'g'il bolalarga
+- 1-sinfdagi (7 yosh) qizlarga
+! Kalendarda VPCH faqat qizlar uchun 12–13 yoshda ko'rsatilgan. 16 yoshda esa ADS-M-6 beriladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Boshqariladigan infeksiyalardan qaysi biri global eradikatsiya maqsadiga ega?
++ Poliomielit
+- Qizamiq va qizilcha (eliminatsiya maqsadi)
+- Virusli gepatit B va gemofil infeksiya
+- Pnevmokokk va rotavirus infeksiyalari
+- Sil va epidemik parotit
+! Poliomielit global eradikatsiya maqsadi qo'yilgan infeksiya. Qizamiq va qizilcha uchun ma'lum hududda to'xtatish (eliminatsiya), gepatit B va gemofil uchun esa kasallanishni keskin kamaytirish maqsad qilingan.
+@ World Health Organization. Immunization, vaccines and biologicals: Expanded Programme on Immunization (EPI)
+? Kalendar izohiga ko'ra IPV qo'llanilishi bilan tug'ruqxonalarda qaysi vaksina ishlatilmaydi?
++ OPV-0 vaksinasi
+- BSJ vaksinasi
+- VGB vaksinasi
+- Rotavirus vaksinasi
+- Pentavalent vaksina
+! IPV joriy etilgach, tug'ruqxonada poliomielitga qarshi OPV-0 berilmaydi. BSJ va VGB esa chaqaloqlarga tug'ruqxonada va birinchi kunlarda yuboriladi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Maqsadlarga erishish uchun bolalar va o'smirlarni emlash kalendariga muvofiq kamida qancha foiz qamrab olish talab qilinadi?
++ Kamida 95 foiz
+- Kamida 50 foiz
+- Kamida 70 foiz
+- Kamida 80 foiz
+- Kamida 100 foiz
+! Immunoprofilaktika qoidalarida belgilangan maqsadlarga erishish uchun kamida 95 foiz qamrov talab etiladi. Past qamrov kasalliklarning qaytadan avj olishiga olib keladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Tug'ruqxonada chaqaloqqa beriladigan, o'tkazilgan va navbatdagi emlashlar ko'rsatilgan hujjat qanday ataladi?
++ Emlash pasporti
+- Bolaning ambulator kartasi
+- Tug'ruq tarixi (kasallik varaqasi)
+- Chaqaloq rivojlanishini kuzatish daftari
+- Ota-onaning tibbiy sug'urta polisi
+! Immunoprofilaktika qoidalariga ko'ra tug'ruqxonada chaqaloqqa o'tkazilgan va navbatdagi emlashlar yozilgan emlash pasporti beriladi. Boshqa hujjatlar emlash tarixini yuritish uchun mo'ljallanmagan.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"

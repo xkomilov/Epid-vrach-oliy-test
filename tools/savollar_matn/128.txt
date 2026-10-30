@@ -1,0 +1,98 @@
+=== 128
+? Markaziy Osiyoda, shu jumladan O'zbekistonda, odamlarda brutsellyozning 90% dan ortig'ini qaysi tur keltirib chiqaradi?
++ Brucella melitensis (qo'y-echki brutsellyozi qo'zg'atuvchisi)
+- Brucella abortus (qoramol brutsellyozi qo'zg'atuvchisi, Bang tayoqchasi)
+- Brucella suis (cho'chqa brutsellyozi qo'zg'atuvchisi)
+- Brucella ovis (qo'chqorlar epididimiti qo'zg'atuvchisi)
+- Brucella canis (itlar brutsellyozi qo'zg'atuvchisi)
+! Bu tur eng yuqumli bo'lib, mayda shoxli mollar bilan bog'liq.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova; WHO. Brucellosis (fact sheet)
+? Brucella melitensis kasallik chaqirishi uchun nechta mikrob yetarli?
++ 1–10 ta
+- 1000 ta
+- 100 000 ta
+- 1 000 000 ta
+- 10 000 000 ta
+! Bu tur boshqa turlarga nisbatan ancha kam doza bilan zararlaydi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Brutsellalar brinzada qancha vaqt saqlanadi?
++ 45 kungacha
+- 10 kungacha
+- 100 kungacha
+- 114 kungacha
+- 3 oygacha
+! Boshqa muhitlarda saqlanish muddati farq qiladi, shu sababli sut mahsulotlari uzoq muddat xavfli.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Suyuq muhitda +60 °C haroratda brutsellalar qancha vaqtda o'ladi?
++ 30 daqiqada
+- 5 daqiqada
+- 2 soatda
+- 24 soatda
+- 1 soniyada
+! Harorat oshgan sari nobud bo'lish tezlashadi va qaynatilganda bir zumda sodir bo'ladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Kasal hayvon qancha vaqt tashuvchi bo'lib qolishi mumkin?
++ 5 yil va undan uzoq
+- 3–4 oy, so'ngra o'z-o'zidan tozalanadi
+- 2 hafta, antibiotik qabul qilinmasa ham
+- 1 yilgacha, so'ngra to'liq immunitet hosil bo'ladi
+- 6 oygacha, faqat qish mavsumida
+! Hayvonlar bola tashlash, tug'ish va sut orqali qo'zg'atuvchini uzoq ajratadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Hayvonlarda brutsellyozning asosiy belgisi qaysi?
++ Abort (bola tashlash)
+- Og'ir diareya va suvsizlanish
+- Falaj va mushaklar atrofiyasi
+- Tananing qoplamidagi toshmalar
+- O'tkir pnevmoniya va nafas yetishmovchiligi
+! Bola tashlash paytida ko'p miqdorda qo'zg'atuvchi tashqi muhitga tushadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? JSST bo'yicha brutsellyozning inkubatsion davri odatda qancha davom etadi?
++ 2–4 hafta
+- 1–3 kun
+- 3–4 oy va undan ko'proq
+- 6–12 oy
+- 5–7 soat
+! Davr juda o'zgaruvchan, ba'zan bir haftadan ikki oygacha cho'ziladi.
+@ WHO. Brucellosis (fact sheet)
+? O'choqlarda aholini epidemiologik tekshirishda serologik usullardan qaysilar tavsiya etiladi?
++ Xeddelson (buyum oynasida), Rayt agglyutinatsiyasi va IFT
+- Mantu sinamasi, Vidal reaksiyasi va Shik sinamasi
+- Pirke sinamasi, Sabin-Feldman sinamasi va Paul-Bunnel reaksiyasi
+- Vassermann reaksiyasi, Kumbs sinamasi va Kasoni sinamasi
+- Vidal reaksiyasi, Bürne sinamasi va Shik reaksiyasi
+! Ular qon zardobida maxsus antitanalarni aniqlashga asoslangan.
+@ O'zR SSV 2015-yil buyrug'iga 12-ilova (brutsellyozning laboratoriya tashxisi bo'yicha uslubiy ko'rsatma)
+? Brutsellalar qon, suyak ko'migi va siydikdan ekilganda birlamchi ajratishda madaniyat odatda qancha vaqtdan keyin ajraladi?
++ 5–10 kundan keyin
+- 12–24 soatdan keyin
+- 2–3 kundan keyin
+- 40–60 kundan keyin
+- 3–4 oydan keyin
+! Brutsellalar oziq muhitlarida juda sekin o'sadi, shu sababli kuzatuv uzoq davom ettiriladi.
+@ O'zR SSV 2015-yil buyrug'iga 12-ilova (brutsellyozning laboratoriya tashxisi bo'yicha uslubiy ko'rsatma)
+? Chorvachilik xodimlari va xom ashyoni qayta ishlovchilar majburiy dispanser ko'rikdan qancha davriylikda o'tadi?
++ Yiliga kamida 1 marta
+- Ikki yilda bir marta
+- Uch yilda bir marta
+- Har besh yilda bir marta
+- Faqat ishga qabul qilinganda bir marta
+! Terapevt serologik tekshiruvni o'tkazadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? Shoshilinch xabarnoma yoki veterinariya xizmatidan ma'lumot olingach, o'choqda tekshiruv qancha vaqt ichida boshlanadi?
++ Bir sutka ichida
+- Uch kun ichida
+- Yetti kun ichida
+- Ikki soat ichida
+- O'n kun ichida
+! Tezkor tekshiruv manba va yuqish omillarini o'z vaqtida aniqlash imkonini beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 3-ilova
+? JSST endemik joylarda qaysi hayvonlarni emlashni tavsiya etadi?
++ Qoramol, echki va qo'yni
+- Cho'chqa va itlarni, qoramolni esa emlamaslik tavsiya etiladi
+- Faqat otlar va tuyalarni
+- Parrandalar va quyonlarni, yirik shoxli mollar bundan mustasno
+- Ko'chmanchi chorva hayvonlari bundan mustasno barcha mollarni
+! Eng samarali strategiya hayvonlarda infeksiyani yo'qotishdir.
+@ WHO. Brucellosis (fact sheet)
+#D 128 / 12: qo'llanmada emlangan hayvonlarda ham gumoral immunitet buzilishi mumkinligi ko'rsatilgan, JSST esa endemik hududlarda emlashni tavsiya etadi; farq tasdiqlanmagan.

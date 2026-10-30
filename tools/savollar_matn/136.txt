@@ -1,0 +1,98 @@
+=== 136
+? JSST bo'yicha odamlarda quturishning oldini olishning eng tejamkor strategiyasi qaysi?
++ Kuchukchalarni ham qamrab olgan itlarni ommaviy emlash
+- Erkin yuruvchi itlarni ommaviy yo'q qilish dasturlari
+- Aholining hammasini quturishga qarshi ekspozitsiyadan oldin ommaviy emlash
+- Faqat tishlangan shaxslarga immunoglobulin va vaksina yuborish, itlarni emlamasdan
+- Aholi punktlarida it va mushuklarni saqlashni butunlay taqiqlash
+! Zararlanish manbaning o'zida, ya'ni itlar orasida to'xtatilganda odamlardagi holatlar ham kamayadi.
+@ WHO. Rabies (fact sheet)
+? JSSTning «Zero by 30» strategiyasi qaysi yilgacha inson quturishidan o'limni to'xtatishni ko'zda tutadi?
++ 2030-yilgacha
+- 2025-yilgacha
+- 2035-yilgacha
+- 2040-yilgacha
+- 2050-yilgacha
+! Strategiya nomidagi raqam maqsadli muddatni bildiradi.
+@ WHO. Rabies (fact sheet)
+? Quturishning epizootik jarayonida qanday davriylik kuzatiladi?
++ 2–3 yillik
+- 5–6 yillik
+- 1 yillik
+- 10 yillik
+- 7–8 yillik, har bir davr qishda avj oladi
+! Davriylik yovvoyi hayvonlar orasidagi vaziyatni muntazam kuzatish zaruratini belgilaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Qarovsiz hayvonlarni tutish bo'limlari faoliyati qaysi hujjat asosida tashkil etilgan?
++ Vazirlar Mahkamasining 2011-yil 8-iyuldagi 202-son qarori
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i
+- Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+- Sog'liqni saqlash vazirining 2016-yil 16-maydagi 226-son buyrug'i
+- SanQvaM № 0239-07/3 sanitariya qoidalari
+! Qaror shahar va tuman obodonlashtirish boshqarmalari huzurida bunday bo'limlarning ishlashini belgilaydi.
+@ O'zR Vazirlar Mahkamasining 2011-yil 8-iyuldagi 202-son qarori
+? Quturishga gumon qilingan hayvon odamni tishlaganda, u necha kun kuzatiladi?
++ 10 kun
+- 3 kun
+- 7 kun
+- 14 kun
+- 30 kun
+! Kuzatuv davrida hayvonda quturish belgilari paydo bo'lmasa, tishlash vaqtida virus ajratmagan deb baholanadi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? O'zbekistonda odamlardagi quturish holatlarining taxminan qancha qismi antropurgik (shahar) o'choqlarda qayd etilgan?
++ Taxminan 70%
+- Taxminan 30%
+- Taxminan 50%
+- Taxminan 90%
+- Taxminan 10%
+! Antropurgik o'choqda manba itlar bo'lgani uchun asosiy e'tibor ular orasidagi epizootik jarayonni to'xtatishga qaratiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Kalendarga ko'ra quyidagi guruhlardan qaysi biri quturishga qarshi ekspozitsiyadan oldin emlanadi?
++ Qarovsiz hayvonlarni tutish bo'limlari xodimlari
+- Umumta'lim maktablarining yuqori sinf o'quvchilari
+- Umumiy ovqatlanish korxonalarining oshpazlari va yordamchi xodimlari
+- Qurilish tashkilotlarining ishchilari
+- Shahar jamoat transporti haydovchilari
+! Hayvonlar bilan bevosita aloqada bo'ladigan kasb egalarida zararlanish xavfi yuqori bo'lgani uchun ularga oldindan emlash tayinlanadi.
+@ O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi (SanQvaM № 0239-07/3)
+? Tishlangan, tirnalgan yoki so'laklangan fuqaroga antirabik yordam qanday ko'rsatiladi?
++ Bepul
+- Majburiy tibbiy sug'urta polisi mavjud bo'lganda
+- To'liq pullik asosda, davlat kafolatisiz
+- Xavf guruhidagi kasb egalariga bepul, boshqalarga 50% to'lov bilan
+- Faqat bolalarga bepul, kattalarga to'lov evaziga
+! Yordamning shoshilinch xususiyati va quturishning o'lim bilan tugashi uni to'lovga bog'lamaslikni taqozo etadi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Travmatologiya va xirurgiya bo'limlarida vrach-rabiolog vazifasi kimga yuklatiladi?
++ Bosh jarroh yoki bosh travmatologga
+- Terapiya bo'limi mudiriga yoki bosh hamshiraga
+- Poliklinikadagi infeksionist-shifokorga
+- Sanitariya-epidemiologiya markazining bosh epidemiologiga
+- Hududiy veterinariya bo'limi shifokoriga
+! Tishlanganlarga birinchi navbatda shu bo'limlar yordam ko'rsatgani uchun mas'ul shifokor ham ularning rahbarlaridan tayinlanadi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Hududlarda zoonoz kasalliklar bo'yicha o'quv mashg'ulotlari yilning qaysi choragida o'tkaziladi?
++ I choragida
+- II choragida
+- III choragida
+- IV choragida
+- Har chorakda
+! Mashg'ulotlar mavsumiy faollikdan oldin tibbiyot xodimlarini tayyorlash uchun yil boshida o'tkaziladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? JSST bo'yicha ekspozitsiyadan keyingi profilaktika (PEP) qaysi jarayonni to'xtatadi?
++ Virusning markaziy asab tizimiga kirishini
+- Virusning jarohat joyida ko'payishini va qon orqali tarqalishini
+- Virusning so'lak bezlarida to'planishini
+- Virusning bemordan boshqa odamga yuqishini
+- Hayvonning virusni tashishini
+! Klinik belgilar boshlangach davolash imkonsiz bo'lgani sababli PEP virus asab tizimiga yetib bormasidan berilishi kerak.
+@ WHO. Rabies (fact sheet)
+? Quturishga qarshi chora-tadbirlar rejasida samaradorlikni baholash ko'rsatkichlariga qaysi biri kiradi?
++ Antirabik kursni tugatganlar ulushi
+- Ichimlik suvi sifati ko'rsatkichlari
+- Qorin tifi bilan kasallanish darajasi
+- Maktab o'quvchilarining emlash qamrovi
+- Aholining o'rtacha umr ko'rish davomiyligi
+! Kursni tugatish ulushi emlash tizimi to'liq ishlayotganini ko'rsatadi, tishlanish soni va tekshirilgan hayvonlar soni bilan birga baholanadi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+#D 136 / 1: milliy hujjatlarda qarovsiz hayvonlarni otish ham ko'zda tutilgan, JSST erkin yuruvchi itlarni yo'q qilishni samarasiz deb biladi; mavzu materialida bu farq tasdiqlanmagan.

@@ -1,0 +1,98 @@
+=== 132
+? Sariq isitma qo'zg'atuvchisi qaysi virus oilasiga mansub?
++ Flaviviridae
+- Bunyaviridae oilasiga, ya'ni Qrim-Kongo gemorragik isitmasi qo'zg'atuvchisi bilan bir oilaga
+- Filoviridae
+- Togaviridae
+- Arenaviridae
+! Virus Yapon ensefaliti va Denge isitmasi viruslari bilan antigen yaqinligiga ega, bu uning flavivirus ekanini ko'rsatadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Lotin Amerikasidagi «jungli» sariq isitmaning tashuvchisi bo'lgan chivinlar qaysi avlodga mansub?
++ Haemagogus
+- Anopheles
+- Culex
+- Phlebotomus
+- Mansonia
+! Amerikada virusni asosan o'rmon chivinlari tarqatadi, Anopheles esa bezgak tashuvchisi hisoblanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010; WHO. Yellow fever (fact sheet)
+? Chivin viruslangan qonni emgach, +31 °C haroratda necha kundan keyin yuqumli bo'ladi?
++ 6 kundan
+- 11 kundan
+- 4–5 kundan
+- 15 kundan
+- 2 kundan
+! Harorat qancha yuqori bo'lsa, virus chivin organizmida shuncha tez ko'payadi, shuning uchun muddat issiqda qisqaradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Sariq isitmaning inkubatsiya davri odatda qancha davom etadi?
++ 3–6 kun
+- 14–21 kun
+- 1–2 kun
+- 21–30 kun
+- 11–14 kun, ba'zan 30 kungacha cho'ziladi
+! Inkubatsiya nisbatan qisqa bo'lib, shu sababli safardan qaytganlar kuzatuvi qisqa muddatga belgilanadi.
+@ WHO. Yellow fever (fact sheet); Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? JSST ma'lumotiga ko'ra sariq isitma bilan infeksiyalanganlarning qancha qismi og'ir shaklga o'tadi?
++ Taxminan 15%
+- Taxminan 50%
+- Taxminan 5%
+- Taxminan 90%
+- Taxminan 30%
+! Ko'pchilik infeksiyalanganlarda kasallik yengil kechadi, zaharlanish (toksik) bosqichiga faqat bir qismi o'tadi.
+@ WHO. Yellow fever (fact sheet)
+? Sariq isitmaga qarshi emlashda qanday vaksina ishlatiladi?
++ Susaytirilgan tirik 17D shtammi asosidagi vaksina
+- Formalin bilan inaktivlangan butun virionli vaksina, uch dozada yuboriladigan
+- Rekombinant sirt oqsili asosidagi subbirlik vaksina
+- Konyugatsiyalangan polisaxarid vaksina
+- Anatoksin asosidagi vaksina
+! 17D shtammi susaytirilgan bo'lib, bir doza bilan barqaror immunitet hosil qiladi.
+@ WHO. Yellow fever (fact sheet)
+? JSST ma'lumotiga ko'ra sariq isitmaga qarshi vaksinaning bir dozasi qancha muddat himoya beradi?
++ Umr bo'yi, revaksinatsiyasiz
+- 10 yil, shundan keyin takroriy emlash talab etiladi
+- 5 yil, keyin ikkinchi doza majburiy ravishda yuboriladi
+- 1 yil, har yili takroriy emlash o'tkaziladi
+- 3 yil, so'ng titr tekshiruvi asosida
+! Bir doza uzoq muddatli immunitet beradi, shu sababli xalqaro amaliyotda takroriy dozalar talab qilinmaydi.
+@ WHO. Yellow fever (fact sheet)
+? Quyidagi holatlardan qaysi biri sariq isitma vaksinasiga qarshi ko'rsatma hisoblanadi?
++ Og'ir tuxum allergiyasi
+- Penitsillinga allergiya
+- Surunkali gastrit
+- Qandli diabetning kompensatsiya bosqichi
+- Yengil allergik rinit
+! Vaksina tuxum embrionlarida tayyorlanadi, shu sababli og'ir allergiya mavjud bo'lsa yuborilmaydi.
+@ WHO. Yellow fever (fact sheet)
+? Sariq isitma tashuvchisi bo'lgan chivinlar odamga asosan qachon hujum qiladi?
++ Kunduzi
+- Tunda, qorong'i tushgandan keyin
+- Tong otishidan oldingi soatlarda
+- Kechqurun, quyosh botishi bilan bir vaqtda
+- Bulutli va yomg'irli kunlarda
+! Shu sababli tungi himoya vositalari, masalan, to'r ostida uxlash, bunday kasallikdan yetarli himoya bermaydi.
+@ WHO. Yellow fever (fact sheet); Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Xalqaro ahamiyatga ega favqulodda vaziyat bo'lishi ehtimoli bor holat baholanganidan keyin JSSTga qancha vaqt ichida xabar qilinadi?
++ 24 soat ichida
+- 12 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+! Xalqaro tibbiy-sanitariya qoidalari xavfni tezkor baholash va xabar berishni talab qiladi.
+@ WHO. International Health Regulations (2005), Article 6
+? JSST bo'yicha sariq isitmani kasallikning erta bosqichida tashxislash uchun qaysi usul qo'llanadi?
++ Qonni RT-PCR bilan tekshirish
+- Vidal reaksiyasi
+- Najasni bakteriologik ekish
+- Qalin tomchi usulida qon surtmasini mikroskopiya qilish
+- Siydik cho'kmasini mikroskopiya qilish va jigar biopsiyasi
+! Dastlabki kunlarda antitelalar hali hosil bo'lmaydi, shuning uchun virus RNKsi aniqlanadi.
+@ WHO. Yellow fever (fact sheet)
+? Sariq isitmaning «shahar» (antroponoz) shaklida infeksiya manbai kim?
++ Viremiya davridagi bemor odam
+- Maymunlar va chumolixo'rlar
+- Kemiruvchilar va yovvoyi qushlar
+- Uy hayvonlari — it va mushuklar
+- Tuyalar va yirik shoxli mollar
+! Antroponoz shaklda virus odamdan chivin orqali yana odamga o'tadi, maymunlar esa o'rmon (jungli) shaklining rezervuari hisoblanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+#D 132 / 7: JSST bo'yicha bir doza umr bo'yi himoya beradi, milliy epidemik ko'rsatma jadvalida esa emlash 10 yilda bir marta ko'rsatilgan; mavzu materialida bu farq qayd etilgan.

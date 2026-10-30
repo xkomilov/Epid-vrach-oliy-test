@@ -1,0 +1,99 @@
+=== 047
+? Virusli gepatit A qo'zg'atuvchisi va uning kechish xususiyati qaysi javobda to'g'ri ko'rsatilgan?
++ RNK saqlovchi gepatit A virusi; odatda o'z-o'zidan cheklanadi, surunkali shaklga o'tmaydi va surunkali tashuvchilik hosil bo'lmaydi
+- DNK saqlovchi virus; ko'p hollarda surunkali gepatitga o'tadi va uzoq muddatli tashuvchilik hosil qiladi
+- RNK saqlovchi virus; jigar sirrozi va hepatotsellyulyar karsinomaga olib keluvchi doimiy tashuvchilik hosil qiladi hamda qon orqali yuqadi
+- DNK saqlovchi virus; faqat qon orqali yuqadi va ichak infeksiyalari guruhiga kirmaydi
+- Bakteriya; antibiotiklar bilan davolanmasa surunkali tashuvchilik beradi
+! Gepatit A fekal-oral yo'l bilan yuqadigan ichak infeksiyasi bo'lib, surunkali shakl berishi bilan gepatit B va C dan farq qiladi.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Virusli gepatit A bemori qachon eng yuqori darajada yuqtiruvchi hisoblanadi?
++ Sariqlik paydo bo'lgunga qadar, hali belgisiz davrda
+- Sariqlik eng yuqori darajada ifodalangan davrning o'zida, 3–4-haftada
+- Klinik sog'ayishdan keyin, bir yil o'tgach
+- Jigar fermentlari me'yorga qaytgan davrda
+- Qusish va ich ketish to'xtagan kunlarda
+! Belgisiz davrda bemor o'z holatini bilmaydi va infeksiyani tarqatadi, bu nazoratni qiyinlashtiradi.
+@ Mavzu materiali (047.docx); World Health Organization. Hepatitis A (fact sheet)
+? JSST ma'lumotiga ko'ra virusli gepatit A ning odatdagi inkubatsion davri qancha?
++ 14–28 kun
+- 1–3 kun
+- 6–30 kun
+- 2–6 oy
+- 3 soatdan 12 soatgacha
+! Inkubatsion davr nisbatan uzun bo'lgani uchun o'choqda muloqotdagilarni kuzatish muddati ham uzoq.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Anti-HAV IgG aniqlanishi nimani ko'rsatadi?
++ O'tkazilgan infeksiya yoki emlash natijasidagi umrbod saqlanuvchi immunitetni
+- Hozirgi o'tkir infeksiyani va bemorning hozir yuqtiruvchan ekanini
+- Surunkali gepatit B bilan birga kechayotgan koinfeksiyani va jigar to'qimasidagi faol yallig'lanishni
+- Jigar sirrozi rivojlanishi xavfini
+- Virusning replikatsiyasi faol ekanini
+! IgG qayta kasallanishdan himoya qiladi, o'tkir infeksiyani esa IgM belgilaydi.
+@ Mavzu materiali (047.docx); World Health Organization. Hepatitis A (fact sheet)
+? Virusli gepatit A ning o'tkir infeksiyasini tasdiqlovchi serologik marker qaysi?
++ Anti-HAV IgM
+- Anti-HAV IgG
+- HBsAg
+- Anti-HCV
+- Anti-HBc IgG
+! IgM antitelolar infeksiya boshlanishida paydo bo'ladi, boshqa markerlar boshqa gepatitlarga tegishli.
+@ Mavzu materiali (047.docx); World Health Organization. Hepatitis A (fact sheet)
+? Past va o'rta daromadli mamlakatlarda 6 yoshgacha bolalarning necha foizida sariqlik rivojlanadi?
++ Taxminan 10 foizida
+- Taxminan 50 foizida
+- Taxminan 90 foizida
+- Deyarli barchasida
+- Taxminan 30 foizida
+! Bolalar ko'pincha yengil yoki belgisiz kasallanadi, kattalarda esa belgilar tez-tez va og'irroq namoyon bo'ladi.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Virusli gepatit A o'chog'ida kontaktda bo'lganlarga ko'rsatma bo'yicha qanday shoshilinch profilaktika qo'llanilishi mumkin?
++ Gepatit A vaksinasi yoki immunoglobulin
+- Faqat bakteriofag, ich terlamadagi kabi
+- Gepatit B ga qarshi vaksina, uni uch marta berib
+- Profilaktik antibiotiklar kursi, oltin standart sifatida
+- Rotavirusga qarshi og'iz orqali beriladigan vaksina
+! Bu choralar kontaktda bo'lganlarda kasallik rivojlanishining oldini olish uchun qo'llaniladi.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Mavzu materialida virusli gepatit A o'chog'ida muloqotda bo'lganlar qancha muddat kuzatuvga olinadi?
++ Maksimal inkubatsion davr, ya'ni 50 kungacha
+- Bir hafta, ya'ni 7 kun
+- Maksimal inkubatsion davr, ya'ni 21 kungacha
+- Bir yil davomida, har oy qon tekshiruvi bilan, bunda inkubatsion davr hisobga olinmaydi
+- Faqat bemor kasalxonada yotgan kunlar mobaynida
+! O'choq davomiyligi ham maksimal inkubatsion davrga asoslanadi, shu sababli kuzatuv muddati uzoq bo'ladi.
+@ Mavzu materiali (047.docx)
+? 1988-yilda Shanxayda ifloslangan oziq-ovqat bilan bog'liq gepatit A epidemiyasida taxminan necha kishi kasallangan?
++ Taxminan 300 ming kishi
+- Taxminan 3 ming kishi
+- Taxminan 30 ming kishi
+- Taxminan 3 million kishi
+- Taxminan 30 million kishi
+! Bu portlashsimon epidemiya ifloslangan oziq-ovqat orqali yuqishning keng ko'lamli oqibatlariga misol bo'ladi.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Nima uchun HAV dezinfeksiya va tashqi muhit ta'siriga chidamliligi profilaktikada muhim ahamiyatga ega?
++ Virus suvda va oziq-ovqat ishlab chiqarishdagi odatiy usullarga chidab, keng tarqalishi mumkin
+- Virus tashqi muhitda bir necha daqiqada nobud bo'ladi, shu sababli suv xlorlanmaydi va kanalizatsiya nazorati talab qilinmaydi
+- Virus faqat jonli organizmda yashaydi va muhitda saqlanmaydi
+- Virus faqat qon orqali yuqadi, shu sababli oziq-ovqat nazorati kerak emas
+- Virus muzlatilganda faollashadi, shuning uchun sovutish tavsiya etilmaydi
+! Shu bois suvni sifatli zararsizlantirish, kanalizatsiyani tartibga solish va oziq-ovqat xavfsizligi hal qiluvchi bo'ladi.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Sanitariya sharoiti yaxshilangan, bolalikdagi tabiiy zararlanish kamaygan hududlarda gepatit A qanday o'zgaradi?
++ Kasallanish kattaroq yoshga siljiydi va og'irroq kechishi mumkin
+- Kasallanish faqat chaqaloqlarga xos bo'lib qoladi va tez yengillashadi
+- Kasallik butunlay yo'qoladi, kattalar ham himoyalanadi
+- Kasallik surunkali shaklga o'tib, tashuvchilik hosil qiladi
+- Mavsumiylik yo'qolib, faqat qishda uchraydi
+! Bolalikda yengil o'tkazib, immunitet hosil qilish kamaygani sababli moyil kattalar ko'proq kasallanadi.
+@ World Health Organization. Hepatitis A (fact sheet)
+? Gepatit A ning oziq-ovqat yo'li bilan yuqishida ayniqsa qaysi mahsulotlar xavfli?
++ Yuvilmagan meva-sabzavotlar va dengiz mahsulotlari
+- Yaxshi pishirilgan va qizdirib iste'mol qilinadigan taomlar
+- Qaynatilgan va sovutilgan ichimlik suvi
+- Konservalangan va yuqori haroratda sterillangan mahsulotlar
+- Qaynoq holda tayyorlangan non mahsulotlari
+! Bunday mahsulotlar HAV bilan ifloslangan suv yoki qo'l orqali zararlanadi va termik ishlovsiz iste'mol qilinadi.
+@ Mavzu materiali (047.docx)
+#D 047 / 8: mavzu materialida maksimal inkubatsion davr 50 kungacha deyilgan, JSST ma'lumotnomasida esa odatdagi davr 14–28 kun (material ichida ham 14–28 va 15–50 ikkalasi keltirilgan).
+#U 047 / 8: kontaktlarni 50 kungacha kuzatish muddati faqat mavzu materialiga tayangan.

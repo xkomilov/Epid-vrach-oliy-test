@@ -1,0 +1,98 @@
+=== 043
+? Yuqumli ichak kasalliklari qaysi yuqish mexanizmi orqali tarqaladi?
++ Fekal-oral mexanizm orqali
+- Havo-tomchi mexanizm orqali
+- Transmissiv mexanizm orqali, tashuvchi hasharotlar chaqishi bilan
+- Kontakt-qon mexanizmi orqali, parenteral aralashuvlar vaqtida
+- Vertikal mexanizm orqali, onadan homilaga platsenta orqali
+! Qo'zg'atuvchi najas bilan tashqi muhitga chiqib, og'iz orqali yangi organizmga kiradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Diarrhoeal disease (fact sheet)
+? Ich terlamada surunkali tashuvchilik nima uchun alohida epidemiologik ahamiyatga ega?
++ Tashuvchilar klinik belgisiz qo'zg'atuvchi ajratib, infeksiyani tarqatadi va manbani nazorat qilishni qiyinlashtiradi
+- Tashuvchilar ichak infeksiyasining o'tkir davrida yuqori isitmalab, qusib turgani uchun har doim tezda aniqlanadi va izolyatsiya qilinadi
+- Tashuvchilar qo'zg'atuvchini faqat havo-tomchi yo'li bilan tarqatadi
+- Tashuvchilar uzoq kuzatuvga muhtoj emas, chunki ularning qo'zg'atuvchisi tez nobud bo'ladi
+- Tashuvchilar faqat hayvonlar orasida uchraydi va odamlarga yuqmaydi
+! Klinik belgisiz tashuvchi o'z holatini bilmasdan infeksiyani tarqatadi, shu bois dekretlangan ishlarda aniqlanganda ishdan chetlatiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Suv yo'li bilan yuqish qaysi infeksiyalar uchun ayniqsa xos?
++ Ich terlama va vabo
+- Salmonellyoz va rotavirus infeksiyasi
+- Dizenteriya va esherixioz
+- Qoqshol va quturish
+- Qizamiq va ko'kyo'tal
+! Ifloslangan ichimlik suvi ich terlama va vabo epidemiyalarining klassik omilidir.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Diarrhoeal disease (fact sheet)
+? Maishiy-kontakt yo'li (iflos qo'llar, idish, buyumlar) qaysi kasallik uchun ayniqsa xos?
++ Dizenteriya (shigellyoz)
+- Vabo
+- Ich terlama
+- Salmonellyoz (tuxum va parranda go'shti orqali)
+- Virusli gepatit B
+! Dizenteriyada yuqtiruvchi doza past bo'lgani uchun iflos qo'llar va buyumlar orqali oson yuqadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Pashsha ichak infeksiyalari epidemiologiyasida qanday rol o'ynaydi?
++ Mexanik tashuvchi sifatida qo'zg'atuvchini najasdan oziq-ovqatga o'tkazadi
+- Qo'zg'atuvchi pashsha tanasida biologik ko'payadi va chaqish orqali yuqtiradi
+- Qo'zg'atuvchining asosiy rezervuari hisoblanib, uni tabiatda yillab saqlaydi
+- Qo'zg'atuvchini yo'q qiladi, shu sababli pashsha ko'p joylarda kasallanish kamayadi
+- Qo'zg'atuvchi virulentligini oshiruvchi biologik omil bo'lib xizmat qiladi
+! Pashsha tanasida qo'zg'atuvchi ko'paymaydi, u faqat oyoqlari va tanasi orqali ifloslangan materialni ko'chiradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Suv yo'li epidemiyasi maishiy-kontakt yo'lidan qaysi belgisi bilan farq qiladi?
++ Ko'p sonli holatlar bir vaqtda paydo bo'ladi
+- Holatlar asta-sekin, faqat oilalar ichida tarqaladi
+- Kasallanish faqat qishda qayd etiladi
+- Faqat kattalar kasallanadi, bolalar orasida holat bo'lmaydi
+- Kasallik faqat ma'lum bir kasb egalarida uchraydi
+! Umumiy manbadan bir vaqtda zararlanish portlashsimon kasallanishni beradi, kontakt yo'lida esa tarqalish sekin kechadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Issiq iqlimda ichak infeksiyalarining yozgi-kuzgi mavsumiyligi nima bilan bog'liq?
++ Qo'zg'atuvchining tashqi muhitda yaxshi saqlanishi va pashsha faolligining ortishi bilan
+- Aholining havo-tomchi yo'li bilan zichroq muloqotga kirishishi bilan
+- Qo'zg'atuvchining past haroratda tezroq ko'payishi va kuchli virulentlik kasb etishi bilan
+- Hasharotlar chaqishining yoz oylarida kamayishi va aholining tabiatga chiqishi bilan
+- Kanalarning bahor-yoz oylarida faollashishi va hayvonlarni zararlashi bilan
+! Yuqori harorat qo'zg'atuvchining oziq-ovqat va suvda saqlanishi hamda pashshalar faolligi uchun qulay sharoit yaratadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Diarrhoeal disease (fact sheet)
+? Ichak infeksiyalari bo'yicha dekretlangan kontingentga kimlar kiradi?
++ Oziq-ovqat, suv ta'minoti va bolalar muassasalari xodimlari
+- Faqat jarrohlik bo'limlarida ishlovchi shifokorlar
+- Pensionerlar va nogironligi bo'lgan shaxslarning hammasi
+- Chet elga chiqayotgan turistlar va ularning oila a'zolari
+- Sport klublarida shug'ullanuvchi bolalar va o'smirlar, shuningdek ularning murabbiylari
+! Bu xodimlarning kasallanishi yoki tashuvchiligi ko'p sonli odamlarga oziq-ovqat yoki suv orqali yuqish xavfini tug'diradi, shu sababli ular muntazam tekshiriladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Zamonaviy epidemik nazoratda molekulyar usullar (PZR, sekvenlash) nima uchun qo'llaniladi?
++ Shtammlarni taqqoslab, infeksiya uzatilish zanjirini tiklash uchun
+- Bemorlarni davolash sxemasini tanlash uchun
+- Aholini emlash jadvalini belgilash uchun
+- Suvni xlor bilan zararsizlantirish dozasini hisoblash uchun
+- Dekretlangan kontingentni ishdan chetlatish muddatini belgilash uchun
+! Shtammlarning genetik o'xshashligi holatlar va o'choqlar o'rtasidagi bog'liqlikni ko'rsatadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Diarrhoeal disease (fact sheet)
+? Qaysi uchta ichak infeksiyasiga qarshi maxsus vaksinalar mavjud?
++ Vabo, virusli gepatit A va rotavirus infeksiyasi
+- Dizenteriya, salmonellyoz va esherixioz (ularga qarshi keng qo'llaniladigan vaksinalar mavjud)
+- Paratif A, paratif B va dizenteriya
+- Salmonellyoz, esherixioz va yersinioz
+- Kampilobakterioz, shigellyoz va botulizm
+! Boshqa ko'pchilik ichak infeksiyalarida maxsus profilaktika yetakchi emas, sanitariya choralari ustuvor qoladi.
+@ World Health Organization. Diarrhoeal disease (fact sheet); Cholera vaccines: WHO position paper, 2017
+? Milliy yo'riqnomaga ko'ra shigellyozda mavsumiy ko'tarilish qaysi oylarga to'g'ri keladi?
++ May–iyun oylariga
+- Yanvar–fevral oylariga
+- Mart–aprel oylariga
+- Oktyabr–noyabr oylariga
+- Noyabr–dekabr oylariga
+! Yo'riqnomada qayd etilishicha, kasallik yil davomida uchraydi, pasayish esa oktyabr–noyabrga to'g'ri keladi.
+@ Mavzu materiali (043.docx)
+? Milliy yo'riqnomaga ko'ra shigellyozda alimentar yo'l qaysi tur uchun xos?
++ Zonne shigellasi
+- Flekssner shigellasi, bunda suv yo'li asosiy hisoblanadi
+- Boydi shigellasi
+- Grigoryev–Shiga shigellasi
+- Esherixiya koli
+! Flekssner shigellasi uchun esa asosan suv yo'li xosligi qayd etilgan.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+#U 043 / 11: shigellyoz mavsumiy ko'tarilishining may–iyun oylariga to'g'ri kelishi faqat mavzu materialiga tayangan.

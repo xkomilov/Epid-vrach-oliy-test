@@ -1,0 +1,97 @@
+=== 008
+? Darslikka ko'ra, epidemik jarayonning minimal tuzilmasi (elementar katakchasi) qaysi uch qismdan iborat?
++ Infeksiya manbai, yuqish mexanizmi va moyil organizm
+- Qo'zg'atuvchi, antibiotik va emlash qamrovi
+- Bemor, shifokor va dezinfeksiya vositasi
+- Biologik, ijtimoiy va tabiiy omillar hamda ularning o'zaro ta'siri
+- Inkubatsiya davri, prodrom va sog'ayish
+! Bu uch bo'g'in ketma-ket bog'liq bo'lib, biri uzilsa jarayon to'xtaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Vabo asosan qaysi yo'l orqali yuqadi?
++ Suv orqali
+- Havo-tomchi orqali
+- Kanalar chaqishi orqali
+- Hayvonlar terisi bilan aloqa orqali
+- Jinsiy aloqa orqali
+! Vabo fekal-oral mexanizmli infeksiya bo'lib, uning yetakchi yo'li suv hisoblanadi, ayrim hollarda oziq-ovqat ham ahamiyatga ega.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Havo-tomchi (aerogen) mexanizmda havo qanday rol o'ynaydi?
++ Faqat yuqish muhiti bo'lib xizmat qiladi
+- Qo'zg'atuvchining ko'payadigan asosiy muhiti hisoblanadi
+- Qo'zg'atuvchi uchun doimiy rezervuar vazifasini bajaradi
+- Qo'zg'atuvchini yo'q qiluvchi dezinfeksiya vositasi hisoblanadi
+- Qo'zg'atuvchini sovutib, uning tarqalishini susaytiruvchi muhit bo'lib xizmat qiladi
+! Qo'zg'atuvchi havoda ko'paymaydi, u faqat bemor nafas yo'llaridan sog'lom odam nafas yo'llariga o'tishi uchun vosita bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Transmissiv mexanizmda yuqishda qaysi jonivorlar ishtirok etadi?
++ Bo'g'imoyoqlilar, ya'ni hasharotlar va kanalar
+- Kemiruvchilar va yirik shoxli hayvonlar
+- Qushlar va sudraluvchilar
+- Uy hayvonlari va ularning go'shti
+- Odamlar va ularning shaxsiy buyumlari hamda kiyimlari
+! Transmissiv yo'lda qo'zg'atuvchi qon so'ruvchi tashuvchilar orqali o'tadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Kuydirgi odamlarda qaysi shaklda ko'proq kechadi va bu qaysi yuqish yo'lini ko'rsatadi?
++ 98–99% hollarda teri shaklida, ya'ni asosan kontakt yo'li bilan
+- 98–99% hollarda ichak shaklida, ya'ni asosan oziq-ovqat yo'li bilan
+- 98–99% hollarda o'pka shaklida, ya'ni asosan havo-tomchi yo'li bilan
+- 98–99% hollarda sepsis shaklida, ya'ni asosan transmissiv yo'l bilan
+- 98–99% hollarda meningeal shaklda, ya'ni asosan qon-limfa yo'li bilan
+! Hayvonlarda kuydirgi odatda ichak infeksiyasi bo'lib kechadi, odamlarda esa qo'zg'atuvchi teriga tushishi tufayli teri shakli ustun.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, insektitsidlardan keng foydalanishdan amalda voz kechilishining sabablaridan biri nima?
++ Bo'g'imoyoqlilar populyatsiyasi 2–3 yildan keyin tiklanadi
+- Vektorlar insektitsidlar ta'sirida butunlay yo'qolib, ularning qaytishi kuzatilmaydi
+- Tabiiy muhitdagi hasharotlarga bu vositalar umuman ta'sir qilmaydi
+- Bu vositalar o'simliklarga ishlov berishdagina ishlatiladi
+- Ularning mahalliy qo'llanishi qat'iy taqiqlangani sababli, aholi punktlarida ham foydalanilmaydi
+! Ochiq tabiatda chivinlarni qirish imkonsiz va ekologik hamda iqtisodiy zarar katta, mahalliy qo'llash esa inkor etilmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? I. Zemmelveys qaysi yilda qo'llarni yuvish va dezinfeksiya qilish kasalxona ichi infeksiyalarida hal qiluvchi ekanini isbotladi?
++ 1847-yilda
+- 1796-yilda
+- 1854-yilda
+- 1920-yilda
+- 1885-yilda
+! Zemmelveys buni tahliliy epidemiologik tadqiqot bilan isbotlagan, ya'ni natijalarni taqqoslash orqali.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? CDC tasnifiga ko'ra, quyidagi misollardan qaysi biri biologik yuqishga taalluqli?
++ Bezgak plazmodiysining chivin organizmida rivojlanib, so'ng odamga o'tishi
+- Pashshalarning oyoqlarida Shigella'ni mexanik ravishda ko'chirib, ovqatga tushirishi
+- Bemorning tomchilari orqali tashqi muhitga chiqishi
+- Ifloslangan qo'l orqali bevosita yuqish
+- Ifloslangan suv orqali vabo qo'zg'atuvchisining tarqalishi
+! Biologik yuqishda qo'zg'atuvchi vektor organizmida rivojlanadi, mexanik yuqishda esa u faqat tashiladi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Darslikka ko'ra, populyatsion tadqiqotlar qaysi infeksiyalarda dezinfeksiyaning foydasizligini ko'rsatgan?
++ Qizamiq va meningokokk infeksiyasida
+- Vabo va ich terlamada
+- Kuydirgi va o'lat infeksiyalarida
+- Difteriya va qizilcha infeksiyalarida
+- Virusli gepatit A va ichburug'da
+! Bu qo'zg'atuvchilar tashqi muhitda chidamsiz, shu sababli tashqi muhitni zararsizlantirish zarurati yo'qoladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Himoya (protektiv) izolyatsiya epidemik jarayonning qaysi zanjiriga qaratilgan chora hisoblanadi?
++ Uchinchi zanjirga, ya'ni moyil organizmga
+- Birinchi zanjirga, ya'ni infeksiya manbaiga
+- Ikkinchi zanjirga, ya'ni yuqish mexanizmiga
+- Vektorlar populyatsiyasiga
+- Barcha zanjirlarga bir xil darajada
+! U o'ta moyil bemorlarni boshqalardan himoya qiladi, oddiy izolyatsiya esa manbani ajratadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Fekal-oral yuqishda epidemiyaga qarshi choralarning asosiy e'tibori qaysi bo'g'inga qaratiladi?
++ Yuqish yo'llariga
+- Moyil jamoani emlashga
+- Vektor populyatsiyasini qirishga
+- Havoni filtrlashga
+- Kasal hayvonlarni davolashga
+! Suv ta'minoti, ovqatlanish, chiqindilarni olib chiqish tizimidagi umumsanitariya tadbirlari va dezinfeksiya yuqish yo'llarini to'sadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Malyariya bilan kasallangan hududlarda qo'zg'atuvchining kirish eshigini himoya qiluvchi chora qaysi?
++ To'rli parda (bed net) ishlatish
+- Ichimlik suvini xlorlash
+- Sovun bilan qo'l yuvish
+- Bemorni alohida xonaga ajratish
+- Epidemik ko'rsatma bo'yicha emlash
+! To'rli parda chivin chaqishini oldini oladi, ya'ni qo'zg'atuvchining odam organizmiga kirish yo'lini yopadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10

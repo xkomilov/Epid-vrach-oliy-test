@@ -1,0 +1,98 @@
+=== 030
+? Tabiiy aktiv immunitet qanday hosil bo'ladi?
++ Kasallikni (ba'zan yashirin infeksiyani) o'tkazish natijasida
+- Onadan bolaga yo'ldosh orqali IgG antitelolar o'tishi bilan
+- Vaksina yuborish orqali organizmda antigenga javob hosil qilish bilan
+- Tayyor immunoglobulin yoki immun zardob kiritish yo'li bilan
+- Antibiotik bilan davolash natijasida antitelolar to'planishi bilan
+! Organizm o'zi qo'zg'atuvchi bilan uchrashib, javob va xotira hosil qilgani uchun bu tabiiy va aktiv hisoblanadi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va b. An introduction to immunology and immunopathology (2018)
+? Tabiiy passiv immunitet qanday yo'l bilan yuzaga keladi?
++ Onadan bolaga yo'ldosh orqali IgG va ona suti orqali IgA antitelolari o'tishi bilan
+- Kasallikni o'tkazgandan keyin organizmning o'zi antitelo ishlab chiqarishi bilan
+- Vaksina yuborilgach, xotira hujayralari hosil bo'lishi bilan
+- Immun zardob yoki immunoglobulin tibbiy aralashuv bilan kiritilishi bilan
+- Teri va shilliq qavatlar to'sig'ining tug'ma himoya vazifasi bilan
+! Bola tayyor antitelolarni onadan oladi, shu bois ular dastlabki oylarda himoya qiladi, ammo xotira hosil bo'lmaydi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va b. An introduction to immunology and immunopathology (2018)
+? Qaysi holatda sun'iy passiv immunitetdan foydalaniladi?
++ Qoqshol, quturish yoki difteriyada shoshilinch profilaktika: tez himoya zarur bo'lganda
+- Qizamiqqa qarshi uzoq muddatli jamoaviy immunitet shakllantirishda
+- Rejali emlash kalendari bo'yicha chaqaloqlarni emlashda
+- Immunologik xotira hosil qilish va revaksinatsiya muddatini uzaytirish maqsadida
+- Tug'ma nospetsifik rezistentlikni kuchaytirish uchun
+! Tayyor antitelolar darhol ta'sir qiladi, shuning uchun xavfli kontaktdan keyin ishlatiladi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va b. An introduction to immunology and immunopathology (2018)
+? Aktiv va passiv immunitet o'rtasidagi asosiy farq qaysi?
++ Aktiv kechroq (1–3 hafta) shakllanadi, uzoq davom etadi va xotira qoldiradi; passiv darhol ta'sir qiladi, qisqa muddatli va xotirasiz
+- Aktiv darhol ta'sir qiladi, qisqa muddatli bo'ladi; passiv kechroq shakllanadi va xotira qoldiradi
+- Ikkalasi ham bir xil tezlik va davomiylikka ega, farq faqat nomida
+- Aktiv tashqaridan kiritilgan tayyor antitelolar hisobiga, passiv organizm o'zi ishlab chiqarishi hisobiga hosil bo'ladi
+- Aktiv faqat bolalarda, passiv esa faqat kattalarda hosil bo'ladi, bunda tezlik va davomiylik bo'yicha boshqa farq mavjud emas
+! Aktiv javobni organizm o'zi shakllantiradi, shu bois vaqt oladi, lekin xotira qoldiradi; passivda esa tayyor antitelolar yuboriladi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va b. An introduction to immunology and immunopathology (2018)
+? Tug'ma (nospetsifik) immunitet tarkibiga nima kiradi?
++ Teri va shilliq qavatlar to'sig'i, fagotsitoz, komplement tizimi va yallig'lanish reaksiyasi
+- B- va T-limfotsitlar hamda aniq antigenga yo'nalgan spetsifik antitelolar
+- Immunologik xotira hujayralari va vaksina antigenlariga qarshi spetsifik javob reaksiyasi
+- Immun zardob va immunoglobulin preparatlari
+- Yo'ldosh orqali o'tgan IgG va ona suti orqali kelgan IgA
+! Tug'ma himoya tug'ilishdan mavjud, aniq qo'zg'atuvchiga yo'naltirilmagan va oldingi uchrashuvni talab qilmaydi.
+@ Marshall J.S. va b. An introduction to immunology and immunopathology (2018)
+? Quturishga qarshi profilaktikada nima uchun vaksina va immunoglobulin birga beriladi?
++ Immunoglobulin darhol himoya beradi, vaksina esa uzoq muddatli aktiv immunitet shakllantiradi
+- Ikkalasi ham bir xil tezlikda ta'sir qilgani uchun dozani kamaytirish mumkin, shu sababli birgalikda berish ma'nosiz
+- Immunoglobulin uzoq muddatli xotira hosil qiladi, vaksina esa darhol himoya beradi
+- Vaksina immunoglobulinni organizmdan tezroq chiqarib yuborish uchun beriladi
+- Immunoglobulin vaksina antigenini yo'q qilib, reaksiyalarning oldini oladi
+! Passiv himoya tezkor, aktiv himoya esa kechikadi lekin barqaror, shu sababli ular bir-birini to'ldiradi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Immunoglobulin yuborilgandan keyin qizamiq, qizilcha, parotit va rotavirusga qarshi tirik vaksinalar necha oydan so'ng o'tkaziladi?
++ 3 oydan keyin
+- 1 oydan keyin
+- 1,5 oydan keyin
+- 6 oydan keyin
+- 12 oydan keyin
+! Tayyor antitelolar tirik vaksina virusini zararsizlantirib, immun javobni susaytirishi mumkin.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Difteriya va qoqsholga qarshi qo'shimcha (booster) doza qanchada tavsiya etiladi?
++ Har o'n yilda
+- Har yili
+- Har ikki yilda
+- Har besh yilda
+- Har yigirma yilda
+! Bu infeksiyalarga immunitet vaqt o'tishi bilan susayadi, shu sababli revaksinatsiya talab qilinadi.
+@ Mavzu materiali (030.docx)
+? Aholining immunitet darajasi qanday baholanadi?
++ Seroepidemiologik tekshiruv orqali — qonda antitelolar titrini aniqlash
+- Najasning bakteriologik ekmasi orqali qo'zg'atuvchini ajratib olish
+- Bemor haroratining kunlik dinamikasini o'lchab borish
+- Yuzalardan olingan surtmalarda ichak tayoqchasi miqdorini hisoblash
+- Rentgenologik tekshiruv orqali o'pka holatini ko'rish
+! Antitelo titri himoya darajasini bevosita ko'rsatadi, shu sababli emlash dasturlarini rejalashtirishda ishlatiladi.
+@ Marshall J.S. va b. An introduction to immunology and immunopathology (2018)
+? JSST ga ko'ra vaksina organizmda qanday ishlaydi?
++ Antitelo ishlab chiqarishga o'rgatib, immun xotira hosil qiladi va qo'zg'atuvchini kasallik rivojlanguncha yo'q qiladi
+- Organizmga tayyor antitelolar kiritib, darhol ta'sir qiladigan qisqa muddatli himoya beradi va xotira qoldirmaydi
+- Qo'zg'atuvchini organizmda antibiotik kabi bevosita yo'q qiladi
+- Teri va shilliq qavat to'sig'ini qalinlashtirib, mikroblar kirishini jismonan to'sadi
+- Organizm to'qimalaridagi barcha mikroblarni vaksina mikroblari bilan almashtiradi
+! Vaksina immun tizimni xavfsiz tarzda "mashq qildiradi", haqiqiy qo'zg'atuvchi bilan uchrashganda javob tez bo'ladi.
+@ WHO. Vaccines and immunization: What is vaccination?
+? Vaksina nima uchun kasallik chaqirmaydi?
++ Unda o'ldirilgan yoki zaiflashtirilgan mikroblar (yoki ularning qismlari) bor
+- Unda tirik va to'liq virulent qo'zg'atuvchi bo'ladi, lekin u organizmga kirmaydi
+- U faqat tayyor antitelolardan iborat, mikroblar mutlaqo yo'q
+- Mikroblarni emas, faqat antibiotiklarni saqlaydi
+- Qo'zg'atuvchi bilan uchrashganda organizm kasallanishi xavfini oshiradi
+! Zaiflashtirilgan yoki o'ldirilgan shakllar immun javobni chaqiradi, lekin kasallik rivojlantira olmaydi.
+@ WHO. Vaccines and immunization: What is vaccination?
+? Kalendar bo'yicha sun'iy faol immunitet qaysi davrda bosqichma-bosqich shakllantiriladi?
++ Hayotning birinchi sutkasidan 16 yoshgacha
+- Tug'ilgandan boshlab 5 yoshgacha, maktabgacha davrda
+- 2 oylikdan 12 yoshgacha, o'smirlik davriga qadar
+- 1 yoshdan 18 yoshgacha
+- 7 yoshdan 16 yoshgacha
+! Kalendar VGB dan boshlanib, ADS-M bilan yakunlanadi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+#U 030 / 8: difteriya va qoqsholga qarshi har o'n yilda booster doza haqidagi fakt faqat mavzu materialiga tayangan.

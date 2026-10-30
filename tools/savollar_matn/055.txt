@@ -1,0 +1,97 @@
+=== 055
+? JSST diareyani qanday ta'riflaydi?
++ Kuniga uch yoki undan ko'p suyuq najas ajralishi
+- Kuniga ikki marta yumshoq, shakllangan najas ajralishi
+- Kuniga kamida besh marta qonli najas ajralishi
+- Haftada ikki marta qattiq najas ajralishi va qorinda og'riq
+- Kuniga o'n martadan ko'p suyuq najas ajralishi
+! Ta'rif suyuq najas chastotasiga asoslanadi, shaxs uchun odatdagidan tez-tez ajralishi ham diareya hisoblanadi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Rahbariyatda yuqumli kasalliklar avj olishini tekshirish nechta bosqichga bo'lingan?
++ Yetti bosqichga
+- Uch bosqichga
+- To'rt bosqichga
+- O'n bosqichga
+- Besh bosqichga
+! Bosqichlar avj olishni tasdiqlashdan boshlanib, hisobot tayyorlash bilan yakunlanadi.
+@ O'zR SSV, JSST Yevropa byurosi, Toshkent VMOI. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha rahbariyat (2019)
+? Avj olish deb nima tushuniladi?
++ Muayyan hududda yilning shu davrida kutilganiga nisbatan holatlar sonining odatdan tashqari ko'payishi
+- Bitta bemorda kasallik belgilarining sutka ichida kuchayishi va bir necha marta qaytalanishi hamda og'irlashishi
+- Kasallik qo'zg'atuvchisining laboratoriyada birinchi marta ajratib olinishi
+- Har yili bir xil mavsumda kuzatiladigan, odatdagi kutilgan kasallanishning me'yoriy darajasi
+- Faqat o'lim bilan tugagan holatlar sonining ortishi
+! Avj olishda kasallanish oldingi yillar xuddi shu davrdagi kutilgan darajasidan sezilarli yuqori bo'ladi.
+@ O'zR SSV, JSST Yevropa byurosi, Toshkent VMOI. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha rahbariyat (2019)
+? Holatning standart ta'rifini tuzishda qaysi xato keng tarqalgan hisoblanadi?
++ Ta'rifga o'rganilayotgan xavf omilini kiritish
+- Vaqt bo'yicha cheklov ko'rsatish
+- Klinik mezonlarni aniq yozib qo'yish
+- Hududiy joylashuv bo'yicha cheklov belgilash
+- Mezonlarni barcha tekshiriluvchilarga bir xil qo'llash
+! Xavf omili ta'rifga kirsa, uni keyin tahlil qilib bo'lmaydi, chunki bog'liqlik avvaldan majburan paydo bo'ladi.
+@ O'zR SSV, JSST Yevropa byurosi, Toshkent VMOI. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha rahbariyat (2019)
+? Tezkor javob guruhi tarkibida kamida kimlar bo'lishi ko'zda tutilgan?
++ Kamida bir epidemiolog va vrach-laborant
+- Infeksionist va reanimatolog, boshqa mutaxassissiz
+- Jarroh va akusher-ginekolog, ularning yordamchilari bilan
+- Statistik va yurist, hech qanday tibbiy mutaxassissiz
+- Mahalliy hokimiyat vakillari va moliyaviy hisobchi
+! Guruh tekshiruv va laboratoriya ishini uddalay olishi uchun epidemiolog va laborant zarur, kerak bo'lsa boshqa mutaxassislar qo'shiladi.
+@ O'zR SSV, JSST Yevropa byurosi, Toshkent VMOI. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha rahbariyat (2019)
+? Bemordan namuna (najas, qusuq massa, yuvilgan oshqozon suvi) qachon olinishi kerak?
++ Etiotrop davo kursi boshlanishidan oldin
+- Davo kursi tugagandan keyin, bemor tuzalgach
+- Bemor kasalxonadan chiqarilgan kuni
+- Davo boshlanganidan bir hafta o'tgach, antibiotik ta'siri to'liq tugaganda
+- O'lim holatida, jonsiz tanadan
+! Antibiotik qo'zg'atuvchini bostirib, ekmada o'smasligiga olib kelishi mumkin.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Namuna qabul bo'limida olinib, yetkazib bo'lmasa muzlatgichda saqlanganda, eng ko'pi bilan necha soat ichida laboratoriyaga topshirilishi kerak?
++ 12 soat
+- 6 soat
+- 24 soat
+- 48 soat
+- 72 soat
+! Bu muddatdan keyin qo'zg'atuvchining tirik qolishi va natija ishonchliligi pasayadi.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Diareya bo'yicha muloqotda bo'lganlar ustidan tibbiy kuzatuv qancha davom etadi va nimalarni o'z ichiga oladi?
++ 7 kun, har kuni so'rov, ko'rik, ich ketishini kuzatish va termometriya
+- 3 kun, faqat bir marta so'rov, ko'rik va termometriyasiz hamda yozuvlarsiz
+- 14 kun, haftada bir marta telefon orqali so'rov
+- 21 kun, har kuni qon tahlili va rentgen tekshiruvi
+- 1 kun, faqat termometriya, boshqa tekshiruvlarsiz
+! Kuzatuv ko'pchilik ichak infeksiyalarining yashirin davrini qamrab oladi va tarqalishni erta aniqlaydi.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Uy o'choqlarida kimlar bakteriologik jihatdan bir marta tekshiriladi?
++ Oziq-ovqat korxonalari xodimlari, bolalar muassasalariga qatnovchilar va 2 yoshgacha uyushmagan bolalar
+- 60 yoshdan katta kishilar va ularning farzandlari, nevaralari
+- Qo'shni ko'chada yashovchi barcha aholi va tasodifiy o'tgan yo'lovchilar hamda ularning qarindoshlari
+- Barcha pensionerlar va ishlamaydigan fuqarolar hamda ularning yaqin qarindoshlari
+- Bemor bilan bir xonada uxlamagan, boshqa uyda yashovchi qarindoshlar
+! Bu toifalar epidemiologik jihatdan xavfli, shu sababli ularni tekshirish tarqalishning oldini oladi.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Qaysi bemorlar tashxisni aniqlashtirish uchun barcha holatlarda kasalxonaga yotqiziladi?
++ Oziq-ovqat va unga tenglashtirilgan korxona ishchilari
+- Yengil shakldagi 10 yoshdan katta uyushgan maktab o'quvchilari
+- Ofis xodimlari va ular bilan bir uyda yashovchi qarindoshlar
+- Pedagoglar va ularning oila a'zolari, shifoxonaga yotqizilmagan
+- Pensionerlar va boshqa ishlamaydigan yengil kechgan bemorlar
+! Bunday xodimlar orqali infeksiya ko'p kishiga tarqalishi mumkin, shuning uchun ularni yotqizish majburiy.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalari yo'riqnomasi (25.03.2015)
+? Diareya o'choqlarida chora-tadbirlar qaysi uchta zanjirga qaratiladi?
++ Manba, yuqish yo'li va moyil jamoa
+- Qo'zg'atuvchi, antibiotik va emlash jadvali
+- Bemor, shifokor va dorixona tarmog'i
+- Suv, havo va tuproq namunalari
+- Tashxis, davolash va reabilitatsiya
+! Epidemik jarayonning uch bo'g'inidan har biriga ta'sir qilish ketma-ket tadbirlar majmuasini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 15-bob
+? Avj olishni tekshirishda nazorat choralari qachon boshlanadi?
++ Tahlil natijalarini kutmasdan, dastlabki choralar darhol qabul qilinadi
+- Laboratoriya sababni to'liq tasdiqlagandan keyingina, hisobot bilan birga
+- Hisobot tayyorlangandan keyin, barcha ma'lumotlar yig'ilgach
+- Bemorlar tuzalib, o'choq o'zi so'ngandan keyin
+- Faqat yuqori tashkilotdan yozma ruxsat kelgandan so'ng, bir oy ichida
+! Kutish tarqalishni kuchaytiradi, shu sababli mavjud ma'lumotga asoslangan dastlabki choralar kechiktirilmaydi.
+@ O'zR SSV, JSST Yevropa byurosi, Toshkent VMOI. Yuqumli kasalliklar avj olishlarini tekshirish bo'yicha rahbariyat (2019)

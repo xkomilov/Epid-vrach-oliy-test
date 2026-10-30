@@ -1,0 +1,98 @@
+=== 145
+? OIVga ixtiyoriy tekshiruv o'tkazishda qaysi shaxslarni anonim tekshirish taqiqlanadi?
++ 18 yoshga to'lmagan bolalarni
+- 14 yoshdan katta o'smirlarni va ularning ota-onalarini
+- Doimiy yashash joyi bo'lgan barcha fuqarolarni
+- Homilador ayollar va ularning jinsiy sheriklarini
+- Chet el fuqarolari va fuqaroligi bo'lmagan shaxslarni
+! Bola manfaatlarini himoya qilish uchun uning natijalari ota-ona yoki vasiy bilan bog'lanishi kerak, shu sababli anonimlik cheklangan.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida», 13–16-moddalar
+? Qaysi holatda qon namunasini olish taqiqlanadi?
++ Kateter orqali infuziya o'tkazilgandan keyin darhol
+- Bemor ertalab och qoringa kelganda
+- Qon bilak venasidan tibbiyot xodimi tomonidan olinganda
+- Yo'llanma raqami probirka raqamiga mos kelganda
+- Shaxs ID-karta asosida aniqlanganda
+! Infuzion eritma namunani suyultirib yoki o'zgartirib yuboradi va natijani buzadi, boshqa holatlar esa talabga mos.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? DPMlar IFA va immunoblot natijalarini laboratoriyadan necha kun ichida olib ketishi shart?
++ 5 kun ichida
+- 1 kun ichida
+- 10 kun ichida
+- 30 kun ichida
+- 60 kun ichida
+! Natijalar telefon yoki telegram orqali aytilmagani uchun ularni belgilangan muddatda rasmiy tarzda olib ketish talab etiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? Birlamchi skriningda musbat chiqqan namuna ikki lunkada qayta tekshirildi va ikkalasida manfiy natija olindi. Natija qanday baholanadi?
++ «Manfiy» deb baholanadi
+- «Gumon» deb baholanib, bolalar uchun PCRga yuboriladi
+- «Musbat» deb baholanib, immunoblotga yuboriladi
+- «Musbat» deb baholanib, ikkinchi namuna olinishi so'raladi
+- «Gumon» deb baholanib, darhol tasdiqlovchi laboratoriyaga jo'natiladi
+! Qayta tekshiruvdagi ikkala manfiy natija dastlabki musbat natija soxta bo'lganini ko'rsatadi, shuning uchun keyingi bosqichga o'tilmaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? Ikkinchi qon namunasini DPMda olish uchun tuzilgan komissiya kamida nechta tibbiyot xodimidan iborat bo'ladi?
++ Kamida 3 nafar
+- Kamida 2 nafar
+- Kamida 5 nafar
+- Kamida 7 nafar
+- Kamida 1 nafar
+! Komissiya ikkinchi namunani pasport ma'lumotlari bo'yicha aniq shaxsdan olinishini kafolatlash uchun tuziladi.
+@ Mavzu materiali (145.docx)
+? Hududiy OITS markazlari laboratoriyalarida tasdiqlangan musbat natijalar «seropozitiv» deb nechanchi shaklga kiritiladi?
++ 4-shaklga
+- 1-shaklga
+- 2-shaklga
+- 5-shaklga
+- 6-shaklga
+! Seropozitiv holatlar tasdiqlovchi bosqichdan keyin shu hisobot shaklida qayd etilib, epidemik jarayon monitoringida ishlatiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? 18 oygacha bo'lgan bolalarda PCR tekshiruvi uchun qaysi namunadan foydalanilmaydi?
++ Kindik qonidan
+- Venoz qondan
+- Quritilgan qon tomchisidan
+- EDTAli qon namunasidan
+- Periferik venadan olingan qondan
+! Kindik qoniga ona qoni aralashishi mumkin, shuning uchun soxta musbat natija chiqishi xavfi bor.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Hayotning dastlabki 48 soatida bolada provirus DNK PCR musbat bo'lsa, nima taxmin qilinadi?
++ Bola bachadon ichida (antenatal) zararlangan
+- Bola tug'ruq paytida (intranatal) zararlangan
+- Bola ko'krak suti bilan emizish orqali zararlangan
+- Natija onaning antitelalari ta'siridagi soxta musbat natija
+- Natija laboratoriya ifloslanishi tufayli yuzaga kelgan soxta musbat natija
+! Usulning sezgirligi tug'ilgandan keyingi dastlabki soatlarda past bo'lgani uchun erta musbat natija infeksiya tug'ilishdan oldin bo'lganini bildiradi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Emizikli bolada PCR manfiy chiqsa, test emizish to'liq to'xtatilgandan keyin qancha vaqtgacha takrorlanadi?
++ 6 haftagacha
+- 1 haftagacha
+- 3 oygacha
+- 6 oygacha
+- 12 oygacha
+! Emizish davom etgan paytda bola qayta zararlanishi mumkin, shu sababli oxirgi ekspozitsiyadan keyin nazorat testi o'tkaziladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Qaysi holat qon namunasini yaroqsiz deb hisoblash va brakeraj jurnaliga yozish uchun asos bo'ladi?
++ Hemoliz, xilez yoki namunada bakteriyalar o'sishi
+- Namuna 5 ml hajmda bilak venasidan olinishi
+- Qon och qoringa va quruq probirkaga olinishi
+- Probirkadagi raqam yo'llanma raqamiga mos kelishi
+- Zardob 24 soat ichida laboratoriyaga yetkazilishi
+! Namuna sifati buzilsa natija ishonchsiz bo'ladi, shuning uchun bunday namunalar qabul qilinmaydi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+? SanPiN 0187-05 bo'yicha tasdiqlangan OIV bilan yashovchi bemorlar tibbiy hujjatlarda qanday belgilanadi?
++ Raqamli shifr bilan
+- Familiyasining bosh harfi bilan
+- Pasport raqami bilan
+- Yashash manzili kodi bilan
+- Ish joyi nomining qisqartmasi bilan
+! Shaxsni aniqlash mumkin bo'lgan belgilar vrachlik siri hisoblangani uchun hujjatlarda shifrlangan kod qo'llanadi.
+@ SanPiN № 0187-05
+? Kattalarda IFA ikki marta gumon natija bersa, qanday qo'shimcha usul qo'llanadi?
++ PCR
+- Tezkor aglyutinatsiya testi
+- Takroriy skrining IFA
+- Umumiy qon tahlili
+- Qon zardobining elektroforezi
+! IFA qayta takrorlanganda ham aniq xulosa bermasa, antitelaga bog'liq bo'lmagan nuklein kislota usuli kerak bo'ladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 1 va 2-ilovalar
+#U 145 / 5: komissiyaning kamida 3 tibbiyot xodimidan iborat bo'lishi talabi faqat mavzu materialiga (219-son buyruq ilovasi bayoni) tayangan, tashqi manba bilan tasdiqlanmagan.

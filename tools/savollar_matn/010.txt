@@ -1,0 +1,97 @@
+=== 010
+? Dezinfeksiya epidemik jarayonning qaysi bo'g'iniga ta'sir qiladi?
++ Ikkinchi bo'g'iniga, ya'ni qo'zg'atuvchining yuqish mexanizmiga
+- Hech qaysi bo'g'iniga, chunki u faqat estetik ahamiyatga ega
+- Birinchi bo'g'iniga, ya'ni infeksiya manbaiga, uni bevosita davolash orqali
+- Uchinchi bo'g'iniga, ya'ni moyil organizmning immun holatiga
+- Uchala bo'g'iniga bir xil darajada va bir vaqtning o'zida
+! Dezinfeksiya tashqi muhit obyektlaridagi qo'zg'atuvchini yo'q qilgani uchun uning yuqish yo'lini to'sadi.
+@ SanQvaN № 0090-25
+? Profilaktik dezinfeksiya o'tkaziladigan obyekt xodimlari bu haqda qachon ogohlantirilishi talab etiladi?
++ Bir kun oldin
+- Tadbir boshlanishidan bir soat oldin
+- Bir hafta oldin
+- Ogohlantirish talab etilmaydi
+- Tadbir tugagandan keyin
+! Oldindan ogohlantirish xodimlarning xavfsizligini va kerakli tayyorgarlikni ta'minlaydi.
+@ SanQvaN № 0090-25
+? Yakuniy dezinfeksiyada ajralmalarga quruq xlorli ohak 200 g/kg (1:5) nisbatda sepilsa, qancha vaqt ushlab turiladi?
++ 1 soat
+- 15 daqiqa
+- 2 soat
+- 6 soat
+- 24 soat
+! Ekspozitsiya konsentratsiya bilan bog'liq: kuchliroq vosita nisbatan qisqaroq vaqt talab qiladi.
+@ SanQvaN № 0090-25
+? Yakuniy dezinfeksiyada gipoxlorid kalsiy 100 g/kg (1:10) hisobida ajralmalarga solinsa, ekspozitsiya qancha davom etadi?
++ 2 soat
+- 30 daqiqa
+- 1 soat
+- 12 soat
+- 48 soat
+! Gipoxlorid kalsiyning nisbati kichikroq, shuning uchun ekspozitsiya xlorli ohakdagidan uzoqroq belgilangan.
+@ SanQvaN № 0090-25
+? Kiyim, ko'rpa-to'shak va jihozlarni kamerali dezinfeksiyada zararsizlantirish uchun qaysi harorat qo'llanadi?
++ 100–110°C li issiq bug'
+- 40–50°C li iliq suv
+- 60–70°C li quruq havo
+- 180–200°C li ochiq olov
+- 20–25°C li xona harorati
+! Yumshoq buyumlar yuqori haroratli bug' ta'sirida chuqur qatlamlarigacha zararsizlanadi.
+@ SanQvaN № 0090-25
+? O'tkazilgan yakuniy dezinfeksiya ishlari qaysi shaklda qayd etiladi?
++ F.323/U shaklida
+- F.058/U shaklida
+- F.025/U shaklida
+- F.112/U shaklida
+- F.60/U shaklida
+! Maxsus shakl dezinfeksiyaning o'tkazilganligini hujjatlashtirish uchun mo'ljallangan.
+@ SanQvaN № 0090-25
+? Yakuniy dezinfeksiyada jihozlar va devorlar qanday balandlikkacha eritma bilan zararsizlantiriladi?
++ 2 metr balandlikkacha
+- 0,5 metr balandlikkacha
+- 1 metr balandlikkacha
+- 3 metr balandlikkacha
+- shiftgacha
+! Qo'l tegadigan va ifloslanish ehtimoli bo'lgan yuzalar shu balandlikda joylashgan.
+@ SanQvaN № 0090-25
+? Yakuniy (o'choqli) dezinfeksiya qachon va necha marta o'tkaziladi?
++ Infeksiya manbai o'choqdan bartaraf etilgandan keyin, bir marta
+- Bemor uyda yotgan butun davr mobaynida, muntazam ravishda
+- Epidemiya holatidan qat'i nazar, doimiy ravishda har oyda
+- Epidemiya boshlanishi bilan, shifoxonada doimiy ravishda
+- Kasallik paydo bo'lishidan oldin, xavf guruhlari uchun yilda ikki marta
+! Manba bartaraf etilgach, o'choqda qolgan patogenlarni to'liq yo'qotish uchun bir martalik tadbir yetarli.
+@ SanQvaN № 0090-25
+? Dezinfeksiya vositasi tanlanganda qaysi xavf sinfidagi vositalardan foydalanish nazarda tutiladi?
++ Kam zaharli, III–IV xavf sinfidagi vositalar
+- Yuqori zaharli, I xavf sinfidagi vositalar
+- I–II xavf sinfidagi kuchli vositalar
+- Xavf sinfi hisobga olinmaydi, faqat narxiga qarab tanlanadi
+- Faqat II xavf sinfidagi o'rtacha zaharli vositalar
+! Inson va atrof-muhitga zarar yetkazmaslik uchun kam zaharli vositalar afzal ko'riladi.
+@ SanQvaN № 0090-25
+? Dezinfeksiya samaradorligining eng ishonchli ko'rsatkichi qaysi nazorat usuli hisoblanadi?
++ Bakteriologik nazorat
+- Vizual nazorat
+- Kimyoviy nazorat bilan tekshirish
+- Hujjatlar nazorati
+- Sensor orqali nazorat
+! Ishlov berilgan yuzalardan surtma olib, qo'zg'atuvchi qolgan-qolmaganligi aniqlanadi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma, Moskva: GEOTAR-Media, 2009
+? Quyidagi dezinfeksiya usullaridan qaysi biri fizik usul hisoblanadi?
++ Ultrabinafsha nurlanish
+- Changyutish
+- Dezinfeksiyalovchi eritma purkash
+- Iflos qatlamni olib tashlash
+- Yuvish
+! Fizik usul yuqori harorat, bug' yoki nurlanish yordamida qo'zg'atuvchini halok qiladi.
+@ Osipova V.L. Dezinfeksiya: o'quv qo'llanma, Moskva: GEOTAR-Media, 2009
+? Joriy dezinfeksiya qaysi davrda o'tkaziladi?
++ Infeksiya manbai (bemor) mavjud bo'lgan va u atrofga qo'zg'atuvchi ajratib turgan davrda
+- Bemor shifoxonaga yotqizilgandan keyin, o'choqda bir marta, ushbu bemor va uning yaqinlari uchun
+- Epidemiya holati yo'q paytda, profilaktika maqsadida, doimiy ravishda har oyda
+- Bemorning o'limidan keyin, o'choqni yopish uchun, bir marta
+- Kasallik paydo bo'lishidan oldin, xavf guruhlarida profilaktika maqsadida
+! Maqsad qo'zg'atuvchini ajralib chiqqan zahoti yo'q qilib, atrofga tarqalishiga yo'l qo'ymaslikdir.
+@ SanQvaN № 0090-25

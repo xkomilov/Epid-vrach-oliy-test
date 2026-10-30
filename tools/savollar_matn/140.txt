@@ -1,0 +1,103 @@
+=== 140
+? Sog'liqni saqlash vazirining 2008-yil 4-yanvardagi 4-son buyrug'i nimani tatbiq etishga qaratilgan?
++ Tibbiyot muassasalarida OIV infeksiyasining muloqotdan keyingi profilaktikasini
+- Dozorli epidemiologik nazorat tizimini va psixoijtimoiy yordam xonalarini
+- Retrovirusga qarshi terapiyaning birinchi qator sxemalarini
+- Tug'ruq komplekslarida ekspress-testlar monitoringini
+- Tumanlararo OIV diagnostika laboratoriyalarining nizomini va ularning tarkibiy tuzilmasini
+! Buyruq tibbiyot xodimlarining OIV bilan kasbiy muloqotidan keyingi chora-tadbirlarini tartibga soladi.
+@ O'zR Sog'liqni saqlash vazirining 2008-yil 4-yanvardagi 4-son buyrug'i
+? OIV infeksiyali bemorlarning dispanser nazorati bo'yicha milliy klinik protokol qaysi buyruq bilan tasdiqlangan?
++ 2018-yil 30-apreldagi 277-son buyruq
+- 2008-yil 4-yanvardagi 4-son buyruq
+- 2018-yil 2-iyuldagi 421-son buyruq
+- 2015-yil 25-martdagi 123-son buyruq
+- 2024-yil 29-fevraldagi 64-son buyruq
+! Protokol klinik tasnif, retrovirusga qarshi terapiyani boshlash ko'rsatmalari va birinchi qator sxemalarini o'z ichiga oladi.
+@ O'zR Sog'liqni saqlash vazirining 2018-yil 30-apreldagi 277-son buyrug'i
+? 2018-yil 24-maydagi 336-son buyruq qaysi hujjat bilan o'z kuchini yo'qotgan deb topilgan?
++ 2021-yil 6-sentabrdagi 219-son buyruqning 9-bandi bilan
+- 2024-yil 29-fevraldagi 64-son buyruqning ilovalari bilan
+- 2023-yil 11-iyuldagi 32-son buyruqning 16-ilovasi bilan
+- 2018-yil 2-iyuldagi 421-son buyruq bilan
+- 2015-yil 25-martdagi 123-son buyruq bilan
+! Keyinroq chiqqan buyruq o'zining yakuniy bandida avvalgi hujjatni bekor qilgan.
+@ O'zR Sog'liqni saqlash vazirining 2021-yil 6-sentabrdagi 219-son buyrug'i
+? 2012-yil 30-martdagi 88-son buyruq nimani joriy etishga qaratilgan?
++ JSSTning OIV infeksiyasi bo'yicha moslashtirilgan milliy protokollarini
+- Dozorli epidemiologik nazorat qoidalarini
+- Psixoijtimoiy yordam xonalari to'g'risidagi nizomni
+- «Ishonch xonalari» nizomini va yuqori xavfli guruhlar uchun xizmatlarni
+- Tumanlararo laboratoriyalar nizomini
+! Buyruq xalqaro klinik tavsiyalarni milliy sharoitga moslashtirishga qaratilgan.
+@ Mavzu materiali (140.docx)
+? «Do'stona xona» nizomi qaysi buyruqqa ilova qilingan?
++ 2021-yil 6-sentabrdagi 219-son buyruqqa
+- 2008-yil 4-yanvardagi 4-son buyruqqa
+- 2018-yil 30-apreldagi 277-son buyruqqa
+- 2018-yil 2-iyuldagi 421-son buyruqqa
+- 2024-yil 29-fevraldagi 64-son buyruqqa
+! Nizom OIV tekshiruvi va maslahat xizmatlarini yaxshilash bo'yicha 11 ilovadan biri sifatida kiritilgan.
+@ O'zR Sog'liqni saqlash vazirining 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Respublika va hududiy OITSga qarshi kurashish markazlari to'g'risidagi namunaviy nizomlar qaysi buyruqning ilovalari hisoblanadi?
++ Jamoat salomatligi qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'ining
+- 2021-yil 6-sentabrdagi 219-son buyruq (Sog'liqni saqlash vazirligi) ning
+- 2024-yil 29-fevraldagi 64-son buyruq (Sog'liqni saqlash vazirligi) ning
+- Vazirlikning 2018-yil 2-iyuldagi 421-son buyrug'i, shuningdek unga ilovalarning
+- Muloqotdan keyingi profilaktika bo'yicha 2008-yil 4-yanvardagi 4-son buyruqning
+! Markazlar qo'mitaning tizimiga kirgani uchun ularning nizomlari shu qo'mita buyrug'i bilan tasdiqlangan.
+@ Qo'mitaning 2023-yil 11-iyuldagi 32-son buyrug'i, 17- va 19-ilovalar
+? 2024-yil 29-fevraldagi 64-son buyruqqa ko'ra shifoxona ichida yuqqanligi gumon qilingan har bir OIV holati qanday davriylikda tibbiy kengashda muhokama qilinadi?
++ Har chorakda
+- Har oyda
+- Yilda bir marta
+- Har yarim yilda
+- Har hafta
+! Muhokama ichki yuqish xavfini muntazam baholash va tuzatuvchi choralarni belgilash uchun o'tkaziladi.
+@ O'zR Sog'liqni saqlash vazirining 2024-yil 29-fevraldagi 64-son buyrug'i
+? SanPiN № 0187-05 ga ko'ra musbat IFA natijali, OIV yuqtirgan shaxslar va ularning sheriklari donorlikdan qancha muddatga chetlashtiriladi?
++ Butun umr
+- 5 yilga
+- 1 yilga
+- Davolanishni tugatguncha
+- Klinik belgilar yo'qolguncha
+! OIV yuqtirgan odam qon va to'qima orqali infeksiyani yuqtirishi mumkin, shu sababli cheklov doimiy.
+@ SanPiN № 0187-05 (2005)
+? 2018-yil 24-maydagi 336-son buyruq ilovalaridagi «Ishonch xonalari» nizomi qaysi guruhlar uchun profilaktik xizmatlar bilan birga ko'rsatilgan?
++ Yuqori xavfli guruhlar
+- Homilador ayollar
+- Maktab o'quvchilari
+- Chet el fuqarolari
+- Nogironligi bo'lgan shaxslar
+! Xizmatlar infeksiya yuqish xavfi yuqori bo'lgan aholi guruhlariga mo'ljallangan.
+@ Mavzu materiali (140.docx)
+? 2018-yil 2-iyuldagi 421-son buyruq nimani nazarda tutadi?
++ OIV bilan yashovchilarni statsionar davolash bilan qamrab olishni ko'paytirish va jazoni ijro etish muassasalarida epidemiologik nazoratni takomillashtirish
+- Tibbiyot xodimlari uchun muloqotdan keyingi profilaktika bayonnomasini tasdiqlash hamda monitoring guruhini tarqatib yuborish, shuningdek dozorli nazoratni to'xtatish
+- OIV infeksiyali bemorlarning dispanser nazorati bo'yicha milliy klinik protokolni
+- Respublika OITSga qarshi kurashish markazi to'g'risidagi namunaviy nizomni
+- Epidemiologik surishtiruv qoidalari va «Do'stona xona» nizomini
+! Buyruq PQ-3800 qaror ijrosi uchun chiqarilgan bo'lib, monitoring guruhi, hududiy mas'ullar va sohaviy dasturlarni ham belgilaydi.
+@ O'zR Sog'liqni saqlash vazirining 2018-yil 2-iyuldagi 421-son buyrug'i
+? Sog'liqni saqlash vazirining 2014-yil 15-apreldagi 5-son qarori bilan nima tasdiqlangan?
++ OIVga tibbiy tekshiruvdan o'tkazish qoidalari
+- OIV infeksiyali bemorlar uchun milliy klinik protokol
+- Dozorli epidemiologik nazorat qoidalari
+- Tumanlararo laboratoriyalar to'g'risidagi nizom
+- Donorlikka tayyorgarlik va qon topshirish qoidalari
+! Qoidalar tekshiruvni o'tkazish tartibini belgilaydi.
+@ Mavzu materiali (140.docx)
+? SanPiN № 0187-05 ga ko'ra OIV tekshiruvi qanday xarakterga ega?
++ Ixtiyoriy va maxfiy
+- Majburiy va ochiq
+- Majburiy, natijalar ish joyiga xabar qilinadigan
+- Sud qarori bilan o'tkaziladigan
+- Shifokor tavsiyasi bilan, maxfiyliksiz
+! Qoida tekshiruvda shaxsning ixtiyori va ma'lumotlar maxfiyligini asosiy tamoyil sifatida belgilaydi.
+@ SanPiN № 0187-05 (2005)
+#U 140 / 3: 336-son buyruqning o'z kuchini yo'qotishi faqat 219-son buyruqning 9-bandi mazmuniga tayangan; boshqa buyruqlarning holati rasmiy ro'yxatdan tekshirilmagan.
+#U 140 / 4: 88-son buyruq matni kutubxonada topilmagan, mazmuni faqat klinik protokol va taqdimotlardagi havolalardan ma'lum.
+#U 140 / 8: SanPiN № 0187-05 eski (2005) qoida bo'lib, uning amaldagi tahriri tekshirilmagan.
+#U 140 / 9: 336-son buyruq o'z kuchini yo'qotgan deb topilgan; ilovalar mazmuni faqat mavzu materialiga tayangan.
+#U 140 / 11: 2014-yil 15-apreldagi 5-son qaror matni topilmagan, mazmuni faqat Qonun sharhidagi havolaga tayangan.
+#U 140 / 12: SanPiN № 0187-05 eski qoida bo'lib, uning amaldagi tahriri tekshirilmagan.

@@ -1,0 +1,103 @@
+=== 120
+? Kuydirgi qo'zg'atuvchisi kapsulasi laboratoriyada qaysi usullarda bo'yaladi?
++ Romanovskiy–Gimza va Rebiger usullarida
+- Ziyl–Nilsen va Neysser usullarida
+- Leffler va Peshkov usullarida
+- Gram usulida, boshqa maxsus bo'yoqsiz
+- Ojeshko usulida, yuqori haroratda fiksatsiya qilib
+! Kapsula oddiy bo'yoqlar bilan yomon bo'yalgani uchun maxsus usullar qo'llanadi.
+@ Mavzu materiali (120.docx)
+? Kuydirgi qo'zg'atuvchisining sporalari qaysi eritmada 2 soatda nobud bo'ladi?
++ 10 % natriy ishqori eritmasida
+- 0,5 % xloramin eritmasida
+- 70° li etil spirtida
+- 3 % kaliy permanganat eritmasida
+- Oddiy sovunli suvda
+! Kuchli ishqoriy muhit spora qobig'ini buzadi, kuchsiz antiseptiklar esa ta'sir qilmaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? Kuydirgi sporalari tuproqda qancha vaqt saqlanadi?
++ O'nlab yillar
+- Bir necha hafta
+- 1–2 oy
+- Bir yil
+- 3–5 yil
+! Sporalarning o'ta chidamliligi tufayli ko'milgan joylar uzoq muddat xavf manbai bo'lib qoladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? Vegetativ shakl past haroratga qanday chidamlilik ko'rsatadi?
++ –24 °C da 12 kungacha saqlanadi
+- –5 °C da bir necha soatda nobud bo'ladi
+- –50 °C da bir yil saqlanadi
+- Muzlatilganda darhol halok bo'ladi
+- –10 °C da 1 daqiqada o'ladi
+! Vegetativ shakl issiqlikka sezgir bo'lsa-da, sovuqqa nisbatan ancha chidamli.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Qo'zg'atuvchining saqlanishi va ko'payishi uchun eng qulay muhit pH ko'rsatkichi qanday?
++ pH 6,5–7,5
+- pH 2,0–3,0
+- pH 4,0–5,0
+- pH 9,0–10,0
+- pH 11,0–12,0
+! Neytralga yaqin tuproq muhiti sporalarning o'sishi va saqlanishiga qulay.
+@ Mavzu materiali (120.docx)
+? O'zbekistonda kuydirgi infeksiyasining yetakchi manbai qaysi hayvonlar hisoblanadi?
++ Mayda va yirik shoxli mollar
+- Uy parrandalari va qushlar, ayniqsa tovuqlar
+- Mushuklar va itlar, shahar sharoitida
+- Kemiruvchilar, ayniqsa kalamushlar
+- Ko'rshapalaklar, g'orlarda yashovchi turlari
+! Chorvachilikning aynan shu turi respublikada keng tarqalgani uchun ular orasida kasallik ko'proq qayd etiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? Tasdiqlangan kuydirgidan o'lgan bemor jasadi bilan nima qilinadi?
++ Patologoanatomik ochilmaydi
+- Patologoanatomik ochiladi, a'zolardan namuna olinadi
+- Oddiy qabristonga dezinfeksiyasiz ko'miladi
+- Oilaga topshirilib, an'anaviy marosim o'tkaziladi
+- Sovutkichda 30 kun saqlanadi, keyin ko'miladi
+! Ochish paytida sporalar atrofga tarqalib, xodimlar va muhitni ifloslantirishi mumkin.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Uslubiy qo'llanmaga ko'ra o'choqda majburiy dezinfeksiya necha marta va qanday oraliqda o'tkaziladi?
++ 3 marta, 1 soat oraliqda
+- 1 marta, bir sutkadan keyin
+- 2 marta, 12 soat oraliqda
+- 5 marta, har 15 daqiqada
+- 4 marta, har kuni
+! Takroriy ishlov sporotsid vositaning to'liq ta'sir etishini ta'minlaydi.
+@ Mavzu materiali (120.docx)
+? Laboratoriya hayvonlariga yuqtirish bo'yicha 72 soatda musbat natija olinmasa, qachon yakuniy xulosa beriladi?
++ Yuqtirgandan keyin kamida 10 kun o'tib
+- Darhol, 72 soatdan keyin
+- Yuqtirgandan keyin 24 soat o'tib, natija bo'lmasa
+- Yuqtirgandan keyin 3 oy o'tib, kuzatuvdan so'ng
+- Hayvon o'lgandan so'ng, uni ochib
+! Sekin rivojlanuvchi holatlarni ham aniqlash uchun kuzatuv davri uzaytiriladi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? CDC ma'lumotiga ko'ra kasallik ilgari bo'lgan joylarda hayvonlar orasida epizootiyalarning oldini olish uchun qaysi choradan foydalaniladi?
++ Muntazam emlash
+- Barcha hayvonlarni yoppasiga so'yish va ko'mish
+- Tuproqni qaynatish yo'li bilan zararsizlantirish
+- Hayvonlarni cheksiz karantinda ushlash va ajratish
+- Yaylovlarni to'liq yoqib tashlash va qayta ekish
+! Emlangan hayvonlar sporalar bilan uchrashganda ham kasallanmaydi, shu sababli epizootiya rivojlanmaydi.
+@ Centers for Disease Control and Prevention. Guide to Understanding Anthrax
+? SanQvaN № 0090-25 ilovasiga ko'ra kuydirgi o'chog'iga ikkinchi marta ishlov berilganda 1 m2 turar joy yuzasiga qancha vosita sarflanadi?
++ 2 litr
+- 0,5 litr
+- 1 litr
+- 5 litr
+- 10 litr
+! Takroriy ishlovda sarf dastlabkisiga qaraganda oshiriladi.
+@ SanQvaN № 0090-25
+? Kuydirgi qo'zg'atuvchisining sporalari tashqi muhitda yashash va ko'payish uchun qanday haroratni talab qiladi?
++ O'rtacha oylik harorat +17...+26 °C
+- O'rtacha oylik harorat –10...0 °C
+- O'rtacha oylik harorat +45...+60 °C
+- Doimiy +80...+100 °C
+- Doimiy –30...–20 °C
+! Mo''tadil iliq iqlim, namlik va neytral pH birgalikda sporalarning saqlanishiga qulay sharoit yaratadi.
+@ Mavzu materiali (120.docx)
+#D 120 / 3: sporaning tuproqda saqlanish muddati manbalarda turlicha (40–50, 60, 137, 200 yilgacha), aniq muddat to'liq o'rganilmagan.
+#U 120 / 1: kapsulani Romanovskiy–Gimza va Rebiger usullarida bo'yash faqat mavzu materialiga (uslubiy ko'rsatma) tayanadi.
+#U 120 / 5: pH 6,5–7,5 ko'rsatkichi faqat mavzu materialiga tayanadi.
+#U 120 / 8: dezinfeksiyani 3 marta 1 soat oraliqda o'tkazish tavsiyasi faqat mavzu materialiga tayanadi.
+#U 120 / 11: SanQvaN 0090-25 bo'yicha 2 litr sarf me'yori faqat mavzu materialiga tayanadi.
+#U 120 / 12: +17...+26 °C harorat oralig'i faqat mavzu materialiga tayanadi.

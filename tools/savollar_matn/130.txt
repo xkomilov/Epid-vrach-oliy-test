@@ -1,0 +1,97 @@
+=== 130
+? JSST ma'lumotiga ko'ra, QKGI ning shifoxona ichi yuqishi nima sababdan ro'y beradi?
++ Tibbiy asboblarni noto'g'ri sterilizatsiya qilish, ignalarni qayta ishlatish va tibbiy buyumlarning ifloslanishi
+- Palatalarda havo almashinuvining yetishmasligi va bemorlarning bir-biriga yaqin joylashtirilishi
+- Shifoxona suv ta'minoti tizimining kanalizatsiya bilan aralashib ketishi va ichimlik suvining ifloslanishi
+- Shifoxona oshxonasida tayyorlangan taomlarni yetarlicha termik ishlov bermasdan iste'mol qilish
+- Kanalarning bemorlar yotgan palatalarda ko'payishi va xodimlarni chaqishi
+! Qon va tana suyuqliklari bilan yaqin aloqada yuqish shifoxonada ham xavfli.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Bir martalik shpritslar va ignalar 3% li xloramin eritmasida qancha ushlanib, so'ng yoqiladi?
++ 1 soat
+- 5 daqiqa
+- 10 daqiqa
+- 3 soat
+- 12 soat
+! Ekspozitsiya qonli asboblarni to'liq zararsizlantirish uchun yetarli bo'lishi kerak.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Bemor parvarishida ishlatilgan idish-tovoqlar qanday zararsizlantiriladi?
++ 2% li soda eritmasida 20 daqiqa qaynatiladi
+- 1% li soda eritmasida 5 daqiqa qaynatiladi
+- 10% li xlorli ohak sutida 1 soat ushlab turiladi
+- Oddiy suvda yuvilib, 70° li spirt bilan artiladi
+- 3% li xloramin eritmasida 20 daqiqa qaynatiladi
+! Soda qo'shilgan suvda qaynatish idishlarni ham tozalaydi, ham zararsizlantiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Bemor yotgan boks kuniga necha marta 3% li xloramin eritmasi bilan joriy dezinfeksiya qilinadi?
++ 3–4 marta
+- 1 marta
+- 2 marta
+- 8–10 marta
+- haftada 1 marta
+! Tez-tez ishlov qon va ajralmalar bilan ifloslanish xavfini kamaytiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Jasadni yorish paytida ishlatilgan suv xlorli ohak kukuni bilan qanday nisbatda va qancha ekspozitsiya bilan dezinfeksiya qilinadi?
++ 1:5 nisbatda (200 g/l), 1 soat
+- 1:2 nisbatda (500 g/l), 2 soat
+- 1:20 nisbatda (50 g/l), 30 daqiqa
+- 1:1 nisbatda (1000 g/l), 5 daqiqa
+- 1:10 nisbatda (100 g/l), 4 soat
+! Suv qopqoqli idishga yig'ilib, kanalizatsiyaga oqizishdan oldin zararsizlantiriladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Jasadni ko'mish uchun qabr o'lchamlari qanday belgilangan?
++ Chuqurligi 2 m, eni 1 m, uzunligi 2 m
+- Uzunligi 3 m, eni 2 m, chuqurligi 3 m
+- Eni 1,5 m, chuqurligi 1 m, uzunligi 2 m
+- Kengligi 1 m, chuqurligi 1 m, uzunligi 1,5 m
+- Chuqurligi 1,5 m, eni 2 m, uzunligi 3 m
+! Yetarli chuqurlik jasadning yer yuziga chiqib qolishi va hayvonlar tomonidan qazib olinishining oldini oladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Tobut tubi va yon tomonlariga dezinfeksiya kukuni qanday qalinlikda sepiladi?
++ 10 sm
+- 1 sm
+- 3 sm
+- 25 sm
+- 50 sm
+! Yetarli qatlam sizib chiqishi mumkin bo'lgan suyuqliklarni zararsizlantiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Jasad dafn etishdan oldin qanday o'raladi?
++ 20% li xlorli ohak yoki 10% li kalsiy gipoxlorit eritmasida namlangan choyshabga
+- 1% li xloramin eritmasida namlangan mato qatlamiga va ikki qavat polietilenga
+- Oddiy quruq choyshabga, so'ngra qalin qog'ozga
+- 70° li spirt bilan namlangan paxtali matoga
+- 5% li soda eritmasida namlangan gazlamaga va kleyonkaga
+! Dezinfeksiyalovchi eritmali o'ram jasad ajralmalarining tashqariga chiqishini oldini oladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Jasadni ko'mish guruhiga kim rahbarlik qiladi?
++ Tajribali epidemiolog
+- Patologoanatom
+- Hokimlik vakili
+- Veterinariya xizmati vrachi
+- Mahalla raisi
+! Guruh 3–5 kishidan iborat bo'lib, tarkibida turli xizmat mutaxassislari bor.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Avariya (masalan, qo'l jarohati) yuz bersa, bosh barmoq yoki qo'l qancha vaqt lizol eritmasiga tiqib turiladi?
++ 4–5 daqiqa
+- 30 daqiqa
+- 1 daqiqa
+- 15–20 daqiqa
+- 2 soat
+! Qisqa ekspozitsiya jarohat joyini zudlik bilan zararsizlantirish uchun mo'ljallangan.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Tuman markaziy kasalxonasi qabul bo'limida I tur MShHV jamlamalaridan nechtasi zaxirada bo'ladi?
++ 6 tadan
+- 3 tadan
+- 11 tadan
+- 16 tadan
+- 50 tadan
+! Viloyat markazlarida zaxira ancha katta.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? SanQvaN № 0090-25 ga ko'ra, o'choqli (yakuniy) dezinfeksiya qaysi holatlarda o'tkaziladi?
++ Bemor o'choqdan evakuatsiya qilingach, bemor vafot etgach yoki boshqa bo'limga ko'chirilgach
+- Bemor to'liq tuzalib chiqarilgandan 30 kun o'tgandan so'ng, aloqadorlar ro'yxati yopilgach va jasad bo'lmaganda
+- Bemor yotqizilgan paytda, aloqadorlar aniqlanishidan oldin
+- Har oyda bir marta, bemor bor-yo'qligidan qat'i nazar
+- Faqat jasad dafn etilgandan keyin, mahalla vakillari ishtirokida
+! Dezinfeksiya bemor xonadan chiqarilgach, ya'ni manba yo'qolgandan keyin, kirish eshigidan boshlab ketma-ket bajariladi.
+@ SanQvaN № 0090-25

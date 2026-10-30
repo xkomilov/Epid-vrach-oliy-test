@@ -1,0 +1,99 @@
+=== 057
+? O'zbekistonda vabo ustidan epidemiologik nazoratning asosiy normativ hujjati qaysi?
++ Sog'liqni saqlash vazirligining 2012-yil 25-yanvardagi 25-sonli buyrug'i
+- Sog'liqni saqlash vazirligining 2009-yil 11-sentyabrdagi 280-sonli buyrug'i
+- Sog'liqni saqlash vazirligining 2014-yil 25-apreldagi 149-sonli buyrug'i
+- Sog'liqni saqlash vazirligining 1996-yil 27-sentyabrdagi 672-sonli buyrug'i
+- Sog'liqni saqlash vazirligining 2015-yil 25-martdagi ichak infeksiyalari yo'riqnomasi buyrug'i
+! Bu buyruq vabo kasalligi ustidan sanitariya-epidemiologik nazorat yo'riqnomasini tasdiqlaydi, qolganlari boshqa masalalarga bag'ishlangan.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+#D 057 / 1: buyruq nusxasida sana "25.01" va "05.01" ko'rinishida ikki xil yozilgan.
+? Buyruqqa ko'ra, o'tkir diareyali bemorlar har yili qaysi muddatda vaboga bir marta bakteriologik tekshiriladi?
++ 1 maydan 31 oktyabrgacha
+- 1 iyundan 30 sentyabrgacha
+- 1 yanvardan 31 martgacha
+- 1 noyabrdan 31 martgacha
+- 1 iyuldan 31 avgustgacha
+! Tekshiruv vabo xavfi yuqori bo'lgan issiq mavsumni qamrab oladi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Ochiq suv havzalaridan vaboga namuna olishda suv harorati kamida qancha bo'lishi kerak?
++ +16 °C dan past bo'lmasligi
+- +4 °C dan past bo'lmasligi
+- +8 °C dan past bo'lmasligi
+- +30 °C dan past bo'lmasligi
+- +2 °C dan past bo'lmasligi
+! Vibrionlar past haroratda suvdan ajratilishi qiyinlashadi, shuning uchun harorat sharti belgilangan.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Ochiq suv havzalari va oqova suvdan namuna olish nuqtalari har yili qaysi muddatgacha belgilanadi?
++ 15 martgacha
+- 1 yanvargacha
+- 1 maygacha
+- 1 iyungacha
+- 15 oktyabrgacha
+! Nuqtalar mavsum boshlanishidan oldin epidemiologik asosda belgilanishi kerak.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Tashqi muhitdan O1 guruhli virulent va O139 Bengal vibrionlari ajratilganda yoki xavfli mamlakatlardan kelganlar vaboga necha marta tekshiriladi?
++ Uch marta
+- Bir marta
+- Ikki marta
+- Besh marta
+- Ikki haftada bir marta, to'xtovsiz
+! Bunday holatlarda xavf yuqori bo'lgani uchun qo'zg'atuvchi bor-yo'qligi uch marta tekshirib aniqlanadi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Odamlardan NAG vibrionlari ajratilganda muloqotda bo'lganlar ustidan necha kunlik tibbiy kuzatuv o'rnatiladi?
++ 5 kunlik
+- 3 kunlik
+- 7 kunlik
+- 14 kunlik
+- 30 kunlik
+! NAG vibrionlar odam uchun O1 kabi xavfli emas, shu sababli alohidalanadi va qisqa kuzatuv belgilanadi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Odamlar va tashqi muhitdan ajratilgan vibrion madaniyatlari o'rganilgach, respublika laboratoriyasiga necha soat ichida yetkaziladi?
++ 24 soat ichida
+- 6 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+- 30 kun ichida
+! Madaniyatni tez tasdiqlash va milliy kolleksiyaga topshirish uchun muddat qisqa belgilangan.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Epidemik mavsumda tuman va shaharlararo bakteriologik laboratoriyalar qanday rejimda ishlaydi?
++ Kecha-kunduz
+- Ish kunlari, kunduzgi soatlarda
+- Haftasiga bir marta, shanba kuni
+- Faqat yakshanba va bayram kunlari
+- Oyiga ikki marta, belgilangan jadval bo'yicha
+! Epidemik mavsumda tezkor tashxis uchun laboratoriya uzluksiz ishlashi kerak.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25)
+? Himoya kiyimi ukladkalarining har birida nechta to'plam ko'rsatilgan?
++ 30 donadan
+- 10 donadan
+- 50 donadan
+- 100 donadan
+- 5 donadan
+! Ukladkalar zaxira epidemiologik tuzilmalar uchun viloyatlar markazlari omborlarida saqlanadi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 9, 11, 12-ilovalar
+#U 057 / 9: raqam faqat mavzu materialida keltirilgan buyruq ilovasiga tayanadi.
+? Qaysi moddalar amaldagi Qonunda Respublika hududining sanitariya muhofazasi va o'choqlardagi choralarni belgilaydi?
++ 31- va 32-moddalar
+- 12- va 13-moddalar
+- 40- va 41-moddalar
+- 5- va 6-moddalar
+- 20- va 21-moddalar
+! 40-modda esa 1992-yilgi qonunning o'z kuchini yo'qotganini belgilaydi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 31, 32, 40-moddalar
+? Yo'riqnomada regidratatsiyaning ikkinchi bosqichi nimadan iborat?
++ Yo'qotilayotgan suv va elektrolitlarni o'sha hajm va tezlikda to'ldirish
+- Faqat qusuqni to'xtatish uchun oshqozonni yuvish va ovqatlanishni to'xtatish
+- Dastlabki 6 soatda bemorga suyuqlik bermasdan antibiotik yuborish
+- Ich ketishini to'xtatuvchi dorilar bilan suyuqlik miqdorini cheklash
+- Bemorni xonada ajratib, faqat kuzatuv olib borish va bir sutka suv bermaslik
+! Suvsizlanishni bartaraf etish uchun yo'qotilgan suyuqlik hajmi va tezligi ta'minlanishi kerak.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+? Vabo yoki vibrion tashuvchilikni o'tkazganlarni kuzatuvdan chiqarish haqidagi qaror kim tomonidan qabul qilinadi?
++ Bosh shifokor, infeksionist va epidemiologdan iborat komissiya
+- Faqat bemorni davolagan hamshira va uning bevosita rahbari
+- Tuman hokimi va uning o'rinbosari alohida qarori bilan
+- JSST Yevropa mintaqaviy byurosining vakili va tarjimon
+- Bemorning o'zi va uning oila a'zolari yozma arizasi asosida
+! Kuzatuvdan chiqarish to'liq sog'ayish va vibrionlar ajralmaganini tasdiqlovchi ko'p tomonlama qaror talab qiladi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova

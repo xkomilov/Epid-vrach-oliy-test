@@ -1,0 +1,101 @@
+=== 115
+? JSST ta'rifiga ko'ra zoonoz nima?
++ Umurtqali hayvonlardan odamga tabiiy yo'l bilan yuqadigan har qanday kasallik yoki infeksiya
+- Odamdan odamga yuqadigan, hayvonlar kasallanmaydigan har qanday infeksiya
+- Tashqi muhit ob'ektlarida yashab ko'payadigan, odamga tasodifiy tushadigan mikroblar chaqiradigan har qanday kasallik
+- Qon so'ruvchi hasharotlar orqali faqat odamlar orasida tarqaladigan kasallik
+- Kasalxonada davolanish jarayonida yuqadigan har qanday infeksiya
+! Ta'rifning asosiy mezoni qo'zg'atuvchining hayvondan odamga o'tishidir.
+@ WHO. Zoonoses (fact sheet)
+? Shlyaxov tasnifi bo'yicha zoonozlar qanday guruhlarga bo'linadi?
++ Yovvoyi hayvonlar, uy hayvonlari va sinantrop (xonaki) hayvonlar zoonozlari
+- Bakterial, virusli va prionli zoonozlar, qo'zg'atuvchi turiga ko'ra
+- Transmissiv, kontakt va alimentar zoonozlar, yuqish yo'liga ko'ra bo'linadi
+- Shahar, qishloq va chegara hududi zoonozlari, tarqalish joyiga ko'ra
+- Kasbiy, maishiy va tasodifiy zoonozlar, yuqish sharoitiga ko'ra
+! Tasnif qo'zg'atuvchini saqlovchi hayvonlarning yashash muhiti va inson bilan aloqasiga asoslangan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qoraoqsoq va kuydirgi kabi uy hayvonlari kasalliklari odatda qanday o'choqlarni hosil qiladi?
++ Antropurgik o'choqlarni
+- Tabiiy (birlamchi) o'choqlarni
+- Faqat suv havzalaridagi o'choqlarni
+- Atmosfera havosida tarqaluvchi o'choqlarni
+- Dengiz sohili o'choqlarini
+! Uy hayvonlari inson xo'jaligi bilan bog'liq bo'lgani uchun ularning o'choqlari ham odam faoliyati bilan shakllanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Zoonoz qo'zg'atuvchilari uchun odam epidemiologik jihatdan qanday xo'jayin hisoblanadi?
++ Tasodifiy yoki biologik boshi berk xo'jayin
+- Doimiy asosiy rezervuar xo'jayin
+- Mutlaq majburiy oraliq xo'jayin
+- Doimiy tashuvchi va tarqatuvchi xo'jayin
+- Qo'zg'atuvchi ko'payadigan yagona xo'jayin
+! Zoonozlarda qo'zg'atuvchi odam orqali keyingi bo'g'inga o'tmaydi, aylanish hayvonlar orasida davom etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra qaysi kasallik O'zbekistonda iksod kanalari yashashi uchun o'rmonlar yo'qligi sababli uchramaydi?
++ Kanali ensefalit
+- Ku isitmasi (koksiellyoz)
+- Tulyaremiya (quyon isitmasi)
+- Qoraoqsoq kasalligi
+- Brutsellyoz (Bang kasalligi)
+! Kasallikni tashuvchi kanalar o'rmonli hududlarga xos bo'lib, bunday biotoplar respublikada deyarli yo'q.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ku isitmasi (koksiellyoz) bo'yicha qaysi hujjatda yo'riqnoma berilgan?
++ SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+- SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+- SSV 2012-yil 25-yanvardagi 25-son buyrug'i
+- SSV 2016-yil 16-maydagi 226-son buyrug'i
+- Vazirlar Mahkamasining 2015-yil 31-iyuldagi 220-son qarori
+! Ku isitmasi 37-son buyruq ilovalaridagi (quturish, kuydirgi, brutsellyoz, QKGI, oqsim) kasalliklar qatoriga kirmaydi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova; SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? Qaysi kasallik bo'yicha yo'riqnoma 37-son buyruqning 1–5-ilovalarida berilgan?
++ Qrim-Kongo gemorragik isitmasi
+- Ku isitmasi (koksiellyoz)
+- Tulyaremiya (quyon isitmasi)
+- Qoqshol (tetanus)
+- Vabo (xolera)
+! Buyruq quturish, kuydirgi, brutsellyoz, Qrim-Kongo gemorragik isitmasi va oqsim profilaktikasini qamraydi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'i (1–5-ilovalar)
+? Darslikka ko'ra O'zbekistonda quturish bilan kasallanish qanday darajada?
++ Yuqori emas, 1990-yillardan har yili bir-ikkita holat
+- Juda yuqori, har yili yuzlab holat qayd etiladi
+- Mutlaqo qayd etilmagan, hech qachon uchramagan deb hisoblanadi
+- Faqat chetdan keltirilgan holatlar, mahalliy holatlarsiz
+- Har yili minglab holat, asosan shaharlarda
+! Quturish bilan kasallanish respublikada kam bo'lsa ham, yuqori o'lim tufayli profilaktika dolzarb bo'lib qolmoqda.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Salmonellyoz qo'zg'atuvchisi odamga asosan qaysi omillar orqali yuqadi?
++ Go'sht va tuxum kabi hayvon mahsulotlari orqali
+- Qon so'ruvchi kanalar chaqishi orqali
+- Havo-tomchi yo'li bilan kasal hayvonlar yo'tali orqali
+- Hayvonlarning to'g'ridan-to'g'ri tishlashi orqali
+- Ko'rshapalaklar yashaydigan g'orlardagi aerozol orqali
+! Hayvonlar orasida fekal-oral yo'l bilan tarqalgan qo'zg'atuvchi mahsulotga o'tib, odamga alimentar yo'l bilan yetadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Kuydirgi bo'yicha enzootik hududlarda ishlovchi xavf guruhlari nechchi yoshdan emlanadi?
++ 14 yoshdan
+- 7 yoshdan
+- 12 yoshdan
+- 16 yoshdan
+- 18 yoshdan
+! Emlash kasbiy xavf ostida bo'lgan o'smir va kattalar uchun nazarda tutilgan.
+@ SanQvaM № 0239-07/3 (O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi)
+? Zooantroponoz kasalliklar bo'yicha tibbiyot xodimlari qachon o'qitiladi?
++ Har yili I chorakda
+- Har yili II chorakda
+- Har yili III chorakda
+- Har yili IV chorakda
+- Har 5 yilda bir marta
+! Yillik o'qitish mavsumiy faollik boshlanishidan oldin bilimni yangilashga xizmat qiladi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? Qishloq aholisining uy hayvonlaridan yuqadigan zoonozlar bilan kasallanishi shahar aholisiga nisbatan qanday?
++ Ko'proq, chunki kasbiy va ijtimoiy faoliyat xavfni belgilaydi
+- Kamroq, chunki qishloqda hayvonlar emlangan bo'ladi
+- Bir xil, chunki yuqish faqat shaharda ham qishloqda ham shamol orqali sodir bo'ladi
+- Kamroq, chunki qishloq aholisida tug'ma immunitet mavjud
+- Faqat qishda ko'proq, boshqa fasllarda farq yo'q
+! Chorva bilan bevosita aloqa qishloq aholisida qo'zg'atuvchi bilan uchrashish ehtimolini oshiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+#D 115 / 8: darslikda quturish har yili bir-ikkita holat deb berilgan, boshqa manbalarda yillik raqamlar keltirilmagan; Qrim-Kongo isitmasi bo'yicha darslik (deyarli qayd etilmaydi) va 37-son buyruq (mavjud o'choqlar) farq qiladi.
+#U 115 / 5: kanali ensefalit O'zbekistonda uchramasligi haqidagi fikr faqat darslikka tayanadi, tashqi manba bilan tasdiqlanmagan.
+#U 115 / 8: quturish bo'yicha yillik holatlar soni faqat darslikka tayanadi.
+#U 115 / 11: tibbiyot xodimlarini I chorakda o'qitish muddati faqat 37-son buyruq materialiga tayanadi.

@@ -1,0 +1,99 @@
+=== 095
+? Qizamiqning yashirin davri qancha davom etadi?
++ 8–21 kun (o'rtacha 9–10 kun)
+- 1–3 kun, ya'ni gripp kabi qisqa yashirin davr
+- 3–5 kun, ichak infeksiyalariga xos davr
+- 30–45 kun, gepatit B kabi uzoq yashirin davr
+- 60–90 kun, qutir virusi kabi uzoq davr
+! Virus nafas yo'llarida ko'payib, qonga o'tgandan keyin toshma bosqichigacha bir necha hafta ichida klinik belgilar yuzaga keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra qizamiq virusi boshqa havo-tomchi infeksiyalardan farqli o'laroq manbadan qancha masofada turgan odamga yuqishi mumkin?
++ 5–8 metr
+- 0,1–0,3 metr, faqat to'g'ridan-to'g'ri yuz yaqinligida
+- 0,5–1 metr, suhbat masofasida
+- 20–30 metr, ochiq havoda shamol yo'nalishida
+- 100 metrdan ortiq, ochiq maydonlarda
+! Virus mayda aerozol zarralari bilan havoda uzoqroq muddat va masofada tarqalishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq standart ta'rifiga ko'ra toshma tanada qanday ketma-ketlikda tarqaladi?
++ 1-kun yuz va bo'yin, 2-kun qorin va bel, 3-kun oyoq-qo'llar
+- 1-kun oyoq-qo'llar, 2-kun qorin va bel, 3-kun yuz va bo'yin, ya'ni pastdan yuqoriga
+- 1-kun qorin va bel, 2-kun yuz va bo'yin, 3-kun kaftlar va tovonlar faqat
+- 1-kun kaftlar, 2-kun oyoq-qo'llar, 3-kun yuz, ya'ni periferiyadan markazga
+- 1-kun bir vaqtda butun badanga, keyingi kunlarda toshma o'zgarmaydi
+! Toshma boshdan boshlanib, pastga tushadi, bu qizamiqqa xos klinik belgi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; O'zR SSV 2015-yil buyrug'iga 6-ilova (qizamiq va qizilcha namunalari bo'yicha uslubiy ko'rsatma)
+? Qizamiq laboratoriya tashxisida qaysi usul «oltin standart» hisoblanadi?
++ IFA usulida IgM antitelalarini aniqlash
+- Qonni umumiy tahlil qilish va leykotsitlar formulasini baholash
+- Bakteriologik ekma va oziq muhitda koloniyalar o'stirish
+- Rentgenologik tekshiruv va o'pka rasmini baholash
+- Mantu sinamasi va teri ichiga allergen yuborish
+! Birlamchi infeksiyada maxsus IgM tez paydo bo'ladi va laboratoriya tasdig'ini beradi.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (qizamiq va qizilcha namunalari bo'yicha uslubiy ko'rsatma)
+? Serologik tekshiruv uchun qon toshma boshlanganidan keyin qaysi oraliqda olinsa natija aniqroq bo'ladi?
++ 4–28 kun
+- 0–1 kun, toshma boshlangan kunning o'zida
+- 30–45 kun, tuzalgandan keyin
+- 2–3 oy, qaytalanish davrida
+- 6–12 oy, immunitet barqaror bo'lganda
+! Juda erta olingan namunada antitelalar hali hosil bo'lmagan bo'lishi mumkin, juda kech olinganda esa IgM yo'qola boshlaydi.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (qizamiq va qizilcha namunalari bo'yicha uslubiy ko'rsatma)
+? Milliy kalendarda qizamiq-qizilcha-parotit (KPK) vaksinasi qaysi yoshlarda va qanday yuboriladi?
++ 12 oylikda va 6 yoshda, 0,5 ml teri ostiga
+- 2 va 4 oylikda, 0,5 ml mushak orasiga
+- 6 oylikda va 12 yoshda, 1,0 ml teri ichiga
+- 9 oylikda va 16 yoshda, 0,1 ml teri ichiga
+- 18 oylikda va 3 yoshda, 1,0 ml mushak orasiga
+! Birinchi doza ona antitelalari yo'qolgach beriladi, ikkinchisi esa birinchi dozaga javob bermaganlarni qamrab olish uchun.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Tirik vaksinalar eritilgandan keyin qancha vaqt ichida ishlatiladi?
++ 6 soat ichida
+- 30 daqiqa ichida
+- 24 soat ichida, xona haroratida saqlangan holda
+- 3 sutka ichida, muzlatkichda saqlangan holda
+- 7 sutka ichida, +2...+8 °C da
+! Eritilgan preparat faolligini tez yo'qotadi, shu sababli ishlatilmagan qismi yo'q qilinadi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Immunoglobulin yuborilgandan keyin KPK vaksinasi kamida qancha vaqtdan so'ng beriladi?
++ 3 oydan keyin
+- 1 haftadan keyin
+- 1 oydan keyin
+- 12 oydan keyin
+- 2 yildan keyin
+! Tayyor antitelalar tirik vaksina virusini zararsizlantirishi va emlash samarasini pasaytirishi mumkin.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Qizamiq o'chog'ida bemor bilan muloqotda bo'lgan, avval emlanmagan va kasallanmagan qaysi yoshdagi shaxslar emlanadi?
++ 6 oylikdan 30 yoshgacha
+- Tug'ilgandan 3 oygacha
+- 1 yoshdan 5 yoshgacha, faqat bog'cha bolalari
+- 15 yoshdan 18 yoshgacha, maktab o'quvchilari
+- 40 yoshdan 60 yoshgacha, ishlovchi kattalar
+! Chegara o'choqda moyil bo'lishi mumkin bo'lgan va emlash ko'rsatilgan keng yosh oralig'ini qamrab oladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Qizamiqqa qarshi serologik monitoringda seronegativlar ulushi kamida qanchadan oshmasligi kerak?
++ 7 % dan
+- 1 % dan, ya'ni deyarli yo'q bo'lishi
+- 20 % dan, har bir yosh guruhida
+- 35 % dan, o'rtacha ko'rsatkich sifatida
+- 50 % dan, aholining yarmi
+! Seronegativlar ulushi cheklanganda jamoada virus tarqalishi uchun yetarli moyil qatlam qolmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq o'tkazgan bemorlarda yillar o'tib rivojlanadigan sklerozlovchi panensefalitning yashirin davri o'rtacha qancha?
++ 7–8 yil
+- 7–8 kun
+- 7–8 hafta
+- 25–30 yil
+- 1 oy
+! Bu og'ir kech asorat birlamchi infeksiyadan juda uzoq vaqt o'tgach namoyon bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? CDC ma'lumotiga ko'ra qizamiq bemori toshma paydo bo'lishidan necha kun oldin va undan necha kun keyingacha yuqumli hisoblanadi?
++ 4 kun oldin va 4 kun keyin
+- 1 kun oldin va 1 kun keyin
+- 7 kun oldin va 14 kun keyin
+- 2 kun oldin va 10 kun keyin
+- Toshma boshlanishidan keyingina, 21 kun davomida
+! Yuqumlilik davri toshma paydo bo'lishidan oldin boshlanadi, shu sababli bemor klinik tashxis qo'yilguncha tarqatishi mumkin.
+@ CDC. Healthcare Providers: Stay Alert for Measles Cases
+#D 095 / 12: Mirtazayev darsligida bemor toshmadan 2 kun oldin yuqumli deb ko'rsatilgan, CDC esa toshmadan 4 kun oldin va 4 kun keyin yuqumli deb hisoblaydi; material bu farqni izohlamagan.
+#U 095 / 12: CDC ning 4+4 kunlik yuqumlilik davri faqat qidiruv parchasi orqali ko'rilgan, to'liq sahifa bilan tasdiqlanmagan.

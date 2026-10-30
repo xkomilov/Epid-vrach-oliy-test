@@ -1,0 +1,106 @@
+=== 070
+? JSST ma'lumotiga ko'ra vabo avj olishini qaysi serogruppalar chaqiradi?
++ Faqat O1 va O139
+- O157 va O104, chunki ular enterogemorragik ichak tayoqchalari bilan birga uchraydi
+- O26 va O111
+- O3 va O55
+- O1 va O157, O139 esa faqat sporadik holat beradi
+! Boshqa serogruppalar avj olishlar chaqirmaydi.
+@ WHO. Cholera (fact sheet)
+? O'rta darajadagi suvsizlanishda tana vazni qancha foizga kamayadi?
++ 4–6 foizga
+- 1–3 foizga, bu yengil darajaga mos keladi va tomir ichiga suyuqlik talab etilmaydi
+- 7–9 foizga
+- 9 foizdan ko'proq
+- 0,5 foizdan kam
+! Yengil daraja 1–3 foiz, og'ir daraja 7–9 foiz, juda og'ir daraja esa 9 foizdan ko'p yo'qotishga mos.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? Vaboda etiotrop davo sifatida doksitsiklin qanday dozada buyuriladi?
++ 0,1 g har 12 soatda birinchi sutkada, keyin 0,1 g sutkada bir marta
+- 1 g sutkada bir marta 10 kun davomida, ya'ni bolalar uchun ham shu doza ishlatiladi
+- 0,5 g har 6 soatda 14 kun
+- 0,3 g har 4 soatda 3 kun
+- 2 g sutkada bir marta bir oy
+! Doksitsiklin bo'lmasa, tetratsiklin yoki levomitsetin ishlatiladi.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? Vaboda antibiotik kursi odatda necha kun davom etadi?
++ 5 kun
+- 1 kun, bitta dozada
+- 10 kun, tomir ichiga
+- 14 kun
+- 30 kun
+! Vibrion tashuvchilarda kurs qisqaroq, 3–5 kun.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? Vabo bilan kasallangan bemor chiqarilishidan oldin nazorat bakteriologik tekshiruvi qanday o'tkaziladi?
++ Antibiotiklar tugagandan 24–36 soat o'tib, najasdan uch marta
+- Antibiotiklar tugagan kuni, najasdan bir marta, shundan keyin chiqariladi
+- Antibiotiklar tugagandan 10 kun o'tib, qondan ikki marta
+- Davolash boshlangan kuni, siydikdan bir marta
+- Antibiotiklar tugagandan bir oy o'tib, o't suyuqligidan to'rt marta
+! Bakteriologik manfiy natija chiqarish shartlaridan biridir.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? Epidemiolog vabo o'chog'ida umumiy ovqatlanish va savdo korxonalarida ishlovchi aloqadorlarga nisbatan qanday chora ko'radi?
++ Izolyatsiya qiladi, uch marta bakteriologik tekshiradi va profilaktik davolaydi
+- Bir marta tekshirib, tibbiy kuzatuvsiz ishga ruxsat beradi va profilaktik davolashni talab qilmaydi
+- So'rov o'tkazadi
+- 3 kunga ishdan chetlatadi
+- Sanitariya kitobchasini tekshiradi
+! Bu toifa xodimlar epidemiologik jihatdan xavfliroq bo'lgani uchun qattiqroq nazorat qo'llanadi.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? Qaysi shaxslar vabo uchun epidemiologik jihatdan eng xavfli guruhga kiradi?
++ Anatsid va gipoatsid gastritli, me'da rezeksiyasini o'tkazgan shaxslar
+- Giperatsid gastritli va oshqozon kislotaligi yuqori bo'lgan shaxslar, chunki kislota qo'zg'atuvchini nobud qilmaydi
+- Oshqozon-ichak kasalliklari bo'lmagan sportchilar
+- Yuqori kislotalilikka ega yosh kattalar
+- Barcha emlangan shaxslar
+! Me'da kislotasining kamayishi qo'zg'atuvchi uchun to'siqni yo'qotadi.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? Karantin va o'ta xavfli infeksiyalar bo'yicha epidemiyaga qarshi shtablar har yili qaysi muddatda tashkil etiladi?
++ 1 maydan 1 noyabrgacha
+- 1 yanvardan 1 apreligacha, qish davrida kasallanish ortishi sababli
+- 1 iyundan 1 sentyabrgacha
+- 1 dekabrdan 1 martgacha
+- 1 martdan 1 iyungacha
+! Muddat yilning issiq va o'ta xavfli ichak infeksiyalari xavfi yuqori davrini qamrab oladi.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova)
+? JSST bo'yicha vabo davolash markazlarida o'lim ko'rsatkichi qancha bo'lishi kerak?
++ 1% dan past
+- 5% dan past, ya'ni o'rtacha o'lim darajasi qabul qilinadi
+- 10% dan past
+- 15% dan past
+- 25% dan past
+! Bu maqsad o'z vaqtida regidratatsiya va to'g'ri davo bilan erishiladi.
+@ WHO. Cholera (fact sheet)
+? JSST nima uchun ommaviy antibiotik profilaktikasini tavsiya etmaydi?
++ Uning tarqalishga ta'siri isbotlanmagan va chidamlilik paydo bo'lishi mumkin
+- U qo'zg'atuvchini yo'qotmaydi va faqat bemorda belgilarni kuchaytirishi hisoblanadi, shuning uchun qat'iyan taqiqlanadi
+- Vabo faqat virus qo'zg'atuvchisi bo'lgani uchun antibiotiklar ta'sir qilmaydi
+- Antibiotiklar suvsizlanishni bartaraf etadigan yagona vosita hisoblanadi
+- Antibiotiklar faqat bolalarga tavsiya etiladi
+! Bunday yondashuv qarshilikni oshirishi mumkin, aholini himoya qilishda esa asosiy vosita suv va sanitariya.
+@ WHO. Cholera (fact sheet)
+? Vabo gumon qilinganda bakteriologik tekshiruv uchun namuna qachon olinadi?
++ Antibakterial terapiyadan oldin
+- Antibiotik boshlangandan 3 kun o'tib, natija o'zgarmaydi va manfiy javob olingach, davo to'xtatiladi
+- Bemor tuzalgandan keyin 2 hafta o'tib
+- Faqat o'lim holatidan so'ng
+- Davolash oxirida, kasalxonadan chiqish kuni
+! Antibiotik qo'zg'atuvchini ajratish ehtimolini kamaytiradi.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i (1-ilova); O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova
+? Aholining sanitariya-epidemiologik osoyishtaligi to'g'risidagi Qonunning 31-moddasi nimani belgilaydi?
++ Cheklov tadbirlari (karantin) joriy etilishini
+- Xodimlarning majburiy dastlabki va davriy tibbiy ko'rigini hamda ularning natijalarini
+- Fuqarolarni gigienik o'qitishni
+- Profilaktik dezinfeksiyani shartnoma asosida o'tkazishni
+- Ichimlik suvining sifati bo'yicha davlat nazoratini
+! Karantin vabo kabi o'ta xavfli infeksiyalar tarqalishining oldini olishda qo'llanadigan cheklov tadbiridir.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 31–32-moddalar
+#D 070 / 10: O'zbekiston hujjatida aloqadorlarni profilaktik davolash qoidasi bor, JSST esa ommaviy antibiotik profilaktikasini tavsiya etmaydi.
+#U 070 / 2: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 3: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 4: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 5: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 6: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 7: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 8: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.
+#U 070 / 11: faqat SSV 25-son buyrug'iga tayangan; buyruq sanasi (25.01.2012 yoki 05.01) matnda nomuvofiq, tasdiqlanmagan.

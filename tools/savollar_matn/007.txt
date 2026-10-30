@@ -1,0 +1,97 @@
+=== 007
+? Tabiiy faol immunitet qanday hosil bo'ladi?
++ Yuqumli kasallikdan sog'aygandan keyin
+- Onadan bolaga yo'ldosh va sut orqali o'tishi natijasida
+- Vaksina yuborilishi natijasida kasallik o'tkazilmasdan
+- Zardob yoki immunoglobulin kiritilgandan so'ng
+- Antitoksik zardob yuborilishi natijasida, tayyor antitelolar hisobiga
+! Bunda organizmning o'zi kasallik davomida antitelo va xotira hujayralarini hosil qiladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006
+? Tabiiy sust immunitet qanday yo'l bilan olinadi?
++ Onadan bolaga yo'ldosh va ona suti orqali
+- Kasallikni o'zi o'tkazganda, uning natijasida
+- Emlash paytida kuchsizlantirilgan qo'zg'atuvchi kiritilganda
+- Tayyor zardob yoki immunoglobulin yuborilganda
+- Antitoksin va immunoglobulin yuborilishi natijasida, tibbiy aralashuv orqali
+! Bolaga tayyor antitelolar onadan o'tadi, shuning uchun bu immunitet sust va qisqa muddatli bo'ladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006
+? Sun'iy sust immunitet qachon paydo bo'ladi?
++ Zardob, qon, immunoglobulin yoki plazma yuborilgandan so'ng
+- Vaksina bilan emlangandan va javob hosil bo'lgandan so'ng
+- Yuqumli kasallikdan tuzalgandan keyin, uzoq muddatdan so'ng
+- Bola ona suti bilan oziqlantirilganda
+- Anatoksin yoki vaksina bilan emlash natijasida, xotira hosil bo'lishi bilan
+! Tayyor antitelolar tibbiy aralashuv bilan kiritilgani uchun himoya yuborilgan zahoti boshlanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006
+? Sun'iy faol immunitet qanday hosil qilinadi?
++ Vaksinalar bilan emlash orqali, kasallikni o'tkazmasdan
+- Bemorga tayyor zardob kiritish orqali, tezkor himoya olish uchun
+- Onaning yo'ldosh orqali bolaga antitelo yuborishi orqali
+- Kasallikni og'ir shaklda o'tkazish orqali, tabiiy sharoitda
+- Sog'aygandan so'ng organizmning o'zi antitelo hosil qilishi orqali, tabiiy sharoitda
+! Vaksina organizmni antitelo ishlab chiqarishga va immun xotira hosil qilishga o'rgatadi, xavfli kasallikni o'tkazish shart emas.
+@ World Health Organization. Vaccines and immunization: What is vaccination?
+? Neytrofil o'rtacha nechta bakteriyani fagotsitoz qilgach halok bo'ladi?
++ 10–20 ta
+- 1–2 ta
+- 100–200 ta
+- 1000 tadan ortiq
+- 3–5 ta
+! Halok bo'lgan neytrofillar yiring tarkibining asosini tashkil etadi.
+@ Zornikov D.L., Litusov N.V. Osnovy protivoinfektsionnoy immunologii, Yekaterinburg, 2016
+? T-limfotsitlar qaysi a'zoda yetiladi?
++ Timusda
+- Taloqda
+- Suyak ko'migida, B-limfotsitlar bilan birga
+- Limfa tugunlarida
+- Qizil ilik
+! Timus epiteliy hujayralari ishlab chiqaradigan gormonlar ta'sirida T-limfotsitlar turli vazifali subpopulyatsiyalarga ajraladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006
+? Nosteril immunitet qanday xususiyatga ega?
++ Kasallikdan keyin qo'zg'atuvchi organizmda saqlanib qoladi, ammo kasallik belgilari kuzatilmaydi
+- Kasallikdan so'ng qo'zg'atuvchi organizmdan butunlay yo'qoladi va qayta kasallanish bo'lmaydi
+- Immunitet umuman hosil bo'lmaydi va kasallik har gal og'ir kechadi
+- Organizm onadan o'tgan antitelolar hisobiga himoyalanadi, qo'zg'atuvchi esa saqlanmaydi
+- Himoya faqat vaksina yuborilgandan keyingi birinchi yil davomida saqlanib, so'ng butunlay so'nadi
+! Bunday shaxs bakteriya tashuvchi bo'lib, infeksiya manbaiga aylanishi mumkin, masalan sil va qorin tifida.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006
+? Quyidagilardan qaysi biri tug'ma (nomaxsus) immunitetning tarkibiy qismi hisoblanadi?
++ Fagotsitlar, NK-hujayralar va komplement tizimi
+- Immunologik xotira hujayralari va maxsus antitelolar
+- Vaksinadan keyin hosil bo'lgan antitelolar
+- Zardob yuborilganda paydo bo'ladigan tayyor antitelolar
+- Antitoksin zardobi va immunoglobulin preparatlari
+! Tug'ma himoya mikrob kirgandan so'ng darhol, oldindan faollashishni talab qilmasdan ishlaydi.
+@ Zornikov D.L., Litusov N.V. Osnovy protivoinfektsionnoy immunologii, Yekaterinburg, 2016
+? Sust immunitetning faol immunitetdan farqi qaysi javobda to'g'ri ko'rsatilgan?
++ Himoya yuborilgan zahoti beradi, ammo qisqa muddatli bo'ladi
+- Himoya sekin hosil bo'ladi, ammo juda uzoq saqlanadi
+- Himoya organizmning o'zi hosil qilgan xotira hujayralariga tayanadi
+- Himoya faqat kasallikni o'tkazgandan keyin paydo bo'ladi
+- Himoya onadan o'tgan hujayralar orqali bola hayoti davomida o'zgarmay saqlanadi
+! Sust immunitetda tayyor antitelolar kiritiladi, xotira hosil bo'lmagani uchun himoya tez so'nadi.
+@ Zornikov D.L., Litusov N.V. Osnovy protivoinfektsionnoy immunologii, Yekaterinburg, 2016
+? Qon zardobida C-reaktiv oqsilning aniqlanishi nimadan dalolat beradi?
++ Kuchli yallig'lanish jarayonidan
+- Vaksinaga yetarli antitelo hosil bo'lganidan
+- Tug'ma immunitetning to'liq yo'qolganidan
+- Allergik reaksiya mavjud emasligidan
+- Immun tolerantlik shakllanganidan
+! C-reaktiv oqsil o'tkir faza oqsili bo'lib, yallig'lanishda ko'payadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006
+? Pandemiyalarga olib keladigan A grippi virusining yangi turi paydo bo'lganda aholining immun holati qanday bo'ladi?
++ Aholi unga immunitetga ega bo'lmaydi
+- Aholi avvalgi emlashlar tufayli to'liq himoyalangan bo'ladi
+- Faqat bolalar kasallanadi, kattalar esa to'liq himoyalangan
+- Aholining ko'pchiligi tabiiy sust immunitetga ega bo'ladi
+- Aholining ko'pchiligi bu virusga nisbatan tabiiy faol immunitetga ega bo'ladi
+! Yangi antigen tuzilmasi aholining mavjud immunitetidan qochgani uchun virus tez tarqaladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Komplementning ko'p qismini qaysi hujayralar sintez qiladi?
++ Monotsit va makrofaglar
+- T-limfotsitlar va timus hujayralari
+- Eritrotsitlar va trombotsitlar
+- Plazmatik hujayralar va B-limfotsitlar
+- Qizil ilik va suyak to'qimasi hujayralari
+! Komplement tug'ma himoyaning gumoral omillaridan biri bo'lib, asosan mononuklear fagotsitlar tomonidan ishlab chiqariladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya, Toshkent, 2006

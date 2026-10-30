@@ -1,0 +1,97 @@
+=== 100
+? Qizamiq virusi qaysi oila va turkumga mansub?
++ Paramyxoviridae oilasi, Morbillivirus turkumi
+- Picornaviridae oilasi, Enterovirus turkumi, ichak infeksiyalari qo'zg'atuvchilari bilan birga
+- Orthomyxoviridae oilasi, Influenzavirus turkumi
+- Herpesviridae oilasi, Varicellovirus turkumi
+- Togaviridae oilasi, Rubivirus turkumi
+! Bu virus RNK tutadi va tashqi muhitda quyosh nuri va quritish ta'sirida tez nobud bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq vaksinasi qanday turdagi va qanday usulda yuboriladi?
++ Tirik susaytirilgan, 0,5 ml teri ostiga
+- O'ldirilgan inaktivlangan, 1,0 ml mushak orasiga
+- Anatoksin, 0,5 ml teri ichiga
+- Rekombinant subbirlik, 0,1 ml og'iz orqali
+- Konyugat polisaxaridli, 1,0 ml teri ichiga
+! Tirik vaksina virusi organizmda cheklangan ko'payib, turg'un immunitet hosil qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? KPK vaksinasi qanday sharoitda saqlanadi?
++ +2...+8 °C da, muzlatilmaydi, yorug'likdan himoyalanadi
+- -20 °C da muzlatilgan holda, yorug'likda ham saqlanadi
+- +18...+25 °C da, xona haroratida har qanday yoritilishda
+- +37 °C da termostatda, qorong'i joyda
+- -70 °C da, ishlatishdan oldin 6 soat eritiladi
+! Vaksina virusi issiqlik va yorug'likka sezgir, shuning uchun sovuq zanjir va qorong'i saqlash talab etiladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Eritilgan KPK vaksinasi qancha vaqt ichida ishlatilishi kerak?
++ 6 soat ichida
+- 15 daqiqa ichida
+- 24 soat ichida
+- 3 sutka ichida
+- 1 hafta ichida
+! Eritilgandan keyin vaksina tez faolsizlanadi, ishlatilmagan qoldiq esa yo'q qilinadi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Bir xil vaksina dozalari orasida kamida qancha vaqt bo'lishi kerak?
++ Kamida 1 oy
+- Kamida 1 hafta
+- Kamida 3 oy
+- Kamida 6 oy
+- Kamida 1 yil
+! Bu oraliq birinchi dozaga immun javob shakllanishi uchun yetarli muddatni beradi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Eritrotsitar yoki leykotsitar massa quyilgandan keyin KPK vaksinasi qancha vaqtdan so'ng beriladi?
++ 6 oydan so'ng
+- 1 haftadan so'ng
+- 1 oydan so'ng
+- 3 oydan so'ng
+- 2 yildan so'ng
+! Qon preparatlaridagi antitelalar vaksina virusining ko'payishiga to'sqinlik qilishi mumkin.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? O'rtacha va og'ir kasalliklar paytida qizamiqqa qarshi emlash qachon o'tkaziladi?
++ Tuzalgandan 3–14 kun o'tgach
+- Kasallik avjida, harorat tushishini kutmasdan
+- Tuzalgandan 2 yil o'tgach
+- Tuzalgandan 6 oy o'tgach
+- Emlash butunlay bekor qilinadi
+! Bu qarshi ko'rsatma vaqtinchalik bo'lib, holat yaxshilanishi bilan bekor bo'ladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? 1954 yilda J. Enders va T. Peebles qizamiq bo'yicha nimani amalga oshirgan?
++ Bemordan qizamiq virusini ajratib, hujayra madaniyatida ko'paytirgan
+- Qizamiqni klinik jihatdan qizilchadan ajratib, tasvirlab bergan
+- Birinchi o'ldirilgan vaksinani odamlarda sinab ko'rgan
+- Virusning RNK genomini to'liq o'qib chiqqan
+- Qizamiq eliminatsiyasini butun dunyoda e'lon qilgan
+! Bu kashfiyot keyinchalik vaksina yaratilishiga asos bo'lgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq bilan kasallanganlarning burun va ko'z suyuqligida aniqlanadigan IgA sinfi mahalliy sekretor antitelalar haqida qaysi fikr to'g'ri?
++ Ular zardob antitelalariga qaraganda ishonchliroq chidamlilik ko'rsatkichi hisoblanadi
+- Ular faqat o'tkir bosqichda paydo bo'lib, 24 soatda yo'qoladi va ahamiyatga ega emas
+- Ular zardob antitelalariga nisbatan kamroq ahamiyatli va amaliyotda hisobga olinmaydi
+- Ular faqat o'ldirilgan vaksina bilan emlanganlarda hosil bo'ladi
+- Ular faqat yangi tug'ilgan chaqaloqlarda aniqlanadi
+! Mahalliy himoya virus kiradigan shilliq qavatda bevosita ishlaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Serologik monitoringda 23–25 yoshli guruh nimani baholash uchun tekshiriladi?
++ Tug'ish yoshidagi ayollarning himoyalanganligini
+- O'tkazilgan vaksinatsiya sifatini maktabgacha yoshdagi bolalarda
+- Ikki marta emlangandan keyingi immunitetni maktab o'quvchilarida
+- Yangi jamoalar shakllanayotganda o'quv yurtlarida himoyalanganlikni
+- Keksalarda immunitet pasayishini
+! Qizamiq bilan homiladorlikda kasallanish xavfi yuqori bo'lgani uchun bu guruh alohida e'tiborda.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq emlash rejasini tuzishda aholini ro'yxatga olish qanday davriylikda o'tkaziladi?
++ Yiliga ikki marta (bahor va kuz)
+- Yiliga bir marta, yanvar oyida
+- Har oy, har bir uy xo'jaligi bo'yicha
+- Besh yilda bir marta
+- Faqat epidemiya e'lon qilinganda
+! Ro'yxat emlanmay qolganlarni aniqlab, reja tuzish uchun asos bo'ladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Serologik monitoringda seronegativlar ulushi qanchadan oshmasligi kerak?
++ 7 % dan
+- 2 % dan
+- 15 % dan
+- 25 % dan
+- 40 % dan
+! Moyil kishilarning kichik ulushi jamoada epidemik tarqalishni cheklaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

@@ -1,0 +1,104 @@
+=== 009
+? JSST ma'lumotlariga ko'ra, diareya kasalliklari qaysi yosh guruhidagi bolalarda o'limning uchinchi yetakchi sababi hisoblanadi?
++ 1–59 oylik bolalarda
+- Yangi tug'ilgan chaqaloqlarda, hayotining birinchi haftasida
+- 5–14 yoshli maktab o'quvchilarida
+- 15–24 yoshli o'smirlar va yoshlarda
+- 60 yosh va undan kattalarda
+! Diareya xavfsiz suv, sanitariya va gigiyena yordamida katta qismi oldi olinadigan kasallik bo'lgani uchun bolalar o'limida uning ulushi alohida ahamiyatga ega.
+@ World Health Organization. Diarrhoeal disease (fact sheet)
+? Diareya kasalliklarining oldini olishda JSST birinchi 6 oy davomida bolalarni qanday boqishni tavsiya qiladi?
++ Faqat ko'krak suti bilan
+- Ko'krak suti va sun'iy aralashmalar bilan navbatma-navbat
+- Ko'krak suti bilan birga suv va choy berib
+- Sigir suti va unga qo'shilgan yumshoq ovqat bilan
+- Sun'iy aralashmalar va yumshoq tamaddilar bilan
+! Ko'krak suti bolani ichak infeksiyalaridan himoya qiladigan antitelolar bilan ta'minlaydi.
+@ World Health Organization. Diarrhoeal disease (fact sheet)
+? Ichak infeksiyasi bilan kasallangan bemordan namunalar qachon olinishi kerak?
++ Etiotrop davo boshlanishidan oldin
+- Davo kursi tugagandan keyin
+- Bemor sog'aygandan keyin, uyga javob berilganda
+- Davo boshlangan ikkinchi kuni, antibiotik ta'siri boshlangach
+- Kasalxonaga yotqizilgan kundan boshlab bir hafta o'tgach
+! Antibiotiklar qo'zg'atuvchini ajratib olish ehtimolini kamaytiradi, shuning uchun namuna avval olinadi.
+@ Mavzu materiali (009.docx)
+? Qabul bo'limida olingan namunalar necha soat ichida laboratoriyaga yetkazilishi kerak?
++ 2 soat ichida
+- 30 daqiqa ichida
+- 6 soat ichida
+- 24 soat ichida
+- 48 soat ichida
+! Yetkazib bo'lmasa, namuna muzlatgichda saqlanib, 12 soat ichida topshiriladi.
+@ Mavzu materiali (009.docx)
+? Ichak infeksiyalari o'chog'ida muloqotda bo'lganlar ustidan tibbiy kuzatuv necha kun davom etadi?
++ 7 kun
+- 1 kun
+- 3 kun
+- 14 kun
+- 21 kun
+! Kuzatuv davomida har kuni so'rov, ko'rik, ich ketishini kuzatish va termometriya o'tkaziladi.
+@ Mavzu materiali (009.docx)
+? Ichak infeksiyalari o'choqlarida o'choqli dezinfeksiya bemor shifoxonaga yotqizilgan paytdan qancha vaqt ichida o'tkazilishi kerak?
++ 24 soat ichida
+- 3 soat ichida
+- 12 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+! Muddat qisqa belgilanadi, chunki o'choqda qolgan qo'zg'atuvchi yangi holatlarga sabab bo'lishi mumkin.
+@ SanQvaN № 0090-25
+? SanQvaN bo'yicha profilaktik dezinfeksiya obyektlarda odatda qanday davriylikda o'tkaziladi?
++ Oyiga bir marta, epidemik mavsumda esa tez-tez
+- Haftada bir marta, epidemik mavsumda esa kamroq
+- Yilda bir marta, epidemik mavsumda ham o'zgarmasdan
+- Har kuni, epidemik mavsumda esa kuniga ikki marta
+- Faqat o'choq aniqlangandan keyin bir martalik tartibda
+! Profilaktik dezinfeksiya epidemiya holatidan qat'i nazar o'tkaziladi, shuning uchun u o'choq paydo bo'lishini kutmaydi.
+@ SanQvaN № 0090-25
+? Oziq-ovqat korxonasi ishchilari ichak infeksiyasidan tuzalgach qancha muddat dispanser kuzatuvida bo'ladi?
++ 1 oy
+- 7 kun
+- 3 oy
+- 6 oy
+- 1 yil
+! Bu davrda ular 2–3 kun oralatib ikki marta bakteriologik tekshiriladi.
+@ Mavzu materiali (009.docx)
+? Surunkali ichburug'li bemorlar qancha muddat dispanser kuzatuvida bo'ladi?
++ 6 oy
+- 1 oy
+- 3 oy
+- 2 yil
+- 1 hafta
+! Surunkali kechish davomiy tashuvchilik xavfini oshiradi, shu sababli kuzatuv muddati uzoqroq.
+@ Mavzu materiali (009.docx)
+? Oziq-ovqat korxonasi xodimlari davo kursidan keyin qachon bir marta bakteriologik tekshiruvdan o'tkaziladi?
++ Davo kursidan 1–2 kun o'tgach
+- Davo kursining birinchi kunida
+- Davo kursidan 14 kun o'tgach
+- Davo kursidan 3 oy o'tgach
+- Davo kursidan 1 hafta o'tgach
+! Tekshiruv sog'ayish laboratoriya tasdig'i bilan yakunlanishini ta'minlaydi.
+@ Mavzu materiali (009.docx)
+? Maktab-internat va yozgi dam olish maskanlarida ichak infeksiyasidan sog'aygan bolalarga qancha muddat oshxona ishlariga ruxsat berilmaydi?
++ 1 oy davomida
+- 3 kun davomida
+- 3 oy davomida
+- 1 yil davomida
+- 1 hafta davomida
+! Bu cheklov bakteriya tashuvchilik orqali ovqat mahsulotlari ifloslanishining oldini oladi.
+@ Mavzu materiali (009.docx)
+? Qonunga ko'ra epidemik ko'rsatmalar bo'yicha dezinfeksiyani kim amalga oshiradi?
++ Davlat sanitariya nazorati organlari
+- Shartnoma asosida dezinfeksiya stansiyalari
+- Yuridik shaxsning o'z xodimlari
+- Mahalla fuqarolar yig'inlari
+- Faqat Sog'liqni saqlash vazirligi apparati
+! Profilaktik dezinfeksiyani shartnoma asosida dezinfeksiya stansiyalari bajaradi, epidemik ko'rsatmalar bo'yicha esa davlat nazorati organlari ishlaydi.
+@ O'zbekiston Respublikasining "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 34-modda
+#U 009 / 3: namuna olish tartibi faqat Sog'liqni saqlash vazirligi yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 009 / 4: 2 soat va 12 soatlik muddatlar faqat yo'riqnomaga tayangan; buyruq raqami tasdiqlanmagan.
+#U 009 / 5: 7 kunlik kuzatuv muddati faqat yo'riqnomaga tayangan; buyruq raqami tasdiqlanmagan.
+#U 009 / 8: 1 oylik dispanser kuzatuvi faqat yo'riqnomaga tayangan; buyruq raqami tasdiqlanmagan.
+#U 009 / 9: 6 oylik dispanser kuzatuvi faqat yo'riqnomaga tayangan; buyruq raqami tasdiqlanmagan.
+#U 009 / 10: tekshiruv muddati faqat yo'riqnomaga tayangan; buyruq raqami tasdiqlanmagan.
+#U 009 / 11: oshxona cheklovi faqat yo'riqnomaga tayangan; buyruq raqami tasdiqlanmagan.

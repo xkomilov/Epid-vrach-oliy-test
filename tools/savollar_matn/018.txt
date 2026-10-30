@@ -1,0 +1,97 @@
+=== 018
+? Tavsifiy (deskriptiv) epidemiologik usul kasallanishni qaysi belgilar bo'yicha tavsiflaydi?
++ Vaqt, hudud va aholi guruhlari (shaxs) bo'yicha
+- Klinik shakl, og'irlik darajasi va davolash natijasi bo'yicha
+- Qo'zg'atuvchi turi, antibiotiklarga sezgirligi va genomi bo'yicha
+- Vaksina turi, emlash dozalari soni va emlash sanasi bo'yicha
+- Bemorlarning kasbi, daromadi va ma'lumot darajasi hamda yashash sharoiti bo'yicha
+! Tavsifiy usul kasallik qachon, qayerda va kimda ko'proq uchrashini aniqlaydi. Qolgan belgilar boshqa maqsadlarga xizmat qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016; CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1
+? Qonunga ko'ra, yuqumli kasalliklar o'choqlarida qaysi choralar o'tkazilishi majburiy?
++ Gumon qilinganlarni aniqlash, ajratish, muloqotda bo'lganlarni tekshirish va yuqish yo'llarini aniqlash
+- Barcha muloqotda bo'lganlarni ommaviy emlash va ularni ish joyidan uzoq muddatga chetlashtirish
+- Bemorlarni uyda qoldirib, ularga davolash uchun tavsiyalar berish va natijani kutish
+- Hududni to'liq yopib, aholini boshqa tumanlarga ko'chirish va dezinfeksiya o'tkazmaslik
+- Kasalxonalarni vaqtincha yopib, hududda faqat telefon orqali maslahat berish tizimini yo'lga qo'yish
+! Qonun gumon qilinganlarni aniqlash, ajratish, muloqotdagilarni tekshirish va yuqish yo'llarini aniqlashni majburiy deb belgilagan. Qolgan variantlar qonunda nazarda tutilmagan.
+@ O'zbekiston Respublikasining "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 32-modda
+? Eksperimental epidemiologik usulga qaysi misol kiradi?
++ Vaksina samaradorligini baholovchi klinik sinov
+- Oldingi yillardagi kasallanish ko'rsatkichlarini hisobotlar asosida tahlil qilish
+- Kasal va sog'lom shaxslarning xavf omiliga ta'sirini keyin solishtirish
+- Kasallanishning hududlar bo'yicha taqsimotini xaritaga tushirish
+- Hududlar bo'yicha kasallanish ko'rsatkichlarini qiyoslovchi tavsifiy ma'lumotlar jadvali
+! Eksperimental usul tadbirlar yoki preparatlar samaradorligini maxsus tashkil etilgan sinovlarda baholaydi. Qolgan misollar tavsifiy yoki tahliliy usullarga tegishli.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Nazorat-tanlov (case-control) tadqiqotida nima solishtiriladi?
++ Kasal va sog'lom shaxslarning xavf omiliga ta'sir qilish darajasi
+- Ta'sirlangan va ta'sirlanmagan guruhlarning vaqt o'tishi bilan kasallanishi
+- Turli yillardagi kasallanish ko'rsatkichlarining umumiy tendensiyasi
+- Emlangan va emlanmagan guruhlarda tasodifiy taqsimlangan preparat ta'siri
+- Aholining turli yosh guruhlarida kasallanish dinamikasi va mavsumiyligining chizmasi
+! Nazorat-tanlovda kasal (holatlar) va sog'lom (nazorat) shaxslarning xavf omiliga ta'siri retrospektiv taqqoslanadi. Qolgan variantlar kogort, dinamik yoki eksperimental yondashuvlarni ifodalaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Kogort tadqiqotida qanday guruhlar kuzatiladi?
++ Ta'sirlangan va ta'sirlanmagan guruhlar vaqt o'tishi bilan kuzatiladi
+- Kasal va sog'lom shaxslar o'tmishdagi xavf omillari bo'yicha solishtiriladi
+- Butun aholi bir martalik kesma tekshiruvdan o'tkaziladi, kuzatuvsiz
+- Faqat kasallikka chalingan bemorlar guruhi kuzatilib, nazorat guruhi tanlanmaydi
+- Emlangan va emlanmagan guruhlarni oldindan tasodifiy taqsimlab, preparat bilan sinash
+! Kogort tadqiqotida ta'sirlangan va ta'sirlanmagan guruhlarda kasallanish davom etayotgan kuzatuv orqali taqqoslanadi. Boshqa variantlar nazorat-tanlov yoki kesma tadqiqotlarga xos.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Tahliliy tadqiqotlarda xavf omilining kasallanishga ta'sir darajasini miqdoran ifodalash uchun qaysi ko'rsatkichlar hisoblanadi?
++ Nisbiy xavf (relative risk) va shanslar nisbati (odds ratio)
+- Letallik ko'rsatkichi va kasallanishning mavsumiylik indeksi
+- Aholi jon boshiga to'g'ri keladigan emlash qamrovi va emlanganlik darajasi
+- Sezgirlik va o'ziga xoslik hamda diagnostik testning bashoratli qiymati
+- Pozitiv va negativ bashoratli qiymat hamda testning aniqligi (accuracy)
+! Nisbiy xavf va shanslar nisbati omil va kasallanish o'rtasidagi bog'liqlikning kuchini ko'rsatadi. Qolgan ko'rsatkichlar boshqa maqsadlarda ishlatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Darslikka ko'ra, bugungi kunda qaysi ikkita maxsus epidemiologik usul ajratilgan?
++ O'choqlarni epidemiologik tekshirish va epidemiologik tahlil
+- Tavsifiy tadqiqot va eksperimental klinik sinov
+- Matematik modellashtirish va genomik sekvenlash
+- Kogort tadqiqoti va nazorat-tanlov tadqiqoti
+- Kasalxonalarga murojaat qilgan bemorlar sonini hisoblash va kunlik hisobotni yuritish
+! Darslikda tarixiy rivojlanish jarayonida ikkita maxsus usul — o'choqlarni epidemiologik tekshirish va epidemiologik tahlil — ajratilgani aytilgan. Qolgan juftliklar tadqiqot turlari yoki texnologiyalar.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologiyada statistik usullar haqida nima ta'kidlanadi?
++ Ular tekshiruv instrumenti, rejalashtirish va natijalar mazmunini sharhlash esa epidemiologning vazifasi
+- Ular alohida mustaqil usul bo'lib, epidemiologning sharhlashiga muhtoj emas
+- Ular o'choqni tekshirishning o'rnini bosadi va epidemiologni almashtirish imkonini beradi
+- Ular faqat laboratoriya natijalarini qayta ishlash uchun ishlatiladi, rejalashtirishda emas
+- Statistik tahlil epidemiologik gipotezalarni ob'ektiv dalil bilan tasdiqlovchi yagona usul hisoblanadi
+! Statistik usullar epidemiologiyada keng qo'llanadi, ammo ular faqat instrument; tekshiruvni rejalashtirish va natijalarni sharhlash epidemiologning vazifasi. Qolgan fikrlar bu ta'rifga zid.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Jon Snouning 1854-yildagi London tadqiqoti qaysi kasallikka bag'ishlangan edi?
++ Vabo
+- Ich terlama
+- Bezgak
+- Chechak
+- Difteriya
+! Snou 1854-yilda Londonda vabo avj olishini o'rgangan va o'choqni xaritalashtirib, yuqish omilini aniqlagan. Bu o'choqni tekshirishning klassik namunasi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? Turli bemorlardan ajratilgan qo'zg'atuvchi shtammlarining genetik jihatdan bir xil ekanligi nimani isbotlaydi?
++ Ularning yagona manbadan kelib chiqqanini
+- Ularning barchasi bir xil antibiotikka chidamli ekanini
+- Kasallik faqat bitta yoshdagi shaxslarda uchrashini
+- Vaksinaning barcha shtammlarga samarali ekanini
+- Ularning faqat bitta hududda uchrashini va boshqa mintaqalarda tarqalmaganligini
+! Molekulyar-genetik usullar bog'liq shtammlarni aniqlab, infeksiya uzatilish zanjirini tiklash imkonini beradi. Boshqa xulosalar genetik o'xshashlikdan kelib chiqmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Seroepidemiologik tekshiruvlar nimani baholaydi?
++ Aholining immun qatlamini
+- Aholining ijtimoiy-iqtisodiy ahvolini
+- Sanitariya-texnik jihozlar holatini
+- Kemiruvchilar populyatsiyasi sonini
+- Aholining oziq-ovqat mahsulotlari bilan ta'minlanish darajasini
+! Serologik usullar bilan antitelolar aniqlanib, aholining kasallikka immunligi baholanadi. Qolgan ko'rsatkichlar boshqa usullar bilan o'rganiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik tekshiruvda matematik modellashtirish nima uchun qo'llaniladi?
++ Epidemik jarayonni bashorat qilish uchun
+- Yuqumli kasallik qo'zg'atuvchisini tuzilishiga ko'ra aniqlash uchun
+- Bemorlarni davolash rejimini individual tanlash uchun
+- Vaksina ichidagi adyuvant miqdorini hisoblash uchun
+- Kasallikning klinik shakllarini tasniflash uchun
+! Modellashtirish epidemik jarayonning kelgusi rivojini bashorat qilish imkonini beradi. COVID-19 davrida u genomik kuzatuv bilan birga keng qo'llanilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016

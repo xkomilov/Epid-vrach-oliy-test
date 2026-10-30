@@ -1,0 +1,101 @@
+=== 067
+? Rotavirus infeksiyasi kasalliklarining necha foizi qish va kuz oylarida uchraydi?
++ 70 foizi
+- 30 foizi, qolgan qismi asosan bahor oylariga to'g'ri keladi
+- 50 foizi
+- 10 foizi
+- 95 foizi
+! Shu sababli rotavirus uchun tayyorgarlik sovuq mavsum oldidan rejalashtiriladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Shigellyozning mavsumiy ko'tarilishi yilning qaysi oylariga to'g'ri keladi?
++ May–iyun oylariga
+- Dekabr–yanvar oylariga, shuning uchun tayyorgarlik kuz oxirida o'tkaziladi
+- Oktyabr–noyabr oylariga
+- Fevral–mart oylariga
+- Yil davomida mavsumiy o'zgarishsiz teng
+! Pasayish esa oktyabr–noyabrga to'g'ri keladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Mavsum oldi reja nimaga asoslanib tuziladi?
++ Oldingi mavsumning retrospektiv tahliliga: xavfli guruh, hudud, vaqt va omillarga
+- Joriy yilning ob-havo bashoratiga, kasallanish ma'lumotlari esa hisobga olinmaydi
+- Hududdagi aholi sonining o'zgarishiga
+- Qo'shni davlatlarning bayram kalendariga
+- Bemorlarning ijtimoiy tarmoqlardagi murojaatlariga
+! Tahlil ustuvor tekshiriladigan ob'ektlarni va xavfli omillarni aniqlashga imkon beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Profilaktik dezinfeksiya SanQvaN 0090-25 ga ko'ra qanday davriylikda o'tkaziladi?
++ Oyda bir marta, epidemik kasalliklar mavsumida esa davriyligi ko'paytiriladi
+- Yilda bir marta, mavsum oldidan, davriylik hech qachon o'zgartirilmaydi
+- Har 3 oyda bir marta
+- Har kuni, mavsumdan qat'i nazar
+- Faqat guruhli kasallanish qayd etilgandan keyin
+! Mavsumda davriylikning oshirilishi qo'zg'atuvchilarning to'planishini cheklaydi.
+@ SanQvaN № 0090-25, 2-bob, 3–10-bandlar
+? Profilaktik dezinfeksiya sifati bakteriologik surtma bilan baholanganda tuman markazida E. coli qancha foizgacha bo'lsa, sifatli hisoblanadi?
++ 5 foizgacha
+- 0,5 foizgacha, chekka hududda ham xuddi shu chegara qo'llanadi
+- 15 foizgacha
+- 25 foizgacha
+- 50 foizgacha
+! Chekka hududda esa mezon qattiqroq, 3 foizgacha.
+@ SanQvaN № 0090-25, 2-bob, 3–10-bandlar
+? Aholining sanitariya-epidemiologik osoyishtaligi to'g'risidagi Qonunning 34-moddasiga ko'ra profilaktik dezinfeksiyani kim o'tkazadi?
++ Shartnoma asosida dezinfeksiya stansiyalari
+- Bemorning o'zi va oila a'zolari, tibbiy nazoratsiz holda
+- Maktab o'quvchilari ixtiyoriy ravishda
+- O'qituvchilarning o'zi mustaqil ravishda
+- Sanitariya-epidemiologiya xizmati o'z xodimlari bilan majburiy tartibda
+! Bu moddaning mazmuni dezinfeksiyani shartnoma asosida tashkil etishdir.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 34-modda
+? Qonunning 36-moddasi nimani belgilaydi?
++ Fuqarolarni gigienik o'qitishni
+- Xodimlarning majburiy dastlabki va davriy tibbiy ko'rigini, shuningdek ularning natijalarini
+- Cheklov tadbirlari (karantin) joriy etilishini
+- O'choqlarda chora-tadbirlar tizimini
+- Profilaktik dezinfeksiyani shartnoma asosida o'tkazishni
+! Qolgan mavzular Qonunning boshqa moddalarida tartibga solingan.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 34–36-moddalar
+? Maktabgacha muassasaga necha kun kelmagan bola qabul qilinishi uchun diagnoz ko'rsatilgan ma'lumotnoma talab etiladi?
++ 5 va undan ortiq kun
+- 3 va undan ortiq kun, bunda bolaning ahvoli yaxshi bo'lsa ham
+- 7 va undan ortiq kun
+- 14 va undan ortiq kun
+- 30 va undan ortiq kun
+! Qisqa muddatli kelmaslik uchun esa pediatr ma'lumoti bilan qabul qilish yetarli.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? JSST bo'yicha sink qo'llash diareya muddatini qancha foizga qisqartiradi?
++ 25 foizga
+- 5 foizga, shuningdek najas hajmini deyarli o'zgartirmaydi
+- 50 foizga
+- 75 foizga
+- 90 foizga
+! Sink 10–14 kunlik kurs shaklida beriladi va najas hajmini ham kamaytiradi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? JSST ko'rsatmasiga ko'ra diareyani davolashning asosi nima?
++ Suv, tuz va shakardan iborat og'iz orqali regidratatsiya eritmasi
+- Keng spektrli antibiotiklarni tomir ichiga muntazam yuborish va suyuqlikni cheklash
+- Sut va sut mahsulotlarini ko'paytirib iste'mol qilish
+- Ovqatlanishni 3 kunga to'liq to'xtatish
+- Qabziyat qiluvchi dorilar bilan najasni to'xtatish
+! Eritma ingichka ichakda so'rilib, yo'qotilgan suv va elektrolitlarni to'ldiradi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Ovqat korxonasi xodimlari ichak infeksiyasidan tuzalgandan keyin qanday dispanser kuzatuvidan o'tadi?
++ 1 oy davomida, 2 marta bakteriologik tekshiruv bilan
+- 3 kun davomida, bir marta bakteriologik tekshiruv bilan, shundan keyin ishga qaytadi
+- 2 hafta davomida, 5 marta bakteriologik tekshiruv bilan
+- 6 oy davomida, 3 marta bakteriologik tekshiruv bilan
+- 1 yil davomida, 4 marta bakteriologik tekshiruv bilan
+! Kuzatuv tashuvchilikni aniqlash va yangi o'choq xavfini kamaytirish uchun zarur.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Qon aralash najas yoki suvsizlanish belgilari bo'lsa, aholiga nima tavsiya etiladi?
++ Tibbiyot xodimiga murojaat qilish
+- Uyda o'zboshimchalik bilan antibiotik ichib, murojaat qilmaslik va kutib turish
+- Ovqatlanish va suyuqlik ichishni butunlay to'xtatish
+- Faqat qabziyat qiluvchi dori ichish
+- Ertasi kuni ham belgilar saqlansa, qo'shnilar bilan maslahatlashish
+! Bunday belgilar og'ir infeksiya yoki suvsizlanishdan darak beradi.
+@ WHO. Diarrhoeal disease (fact sheet)
+#U 067 / 1: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 067 / 2: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 067 / 8: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 067 / 11: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.

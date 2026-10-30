@@ -1,0 +1,97 @@
+=== 079
+? Darslikka ko'ra, barcha hududlarda ovqat bilan bog'liq o'tkir gastroenteritlarning eng ko'p uchraydigan sababi nima?
++ Salmonellalar
+- Tilla rang stafilokokk
+- Bacillus cereus
+- Clostridium perfringens
+- Vibrio haemolyticus
+! Boshqa qo'zg'atuvchilar ham uchraydi, ammo salmonellalar hamma hududlarda yetakchi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Odam patologiyasida salmonellalarning qaysi guruhlari ahamiyatli?
++ B va D guruhlari
+- A va C guruhlari
+- C va E guruhlari
+- E va F guruhlari
+- F va G guruhlari
+! Hozirgi kasallanish asosan S. typhimurium va S. enteritidis bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Salmonellalar 60 °C haroratda qancha vaqt saqlanadi?
++ 30 daqiqa
+- 1–2 daqiqa
+- 10 soniya
+- 5 soat
+- 3 sutka
+! Ular 100 °C da tez nobud bo'ladi, ammo go'sht ichida chuqur joylashganda har doim o'lmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Turli davlatlar statistikasiga ko'ra, salmonellyoz bilan kasallanganlarning qancha qismi go'sht iste'mol qilgan?
++ 80%
+- 10%
+- 25%
+- 45%
+- 99%
+! Go'sht mahsulotlari, parranda tuxumi va tuxumli taomlar asosiy yuqtirish omillaridir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ovqat toksikoinfeksiyasi epidemik avj olishining xos belgisi qaysi?
++ To'satdan boshlanadi, bir vaqtda bir necha kishi kasallanadi, qisqa muddat davom etadi
+- Asta-sekin boshlanib, bir necha hafta davomida zanjir bo'ylab odamdan odamga tarqaladi
+- Kasallanish 2–3 haftada qayd etilib, o'lim hollari ko'p kuzatiladi
+- Qishda davriy ko'tarilib, yashirin davri bir necha hafta bo'ladi
+- Faqat bolalar muassasalarida uchrab, kasal odamdan sog'lom odamga yuqadi
+! Bu belgilar umumiy ovqat manbasi borligidan dalolat beradi: yashirin davr bir necha soat, bemordan bemorga yuqish yo'q.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; Karimova M.T. Ovqatdan zaharlanish (ma'ruza slaydlari)
+? Botulizm qo'zg'atuvchisi Cl. botulinum qanday xususiyatga ega?
++ Qat'iy anaerob, sporali tayoqcha
+- Aerob, grammanfiy kokk
+- Fakultativ anaerob, spora hosil qilmaydigan tayoqcha
+- Aerob, grammanfiy tayoqcha, kapsulali
+- Qat'iy aerob, harakatsiz diplokokk
+! Anaerob sharoitdagi konservalarda spora o'sib, kuchli nevrotoksin ishlab chiqaradi.
+@ Karimova M.T. Ovqatdan zaharlanish (ma'ruza slaydlari), TTA
+? O'tkir ichak kasalligi aniqlansa, hududiy DSENM ga telefon orqali necha soat ichida xabar beriladi?
++ 12 soat ichida
+- 3 soat ichida
+- 24 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+! 24 soat ichida esa tezkor xabarnoma (58/U) yuboriladi.
+@ O'zR SSV 2015-yil 25-martdagi buyrug'iga 1-ilova (yo'riqnoma)
+? Ovqatdan zaharlanishga korxona mahsuloti sabab bo'lsa, uning barcha ishchilari necha marta bakteriologik tekshiriladi?
++ 2 marta
+- 1 marta
+- 3 marta
+- 5 marta
+- 7 marta
+! Bunday korxonaning faoliyati belgilangan tartibda to'xtatiladi.
+@ O'zR SSV 2015-yil 25-martdagi buyrug'iga 1-ilova (yo'riqnoma)
+? Bakteriologik namuna (qusuq massa, oshqozon yuvindisi, najas) qachon olinadi?
++ Etiotrop davo boshlanishidan oldin
+- Antibiotik kursining oxirida
+- Bemor tuzalgandan 2 hafta keyin
+- Davo boshlangach 3 kun o'tib
+- Faqat o'lim holati qayd etilganda
+! Davodan keyin olingan namunada qo'zg'atuvchi topilmay qolishi mumkin.
+@ O'zR SSV 2015-yil 25-martdagi buyrug'iga 1-ilova (yo'riqnoma)
+? Botulizm gumon qilinganda oshqozon yuvindisi qancha hajmda steril yopiq idishda olinadi?
++ 20–50 ml
+- 1–2 ml
+- 100–150 ml
+- 200–300 ml
+- 500–1000 ml
+! Qusuq massa esa 20–30 ml miqdorda olinadi.
+@ Karimova M.T. Ovqatdan zaharlanish (ma'ruza slaydlari), TTA
+? Mirtazayev darsligi salmonellyozni qanday baholaydi?
++ Ovqat bilan bog'liq toksikoinfeksiya
+- Sof ovqat intoksikatsiyasi, ya'ni oldindan hosil bo'lgan toksin bilan zaharlanish
+- Zaharli o'simliklar yoki qo'ziqorinlar bilan zaharlanish
+- Og'ir metall tuzlari bilan kimyoviy zaharlanish
+- Hayvonlarning zaharli ichki a'zolarini iste'mol qilish natijasi
+! Kasallik qo'zg'atuvchi ovqatda ko'payib to'planishi va uning enterotoksini birgalikda ta'sir etganda yuzaga keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Stafilokokk toksikoinfeksiyasida manba bo'lishi mumkin bo'lgan shaxslar kimlar?
++ Teri yiringli yaralari (panaritsiy, furunkulyoz) bor xodimlar va burun-halqumida stafilokokk bor kishilar
+- Gepatit A bilan kasallangan oshpazlar va ularning yaqin oila a'zolari, shuningdek tashuvchilar
+- Ichak gelmintozi bilan zararlangan oshxona xodimlari va ularning uy hayvonlari bilan aloqadorlari
+- Sil bilan kasallangan xodimlar va ularning yaqin qarindoshlari hamda ish joyidagi hamkasblari
+- Qorin tifi tashuvchisi bo'lgan ovqat yetkazib beruvchilar va ularning oila a'zolari
+! Yiringli yaralar va burun-halqumdagi stafilokokk ovqatni ifloslantirib, unda enterotoksin hosil bo'lishiga sharoit yaratadi.
+@ Karimova M.T. Ovqatdan zaharlanish (ma'ruza slaydlari), TTA

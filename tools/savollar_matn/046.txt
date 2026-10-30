@@ -1,0 +1,99 @@
+=== 046
+? Shigellyoz qo'zg'atuvchisi qaysi avlodga mansub va infeksiya manbai kim?
++ Shigella avlodiga mansub gramm-manfiy bakteriyalar; manba faqat odam — kasal yoki bakteriotashuvchi
+- Salmonella avlodiga mansub bakteriyalar; manba asosan parranda, qoramol va boshqa qishloq xo'jaligi hayvonlari
+- Vibrio avlodiga mansub bakteriyalar; manba odam hamda suv havzalaridagi hayvonlar va qushlar
+- Escherichia avlodiga mansub bakteriyalar; manba faqat uy hayvonlari, odam esa epidemik jarayonda ishtirok etmaydi
+- Yersinia avlodiga mansub bakteriyalar; manba kemiruvchilar, odam esa tasodifiy yuqtiradi
+! Shigellyoz antroponoz kasallik bo'lib, hayvonlar uning manbai bo'lmaydi.
+@ CDC. Clinical Care of Shigellosis; CDC. Shigella — Shigellosis, causes
+? Shigellyozning qaysi xususiyati uni boshqa ichak infeksiyalaridan farqlab turadi?
++ Past yuqtiruvchi doza va odamdan odamga oson yuqishi
+- Yuqish mexanizmining havo-tomchi bo'lishi va qo'zg'atuvchining nafas yo'llarida ko'payishi
+- Surunkali tashuvchilikning umrbod saqlanishi va o't pufagida joylashishi
+- Qo'zg'atuvchining faqat hayvonlardan yuqishi
+- Maxsus vaksinaning keng qo'llanilishi va emlash qamrovining yuqoriligi
+! Juda oz miqdordagi mikroorganizm ham infeksiyani keltirib chiqarishi uchun qo'l gigiyenasi hal qiluvchi ahamiyat kasb etadi.
+@ CDC. Clinical Care of Shigellosis; CDC. Shigella — Shigellosis, causes
+? Shigellyozning to'rt asosiy turi qaysi javobda to'g'ri keltirilgan?
++ S. dysenteriae, S. flexneri, S. boydii va S. sonnei
+- S. typhi, S. flexneri, S. boydii va S. sonnei
+- S. dysenteriae, S. enteritidis, S. boydii va S. sonnei
+- S. dysenteriae, S. flexneri, S. typhimurium va S. aureus
+- S. paratyphi, S. enteritidis, S. boydii va S. pyogenes
+! Ich terlama, salmonellyoz, stafilokokk va streptokokk qo'zg'atuvchilari Shigella avlodiga kirmaydi.
+@ CDC. Shigella — Shigellosis, causes
+? Shigellalar tashqi muhitda qaysi omillar ta'sirida tez nobud bo'ladi?
++ Quyosh nuri, nordon muhit, yuqori harorat va dezinfeksiya vositalari
+- Past harorat, qorong'ilik va namlik, ya'ni sovuq nam joylar
+- Oziq-ovqat muhiti, masalan sut va sut mahsulotlari
+- Najas muhiti, bunda ular ikki haftagacha saqlanadi va oziq-ovqatda ko'payadi
+- Qulay harorat va namlikdagi sabzavot va non yuzasi, ya'ni oziq-ovqat muhiti
+! Qulay harorat va namlikda esa ular oziq-ovqatda bir necha kun va najasda ikki haftagacha saqlanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Shigellyozda inkubatsion davr odatda qancha davom etadi?
++ 1–3 kun
+- 6–30 kun
+- 14–28 kun
+- 7–21 kun
+- 2–3 oy
+! Qisqa inkubatsion davr tufayli muloqotda bo'lganlar atigi bir necha kun kuzatiladi va o'choqlar tez shakllanadi.
+@ CDC. Clinical Care of Shigellosis
+? Shigellyozda asosiy va yetakchi yuqish yo'li qaysi?
++ Maishiy-kontakt yo'li, iflos qo'llar va buyumlar orqali
+- Transmissiv yo'l, kanalar chaqishi orqali
+- Havo-chang yo'li, changlangan zarrachalarni nafas olish orqali
+- Parenteral yo'l, qon quyish yoki in'ektsiya orqali
+- Vertikal yo'l, onadan homilaga platsenta orqali
+! Past yuqtiruvchi doza tufayli kichik miqdordagi ifloslanish ham yetarli, ayniqsa bolalar jamoalarida.
+@ CDC. Clinical Care of Shigellosis; O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Shigellyozning asosiy laboratoriya tashxis usuli qaysi?
++ Najasdan qo'zg'atuvchini ajratish (koprokultura)
+- Qondan qo'zg'atuvchini ajratish (gemokultura), kasallikning birinchi haftasida
+- Siydikdan antigen aniqlash tezkor testi
+- Orqa miya suyuqligini mikroskopik tekshirish
+- Teri ostiga yuborilgan allergen bilan sinama qo'yish
+! Namuna antibakterial davolashdan oldin, imkon qadar erta olinishi kerak.
+@ CDC. Clinical Care of Shigellosis; O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Tenezmlar shigellyozda nimani anglatadi?
++ Ich ketishga yolg'on chaqiriq
+- Qonli qusish va qorin bo'shlig'ida suyuqlik yig'ilishi
+- Terida paydo bo'ladigan o'ziga xos toshma
+- Jigar kattalashishi bilan kechuvchi sariqlik
+- Bo'yin mushaklarining qotishi bilan kechadigan holat
+! Tipik hollarda bunda qon va shilimshiq aralash kam miqdordagi ich ketish kuzatiladi.
+@ CDC. Clinical Care of Shigellosis
+? Shigellyoz profilaktikasida past yuqtiruvchi doza tufayli qaysi chora hal qiluvchi hisoblanadi?
++ Shaxsiy gigiyena, ayniqsa qo'l yuvish odati
+- Barcha aholini umrbod ikki marta emlash
+- Qo'zg'atuvchiga qarshi antibiotikni profilaktik tarzda kunda ichish
+- Dengiz mahsulotlarini iste'mol qilishdan voz kechish
+- Kemiruvchilarga qarshi kurash va tabiiy o'choqlarni rayonlashtirish
+! Qo'l yuvish infeksiyaning eng oddiy, arzon va samarali oldini olish vositasi bo'lib, bolalar muassasalarida alohida targ'ib qilinadi.
+@ CDC. Clinical Care of Shigellosis; World Health Organization. Diarrhoeal disease (fact sheet)
+? Shigellyozda maxsus profilaktika (vaksina) holati qanday?
++ Keng qo'llanilmaydi, shu bois gigiyenik choralar birinchi o'ringa chiqadi
+- Barcha bolalar uchun milliy emlash taqvimida majburiy hisoblanadi
+- Vaksina o'rniga o'choqdagi kontaktlarga ikki marta bakteriofag beriladi
+- Vaksina mavjud va u sanitariya choralarini to'liq o'rnini bosadi
+- Dekretlangan kontingent uchun yiliga bir marta beriladi
+! Shu sababli shigellyoz profilaktikasi asosan yuqish yo'llarini uzishga qaratilgan sanitariya-gigiyenik tadbirlarga tayanadi.
+@ Mavzu materiali (046.docx)
+? Bolalar muassasasidagi shigellyoz o'chog'ida qanday tadbirlar ko'zda tutiladi?
++ Guruhni karantinga olish, yangi bolalar qabulini vaqtincha to'xtatish va sanitariya rejimini kuchaytirish
+- Muassasani yopmasdan va guruhlarni ajratmasdan, kasallar bilan sog'lom bolalarni bir xil umumiy jamoada saqlashni davom ettirish
+- Barcha bolalarni zudlik bilan vaksinalash va ularni darhol qayta qabul qilish
+- Bemorni kasalxonaga yotqizib, muloqotdagilarni kuzatmaslik va dezinfeksiya o'tkazmaslik
+- Cheklov joriy qilmasdan, tadbirlarni sanitariya-targ'ibot ishlari bilan cheklash
+! Past yuqtiruvchi doza tufayli bolalar jamoalarida guruhiy o'choqlar tez shakllanadi, shu bois cheklov choralari zarur.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Milliy yo'riqnomaga ko'ra tashqi muhitda qaysi shigella turi yuqori chidamlilikka ega?
++ Zonne shigellasi
+- Flekssner shigellasi, o'rtacha chidamlilikka ega bo'lgan tur
+- Barcha shigellalar bir xil juda past chidamlilikka ega
+- Disenteriae shigellasi, ekzotoksin ishlab chiqaruvchi tur sifatida
+- Boydi shigellasi
+! Flekssner shigellasi o'rtacha chidamlilikka ega deb ta'riflangan.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+#U 046 / 4: shigellalar tashqi muhitda quyosh nuri va nordon muhitda tez nobud bo'lishi faqat mavzu materialiga tayangan.
+#U 046 / 12: Zonne shigellasining yuqori chidamliligi faqat mavzu materialiga tayangan.

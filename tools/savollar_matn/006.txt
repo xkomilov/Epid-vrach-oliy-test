@@ -1,0 +1,101 @@
+=== 006
+? "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonunga ko'ra, murojaatning turlari qaysilar?
++ Ariza, taklif va shikoyat
+- Ariza, ko'rsatma va ogohlantirish
+- Taklif, buyruq va xulosa
+- Shikoyat, dalolatnoma va qaror
+- Taklif, hisobot va tushuntirish xati
+! Ariza yordam so'rovi, taklif faoliyatni takomillashtirishga tavsiya, shikoyat esa buzilgan huquqlarni tiklash talabini bildiradi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? Ariza va shikoyat masalani mazmunan hal etishi shart bo'lgan organga kelgan kundan boshlab odatda qancha muddatda ko'rib chiqiladi?
++ 15 kun ichida
+- 5 kun ichida
+- 10 kun ichida
+- 30 kun ichida
+- 3 oy ichida
+! Qo'shimcha o'rganish, tekshirish yoki hujjat so'rash zarur bo'lsa, muddat bir oygacha uzayadi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? Taklif qaysi muddatda ko'rib chiqiladi?
++ Bir oygacha muddatda
+- Uch kun ichida
+- Besh kun ichida
+- Uch oygacha muddatda
+- Bir yilgacha muddatda
+! Takliflar bo'yicha ariza va shikoyatlardan farqli ravishda uzoqroq muddat berilgan, chunki ularni o'rganish ko'proq vaqt talab qiladi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? Ma'lumot so'ralgan organ uni qancha muddat ichida taqdim etishi shart?
++ 10 kun ichida
+- 1 kun ichida
+- 3 kun ichida
+- 20 kun ichida
+- 45 kun ichida
+! Axborot so'rovi bo'yicha qisqa muddat belgilangan, chunki u mazmunan hal qilishni talab qilmaydi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? Qonunga ko'ra murojaat qachon ro'yxatdan o'tkazilishi kerak?
++ Kelgan kunning o'zida, ish vaqtidan keyin kelsa keyingi ish kunida
+- Kelgan kundan boshlab uch kun ichida, har qanday holatda ham
+- Rahbar imzolab, o'z ruxsatini bergandan keyingina, shu tartibda
+- Ariza beruvchi shaxsiy hujjatini taqdim etgandan keyingina
+- Murojaat mazmuni to'liq o'rganilib, ijrochi belgilangandan keyin
+! Ro'yxatga olishni rad etish mumkin emas, chunki muddatlar aynan ro'yxatga olingan kundan hisoblanadi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? Quyidagi murojaatlardan qaysi biri ko'rib chiqilmaydi?
++ Anonim murojaat
+- Elektron shaklda kelgan murojaat
+- Og'zaki berilgan murojaat
+- Yuridik shaxs nomidan berilgan murojaat
+- Vakolat hujjati ilova qilingan, vakil orqali berilgan murojaat
+! Murojaatlar shakli va turidan qat'i nazar teng ahamiyatga ega, anonim murojaatlar esa muallifini aniqlab bo'lmagani uchun ko'rib chiqilmaydi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? SEO va JS xizmati nizomiga ko'ra vakolatga kirmaydigan murojaat qancha muddatdan kechiktirmay tegishli organga yuboriladi yoki asoslantirilgan tushuntirish bilan qaytariladi?
++ Besh kundan kechiktirmay
+- Bir kundan kechiktirmay
+- O'n kundan kechiktirmay
+- Bir oydan kechiktirmay
+- Uch oydan kechiktirmay
+! Murojaat egasining huquqi buzilmasligi uchun noto'g'ri yuborilgan murojaat qisqa muddatda yo'naltirilishi kerak.
+@ Mavzu materiali (006.docx)
+? Bo'ysunuv tartibida yuqori turuvchi organga ariza yoki shikoyat harakat yoki qaror ma'lum bo'lgan paytdan boshlab ko'pi bilan qancha muddatda beriladi?
++ Bir yil ichida
+- Besh kun ichida
+- Bir oy ichida
+- Olti oy ichida
+- Uch yil ichida
+! Uzrli sababga ko'ra o'tkazib yuborilgan muddat ko'rib chiquvchi organ tomonidan tiklanishi mumkin.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+? Xizmat nizomiga ko'ra murojaat materiallari tarkibiy bo'limda qancha vaqt saqlanadi, so'ng idoraviy arxivga topshiriladi?
++ Ikki yilgacha
+- Olti oygacha
+- Besh yilgacha
+- O'n yilgacha
+- Bir oygacha
+! Saqlash muddati tugagach, materiallar tarkibiy bo'limdan arxivga o'tkaziladi.
+@ Mavzu materiali (006.docx)
+? Xizmat nizomiga ko'ra murojaatlarning tartib raqamlari qanday hisoblanadi?
++ Har yil boshidan yangidan
+- Xizmat tashkil topgan kundan to'xtovsiz
+- Har oy boshidan yangidan
+- Har hafta boshidan yangidan
+- Rahbar almashgan vaqtdan boshlab
+! Yillik raqamlash hisobga olish tartibini soddalashtiradi va yil davomida murojaatlar sonini aniq ko'rsatadi.
+@ Mavzu materiali (006.docx)
+? Pochta orqali kelgan konvertda murojaat yoki ilovalar topilmasa, nima qilinadi?
++ Ikki nusxada dalolatnoma tuziladi
+- Konvert hech qanday hujjatsiz yo'q qilinadi
+- Murojaat qiluvchiga telefon orqali og'zaki javob beriladi
+- Konvert xizmat rahbariga og'zaki xabar bilan qaytariladi
+- Yuboruvchining manziliga qaytarilib, hech narsa qayd etilmaydi
+! Dalolatnoma konvert tarkibining yo'qligini rasman qayd etadi va keyingi nizolarda dalil bo'ladi.
+@ Mavzu materiali (006.docx)
+? Quyidagi hollarning qaysi birida murojaatni ko'rib chiqish tugatiladi?
++ Murojaat qiluvchi murojaatini chaqirib olgan yoki ko'rib chiqishni tugatishni so'ragan
+- Murojaat qiluvchi javobdan norozi bo'lib, qayta yozma murojaat yuborgan
+- Murojaat murakkab bo'lib, qo'shimcha tekshiruv talab etilgan
+- Oraliq javob berilgan, ammo masala to'liq ko'rib chiqilmagan
+- Murojaat qiluvchi qo'shimcha hujjatlar taqdim etgan va ularni ko'rib chiqish talab qilingan
+! Oraliq javob berilgan murojaatlar nazoratdan olinmaydi, murojaat qiluvchining o'z irodasi esa ko'rib chiqishni tugatish asosi bo'ladi.
+@ O'zbekiston Respublikasining "Jismoniy va yuridik shaxslarning murojaatlari to'g'risida"gi Qonuni (O'RQ-378, 03.12.2014)
+#U 006 / 7: 5 kunlik muddat faqat xizmat nizomiga tayangan; buyruq sanasi va raqami kutubxona nusxasida aniq o'qilmagan.
+#U 006 / 9: ikki yillik saqlash muddati faqat xizmat nizomiga tayangan; buyruq sanasi va raqami tasdiqlanmagan.
+#U 006 / 10: yillik raqamlash tartibi faqat xizmat nizomiga tayangan; buyruq sanasi va raqami tasdiqlanmagan.
+#U 006 / 11: dalolatnoma tartibi faqat xizmat nizomiga tayangan; buyruq sanasi va raqami tasdiqlanmagan.

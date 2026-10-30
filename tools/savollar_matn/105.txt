@@ -1,0 +1,98 @@
+=== 105
+? Kuydirgida odamlar uchun yetakchi bo'lgan yuqish mexanizmi qaysi?
++ Kontakt
+- Fekal-oral, ifloslangan suv orqali
+- Havo-tomchi, bemorning yo'tali orqali
+- Vertikal, onadan homilaga
+- Parenteral, qon quyish orqali
+! Odamlar odatda kasal hayvon, uning terisi yoki go'shti bilan to'g'ridan-to'g'ri aloqada zararlanadi, odamdan odamga yuqish mexanizmi yo'q.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Tabiatda kuydirgi qo'zg'atuvchisining asosiy saqlovchisi (rezervuari) nima?
++ Tuproq
+- Kemiruvchilar o'pkasi, ayniqsa qumsichqonlar
+- Qon so'ruvchi kanalar va burgalar
+- Yovvoyi qushlar va ko'chib yuruvchi suvda suzuvchi parrandalar
+- Chuchuk suv havzalari va ulardagi o'simliklar
+! Sporalar tuproqda o'nlab yillar saqlanadi, shu sababli hayvon ko'milgan joylar uzoq muddatli epizootik xavf manbai bo'lib qoladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Qo'zg'atuvchining saqlanishi uchun qulay muhit pH ko'rsatkichi qanday?
++ pH 6,5–7,5
+- pH 1,0–3,0
+- pH 3,5–5,0
+- pH 9,0–11,0
+- pH 11,5–13,0
+! Qo'zg'atuvchi neytral muhitda eng yaxshi saqlanadi, kuchli kislotali yoki ishqoriy sharoit uning hayotchanligini pasaytiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Kasbiy-qishloq xo'jalik o'choqlariga qaysi mavsumiylik xos?
++ Yoz-kuz mavsumiyligi
+- Qish-bahor mavsumiyligi, sovuq oylarda ko'payishi
+- Bahor, mart–aprel oylarida cho'qqiga chiqishi
+- Yil davomida mutlaqo bir tekis qayd etilishi
+- Faqat qish, dekabr–fevral oylarida cho'qqi
+! Hayvonlarni so'yish, ularni parvarishlash va yaylov ishlari issiq mavsumda ko'proq bo'lgani sababli kasallanish ham shu davrda ko'payadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? SanQvaM № 0239-07/3 ga ko'ra, xavfi yuqori guruhlarga kuydirgiga qarshi emlash necha yoshdan o'tkaziladi va revaksinatsiya qachon qilinadi?
++ 14 yoshdan; revaksinatsiya 1 yildan keyin
+- 1 yoshdan; revaksinatsiya 5 yildan keyin, maktabga kirishda
+- 6 yoshdan; revaksinatsiya 10 yildan keyin, kattalikda
+- 18 yoshdan; revaksinatsiya 6 oydan keyin
+- 14 yoshdan; revaksinatsiya har 10 yilda
+! Emlash enzootik hududlarda ish tufayli xavf ostida bo'lgan o'smir va kattalarga mo'ljallangan, immunitet esa revaksinatsiya bilan qo'llab-quvvatlanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017), epidemiologik ko'rsatma bo'yicha emlash jadvali
+? Kuydirgi bemori bilan yoki kasal hayvon mahsuloti bilan aloqada bo'lgan shaxslar necha kun tibbiy kuzatuvda bo'ladi?
++ 8 kun, kuniga 2 marta termometriya bilan
+- 2 kun, bir marta termometriya bilan
+- 21 kun, har kuni termometriya bilan, uyda
+- 30 kun, haftada bir marta ko'rik bilan
+- 14 kun, termometriyasiz
+! Kuzatuv muddati kasallikning qisqa yashirin davriga mos belgilanadi va isitma paydo bo'lishini erta aniqlashga imkon beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova (kuydirgi bo'yicha yo'riqnoma)
+? Noxush xo'jalikda hayvon o'lgan yoki tuzalgan kundan boshlab necha kunlik karantin e'lon qilinadi?
++ 15 kun
+- 3 kun
+- 7 kun
+- 30 kun
+- 60 kun
+! Karantin o'choqda qo'zg'atuvchi tarqalmasligini ta'minlash va yangi hollar paydo bo'lmaganini kuzatish uchun belgilanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? SanQvaN № 0090-25 jadvaliga ko'ra, kuydirgi o'chog'iga ikkinchi marta ishlov berilganda turar joy yuzasining 1 m2 ga qancha vosita sarflanadi?
++ 2 litr
+- 0,2 litr
+- 0,5 litr
+- 5 litr
+- 10 litr
+! Sporalar o'ta chidamli bo'lgani uchun sporotsid vositalar yuzani yaxshi namlaydigan yuqori sarf me'yorida qo'llanadi.
+@ SanQvaN № 0090-25, dezinfeksiya vositalari sarfi jadvali
+? Kuydirgining teri shakli XKT-10 bo'yicha qaysi kod bilan belgilanadi?
++ A22.0
+- A22.1
+- A22.2
+- A22.8
+- A23.0
+! Shaklning kodi klinik joylashuviga qarab belgilanadi va navbatdan tashqari maxsus xabarnoma berishda ko'rsatiladi.
+@ JSST. Xalqaro kasalliklar tasnifi (XKT-10)
+? Kasal hayvon bilan aloqada bo'lgan hayvonlarga kuydirgiga qarshi vositalar qanday ketma-ketlikda beriladi?
++ Avval zardob, so'ngra vaksina
+- Avval vaksina, so'ngra zardob
+- Faqat vaksina, zardobsiz
+- Avval antibiotik, so'ngra vaksina, zardob berilmaydi
+- Bir marta zardob, vaksinasiz
+! Zardob tayyor antitelalar bilan tezkor himoya beradi, vaksina esa keyinchalik faol immunitet shakllantiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova; Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Kuydirgidan o'lgan hayvon jasadini yoqish imkoni bo'lmasa, u qayerga tashlanadi?
++ Bekker handaqlariga, komissiya ishtirokida
+- Oddiy chuqurga, 50 sm chuqurlikda, ohaksiz
+- Daryo yoki kanalga, oqim bilan olib ketilishi uchun
+- Shahar axlatxonasiga, boshqa chiqindilar bilan birga
+- Yaylov chetidagi ochiq maydonga, quritilgach
+! Maxsus konstruksiyali handaqlar sporalarning tuproq va suvga tarqalishini to'sadi, shu sababli epidemiolog ishtirokida hujjatlashtiriladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Saparov qo'llanmasiga ko'ra kuydirgi qaysi jins vakillari orasida ko'proq uchraydi va ulushi qancha?
++ Erkaklar, 63%
+- Ayollar, 63%
+- Erkaklar, 90%
+- Ayollar, 25%
+- Erkaklar, 20%
+! Chorvachilik va so'yish ishlari bilan band bo'lgan guruhlar orasida erkaklar ko'proq bo'lgani shu farqni keltirib chiqaradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+#U 105 / 6: 8 kunlik kuzatuv va termometriya tartibi faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.

@@ -1,0 +1,103 @@
+=== 101
+? Meningokokkli infeksiyada qaysi serogruppalar eng xavfli, epidemik deb nomlangan guruhlar hisoblanadi?
++ A, B va C serogruppalari
+- D, H va I serogruppalari, ular asosan og'ir epidemiyalar chaqiradi
+- K, L va Z serogruppalari
+- H, I va Y serogruppalari
+- D, K va L serogruppalari
+! Aynan shu serogruppalar tarqalgan shakllar va epidemik ko'tarilishlarning asosiy sababchisi bo'lib, qolgan serogruppalar ko'pincha sporadik hollar beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Yirik shaharlarda bitta tarqalgan shakldagi bemorga yiliga o'rtacha qancha meningokokk tashuvchi to'g'ri keladi?
++ 45 000–50 000 nafar
+- 4500–5000 nafar tashuvchi
+- 450–500 nafar tashuvchi
+- 450 000–500 000 nafar tashuvchi bo'ladi
+- 1000–2000 nafar tashuvchi
+! Tashuvchilar soni bemorlardan bir necha o'n ming marta ko'p bo'lgani uchun yuqish hollarining ko'pchiligi aynan ular hisobiga yuz beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Meningokokk tashuvchilarining taxminan qanday qismi 3–6 oydan keyin burun-halqumda qo'zg'atuvchidan xoli bo'ladi?
++ 70% i
+- 30% i
+- 50% i
+- 10% i
+- 95% i
+! Ko'pchilik tashuvchilar qo'zg'atuvchini qisqa muddat ajratadi, uzoq tashuvchilar esa kamchilikni tashkil etib, yopiq jamoalarda o'choq saqlanishiga sabab bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Meningokokkli meningitda kasallanishning mavsumiy cho'qqisi qaysi oylarga to'g'ri keladi?
++ Yanvar–mart (ko'tarilish kuzda boshlanadi)
+- Iyun–avgust oylarida, issiq mavsum cho'qqisida
+- Aprel–may oylarida bahorgi ko'tarilish sifatida
+- Sentabr–oktyabr oylarida maktab ochilishi bilan
+- Noyabr–dekabr oylarida yil oxirida
+! Ko'tarilish kuzda boshlanib, qish oxiriga qadar jamoalardagi zich muloqot va nafas yo'llari kasalliklari fonida eng yuqori darajaga yetadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Kelgusi yil yanvar–mart oylarida vaziyat noqulay bo'lishini bashorat qiluvchi belgi sifatida tarqalgan shakllar bilan kasallanish noyabr–dekabrda sentabrga nisbatan necha baravar oshishi ko'rsatiladi?
++ 2–3 baravar
+- 5–6 baravar
+- 10–12 baravar
+- 1,2–1,5 baravar
+- 20–30 baravar
+! Kuz oylarida kasallanishning shunday o'sishi davriy ko'tarilishning boshlanganini bildiradi va rejani oldindan o'zgartirishga imkon beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Xavfli guruhlarda (masalan, o'quvchilar orasida) meningokokk tashuvchilikni tanlab tekshirish uchun material qachon olinadi?
++ Sentabr va noyabr oylarida ikki marta
+- Yanvar va iyul oylarida, yiliga ikki marta, har bir guruhda
+- Mart va may oylarida, bahorgi ko'tarilish oldidan bir marta
+- Har oyning birinchi haftasida, butun yil davomida muntazam
+- Faqat kasallik hollari qayd etilgan taqdirdagina bir marta
+! Kuz oylaridagi tekshiruv davriy ko'tarilish oldidan xavfli guruhlarda qo'zg'atuvchi aylanishi darajasini baholashga imkon beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Yirik shaharlarda bir vaqtda o'tkazilgan tekshirishlarda aholi orasida meningokokk tashuvchilik qanday darajada aniqlangan?
++ 5–8%
+- 0,5–0,8%
+- 15–18%
+- 25–30%
+- 1–2%
+! Bunday tashuvchilik darajasi aholining epidemiklashishida katta ahamiyatga ega, chunki tashuvchilar qo'zg'atuvchi aylanishining asosiy zaxirasini tashkil etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Tarqalgan shakl bilan qaysi yosh guruhi eng ko'p kasallanadi?
++ 1 yoshgacha bolalar
+- 15–19 yoshdagi o'smirlar va talabalar, ular orasida kasallanish eng yuqori bo'ladi
+- 30–40 yoshdagi ishchi yoshdagi kattalar
+- 60 yoshdan oshgan keksalar
+- 7–14 yoshdagi maktab o'quvchilari
+! Yosh ortgan sari kasallanish kamayadi, tashuvchilikning yosh bo'yicha taqsimlanishi esa aksincha bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Standart ta'rifga ko'ra meningokokkli infeksiyaning tasdiqlangan holati qanday belgilanadi?
++ N. meningitidis ajratilgan va klinikasi mos holat
+- Orqa miya suyuqligida antigenlar aniqlangan yoki yaqqol klinik belgilar bor holat
+- Bemor bilan muloqotda bo'lgan, lekin kasallik belgilari kuzatilmagan va surtmasi manfiy shaxs
+- Burun-halqum surtmasida qo'zg'atuvchi topilgan, ammo klinik belgilari yo'q tashuvchi
+- Isitma va bosh og'rig'i bilan kechgan, ammo laboratoriya tekshiruvi o'tkazilmagan yengil holat
+! Tasdiqlash uchun qo'zg'atuvchining o'zi laboratoriyada ajratilishi talab qilinadi, antigen yoki klinika esa faqat ehtimoliy holatni bildiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+? Meningokokkli infeksiya o'choqlarida juft zardob tekshiruvi qanday oraliqda olinadi?
++ 10–14 kun oralig'ida
+- 1–2 kun oralig'ida
+- 3–5 kun oralig'ida
+- 21–28 kun oralig'ida
+- 30–40 kun oralig'ida
+! Antitelalar titri yetarli o'zgarishi uchun ikkinchi namuna birinchisidan ma'lum vaqt o'tgach olinishi lozim.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (Meningokokk infeksiyasining mikrobiologik tashxisi bo'yicha uslubiy ko'rsatma)
+? O'zbekiston milliy emlash kalendariga ko'ra meningokokkka qarshi emlash qanday o'tkaziladi?
++ Faqat epidemiologik ko'rsatma bo'yicha, A yoki C serogruppali o'choqlarda aloqadorlarga
+- Hayotning birinchi yilida barcha chaqaloqlar uchun rejali tarzda, kalendarning majburiy qismi sifatida
+- 6 yoshda maktabga kirishda barcha bolalar uchun ikki dozali sxema bilan rejali ravishda
+- Yiliga bir marta, kuz oylarida butun aholiga ommaviy kampaniya shaklida
+- Tug'ruqxonada yangi tug'ilgan chaqaloqlarga BCG bilan bir vaqtda
+! Reja bo'yicha ommaviy emlash joriy etilmagan, vaksina xavf guruhlari va o'choqlardagi aloqadorlar uchun ko'rsatma bilan qo'llanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017), epidemiologik ko'rsatma bo'yicha emlash jadvali
+? Meningokokkning o'sishi uchun qulay harorat qanday?
++ 36,5–37 °C
+- 30–32 °C
+- 25–28 °C, xona harorati sharoitida
+- 40–42 °C
+- 20–22 °C
+! Qo'zg'atuvchi tashqi muhitda chidamsiz bo'lib, faqat tana haroratiga yaqin sharoitda yaxshi ko'payadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.4-bob
+#D 101 / 1: mavzu materiali epidemik serogruppalar sifatida faqat A, B, C ni keltiradi; JSST ma'lumotlariga ko'ra W va X serogruppalar ham epidemik avj olishlar chaqirgan, shuning uchun savolda bu serogruppalar variant sifatida berilmadi.
+#U 101 / 2: tashuvchilar soni (45 000–50 000) faqat darslikka tayangan, mustaqil manba bilan tasdiqlanmagan.
+#U 101 / 3: 70% ko'rsatkichi faqat darslikka tayangan, mustaqil manba bilan tasdiqlanmagan.
+#U 101 / 5: noyabr–dekabrdagi 2–3 baravar o'sish bashorat belgisi faqat darslikka tayangan.
+#U 101 / 6: tanlab tekshirish muddatlari (sentabr va noyabr) faqat darslikka tayangan.
+#U 101 / 7: 5–8% tashuvchilik ko'rsatkichi faqat darslikka tayangan.

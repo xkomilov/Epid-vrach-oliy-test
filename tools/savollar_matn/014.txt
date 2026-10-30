@@ -1,0 +1,97 @@
+=== 014
+? Markaziy sterilizatsiya bo'limi faoliyatining asosiy maqsadi nima?
++ Tibbiy aralashuvlar natijasida yuzaga keladigan shifoxona ichi infeksiyalarini oldini olish
+- Tibbiy asboblarni ishlab chiqarish va ularni davolash bo'limlariga tarqatish
+- Bemorlarni yuqumli kasalliklar bo'yicha laboratoriya usullari bilan batafsil tekshirish
+- Tibbiy xodimlarni emlash va ularning sog'lig'ini davriy tekshirish
+- Dori vositalarini tayyorlash, saqlash va bo'limlarga markazlashgan tarzda yetkazib berish
+! Markazlashgan qayta ishlash sifatni bir joyda nazorat qilish va infeksion xavfsizlikni oshirish imkonini beradi. Boshqa vazifalar sterilizatsiya bo'limiga tegishli emas.
+@ SanQvaM № 0365-19; WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Bo'limda materiallar va asboblar harakati qanday tamoyilga asoslanadi?
++ "Iflosdan tozaga" yo'nalgan bir tomonlama oqim, iflos va toza oqimlar kesishmaydi
+- "Tozadan iflosga" yo'nalgan oqim, bunda steril zona eng oxirgi o'rinda bo'ladi
+- Ikki tomonlama oqim, asboblar zonalar o'rtasida erkin ikki yo'nalishda harakatlanadi
+- Aylana shaklidagi oqim, bunda har bir bo'limga asboblar o'z navbatida qaytariladi
+- Zonalarga bo'lingan, lekin toza va iflos oqimlar bir yo'lakdan o'tadigan oqim
+! Iflos va toza oqimlarning kesishuvi asboblarning qayta ifloslanishiga olib keladi, shu sababli harakat faqat bir tomonlama bo'ladi. Bu markaz tuzilmasining asosiy talabi.
+@ SanQvaM № 0365-19
+? Iflos (qabul va tozalash) zonasida qaysi jarayonlar o'tkaziladi?
++ Ishlatilgan asboblarni qabul qilish, dezinfeksiya va yuvish
+- Asboblarni quritish, nazorat qilish va qadoqlash
+- Sterilizatsiya o'tkazish va steril materiallarni saqlash
+- Sterilizatsiya natijalarini bakteriologik tasdiqlash va jihozlarga metrologik xizmat ko'rsatish
+- Tayyor steril paketlarni muddati va indikatorlari bo'yicha tekshirib, bo'limlarga tarqatish
+! Iflos zonada ishlatilgan asboblar qabul qilinib, dezinfeksiya va yuviladi. Quritish va qadoqlash toza zonada, sterilizatsiya va saqlash steril zonada o'tkaziladi.
+@ SanQvaM № 0365-19
+? Tibbiy asboblarni qayta ishlash bosqichlarining to'g'ri ketma-ketligi qaysi qatorda keltirilgan?
++ Dezinfeksiya, sterilizatsiyadan oldingi tozalash, quritish, nazorat va qadoqlash, sterilizatsiya
+- Sterilizatsiya, dezinfeksiya, quritish, sterilizatsiyadan oldingi tozalash, nazorat va qadoqlash
+- Qadoqlash, sterilizatsiya, dezinfeksiya, sterilizatsiyadan oldingi tozalash, quritish va nazorat
+- Quritish, sterilizatsiyadan oldingi tozalash, qadoqlash, dezinfeksiya, sterilizatsiya
+- Qadoqlash, quritish, dezinfeksiya, sterilizatsiyadan oldingi tozalash, sterilizatsiya
+! Dastlab xodim xavfsizligi uchun dezinfeksiya, so'ngra organik qoldiqlarni olib tashlash, quritish, nazorat va qadoqlash, eng oxirida sterilizatsiya o'tkaziladi. Tozalanmagan asbobda sterilizatsiya samarasiz bo'ladi.
+@ SanQvaM № 0365-19; WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Sterilizatsiyadan oldingi tozalash sifatida yuvish vositasi qoldig'ini aniqlash uchun qaysi sinama qo'llaniladi?
++ Fenolftalein sinamasi
+- Azopiram sinamasi
+- Amidopirin sinamasi
+- Biuret sinamasi (oqsil miqdorini aniqlash uchun)
+- Kumbs sinamasi (eritrositlarga antitelolarni aniqlash uchun)
+! Fenolftalein yuvish vositasi qoldig'ini ko'rsatadi, azopiram yoki amidopirin esa yashirin qon qoldig'ini aniqlaydi. Biuret va Kumbs sinamalari boshqa maqsadlarda ishlatiladi.
+@ SanQvaM № 0365-19; SanPiN № 0278-09
+? Sterilizatsiyadan oldingi tozalash sifatini tekshirishda sinama musbat natija bersa, qanday chora ko'riladi?
++ Asboblarning butun partiyasi qayta ishlanadi
+- Faqat sinama olingan asbob qayta ishlanadi, qolganlari sterilizatsiyaga yuboriladi
+- Partiya tozalashsiz to'g'ridan-to'g'ri steril zonaga o'tkaziladi
+- Sinama 24 soatdan keyin takrorlanadi, asboblar esa ishlatilaveradi
+- Asboblar yuqori haroratda quritilib, qadoqlanadi va saqlashga topshiriladi
+! Musbat sinama qon yoki yuvish vositasi qoldig'i borligini ko'rsatadi, shu sababli butun partiya yana tozalanadi. Qoldiq sterilizatsiya samaradorligini keskin pasaytiradi.
+@ SanQvaM № 0365-19; SanPiN № 0278-09
+? Markaziy sterilizatsiya bo'limida sterilizatsiya asosan qaysi ikki usulda o'tkaziladi?
++ Bug' (avtoklav) va quruq issiq havo (quruq-havo shkafi) yordamida
+- Ultrabinafsha nurlari va ozon bilan ishlov berish yordamida
+- Qaynatish va kimyoviy eritmalarga botirib qo'yish yordamida
+- Sovuq plazma va ultratovushli yuvish moslamasi yordamida
+- Quyosh nuri va yuqori namlikdagi havo bilan ishlov berish yordamida
+! Ko'pchilik metall asboblar va to'qima materiallar bug' bilan, issiqlikka chidamli shisha va metall buyumlar quruq issiq havo bilan sterilizatsiya qilinadi. Qolgan usullar bo'limning asosiy usullari emas.
+@ SanQvaM № 0365-19; WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Bakteriologik nazoratda sterilizatsiya sifatini tekshirish uchun qanday test-mikroorganizmlar ishlatiladi?
++ Yuqori chidamli sporalar hosil qiluvchi Geobacillus yoki Bacillus turlari
+- Vegetativ shakldagi Escherichia coli va Staphylococcus aureus
+- Issiqlikka sezgir bo'lgan Streptococcus pyogenes va Neisseria meningitidis
+- Sporasiz bakteriyalar — Salmonella typhi va Shigella turlari
+- Viruslar — gepatit B virusi va OIV, hujayra kulturasida o'stirilgan holda
+! Sporalar eng chidamli shakl bo'lgani uchun ularning sterilizatsiyadan keyin tirik qolmasligi jarayonning ishonchliligini isbotlaydi. Vegetativ bakteriyalar esa osongina yo'q bo'ladi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Sterilizatsiya ishonchliligining eng qat'iy ko'rsatkichi qaysi nazorat turi hisoblanadi?
++ Bakteriologik nazorat (test-mikroorganizm sporalari yordamida)
+- Fizik nazorat (harorat, bosim va vaqt ko'rsatkichlari bo'yicha)
+- Kimyoviy nazorat (indikatorlar rangining o'zgarishi bo'yicha)
+- Vizual nazorat (qadoqning tashqi ko'rinishi bo'yicha)
+- Hujjatlar nazorati (sterilizatsiya jurnallarini ko'zdan kechirish bo'yicha)
+! Bakteriologik nazorat sterilizatsiyadan keyin yuqori chidamli sporalarning tirik qolgan-qolmaganligini bevosita ko'rsatadi. Fizik va kimyoviy nazorat bilvosita ko'rsatkichlar beradi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Quruq issiq havo usuli qaysi buyumlarni sterilizatsiya qilish uchun qo'llaniladi?
++ Issiqlikka chidamli shisha va metall buyumlar
+- Rezina va plastmassadan tayyorlangan issiqlikka sezgir buyumlar
+- To'qima materiallar va bog'lov vositalarining barchasi
+- Optik asboblar va elektron jihozlarning issiqlikka sezgir qismlari
+- Bir marta ishlatiladigan polimer shpritslar va sistemalar
+! Quruq issiq havo yuqori haroratni talab qiladi, shu sababli u faqat issiqlikka bardoshli buyumlar uchun mos. To'qima materiallar odatda bug' bilan sterilizatsiya qilinadi.
+@ SanQvaM № 0365-19; WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? SanQvaM № 0365-19 ga ko'ra, nopok zonaga qaysi xonalar kiradi?
++ Asbob-anjomlarni qabul qilish, dezinfeksiya va sterilizatsiya oldi tozalash xonalari
+- Asboblarni quritish, qadoqlash va steril materiallarni saqlash xonalari hamda sterilizatorlar
+- Sterilizatorlarni o'rnatish va steril paketlarni tarqatish xonalari hamda ombor
+- Xodimlar uchun kiyim almashtirish va dam olish xonalari
+- Steril materiallar omborxonasi va tayyor mahsulotni berish xonasi
+! Nopok zona ishlatilgan asboblarni qabul qilish, dezinfeksiya va sterilizatsiya oldi tozalash uchun mo'ljallangan. Toza va steril zonalar alohida xonalardan iborat.
+@ SanQvaM № 0365-19
+? SanPiN № 0278-09 ga ko'ra, qaysi usul kimyoviy sterilizatsiya hisoblanadi?
++ Gaz bilan sterilizatsiya
+- Bug' bilan sterilizatsiya (avtoklav)
+- Quruq issiq havo bilan sterilizatsiya
+- Qizdirilgan sharchalar muhitida sterilizatsiya
+- Ultratovushli yuvish moslamasida ishlov berish
+! Kimyoviy sterilizatsiya eritma yoki gaz yordamida o'tkaziladi. Bug', havo va qizdirilgan sharchalar muhitida sterilizatsiya fizik usullardir.
+@ SanPiN № 0278-09

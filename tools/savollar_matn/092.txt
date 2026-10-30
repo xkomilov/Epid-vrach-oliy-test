@@ -1,0 +1,97 @@
+=== 092
+? Haemophilus turkumi bakteriyalarining oziq muhitda o'sishi uchun qaysi o'sish omillari zarur?
++ X (gemin) va V (NAD) omillari
+- A vitamini va K vitamini omillari, ya'ni yog'da eruvchi vitaminlar
+- Faqat B12 vitamini va foliy kislotasi
+- Yuqori konsentratsiyali NaCl va o't kislotalari, ya'ni tanlab o'stiruvchi muhit komponentlari
+- Sistin va tellurit, ya'ni difteriya tayoqchasi uchun xos tanlov omillari
+! Bu mikroorganizmlar gemin va NAD ni o'zi sintez qila olmaydi, shuning uchun ular tayyor holda muhitga qo'shilishi lozim.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (uslubiy ko'rsatma)
+? Gemofillarning stafilokokk yaqinida yaxshi o'sishi qanday nomlanadi?
++ Sattellizm hodisasi
+- Gemolitik zonalarning kengayish hodisasi, ya'ni eritrotsitlar parchalanishi
+- Koagulyaza faollashuvi hodisasi, ya'ni plazma ivishi
+- Bakteriofag lizisi hodisasi, ya'ni bakteriya hujayralarining erishi
+- Kolonizatsiya qarshiligi hodisasi, ya'ni mikroblar o'zaro raqobati
+! Stafilokokk koloniyalari atrofiga o'sish omillarini ajratadi, shu sababli ular yonida gemofil koloniyalari yaxshi rivojlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? H. influenzae ning qaysi serotipi og'ir tarqalgan shakllar (yiringli meningit, pnevmoniya, sepsis) ning eng muhim sababchisi hisoblanadi?
++ b serotipi (Hib)
+- a serotipi, ya'ni kapsulasiz nomuayyan shtammlar bilan birgalikda
+- c serotipi, asosan kattalardagi bronxitlarda
+- e serotipi, asosan nafas yo'llari surunkali kasalliklarida
+- f serotipi, asosan homilador ayollarda
+! Aynan shu serotipning polisaxarid kapsulasi bakteriyaga invaziv xususiyat beradi va emlash uning antigeniga qaratilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Hib infeksiyasi bilan kasallanish xavfi eng yuqori bo'lgan yosh guruhi qaysi?
++ 2 oylikdan 5 yoshgacha bolalar
+- Tug'ilgandan 1 oygacha bo'lgan chaqaloqlar, ya'ni onadan olingan antitelalar yo'qolishidan oldingi davr
+- 6 yoshdan 14 yoshgacha bo'lgan maktab o'quvchilari
+- 15 yoshdan 30 yoshgacha bo'lgan yoshlar
+- 60 yoshdan oshgan keksalar
+! Onadan o'tgan antitelalar pasayganidan keyin, o'z immuniteti hali yetilmagan davrda xavf ortadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Meningitis (fact sheet)
+? Hayotning dastlabki oylarida Hib meningitining kam uchrashi nima bilan bog'liq?
++ Onadan o'tgan b kapsulali antigenga qarshi antitelalar bilan
+- Chaqaloq burun-halqumida gemofillar umuman bo'lmasligi bilan, ya'ni steril muhit bilan
+- Emlash natijasida tug'ilgandan keyin hosil bo'lgan antitelalar bilan
+- Chaqaloqlar tanasi haroratining yuqoriligi tufayli bakteriyalar ko'paya olmasligi bilan
+- Ko'krak suti tarkibidagi antibiotiklar bilan
+! Platsenta orqali o'tgan IgG dastlabki oylarda passiv himoya beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Gemofil infeksiya qo'zg'atuvchisi asosan qanday yo'l bilan yuqadi?
++ Havo-tomchi yo'li bilan, nafas zarralari va halqum ajralmalari orqali
+- Fekal-oral yo'l bilan, ifloslangan suv va oziq-ovqat orqali
+- Transmissiv yo'l bilan, qon so'ruvchi bo'g'imoyoqlilar orqali
+- Parenteral yo'l bilan, steril bo'lmagan in'ektsiya asboblari orqali
+- Kontakt yo'l bilan, faqat teri jarohatlari orqali
+! Qo'zg'atuvchi nafas yo'llari shilliq qavatida joylashadi va ajralmalar bilan tashqariga chiqadi.
+@ WHO. Meningitis (fact sheet)
+? O'zbekiston kalendarida Hib komponenti qaysi vaksina tarkibida va qachon yuboriladi?
++ Pentavalent vaksina tarkibida, 2, 3 va 4 oylikda mushak orasiga
+- Alohida monovalent vaksina sifatida, tug'ilgandan keyin 1 oylikda teri ichiga
+- Qizamiq-qizilcha-parotit vaksinasi tarkibida, 12 oylikda teri ostiga
+- AKDS-4 tarkibida, faqat 16 oylikda mushak orasiga
+- Pnevmokokk vaksinasi tarkibida, 6 va 9 oylikda teri ostiga
+! Kalendarda Hib antigeni boshqa antigenlar bilan birlashtirilgan bo'lib, birlamchi seriya qisqa oraliqlarda beriladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Milliy kalendar bo'yicha emlash qamrovi kamida qancha bo'lishi kerak?
++ 95 %
+- 70 %, ya'ni 2 yoshgacha bolalarning ko'pchiligi qamrab olinsa yetarli
+- 80 %, hududlar kesimida o'rtacha
+- 90 %, faqat shahar aholisi uchun
+- 100 %, istisnosiz barcha bolalar
+! Yuqori qamrov vaksina bilan boshqariladigan infeksiyalarni nazorat qilish uchun belgilangan.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? JSST ma'lumotiga ko'ra, bakterial meningitda taxminan qancha bemor vafot etadi?
++ Taxminan 6 kishidan 1 tasi
+- Taxminan 50 kishidan 1 tasi, ya'ni o'lim juda kam uchraydi
+- Taxminan 2 kishidan 1 tasi, ya'ni yarmi
+- Taxminan 20 kishidan 1 tasi
+- Taxminan 100 kishidan 1 tasi
+! Bakterial meningit tez rivojlanadigan og'ir holat bo'lib, o'z vaqtida davolanganda ham sezilarli o'lim xavfi saqlanadi.
+@ WHO. Meningitis (fact sheet)
+? Chaqaloqlarda bakterial meningitning asosiy qo'zg'atuvchilari qaysilar?
++ B guruhi streptokokki, E. coli K-1 va listeriya
+- Hib, meningokokk va pnevmokokk, ya'ni 2–3 oylikdan keyingi bolalar uchun xos qo'zg'atuvchilar
+- Pnevmokokk va stafilokokk, asosan o'rta yoshdagi kattalarda uchraydigan turlar
+- Salmonella va shigella, ichak infeksiyalari qo'zg'atuvchilari
+- Mycobacterium va brutsella, surunkali infeksiyalar qo'zg'atuvchilari
+! Bu mikroorganizmlar tug'ruq yo'llarida va ichakda bo'ladi, shu sababli yangi tug'ilganlarda ustun turadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Meningitis (fact sheet)
+? JSST tavsiyasiga ko'ra, meningit gumon qilinganda lyumbal punksiya haqida qaysi qoidaga amal qilinadi?
++ U antibiotik boshlanishini kechiktirmasligi kerak
+- Antibiotik faqat likvor ekmasi natijasi kelgandan keyin, 2–3 sutka o'tgach boshlanadi
+- Lyumbal punksiya o'tkazilmaydi, tashxis faqat qon tahlili bilan qo'yiladi
+- Avval kortikosteroidlar bilan to'liq davo kursi o'tkaziladi, so'ng punksiya qilinadi
+- Punksiya faqat 5 yoshdan katta bolalarda o'tkaziladi
+! Meningit tibbiy shoshilinch holat bo'lgani uchun davolash laboratoriya tasdig'ini kutmasdan boshlanadi.
+@ WHO. Meningitis (fact sheet)
+? Haemophilus turkumi bakteriyalarining morfologik va fiziologik xususiyatlari qaysi javobda to'g'ri keltirilgan?
++ Mayda, harakatsiz, fakultativ anaerob grammanfiy tayoqchalar
+- Yirik, harakatchan, qat'iy anaerob grampoz spora hosil qiluvchi tayoqchalar
+- Grampoz diplokokklar, kapsulasiz va harakatsiz, qat'iy aerob
+- Spiralsimon, harakatchan, mikroaerofil grammanfiy bakteriyalar
+- Grampoz, kislotaga chidamli, sekin o'suvchi aerob tayoqchalar
+! Bu xususiyatlar ularni boshqa yiringli meningit qo'zg'atuvchilaridan ajratishda yordam beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

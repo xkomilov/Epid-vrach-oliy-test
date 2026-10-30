@@ -1,0 +1,97 @@
+=== 019
+? Retrospektiv epidemiologik tahlil qaysi davr ma'lumotlarini o'rganishga qaratilgan?
++ O'tgan davr (odatda bir necha yil) mobaynidagi kasallanish ma'lumotlarini
+- Faqat joriy kun yoki hafta davomidagi kasallanish ma'lumotlarini real vaqtda
+- Kelgusi yilga mo'ljallangan tadbirlar rejasi bo'yicha taxminiy ko'rsatkichlarni
+- Bitta o'choqdagi bemorlar bilan muloqotda bo'lganlarning tekshiruv natijalarini
+- Bemorning shaxsiy anamnezi va allergologik holatini batafsil
+! Retrospektiv tahlil uzoq davr, ko'pincha bir necha yil, ma'lumotlari asosida kasallanish dinamikasi va qonuniyatlarini aniqlaydi. Joriy kuzatuv operativ tahlilga tegishli.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Operativ epidemiologik tahlil qanday asosda olib boriladi?
++ Kasallanishni kundalik yoki haftalik, real vaqt rejimida kuzatish va baholash asosida
+- Yil yakunida to'plangan ma'lumotlarni umumlashtirib, bir marta hisobot tuzish asosida
+- Bir necha o'n yillik ko'p yillik dinamikani chuqur tahlil qilish asosida
+- Vaksina samaradorligini klinik sinovlarda baholash asosida
+- Laboratoriya tekshiruvi natijalari kelgunga qadar, hech qanday ma'lumotsiz kutish asosida
+! Operativ tahlil epidemik vaziyatning o'zgarishini o'z vaqtida aniqlash va zudlik bilan chora ko'rish uchun kundalik yoki haftalik kuzatuvga tayanadi. Boshqa yondashuvlar retrospektiv yoki eksperimental xarakterga ega.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Operativ tahlilda qanday holat epidemik noxushlik signali hisoblanadi?
++ Haqiqiy kasallanish darajasi kutilgan (normativ) chegaradan oshganda
+- Kasallanish darajasi o'tgan yildagidan bir oz past bo'lganda
+- Bitta yuqumli kasallik holati rasmiy ro'yxatga olinmaganida
+- Aholi sonining mavsumiy migratsiya sababli kamayganida
+- Kasallanish darajasi retrospektiv tahlil bo'yicha kutilgan o'rtacha ko'rsatkichdan yuqori bo'lib, ammo ko'rsatkich shunchaki sezilarsiz kamayganida
+! Joriy kasallanish belgilangan normativ chegaradan oshsa, bu epidemik noxushlik signali bo'lib, tekshiruv va tadbirlar boshlanadi. Pasayish yoki ro'yxatga olinmaganlik signal emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Retrospektiv va operativ tahlillar o'zaro qanday bog'langan?
++ Retrospektiv tahlil operativ tahlil uchun normativ daraja (etalon) bo'lib xizmat qiladi
+- Operativ tahlil retrospektiv tahlilni to'liq almashtiradi va uni keraksiz qiladi
+- Ular bir-biriga bog'liq emas va turli epidemik jarayonlarni o'rganadi
+- Retrospektiv tahlil faqat joriy kasallanishni baholaydi, operativ tahlil esa o'tmishni o'rganadi
+- Ikkala tahlil faqat bitta o'choqda qo'llaniladi va ular bir xil ma'lumotlar bilan ishlaydi
+! Retrospektiv tahlilda aniqlangan "normal" chegaralar joriy kasallanishni solishtirish uchun mezon bo'ladi, operativ ma'lumotlar esa keyingi retrospektiv tahlilga manba bo'ladi. Ikki tahlil uzluksiz tsikl hosil qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Turli hudud va davrlarni to'g'ri taqqoslash uchun kasallanish qanday ifodalanadi?
++ Aholining ma'lum soniga nisbatan, masalan, 100 ming aholiga hisoblangan ko'rsatkichlarda
+- Mutlaq sonlarda, ya'ni ro'yxatga olingan bemorlar umumiy soni sifatida
+- Kasalxonaga yotqizilganlar foizida, ularning umumiy hajmiga nisbatan
+- Hududning umumiy maydoniga bo'lingan bir kvadrat kilometrdagi bemor soni sifatida
+- Hududdagi tibbiy muassasalar soniga nisbatan, ya'ni har bir shifoxona uchun alohida hisoblangan sonlarda
+! Aholi soni hududlarda turlicha bo'lgani uchun mutlaq sonlar qiyoslashga yaramaydi; ko'rsatkichlar aholining ma'lum soniga nisbatan hisoblanadi. Bu qiyoslanuvchanlikni ta'minlaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? O'choqni epidemiologik tekshirish nima uchun shoshilinch o'tkaziladi?
++ Epidemiologik tashxissiz maqsadli epidemiyaga qarshi tadbirlarni ishlab chiqib bo'lmaydi
+- Bemorni tezda boshqa muassasaga o'tkazish va hujjatlarni arxivga topshirish zarurati bois
+- Tekshiruv kechiksa, laboratoriya sifatli natija bermaydi va ish rejasi to'liq to'xtatiladi
+- Shoshilinch tekshiruv o'tkazish yillik hisobotga kiritilishi shart bo'lgani uchun
+- Tekshiruv kechiksa, aholining qo'rquvi ortadi va ommaviy axborot vositalari bosimi kuchayadi
+! Tashxissiz tadbirlar maqsadsiz bo'lib qoladi, shu sababli tekshiruv vaqt yo'qotmasdan o'tkaziladi. Boshqa sabablar darslikda keltirilmagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? O'choqni tekshirish qaysi uch yo'nalishda olib boriladi?
++ Infeksiya manbaini, yuqish yo'llari va omillarini hamda muloqotda bo'lganlarni aniqlash
+- Bemorning klinik shaklini, davolash rejimini va kasalxonada yotish muddatini aniqlash
+- Qo'zg'atuvchi turini, antibiotiklarga sezgirligini va vaksina mavjudligini aniqlash
+- Aholi sonini, hududning maydonini va ijtimoiy-iqtisodiy ko'rsatkichlarini aniqlash
+- Davolash-profilaktika muassasasining resurslarini, xodimlar sonini va jihozlarini aniqlash
+! Tekshiruvning maqsadi infeksiya manbaini, yuqish yo'llari va omillarini hamda muloqotda bo'lganlarni aniqlashdir. Qolgan yo'nalishlar bu tekshiruvga xos emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? O'choqni epidemiologik kuzatish qancha vaqt davomida davom ettiriladi?
++ Maksimal yashirin davr davomida
+- Minimal yashirin davr tugaguncha
+- Bemor kasalxonadan chiqarilgan kungacha
+- Doimiy ravishda, kamida bir yil davomida
+- Bemor tuzalguncha, ya'ni klinik sog'ayish belgilari paydo bo'lguncha
+! O'choqda kasallangan shaxs uchun kuzatuv maksimal yashirin davr davomida olib boriladi, chunki shu muddat ichida yangi holatlar paydo bo'lishi mumkin. Qisqaroq muddat holatlarni o'tkazib yuborishga olib keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiologik tahlil uchun qaysi ma'lumotlar asosiy manba hisoblanadi?
++ Yuqumli kasalliklar to'g'risidagi shoshilinch xabarnomalar, ro'yxatga olish jurnallari va statistik hisobotlar
+- Bemorlarning shaxsiy murojaatlari va ommaviy axborot vositalarida chop etilgan xabarlar
+- Aholining so'rovnomalari va xususiy klinikalarning reklama materiallari bo'yicha ma'lumotlar
+- Dori vositalari sotuvi va dorixonalarda yozilgan retseptlar haqidagi ma'lumotlar
+- Davolash-profilaktika muassasalarining moliyaviy hisobotlari va xodimlarning mehnat shartnomalari bo'yicha ma'lumotlar
+! Tahlil rasmiy ro'yxatga olingan shoshilinch xabarnomalar, jurnallar, hisobotlar, laboratoriya va emlash ma'lumotlariga tayanadi. Boshqa manbalar ishonchli va to'liq emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Retrospektiv tahlil qanday xususiyatga ega?
++ Odatda yil yakunida yoki ma'lum davr tugagach o'tkaziladigan tizimli, rejali tadqiqot
+- Epidemik vaziyatda har kuni o'tkaziladigan shoshilinch chora
+- Faqat bitta o'choqdagi bemorlar bilan o'tkaziladigan so'rov
+- Yil davomida mavjud bo'lmagan ma'lumotlarga asoslangan bashorat
+- Qisqa muddatli, epidemik noxushlikka javob sifatida o'tkaziladigan operativ tekshiruv, joriy ma'lumotlarga tayanadi
+! Retrospektiv tahlil shoshilinch chora emas; u yil yakunida yoki ma'lum davrdan keyin o'tkaziladigan tizimli va rejali tadqiqot. Natijalar keyingi yil profilaktik tadbirlariga asos bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Operativ tahlilning samaradorligi nimaga bog'liq?
++ Ma'lumotlarning tez kelib tushishi va zudlik bilan qayta ishlanishiga
+- Ma'lumotlar hajmining ko'pligi va ko'p yillik arxivlarning mavjudligiga
+- Hisobotlarning chiroyli rasmiylashtirilishi va ko'p nusxada tarqatilishiga
+- Tahlil o'tkazuvchi mutaxassislarning ilmiy darajasi va stajiga
+- Tahlil o'tkazuvchi tashkilotning moddiy-texnik bazasi va kompyuter dasturlarining narxiga
+! Operativ tahlil real vaqtda ishlagani uchun ma'lumot qancha tez kelib tushib, qayta ishlansa, javob shuncha tezkor bo'ladi. Boshqa omillar bu tezlikni belgilamaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Epidemiolog o'choqni tekshirishda qaysi usullardan foydalanadi?
++ So'rab-surishtirish, hujjatlarni o'rganish, sanitariya va laboratoriya tekshiruvi
+- Faqat bemordan so'rab-surishtirish va tashxis qo'yilgan kasalxonaga hisobot topshirish
+- Aholini ommaviy anketalash, so'rovnomalar o'tkazish va ommaviy axborot vositalarida e'lon qilish
+- Klinik tashxis qo'yish, davolash rejimini belgilash va bemorni kuzatish
+- Aholini ommaviy emlash, qo'shimcha dezinfeksiya o'tkazish va hududni to'liq karantinga yopish
+! Epidemiolog so'rab-surishtirish, tibbiy va boshqa hujjatlarni o'rganish, sanitariya tekshiruvi, laboratoriya tekshiruvi va maksimal yashirin davr davomida kuzatuvdan foydalanadi. Boshqa variantlar to'liq usullar majmuini aks ettirmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016

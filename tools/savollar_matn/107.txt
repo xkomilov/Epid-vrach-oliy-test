@@ -1,0 +1,103 @@
+=== 107
+? JSST ma'lumotiga ko'ra, inson quturishi holatlarining qariyb qancha qismida virus itlar orqali yuqadi?
++ 99% gacha
+- 50% atrofida
+- 75% atrofida
+- 20% atrofida
+- 5% dan kam
+! Itlar quturish virusining asosiy tarqatuvchisi bo'lgani uchun inson holatlarining deyarli barchasi ular bilan bog'liq.
+@ WHO. Rabies (fact sheet)
+? Quturgan hayvon odamni yuz sohasidan tishlaganda kasallik qanday ehtimol bilan rivojlanadi?
++ Taxminan 90% hollarda
+- Taxminan 63% hollarda, qo'l panjasidan tishlashdagi kabi
+- Taxminan 23% hollarda
+- Taxminan 5% hollarda
+- Taxminan 40% hollarda
+! Yuz markaziy asab tizimiga yaqin va nerv oxirlariga boy bo'lgani uchun virus miyaga tezroq yetib boradi, bu inkubatsiyani ham qisqartiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Quturish» bobi
+? Quturishda inkubatsion davr qanday chegarada o'zgaradi?
++ 7 kundan 1 yilgacha, ba'zan undan ham uzoq
+- 1 kundan 3 kungacha, har doim
+- 2 haftadan 3 haftagacha, aniq belgilangan
+- 3 yildan 5 yilgacha, doimo bir xil
+- 1 oydan 2 oygacha, istisnosiz
+! Muddat jarohat joyining markazga yaqinligi, virus dozasi va boshqa omillarga bog'liq bo'lgani uchun keng oraliqda o'zgaradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Quturish» bobi; WHO. Rabies (fact sheet)
+? Hayvon tishlagan shaxsga antirabik yordam ko'rsatishda qanday ketma-ketlikka amal qilinadi?
++ Jarohatga ishlov berish, antirabik immunoglobulin, antirabik vaksina, so'ngra qoqshol profilaktikasi
+- Antirabik vaksina, jarohatga ishlov berish, immunoglobulin, so'ngra qoqshol profilaktikasi o'tkaziladi
+- Qoqshol profilaktikasi, antirabik vaksina, jarohatga tikuv qo'yish, so'ngra immunoglobulin
+- Jarohatga tikuv qo'yish, antibiotik yuborish, so'ngra faqat kuzatuv, vaksinasiz
+- Antirabik immunoglobulin, jarohatni kuydirish, vaksina, so'ngra qoqshol zardobi
+! Jarohatga dastlabki ishlov virus miqdorini kamaytiradi, immunoglobulin esa vaksina himoya hosil qilgunga qadar passiv himoya beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova (quturish bo'yicha yo'riqnoma)
+? JSST tavsiyasiga ko'ra, quturgan hayvon tishlagan jarohat kamida necha daqiqa sovun va suv bilan yuviladi?
++ 15 daqiqa
+- 1 daqiqa
+- 5 daqiqa
+- 60 daqiqa
+- 30 soniya
+! Uzoq yuvish jarohatdagi so'lak va virus miqdorini mexanik ravishda kamaytiradi va yuqish ehtimolini pasaytiradi.
+@ WHO. Rabies (fact sheet)
+? Jarohat olgan shaxsda dastlabki ishlovdan keyin jarohatni kesish va tikish necha kun davomida mumkin emas?
++ 3 kun
+- 1 kun
+- 7 kun
+- 14 kun
+- 30 kun
+! Erta tikish virusni chuqur to'qimalarga ko'chirishi va jarohat ichida yopib qo'yishi mumkin.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova (quturish bo'yicha yo'riqnoma)
+? Hayvondan jarohat olgan jabrlanuvchi haqida sanitariya-epidemiologiya markaziga shoshilinch xabarnoma qaysi muddatda va qaysi shaklda beriladi?
++ 12 soat ichida, 058/h shaklida
+- 24 soat ichida, 058/h shaklida, yozma ravishda
+- 12 soat ichida, 391/h shaklida
+- 3 kun ichida, 025/u shaklida, ambulatoriya kartasida
+- 7 kun ichida, 063/u shaklida
+! Tezkor xabar epidemiologga jarohat yetkazgan hayvonni topish va boshqa jabrlanuvchilarni aniqlashga imkon beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova (quturish bo'yicha yo'riqnoma)
+? Jarohat yetkazgan hayvonlar toifalari ichida A toifasi nimani bildiradi?
++ Quturish laboratoriyada tasdiqlangan hayvon
+- Klinik belgilari bor, lekin laboratoriyada tasdiqlanmagan hayvon
+- Qarovsiz, egasi noma'lum hayvon
+- Egasi ma'lum, sog'lom va emlangan hayvon
+- Veterinariya kuzatuvidagi, quturishdan xoli hayvon
+! Toifa hayvondagi quturish ishonchliligi darajasini ko'rsatadi va kursning hajmini belgilashga yordam beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova (quturish bo'yicha yo'riqnoma)
+? To'liq (shartsiz) antirabik kurs olganlar dispanser nazoratida qancha muddat bo'ladi va qaysi oylarda ko'rikdan o'tadi?
++ Bir yil; kurs boshlanganidan keyin 3, 6 va 12-oylarda
+- Olti oy; kursdan keyin 1, 2 va 3-oylarda, ambulatoriya kartasi asosida
+- Ikki yil; har oyda, kurs tugagandan keyin
+- Bir yil; faqat kurs tugagan kuni va 12-oyda
+- Uch yil; har yilning boshida bir martadan
+! Kuzatuv emlashdan keyingi reaksiyalar va kasallik belgilarini o'z vaqtida aniqlashga imkon beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova (quturish bo'yicha yo'riqnoma)
+? SanQvaM № 0239-07/3 kalendariga ko'ra quturishga qarshi profilaktik emlash necha yoshdan o'tkaziladi?
++ 16 yoshdan
+- 1 yoshdan
+- 6 yoshdan
+- 12 yoshdan
+- 18 yoshdan
+! Emlash ekspozitsiyadan oldin xavfi yuqori kasb egalariga, jumladan qarovsiz hayvonlarni tutuvchilarga, ovchilar va o'rmon xodimlariga mo'ljallangan.
+@ SanQvaM № 0239-07/3 (25.07.2017), epidemiologik ko'rsatma bo'yicha emlash jadvali
+? JSST quturishni nazorat qilishda qaysi strategiyani eng samarali deb hisoblaydi?
++ Itlarni ommaviy emlash
+- Ko'cha itlarini ommaviy yo'q qilish
+- Butun aholini yiliga bir marta profilaktik emlash
+- Itlar bilan odamlar aloqasini butunlay taqiqlash
+- Faqat tishlangandan keyingi emlashga tayanish
+! Emlash infeksiyani manbaning o'zida to'xtatadi, ko'cha itlarini yo'q qilish esa samarasiz ekani ko'rsatilgan.
+@ WHO. Rabies (fact sheet)
+? Odamlarda quturishning tabiiy turi bilan bog'liq o'choqlar rezervuarlariga qaysilar kiradi?
++ Bo'ri, shoqol, tulki va ko'rshapalak
+- Uy it va mushuklari, ayniqsa shahar sharoitida
+- Sichqon, kalamush va boshqa sinantrop kemiruvchilar
+- Qoramol, ot va tuya kabi qishloq xo'jalik hayvonlari
+- Kanalar va burgalar kabi qon so'ruvchi bo'g'imoyoqlilar
+! Yovvoyi hayvonlar o'rtasida tabiiy aylanuvchi virus bu turdagi o'choqlarni saqlab turadi, uy hayvonlari esa antropurgik turga tegishli.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Quturish» bobi
+#D 107 / 5: mavzu materialida jarohat 20% li sovunli eritma bilan 2–3 daqiqa ishlanishi ko'rsatilgan, JSST esa kamida 15 daqiqa sovun va suv bilan yuvishni talab qiladi; savolda JSST muddati berildi.
+#D 107 / 11: mavzu materialidagi Vazirlar Mahkamasi qaroridan ko'cha hayvonlarini otib tashlash ko'zda tutilgan, JSST esa ko'cha itlarini ommaviy yo'q qilishni samarasiz deb hisoblaydi; savolda JSST yondashuvi berildi.
+#U 107 / 6: jarohatni 3 kun kesmaslik muddati faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.
+#U 107 / 7: 12 soatlik xabar berish muddati va 058/h shakli faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.
+#U 107 / 8: hayvon toifalari (A–D) tavsifi faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.
+#U 107 / 9: dispanser nazorati tartibi faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.

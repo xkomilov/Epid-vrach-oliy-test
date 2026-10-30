@@ -1,0 +1,99 @@
+=== 044
+? Ich terlama qo'zg'atuvchisi va uning infeksiya manbai qaysi javobda to'g'ri ko'rsatilgan?
++ Salmonella enterica serovar Typhi; manba faqat odam — kasal yoki qo'zg'atuvchi tashuvchi
+- Salmonella Enteritidis; manba asosan parranda va qoramol, shuningdek tuxum mahsulotlari
+- Shigella sonnei; manba faqat odam, ammo yuqish asosan maishiy-kontakt yo'li bilan kechadi
+- Vibrio cholerae; manba odam va suv havzalaridagi hayvonlar hamda qushlar
+- Hepatitis A virusi; manba odam, qo'zg'atuvchi esa jigar to'qimasida ko'payadi
+! Qo'zg'atuvchi inson bilan cheklangan mikroorganizm bo'lgani uchun ich terlama antroponoz hisoblanadi.
+@ World Health Organization. Typhoid (fact sheet)
+? Ich terlamada surunkali bakteriotashuvchilik ko'pincha qaysi a'zo patologiyasi bilan bog'liq bo'ladi?
++ O't pufagi va o't yo'llari
+- O'pka va bronxlar
+- Buyrak jomi va siydik pufagi
+- Taloq va limfa tugunlari
+- Teri va teri osti kletchatkasi
+! Qo'zg'atuvchi o't pufagida uzoq saqlanishi va umrbod ajralib turishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Typhoid (fact sheet)
+? Ich terlamada gemokultura (qondan ekish) kasallikning qaysi davrida eng samarali hisoblanadi?
++ Birinchi haftasida
+- Ikkinchi haftaning oxirida, kasallik avjida
+- Uchinchi haftada, haroratning pasayishi bilan birga
+- Sog'ayish davrida, asoratlar kuzatilmaganida
+- Bemor sog'aygandan keyingi bir oy davomida, bunda antibiotik davosi bosqichi o'tgan bo'lishi kerak
+! Kasallikning dastlabki haftasida qonda qo'zg'atuvchi eng ko'p topiladi, keyingi haftalarda najas va siydik ekmalari informativroq bo'ladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Typhoid (fact sheet)
+? Ich terlamada serologik usullar (Vidal reaksiyasi, IFA) odatda qachondan boshlab informativ bo'ladi?
++ Kasallikning ikkinchi haftasidan boshlab
+- Kasallikning birinchi kunlaridan boshlab
+- Inkubatsion davrning o'zida, bemor shikoyat qilmasidan oldin
+- Kasallikdan keyin bir yil o'tgachgina
+- Bemor kasalxonadan chiqarilgandan so'ng, nazorat uchun
+! Antitelolar kasallik boshlanishidan so'ng birinchi kunlarda hali yetarli darajada hosil bo'lmaydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Surunkali ich terlama tashuvchiligini aniqlashda qaysi namunadan ekish qo'llaniladi?
++ Duodenal zond orqali olingan o't suyuqligidan
+- Orqa miya suyuqligidan lyumbal punksiya orqali
+- Bronxial lavajdan bronxoskopiya vaqtida
+- Tomoqdan olingan surtmadan
+- Teri toshmasi elementlaridan olingan qirindidan
+! Surunkali tashuvchilikda qo'zg'atuvchi asosan o't yo'llarida saqlanadi, shu sababli tekshiruv materiali o'tdan olinadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Laboratoriya namunalari nima uchun antibakterial davolash boshlanishidan oldin olinishi kerak?
++ Antibiotik qo'zg'atuvchini ajratishni qiyinlashtirib, tashxis aniqligini pasaytiradi
+- Antibiotik qondagi antitelolarni to'liq yo'q qilib, serologik reaksiyani doimo salbiy qiladi
+- Davolashdan oldin olingan namuna oddiy muhitda ham uzoq muddat saqlanadi
+- Antibiotik namunadagi qo'zg'atuvchini ko'paytirib, natijani yolg'on ijobiy qiladi
+- Namunani olish qoidalari faqat dekretlangan kontingentga nisbatan qo'llaniladi
+! Dori ta'sirida qo'zg'atuvchi ekmada o'smay qolishi mumkin, shu sababli namuna davodan oldin olinadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Milliy yo'riqnomaga ko'ra ich terlama bilan og'rigan antibiotik olmagan rekonvalessentlar me'yoriy haroratning nechanchi kunidan shifoxonadan chiqariladi?
++ 14-kunidan
+- 7-kunidan
+- 10-kunidan
+- 21-kunidan
+- 28-kunidan
+! Antibiotik olgan rekonvalessentlar uchun bu muddat uzoqroq belgilangan, nazorat ekmada qo'zg'atuvchi topilishi esa chiqarishga to'sqinlik qilmaydi.
+@ Mavzu materiali (044.docx)
+? Ich terlamaning inkubatsion davri qancha kunni tashkil etadi?
++ 6–30 kun
+- 1–3 kun
+- 12 soatdan 4 kungacha
+- 50 kungacha, bunda odatdagi davr 14–28 kun
+- 2–3 oy
+! Inkubatsion davr keng oraliqda tebranadi, shu bois kuzatuv va o'choq davomiyligi uzoq belgilanadi.
+@ World Health Organization. Typhoid (fact sheet)
+? Ich terlamaga qarshi zamonaviy konyugat vaksinalar (TCV) haqida JSST nima deydi?
++ Ular yuqori xavfli hududlarda va xavf guruhlarida tavsiya etiladi hamda kichik yoshdagi bolalarda ham samarali
+- Ular kattalar uchun mo'ljallangan, kichik yoshdagi bolalarda esa samarasiz hisoblanib qo'llanmaydi, shuningdek tavsiya etilmaydi
+- Ular sanitariya choralarini to'liq o'rnini bosadi, shu bois suv xlorlash zarur emas
+- Ular qo'zg'atuvchi tashuvchilarni davolab, surunkali tashuvchilikni bartaraf etadi
+- Ular faqat o'choqdagi bemorlarga davolash uchun, kasallik boshlangandan keyin beriladi
+! Vaksina sanitariya-gigiyenik tadbirlarni to'ldiruvchi vosita bo'lib qoladi, ularni almashtira olmaydi.
+@ World Health Organization. Typhoid (fact sheet)
+? Ich terlama o'chog'ida muloqotda bo'lganlar qancha muddat kuzatiladi?
++ Bir maksimal inkubatsion davr mobaynida
+- Bir hafta davomida, har kuni ertalab
+- Bemor kasalxonaga yotqizilgan paytdan boshlab ikki kun
+- Umrbod, har yili bakteriologik tekshiruv bilan
+- Kasallik belgilari yo'qolganidan keyin faqat uch kun
+! Agar shu muddat ichida yangi kasallanish yuzaga kelmasa, o'choq so'ngan hisoblanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Milliy yo'riqnomaga ko'ra, ich terlama bo'yicha kichik noxush hudud qaysi hudud hisoblanadi?
++ Oxirgi 3–5 yil davomida har yili bemor yoki surunkali tashuvchi qayd etilgan aholi hududi, qishloq yoki ko'cha
+- Oxirgi bir oy ichida bitta sporadik holat qayd etilgan va bemor tashqaridan kelgan hudud, qishloq yoki ko'cha
+- Oxirgi 10 yil davomida bemor qayd etilmagan, lekin suv ta'minoti markazlashgan hudud
+- Kasallanish ko'rsatkichi respublika o'rtacha darajasidan past bo'lgan barcha viloyat markazlari
+- Oxirgi 3–5 yil davomida faqat paratif holatlari qayd etilgan va tashuvchilar aniqlanmagan hudud
+! Bunday hududlarda sog'lomlashtirish rejasi ishlab chiqilib, hokimlik tomonidan tasdiqlanadi va fagoprofilaktika hamda emlash o'tkaziladi.
+@ Mavzu materiali (044.docx)
+? Qorin tifi o'choqlarida o'choqli dezinfeksiya qanday muddat va qamrov bilan o'tkaziladi?
++ 24 soat ichida va kamida 95 foiz qamrov bilan
+- 3 soat ichida va 50 foiz qamrov bilan, bunda yakuniy dezinfeksiya o'tkazilmaydi
+- 72 soat ichida va 80 foiz qamrov bilan
+- 7 kun ichida va 100 foiz qamrov bilan
+- 12 soat ichida va 70 foiz qamrov bilan
+! O'choqli dezinfeksiya bu o'choqlarda majburiy tadbir hisoblanadi va uning sifati muddat hamda qamrov bilan baholanadi.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 55, 56, 63, 65-bandlar
+#U 044 / 7: antibiotik olmagan rekonvalessentlarni me'yoriy haroratning 14-kunidan chiqarish muddati faqat mavzu materialiga tayangan.
+#U 044 / 11: kichik noxush hudud ta'rifi (3–5 yil) faqat mavzu materialiga tayangan.

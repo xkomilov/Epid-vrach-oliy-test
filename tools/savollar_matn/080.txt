@@ -1,0 +1,97 @@
+=== 080
+? JSST ga ko'ra, chaqaloqlarda bakterial meningitning asosiy qo'zg'atuvchisi qaysi?
++ B guruhi streptokokki
+- Neisseria meningitidis
+- Streptococcus pneumoniae
+- Haemophilus influenzae
+- Corynebacterium diphtheriae
+! Meningokokk, pnevmokokk va Haemophilus influenzae esa bolalar, o'smirlar va kattalarda ko'proq uchraydi.
+@ WHO. Meningitis (fact sheet)
+? O'zbekiston kalendarida pnevmokokk vaksinasi qaysi oylarda beriladi?
++ 2, 3 va 12 oylikda
+- 2, 3 va 4 oylikda
+- 6 va 12 oylikda
+- 4 va 16 oylikda
+- 2 oylikda va 6 yoshda
+! 2, 3 va 4 oylikda pentavaksina beriladi, uning tarkibida Hib komponenti bor.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Meningokokk sepsisida teri toshmasi qanday xususiyatga ega bo'lishi mumkin?
++ Bosilganda rangi o'zgarmaydi, ya'ni oqarmaydi
+- Bosilganda oqaradi va tezda yo'qoladi
+- Qichishuvchi pufakchalar ko'rinishida bo'ladi
+- Yuzdan boshlanib, asta-sekin pastga tushadi
+- Faqat kaftlar va oyoq tagida paydo bo'lib, 1 kunda o'tib ketadi
+! Bu qon tomirlaridagi mayda qon quyilishlarni bildiradi va tezkor yordam talab qiladi.
+@ WHO. Meningitis (fact sheet)
+? Standart ta'rifga ko'ra, meningokokkli infeksiyaning tasdiqlangan holati uchun nima talab etiladi?
++ N. meningitidis ajratilishi va klinik ko'rinishning mos kelishi
+- Orqa miya suyuqligida faqat antigen aniqlanishi
+- Yaqqol klinik belgilar mavjudligi, laboratoriya tekshiruvisiz
+- Bemor bilan epidemiologik aloqa mavjudligi va isitma
+- Burun-halqumda qo'zg'atuvchi antigenini aniqlash va kasalxonaga yotqizish
+! Antigen aniqlangan yoki yaqqol klinik belgili holat faqat «ehtimoli» deb baholanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Laboratoriyagacha necha soat yo'l bo'lsa, meningokokk namunasi uchun maxsus oziq muhit shart emas?
++ 1–2 soat
+- 2–4 soat
+- 3 soatdan ortiq
+- 8–12 soat
+- 24 soat va undan ko'p
+! 2–4 soat bo'lsa tampon oziq muhitga ho'llab olinadi, 3 soatdan ortiq bo'lsa maxsus muhit ishlatiladi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (uslubiy ko'rsatma)
+? Meningokokklar o'sishi uchun optimal harorat qancha?
++ +37 °C
+- +4…+8 °C
+- +20…+22 °C
+- +42 °C
+- +56 °C
+! Mikrob oziq muhitlarga talabchan bo'lib, namlik va 5–10% CO2 ham talab etiladi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (uslubiy ko'rsatma)
+? Meningokokkli infeksiyaning o'choqli shaklida juft zardob qancha oraliqda tekshiriladi?
++ 10–14 kun oralig'ida
+- 1–2 kun oralig'ida
+- 3–5 kun oralig'ida
+- 21–28 kun oralig'ida
+- 30–45 kun oralig'ida
+! Antitela titrining dinamikasi infeksiya o'tkazilganini ko'rsatadi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (uslubiy ko'rsatma)
+? JSST ga ko'ra, bakterial meningitga shubha bo'lsa, lyumbal punksiya haqida qaysi fikr to'g'ri?
++ Antibiotikdan oldin o'tkaziladi, lekin antibiotik boshlanishini kechiktirmasligi lozim
+- Natija kelguncha antibiotik kechiktiriladi, chunki avval aniq tashxis shart
+- Antibiotikdan keyin kamida 24 soat o'tgach, bemor ahvoli barqarorlashganda o'tkaziladi
+- Hech qachon o'tkazilmaydi, tashxis faqat qon tekshiruvi bilan qo'yiladi
+- Bemor holati yaxshilangandan keyingina, antibiotik kursi tugagach o'tkaziladi
+! Kechiktirilgan antibiotik bemor hayotiga xavf soladi.
+@ WHO. Meningitis (fact sheet)
+? Darslikka ko'ra, aloqadorlarni meningokokk tashuvchilikka ommaviy tekshirish nega ko'pchilik mamlakatlarda maqsadga muvofiq emas deb hisoblanadi?
++ Aniqlangan tashuvchilarning ko'pchiligi epidemik xavf tug'dirmaydi
+- Tashuvchilar qo'zg'atuvchini hech qachon boshqalarga yuqtirmaydi
+- Laboratoriyada meningokokklarni ekish texnik jihatdan mutlaqo imkonsiz
+- Tashuvchilik faqat 1 yoshgacha bolalarda uchraydi va kattalarda bo'lmaydi
+- Barcha tashuvchilar bir kunda o'z-o'zidan tuzaladi
+! Maqsadli tekshiruv esa uzoq tashuvchilar hisobiga shakllangan o'choqlarda o'tkaziladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi serogruppali o'choqlarda meningokokkka qarshi epidemik ko'rsatma bo'yicha emlash o'tkaziladi?
++ A yoki C serogruppali
+- B yoki D serogruppali
+- H yoki I serogruppali
+- K yoki L serogruppali
+- X yoki Z serogruppali
+! Bundan tashqari kasallanish 2 baravar oshganda ham xavf guruhlari emlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaM № 0239-07/3 (25.07.2017)
+? JSST yaqin aloqadagilarga meningokokk bo'yicha nimani tavsiya etadi?
++ Postekspozitsion antibiotik profilaktikasi
+- Faqat kuzatuv, hech qanday dori yuborilmaydi
+- Qoqshol zardobi bilan passiv immunizatsiya
+- Qizamiq vaksinasining qo'shimcha dozasi
+- Profilaktik kurs sifatida antivirus vositalari
+! Antibiotik yaqin aloqadagilar orasida bakteriyani yo'q qilib, ikkilamchi holatlar xavfini kamaytiradi.
+@ WHO. Meningitis (fact sheet)
+? Yosh ortishi bilan meningokokkli infeksiya bilan kasallanish va tashuvchilik qanday o'zgaradi?
++ Kasallanish kamayadi, tashuvchilik esa ortadi
+- Ikkalasi ham ortadi
+- Ikkalasi ham kamayadi
+- Kasallanish ortadi, tashuvchilik esa kamayadi
+- Yosh bilan bog'liq emas, ikkalasi ham bir xil saqlanadi
+! Kasallik 1 yoshgacha bolalarda eng ko'p uchraydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

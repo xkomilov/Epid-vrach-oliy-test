@@ -1,0 +1,98 @@
+=== 058
+? Qorin tifining isitma davrida laboratoriya tashxisining asosiy usuli qaysi?
++ Gemokultura
+- Koprokultura
+- Urinokultura
+- Vidal reaksiyasi
+- Biliokultura
+! Bakteriyalar yashirin davrdan keyin butun isitma davrida, qaytalanishda ham qonda bo'ladi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Gemokultura uchun qon oziq muhitga qanday nisbatda ekiladi?
++ 1:10
+- 1:2
+- 1:50
+- 1:100
+- 1:1
+! Qon ko'proq olinsa, qondagi bakteritsid omillar mikroblar o'sishiga to'sqinlik qiladi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Kasallikning 2-haftasida gemokultura uchun qancha qon olinadi?
++ 10–15 ml
+- 2–5 ml
+- 20–30 ml
+- 1–2 ml
+- 50 ml
+! Kasallik davriga qarab qon miqdori o'zgaradi, 3-haftada va qaytalanishda 20 ml gacha olinadi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Gemokulturada Ploskirev muhitini ishlatmaslik sababi nima?
++ Safro kislotalari tuzlari o'sishga to'sqinlik qiladi
+- Laktoza qon bilan reaksiyaga kirishib, rangini butunlay o'zgartiradi
+- Juda yuqori konsentratsiyali glyukoza bakteriyalarni quritadi
+- U viruslarni o'stirish uchun mo'ljallangan va bakteriyalarni o'stirmaydi
+- Qon bilan aralashganda qotib qolib, ekish imkoniyatini yo'qotadi
+! Ploskirev muhitida ingibitorlar bor, ular tif-paratif qo'zg'atuvchilari o'sishini bostiradi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Najasdan tif-paratif A, B, C qo'zg'atuvchilarini ajratish uchun qaysi muhit yaroqsiz?
++ Rapoport–Vasilyadis bulyoni
+- Tetrationatli bulyon (Myuller), ya'ni selektiv boyitish muhiti
+- Sistin-selenitli bulyon, ya'ni selektiv boyitish muhiti
+- Vismut-sulfit agar, ya'ni qattiq selektiv muhit
+- To'yingan peptonli suv, ya'ni birlamchi boyitish muhiti
+! Bu bulyon tif-paratif A, B, C o'sishini to'xtatadi, qolganlari esa ularni ajratishda qo'llanadi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Najasda qo'zg'atuvchi qaysi davrda eng ko'p ajraladi?
++ 8–10-kunlardan boshlab, ayniqsa uchinchi haftada
+- Yashirin davrda, hali belgilar boshlanmasdan oldin
+- Kasallikning birinchi ikki kunida, isitma tushguncha
+- Tuzalgandan keyin uch oy o'tgach, har doim
+- Faqat qaytalanish davrida, birinchi haftada ajralmaydi
+! Birinchi haftada ham ajratish mumkin, lekin eng ko'p ajralish 8–10-kundan keyin kuzatiladi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Urinokultura uchun siydikning qaysi qismi olinadi?
++ O'rta porsiya, birinchi porsiya tashlab yuborilib
+- Birinchi porsiya, tashqi jinsiy a'zo yuvilmasdan
+- Oxirgi porsiya, kateter bilan olingan
+- Sutkalik siydikning umumiy hajmi, bir idishga yig'ilgan
+- Cho'kmasi ajratilgan va bir kun turgan eski siydik
+! Birinchi porsiya siydik yo'llari oldingi qismidagi mikroflora bilan ifloslangan bo'ladi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Duodenal zond bilan olingan o'tning C porsiyasida pH ni 7,2 gacha keltirish uchun nima ishlatiladi?
++ Steril NaOH
+- Steril HCl eritmasi
+- Steril sirka kislotasi eritmasi
+- Distillangan suv
+- Steril glyukoza eritmasi
+! Kislotali muhitda qo'zg'atuvchi o'sishi pasayadi, shu sababli reaksiya neytralga yaqinlashtiriladi.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Vidal reaksiyasi uchun ajratilgan eritrotsitsiz toza zardob 4 °C da qancha saqlanishi mumkin?
++ Bir oygacha
+- Bir haftagacha
+- Bir yilgacha
+- 24 soatgacha
+- Olti oygacha
+! Zardob past haroratda antitelolarini yo'qotmasdan ma'lum vaqt saqlanadi, lekin cheksiz emas.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+? Antibiotik olmagan rekonvalessentlar me'yoriy haroratning nechanchi kunidan chiqariladi?
++ 14-kunidan
+- 7-kunidan
+- 21-kunidan
+- 28-kunidan
+- 3-kunidan
+! 21-kun antibiotik olgan rekonvalessentlar uchun belgilangan.
+@ O'zR SSV. Ich terlama va paratif kasalliklarini oldini olish borasidagi yo'riqnoma (2-ilova, 2015)
+? Milliy yo'riqnomaga ko'ra, kim surunkali tashuvchi hisoblanadi?
++ Oldin ich terlama o'tkazmagan, o't suyuqligidan kamida bir marta qo'zg'atuvchi ajratilgan shaxs
+- Qo'zg'atuvchi najasdan bir marta aniqlangan va keyingi tekshiruvlarda hech qachon topilmagan shaxs
+- Qonida faqat Vidal reaksiyasi musbat chiqqan, bakteriologik tasdig'i yo'q shaxs
+- Gemokultura natijasi manfiy bo'lgan, lekin isitmalagan bemor
+- Siydikda leykotsitlar topilgan, qo'zg'atuvchi ajratilmagan shaxs
+! Najasda bir marta aniqlanish tranzitor tashuvchilikka xos, surunkali tashuvchilik esa o't yo'llarida qo'zg'atuvchi saqlanishi bilan bog'liq.
+@ O'zR SSV. Ich terlama va paratif kasalliklarini oldini olish borasidagi yo'riqnoma (2-ilova, 2015)
+? Tezlashtirilgan usulda flakondagi qon termostatda 37 °C da necha soat o'stiriladi?
++ 5–6 soat
+- 1–2 soat, so'ngra qattiq muhitga to'g'ridan-to'g'ri ekish
+- 24–36 soat
+- 48–72 soat
+- 10–12 kun
+! Qisqa o'stirishdan keyin qon qattiq va yarim suyuq muhitlarga ekiladi, shu sababli ijobiy natijani 4–5-kunda berish mumkin.
+@ O'zR SSV. Ich terlama va paratif kasalliklarning bakteriologik va serologik diagnostikasi bo'yicha uslubiy ko'rsatma (5-ilova, 2015)
+#U 058 / 12: usul va muddat faqat mavzu materialidagi uslubiy ko'rsatmaga tayanadi (sana va raqam nusxada to'ldirilmagan).

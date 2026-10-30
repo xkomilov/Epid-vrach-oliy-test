@@ -1,0 +1,97 @@
+=== 040
+? Uzluksiz sovuqlik zanjiri qaysi uch o'zaro bog'liq tarkibiy qismdan iborat?
++ Jihozlar, tashish vositalari hamda malakali xodimlar va nazorat tartiblari
+- Vaksinalar, in'yeksiya vositalari va emlash kalendari hujjatlari hamda ularning hisob-kitob jadvallari
+- Maqsadli kontingent, zaxira va isrof koeffitsiyenti hisob-kitoblari
+- Ishlab chiqaruvchi, ulgurji ombor va chakana dorixonalar tarmog'i
+- Harorat jurnali, emlash sertifikati va monitoring kartasi shakllari
+! Jihozlar saqlashni, tashish vositalari yetkazishni, xodimlar va nazorat tartiblari esa rejim buzilmasligini ta'minlaydi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Sovuqlik zanjirining biror bo'g'inida harorat buzilsa, nima hisoblanadi?
++ Butun zanjir buzilgan
+- Faqat shu bo'g'inning o'zi buzilgan, qolganlari esa buzilmagan
+- Keyingi bo'g'in buzilgan, oldingilari esa buzilmagan
+- Zanjir buzilmagan, agar vaksina tashqi ko'rinishi o'zgarmagan bo'lsa
+- Zanjir buzilmagan, agar harorat yarim soatdan kam vaqtga o'zgargan bo'lsa
+! Shu sababli zanjir "uzluksiz" deb ataladi: har bir bo'g'in rejimni saqlashi shart.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Qaysi vaksinalarni muzlatish qat'iyan taqiqlanadi?
++ Adsorbsiyalangan vaksinalarni (masalan, AKDS, gepatit B, pentavalent)
+- Barcha vaksinalarni, jumladan OPVni
+- Quruq liofilizatsiyalangan vaksinalarni, chunki ular muzlashga sezgir
+- mRNK vaksinalarini, chunki ular +2 °C da saqlanadi
+- Tashqi ko'rinishi o'zgargan vaksinalarni, boshqalarini esa muzlatish mumkin
+! Muzlash adsorbent tuzilmasini buzadi, shu sababli vaksina tashqi ko'rinishi yaroqli bo'lsa ham himoya bermaydi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? FEFO tamoyiliga ko'ra vaksinalar qanday tartibda ishlatiladi?
++ Yaroqlilik muddati avval tugaydiganlari birinchi navbatda
+- Omborga avval kelganlari muddatidan qat'i nazar birinchi navbatda
+- Eng yangi ishlab chiqarilganlari birinchi navbatda
+- Eng ko'p dozali flakonlar birinchi navbatda
+- Faqat muzlatilgan vaksinalar birinchi navbatda
+! Bu tamoyil yaroqlilik muddati o'tib ketishidan yo'qotishlarni kamaytiradi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? O'rta masofaga vaksina tashish uchun qaysi jihozlar qo'llaniladi?
++ Termokonteyner va sovutuvchi qutilar (cold box)
+- Muzlatgichli katta yuk avtomobillari va sovutuvchi kameralar
+- Faqat emlash nuqtasigacha olib borishga mo'ljallangan vaksina sumkalari
+- Quruq muzli maxsus konteynerlar, faqat mRNK vaksinalari uchun
+- Oddiy yopiq yuk mashinalari, harorat nazoratisiz
+! Katta hajm uchun muzlatgichli avtomobil, emlash nuqtasiga olib borish uchun esa vaksina sumkasi qo'llaniladi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Vaksina sumkalari (vaccine carrier) qaysi maqsadda qo'llaniladi?
++ Vaksinalarni emlash nuqtasigacha olib borishda
+- Vaksinalarni markaziy omborda uzoq muddat saqlashda
+- Vaksinalarni xalqaro darajada aviatsiya orqali tashishda
+- Muzlatgichdagi haroratni avtomatik qayd etishda
+- Muddati o'tgan vaksinalarni yo'q qilishda
+! Sumka ichida muz akkumulyatorlari yordamida seans davomida kerakli harorat ushlab turiladi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Harorat rejimi buzilganligi aniqlansa, tegishli vaksinalar bilan qanday ish tutiladi?
++ Darhol alohida ajratiladi va yaroqliligi ishlab chiqaruvchi ko'rsatmalari asosida baholanadi
+- Emlashda ishlatishda davom etiladi, chunki tashqi ko'rinishi o'zgarmagan
+- Qayta muzlatiladi va keyingi emlash seansida ishlatiladi, chunki muzlash faollikka ta'sir qilmaydi deb hisoblanadi
+- Darhol yo'q qilinadi, baholanmaydi va hujjatlashtirilmaydi
+- Boshqa vaksinalar bilan aralashtirib saqlanadi
+! Alohida ajratish yaroqsiz vaksina tasodifan ishlatilishining oldini oladi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Vaksinalar yorug'likka nisbatan qanday himoya qilinadi?
++ To'g'ridan-to'g'ri quyosh nuri va kuchli sun'iy yorug'likdan saqlanadi
+- Doimo ochiq javonlarda, yoritilgan holda saqlanadi
+- Ultrabinafsha nurlari bilan muntazam nurlantiriladi
+- Yorug'lik ta'siri hisobga olinmaydi, chunki ular faqat haroratga sezgir
+- Faqat quyosh nurida isitilib, keyin muzlatgichga qo'yiladi
+! Ba'zi vaksinalar yorug'likka sezgir, shu sababli ularni qorong'i joyda saqlash tavsiya etiladi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Nima uchun vaksinalarni haddan tashqari ko'p zaxiralab qo'ymaslik tavsiya etiladi?
++ Bu saqlash xavfini, sovuqlik zanjiriga yukni va yaroqlilik muddati o'tib ketish ehtimolini oshiradi
+- Ortiqcha zaxira vaksinalarning immunogenligini oshirib, o'tkir allergik reaksiyalarga sabab bo'ladi
+- Zaxira qonun bilan taqiqlangan va uning uchun jinoiy javobgarlik belgilangan
+- Vaksinalar bir-biri bilan kimyoviy reaksiyaga kirishib, faolligini yo'qotadi
+- Zaxira emlash qamrovini pasaytiradi, chunki emlanuvchilar soni kamayadi
+! Aylanma tamoyili asosida boshqarilgan optimal zaxira isrofgarchilikni kamaytiradi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Emlash seansi davomida ochilgan flakon bilan qanday ish tutiladi?
++ Sovutuvchi element ustida saqlanadi va belgilangan vaqtdan oshganlari ishlatilmaydi
+- Seans davomida xona haroratida stol ustida qoldiriladi va keyingi kunda ham ishlatiladi
+- Seansdan keyin qayta muzlatilib, keyingi hafta uchun saqlanadi
+- Boshqa ochilgan flakonlar bilan aralashtirilib, bitta flakonga quyiladi
+- Eshik javoniga qo'yiladi, chunki u yerda harorat doimiy past bo'ladi
+! Ochilgan flakon ifloslanishi va faolligini yo'qotishi mumkin, shu sababli undan foydalanish muddati cheklangan.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Vaksinalar muzlatgichda qanday joylashtiriladi?
++ Muz hosil bo'ladigan qismlardan va devorlardan uzoqda, havo aylanishini ta'minlab
+- Devorga zich taqab, bo'shliq qoldirmasdan, joyni tejash maqsadida va muzlatgich hajmidan to'liq foydalanish uchun
+- Eshik javonlarida, olish qulay bo'lishi uchun
+- Muz hosil bo'ladigan qismga yaqin, doimiy sovuq saqlash uchun
+- Bir-biriga zich qadoqlab, havo aylanishini cheklash orqali
+! Havo aylanishi va devorlardan uzoqlik harorat barqarorligini ta'minlaydi va muzlash xavfini kamaytiradi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain
+? Muzlatgichdagi haroratni o'lchash va jurnalda qayd etish qanday chastotada o'tkaziladi?
++ Kuniga kamida ikki marta
+- Haftada bir marta
+- Oyda bir marta
+- Faqat vaksina qabul qilinganda
+- Elektr uzilgandagina
+! Tez-tez nazorat harorat buzilishini erta aniqlashga imkon beradi.
+@ World Health Organization. Immunization in practice: a practical guide for health staff; Safe vaccine handling and cold chain

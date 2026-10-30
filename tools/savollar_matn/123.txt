@@ -1,0 +1,98 @@
+=== 123
+? Qizilqum tabiiy o'chog'ining maydoni qancha?
++ 14,72 mln ga
+- 4,0 mln ga
+- 0,08 mln ga
+- 1,47 mln ga
+- 7,35 mln ga
+! Bu respublikadagi eng katta tabiiy o'choq bo'lib, o'lat o'choqlari umumiy maydonining katta qismini egallaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Qo'llanmaga ko'ra, O'zbekistonda o'lat bo'yicha tabiiy o'choqli cho'l va tog'li yerlarning umumiy maydoni qancha?
++ 19 mln ga
+- 4,0 mln ga
+- 6,5 mln ga
+- 31 mln ga
+- 44 mln ga
+! Maydon besh tabiiy o'choq yig'indisidan hosil bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Yer kurrasining suvsiz qismining necha foizi o'lat bo'yicha tabiiy o'choqli hudud hisoblanadi?
++ 6–7%
+- 1–2%
+- 15–20%
+- 30–35%
+- 50–55%
+! Ko'rsatkich tabiiy o'choqlar dunyo quruqligining nisbatan kichik, ammo doimiy xavfli bo'lagini egallashini ko'rsatadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Odam uchun yetakchi o'lat manbalari qaysi hayvonlar hisoblanadi?
++ Katta qumsichqon, sug'ur, yumronqoziq va tuya
+- Uy kalamushi, qoramol, qo'y va echki
+- Quyon, tulki, bo'ri va shoqol
+- Ko'rshapalak, tipratikan, bo'rsiq va jayron
+- Uy sichqoni, cho'chqa, ot va eshak
+! Bu hayvonlar cho'l o'choqlarida qo'zg'atuvchini saqlaydi va odam bilan aloqada bo'lish ehtimoli yuqori.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'zbekistonda o'latning oxirgi holatlari 1990 va 1999 yillarda qaysi viloyatda qayd etilgan?
++ Navoiy viloyatida
+- Qoraqalpog'iston Respublikasida
+- Xorazm viloyatida
+- Qashqadaryo viloyatida
+- Surxondaryo viloyatida
+! Holatlar Qizilqum o'chog'ining tuman hududlarida qayd etilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'zbekistonda oxirgi 65 yilda tabiiy o'choqlarda kasallanganlarning barchasi o'latning qaysi shakli bilan og'rigan?
++ Bubon shakli
+- O'pka shakli
+- Septik shakli
+- Teri shakli
+- Ichak shakli
+! Qo'llanmada barcha holatlarning shakli bir xil ekani ko'rsatilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'lat bo'yicha endemik noxush hududlardan kelganlar sanitariya nazorati punktlarida necha kun tibbiy kuzatuvga olinadi?
++ 6 kun
+- 3 kun
+- 5 kun
+- 10 kun
+- 14 kun
+! Muddat o'latning yashirin davriga mos ravishda belgilangan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Cho'l zonalaridagi tuyalarga nisbatan qanday veterinariya talabi qo'yilgan?
++ Hech bir tuya veterinar klinik ko'rigisiz so'yilmaydi va go'shti sotilmaydi
+- Tuya go'shti faqat qaynatilgan holda sotiladi, boshqa ko'rik talab etilmaydi
+- Barcha tuyalar yilda ikki marta majburiy emlanadi va emlash daftarida qayd etiladi
+- Tuyalar o'choq hududidan tashqariga olib chiqilmaydi, ammo so'yish cheklanmaydi
+- Tuyalarni so'yish faqat bahor-yoz oylarida ruxsat etiladi va go'sht erkin sotiladi
+! Tuya o'latga chalinib, odamga infeksiyani yuqtirishi mumkin.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'zbekistonda o'latga qarshi maxsus profilaktika uchun qaysi vaksina qo'llaniladi?
++ Tirik quritilgan EV vaksinasi
+- Tirik quritilgan STI vaksinasi
+- Vi-polisaxarid tifga qarshi vaksina
+- BCG vaksinasi
+- Difteriya-ko'k yo'tal-qoqshol vaksinasi
+! Vaksina tirik zaiflashtirilgan shtammdan tayyorlanadi va epidemiologik ko'rsatma bo'yicha qo'llanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? JSST o'latga qarshi emlashni qaysi guruhlar uchun tavsiya etadi?
++ Doimiy xavf ostidagi laboratoriya va tibbiyot xodimlari kabi xavfi yuqori guruhlar
+- O'choq hududidagi barcha aholi, ayniqsa bolalar va keksalar
+- Chet elga ketayotgan barcha turistlar va xizmat safariga chiquvchi xodimlar
+- Faqat 65 yoshdan oshgan shaxslar va surunkali kasalligi borlar
+- O'choq hududida yashovchi barcha homilador ayollar va emizikli onalar
+! Vaksina ommaviy emlash uchun emas, xavfi aniq bo'lgan tor guruhlar uchun mo'ljallangan.
+@ WHO. Plague (fact sheet)
+? JSST tavsiyasiga ko'ra, burgalarga qarshi kurash va kemiruvchilarni yo'qotish qaysi tartibda o'tkazilishi kerak?
++ Avval burgalarga qarshi kurash, so'ngra kemiruvchilarni yo'qotish
+- Avval kemiruvchilarni yo'qotish, so'ngra burgalarga qarshi kurash
+- Ikkala tadbir bir vaqtda, faqat zaharli o'lja yordamida o'tkaziladi
+- Faqat kemiruvchilarni yo'qotish yetarli, burgalarga qarshi kurash talab etilmaydi
+- Tadbirlar mavsumga qarab ixtiyoriy tartibda, kemiruvchilar sonidan qat'i nazar o'tkaziladi
+! Kemiruvchilar nobud bo'lgach, ochlikdan burgalar yangi xo'jayinlarga o'tadi va xavf ortadi.
+@ WHO. Plague (fact sheet)
+? Uchquduq va Temir yo'l o'latga qarshi stansiyalari Respublika o'lat profilaktika markaziga qanday bo'ysunadi?
++ Faqat metodik jihatdan
+- Tashkiliy, moliyaviy va kadrlar jihatdan to'liq
+- Ma'muriy jihatdan viloyat hokimligi orqali bevosita
+- Bevosita Sog'liqni saqlash vazirligi apparati orqali
+- Markaz filiallari sifatida to'liq qo'shilgan holda
+! Stansiyalar markaz tarkibiga kirmaydi va uslubiy rahbarlik bilan cheklanadi.
+@ O'zR SSV huzuridagi Qo'mitaning 2023-yil 11-iyuldagi 32-son buyrug'iga 20-ilova
+#D 123 / 2: mavzu materialida respublikaning o'lat bo'yicha tabiiy o'choqli yer maydoni 19 mln ga deb, boshqa joyda esa «salkam uchdan ikki qism» deb berilgan; ularning mosligi izohlanmagan.

@@ -1,0 +1,98 @@
+=== 052
+? Vabo bo'yicha epidemik avj olishlarni qaysi serogruppalar keltirib chiqaradi?
++ Faqat O1 va O139 serogruppalari
+- O157 va O104 serogruppalari, ya'ni enterogemorragik ichak tayoqchalari guruhi
+- O1 va barcha NAG-vibrionlar, ya'ni agglutinatsiya bermaydigan vibrionlar guruhi
+- O3 va O8 serogruppalari bilan birga barcha parahemolitik vibrionlar
+- O22 va O26 serogruppalari hamda ularga yaqin salmonellalar
+! Boshqa serogruppalar epidemiya bermaydi, so'nggi avj olishlarning hammasi O1 bilan bog'liq.
+@ WHO. Cholera (fact sheet)
+? JSST ma'lumotiga ko'ra, vabo belgilari yuqtirgandan keyin qancha vaqtdan so'ng paydo bo'ladi?
++ 12 soatdan 5 kungacha
+- 30 daqiqadan 2 soatgacha, ya'ni juda tez
+- 7 kundan 14 kungacha o'tgach
+- 3 haftadan 6 haftagacha o'tgach
+- 2 oydan 3 oygacha davom etgan yashirin davrdan keyin
+! Yashirin davr qisqa, shu sababli avj olish tez rivojlanadi.
+@ WHO. Cholera (fact sheet)
+? Vabo bilan kasallanganlarning ko'pchiligida belgilar yengil yoki yo'q bo'lsa, ular qo'zg'atuvchini taxminan necha kun najas bilan ajratadi?
++ 1–10 kun
+- 1–2 oy, ya'ni kasallikdan keyin uzoq muddat
+- 3–4 oy, ya'ni butun dispanser kuzatuvi davomida
+- 30–40 kun, ya'ni kamida bir oydan ortiq
+- 6–12 oy, ya'ni surunkali tashuvchilik davomida
+! Belgisiz tashuvchilar ham qisqa vaqt ichida qo'zg'atuvchini tashqi muhitga chiqaradi va boshqalarni yuqtirishi mumkin.
+@ WHO. Cholera (fact sheet)
+? Vabo o'chog'i qanday rasman e'lon qilinadi?
++ Hududiy FEQK taqdimnomasiga ko'ra Vazirlar Kengashi yoki hokimlik qarori bilan
+- Bemor yotqizilgan muassasa bosh shifokorining ichki buyrug'i bilan e'lon qilinadi
+- Faqat O'zbekiston Respublikasi Prezidentining alohida farmoni asosida e'lon qilinadi
+- JSST Yevropa mintaqaviy byurosining yozma tavsiyasi bilan darhol e'lon qilinadi
+- Tuman bakteriologiya laboratoriyasi mudirining xulosasi bilan e'lon qilinadi
+! Birinchi kasallik yoki vibrion tashuvchilik aniqlanganda hududiy FEQK taqdim qiladi, qaror esa hokimiyat organi tomonidan chiqariladi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+? Diareya va qusish bilan kelgan barcha bemorlar qayerga yotqiziladi va necha marta bakteriologik tekshiriladi?
++ Provizor gospitalga, uch marta
+- Vabo gospitaliga, faqat bir marta
+- Umumiy yuqumli kasalliklar bo'limiga, ikki marta
+- Uyda qoldiriladi va tuman poliklinikasida besh marta
+- Ko'p tarmoqli kasalxonaning terapiya bo'limiga, to'rt marta
+! Vabo tashxisi tasdiqlanmaguncha bemorlar provizor gospitalda alohida saqlanadi, vabo gospitaliga esa tasdiqlangan va gumon qilinganlar tushadi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+? Kuchsiz virulent yoki avirulent (atoksigen) shtammlar ajratilganda tadbirlar majmuasidan qaysi biri saqlanadi?
++ Bemorlarni gospitalizatsiya qilish
+- Hududni to'liq karantinga yopish va tashqi aloqalarni butunlay to'xtatish
+- Ochiq suv havzalaridan foydalanishni uzoq muddatga umuman taqiqlash
+- Barcha muloqotda bo'lganlarni mavsum tugagunicha majburiy ajratib saqlash
+- O'choqni hokimlik qarori bilan e'lon qilib, tezkor rejani to'liq ishga solish
+! Gospitalizatsiya saqlanadi, boshqa cheklovlar hajmi esa vaziyatga moslashtiriladi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+? Vibrion madaniyatining harakatchanligi va O1 zardobi bilan qaysi reaksiya orqali baholanadi?
++ Slayd-agglutinatsiya
+- Vidal reaksiyasi, ya'ni mikrob zardobining suyultirilgan titrlari bilan reaksiya
+- Asxeli termopretsipitatsiya reaksiyasi, ya'ni issiqlik ta'sirida cho'ktirish reaksiyasi
+- Pirke teri sinamasi, ya'ni teriga yuboriladigan allergik sinama
+- Komplementni biriktirish reaksiyasi, ya'ni juft zardoblar bilan o'tkaziladigan sinama
+! Madaniyat O1 zardobi bilan shisha ustida aglyutinatsiya beradimi, shuni tekshirish qo'zg'atuvchini tezkor aniqlashga imkon beradi.
+@ O'zR SSV. Vabo kasalligining laboratoriya tashxisi bo'yicha uslubiy ko'rsatma (10-ilova, 2015)
+? Vabo o'choqlarida o'choqli (yakuniy) dezinfeksiya qanday o'tkaziladi?
++ Majburiy, 24 soat ichida va kamida 95 foiz qamrov bilan
+- Ixtiyoriy, bemor yotqizilgandan 72 soat ichida va kamida 95 foiz qamrov bilan
+- Majburiy, ammo o'choq tugatilgandan keyin 7 kun ichida va 50 foiz qamrov bilan
+- Faqat tashqi muhitdan vibrion ajratilganda, 24 soat ichida va 80 foiz qamrov bilan
+- Ixtiyoriy, bemor yotqizilgandan keyin bir oy ichida va to'liq qamrov bilan
+! Dezinfeksiya o'z vaqtida va to'liq bajarilsa, o'choqda qo'zg'atuvchi tarqalishi to'xtatiladi.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 55, 56, 65-bandlar
+? Vabo yoki vibrion tashuvchilikni o'tkazganlarning dispanser kuzatuvi muddati va birinchi oyda najasni tekshirish davriyligi qanday?
++ 3 oy, birinchi oyda 10 kunda bir marta
+- 6 oy, birinchi oyda har kuni bir martadan
+- 1 oy, birinchi haftada ikki kunda bir marta
+- 12 oy, birinchi oyda haftada bir marta
+- 2 hafta, birinchi kunlarda har 3 kunda bir marta
+! Birinchi oyda tekshiruv tez-tez, keyin 30 kunda bir marta o'tkaziladi va kuzatuvdan chiqarish komissiya qarori bilan amalga oshiriladi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+? JSST yengil va o'rtacha vabo holatlarida qanday davolashni tavsiya qiladi?
++ Og'iz orqali regidratatsiya eritmasi bilan davolash
+- Faqat venaga antibiotik yuborish, suyuqlik berishni to'xtatgan holda
+- Ich ketishini to'xtatuvchi vositalar berib, suyuqlik miqdorini cheklash
+- Bemorni suyuqliksiz va ovqatsiz holda sutka davomida kuzatish
+- Jarrohlik yo'li bilan ichak tarkibini mexanik tozalashga asoslangan muolaja
+! Asosiy xavf suvsizlanish bo'lgani uchun suyuqlik o'rnini to'ldirish davoning asosi, venaga suyuqlik esa og'ir holatlarda beriladi.
+@ WHO. Cholera (fact sheet)
+? Yo'riqnomada vabo regidratatsiyasi uchun qaysi polionli eritmalar nomlangan?
++ Trisol, kvartasol, atsesol
+- Albumin, reopoliglyukin va 5 foizli glyukoza eritmalari
+- Fiziologik eritma, 40 foizli glyukoza va kaliy xlorid
+- Kalsiy glyukonat, magniy sulfat va natriy gidrokarbonat tabletkalari
+- Aminokislotalar aralashmasi, yog' emulsiyasi va vitaminlar kompleksi
+! Bular suv va elektrolitlar yo'qotilishini to'ldiradigan polionli eritmalar bo'lib, regidratatsiya reanimatsion tadbir sifatida o'tkaziladi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+? Vabo, o'lat yoki sariq isitmaga gumon qilinganda navbatdan tashqari xabarnoma qanday yuboriladi?
++ Kechiktirmasdan, mavjud har qanday usulda
+- Haftalik hisobotga qo'shilib, har dushanba kuni yig'ma ro'yxat ko'rinishida
+- Oylik statistik hisobotda, hisobot davri tugagach, yozma shaklda
+- Laboratoriya natijasi to'liq tasdiqlangach, faqat rasmiy xat orqali
+- Faqat bemor kasalxonadan chiqarilgach, tibbiy hujjatlar to'liq yig'ilganidan keyin
+! Karantin infeksiyalari tez tarqalishi mumkin, shu sababli xabar berish kechiktirilmaydi.
+@ O'zR SSV. Vabo ustidan epidemiologik nazoratni takomillashtirish to'g'risidagi buyruq (25.01.2012, № 25), 1-ilova
+#U 052 / 12: navbatdan tashqari xabarnoma tartibi yo'riqnomada 2009-yil 11-sentyabrdagi 280-sonli buyruqqa havola qilinadi, bu buyruqning o'zi tekshirilmagan.

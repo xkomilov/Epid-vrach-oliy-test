@@ -1,0 +1,97 @@
+=== 051
+? Ichak guruhi infeksiyalarida qaysi yuqish yo'llari asosiy hisoblanadi?
++ Suv va oziq-ovqat orqali yuqish yo'llari
+- Maishiy-muloqot va havo-chang orqali yuqish yo'llari bilan birga
+- Transmissiv va parenteral mexanizm bilan bog'liq yo'llar
+- Vertikal va havo-tomchi mexanizmiga asoslangan yo'llar
+- Jinsiy aloqa va qon quyish orqali yuqish yo'llari
+! Bu omillar bilan organizmga qo'zg'atuvchining ko'p miqdori tushish ehtimoli yuqori bo'ladi, maishiy-muloqot esa qo'shimcha yo'l hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Ichak infeksiyalarida maishiy-muloqot yo'li bilan yuqqanda odatda qanday klinik ko'rinish kuzatiladi?
++ Yengil shakl yoki bakteriya tashuvchilik
+- O'ta og'ir toksik shok va qisqa muddatda rivojlanadigan o'lim bilan tugaydigan shakl
+- Portlashsimon avj olish bilan birga yuz beradigan og'ir, ommaviy toksiko-infeksiya
+- Doimo surunkali kechadigan va uzoq yillar davom etadigan o'tkir bo'lmagan shakl
+- Faqat qisqa yashirin davrli, yuqori isitma bilan boshlanadigan og'ir shakl
+! Bu yo'l bilan qo'zg'atuvchining kam miqdori tushadi, shuning uchun og'ir kasallik kamdan-kam rivojlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Oziq-ovqatga qo'zg'atuvchi pishirilgandan keyin tushishi nima uchun ayniqsa xavfli?
++ Mahsulotda bakteriyalar tez ko'payadi va unga qayta issiqlik ishlovi berilmaydi
+- Pishirilgan mahsulotda sporalar faollashib, ichak devori hujayralariga bevosita o'tib ketadi
+- Issiqlik ta'sirida mahsulot oqsillari qo'zg'atuvchini oshqozon kislotasidan to'liq muhofaza qiladi
+- Pishirilgan taomda pashshalar faolligi kuchayib, ularning soni bir necha barobar ortadi
+- Qizdirilgan idishda qo'zg'atuvchi virulentligi pasayib, kasallik faqat tashuvchilik bilan kechadi
+! Ko'payish uchun sharoit qulay bo'ladi, qo'zg'atuvchini yo'qotadigan keyingi ishlov esa bajarilmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Surunkali suv avj olishlarida infeksiyalar qanday ketma-ketlikda ko'tariladi?
++ Avval ichburug' va boshqa o'tkir ichak infeksiyalari, so'ng ich terlama va paratiflar, keyin virusli gepatitlar
+- Birinchi navbatda virusli gepatitlar, so'ng ich terlama va paratiflar, oxirida ichburug' va boshqa ichak infeksiyalari
+- Dastlab ich terlama va paratiflar, keyin virusli gepatitlar, eng oxirida ichburug' va boshqa o'tkir infeksiyalar
+- Ichburug' bilan bir vaqtda virusli gepatitlar, ich terlama va paratiflar esa har doim mutlaqo kuzatilmaydi
+- Ketma-ketlik yo'q: barcha ichak infeksiyalari bir kunda, bir xil darajada ko'tariladi va birdaniga pasayadi
+! Suvdagi ifloslanish davom etganda avval ko'p tarqalgan bakterial infeksiyalar, keyin kamroq dozada ham yuqadigan qo'zg'atuvchilar bilan kasallanish ko'tariladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Suvni zararsizlantirish tizimi talab darajasida bo'lmasa, qaysi infeksiyalarda odatda surunkali suv epidemiyalari kuzatiladi?
++ Enterovirus infeksiyalari va virusli gepatit A
+- Stafilokokkli toksiko-infeksiya va botulizm, shuningdek, ularga o'xshash toksinli kasalliklar
+- Qutirish va qoqshol kabi hayvonlar va tuproq bilan bog'liq kasalliklar
+- Brutsellyoz va sibir yarasi kabi hayvonlardan yuqadigan zoonoz infeksiyalar
+- Gripp va qizamiq kabi havo-tomchi yo'li bilan tarqaladigan virusli kasalliklar
+! Virusli qo'zg'atuvchilar xlorlash va tozalashdagi kamchiliklarga chidamli, shu sababli suvdagi ifloslanish uzoq davom etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Belgili xaritada kasallanish 3 kundan keyin ham davom etsa, bu nimani ko'rsatadi?
++ Surunkali ko'tarilishni
+- O'tkir mahalliy ko'tarilishni, ya'ni suv manbaining bir martalik ifloslanishini
+- Hisobotdagi tasodifiy xatolikni va kasallanishning haqiqatda ko'tarilmaganini
+- Faqat maishiy-muloqot yo'lining mutlaqo yo'qligini va barcha holatlar bir uydan chiqqanini
+- Emlash qamrovining yuqoriligi sababli yangi holatlar to'xtaganini
+! 1–3 kun ichida tez ko'tarilish o'tkir mahalliy manbaga xos, uzoq davom etishi esa doimiy manbani bildiradi.
+@ O'zR SSV buyrug'iga 1–3-ilovalar (ich terlama va paratif yo'riqnomasi, 2015)
+? Jamoat binolari, transport va chegara obyektlarida profilaktik dezinfeksiya qanday davriylikda o'tkaziladi?
++ Oyiga bir marta, epidemik mavsumda esa tez-tez
+- Haftada bir marta, mavsumdan qat'i nazar, bir xil davriylikda
+- Yilda ikki marta, ya'ni faqat bahor va kuz oylarida
+- Faqat o'choq paydo bo'lgandan keyingina, bemor yotqizilgach
+- Choraklikda bir marta, epidemik mavsumda ham o'zgartirilmagan holda
+! Muntazam profilaktik ishlov qo'zg'atuvchining ob'ektlarda to'planishini kamaytiradi, mavsumda xavf oshgani uchun ishlov kuchaytiriladi.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 5, 55, 56, 65-bandlar
+? Ichak infeksiyalari o'choqlarida o'choqli dezinfeksiya qachon va qanday qamrov bilan o'tkazilishi kerak?
++ Bemor yotqizilgandan 24 soat ichida, kamida 95 foiz qamrov bilan
+- Bemor yotqizilgandan 72 soat ichida, kamida 95 foiz qamrov bilan o'tkaziladi
+- Yotqizilgan paytdan 24 soat ichida, lekin kamida 70 foiz qamrov yetarli hisoblanadi
+- Bemor yotqizilgandan so'ng 7 kun ichida, kamida 50 foiz qamrov bilan bajariladi
+- Yotqizilgandan 12 soat ichida, bunda ham to'liq 100 foiz qamrov talab etiladi
+! Dezinfeksiyani kechiktirish qo'zg'atuvchining tashqi muhitda tarqalishiga imkon beradi, qamrov esa sifat surtmalar bilan baholanadi.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 5, 55, 56, 65-bandlar
+? Qaysi chora JSST tavsiya etgan diareya profilaktikasi choralariga kiradi?
++ Bola hayotining dastlabki 6 oyida faqat ko'krak suti bilan boqish
+- Chaqaloqlarni ikki oylikdan boshlab sun'iy aralashmalar bilan boqishga o'tkazish
+- Barcha sog'lom bolalarga profilaktik maqsadda muntazam antibiotik berish
+- Ichimlik suvini tozalamasdan, to'g'ridan-to'g'ri ochiq manbalardan iste'mol qilish
+- Qo'l yuvishni faqat ovqatdan keyin va faqat issiq suv bilan o'tkazish
+! Ko'krak suti bilan boqish bolani ichak infeksiyalaridan himoya qiladi, ro'yxatda yana xavfsiz suv, sanitariya va qo'l yuvish bor.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Ichak infeksiyalarining yozgi-kuzgi mavsumiyligi qisman nima bilan bog'liq?
++ Pashshalar faolligi
+- Havo namligining pasayishi va changning ko'payishi bilan bog'liq holat
+- Chivinlar chaqishi orqali transmissiv yuqish imkoniyatining oshishi
+- Bahorgi suv toshqinlarida yer osti suvlarining soflashishi
+- Qish oylarida bolalar jamoalarida havo-tomchi yo'lining kuchayishi
+! Pashshalar iflos joylardan qo'zg'atuvchini oyoqlarida olib, oziq-ovqatni ifloslaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Oziq-ovqat yo'li bilan yuqqan ichak infeksiyasi avj olishining qaysi xususiyati xos?
++ Tez ko'tarilib tez pasayadi, odatda bitta qo'zg'atuvchi (monofagotip) aniqlanadi
+- Sekin ko'tarilib, oylar davomida davom etadi va doimo ko'p etiologiyali bo'ladi
+- Faqat bir necha oy davomida uzluksiz ko'tarilib, keyin asta-sekin so'nadi
+- Bir necha qo'zg'atuvchi navbatma-navbat ko'tarilib, avj olish bir necha yil davom etadi
+- Avj olish bo'lmaydi, faqat yakka sporadik holatlar uzoq vaqt oralig'ida uchraydi
+! Ko'p odam bir mahsulotdan bir vaqtda zararlangani uchun kasallanish portlashsimon bo'ladi va manba bitta bo'lgani uchun qo'zg'atuvchi ham bitta.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16-bob
+? Belgili xaritada bemorlar yashash joylaridan tashqari yana qaysi obyektlar tushiriladi?
++ Suv ta'minoti manbalari, umumiy ovqatlanish va savdo muassasalari
+- Faqat dorixonalar va davolash-profilaktika muassasalari hamda ularning filiallari
+- Aeroportlar, temir yo'l vokzallari va chegara o'tkazish punktlari
+- Qabristonlar, sport inshootlari va madaniyat markazlari joylashuvi
+- Harbiy qismlar, ma'muriy binolar va yoqilg'i quyish shoxobchalari
+! Bu obyektlar yuqish omillarini tashiydi, ularning bemorlar joylashuvi bilan mos kelishi yetakchi yo'lni aniqlashga yordam beradi.
+@ O'zR SSV buyrug'iga 1–3-ilovalar (ich terlama va paratif yo'riqnomasi, 2015)

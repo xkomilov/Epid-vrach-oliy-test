@@ -1,0 +1,97 @@
+=== 023
+? Epidemiyaga qarshi tadbirlar qaysi uch asosiy yo'nalishga bo'linadi?
++ Infeksiya manbai, yuqish mexanizmi va qabul qiluvchan organizm
+- Diagnostika, davolash va reabilitatsiya yo'nalishlari
+- Birlamchi, ikkilamchi va uchlamchi profilaktika darajalari
+- Davlat, hududiy va mahalliy tashkil etish darajalari
+- Tibbiy, veterinariya va ma'muriy-huquqiy choralar guruhlari
+! Yo'nalishlar epidemik jarayonning uch bo'g'iniga mos keladi, qolgan variantlar esa boshqa tasnif belgilariga (daraja, tur, mazmun) tegishli.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Zoonozlarda infeksiya manbaiga qaratilgan tadbir qaysi?
++ Kasal hayvonlarni aniqlash va veterinariya-sanitariya choralari
+- Qabul qiluvchan odamlarni ommaviy emlash va immunoglobulin kiritish
+- Suv manbalarini xlorlash va iste'molchilar gigiyenasini nazorat qilish
+- Chivinlar ko'payadigan joylarni yo'qotish va insektitsid purkash
+- Dekretlangan kontingentni davriy tibbiy ko'rikdan o'tkazish
+! Zoonozda manba hayvon bo'lgani uchun asosiy ta'sir hayvonlar ustidan nazoratga qaratiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Ichak infeksiyalarida (fekal-oral mexanizm) epidemiyaga qarshi tadbirlarning yetakchi yo'nalishi qaysi?
++ Yuqish yo'llarini uzishga qaratilgan sanitariya-gigiyenik choralar
+- Ommaviy emlash va immunprofilaktikaga asosiy urg'u berish
+- Tashuvchi hasharotlarga qarshi dezinseksiya tadbirlari
+- Kasal hayvonlar ustidan veterinariya nazoratini kuchaytirish
+- Bemorlarni ommaviy antibiotik bilan davolash kampaniyasi
+! Suv, oziq-ovqat va shaxsiy gigiyena orqali yuqish yo'llarini uzish bu guruhda eng ishonchli va maqbul usul hisoblanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Havo-tomchi infeksiyalarida asosiy urg'u nimaga beriladi?
++ Qabul qiluvchan organizmga — immunprofilaktikaga
+- Yuqish yo'lini uzishga — ichimlik suvini zararsizlantirishga
+- Infeksiya manbaiga — kasal hayvonlarni yo'q qilishga
+- Tashuvchilarga qarshi kurashga — chivinlar sonini kamaytirishga
+- Sanitariya-gigiyenik nazoratga — oziq-ovqat korxonalarini tekshirishga
+! Havo orqali yuqishni uzish qiyin bo'lgani uchun himoya asosan emlash orqali ta'minlanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Shoshilinch profilaktika uchun qaysi vositalar qo'llaniladi?
++ Bakteriofag, immunoglobulin va antibiotik
+- BSJ, OPV va pentavalent vaksina rejali kalendar bo'yicha
+- Dezinfeksiya, dezinseksiya va deratizatsiya vositalari
+- Izolyatsiya, kasalxonaga yotqizish va sanatsiya choralari
+- Sanitariya-ma'rifiy materiallar va ogohlantiruvchi plakatlar
+! Bu preparatlar kontakt yoki xavfdan keyin tezkor himoya berish uchun ishlatiladi, rejali kalendar vaksinalari esa oldindan emlash uchun.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Epidemiyaga qarshi tadbirlarning mahalliy darajada kim tomonidan amalga oshirilishi to'g'ri ko'rsatilgan?
++ Davolash-profilaktika muassasalari va QVP: bemorlarni aniqlash, o'choqda ishlash, emlash
+- Hududiy sanitariya-epidemiologiya xizmati: nazorat, tahlil va tadbirlarni muvofiqlashtirish
+- Qonunchilik organlari: milliy dasturlar, emlash kalendari va moliyalashtirish
+- Xalqaro hamkor tashkilotlar: global hamkorlik va tavsiyalar ishlab chiqish
+- Veterinariya laboratoriyalari va chorvachilik xo'jaliklari: epizootiya nazorati
+! Mahalliy bo'g'in bevosita bemor bilan ishlaydi, qolgan variantlar yuqori darajalarga yoki boshqa sohalarga tegishli.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016; Heymann D.L. (ed.). Control of Communicable Diseases Manual, 20th ed. (2015)
+? Quyidagilardan qaysi biri rejali (profilaktik) tadbirlar qatoriga kiradi?
++ Rejali emlash va dekretlangan kontingentni tekshirish
+- Yakuniy dezinfeksiya va muloqotdagilarni kuzatish
+- O'choqni epidemiologik tekshirish va bemorni ajratish
+- Shoshilinch profilaktika va joriy dezinfeksiya
+- Gospitalizatsiya va qo'shimcha laboratoriya tekshiruvi
+! Rejali tadbirlar vaziyatdan qat'i nazar muntazam o'tkaziladi, qolganlari esa aniq o'choq aniqlangandan keyin ko'riladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Qizamiqda asosiy e'tibor nima uchun emlashga qaratiladi?
++ U havo-tomchi yo'li bilan juda tez yuqadi va texnik vositalar bilan to'xtatib bo'lmaydi
+- Qo'zg'atuvchi suv orqali tarqaladi va suvni zararsizlantirish yetarli emas
+- Kasallik tashuvchilar orqali yuqadi va ularni yo'q qilish juda qiyin
+- Infeksiya manbai yovvoyi hayvonlar bo'lgani uchun ular ustidan nazorat o'rnatish imkonsiz
+- Dezinfeksiya qizamiqda samarasiz bo'lgani sababli bemorlar ajratilmaydi
+! Yuqish yo'lini uzib bo'lmasa, yagona ishonchli ta'sir nuqtasi qabul qiluvchan organizm, ya'ni immunitet bo'lib qoladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Vabo kabi suv orqali tarqaladigan infeksiyada qaysi chora eng muhim hisoblanadi?
++ Suv ta'minotini nazorat qilish va suvni zararsizlantirish
+- Aholini tug'ilganda ommaviy BSJ bilan emlash
+- Kasal hayvonlarni aniqlash va yo'q qilish
+- Chivinlar ko'payadigan suv havzalarini yo'qotish
+- Sichqonsimon kemiruvchilar uyalariga ishlov berish va deratizatsiya
+! Qo'zg'atuvchi suv orqali yuqqani uchun aynan shu yo'lni uzish epidemik jarayonni eng ishonchli to'xtatadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Yaxshi epidemiyaga qarshi reja qaysi elementlarga ega bo'ladi?
++ Aniq maqsad, bajaruvchilar, muddatlar va nazorat ko'rsatkichlari
+- Faqat davolash standartlari va dori-darmonlar ro'yxati
+- Bemorlarning shaxsiy ma'lumotlari va oilaviy anamnezi
+- Hududning demografik tarkibi bilan cheklangan umumiy tavsif
+- Xalqaro tashkilotlar tavsiyalarining so'zma-so'z tarjimasi
+! Reja bajarilishini kuzatish va natijani baholash uchun uni kim, qachon va qanday ko'rsatkich bilan bajarishi oldindan belgilanishi zarur.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Bir necha idora va soha (sog'liqni saqlash, veterinariya, kommunal xizmat, ta'lim, hokimiyat) birgalikdagi harakati nima deyiladi?
++ Sektorlararo hamkorlik
+- Epidemiologik nazorat (surveillance)
+- Immunprofilaktika dasturi
+- Sanitariya-ma'rifiy ish
+- Epidemiologik tashxis
+! Epidemiyaga qarshi kurash ko'pincha bir idoraning imkoniyatidan tashqariga chiqadi, shuning uchun sohalar o'rtasida muvofiqlashtirish talab qilinadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Ichak infeksiyalari bo'yicha yo'riqnomaga ko'ra epidemiologik tekshiruvning maqsadi nima?
++ Manbani, omillarni va yuqish sharoitlarini erta aniqlash hamda tarqalish chegarasini belgilash
+- Bemorlarning davolash sxemasini tanlash, dori dozalarini aniqlash va klinik tashxisni tasdiqlash
+- Aholining emlanganlik darajasini oshirish va vaksina zaxirasini hisoblash
+- Aybdor shaxslarni topib, ularni lavozimidan chetlatish bo'yicha xulosa tayyorlash
+- Kasallanishning ko'p yillik dinamikasi bo'yicha strategik prognoz tuzish
+! Tekshiruv klinik yoki ma'muriy emas, balki o'choqni aniqlash va tarqalishni cheklashga qaratilgan.
+@ O'zR SSV buyrug'iga 1-ilova: o'tkir ichak infeksiyalarini oldini olish yo'riqnomasi, 6-bo'lim

@@ -1,0 +1,99 @@
+=== 131
+? Sanitariya-karantin punktlari (SKP) faoliyatiga qo'yiladigan talablar va kasalliklarning kirib kelishiga qarshi choralar qaysi milliy sanitariya qoidasida bayon etilgan?
++ SanQvaN № 0034-22
+- SanQvaM № 0239-07/3 — O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi qoidalari
+- SanPiN № 0187-05 — OIV/OITSga tibbiy ko'rik va bemorlarga tibbiy yordam tashkil etish qoidalari
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga ilova qilingan yo'riqnoma
+- "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonun (2015)
+! Chegara orqali kirib kelishi mumkin bo'lgan o'ta xavfli kasalliklar bo'yicha SKP vazifalarini aynan shu qoida tartibga soladi.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? Chin chechak gumon qilinganda SKP xodimlari hisobga oladigan kasallikning o'rtacha yashirin davri qancha?
++ 14 kun
+- 21 kun
+- 7 kun
+- 10 kun
+- 6 kun
+! Yashirin davr mezonlar jadvalida kasallikka qarab farqlanadi va chin chechak uchun poliomielit, gripp hamda OO'RS qiymatlaridan farq qiladi.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? Regionar limfa tugunlarining kuchli og'riqli, qizargan, qattiqlashgan va harakatsiz kattalashuvi (limfadenit sindromi) chegarada qaysi kasallikni gumon qilishga asos bo'ladi?
++ O'lat
+- Vabo
+- Sariq isitma
+- Bezgak
+- Og'ir o'tkir respirator sindrom (OO'RS) va unga o'xshash virusli o'pka infeksiyalari
+! Bubon shaklidagi o'latda regionar limfadenit asosiy belgi bo'lib, bu o'tkir respirator sindrom bilan birga mezonlar jadvalida alohida ko'rsatilgan.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? Chegarada kasallikning 3–4-kunida harorat 39 °C gacha ko'tarilishi, ko'z shox pardasining sarg'ayishi, ko'pincha qonli qusish, milk va burundan qon ketishi qaysi kasallikni gumon qilishga asos bo'ladi?
++ Sariq isitma
+- Kontagioz virusli gemorragik isitmalar
+- Vabo
+- O'lat
+- Tropik bezgakning to'satdan boshlanadigan og'ir shakli
+! Jigar zararlanishi tufayli sarg'ayish va gemorragik belgilar uyg'unligi mezonlar jadvalida shu kasallik uchun xarakterli deb ko'rsatilgan.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? SKP xodimlari o'ta xavfli yuqumli kasalliklar bo'yicha tayyorgarlikdan qanday davriylikda o'tadi?
++ Yilda kamida bir marta
+- Har ikki yilda kamida bir marta, qayta attestatsiya vaqtida
+- Har chorakda bir marta
+- Besh yilda bir marta malaka oshirish kurslarida
+- Faqat ishga qabul qilinganda bir marta
+! Xodimlarning doimiy tayyorgarligi o'ta xavfli kasallikni erta aniqlash uchun zarur, shu sababli o'qish har yili takrorlanadi va ekipaj, chegara hamda bojxona xodimlarini o'qitish bilan birga olib boriladi.
+@ O'zR Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+? Chegarada aloqada bo'lgan, zararlanish xavfi kam qolgan yo'lovchilar va ekipaj a'zolari qancha muddatga tibbiy kuzatuvga olinadi?
++ Kasallikning yashirin davri muddatiga
+- Kasallik belgilari yo'qolguncha, ammo 30 kundan kam bo'lmagan muddatga
+- Barcha holatlarda 24 soat muddatga
+- Mamlakatga kirgandan keyin 3 oy muddatga
+- Muddat belgilanmaydi, faqat bir martalik ko'rik o'tkaziladi
+! Kuzatuv muddati kasallikning yashirin davriga moslashtiriladi, chunki shu vaqt ichida infeksiya klinik belgilarsiz kechishi mumkin.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? Transport vositasida o'lik kemiruvchilar topilsa, ular bilan qanday ish tutiladi?
++ Maxsus konteynerda o'lat profilaktika markaziga yuboriladi
+- Joyida yoqib yuboriladi va kul chiqindi sifatida ko'miladi
+- Veterinariya laboratoriyasiga umumiy chiqindi qadog'ida jo'natiladi
+- Dezinfeksiya qilinib, transport ekipaji tomonidan ko'mib yuboriladi
+- Chegara bojxona postida saqlanib, yuk bilan birga egasiga qaytariladi
+! O'lat qo'zg'atuvchisiga tekshirish uchun jonli yoki o'lik kemiruvchilar maxsus muhofazalangan idishda ixtisoslashgan markazga topshiriladi.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? Vabo belgilari aniqlangan transport vositasida nima zararsizlantiriladi va utilizatsiya qilinadi?
++ Suv, oziq-ovqat, najas va oqava suv
+- Faqat yo'lovchilarning shaxsiy bagaji va pochta jo'natmalari
+- Yuk bo'limidagi kemiruvchilar, burgalar va ularning uyalari
+- Kabina havo filtrlari, kiyim-kechak va ekipajning maishiy jihozlari bilan birga
+- Dvigatel moylari va yoqilg'i zaxirasi
+! Vabo qo'zg'atuvchisi asosan suv, oziq-ovqat va najas orqali tarqaladi, shuning uchun ayni shu muhitlar zararsizlantiriladi.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? Zararlangan deb gumon qilingan bagaj, yuk, konteyner yoki pochta ishlovi muvaffaqiyatsiz bo'lsa, sanitariya-karantin bo'linmasi nima qilish huquqiga ega?
++ Ularni olib qo'yish va yo'q qilish
+- Egasiga qaytarib berib, ikkinchi marta ishlov berish uchun 30 kun muhlat berish
+- Saqlash omboriga topshirib, xalqaro tashkilotdan ruxsat kelguncha ushlab turish
+- Ishlovsiz holda keyingi punktga o'tkazib yuborish va u yerda qayta tekshirish
+- Faqat yuk egasiga jarima solish va yukni chegaradan o'tkazish
+! Samarali zararsizlantirish imkoni bo'lmagan yuk epidemiologik xavf manbai bo'lib qolgani uchun uni muomaladan chiqarish nazarda tutilgan.
+@ O'zR Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+? Epidemiyaga qarshi tadbirlardan bosh tortgan transportdagi shaxslar o'tkazish punktida qanday huquqdan mahrum etiladi?
++ Erkin muomala qilish huquqidan
+- Mamlakat hududidan chiqib ketish huquqidan umrbod
+- Tibbiy yordam olish huquqidan, bu majburiy tibbiy sug'urtani to'xtatadi
+- Fuqarolik huquqlaridan, shu jumladan mulkka egalik qilish huquqidan
+- Elchixonaga murojaat qilish va advokat yollash huquqidan
+! Infeksiya tarqalishining oldini olish uchun bunday shaxslar erkin harakatlanishi cheklanadi, ammo fuqarolar huquqlarini kamsitmasdan zudlik bilan zarur tadbirlarni o'tkazish talab etiladi.
+@ O'zR Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+? SKPda gumon qilingan shaxs izolyatorga joylashtirilgach, kimga xabar beriladi?
++ Chegara-bojxona posti rahbariga va hududiy sanitariya-epidemiologiya bo'linmasiga
+- Faqat bemorning yaqin qarindoshlari va ish joyiga
+- Ichki ishlar organlariga va yo'lovchi yuki egasiga to'g'ridan-to'g'ri, boshqa tuzilmalarga xabar bermasdan
+- Sog'liqni saqlash vazirining shaxsan o'ziga va JSSTning mintaqaviy idorasiga
+- Transport kompaniyasining rahbariyatiga, boshqa idoralarga xabar berilmaydi
+! Birlamchi tadbirlarni muvofiqlashtirish uchun chegara xizmati va hududiy epidemiologik bo'linma darhol xabardor bo'lishi lozim.
+@ SanQvaN № 0034-22 (lex.uz/docs/6195026)
+? SKP faoliyati ustidan nazoratni va unga tashkiliy-uslubiy yordamni kim amalga oshiradi?
++ Sanitariya-epidemiologiya xizmatining O'ta xavfli yuqumli kasalliklar bo'limi
+- Bojxona qo'mitasining hududiy boshqarmasi va uning chegara postlari
+- Hududiy hokimlik huzuridagi favqulodda vaziyatlar bo'limi va uning vakolatxonalari
+- Respublika o'lat profilaktika markazining kadrlar bo'limi
+- Jamoat salomatligi bo'yicha xalqaro tashkilotlarning vakolatxonasi
+! SKP sanitariya-epidemiologiya xizmati tizimiga kiradi, shuning uchun uning ishini shu xizmatning profil bo'limi kuzatadi.
+@ Mavzu materiali (131.docx)
+#U 131 / 12: SKP faoliyati ustidan nazorat va tashkiliy-uslubiy yordam masalasi faqat mavzu materialidagi nizom bandiga tayangan; hujjat matni tashqi manbada tekshirilmagan.
+#U 131 / 2: yashirin davr qiymatlari SanQvaN № 0034-22 dan mavzu materiali orqali olingan; 2025–2026 yillardagi yangi tahrir mavjudligi tasdiqlanmagan.

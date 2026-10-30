@@ -1,0 +1,99 @@
+=== 015
+? JSST ma'lumotiga ko'ra, davolash-profilaktika muassasalari faoliyati natijasida hosil bo'ladigan chiqindilarning taxminan qancha qismi oddiy, xavfsiz chiqindi hisoblanadi?
++ Taxminan 85 %, qolgan 15 % esa xavfli chiqindi
+- Taxminan 50 %, qolgan 50 % esa xavfli chiqindi bo'lib hisoblanadi
+- Taxminan 95 %, qolgan 5 % esa xavfli chiqindi sifatida baholanadi
+- Taxminan 65 %, qolgan 35 % esa infeksion va kimyoviy chiqindi
+- Taxminan 30 %, qolgan 70 % esa radioaktiv va toksik chiqindi
+! JSST baholashiga ko'ra xavfli (infeksion, kimyoviy yoki radioaktiv) chiqindi umumiy hajmning kichik qismini tashkil etadi. Shu sababli sinflarga ajratib yig'ish xarajatlarni kamaytiradi.
+@ World Health Organization. Health-care waste (fact sheet)
+? SanQvaM № 0317-15 ga ko'ra, muddati o'tgan dori va dezinfeksiya vositalari, sitostatiklar hamda simob saqlovchi buyumlar qaysi sinfga kiradi?
++ G sinf — sanoat chiqindilariga yaqin kimyoviy chiqindilar
+- A sinf — biologik suyuqliklar bilan aloqada bo'lmagan xavfsiz chiqindilar
+- B sinf — biologik suyuqliklar bilan ifloslangan xavfli chiqindilar
+- V sinf — o'ta xavfli infeksiyalar bilan aloqada bo'lgan chiqindilar
+- D sinf — radioaktiv chiqindilar, ya'ni ionlovchi nurlanish manbalari bilan bog'liq materiallar
+! Dori vositalari, sitostatiklar va simob saqlovchi buyumlar kimyoviy xavf tug'diradi, shu sababli G sinfga kiritilgan. D sinf esa radioaktiv chiqindilarga ajratilgan.
+@ SanQvaM № 0317-15
+? SanQvaM № 0317-15 bo'yicha 1–2-guruh mikroorganizmlar bilan ishlovchi laboratoriyalar chiqindilari qaysi sinfga mansub?
++ V sinf — o'ta xavfli chiqindilar
+- B sinf — xavfli chiqindilar
+- A sinf — xavfsiz chiqindilar
+- G sinf — kimyoviy chiqindilar
+- D sinf — radioaktiv chiqindilar
+! Birinchi va ikkinchi guruh mikroorganizmlar o'ta xavfli bo'lgani uchun ular bilan ishlagan materiallar V sinfga kiradi. 3–4-guruh bilan ishlovchi laboratoriyalar chiqindilari B sinfga tegishli.
+@ SanQvaM № 0317-15
+? Ishlatilgan ignalar va skalpel tig'lari qanday idishga tashlanadi?
++ Alohida teshib o'tmaydigan qattiq konteynerga (xavfsizlik qutisiga)
+- Oddiy yumshoq polietilen paketga, boshqa xavfli chiqindilar bilan birga
+- Qopqog'i ochiq turuvchi shisha idishga, tez-tez bo'shatib turish uchun
+- Maishiy chiqindi uchun mo'ljallangan umumiy konteynerga, agar ignalar kesilgan bo'lsa
+- Sariq rangli yumshoq paketga, boshqa tibbiy chiqindilar bilan aralashtirib qo'yib
+! O'tkir buyumlar yumshoq paketni teshib, xodimni jarohatlashi va qon orqali yuqadigan infeksiyalarni yuqtirishi mumkin. Shu sababli ular teshilmaydigan konteynerga solinadi.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014)
+? Ishlatilgan ignaga nisbatan qaysi amal taqiqlanadi?
++ Ignani qaytadan qalpoqchaga kiydirish
+- Ignani teshilmaydigan konteynerga tashlash
+- Shprits ignasini igna kesgich yordamida kesish
+- To'lgan konteynerni germetik yopish va belgilangan joyga topshirish
+- Ignalarni dezinfeksiyadan so'ng mexanik buzib tashlash
+! Qalpoqchani qaytadan kiydirish ignadan sanchilish xavfini oshiradi. Qolgan amallar xavfsizlik qoidalariga mos va talab etiladi.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014)
+? Avtoklavlashning yoqish (insineratsiya) usuliga nisbatan ekologik afzalligi nimada?
++ Zaharli tutun chiqarmasligida
+- Chiqindi massasini kul darajasigacha kamaytirishida
+- Atrof-muhitga dioksin va furanlar chiqarishida
+- Chiqindini zararsizlantirish uchun yuqori harorat talab qilishida
+- Tibbiy chiqindini oddiy maishiy chiqindi qatoriga o'tkazib yuborishida
+! Avtoklavda bug' ta'sirida zararsizlantiriladi va zaharli tutun hosil bo'lmaydi. Yoqish esa yuqori harorat talab qiladi va filtrlanmasa zararli moddalar chiqaradi.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014)
+? Ignadan sanchilish kabi avariya hollarida qanday chora ko'riladi?
++ Shoshilinch profilaktika (post-ekspozitsion profilaktika)
+- Rejali emlash kalendari bo'yicha navbatdagi emlash
+- Jarohatni ochiq qoldirib, bir hafta kuzatib borish
+- Bemorning ma'lumotlarini yashirib, hodisani hujjatlashtirmaslik
+- Faqat jarohat atrofini spirt bilan artib, boshqa chora ko'rmaslik
+! Qon orqali yuqadigan infeksiyalar xavfi tufayli avariya holatlarida zudlik bilan post-ekspozitsion profilaktika boshlanadi. Hodisa hujjatlashtirilishi kerak.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014)
+? Chiqindilar bilan ishlovchi xodimlar qaysi infeksiyaga qarshi emlangan bo'lishi tavsiya etiladi?
++ Virusli gepatit B ga qarshi, to'liq kurs bilan
+- Qizamiqqa qarshi, qo'shimcha dozalar bilan
+- Quturishga qarshi, davriy revaksinatsiya qilingan holda
+- Poliomielitga qarshi, inaktivlangan vaksina bilan
+- Ko'kyo'talga qarshi, hujayrasiz vaksina bilan
+! Xodimlar ignadan sanchilish orqali qon bilan yuqadigan infeksiyalar xavfiga duchor bo'ladi. Shu sababli virusli gepatit B ga qarshi emlash tavsiya etiladi.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014); SanQvaM № 0317-15
+? PSR laboratoriyalarida ishlatilgan sinov materiallarini avtoklavlashda qanday rejim ko'rsatilgan?
++ 132 ± 2 °C haroratda, 2,0 kgs/sm² bosimda, 60 daqiqa
+- 121 ± 2 °C haroratda, 1,1 kgs/sm² bosimda, 45 daqiqa
+- 100 ± 2 °C haroratda, 1,0 kgs/sm² bosimda, 20 daqiqa
+- 160 ± 2 °C haroratda, 2,0 kgs/sm² bosimda, 30 daqiqa
+- 134 ± 2 °C haroratda, 0,5 kgs/sm² bosimda, 15 daqiqa
+! Uslubiy ko'rsatmada qopqoqsiz idishda issiqqa chidamli paketga solingan material shu rejimda avtoklavlanadi. Keyin inaktivlangan material chiqindi konteyneriga chiqariladi.
+@ Mavzu materiali (015.docx); PSR laboratoriyalari: tadqiqotdan so'ng ishlatilgan sinov materiallarini zararsizlantirish tartibi (MU 1.3.2569-09 asosida)
+? SanQvaM № 0317-15 ga ko'ra, A sinf — xavfsiz chiqindilarga qaysi misol kiradi?
++ Yuqumli va sil bo'limlaridan tashqari bo'limlarning oziq-ovqat chiqindilari
+- Biologik suyuqliklar bilan ifloslangan material va asboblar hamda bog'lov vositalari
+- Patologoanatomik va jarrohlik chiqindilari
+- Anaerob infeksiya bemorlarining chiqindilari va ularning kiyimlari
+- Muddati o'tgan dori vositalari va sitostatiklar
+! A sinfga biologik suyuqliklar va yuqumli bemorlar bilan aloqada bo'lmagan, zaharli bo'lmagan chiqindilar kiradi. Qolgan misollar B yoki G sinflarga mansub.
+@ SanQvaM № 0317-15
+? Tibbiy chiqindilar bilan ishlashning birinchi va asosiy tamoyili nima?
++ Chiqindilarni hosil bo'lgan joyda, sinflari bo'yicha alohida ajratib yig'ish
+- Barcha chiqindilarni birga yig'ib, markaziy omborda sinflarga ajratish
+- Chiqindilarni to'planishini kutib, haftada bir marta umumiy konteynerga tashlash
+- Xavfli chiqindilarni muassasa hududida ochiq maydonda vaqtincha ko'mib qo'yish
+- Birinchi navbatda faqat o'tkir buyumlarni ajratib, qolganlarini aralashtirib yig'ish
+! Chiqindilar qancha erta va aniq ajratilsa, xavfli oqim shuncha kichik bo'ladi va xodimlar xavfsizligi ta'minlanadi. Aralashtirib yig'ish butun oqimni xavfli qiladi.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014); SanQvaM № 0317-15
+? Bir marta ishlatiladigan shpritslar zararsizlantirilgandan keyin nima qilinadi?
++ Mexanik buzib tashlanadi (ignalar kesiladi yoki deformatsiyalanadi)
+- Sterilizatsiya qilinib, qayta ishlatish uchun omborga topshiriladi
+- Yuvilib, quritilgach, boshqa bemorlarga yuborish uchun saqlanadi
+- Maishiy chiqindi bilan birga o'zgartirilmagan holda chiqarib tashlanadi
+- Dezinfeksiya qilingach, ignalari saqlangan holda bolalar muassasalariga beriladi
+! Mexanik buzish shpritslarning qayta ishlatilishini istisno qiladi, bu esa qon orqali yuqadigan infeksiyalar tarqalishining oldini oladi. Noqonuniy qayta sotish global muammo hisoblanadi.
+@ World Health Organization. Safe management of wastes from health-care activities (2nd ed., 2014)
+#D 015 / 1: mavzu materialida JSST bo'yicha 85/15 nisbati, milliy yo'riqnomada esa 80/20 nisbati berilgan; savolda JSST ma'lumoti ishlatildi.
+#U 015 / 9: avtoklav rejimi (132 ± 2 °C, 2,0 kgs/sm², 60 daqiqa) faqat mavzu materialida keltirilgan, tashqi manba bilan tasdiqlanmagan.

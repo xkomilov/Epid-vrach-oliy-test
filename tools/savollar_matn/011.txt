@@ -1,0 +1,102 @@
+=== 011
+? Markaziy Osiyo sharoitida o'lat va leyshmanioz o'choqlarini o'rganishda amaliy tasdig'ini topgan tabiiy o'choqlilik ta'limotining muallifi kim?
++ Y.N. Pavlovskiy — tabiiy o'choqli kasalliklar ta'limotining asoschisi
+- L.V. Gromashevskiy — yuqish mexanizmlari bo'yicha tasnifning muallifi
+- I.I. Mechnikov — fagotsitoz nazariyasining asoschisi
+- D.K. Zabolotniy — o'lat va vabo bo'yicha tadqiqotlar muallifi
+- Jon Snou — nuqtali xarita usulining yaratuvchisi
+! Tabiiy o'choqlilik ta'limoti Pavlovskiy nomi bilan bog'liq, boshqa olimlar epidemiologiyaning boshqa yo'nalishlarida tanilgan. Bu ta'limot o'lat va boshqa tabiiy o'choqlarni rayonlashtirish hamda monitoring qilishga asos bo'lgan.
+@ Komilov X. Sanitariya-epidemiologiya xizmati qisqacha tarixi (2025)
+? Epidemiologiya kafedrasi Toshkent davlat tibbiyot instituti tarkibida mustaqil kafedra sifatida qaysi yilda tashkil topgan?
++ 1935-yilda, Toshkent davlat tibbiyot instituti tarkibida
+- 1946-yilda, Toshkent davlat tibbiyot instituti tarkibida
+- 1924-yilda, Toshkent davlat tibbiyot instituti tarkibida
+- 1958-yilda, Toshkent davlat tibbiyot instituti tarkibida
+- 1962-yilda, Toshkent davlat tibbiyot instituti tarkibida
+! Undan oldin, 1930–1935-yillarda, epidemiologiya mikrobiologiya va yuqumli kasalliklar kafedralari qoshida kurs sifatida o'qitilgan. Mustaqil kafedra aynan 1935-yilda ochilgan.
+@ Mavzu materiali (011.docx); Toshkent tibbiyot akademiyasi, Epidemiologiya kafedrasi o'quv moduli dasturi
+? Epidemiologiya kafedrasiga birinchi bo'lib kim rahbarlik qilgan?
++ A.V. Georgiyevskiy (kafedra mudiri sifatida 1935–1952-yillarda)
+- M.N. Soshnikova (kafedra mudiri sifatida 1954–1972-yillarda)
+- M.Q. Usmonov (kafedra mudiri sifatida 1972–1993-yillarda)
+- L.I. Matsina (kafedra mudiri sifatida 1935–1952-yillarda)
+- G.S. Matnazarova (kafedra mudiri sifatida 1993–2010-yillarda)
+! Boshqa nomlangan olimlar kafedraga keyinroq rahbarlik qilgan, ularning mudirlik davrlari ketma-ket almashgan. Birinchi mudir kafedra ochilgan 1935-yildan boshlab ishlagan.
+@ Mavzu materiali (011.docx); Toshkent tibbiyot akademiyasi, Epidemiologiya kafedrasi o'quv moduli dasturi
+? Respublika, viloyat va o'lka sanitariya-epidemiologiya stansiyalari qoshida qaysi bo'limlar to'g'risidagi nizom 1955-yil 20-avgustda tasdiqlangan?
++ O'ta xavfli infeksiyalar bo'limlari to'g'risidagi nizom
+- Bezgakka qarshi kurash va dezinseksiya bo'limlari to'g'risidagi nizom
+- Dezinfeksiya va sterilizatsiya bo'limlari to'g'risidagi nizom
+- Kommunal gigiyena va suv ta'minoti bo'limlari to'g'risidagi nizom
+- Immunoprofilaktika va emlash bo'limlari to'g'risidagi nizom
+! Shundan keyin bunday bo'limlar stansiyalar qoshida tashkil etilgan. Nizom o'lat kabi o'ta xavfli infeksiyalar nazoratini kuchaytirishga qaratilgan edi.
+@ Niyazmatov B.I. va b. Istoriya organizatsii i razvitiya sanitarno-epidemiologicheskoy sluzhby v Respublike Uzbekistan (2008)
+? Darslikka ko'ra, O'zbekiston olimlarining ishlari natijasida aholi orasida qaysi kasalliklar tugatilgan?
++ Chechak, rishta va poliomielit kasalliklari aholi orasida tugatilgan
+- Qizamiq, parotit va qizilcha kasalliklari aholi orasida tugatilgan
+- Difteriya, qoqshol va ko'kyo'tal kasalliklari aholi orasida tugatilgan
+- Sil, virusli gepatit B va OIV infeksiyasi aholi orasida tugatilgan
+- Quturish, brutsellyoz va leptospiroz kasalliklari aholi orasida tugatilgan
+! Qolgan kasalliklar emlash dasturlari bilan nazorat qilinadi, lekin aholi orasida tugatilgan hisoblanmaydi. Tugatilganlar qatoriga darslikda faqat uchta infeksiya kiritilgan.
+@ Mavzu materiali (011.docx); Toshkent tibbiyot akademiyasi, Epidemiologiya kafedrasi o'quv moduli dasturi
+? CDC materialiga ko'ra, 1960–1970-yillarda butun dunyoda tugatilishi amaliy epidemiologiyaning misli ko'rilmagan yutug'i sifatida baholanadigan kasallik qaysi?
++ Chechak
+- Poliomielit
+- Qizamiq
+- O'lat
+- Bezgak
+! Chechak emlash kampaniyasi yordamida butun dunyoda yo'q qilingan yagona bunday infeksiya. Poliomielit, qizamiq va bezgak hanuzgacha global eradikatsiya yoki nazorat dasturlari ob'ekti, o'lat esa tabiiy o'choqlarda saqlanib qolgan.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? Hozirgi huquqiy asosga ko'ra davlat sanitariya nazoratini kim amalga oshiradi?
++ SEO va JS xizmati, uning hududiy boshqarmalari va tuman (shahar) bo'limlari
+- Favqulodda vaziyatlar vazirligi va uning viloyat boshqarmalari hamda tuman bo'limlari
+- Davolash-profilaktika muassasalarining bosh shifokorlari o'zaro kelishuv asosida
+- Mahalla fuqarolar yig'ini qoshidagi jamoatchilik sanitariya komissiyalari
+- Hokimliklar huzuridagi sanitariya-gigiyena nazorati inspeksiyalari va ularning filiallari
+! Sanitariya-epidemiologik osoyishtalik sohasidagi davlat nazorati maxsus xizmat tizimiga yuklatilgan. Boshqa idoralar bunday nazorat vakolatiga ega emas.
+@ Mavzu materiali (011.docx)
+? Tabiiy o'choqlarni nazorat qilish tizimida "epizootiya" atamasi nimani bildiradi?
++ Hayvonlar orasida kasallikning avj olishi
+- Odamlar orasida kasallikning bir hududda keskin ko'payishi
+- Tashuvchi bo'g'imoyoqlilar sonining mavsumiy oshishi
+- Kasallik qo'zg'atuvchisining tashqi muhitda uzoq saqlanishi
+- Kasallikning bir necha qit'ada bir vaqtda tarqalishi
+! Epizootiya hayvonlar populyatsiyasidagi epidemik jarayonning ekvivalentidir. O'latga qarshi stansiyalar kemiruvchilar orasidagi epizootiyalarni aynan shu sababli kuzatadi.
+@ Komilov X. Sanitariya-epidemiologiya xizmati qisqacha tarixi (2025)
+? Mustaqillik yillarida sanitariya-epidemiologiya xizmati qanday zamonaviy nomga ega bo'ldi?
++ Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati
+- Davlat sanitariya-epidemiologiya nazorati va laboratoriya diagnostikasi markazi
+- Respublika epidemiologiya, gigiyena va mikrobiologiya ilmiy-tadqiqot instituti
+- Sanitariya-epidemiologiya stansiyalari birlashmasi (SES)
+- Jamoat salomatligi va tibbiy profilaktika agentligi
+! Xizmat mustaqillik yillarida bir necha bor isloh qilinib, hozirgi nom va tuzilishga ega bo'ldi. SES esa xizmatning o'tgan asrdagi tarmog'i nomi edi.
+@ Mavzu materiali (011.docx)
+? XX asr o'rtalarida bezgak keskin kamaytirilishiga qaysi tadbirlar majmui olib kelgan?
++ Tashuvchi chivinlarga qarshi kurash, suv havzalarini nazorat qilish va bemorlarni davolash
+- Kemiruvchilarga qarshi kurash, o'latga qarshi stansiyalar tarmog'i va aholini ommaviy emlash
+- Ichimlik suvini xlorlash, kanalizatsiya qurish va oziq-ovqat xavfsizligini nazorat qilish
+- Bemorlarni ajratish, niqob taqish va binolarni shamollatish hamda aholini ommaviy emlash
+- Itlar va mushuklarni emlash, daydi hayvonlarni tutish hamda kanalarga qarshi kurash
+! Bezgak transmissiv infeksiya bo'lgani uchun asosiy e'tibor tashuvchi chivinlarga va ularning ko'payish joylariga qaratilgan. Boshqa to'plamlar ichak, nafas yo'li yoki zoonoz kasalliklarga mos tadbirlardir.
+@ Komilov X. Sanitariya-epidemiologiya xizmati qisqacha tarixi (2025)
+? COVID-19 pandemiyasi davrida milliy epidemiologik xizmat keng ko'lamli javob choralarini nimaga tayangan holda amalga oshirdi?
++ Global tajriba va JSST tavsiyalariga tayangan holda
+- Mahalliy an'anaviy usullarga tayanib, xalqaro tavsiyalarsiz va tashqi hamkorlikdan tashqarida
+- Tabiiy o'choqlilik ta'limoti asosida kemiruvchilar va kanalar monitoringini kuchaytirib
+- O'tgan asr boshidagi SES tarmog'i tartiblarini hech qanday o'zgartirmagan holda
+- Faqat chet el vaksinalari yetkazib berilishiga tayanib, epidemiologik kuzatuvsiz
+! Xizmat o'z choralarini xalqaro tajriba va JSST ko'rsatmalari asosida qurgan. Boshqa variantlar xalqaro hamkorlikni inkor etadi yoki boshqa infeksiyalarga xos yondashuvlarni ko'rsatadi.
+@ Komilov X. Sanitariya-epidemiologiya xizmati qisqacha tarixi (2025)
+? O.M. Mirtazayev epidemiologiya kafedrasiga qaysi yillarda rahbarlik qilgan?
++ 1993–2010-yillarda, M.Q. Usmonovdan keyin
+- 1972–1993-yillarda, M.N. Soshnikovadan keyin
+- 2011–2012-yillarda, G.S. Matnazarovadan oldin
+- 1954–1972-yillarda, L.I. Matsinadan keyin
+- 1935–1952-yillarda, kafedra tashkil topgan davrda
+! Mirtazayev Usmonovdan keyin va S.E. Umirovdan oldin mudir bo'lgan. Boshqa yillar kafedraning boshqa mudirlariga tegishli.
+@ Mavzu materiali (011.docx); Toshkent tibbiyot akademiyasi, Epidemiologiya kafedrasi o'quv moduli dasturi
+#U 011 / 2: kafedraning 1935-yilda tashkil topishi faqat mavzu materialiga tayanadi.
+#U 011 / 3: kafedra mudirlari ro'yxati va ularning yillari faqat mavzu materialiga tayanadi.
+#U 011 / 5: darslikda chechak, rishta va poliomielit tugatilgan deb ko'rsatilgani faqat mavzu materialiga tayanadi.
+#U 011 / 7: huquqiy asosning raqami mavzu materialida tasdiqlanmagan.
+#U 011 / 12: Mirtazayev mudirlik yillari faqat mavzu materialiga tayanadi.

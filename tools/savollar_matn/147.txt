@@ -1,0 +1,100 @@
+=== 147
+? Darslikda 1 ml qonda zararlanish birliklari soni qancha deb keltirilgan?
++ 3000 gacha
+- 10–50 gacha
+- 1 gacha
+- 1 dan kam
+- 300–500 gacha
+! Qonda virus miqdori eng ko'p bo'lgani uchun u jinsiy suyuqliklar va boshqa ajralmalarga nisbatan ancha yuqumli hisoblanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? JSST ma'lumotiga ko'ra qaysi shaxs jinsiy sherigiga OIV yuqtirmaydi?
++ Davolanayotgan va virus yuklamasi aniqlanmaydigan darajada bo'lgan shaxs
+- Prezervativsiz aloqa qilgan, lekin hali alomatlari yo'q bo'lgan shaxs
+- O'tkir infeksiya bosqichida bo'lgan, ammo antitelalari topilmagan shaxs
+- Bir martalik RQT qabul qilgan va yuklamasi o'zgarmagan shaxs
+- Boshqa jinsiy yo'l bilan yuqadigan infeksiyasi davolangan shaxs
+! Terapiya virus replikatsiyasini to'liq bostirgani uchun yuqtirish xavfi amalda yo'qoladi.
+@ WHO. HIV and AIDS (fact sheet)
+? Darslikda bemorga zararlangan qonni bir marta quyishda yuqish ehtimoli qancha deb ko'rsatilgan?
++ 90 % dan yuqori
+- 0,23 % atrofida
+- 0,09 % atrofida
+- 10–15 % atrofida
+- 30–40 % atrofida
+! Qon bilan virusning katta miqdori to'g'ridan-to'g'ri qon oqimiga tushgani uchun xavf deyarli barcha holatlarda yuqori bo'ladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? Kasbiy kontaktda o'tkir asbob bilan jarohatlanganda OIV yuqish xavfi o'rtacha qancha deb baholanadi?
++ 0,23 %
+- 0,09 %
+- 3,5 %
+- 9,0 %
+- 23 %
+! Jarohatda yuqtirish ehtimoli bir martalik quyishdagidan ancha past, chunki asbobdagi qon miqdori kam bo'ladi.
+@ Mavzu materiali (147.docx)
+? Kasbiy kontaktda shilliq qavat bilan kontakt bo'lganda OIV yuqish xavfi o'rtacha qancha?
++ 0,09 %
+- 0,23 %
+- 0,9 %
+- 2,3 %
+- 9,0 %
+! Shilliq qavat bilan kontaktda virus qonga to'g'ridan-to'g'ri o'tmaydi, shu sababli xavf o'tkir asbob jarohatidagidan past.
+@ Mavzu materiali (147.docx)
+? Kasbiy jarohatdan keyin yuqish xavfini oshiruvchi omillarga qaysi biri kiradi?
++ Chuqur jarohat va manba odamda virus yuklamasining yuqoriligi
+- Sirtqi tirnalish va manba odamda virus yuklamasining aniqlanmasligi
+- Kiyim ustidan sachragan suyuqlik va manbaning RQT olishi
+- Butun teriga tegishi va manbaning CD4 sonining yuqoriligi
+- Bir martalik o'tkir asbobning ishlatilmasdan qolishi va qon ko'rinmasligi
+! Kontakt qancha chuqur bo'lsa va manbada virus qancha ko'p bo'lsa, qonga tushadigan virus miqdori shuncha oshadi.
+@ Mavzu materiali (147.docx)
+? «Serologik deraza» davrida ko'pchilik odamlarda antikorlar necha kun ichida paydo bo'ladi?
++ 28 kun ichida
+- 3 kun ichida
+- 7 kun ichida
+- 90 kun ichida
+- 180 kun ichida
+! Shu vaqtgacha ba'zi tezkor testlar infeksiyani topa olmaydi, lekin odam virusni yuqtirishi mumkin.
+@ WHO. HIV and AIDS (fact sheet)
+? Milliy tartibda OIVga tekshiriladigan kontingentlar nechta kod bilan belgilangan?
++ 22 ta kod bilan
+- 8 ta kod bilan
+- 12 ta kod bilan
+- 40 ta kod bilan
+- 60 ta kod bilan
+! Kontingentlar xavf darajasi va kasbiy hamda ijtimoiy xususiyatlariga qarab kodlangan va ro'yxat tarzida tasdiqlangan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot)
+? 18 yoshgacha bo'lgan bolani OIVga tekshirishda kimning roziligi talab etiladi?
++ Ota-onalardan birining roziligi
+- Maktab direktorining roziligi
+- Mahalla raisining roziligi
+- Tuman hokimining roziligi
+- Bolaning o'zi va sinf rahbarining roziligi
+! Voyaga yetmagan bola o'z nomidan tibbiy qaror qabul qila olmaydi, shuning uchun qonuniy vakilning ixtiyoriy roziligi kerak.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i (1–3-ilovalar)
+? 2008 yildagi 4-son buyruq protokoliga ko'ra kontaktdan keyingi profilaktikada ARV kursi qancha davom etadi?
++ 28 kun
+- 7 kun
+- 14 kun
+- 3 oy
+- 6 oy
+! Qisqa kurs xavf darajasiga qarab buyuriladi va keyingi kuzatuv bilan birga olib boriladi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i
+? Ko'zga zararlangan suyuqlik sachragan bo'lsa, birinchi yordam sifatida nima qilinadi?
++ Ko'z suv bilan yuviladi, sovun va dezinfeksiyalovchi vositalar ishlatilmaydi
+- Ko'z sovunli eritma bilan yuviladi va 70 % spirt tomiziladi, so'ng bog'lanadi
+- Ko'z 3 % vodorod peroksid eritmasi bilan chayilib, antibiotik tomchilari tomiziladi
+- Ko'z dezinfeksiyalovchi eritma bilan artiladi va bog'lab qo'yiladi, suv ishlatilmaydi
+- Ko'zga yod eritmasi tomizilib, ko'z yumiladi va bemor shifokorga yuboriladi
+! Ko'z shilliq qavati sezgir bo'lgani uchun kimyoviy moddalar uni shikastlaydi.
+@ O'zR SSV 2008-yil 4-yanvardagi 4-son buyrug'i
+? Shifoxona ichida OIV yuqqanligi gumon qilingan har bir holat qancha muddatda viloyat va tuman tibbiy kengashlarida muhokama qilinadi?
++ Har chorakda
+- Har kuni
+- Har oyda
+- Har yarim yilda
+- Har yili
+! Muhokama kamchiliklarni vaqtida bartaraf etish uchun kvartal tartibida o'tkaziladi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+#U 147 / 8: tekshiriladigan kontingentlarning 22 ta kod bilan belgilanishi faqat mavzu materialidagi taqdimot bayoniga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 147 / 4: kasbiy kontaktda o'tkir asbob (0,23 %) va shilliq qavat (0,09 %) bo'yicha xavf ko'rsatkichlari mavzu materialidagi 4-son buyruq protokoli bayoniga tayangan, aynan shu qiymatlar asl hujjatdan tasdiqlanmagan.
+#U 147 / 5: shilliq qavat bilan kontaktdagi 0,09 % ko'rsatkichi faqat mavzu materialiga tayangan.

@@ -1,0 +1,103 @@
+=== 116
+? Ku isitmasi qo'zg'atuvchisi Coxiella burnetii qanday mikroorganizm hisoblanadi?
++ Grammanfiy, majburiy hujayra ichi patogeni
+- Grammusbat, spora hosil qiluvchi aerob tayoqcha
+- Grammanfiy, hujayra tashqarisida ko'payuvchi vibrion
+- Hujayra devori yo'q, sun'iy oziq muhitda o'sadigan mikoplazma
+- Zamburug'lar olamiga mansub xamirturush simon hujayra
+! Qo'zg'atuvchi faqat xo'jayin hujayrasi ichida ko'paya oladi, shuning uchun oddiy oziq muhitlarda o'smaydi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Koksiellyozning yashirin davri qancha davom etadi?
++ 3–32 kun, o'rtacha 1–2 hafta
+- 1–2 kun, o'rtacha bir sutka
+- 2–3 oy, o'rtacha 10 hafta
+- 5–6 oy, o'rtacha yarim yil
+- 40–60 kun, o'rtacha ikki oy
+! Davr yuqtiruvchi doza va kirish yo'liga bog'liq bo'lib, keng oraliqda o'zgaradi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasida odamning epidemiologik roli qanday?
++ Odamning epidemiologik roli yo'q, u manba bo'lmaydi
+- Bemor odam asosiy manba hisoblanadi, shuning uchun majburiy ajratiladi
+- Faqat tug'ruq paytida manba bo'ladi
+- Odam mexanik tashuvchi sifatida kasallikni kiyim orqali tarqatadi
+- Shifoxonada yotgan davrida o'z yaqinlari uchun manba hisoblanadi
+! Kasallik odamdan odamga yuqmagani uchun bemorni ajratish asosiy chora emas.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Ku isitmasi qo'zg'atuvchisi qaynatilganda qancha vaqtda o'ladi?
++ 5 daqiqada
+- Bir zumda, 1 soniyada
+- 30 soniyada
+- 1 soatda
+- 3 soatda
+! Qo'zg'atuvchi qizdirishga chidamli bo'lgani uchun nam muhitda 80–90 °C da ham taxminan 30 daqiqa tirik qoladi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Quyidagi yuqish yo'llaridan qaysilari Ku isitmasi uchun xos?
++ Havo-chang, alimentar va kontakt
+- Faqat transmissiv, ya'ni bit chaqishi orqali
+- Parenteral, ya'ni qon quyish orqali tarqaluvchi
+- Transplatsentar va jinsiy yo'l orqali
+- Fekal-oral va suv orqali, faqat epidemik davrda
+! Qo'zg'atuvchi hayvonlar ajratmalari, sut va xomashyo orqali tashqi muhitga chiqib, turli yo'llar bilan odamga tushadi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Koksiellyozda serologik tekshirish qanday o'tkazilganda o'tkir kasallik tasdiqlanadi?
++ Juft zardobda (10–12 kun oraliqda) titr 4 marta oshganda
+- Bitta zardobda har qanday past titr aniqlanganda
+- Juft zardobda (3 kun oraliqda) titr 2 marta oshganda
+- Siydikda antigen bir marta aniqlanganda
+- Juft zardobda (30 kun oraliqda) titr 2 marta pasayganda
+! Antitanalar titrining dinamik oshishi joriy infeksiyani o'tgan kasallikdan ajratishga imkon beradi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Koksiellyozning har bir holati yoki gumoni haqida shoshilinch xabarnoma necha soat ichida yuboriladi?
++ 12 soat ichida
+- 1 soat ichida
+- 6 soat ichida
+- 24 soat ichida
+- 72 soat ichida
+! Tezkor xabar berish o'choqda tekshiruvni kechiktirmay boshlash imkonini beradi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Koksiellyoz o'chog'ida xavf ostidagi shaxslar ustidan necha kun tibbiy kuzatuv o'rnatiladi?
++ 30 kun
+- 5 kun
+- 14 kun
+- 60 kun
+- 90 kun
+! Kuzatuv muddati qo'zg'atuvchi yashirin davridan uzoq bo'lib, kech boshlanuvchi holatlarni ham qamrab oladi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Koksiellyoz bilan kasallanib, kasalxonadan chiqqan bemor dispanser kuzatuvida qancha muddat bo'ladi?
++ Yiliga 2 marta, 2 yil davomida
+- Oyiga 1 marta, 3 oy davomida
+- Yiliga 4 marta, 5 yil davomida
+- Faqat bir marta, chiqarilgandan 6 oy o'tgach
+- Har chorakda, 10 yil davomida
+! Kasallik surunkali shaklga o'tishi mumkinligi sababli uzoq muddatli kuzatuv zarur.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? Koksiellyozga qarshi maxsus profilaktika (emlash) qaysi yoshdagi shaxslar uchun nazarda tutilgan?
++ 18 yoshdan oshgan, qo'y-echki tipidagi o'choqlarda xomashyo bilan ishlovchilar
+- 7 yoshdan oshgan barcha maktab o'quvchilari, ommaviy ravishda, yozgi ta'til oldidan
+- 14 yoshdan oshgan barcha shahar aholisi, yoz oylarida, bir martalik kampaniya sifatida
+- 1 yoshgacha bo'lgan chaqaloqlar, tug'ruqxonada ommaviy tartibda
+- 60 yoshdan oshgan barcha qariyalar, bahor oylarida bir marta
+! Emlash xavf ostidagi kasbiy guruh uchun belgilanadi, ommaviy emlash qo'llanmaydi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+? CDC ma'lumotiga ko'ra AQShda Q-isitmaga qarshi vaksina haqida nima deyish mumkin?
++ Vaksina mavjud emas
+- Bolalarga 2 oylikda majburiy beriladigan vaksina mavjud
+- Kattalarga har yili beriladigan vaksina mavjud
+- Chorvadorlarga beriladigan jonli vaksina mavjud
+- Homilador ayollarga beriladigan anatoksin mavjud
+! Shu sababli AQShda profilaktika boshqa choralarga, ya'ni hayvonlar bilan aloqani nazorat qilishga tayanadi.
+@ CDC. About Q fever
+? Xavf ostidagi kontingent (chorvachilik, mo'ynachilik xo'jaliklari ishchilari) serologik tekshiruv bilan dispanser ko'rikdan qachon o'tkaziladi?
++ Ishga kirishda va yiliga kamida 1 marta
+- Ishdan bo'shaganda, oxirgi marta
+- Har 5 yilda bir marta
+- Kasallik belgilari paydo bo'lganda
+- Ishga kirishda bir marta, keyin tekshirilmaydi, belgisiz bo'lsa
+! Muntazam serologik nazorat yashirin kechuvchi yuqtirish holatlarini erta aniqlashga yordam beradi.
+@ O'zbekiston Respublikasi SSV 2012-yil 5-yanvardagi 6-son buyrug'iga 6-ilova
+#D 116 / 2: buyruqda yashirin davr 3–32 kun, CDC bo'yicha belgilar odatda 2–3 haftadan keyin paydo bo'ladi.
+#U 116 / 2: 3–32 kunlik yashirin davr faqat mavzu materialidagi buyruqqa tayanadi.
+#U 116 / 7: 12 soatlik xabarnoma muddati faqat mavzu materialidagi buyruqqa tayanadi.
+#U 116 / 8: 30 kunlik tibbiy kuzatuv muddati faqat mavzu materialidagi buyruqqa tayanadi.
+#U 116 / 9: dispanser kuzatuvi (yiliga 2 marta, 2 yil) faqat mavzu materialidagi buyruqqa tayanadi.
+#U 116 / 10: emlash yoshi va kontingenti faqat mavzu materialidagi buyruqqa tayanadi.

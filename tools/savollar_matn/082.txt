@@ -1,0 +1,98 @@
+=== 082
+? Darslikda polisaxarid meningokokk vaksinasi qaysi serogruppalarga qarshi qaratilgan deb ko'rsatilgan?
++ A va C serogruppalariga
+- B va W serogruppalariga, chunki ular Afrikada eng ko'p epidemiya keltirib chiqaradi
+- Y va X serogruppalariga, shuning uchun u besh valentli vaksina hisoblanadi
+- A, B va Y serogruppalariga, oqsil asosida tayyorlangan holda
+- C va W serogruppalariga, konyugatsiyalangan shaklda
+! Vaksina tarkibidagi tozalangan polisaxarid moddalar aynan shu serogruppa kapsulasiga xos bo'lib, epidemiologik sinovlarda samara bergan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda meningokokk infeksiyasiga qarshi emlash qanday tartibda o'tkaziladi?
++ Rejali emas, faqat epidemik ko'rsatma bo'yicha
+- Milliy kalendar bo'yicha barcha chaqaloqlarga hayotining birinchi oyida rejali tarzda
+- 6 yoshda KPK vaksinasi bilan birga, har yili takrorlanib
+- Barcha maktab o'quvchilariga har yili kuzda ommaviy kampaniya shaklida
+- Xavfli hududlardagi barcha kattalarga majburiy tarzda har besh yilda
+! Kasallanish nisbatan past va epidemik avj olishlar kam bo'lgani uchun aholini rejali emlash maqsadga muvofiq deb topilmagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaM № 0239-07/3 (2017)
+? Afrika meningit belbog'ida A serogruppasi epidemiyalarning qancha qismini keltirib chiqargan?
++ 80–85%
+- 20–25%, qolganini asosan B serogruppasi chaqirgan
+- 40–45%, qolganini Hib va pnevmokokklar chaqirgan
+- 60–65%, qolganini faqat W serogruppasi chaqirgan
+- 95–99%, bu konyugat vaksina joriy etilgandan keyingi ko'rsatkich
+! Bu serogruppa mintaqada yirik epidemiyalarning asosiy sababi bo'lgani uchun A konyugat vaksinasi aynan unga qarshi yaratilgan.
+@ WHO. Meningitis (fact sheet)
+? 2023 yilda JSST tomonidan oldindan malakalangan birinchi besh valentli konyugat vaksina (Men5CV) qaysi serogruppalarga qarshi qaratilgan?
++ A, C, W, Y va X
+- A, B, C, Y va Hib, ya'ni meningokokk va gemofil tayoqchasiga qarshi
+- B, C, W, X va Z, oqsil asosida tayyorlangan holda
+- A, C, Y, pnevmokokk va stafilokokk, kombinatsiyalangan shaklda
+- A, B, W, Y va X, shu jumladan B serogruppa oqsili
+! Bu vaksina epidemik potensialga ega asosiy serogruppalarni, jumladan Afrikada ahamiyatli X serogruppani qamrab oladi.
+@ WHO. Meningitis (fact sheet)
+? Epidemik ko'rsatma bo'yicha meningokokkka qarshi emlash MTM ga qatnaydigan bolalar va 1–2-sinf o'quvchilari uchun kasallanish ko'rsatkichi o'tgan yilga nisbatan necha marta oshganda o'tkaziladi?
++ 2 marta
+- 1,5 marta, bunda emlash faqat yotoqxona aholisiga o'tkaziladi
+- 3 marta, bunda emlash barcha yosh guruhlarini qamrab oladi
+- 5 marta, bunda faqat A serogruppa aniqlangan bo'lishi kerak
+- 10 marta, bunda tuman miqyosida karantin e'lon qilinadi
+! Ko'rsatkich ikki baravar oshishi epidemik ko'tarilish boshlanganini bildiradi va xavf yuqori bo'lgan guruhlarni himoyalash zarur bo'ladi.
+@ SanQvaM № 0239-07/3 (2017), epidemik ko'rsatma bo'yicha emlash
+? Meningokokkka qarshi emlash hujjatda qaysi yoshdan boshlanishi va qayta emlash qancha muddatdan keyin ko'rsatilgan?
++ 1 yoshdan; vaksina turiga qarab 3 yildan keyin qayta emlanadi
+- 6 oylikdan; vaksina turiga qarab 1 yildan keyin qayta emlanadi, jadvalda boshqa chegara ko'rsatilmagan
+- 2 yoshdan; vaksina turiga qarab 10 yildan keyin qayta emlanadi, kattalar esa emlanmaydi
+- 3 oylikdan; vaksina turiga qarab 6 oydan keyin qayta emlanadi
+- 7 yoshdan; vaksina turiga qarab 5 yildan keyin qayta emlanadi
+! Bu cheklov vaksinaning yoshga bog'liq reaktogenligi va immunitet davomiyligini hisobga olib belgilangan.
+@ Mavzu materiali (082.docx)
+? Tarqalgan shakllar bilan kasallanish noyabr–dekabrda sentabrga nisbatan qanday o'zgarsa, kelgusi yanvar–mart noqulay bo'lishini kutish kerak?
++ 2–3 baravar oshsa
+- 10–15 baravar oshsa, bu holda karantin e'lon qilinadi
+- 1,2 baravar oshsa, ya'ni kichik tebranish ham yetarli hisoblanadi
+- 2–3 baravar kamaysa, chunki yopiq jamoalar bo'shaydi
+- O'zgarmasa, ammo tashuvchilik 10% dan oshsa
+! Kuz oxiridagi o'sish yangi jamoalar shakllanishi bilan bog'liq va qishki-bahorgi avj olishning oldindan belgisi sifatida baholanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikda 1 yoshgacha bolalarni meningokokkka qarshi emlash masalasi nima uchun hal qilinmagan deb ko'rsatilgan?
++ Vaksinaning reaktogenligi yuqori bo'lgani sababli
+- Bu yoshdagi bolalar kasallanmagani sababli, chunki ularda ona immuniteti butun yil saqlanadi
+- Vaksina faqat B serogruppaga qarshi bo'lgani sababli, A va C ga ta'sir etmaydi
+- Bolalar uchun mos dozalangan ampulalar ishlab chiqarilmagani va muzlatish talab etilishi sababli
+- Emlash tashuvchilikni oshirib yuborishi aniqlangani sababli
+! Yosh bolalarda vaksinaga kuchli mahalliy va umumiy reaksiyalar kuzatilgani emlash imkoniyatini cheklagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? WHA73.9 rezolyutsiyasi va «2030 yilgacha meningitni yengish» yo'l xaritasiga ko'ra, vaksina bilan oldi olinadigan bakterial meningit holatlari va o'lim qancha foizga kamaytirilishi kerak?
++ Holatlar 50% ga, o'lim 70% ga
+- Holatlar 90% ga, o'lim 95% ga, bu poliomielitni yo'qotish dasturiga o'xshash
+- Holatlar 30% ga, o'lim 40% ga, faqat Afrika mamlakatlarida
+- Holatlar 70% ga, o'lim 50% ga, aksincha tartibda
+- Holatlar 25% ga, o'lim 25% ga, kasallik yukini baholash orqali
+! Yo'l xaritasi vaksinalar qamrovini oshirish, tashxis va davolashni yaxshilash orqali kasallik yuki va o'limni kamaytirishni ko'zda tutadi.
+@ WHO. Meningitis (fact sheet)
+? Meningokokk o'chog'ida nima uchun dezinfeksiya tadbirlari talab etilmaydi?
++ Meningokokklar tashqi muhitda chidamsiz bo'lgani uchun
+- Qo'zg'atuvchi faqat qon orqali yuqadi, shuning uchun buyumlar xavf tug'dirmaydi
+- Qo'zg'atuvchi yuqori haroratda spora hosil qilib, dezinfeksiyaga chidamli bo'lib qoladi
+- Bemorlar o'choqda qolmaydi, ularning barchasi birinchi kunda tuzalib ketadi
+- O'choqda dezinfeksiya faqat kechqurun, ultrabinafsha lampalar bilan o'tkazilgani yetarli bo'ladi
+! Mikroorganizm quritish va sovishga chidamsiz, shuning uchun buyumlar orqali yuqish ahamiyatli emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? A konyugat vaksinasi Afrika meningit belbog'ida keng qo'llangach, tasdiqlangan A serogruppa kasalligi emlanganlar orasida qancha foizga kamaygan?
++ 99%
+- 50%, bu 2030 yilgacha belgilangan maqsadga teng
+- 70%, bu esa o'limni kamaytirish maqsadiga teng
+- 85%, bu epidemiyalar ulushiga teng bo'lgan raqam
+- 20%, bu esa og'ir asoratlar chastotasiga teng
+! Konyugat vaksina nafaqat himoya beradi, balki tashuvchilikni ham kamaytirib, jamoaviy immunitet hosil qiladi.
+@ WHO. Meningitis (fact sheet)
+? Meningokokkka qarshi emlashni rejalashtirishda nima uchun aylanib yuruvchi serogruppalarni aniqlash zarur?
++ Vaksina tanlovi serogruppa bo'yicha amalga oshadi
+- Barcha serogruppalarga qarshi universal vaksina mavjud, ammo uning dozasi serogruppaga bog'liq
+- Serogruppa o'choqdagi dezinfeksiya vositasi konsentratsiyasini belgilaydi
+- Bemorni kasalxonaga yotqizish muddati serogruppaga bog'liq, vaksinaga aloqasi yo'q
+- Emlash kalendaridagi dozalar sonini serogruppa belgilab beradi, vaksina turi esa ahamiyatsiz
+! Vaksinalar eng xavfli shtammlarga qarshi yaratilgan, shu sababli o'choqdagi serogruppa mos vaksinani tanlash imkonini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Meningitis (fact sheet)
+#U 082 / 6: Emlash yoshi (1 yoshdan) va qayta emlash muddati (3 yil) hujjatdagi jadval tuzilishi buzilgani sababli ehtiyotkorlik bilan talqin qilingan, tashqi manba bilan tasdiqlanmagan.

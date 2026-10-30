@@ -1,0 +1,99 @@
+=== 035
+? Immunoprofilaktikani rejalashtirishning asosi bo'lgan birinchi bosqich qaysi?
++ Emlanishi lozim bo'lgan aholini (maqsadli kontingentni) hududlar va yosh guruhlari bo'yicha aniq hisobga olish
+- Hududdagi barcha sovutgichlarni sotib olib, ularning umumiy hajmini yangi jihozlar bilan ikki baravar oshirish
+- Emlashdan keyingi noxush hodisalar bo'yicha hisobotlarni tuzib, ularni faqat yil oxirida umumlashtirish
+- Vaksinaning bahosi bo'yicha ishlab chiqaruvchi bilan shartnoma tuzib, yetkazib berish narxini kelishish
+- Aholiga emlashdan voz kechish huquqini tushuntirib, ixtiyoriy yozma rozilik shaklini ishlab chiqish
+! Aniq hisob vaksina ehtiyojini to'g'ri belgilash va isrofgarchilikni kamaytirish uchun asos bo'ladi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Vaksina ehtiyojini hisoblashda qaysi uch omil asos qilib olinadi?
++ Maqsadli kontingent soni, har bir bolaga tegishli dozalar soni va isrof koeffitsiyenti
+- Hududdagi shifoxonalar soni, shifokorlar soni va vaksina flakonining narxi hamda ularning ish haqi
+- Kasallanish ko'rsatkichi, o'lim ko'rsatkichi va aholining o'rtacha yoshi
+- Yetkazib berish masofasi, avtomobillar soni va yo'l sarfi
+- Emlash punktlarining ish vaqti, hamshiralar soni va maosh fondi
+! Isrofni hisobga olish ehtiyojni haqiqiy sarfga yaqinlashtiradi va tanqislik yoki ortiqcha zaxira xavfini kamaytiradi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Isrof koeffitsiyenti (wastage factor) nimani hisobga oladi?
++ Ochilgan ko'p dozali flakondan ishlatilmay qolgan hamda buzilgan, to'kilgan yoki muddati o'tgan dozalarni
+- Emlangan bolalarda emlashdan keyin kuzatilgan noxush hodisalar sonini va ularning og'irlik darajasini
+- Vaksina ishlab chiqarilgan zavoddan emlash nuqtasigacha bo'lgan transport masofasini kilometrlarda
+- Emlashdan bosh tortgan ota-onalar sonini va ularning oldingi emlashlarga munosabatini
+- Muzlatgichning umumiy hajmini va unda joylashgan muz akkumulyatorlari sonini
+! Isrof har bir vaksina turi uchun turlicha bo'lib, flakondagi dozalar soniga va tashkil etishga bog'liq.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Vaksinalar zaxirasining asosiy ahamiyati nimada?
++ Ta'minot kechikkanda yoki epidemik vaziyat paydo bo'lganda emlash uzluksizligini kafolatlaydi
+- Vaksinalarni muzlatilgan holda uzoq yillar saqlab, yaroqlilik muddati tugagach ham qo'llash imkonini beradi
+- Emlash qamrovini hisobot ko'rsatkichlarida oshirib ko'rsatish uchun xizmat qiladi
+- Sovuqlik zanjirini almashtirib, harorat nazoratini keraksiz qiladi
+- Zaxira faqat bolalar uchun ajratilib, kattalarda hech qachon qo'llanilmaydi
+! Zaxira kutilmagan holatlar (qo'shimcha kontingent, partiya yaroqsizligi) uchun kafolat yaratadi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Nima uchun vaksina zaxirasi haddan tashqari ko'p bo'lishi ham noto'g'ri hisoblanadi?
++ Saqlash xavfini, sovuqlik zanjiriga yukni va yaroqlilik muddati o'tib ketish ehtimolini oshiradi
+- Ortiqcha vaksina immun tizimga zarar yetkazib, aholida autoimmun kasalliklar paydo bo'lishiga sabab bo'ladi
+- Doimo qonun bilan taqiqlangan va uning uchun jinoiy javobgarlik belgilangan
+- Emlash qamrovini pasaytiradi, chunki emlanuvchilar soni kamayadi
+- Vaksinalarning samaradorligini oshiradi, shu sababli epidemiologik xavf paydo bo'ladi
+! Aylanma tamoyili asosidagi optimal zaxira isrofgarchilikni kamaytiradi va ta'minot uzluksizligini saqlaydi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Vaksina zaxirasini aylanma tamoyili (FEFO) bo'yicha boshqarish nimani anglatadi?
++ Yaroqlilik muddati avval tugaydigan vaksinani birinchi navbatda ishlatish
+- Omborga avval kelgan vaksinani muddatidan qat'i nazar birinchi navbatda ishlatish
+- Eng yangi partiyadagi vaksinani birinchi navbatda ishlatish, eskilarini zaxirada qoldirish
+- Eng arzon vaksinalarni birinchi ishlatib, qimmatlarini oxirgi navbatga qoldirish
+- Faqat ochilmagan flakonlarni ishlatib, ochilganlarini muzlatgichda saqlash
+! FEFO (first expired, first out) yaroqlilik muddati o'tib ketishidan yo'qotishlarni kamaytiradi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+#D 035 / 6: mavzu materialida FEFO "avval kelgan — avval ishlatiladi" deb izohlangan; rasmiy manbalarda FEFO — "first expired, first out", ya'ni muddati avval tugaydigan avval ishlatiladi (FIFO esa avval kelgani).
+? Mavzu materialiga ko'ra, kalendar bo'yicha bolalar va o'smirlarni emlash qamrovi kamida qancha foiz bo'lishi kerak?
++ 95 foiz
+- 60 foiz
+- 75 foiz
+- 85 foiz
+- 100 foiz, ya'ni birorta ham bola qolmasligi shart
+! Yuqori qamrov jamoaviy immunitetni ta'minlaydi; hatto mahalliy bo'shliqlar ham kasallik avj olishiga sabab bo'lishi mumkin.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+#U 035 / 7: kalendar bo'yicha kamida 95 foiz qamrov talabi mavzu materialida SanQvaM № 0239-07/3 ga havola qilib keltirilgan, matn tashqi manba bilan tekshirilmagan.
+? Grippga qarshi emlash mavsumiy omillarni hisobga olib qachon rejalashtiriladi?
++ Epidemik mavsum oldidan, kuz oylarida
+- Epidemik mavsum avjida, qish oylarining oxirida
+- Epidemik mavsum tugagandan keyin, yoz oylarida
+- Yil davomida bir tekis, har oyda teng ulushda
+- Faqat bahor oylarida, daraxtlar gullash davrida
+! Emlashdan keyin immunitet shakllanishi uchun vaqt kerak, shuning uchun u kasallik avjidan oldin o'tkaziladi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Immunoprofilaktika rejasi hududlar bo'yicha qanday tartibda tuziladi?
++ Quyidan yuqoriga: tuman, viloyat, so'ngra respublika darajasida umumlashtiriladi
+- Yuqoridan pastga: respublika darajasidan tumanlarga o'zgarmas tarzda buyruq sifatida yuboriladi
+- Faqat respublika darajasida, hududlarning real ma'lumotlarisiz tuziladi
+- Viloyat markazlarida tuziladi, tumanlar ma'lumot bermaydi
+- Har bir oilaviy poliklinika o'z rejasini mustaqil tuzadi va uni hech qayerga topshirmaydi
+! Quyi bo'g'inlarning real ma'lumotlari yuqori darajada umumlashtirilib, markazlashgan ta'minot bilan bog'lanadi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Vaksina bilan birga in'yeksiya vositalari (shprits, igna) va xavfsizlik qutilariga bo'lgan ehtiyoj nima uchun parallel hisoblanadi?
++ Ularning yetishmasligi emlashni to'xtatib qo'yadi
+- Ular vaksinaning o'zidan qimmat bo'lgani sababli ularni alohida xarid qilish taqiqlanadi
+- Vaksina tarkibiga qo'shilib, uning immunogenligini oshiradi
+- Zaxira sifatida saqlanadi va emlash jarayonida deyarli ishlatilmaydi
+- Sovuqlik zanjirini almashtirib, muzlatgich o'rnini bosadi
+! Emlash uchun vaksina ham, xavfsiz in'yeksiya vositalari ham bir vaqtda yetarli bo'lishi shart.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Emlash sessiyasi vaqtida xavfsizlik nuqtai nazaridan ishlatilgan shpritslar bilan nima qilinadi?
++ Xavfsiz qutiga tashlanadi
+- Igna qopqog'i qayta kiygizilib, oddiy axlat idishiga tashlanadi
+- Yuvilib, qaynatilgach keyingi emlashda qayta ishlatiladi
+- Yig'ilib, sessiya oxirigacha stol ustida ochiq qoldiriladi
+- Muzlatgichda vaksina bilan birga saqlanadi
+! Bu hamshira va aholini igna jarohatlari hamda qon orqali yuqadigan infeksiyalardan himoya qiladi.
+@ WHO. Immunization in practice: a practical guide for health staff; Expanded Programme on Immunization (EPI)
+? Sanitariya qoidalariga ko'ra o'tkazib yuborilgan emlash bilan qanday munosabatda bo'linadi?
++ Emlash takrorlanmaydi, balki qolgan dozalar bilan davom ettiriladi
+- Emlash butunlay qaytadan, birinchi dozadan boshlab takrorlanadi
+- Emlash bekor qilinadi va bola keyingi kalendar davrida emlanmaydi
+- Emlash faqat to'rt yoshdan keyin ixtiyoriy tartibda davom ettiriladi
+- Emlash o'rniga bolaga passiv immunizatsiya sifatida immunoglobulin yuboriladi
+! Dozalar orasidagi uzilish oldingi dozalar ta'sirini bekor qilmaydi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"

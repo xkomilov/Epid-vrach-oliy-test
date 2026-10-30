@@ -1,0 +1,98 @@
+=== 097
+? Suvchechak va temiratkini qaysi virus chaqiradi?
++ Varicella-zoster virusi (inson gerpesvirusining 3-tipi)
+- Epshteyn–Barr virusi, ya'ni inson gerpesvirusining 4-tipi va mononukleoz qo'zg'atuvchisi
+- Oddiy gerpes virusi 1-tipi, asosan lab va og'iz bo'shlig'i infeksiyasi qo'zg'atuvchisi
+- Sitomegalovirus, ya'ni inson gerpesvirusining 5-tipi
+- Qizamiq virusi, Paramyxoviridae oilasiga mansub RNK virusi
+! Kasallik birlamchi infeksiya sifatida ham, yashirin virus qayta faollashganda ham shu qo'zg'atuvchi bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Temiratki nima uchun davriy xurujlar tarzida paydo bo'ladi?
++ Virus asab tugunlarida yashirin holda saqlanib qoladi va keyin faollashadi
+- Virus har safar yangi tashqi manbadan qayta yuqadi va doimiy aylanib turadi
+- Qo'zg'atuvchi tuproqda spora holida saqlanadi va teri jarohatidan kiradi
+- Immunitet to'liq yo'qoladi, shu sababli har yili kasallik boshlanadi
+- Virus qon so'ruvchi hasharotlar orqali har mavsumda qayta yuqadi
+! Birlamchi infeksiyadan keyin virus organizmdan chiqarilmaydi va immunitet pasayganda yana ko'payadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Suvchechakning yashirin davri qancha davom etadi?
++ 10–21 kun, ko'pincha 14–16 kun
+- 1–3 kun, ko'pincha 2 kun
+- 3–5 kun, ko'pincha 4 kun
+- 25–35 kun, ko'pincha 30 kun va undan ko'p
+- 45–60 kun, ko'pincha 50 kun
+! Bu muddat birlamchi viremiya va teriga tarqalish bosqichlarini o'z ichiga oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Suvchechak bemorining yuqumlilik davri qachon boshlanadi va qachongacha davom etadi?
++ Toshma toshishidan 1–2 kun oldin boshlanib, po'stloq hosil bo'lgunga qadar
+- Toshma po'stloq hosil qilgandan keyin boshlanib, 3 oy davom etadi
+- Toshma toshishidan 14 kun oldin boshlanib, toshma paydo bo'lishi bilan tugaydi
+- Faqat kasallikning birinchi kunida, harorat ko'tarilgan paytda
+- Tuzalganidan keyin boshlanib, bir yil davom etadi
+! Virus pufakchalarda va ajralmalarda bo'lgani uchun yuqumlilik toshma bosqichi bilan bog'langan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Suvchechak toshmasi pufakchalarining qaysi holatida virus topilmaydi?
++ Quruq pufakchalarda (po'stloqda)
+- Suyuqlik bilan to'lgan yangi pufakchalarda
+- Bemorning konyunktiva ajralmalarida
+- Burun-halqum ajralmalarida toshma davrida
+- Yangi toshgan dog'-papulalarda
+! Po'stloq hosil bo'lganda virus faolligi tugaydi, shuning uchun yuqumlilik davri shu bosqichgacha hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Chaqaloqda suvchechakning og'ir shakli xavfi homilador ayol qachon kasallansa yuqori bo'ladi?
++ Tug'ishga 5 kundan kam qolganda yoki tug'ishdan keyingi 2 kun ichida
+- Homiladorlikning birinchi haftasida, tuxum hujayra urug'lanishi paytida
+- Tug'ishdan 3 oy oldin, ona antitelalari hosil bo'lgan davrda
+- Bir yil oldin, homiladorlikka tayyorgarlik davrida
+- Emizish davri tugagach, tug'ruqdan 6 oy o'tganda
+! Bu holatda ona antitelalari bolaga yetib bormaydi, chunki ular hali hosil bo'lmagan bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qo'zg'atuvchi xususiyatlari sababli suvchechak o'chog'ida qaysi tadbir o'tkazilmaydi?
++ Dezinfeksion tadbirlar
+- Bemorni uyda ajratish
+- Aloqadorlarni tibbiy kuzatuvga olish
+- Bolalar muassasalarida tibbiy ko'riklarni kuchaytirish
+- Xavf guruhidagilarni himoyalash
+! Virus tashqi muhitga chidamsiz bo'lgani sababli ob'ektlar orqali yuqish ahamiyatsiz.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Suvchechak bilan kasallanmagan 7 yoshgacha aloqadorlar bolalar necha kungacha ajratilib, kuzatuvga olinadi?
++ 21 kungacha
+- 3 kungacha
+- 7 kungacha
+- 42 kungacha
+- 60 kungacha
+! Muddat kasallikning eng uzun yashirin davrini qamrab olishi kerak.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Suvchechakka qarshi vaksina qaysi shtamm asosida tayyorlanadi va qanday turdagi vaksina hisoblanadi?
++ Oka shtammi asosidagi tirik susaytirilgan vaksina
+- Wistar RA 27/3 shtammi asosidagi o'ldirilgan butun virionli vaksina
+- Edmonston shtammi asosidagi anatoksinli vaksina
+- Sabin shtammi asosidagi o'ldirilgan inaktivlangan vaksina
+- BCG shtammi asosidagi rekombinant subbirlik vaksina
+! Shtamm Yaponiyada ajratilgan va susaytirilgan, bir necha mamlakatlarda qo'llanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? AQShdagi maktab o'choqlari tadqiqotida (CDC) suvchechak vaksinasining samaradorligi bir dozada va ikki dozada qancha bo'lgan?
++ Bir dozada 83,2 %, ikki dozada 93,9 %
+- Bir dozada 55,0 %, ikki dozada 60,5 %, ya'ni ikkinchi doza deyarli samara bermagan
+- Bir dozada 99,9 %, ikki dozada 100 %
+- Bir dozada 93,9 %, ikki dozada 83,2 %
+- Bir dozada 40,0 %, ikki dozada 70,0 %
+! Ikkinchi doza himoyani sezilarli kuchaytiradi va kasallikning yengil kechishiga olib keladi.
+@ Thomas C.A. va boshq. Two-dose Varicella Vaccine Effectiveness and Rash Severity in Outbreaks of Varicella Among Public School Students (2014)
+? 2017-yilgi milliy emlash kalendarida suvchechakka qarshi emlash bo'yicha qanday holat bor?
++ Suvchechakka qarshi emlash kalendarga kiritilmagan
+- Suvchechakka qarshi emlash 12 oylikda kiritilgan
+- Suvchechakka qarshi emlash 6 yoshda majburiy kiritilgan
+- Suvchechakka qarshi emlash faqat o'smirlar uchun kiritilgan
+- Suvchechakka qarshi emlash 2, 3 va 4 oylikda kiritilgan
+! Darslikdagi holat milliy kalendar bilan mos keladi: rejali emlash o'tkazilmaydi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Suvchechak bemori oxirgi toshma toshgandan keyin necha kun uyda saqlanadi?
++ 5 kun
+- 1 kun
+- 14 kun
+- 21 kun
+- 30 kun
+! Muddat po'stloq hosil bo'lib yuqumlilik tugash davriga mos keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+#U 097 / 10: vaksina samaradorligi (83,2 % va 93,9 %) faqat CDC tadqiqotining qidiruv parchasi orqali ko'rilgan, to'liq maqola bilan tasdiqlanmagan.

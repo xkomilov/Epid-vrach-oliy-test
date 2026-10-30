@@ -1,0 +1,97 @@
+=== 001
+? "Epidemiologiya" atamasi qaysi yunoncha so'zlardan tuzilgan?
++ epi (ustida, orasida), demos (xalq), logos (fan)
+- pathos (kasallik), demos (xalq), logos (fan) so'zlaridan, ya'ni kasallik haqidagi fan
+- epi (ustida, orasida), bios (hayot), logos (fan) so'zlaridan, ya'ni hayot haqidagi fan
+- endo (ichida), genos (nasl), graphos (yozuv) so'zlaridan, ya'ni nasl haqidagi yozuv
+- pan (barcha), demos (xalq), logos (fan) so'zlaridan, ya'ni umumxalq haqidagi fan
+! Atama xalq orasida tarqalgan hodisalarni o'rganuvchi fanni bildiradi, shuning uchun unda "xalq" va "ustida, orasida" ma'nolari mavjud.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Jon Snou 1854-yilda London vabo epidemiyasida bemorlar uylarini xaritaga tushirib, asosiy yuqish manbai sifatida nimani aniqladi?
++ Broad Street quduq suvini
+- Temza daryosining quyi oqimidagi umumiy suv olish joyini va uning atrofidagi kanalizatsiya oqimini
+- Golden Square atrofidagi nonvoyxona va oziq-ovqat bozorida sotilgan sutni
+- Southwark tumanidagi kasalxona binosi va u yerdagi bemorlar bilan bevosita aloqani
+- London bandargohidagi kemalar orqali keltirilgan yuklarni
+! Bemorlar uylari quduq atrofida to'plangani va dastak olib tashlangach epidemiya to'xtagani suv manba ekanini ko'rsatdi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? Snou taqqoslashiga ko'ra, Southwark and Vauxhall kompaniyasi suv ta'minlagan tumanlarda vabodan o'lim har 1000 aholiga qancha bo'lgan?
++ 5,0
+- 0,9
+- 1,5
+- 9,5
+- 2,0
+! Qarama-qarshi Lambeth kompaniyasi ta'minlagan tumanlarda ko'rsatkich ancha past bo'lgan, bu suv manbalari farqini ko'rsatadi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? 1662-yilda Jon Graunt qaysi ma'lumotlarni tahlil qilib, o'lim va kasallanishning jins, hudud va mavsum bo'yicha farqlarini birinchi bo'lib miqdoriy tavsifladi?
++ London shahridagi o'lim ko'rsatkichlarini
+- Angliyadagi barcha harbiy kasalxonalarning yillik hisobotlarini va ulardagi o'lim holatlarini
+- Parij shahridagi tug'ilish va nikoh to'g'risidagi cherkov yozuvlarini
+- Italiya shaharlaridagi vabo karantinlari to'g'risidagi buyruqlarni
+- Shotlandiya cherkovlaridagi nasroniylik marosimlari bo'yicha daftarlarni
+! Graunt o'lim ro'yxatlaridagi takrorlanuvchi qonuniyatlarni sanab, statistik yondashuvga asos soldi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? O'zbekistonda mustaqil epidemiologiya kafedrasi qaysi yilda Toshkent davlat tibbiyot instituti tarkibida tashkil topgan?
++ 1935-yilda
+- 1920-yilda, dunyodagi birinchi kafedra bilan bir vaqtda
+- 1930-yilda, mikrobiologiya kafedrasi qoshidagi kurs asosida
+- 1954-yilda, M.N. Soshnikova rahbarligi davrida
+- 1972-yilda, M.Q. Usmonov kafedra boshlig'i bo'lgan paytda
+! Undan oldin, 1930–1935-yillarda fan mikrobiologiya va yuqumli kasalliklar kafedralari qoshida kurs sifatida o'qitilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra dunyoda birinchi epidemiologiya kafedrasini kim va qayerda ochgan?
++ D.K. Zabolotniy, 1920-yilda Odessada
+- L.V. Gromashevskiy, 1935-yilda Toshkentda, epidemik jarayon ta'limotini yaratgan paytda
+- E.N. Pavlovskiy, 1920-yilda Moskvada, tabiiy o'choqlilik nazariyasini ishlab chiqqandan so'ng
+- V.D. Belyakov, 1970-yilda Odessada, o'z-o'zini boshqarish nazariyasi asosida
+- A.V. Georgiyevskiy, 1952-yilda Londonda
+! Boshqa nomlari keltirilgan olimlar epidemiologiyaning alohida nazariyalari yoki O'zbekistondagi kafedra rahbarligi bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qadimdan mavjud miazma farazi bo'yicha epidemiyalar qanday paydo bo'ladi?
++ Tuproq, botqoq yoki havodagi sababchi moddalar orqali
+- Bemordan sog'lom kishiga bevosita yoki bilvosita yuqish yo'li orqali
+- Mikroskopda ko'rinadigan jonli qo'zg'atuvchilarning ko'payishi tufayli, ularning odam organizmiga kirishi bilan
+- Osmon jismlarining joylashuvi va xudolarning jazosi sifatida
+- Faqat ochlik va to'yib ovqatlanmaslik tufayli, yuqumli xususiyatsiz
+! Miazma g'oyasida kasallik muhitdagi zararli moddalardan kelib chiqadi, bemordan yuqishni nazarda tutuvchi qarash esa kontagioz farazidir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologiya ta'rifidagi "determinantlar" tushunchasi nimani bildiradi?
++ Kasallik paydo bo'lishiga ta'sir qiluvchi sabablar va xavf omillarini
+- Sog'liq hodisalarining chastotasi va ularning vaqt, joy hamda shaxs bo'yicha tuzilishini
+- Natijalarni amaliy jamoat salomatligi choralariga aylantirish jarayonini va uning samaradorligini
+- Hodisalarning yillik o'zgarishini ifodalovchi grafik va jadvallarni
+- Tizimli va xolis ma'lumot yig'ish hamda uni tahlil qilishga asoslangan ilmiy usulni
+! Qolgan tushunchalar tarqalish, qo'llash va o'rganish elementlariga tegishli bo'lib, sabablarga emas, ta'rifning boshqa qismlariga javob beradi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 1
+? Epidemik jarayonning o'z-o'zini boshqarish nazariyasini qaysi olim va hamkasblari asoslab bergan?
++ V.D. Belyakov
+- L.V. Gromashevskiy
+- E.N. Pavlovskiy
+- D.S. Samoylovich
+- I.I. Mechnikov
+! Gromashevskiy yuqish mexanizmi, Pavlovskiy tabiiy o'choqlilik, Samoylovich esa vabo qo'zg'atuvchisini mikroskopda izlash bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tavsifiy epidemiologiyada hodisalar qaysi uch o'lchov bo'yicha tavsiflanadi?
++ Vaqt, joy va shaxs
+- Manba, yuqish mexanizmi va moyil organizm
+- Sabab, oqibat va profilaktika choralari
+- Kasallanish, o'lim va letallik ko'rsatkichi
+- Yosh, jins va kasb
+! Birinchi uch o'lchov hodisalarning qachon, qayerda va kimlarda yuz berganini ko'rsatadi, boshqalari esa boshqa tushunchalarga tegishli.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 1
+? Amaliy epidemiologiyaning misli ko'rilmagan yutug'i sifatida 1960–1970-yillarda qaysi kasallikning butun dunyoda tugatilishi baholanadi?
++ Chechak
+- Poliomielit
+- Qizamiq
+- Vabo
+- Sil
+! Chechakning butun dunyoda tugatilishi epidemiologik yondashuvlar muvaffaqiyatining yorqin namunasi bo'ldi, poliomielit va qizamiq esa hali dunyo miqyosida tugatilmagan.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 2
+? Uyg'onish davrida italyan shifokori Frakastoro qaysi g'oyani rivojlantirdi?
++ Kasallikning bemordan sog'lomga yuqishi, ya'ni kontagiozlik g'oyasini
+- Kasallikning tuproq va botqoq bug'laridan kelib chiqishi haqidagi miazma g'oyasini
+- Epidemik jarayonning o'z-o'zini boshqarishi to'g'risidagi nazariyani
+- Tabiiy o'choqlilik haqidagi biotsenotik ta'limotni
+- Mikroorganizmlarni mikroskop ostida o'rganish orqali vabo qo'zg'atuvchisini aniqlash usulini
+! Kontagioz farazi keyinchalik Levenguk, Paster va Koch tadqiqotlari bilan tasdiqlandi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

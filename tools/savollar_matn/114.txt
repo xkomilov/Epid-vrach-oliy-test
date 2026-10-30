@@ -1,0 +1,100 @@
+=== 114
+? Kuydirgi qo'zg'atuvchisi Bacillus anthracis morfologik va tinktorial jihatdan qanday tavsiflanadi?
++ Yirik, harakatsiz, gramm-musbat, spora hosil qiluvchi tayoqcha
+- Mayda, harakatchan, gramm-manfiy, spora hosil qilmaydigan kokk
+- Yirik, peritrix xivchinli, gramm-manfiy, kapsulasiz vibrion
+- Egri, spiralsimon, gramm-manfiy, aktiv harakatchan spiroxeta
+- Mayda, kislotaga chidamli, gramm bo'yog'ini qabul qilmaydigan tayoqcha
+! Xivchinlari yo'qligi tufayli u harakatsiz bo'lib, sporalari esa tashqi muhitda uzoq saqlanish imkonini beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? Kuydirgi qo'zg'atuvchisining vegetativ shakli qayerda kapsula hosil qiladi va spora qayerda hosil bo'ladi?
++ Kapsula tirik organizmda, spora esa odam va hayvon organizmidan tashqarida
+- Kapsula tashqi muhitda, spora esa tirik organizm ichida
+- Ikkalasi ham faqat tirik organizm ichida, tashqi muhitda hosil bo'lmaydi
+- Ikkalasi ham faqat tuproqda, oziq muhitlarida hosil bo'lmaydi
+- Kapsula faqat suv havzalarida, spora esa faqat hayvon ichaklarida
+! Kislorod yetarli bo'lgan tashqi muhit sporulyatsiyani rag'batlantiradi, organizm ichida esa himoya vazifasini kapsula bajaradi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Vegetativ shakl +75 °C haroratda qancha vaqtda nobud bo'ladi?
++ 1 daqiqada
+- 15 daqiqada
+- 40 daqiqada
+- 2 soatda
+- 60 daqiqada
+! Vegetativ hujayralar issiqlikka sporalarga qaraganda ancha sezgir, harorat oshgan sari halok bo'lish vaqti keskin qisqaradi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Kuydirgi sporalari avtoklavda 2 atmosfera bosimda qancha vaqtda nobud bo'ladi?
++ 2 soatda
+- 5 daqiqada
+- 15 daqiqada
+- 30 daqiqada
+- 10 soatda
+! Sporalar qobig'ining zichligi uzoq vaqt bug' ta'sirini talab qiladi, shu sababli odatdagi qaynatish ularni yo'q qilmaydi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Quyidagi vositalardan qaysi biri kuydirgi sporalariga halokatli ta'sir etadi?
++ 6 % vodorod peroksidning 0,5 % yuvuvchi vosita bilan aralashmasi
+- 70° li etil spirti, yuzani artish uchun
+- 0,1 % li xlorgeksidin eritmasi, qo'llarni yuvish uchun
+- 5 % li spirtli yod eritmasi, jarohat atrofiga surtish uchun
+- 1 % li kaliy permanganat eritmasi, og'iz chayish uchun
+! Spora qobig'iga kuchli oksidlovchi yoki faol xlor saqlovchi vositalar ta'sir qiladi, oddiy antiseptiklar esa samarasiz.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Qo'zg'atuvchi yuqori nafas yo'llari orqali tushganda kuydirgining qaysi klinik shakli rivojlanadi?
++ O'pka shakli
+- Teri shakli
+- Ichak shakli
+- Edematoz karbunkul shakli
+- Erizipeloid shakli
+! Qo'zg'atuvchi tushgan joy kasallik shaklini belgilaydi: teri orqali teri, og'iz orqali ichak shakli rivojlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? Kuydirgi o'choqlari epidemiologik jihatdan qanday turlarga bo'linadi?
++ Kasbiy-qishloq xo'jalik, kasbiy-industrial va maishiy
+- Tabiiy, antropurgik va sinantrop o'choqlarga, hayvonlar turiga qarab
+- Suv, oziq-ovqat va havo o'choqlariga, yuqish omiliga qarab
+- Shahar, qishloq va chegara o'choqlariga, joylashuviga qarab
+- Birlamchi, ikkilamchi va uchlamchi o'choqlarga, paydo bo'lish tartibiga qarab
+! Bu tasnif odamning qo'zg'atuvchi bilan aloqa sharoitiga: kasbiy faoliyat yoki kundalik hayotga asoslangan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? Quyidagi hayvonlardan qaysilari tabiiy sharoitda kuydirgi bilan kasallanmaydi?
++ Uy parrandalari
+- Tuyalar va eshaklar
+- Mayda va yirik shoxli mollar
+- Itlar va mushuklar
+- Otlar
+! Parrandalar tanasining yuqori harorati va tabiiy chidamliligi qo'zg'atuvchining ko'payishiga to'sqinlik qiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Kuydirgi» bobi
+? SanQvaM № 0239-07/3 kalendariga ko'ra kuydirgiga qarshi epidemiologik ko'rsatma bo'yicha emlash qaysi yoshdan boshlanadi va revaksinatsiya qachon o'tkaziladi?
++ 14 yoshdan, revaksinatsiya 1 yildan keyin
+- 7 yoshdan, revaksinatsiya 5 yildan keyin
+- 18 yoshdan, revaksinatsiya 10 yildan keyin
+- 16 yoshdan, revaksinatsiya 6 oydan keyin
+- 1 yoshdan, revaksinatsiya har 3 yilda
+! Emlash mehnat faoliyati davomida xavf ostida bo'lgan o'smir va kattalarga mo'ljallangan.
+@ SanQvaM № 0239-07/3 (O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi)
+? Kuydirgi bo'yicha hududiy kompleks reja kim tomonidan tasdiqlanadi va necha yilga tuziladi?
++ Hokimlik tomonidan, 5 yilga
+- Vazirlar Mahkamasi tomonidan, 1 yilga
+- Sanitariya-epidemiologiya markazi tomonidan, 10 yilga
+- Veterinariya xizmati tomonidan, 3 yilga
+- Prokuratura tomonidan, 2 yilga
+! Reja bir necha idoraning birgalikdagi ishini talab qilgani uchun mahalliy hokimiyat darajasida tasdiqlanadi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Kuydirgi bemori bilan birga yashovchi aloqadorlar necha kun tibbiy kuzatuvda bo'ladi?
++ 8 kun
+- 2 kun
+- 14 kun
+- 21 kun
+- 30 kun
+! Kuzatuv davri kasallikning yashirin davriga mos ravishda belgilanadi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? 37-son buyruq ilovasiga ko'ra noxush turg'un punktlarda tuproq namunalari qaysi muddatda tekshiriladi?
++ May–oktyabrda choragiga bir marta
+- Yanvar–mart oylarida har oy
+- Noyabr–fevralda yiliga bir marta
+- Yil davomida har hafta
+- Faqat yoz oylarida, yiliga ikki marta
+! Tuproqdagi sporalarni aniqlash issiq davrda, hayvonlar yaylovda bo'lganda amaliy ahamiyat kasb etadi.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+#D 114 / 12: buyruq ilovasida tuproq namunalari may–oktyabrda choragiga bir marta, Saparov qo'llanmasida esa aprel–oktyabrda tekshirilishi ko'rsatilgan.
+#U 114 / 10: hududiy kompleks reja muddati (5 yil) va tasdiqlovchi organ faqat mavzu materialidagi yo'riqnomaga tayanadi.
+#U 114 / 11: birga yashovchilarni 8 kun kuzatish muddati faqat mavzu materialidagi yo'riqnomaga tayanadi.

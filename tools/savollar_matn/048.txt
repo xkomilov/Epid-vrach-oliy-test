@@ -1,0 +1,99 @@
+=== 048
+? Qorin tifi o'chog'ida nima uchun bemor bilan birga muloqotda bo'lgan shaxslarga nisbatan ham chora-tadbirlar o'tkaziladi?
++ Ular zararlangan yoki yashirin tashuvchi bo'lishi mumkin
+- Ular albatta kasal bo'ladi va kasalxonaga yotqizilishi shart
+- Ular havo-tomchi yo'li bilan qo'zg'atuvchini tarqatadi
+- Ular vaksina olgan bo'lsa ham, immuniteti yo'qligi sababli kuzatilishi lozim
+- Ular uchun hech qanday tekshiruv o'tkazilmaydi, faqat bemor izolyatsiya qilinadi
+! Yashirin shakllar va surunkali tashuvchilik ko'p uchragani sababli aniqlanmay qolgan manbalar xavfi yuqori.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Qorin tifida muloqotdagilar doirasi odatda qanday omil asosida belgilanadi?
++ Umumiy suv manbai yoki bir ovqatlanish joyi asosida, bu uy a'zolari doirasidan kengroq bo'lishi mumkin
+- Bemor bilan bir xonada yashagan oila a'zolari asosida, bunda boshqa shaxslar kuzatilmaydi va tekshirilmaydi
+- Bemorning ish joyidagi hamkasblari asosida, ularning yashash joyi va oziqlanishi hisobga olinmaydi
+- Bemor bilan bir transportda yo'l yurgan yo'lovchilar asosida, ular qanchalik yaqin o'tirgan bo'lishidan qat'i nazar
+- Bemorning qarindoshlari yashaydigan barcha shaharlar asosida, masofadan qat'i nazar
+! Ich terlama ko'pincha umumiy suv yoki oziq-ovqat orqali yuqadi, shu bois ana shu umumiy omil doirani belgilaydi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Qorin tifi o'chog'ida muloqotda bo'lganlar qancha muddat kuzatiladi?
++ Bir maksimal inkubatsion davr mobaynida
+- Bir sutka davomida
+- Bemor kasalxonaga yotqizilguncha
+- Bir kalendar yil davomida har kuni
+- Kasallik belgilari yo'qolgandan keyin ikki hafta
+! Kuzatuv o'choq davomiyligiga mos bo'lib, shu muddatda yangi kasallanish yuzaga kelmasa, o'choq so'ngan hisoblanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Muloqotda bo'lganlarning bakteriologik tekshiruvida qaysi namunalar olinadi?
++ Najas va siydik
+- Qon va orqa miya suyuqligi
+- Balg'am va burun-halqum surtmasi
+- Teri va soch parchalari
+- Jarohat ajralmasi va yiring
+! Qo'zg'atuvchi najas va siydik orqali tashqi muhitga chiqadi, shu bois tashuvchilarni aniqlash uchun aynan shu namunalar ekiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Muloqotdagilar uchun ko'rsatma bo'yicha qanday shoshilinch profilaktika vositasi beriladi?
++ Ich terlama bakteriofagi
+- Gripp vaksinasi
+- Qoqsholga qarshi anatoksin
+- Quturishga qarshi immunoglobulin
+- Antiretrovirus preparatlar
+! Bakteriofag qabul qiluvchan organizmga ta'sir qiluvchi shoshilinch profilaktika choralariga kiradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Dekretlangan kontingentga mansub muloqotdagilar qachon ishga qo'yiladi?
++ Bakteriologik tekshiruv salbiy natija bergandan keyin
+- Bemor kasalxonaga yotqizilgan zahotiyoq, tekshiruvsiz
+- Ikki kundan keyin, natijadan qat'i nazar
+- Bir oy davomida uyda yotgandan keyin, tekshiruvsiz
+- Faqat bemor to'liq sog'ayib, ishga qaytgandan keyin
+! Ular zararlangan bo'lsa, oziq-ovqat yoki suv orqali ko'p sonli kishining kasallanishiga sabab bo'lishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Muloqotdagilarni tekshirishdan asosiy maqsad nima?
++ Yashirin tashuvchilarni aniqlash, chunki ular aniqlanmasa kelajakdagi epidemiyalar manbai bo'ladi
+- Barcha muloqotdagilarni majburan kasalxonaga yotqizish va ularni davolash, ular sog'lom bo'lsa ham
+- Bemorning hujjatlarini rasmiylashtirish uchun statistik ma'lumot yig'ish va hisobotni to'ldirish
+- Muloqotdagilarning emlash daftarini tekshirish, yangilash va kechiktirilgan emlashlarni bajarish
+- O'choq chegarasini kengaytirib, resurslarni ko'proq sarflash orqali hisobotdagi ko'rsatkichlarni yaxshilash
+! Surunkali tashuvchilar klinik belgisiz qo'zg'atuvchi ajratib, yangi o'choqlar manbai bo'ladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Milliy yo'riqnomaga ko'ra ich terlama bemori kasallikning qaysi haftalarida najas va siydik bilan bakteriyalarni eng ko'p ajratadi?
++ 2–3-haftasida
+- 1-haftasida
+- Faqat inkubatsion davrda
+- 6–8-haftasida
+- Sog'ayishdan bir yil o'tgach
+! Qo'shimcha xolesistit yoki pielit bo'lsa, ajralish yanada ortadi.
+@ Mavzu materiali (048.docx)
+? Ich terlama o'chog'ida dezinfeksiya bemor yotqizilgandan keyin qancha vaqt ichida o'tkazilishi kerak?
++ 24 soat ichida
+- 1 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+- 30 kun ichida
+! Muddatning qisqa belgilanishi o'choqda qo'zg'atuvchining tarqalishiga yo'l qo'ymaslik uchun zarur.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 55, 56, 63, 65-bandlar
+? Umumiy ichak infeksiyalarida muloqotda bo'lganlarni tibbiy kuzatish muddati milliy yo'riqnomaga ko'ra qancha?
++ 7 kun, har kuni so'rov, ko'rik, ich ketishini kuzatish va termometriya bilan
+- 1 kun, faqat bir marta ko'rik va so'rov bilan, termometriyasiz va keyingi kuzatuvsiz
+- 21 kun, haftada bir marta ko'rik bilan, ich ketishini kuzatmasdan va termometriyasiz
+- 50 kun, har kuni qon olish va jigar fermentlarini aniqlash bilan, ko'riksiz
+- 3 oy, oyiga bir marta so'rov bilan, bunda termometriya va ko'rik o'tkazilmaydi
+! Bu muddat ichak infeksiyalarining nisbatan qisqa inkubatsion davriga mos keladi.
+@ Mavzu materiali (048.docx)
+? Ich terlama o'chog'i umumiy suv manbai bilan bog'liq bo'lsa, muloqotda bo'lganlar kimlar hisoblanadi?
++ Shu manbadan foydalanadigan barcha aholi potensial muloqotda bo'lganlar sifatida qaraladi
+- Bemor bilan bir xonada uxlagan shaxslar, qolgan aholi esa suv orqali yuqish xavfi mavjud bo'lsa ham nazoratga olinmaydi
+- Bemorni davolagan tibbiyot xodimlari, chunki ular bemor bilan bevosita jismoniy aloqada bo'lgan
+- Bemorning oila a'zolari, qolgan aholi esa kuzatilmaydi va tekshirilmaydi
+- Hech kim, chunki suv orqali yuqish muloqot hisoblanmaydi va kuzatuvni talab qilmaydi
+! Suv manbasi zudlik bilan zararsizlantiriladi, chunki umumiy omil bilan zararlanish xavfi barcha foydalanuvchilarda mavjud.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Shoshilinch profilaktika (ich terlama bakteriofagini berish) epidemik jarayonning qaysi bo'g'iniga ta'sir qiladi?
++ Qabul qiluvchan organizmga
+- Infeksiya manbaiga, ya'ni qo'zg'atuvchi tashuvchilarni aniqlash va davolash orqali
+- Yuqish mexanizmiga, ya'ni dezinfeksiya va suv manbalarini nazorat qilish orqali
+- Tashqi muhitdagi qo'zg'atuvchi rezervuariga, ya'ni suv va tuproqni zararsizlantirish orqali
+- Yuqish omiliga, ya'ni oziq-ovqat mahsulotlarini muomaladan chiqarish orqali
+! Bakteriofag muloqotdagilarning moyilligini kamaytiradi, tashuvchilarni aniqlash manbaga, dezinfeksiya va suv nazorati yuqish mexanizmiga ta'sir qiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+#U 048 / 8: bakteriyalarning 2–3-haftada eng ko'p ajralishi faqat mavzu materialiga tayangan.
+#U 048 / 10: umumiy ichak infeksiyalarida 7 kunlik tibbiy kuzatuv muddati faqat mavzu materialiga tayangan.

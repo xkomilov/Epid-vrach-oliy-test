@@ -1,0 +1,100 @@
+=== 034
+? Markaziy sterilizatsiya punkti (bo'limi) qanday vazifani bajaradi?
++ Davolash-profilaktika muassasasida tibbiy asbob-uskunalarni markazlashgan tarzda dezinfeksiya, tozalash va sterilizatsiya qiladi
+- Muassasaning barcha bo'limlari uchun vaksinalarni saqlash va tashish bo'yicha sovuqlik zanjirini boshqaradi
+- Muassasa hududida kemiruvchilar va hasharotlarni yo'qotish bo'yicha profilaktik tadbirlarni o'tkazadi
+- Shifoxonaga yotqizilgan bemorlarning yuqumli kasalliklar bo'yicha laboratoriya tashxisini qo'yadi va natijalarni epidemiologik jurnalga qayd etadi
+- Muassasa xodimlarini davriy tibbiy ko'rikdan o'tkazadi va ularni emlash kalendarini yuritadi
+! Markazlashgan tizim jarayonni standartlashtiradi va sifatni yagona nazorat qilish imkonini beradi.
+@ SanQvaM № 0365-19
+? MSP binosini tekshirishda qaysi tashkiliy prinsipga rioya qilinishi baholanadi?
++ "Iflosdan tozaga" bir yo'nalishli oqim, iflos, toza va steril zonalar kesishmasligi
+- "Tozadan iflosga" qaytuvchi oqim, bunda steril materiallar iflos zona orqali olib chiqiladi
+- Barcha zonalar bitta umumiy xonada joylashishi, bunda ish qulayligi birinchi o'rinda turadi
+- Iflos va toza oqimlarning ataylab kesishishi, chunki bu asboblarni tezroq yetkazishga imkon beradi
+- Har bir bo'limda alohida mayda sterilizatsiya xonalari tarqoq holda joylashishi
+! Oqimlar kesishsa, steril materiallar qayta ifloslanadi va sterilizatsiya ma'nosini yo'qotadi.
+@ SanQvaM № 0365-19
+? Sterilizatsiyadan oldingi tozalash sifatida yashirin qon qoldig'i qaysi sinama bilan tekshiriladi?
++ Azopiram yoki amidopirin sinamasi
+- Fenolftalein sinamasi
+- Chayqatish sinovi
+- Ichak tayoqchasiga surtma olish
+- Biologik indikator sporalari bilan sinov
+! Sinama asbobda qon qoldig'i borligini rang o'zgarishi bilan ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Asboblarda yuvish vositasi qoldig'i qaysi sinama yordamida aniqlanadi?
++ Fenolftalein sinamasi
+- Azopiram sinamasi
+- Amidopirin sinamasi
+- Tuberkulin sinamasi (Mantu)
+- Shick sinamasi
+! Fenolftalein ishqoriy yuvish vositasi qoldig'ida pushti rangga bo'yaladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Sterilizatsiyadan oldingi tozalash sifatini tekshiruvchi sinama musbat natija bersa, nima qilinadi?
++ Asboblarning butun partiyasi qayta ishlanadi
+- Faqat sinama olingan bitta asbob qayta yuviladi, qolganlari sterilizatsiyaga yuboriladi
+- Sinama natijasi hisobga olinmaydi, chunki sterilizatsiya qoldiqlarni baribir yo'q qiladi
+- Asboblar darhol steril deb e'lon qilinib, saqlash omboriga topshiriladi
+- Asboblar yo'q qilinadi va muassasa tomonidan ishlatilmaydi
+! Qoldiq organik moddalar sterilizatsiyani samarasiz qilishi mumkin, shuning uchun butun partiya qayta tozalanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Sterilizatsiya ishonchliligining eng qat'iy ko'rsatkichi qaysi nazorat turi hisoblanadi?
++ Test-mikroorganizm sporalaridan foydalaniladigan bakteriologik (biologik) nazorat
+- Avtoklav manometri ko'rsatkichlarini kuzatuvchi fizik nazorat, chunki u sporalar o'limini bevosita isbotlaydi
+- Indikator rangining o'zgarishini baholovchi kimyoviy nazorat
+- Steril qadoqning tashqi ko'rinishini baholovchi vizual nazorat
+- Xodimlarning bilimini baholash uchun o'tkaziladigan og'zaki so'rov
+! Spora o'limi mutlaq mikrobsizlikka erishilganini bevosita tasdiqlaydi.
+@ CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Biror sterilizatorda yoki rejimda takrorlanuvchi nosozlik aniqlansa, nima qilinadi?
++ Jihoz validatsiyadan o'tkazilmaguncha ishlatilmaydi
+- Jihoz ishlatilishda davom etadi, nosozlik faqat jurnalga yozib qo'yiladi
+- Faqat sterilizatsiya muddati ikki baravar qisqartiriladi va jihoz ishlatiladi
+- Jihoz faqat bir martalik asboblar uchun ishlatiladi, boshqalar uchun taqiqlanadi
+- Nosozlik e'tiborga olinmaydi, agar kimyoviy indikator rangini o'zgartirgan bo'lsa
+! Validatsiya jihoz belgilangan parametrlarni ishonchli ta'minlashini isbotlaydi.
+@ SanQvaM № 0365-19
+? 2024-yildagi nizomga ko'ra, jarrohlik, tug'ruq va qon quyish xizmatlariga ega muassasalarda rejali tekshiruv qanday chastotada o'tkaziladi?
++ Har chorakda ko'pi bilan bir marta
+- Har oyda kamida ikki marta
+- Har kuni, muassasa ish vaqti davomida
+- Besh yilda bir marta
+- Har yili kamida o'n ikki marta
+! Bu cheklov tekshiruvlar sonini tartibga soladi va muassasa faoliyatiga ortiqcha aralashuvning oldini oladi.
+@ Mavzu materiali (034.docx)
+? 2024-yildagi nizomga ko'ra nazorat tartibidagi tekshiruv dalolatnomadagi kamchiliklar bo'yicha avvalgi tekshiruvdan keyin qancha muddatdan oshib ketmasligi kerak?
++ Ikki oydan
+- Bir haftadan
+- Olti oydan
+- Bir yildan
+- Ikki yildan
+! Nazorat tartibidagi tekshiruv avvalgi tekshiruvda aniqlangan kamchiliklar bartaraf etilganini tekshiradi.
+@ Mavzu materiali (034.docx)
+? MSP xodimlari bo'yicha nazoratda qaysi emlanganlik holati baholanadi?
++ Virusli gepatit B ga qarshi emlanganlik
+- Kuydirgiga qarshi emlanganlik
+- Sariq isitmaga qarshi emlanganlik
+- Vabo va ich terlamaga qarshi emlanganlik
+- Quturishga qarshi emlanganlik
+! Xodimlar qon bilan kontaktda bo'lgani uchun gepatit B ga qarshi himoya ularning kasbiy xavfsizligi uchun zarur.
+@ SanQvaM № 0365-19; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Nazorat turlaridan qaysi biri shikoyat, asorat yoki epidemik noxushlik holatlari yuzaga kelganda o'tkaziladi?
++ Rejadan tashqari nazorat
+- Rejali nazorat
+- Ichki (o'z-o'zini) nazorat
+- Profilaktik nazorat
+- Yakuniy nazorat
+! Rejali nazorat oldindan belgilangan jadval bo'yicha, ichki nazorat esa muassasaning o'z sifat komissiyasi tomonidan o'tkaziladi.
+@ Mavzu materiali (034.docx)
+? Markazlashgan sterilizatsiyaning tarqoq, bo'limma-bo'lim sterilizatsiyaga nisbatan afzalligi nimada?
++ Nazorat qilinadigan, standartlashtirilgan muhitni ta'minlaydi va sifatni yagona nazorat qilish imkonini beradi
+- Har bir bo'limning o'z xodimlari asboblarni ixtiyoriy usulda qayta ishlashiga imkon beradi va nazorat talab qilmaydi
+- Sterilizatsiya jihozlari soni ko'payib, har bir xonada alohida avtoklav bo'lishini talab qiladi
+- Sterilizatsiyadan oldingi tozalash bosqichini butunlay bekor qilib, jarayonni ancha tezlashtiradi
+- Bakteriologik nazoratni o'tkazish zaruratini yo'qotadi, chunki fizik nazorat yetarli deb hisoblanadi
+! Tarqoq tizimda rejimlarni va sifatni yagona nazorat qilish qiyin, markazlashganda esa bu soddalashadi.
+@ SanQvaM № 0365-19
+#U 034 / 8: 2024-yildagi nizomga ko'ra rejali tekshiruv har chorakda ko'pi bilan bir marta o'tkazilishi — faqat mavzu materialiga tayangan; nizomning sana va raqami nusxada to'liq o'qilmaydi.
+#U 034 / 9: nazorat tartibidagi tekshiruv avvalgi tekshiruvdan keyin ikki oydan oshmasligi — faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.
+#U 034 / 11: nazorat turlarining (rejali, rejadan tashqari, ichki) tavsifi faqat mavzu materialiga tayangan.

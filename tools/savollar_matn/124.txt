@@ -1,0 +1,97 @@
+=== 124
+? Hyalomma asiaticum imagosining hujum faolligi qaysi oyda eng yuqori bo'ladi?
++ May oyida
+- Sentabr oyida
+- Yanvar oyida
+- Noyabr oyida
+- Avgust oyida
+! Imago martdan hujum qila boshlaydi va bahor oxirida cho'qqiga chiqadi, kuzda esa soni kamayadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Hyalomma detritum rivojlangan kanalarining eng ko'p uchraydigan davri qaysi?
++ Iyun-iyul
+- Mart-aprel
+- Sentabr
+- Dekabr-yanvar
+- Fevral-mart
+! Kanalar maydan paydo bo'ladi, yozning boshida ko'payadi va avgustda kamayadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Hyalomma anatolicum anatolicum urg'ochisi nechtagacha tuxum qo'yadi?
++ 6000 tagacha
+- 800 tagacha
+- 2000 tagacha
+- 12 000 tagacha
+- 40 tagacha
+! Bu tur yirik shoxli hayvonlarda parazitlik qiladi va yilda bir avlod, issiq yillarda ikkita avlod beradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Kanalar nechta rivojlanish bosqichidan o'tadi va ular qaysilar?
++ To'rtta: tuxum, lichinka, nimfa va imago
+- Uchta: tuxum, lichinka va imago, nimfa bosqichisiz
+- Beshta: tuxum, lichinka, nimfa, pupariy va imago
+- Ikkita: lichinka va imago, tuxum esa alohida bosqich hisoblanmaydi
+- Oltita: tuxum, lichinka, birinchi nimfa, ikkinchi nimfa, pupa va imago
+! Kanalar to'liq o'zgarish emas, balki to'rt bosqichli rivojlanish yo'lidan o'tadi va har bir bosqichda oziqlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Kanalar QKGI virusini nasliga qaysi yo'l bilan o'tkazadi?
++ Transovarial yo'l bilan, ya'ni tuxum orqali
+- Transplatsentar yo'l bilan, ya'ni homila qon aylanishi orqali
+- Aerogen yo'l bilan, ya'ni changli havo orqali
+- Alimentar yo'l bilan, ya'ni ifloslangan oziq-ovqat orqali
+- Fekal-oral yo'l bilan, ya'ni ifloslangan qo'llar orqali
+! Bu mexanizm virusning kanalar populyatsiyasida avlodlar davomida saqlanishini ta'minlaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Kanalar kun davomida qaysi soatlarda eng faol bo'ladi?
++ Ertalab soat 8–9 dan 11–12 gacha va kunning ikkinchi yarmida 17–18 dan 19 gacha
+- Tush paytida soat 12–13 dan 16–17 gacha, quyosh eng baland bo'lgan issiq vaqtda
+- Tunda soat 22 dan 4 gacha, havo harorati eng past bo'lganda
+- Kun bo'yi bir xil darajada, soat va harorat o'zgarishidan qat'i nazar
+- Erta tongda soat 4–5 dan 7 gacha va kechqurun soat 21–22 dan keyin
+! Kanalar quyosh nuriga chidamsiz bo'lgani uchun kunning issiq paytida yashirinadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Molxonalar va sayrgohlarni akaritsid bilan ishlashda qaysi vosita ko'rsatilgan?
++ 1% li dikrezil efiri emulsiyasi (10 m2 ga 2 litr)
+- 1% li xloramin eritmasi (10 m2 ga 2 litr)
+- 3% li vodorod peroksid eritmasi (10 m2 ga 5 litr)
+- 10% li ohakli sut (10 m2 ga 1 litr)
+- 70° li etil spirti (10 m2 ga 0,5 litr)
+! Vosita kanalarga qarshi ta'sir qiluvchi kimyoviy moddalar guruhiga kiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Hyalomma asiaticum asiaticum ning lichinka va nimfalari asosan kimlarda oziqlanadi?
++ Yovvoyi hayvonlarda, asosan kemiruvchilarda
+- Yirik shoxli hayvonlar, qo'y, ot va tuyalarda
+- Faqat odamlar va uy itlarida
+- Uy parrandalari va yovvoyi qushlarda
+- Qoramol va cho'chqalarda
+! Kana ikki xo'jayinli bo'lib, rivojlanishning turli bosqichlari turli hayvonlarni zararlaydi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? JSST ma'lumotiga ko'ra, kasal qoni yoki to'qimasi bilan kontaktdan keyin inkubatsiya davri odatda qancha?
++ 5–6 kun (maksimum 13 kun)
+- 1–3 kun (maksimum 9 kun)
+- 10–14 kun (maksimum 28 kun)
+- 2–4 hafta (maksimum 8 hafta)
+- 6–12 soat (maksimum 2 kun)
+! Kana chaqishi bilan yuqishda davr qisqaroq bo'ladi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Bemor ajralmalari xlorli ohak yoki kalsiy gipoxlorit kukuni bilan qanday nisbatda aralashtirilib, qancha ushlanadi?
++ 1:2 nisbatda, 2 soat
+- 1:5 nisbatda, 1 soat
+- 1:10 nisbatda, 30 daqiqa
+- 1:20 nisbatda, 4 soat
+- 1:1 nisbatda, 10 daqiqa
+! Ajralmalar yuqumli bo'lgani uchun dezinfeksiyalovchi kukun ko'p miqdorda va yetarli ekspozitsiya bilan ishlatiladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Tibbiyot xodimlarini QKGI bo'yicha o'qitish yilning qaysi choragida o'tkaziladi?
++ I chorakda
+- II chorakda
+- III chorakda
+- IV chorakda
+- Har chorakda
+! O'qitish kanalar faolligi boshlanishidan oldin yakunlanishi kerak.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'i, 2-band
+? Quyidagilardan qaysi biri profilaktika rejasining yo'nalishlaridan biri hisoblanadi?
++ Kasallikni shifoxona ichi infeksiyasi sifatida qayd etilishiga yo'l qo'ymaslik
+- Barcha aholini tirik vaksina bilan majburiy ommaviy emlash
+- Uy hayvonlarini o'choq hududida ommaviy so'yish va qayta ishlash
+- Aholini endemik hududlardan doimiy yashash uchun ko'chirish
+- Kanalar yashaydigan yaylovlarni to'liq yoqib yuborish va u yerdagi o'simliklarni qayta ekish
+! Odamlar uchun xavfsiz va keng qo'llanadigan vaksina mavjud emas, shu sababli rejada boshqa yo'nalishlar ko'zda tutilgan.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova; WHO. Crimean-Congo haemorrhagic fever (fact sheet)

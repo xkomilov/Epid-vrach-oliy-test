@@ -1,0 +1,98 @@
+=== 126
+? Kuydirgining lotincha nomi «anthrax» yunoncha qanday ma'noni bildiradi?
++ Ko'mir
+- Qora quyosh
+- Terining kuyishi va chirishi
+- Qora po'stloqli yara
+- Tuproq kasalligi
+! Nom yara ustida hosil bo'ladigan po'stloqning tashqi ko'rinishiga ishora qiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Bacillus anthracis ning vegetativ shakli +60 °C haroratda qancha vaqtda nobud bo'ladi?
++ 15 daqiqada
+- 60 daqiqada
+- 2 soatda
+- 5 soniyada
+- 24 soatda
+! Vegetativ shakl issiqqa chidamsiz, sporalar esa ancha turg'un.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Kuydirgining inkubatsion davri qancha davom etadi?
++ Bir necha soatdan 14 kungacha, o'rtacha 7 kun
+- 1 kundan 3 kungacha, o'rtacha 2 kun
+- 10 kundan 30 kungacha, o'rtacha 20 kun va undan ko'proq
+- 2 oydan 3 oygacha, o'rtacha 10 hafta
+- 3 soatdan 1 sutkagacha, o'rtacha 12 soat
+! Davr kirish eshigi va yuqish yo'liga qarab keng doirada o'zgaradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Teri shaklining qaysi ko'rinishi eng ko'p (73%) uchraydi?
++ Karbunkul ko'rinishi
+- Bullyoz ko'rinishi
+- Erizipeloid ko'rinishi
+- Edematoz ko'rinishi
+- Pustulyoz ko'rinishi
+! Odatiy ko'rinishda papula vezikulaga, so'ng qora po'stloqli yaraga aylanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Milliy manbaga ko'ra, teri shaklida o'rtacha o'lim ko'rsatkichi qancha?
++ 2–3%
+- 25–60%
+- 10–15%
+- 50%
+- 90–100%
+! Teri shaklining o'limi boshqa shakllarga nisbatan ancha past.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010; CDC. Types of Anthrax (ACIP Anthrax Vaccine Work Group, 2019)
+? Ichak (abdominal) shaklida o'lim qancha foizgacha yetadi?
++ 25–60%
+- 2–3%
+- 0,1–1%
+- 5–10%
+- 70–75%
+! Ichak shaklida qonli qusish, ich ketishi va assit rivojlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Kuydirgi qo'zg'atuvchisining asosiy rezervuari nima?
++ Tuproq
+- Kemiruvchilar
+- Ixodid kanalari
+- Kasal odam
+- Yovvoyi qushlar
+! Sporalar tuproqda o'nlab yillar saqlanadi, odamdan odamga yuqishi esa isbotlanmagan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Kuydirgidan o'lgan hayvon jasadi bilan qanday ish tutiladi?
++ Yoqiladi, ko'mish esa qat'iyan taqiqlanadi
+- Ikki metr chuqurlikka ko'milib, ustiga xlorli ohak sepiladi
+- Dezinfeksiyalanib, terisi va juni xom ashyo sifatida ishlatiladi
+- Qushxonada qayta ishlanib, go'shti uzoq qaynatilib iste'mol qilinadi
+- Maxsus chorva qabristoniga ko'miladi va joy belgilab qo'yiladi
+! Sporalar tuproqqa tushsa, o'nlab yillar xavf manbai bo'lib qoladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Hayvonlarni so'yish kuydirgi profilaktikasi doirasida qanday tashkil etiladi?
++ Markazlashgan qushxonalarda; xonadonlarda va veterinariya ma'lumotnomasisiz so'yishga yo'l qo'yilmaydi
+- Xonadonlarda mumkin, faqat so'ygandan keyin go'sht uzoq vaqt qaynatilishi va veterinar tomonidan ko'rilishi shart
+- Istalgan joyda mumkin, ammo teri alohida dezinfeksiya qilinishi kerak
+- Markazlashgan qushxonalarda, ammo veterinariya ma'lumotnomasi talab etilmaydi
+- Faqat noxush punktlarda mahalliy veterinar ruxsati bilan dalada
+! Nazorat ostidagi so'yish xom ashyo va go'shtni xavfsiz qilishning asosiy sharti.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova; Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Bemor bilan birga yashovchilar necha kun davomida kuzatuvga olinadi?
++ 8 kun
+- 5 kun
+- 14 kun
+- 21 kun
+- 30 kun
+! Davomida har kuni teri qoplamlari ko'zdan kechiriladi va kuniga 2 marta termometriya o'tkaziladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? Xavfi yuqori shaxslarga shoshilinch profilaktika sifatida kuydirgiga qarshi globulin kattalarga qancha miqdorda qo'llanadi?
++ 20–25 ml
+- 5–10 ml
+- 50–60 ml
+- 100–120 ml
+- 1–2 ml
+! Antibiotik bilan birgalikda qo'llanadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova
+? O'pka shaklida laboratoriya tekshiruvi uchun qanday namuna olinadi?
++ Balg'am
+- Vezikula va karbunkul ajralmasi
+- Najas, siydik va qusuq
+- O'lgan odamning taloq to'qimasi
+- Orqa miya suyuqligi
+! Namuna kasallikning kirish eshigi va zararlangan a'zoga mos olinadi.
+@ O'zR SSV 2015-yil buyrug'iga 11-ilova (kuydirgini laboratoriya usullarida aniqlash bo'yicha uslubiy ko'rsatma)
+#D 126 / 5: mavzu materialida teri shaklida o'lim 2–3% deb berilgan, CDC ma'lumotida esa davolanmaganda taxminan 24%, antibiotik bilan davolanganda 2% dan kam.
