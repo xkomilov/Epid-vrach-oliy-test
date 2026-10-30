@@ -1,0 +1,98 @@
+=== 061
+? Botulizm ovqat toksiko-infeksiyalaridan qanday asosiy xususiyati bilan farq qiladi?
++ Sof intoksikatsiya bo'lib, zaharlanish Clostridium botulinum toksinidan kelib chiqadi
+- Sof infeksiya bo'lib, bakteriyaning ichak devoriga kirib bakteriemiya hosil qilishi bilan kechadi
+- Zooantroponoz bo'lib, qo'zg'atuvchi odamdan odamga havo-tomchi yo'li bilan tez tarqaladi
+- Transmissiv infeksiya bo'lib, qo'zg'atuvchini qon so'ruvchi hasharotlar yuqtiradi
+- Parazitar kasallik bo'lib, qo'zg'atuvchi oshqozon-ichak yo'lida tuxum qo'yadi va rivojlanadi
+! Botulizmda belgilarni mikrobning o'zi emas, oldindan hosil bo'lgan toksin keltirib chiqaradi, toksiko-infeksiyalarda esa mikroorganizmlar ham ishtirok etadi.
+@ WHO. Botulism (fact sheet); Mavzu materiali (061.docx)
+? Ovqat toksiko-infeksiyasi rivojlanishi uchun ko'pincha qanday yuqtiruvchi doza zarur?
++ 10^5–10^6 KOE/g
+- 10^1–10^2 KOE/g, ya'ni bir necha hujayra ham kasallik uchun yetarli
+- 10^2–10^3 KOE/g
+- 10^8–10^9 KOE/g
+- 10^11–10^12 KOE/g
+! Mahsulotda bakteriyalar yetarli miqdorgacha ko'payib toksin to'plagandagina zaharlanish yuzaga keladi, juda past doza kasallik chaqirmaydi.
+@ Pishchevye toksikoinfektsii (lektsiya); Mavzu materiali (061.docx)
+? Ovqat toksiko-infeksiyalarida yuqish mexanizmi va yo'li qanday?
++ Fekal-oral mexanizm, yo'li faqat ovqat orqali
+- Aerogen mexanizm, havo-tomchi yo'li orqali bemordan sog'lom odamga
+- Transmissiv mexanizm, chivin va burgalar chaqishi orqali
+- Parenteral mexanizm, qon va tibbiy asboblar orqali
+- Kontakt mexanizm, teri jarohatlari va maishiy buyumlar orqali bevosita
+! Mikroblar yoki ularning toksinlari faqat ifloslangan taomlar bilan tushadi, shuning uchun kasallik guruhli va portlashsimon avj oladi.
+@ Pishchevye toksikoinfektsii (lektsiya)
+? Botulizmning epidemiologik xususiyati qaysi javobda to'g'ri ko'rsatilgan?
++ Toksin ovqat orqali tushadi va kasallik odamdan odamga yuqmaydi
+- Bemordan sog'lom odamga havo-tomchi yo'li bilan yuqadi, shu sababli bemor qat'iy izolyatsiya qilinadi
+- Kasallikni pashshalar mexanik tashiydi va asosan epidemik ko'tarilishlar beradi
+- Bemor najasi bilan fekal-oral yo'l orqali uy-ro'zg'orda oilaviy yuqadi
+- Qon so'ruvchi hasharotlar chaqishi orqali yuqadi
+! Toksin oziq-ovqat bilan kirgani uchun bemor boshqalarga yuqumli emas.
+@ WHO. Botulism (fact sheet)
+? JSST ma'lumotiga ko'ra, odamda kasallikni asosan botulinum toksinining qaysi turlari chaqiradi?
++ A, B, E va kamdan-kam F
+- C, D va G turlari, A va B esa faqat hayvonlarda uchraydi
+- A, C, D va kamdan-kam G
+- B, D, E va kamdan-kam H
+- C, D, F va G turlari
+! Odamda botulizm asosan A, B va E turlari bilan bog'liq, C va D turlari esa hayvonlarda ko'proq uchraydi.
+@ WHO. Botulism (fact sheet)
+? JSST ma'lumotiga ko'ra, botulinum toksini qaysi sharoitda yo'qoladi?
++ 85 °C dan yuqori haroratda kamida 5 daqiqa isitilganda
+- Pastroq pH ga ega kislotali muhitga, masalan marinadga tushganda, hatto isitilmasa ham
+- 40 °C da 30 daqiqa ushlanganda
+- 60 °C da 2 daqiqa isitilganda
+- -20 °C gacha muzlatilganda
+! Toksin yetarli yuqori haroratda parchalanadi, past pH va sovuq esa oldindan hosil bo'lgan toksinni buzmaydi.
+@ WHO. Botulism (fact sheet)
+? Clostridium botulinum bakteriyasi o'sishi to'xtaydigan kislotalilik chegarasi qaysi?
++ pH 4,6 dan past
+- pH 5,6 dan past bo'lgan kuchsiz kislotali muhitda
+- pH 6,4 dan past
+- pH 7,2 dan past
+- pH 3,6 dan past
+! Kislotali sabzavot va mevalarda bakteriya o'smaydi, shu bois kislotasiz mahsulotlar eng xavfli hisoblanadi.
+@ WHO. Botulism (fact sheet)
+? Chaqaloq botulizmi asosan qaysi yoshdagi bolalarda uchraydi?
++ 6 oylikkacha bo'lgan bolalarda
+- 2 yoshdan 5 yoshgacha bo'lgan, hovlida o'ynaydigan bolalarda
+- 5 yoshdan 10 yoshgacha bo'lgan bolalarda
+- Maktab yoshidagi o'smirlarda
+- 15 yoshdan katta o'spirinlarda
+! Bu shakl hayotning dastlabki oylarida ichakda sporalarning o'sishi bilan bog'liq.
+@ WHO. Botulism (fact sheet)
+? Ovqat botulizmining klinik manzarasi uchun nima xos?
++ Pastga yo'nalgan bo'shashgan falaj, isitma va ong yo'qolishi kuzatilmaydi
+- Yuqoriga ko'tariluvchi spastik falaj, yuqori isitma va ong buzilishi bilan
+- Qonli ich ketish, tenezmlar va 39 °C gacha isitma bilan
+- Tutqanoq xurujlari, jag mushaklarining tortishishi va yorug'likdan qo'rqish bilan
+- Tana bo'ylab rozeola toshmasi, ko'rinishli spleno- va gepatomegaliya bilan
+! Toksin nerv-mushak o'tkazuvchanligini buzib, ko'z, yutish va nafas mushaklarida simmetrik bo'shashgan falajni keltirib chiqaradi.
+@ WHO. Botulism (fact sheet); MSD Manual, Botulizm (Bush L.M., Vazquez-Pertejo M.T.)
+? Botulinum toksinining zaharli ta'siri qanday mexanizmga asoslangan?
++ Periferik nerv uchlarida atsetilxolin ajralishini qaytmas to'sib qo'yadi
+- Atsetilxolinesterazani faollashtirib, sinapsda mediatorni haddan ortiq tez parchalaydi
+- Markaziy neyronlarda GABA retseptorlarini to'sib, tutqanoq xurujlarini keltirib chiqaradi
+- Ichak epiteliysida adenilatsiklazani faollashtirib, suyuqlik gipersekretsiyasini chaqiradi
+- Eritrotsitlar membranasini parchalab, gemolizni keltirib chiqaradi
+! Atsetilxolin ajralmagani uchun mushak qisqarmaydi va bo'shashgan falaj rivojlanadi.
+@ MSD Manual, Botulizm (Bush L.M., Vazquez-Pertejo M.T.)
+? Botulizm holati aniqlanganda bir xil ovqat iste'mol qilgan boshqa shaxslarga nisbatan qanday chora ko'riladi?
++ Ular aniqlanib, tibbiy kuzatuv ostiga olinadi
+- Ular tekshirilmaydi, chunki toksin faqat bemor organizmida to'planadi va boshqalarga zarari yo'q
+- Ularga profilaktik tarzda antibiotik buyuriladi va 21 kunga ishdan chetlatiladi
+- Ular faqat qo'l yuvish bo'yicha tavsiya olib, kuzatuvsiz uyga qo'yib yuboriladi
+- Ular o'z-o'zini davolashga qoldirilib, faqat belgilar paydo bo'lganda murojaat qiladi
+! Toksin bir xil mahsulot orqali bir necha kishiga tushgan bo'lishi mumkin, shuning uchun ularni erta aniqlash zarur.
+@ WHO. Botulism (fact sheet); MSD Manual, Botulizm (Bush L.M., Vazquez-Pertejo M.T.)
+? Uyda tayyorlangan konserva haqida qaysi fikr to'g'ri?
++ Toksin bo'lsa ham bombaj yoki hid o'zgarishi bo'lmasligi, mahsulot normal ko'rinishi mumkin
+- Toksin bo'lgan konservada doim bombaj va o'tkir chirish hidi paydo bo'ladi, shuning uchun ko'rinish ishonchli mezon
+- Faqat qopqog'i bo'rtgan bankalar xavfli, qolganlari doim xavfsiz hisoblanadi
+- Sirka qo'shilgan konservada toksin hech qachon hosil bo'lmaydi va ko'rinish o'zgarmaydi
+- Metall qopqoqli bankalarda toksin umuman paydo bo'lmaydi
+! Ko'rinish va hidga qarab xavfsizlikni baholab bo'lmaydi, shuning uchun shubhali mahsulotni iste'mol qilishdan oldin qaynatish va undan voz kechish tavsiya etiladi.
+@ Sevalnev A.I. va boshq. Pishchevye otravleniya. Profilaktika (2014)
+#U 061 / 2: yuqtiruvchi doza (10^5–10^6 KOE/g) faqat ma'ruza materialiga tayangan, tashqi manba bilan tasdiqlanmagan.

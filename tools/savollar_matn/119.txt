@@ -1,0 +1,99 @@
+=== 119
+? Sanitariya muhofazasi tadbirlari bajarilishi ustidan davlat sanitariya nazoratini kim o'rnatadi?
++ Sanitariya-epidemiologiya markazlari
+- Faqat hududiy hokimliklar
+- Davlat bojxona qo'mitasi xodimlari
+- Veterinariya laboratoriyalari va hayvonlar kasalliklari markazi
+- Maktab va oliy o'quv yurtlari ma'muriyati
+! Markazlar vazirlik qabul qilgan qaror va tadbirlar bajarilishini nazorat qilish vakolatiga ega.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? SanQvaN № 0034-22 qabul qilinishi bilan qaysi sanitariya qoidasi kuchini yo'qotgan deb topilgan?
++ 0161-04 SanQvaN
+- 0239-07 SanQvaM
+- 0090-25 SanQvaN
+- 0034-98 SanQvaN
+- 0161-22 SanQvaN
+! Yangi qoida xuddi shu sohani qamrab olgani uchun avvalgi hujjat o'rnini egallagan.
+@ SanQvaN № 0034-22
+? Davlat chegarasi orqali o'tkazish punktlarida nazoratni tashkil etish tartibi to'g'risidagi nizom qaysi hujjat bilan tasdiqlangan?
++ Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+- Vazirlar Mahkamasining 2015-yil 31-iyuldagi 220-son qarori
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i
+- Sog'liqni saqlash vazirining 2012-yil 29-oktyabrdagi 310-son buyrug'i
+- Sanitariya-epidemiologiya xizmatining 2021-yil 5-fevraldagi 20-son buyrug'i
+! Nizom chegara, bojxona, sanitariya-karantin, fitosanitariya va veterinariya nazoratini bir tizimga birlashtiradi.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+? 912-son qarorga ko'ra daryo kemalari kapitanlari va havo kemalari komandirlari o'tkazish punktiga yetib kelishdan qancha vaqt oldin xabar beradi?
++ 30 daqiqa oldin
+- 5 daqiqa oldin
+- 2 soat oldin
+- 12 soat oldin
+- 24 soat oldin
+! Oldindan xabar sanitariya-karantin bo'linmasiga ko'rik uchun tayyorgarlik ko'rish imkonini beradi.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+? 912-son qarorning 126-bandiga ko'ra sanitariya-karantin bo'linmasi O'XYuK profilaktikasiga tayyorgarlikdan qanchalik tez-tez o'tadi?
++ Yiliga kamida bir marta, maxsus dastur bo'yicha
+- Oyiga bir marta, mustaqil o'z-o'zini tayyorlash tarzida
+- Besh yilda bir marta, malaka oshirish kurslarida
+- Epidemiya e'lon qilinganda, bir martalik o'qitish bilan
+- Har chorakda bir marta, faqat nazariy mashg'ulot shaklida
+! Muntazam tayyorgarlik xodimlarning o'ta xavfli holatlarda tez va to'g'ri harakat qilishini ta'minlaydi.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+? Xalqaro tibbiy-sanitariya qoidalari (XTSQ-2005) ni joriy etish chora-tadbirlari qaysi hujjat bilan belgilangan?
++ Vazirlar Mahkamasining 2015-yil 31-iyuldagi 220-son qarori
+- Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+- Sog'liqni saqlash vazirining 2012-yil 25-yanvardagi 25-son buyrug'i
+- SanQvaN № 0034-22 qarori
+- Sog'liqni saqlash vazirining 2023-yil 2-avgustdagi 32-son buyrug'i
+! Xalqaro qoidalarni milliy darajada amalga oshirish hukumat qarori bilan tartibga solingan.
+@ O'zbekiston Respublikasi Vazirlar Mahkamasining 2015-yil 31-iyuldagi 220-son qarori
+? Sog'liqni saqlash vazirining 2023-yil 2-avgustdagi 32-son buyrug'i nimani kuchini yo'qotgan deb topdi?
++ Davlat chegarasidan o'tish punktlarida tibbiy nazorat to'g'risidagi eski nizomni (1999–2000)
+- Zoonoz O'XYuK profilaktikasi yo'riqnomalarini tasdiqlagan 2015-yildagi 37-son buyruqni
+- Vabo ustidan epidemiologik nazorat bo'yicha 2012-yildagi 25-son buyruqni va uning ilovalarini
+- XTSQ-2005 ni joriy etish bo'yicha 2015-yildagi 220-son hukumat qarorini va uning ilovalarini
+- Tibbiyot xodimlarini O'XYuK bo'yicha o'qitish dasturini tasdiqlagan 2012-yildagi 310-son buyruqni
+! Eski nizomga tayanish xato, chunki chegaradagi tartib endi boshqa hujjatlar bilan belgilanadi.
+@ O'zbekiston Respublikasi SSV 2023-yil 2-avgustdagi 32-son buyrug'i
+? Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i qaysi kasalliklar profilaktikasi yo'riqnomalarini tasdiqlagan?
++ Quturish, kuydirgi, brutsellyoz, Qrim-Kongo gemorragik isitmasi va oqsim
+- Vabo, o'lat, sariq isitma, chin chechak va bezgak kabi karantin infeksiyalari
+- Gripp, OO'RS, poliomielit, qizamiq va difteriya kabi havo-tomchi infeksiyalari
+- Ku isitmasi, tulyaremiya, leptospiroz, salmonellyoz va qoqshol kabi boshqa zoonozlar
+- Gepatit B, OITS, sil, sifilis va gonoreya kabi qon va jinsiy yo'l infeksiyalari
+! Buyruq zoonoz o'ta xavfli kasalliklarga qaratilgan bo'lib, avvalgi bir qator buyruqlar o'rnini olgan.
+@ O'zbekiston Respublikasi SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? Sog'liqni saqlash vazirining 2012-yil 25-yanvardagi 25-son buyrug'i qaysi kasallik ustidan epidemiologik nazoratni takomillashtirishga qaratilgan?
++ Vabo
+- O'lat
+- Kuydirgi
+- Bezgak
+- Quturish
+! Buyruq nomi aynan fekal-oral yo'l bilan tarqaluvchi bu o'ta xavfli infeksiyaga bag'ishlangan.
+@ O'zbekiston Respublikasi SSV 2012-yil 25-yanvardagi 25-son buyrug'i (vabo)
+? Sog'liqni saqlash vazirining 2016-yil 16-maydagi 226-son buyrug'i qaysi masalani tartibga soladi?
++ Qrim-Kongo gemorragik isitmasi bemorlarini davolash tizimini takomillashtirishni
+- Chin chechakka qarshi aholini ommaviy emlash tartibi va uning muddatlarini
+- Sariq isitmaga qarshi sayyohlarni emlash tartibi va uning muddatlarini
+- Quturishga qarshi AIG zaxirasi hajmini va uni omborlarda saqlash tartibini
+- Kuydirgiga qarshi hayvonlarni emlash va jasadlarni yoqish tartibini
+! Buyruqda bemorlarni davolashda immunlangan donor plazmasidan foydalanish ko'zda tutilgan.
+@ O'zbekiston Respublikasi SSV 2016-yil 16-maydagi 226-son buyrug'i
+? Sog'liqni saqlash vazirining 2012-yil 29-oktyabrdagi 310-son buyrug'i qaysi tadbirga bag'ishlangan?
++ Tibbiyot xodimlarini O'XYuK profilaktikasi bo'yicha o'qitish dasturiga
+- Chegara punktlarida sanitariya nazoratini o'tkazish tartibiga
+- Vabo bemorlarini davolash standartiga va dori dozalariga
+- O'lat profilaktika markazi tuzilmasiga va uning xodimlar sonliga
+- Dezinfeksiya vositalari sarfi normalariga va ularning narxlariga
+! Hujjat tayyorgarlik va muvofiqlashtirish darajasidagi hujjatlar qatoriga kiradi.
+@ O'zbekiston Respublikasi SSV 2012-yil 29-oktyabrdagi 310-son buyrug'i
+? Mazkur materialdagi 2026-yil 7-avgustdagi 17-son buyruqqa ko'ra xavfli yuqumli kasalliklar tarqalish xavfi bo'lganda aholini profilaktik emlash qanday joriy etiladi?
++ Bosh davlat sanitariya vrachining qarori bilan
+- Hokimning farmoyishi bilan
+- Vazirlar Mahkamasining farmoni bilan
+- Shifokorning individual tayinlovi bilan
+- Respublika o'lat profilaktika markazi rahbarining buyrug'i bilan
+! Qarorda kasallik, asos, hudud, emlanadigan guruh, vaksina turi va muddat aniq ko'rsatiladi.
+@ Mavzu materiali (119.docx)
+#D 119 / 8: 25-son buyruq sarlavhasida ikkita sana («25.01» va «05.01») ko'rsatilgan, rasmiy sana tasdiqlanmagan.
+#U 119 / 12: 2026-yil 7-avgustdagi 17-son buyruq mazmuni faqat mavzu materialiga tayanadi, tashqi manba bilan tasdiqlanmagan.

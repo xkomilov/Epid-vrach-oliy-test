@@ -1,0 +1,98 @@
+=== 088
+? Ko'kyo'tal qo'zg'atuvchisi havo-tomchi yo'li bilan qanday sharoitda yuqadi?
++ Manba bilan juda yaqin aloqada, ya'ni bitta xonada bo'lganda
+- Bemordan 5–8 m masofada ham, hatto boshqa xonada turganda
+- Kanalizatsiya suvi bilan ifloslangan idish-tovoq orqali
+- Qon so'ruvchi hasharotlar chaqishi orqali, ayniqsa yozda
+- Bemor ishlatgan kiyim-kechak va o'yinchoqlardan, bir necha hafta saqlanib
+! Qo'zg'atuvchi tashqi muhitda chidamsiz bo'lgani uchun yuqish uchun manbaga yaqin joylashish talab etiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'kyo'talda bemor qaysi davrda atrofdagilar uchun eng xavfli hisoblanadi?
++ Kataral davrda
+- Spazmatik davrning ikkinchi oyida
+- Tuzalish davrining oxirida
+- Yashirin davrning birinchi kunlarida
+- Xuruj davri tugagandan keyin bir yil o'tgach
+! Bu davrda tashxis hali qo'yilmagan bo'ladi va bemor atrofdagilar bilan muloqotni to'xtatmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'kyo'tal bemori bilan muloqotda bo'lgan 7 yoshgacha bolalar uchun qanday muddatli karantin ko'zda tutilgan?
++ 14 kunlik
+- 7 kunlik, ya'ni bir haftalik
+- 21 kunlik, qizamiq o'choqlaridagi kabi
+- 28 kunlik, yuqumlilik muddatiga teng
+- 3 kunlik, laboratoriya natijasi chiqquncha
+! Muddat qo'zg'atuvchi yuqqan bolada kasallik belgilari paydo bo'lishi mumkin bo'lgan davrni qamrab oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'kyo'tal o'chog'ida tibbiy kuzatuv va bakteriologik tekshiruv majburiy bo'lgan shaxslar qaysi javobda to'g'ri ko'rsatilgan?
++ Aloqada bo'lgan 7 yoshgacha bolalar, tug'ruqxona, bolalar kasalxonasi, sanatoriy xodimlari va tarbiyachilar
+- Aloqada bo'lgan 14 yoshgacha o'quvchilar, shuningdek maktab o'qituvchilari va oshxona xodimlari
+- Aloqada bo'lgan barcha kattalar, ayniqsa homilador ayollar, keksalar va surunkali kasalligi bor shaxslar
+- Faqat bemorning oila a'zolari, boshqa muassasa xodimlari esa kuzatilmaydi
+- Aloqada bo'lgan 7 yoshdan 18 yoshgacha o'smirlar, ularning ota-onalari esa tekshirilmaydi
+! Bu shaxslar kasallikka moyil bolalar bilan to'g'ridan-to'g'ri muloqot qilgani uchun yuqish zanjirida muhim bo'g'in bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'kyo'talda bakteriologik tasdiq necha foizdan oshmaydi va nima uchun?
++ 20–30% dan; mikroorganizm oziq muhitida sekin o'sadi
+- 90–95% dan; mikroorganizm oziq muhitida juda tez o'sadi, ammo antibiotikdan keyin yo'qoladi
+- 60–70% dan; namuna olish usuli noto'g'ri bo'lgani uchun
+- 5–10% dan; bemorlarning ko'pchiligida bakteriya burun-halqumda bo'lmaydi
+- 50% dan; qo'zg'atuvchi faqat qonda bo'ladi
+! Talabchan va sekin o'sadigan bakteriya koloniyalari 72–144 soatda paydo bo'ladi, shuning uchun tasdiq ulushi past qoladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 1-ilova
+? Muloqotda bo'lganidan qat'i nazar, qancha vaqt va undan uzoq yo'talayotgan bolalar diagnostik maqsadda tekshiriladi?
++ 5–7 kun va undan uzoq
+- 1–2 kun va undan uzoq
+- 14–21 kun va undan uzoq
+- 30 kun va undan uzoq
+- Bir yil davomida yo'talgan
+! Davomli yo'tal ko'kyo'talning klinik gumon belgisi bo'lgani uchun laboratoriya tekshiruvi talab etiladi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 1-ilova
+? Ko'kyo'tal o'chog'ida emlanmagan aloqadorlar uchun pentavalent vaksina qaysi oylarda beriladi va AKDS ga qarshi ko'rsatma bo'lsa nima qo'llanadi?
++ 2, 3, 4 oylikda; ADS-M
+- 3, 4, 5 oylikda; BSJ
+- 2, 4, 6 oylikda; KPK
+- 1, 2, 3 oylikda; OPV
+- 6, 9, 12 oylikda; VGB
+! Pentavalent vaksina tarkibida ko'kyo'tal komponenti bor, qarshi ko'rsatma bo'lganda esa u bo'lmagan preparatga o'tiladi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? Ko'kyo'tal diagnostikasida PCR ning qaysi afzalligi bor?
++ Kechki muddatlarda va antibiotik davosidan keyin ham aniqlash imkonini beradi
+- Faqat birinchi kunlarda va antibiotiklarsiz bemorlarda ishlaydi
+- Koloniyalar o'sishini 72–144 soat kutishni talab qiladi
+- Toksinga qarshi antitelalar titrini to'g'ridan-to'g'ri o'lchaydi
+- Qo'zg'atuvchini tirik holda ajratib, antibiotikka sezgirligini aniqlaydi
+! Usul tirik bakteriya o'sishiga bog'liq emas, shuning uchun nuklein kislotani aniqlash orqali natija beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'kyo'talning yashirin davri qancha davom etadi?
++ 3–14 kun, o'rtacha 7–8 kun
+- 1–3 kun, o'rtacha 2 kun
+- 11–22 kun, o'rtacha 17 kun
+- 8–21 kun, o'rtacha 14 kun
+- 2–5 kun, kamdan-kam 10 kungacha
+! Bu muddat qo'zg'atuvchining nafas yo'llarida ko'payib, klinik belgilar paydo bo'lishigacha o'tgan vaqtni bildiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'kyo'talda bakteriya tashuvchilik bemorlar soniga nisbatan qancha foizgacha uchraydi?
++ 10% gacha
+- 50% gacha
+- 30% gacha
+- 90% gacha
+- 1% gacha
+! Tashuvchilar va atipik shakllar manba bo'lishi mumkin, shu sababli aloqadorlar laboratoriya bo'yicha ham tekshiriladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? CDC bo'yicha simptomsiz oiladagi aloqadorlarga ko'kyo'tal postekspozitsion antibiotik profilaktikasi indeks bemorda yo'tal boshlanganidan qancha vaqt ichida beriladi?
++ 21 kun ichida
+- 3 kun ichida
+- 6 kun ichida
+- 60 kun ichida
+- 1 yil ichida
+! Antibiotik o'z vaqtida berilganda ikkilamchi hollar rivojlanishining oldi olinishi mumkin, kechiktirilsa samarasi pasayadi.
+@ CDC. Use antibiotics only when necessary (pertussis PEP)
+? Ko'kyo'tal o'choqlarida laboratoriya tekshiruvi uslubiy ko'rsatmaga muvofiq epidemiologik ko'rsatma bo'yicha qaysi bolalarni qamrab oladi?
++ Yaslilar, bolalar bog'chalari, yopiq bolalar jamoalari, bolalar shifoxonalari va sanatoriylarda davolanayotgan bolalar hamda uyda muloqotda bo'lgan 7 yoshgacha bolalar
+- Maktabning yuqori sinf o'quvchilari, kollej talabalari va ularning ustozlari hamda uyda muloqotda bo'lgan barcha kattalar, ularning emlanganligidan qat'i nazar
+- Shifoxonada yotgan og'ir bemorlar, uydagi aloqadorlar esa tekshirilmaydi
+- Barcha emlangan bolalar, emlanmaganlar esa kuzatuvsiz qoldiriladi
+- Homilador ayollar va yangi tug'ilgan chaqaloqlar, boshqa bolalar esa tekshirilmaydi, ular faqat emlashga yo'naltiriladi
+! Tekshiruv kasallikka eng moyil va jamoalarda to'plangan yosh guruhlariga qaratilgan.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 1-ilova
+#U 088 / 11: Ko'kyo'talda antibiotik profilaktikasi bo'yicha CDC ma'lumoti faqat qidiruv parchasi bo'yicha tasdiqlangan; O'zbekiston me'yoriy hujjatlarida aniq ko'rsatma topilmadi.

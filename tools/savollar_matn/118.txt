@@ -1,0 +1,98 @@
+=== 118
+? Xalqaro tibbiy-sanitariya qoidalarining keyingi tahrirlarida qaysi uchta kasallik karantin infeksiyasi sifatida qoldirilgan?
++ O'lat, vabo va sariq isitma
+- Vabo, chin chechak va toshmali tif
+- O'lat, sariq isitma va qaytalama tif
+- Chin chechak, o'lat va bezgak
+- Vabo, kuydirgi va quturish
+! Chin chechak dunyoda tugatilgani, toshmali va qaytalama tiflar esa nazorat imkoniyatlari o'zgargani sababli ro'yxatdan chiqarilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Chin chechakning dunyoda tugatilgani qaysi yilda Jahon sog'liqni saqlash assambleyasida e'lon qilingan?
++ 1980-yilda
+- 1960-yilda
+- 1969-yilda
+- 1991-yilda
+- 2005-yilda
+! Bu hodisa amaliy epidemiologiyaning eng katta yutug'i sifatida baholanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? XTSQ-2005 qaysi sanadan boshlab kuchga kirgan?
++ 2007-yil 15-iyundan
+- 2005-yil 1-yanvardan
+- 1969-yil 25-iyundan
+- 2012-yil 15-iyundan
+- 1980-yil 1-iyuldan
+! Qoidalar 2005-yilda qabul qilingan, ammo amalga kirishi bir necha yildan keyin bo'lgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Quyidagi kasalliklardan qaysi biri XTSQ-2005 bo'yicha har doim JSST ga xabar berilishi shart bo'lgan kasalliklar qatoriga kiradi?
++ Og'ir o'tkir respirator sindrom (OO'RS)
+- Vabo, qaror sxemasi bo'yicha baholanadigan kasallik sifatida
+- O'pka o'lati, qaror sxemasi bo'yicha baholanadigan kasallik sifatida
+- Sariq isitma, qaror sxemasi bo'yicha baholanadigan kasallik sifatida
+- G'arbiy Nil isitmasi, qaror sxemasi bo'yicha baholanadigan kasallik sifatida
+! Doimo xabar beriladigan to'rt kasallik ro'yxati aniq belgilangan, boshqa kasalliklar esa qaror qabul qilish sxemasi bo'yicha baholanadi.
+@ Xalqaro tibbiy-sanitariya qoidalari (2005), 2-ilova
+? XTSQ-2005 qaysi kasallikka qarshi emlashni nazarda tutadi?
++ Faqat sariq isitmaga
+- Vabo, chin chechak va sariq isitmaga
+- O'lat, vabo va kuydirgiga
+- Poliomielit va qizamiqqa
+- Quturish va qoqsholga
+! Avvalgi qoidalarda uchta kasallikka qarshi emlash nazarda tutilgan bo'lsa, yangi tahrirda ro'yxat qisqartirilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Quyidagi kasalliklardan qaysi biri SanQvaN № 0034-22 qo'llanish doirasida sanalgan?
++ Bezgak
+- Kuydirgi
+- Brutsellyoz
+- Quturish
+- Ku isitmasi
+! Chegara qoidasi chetdan kirib kelishi mumkin bo'lgan kasalliklarga qaratilgan, zoonozlar esa kengroq nizomda ko'rsatiladi.
+@ SanQvaN № 0034-22
+? SanQvaN № 0034-22 bo'yicha yovvoyi poliovirus keltirib chiqargan poliomielit uchun chegara punktlarida kuzatuv muddati necha kun?
++ 21 kun
+- 5 kun
+- 7 kun
+- 10 kun
+- 14 kun
+! Muddat kasallikning o'rtacha yashirin davri bilan bog'liq va poliomielitda boshqa kasalliklarga nisbatan uzoq.
+@ SanQvaN № 0034-22
+? O'lat qaysi xalqaro kasalliklar tasnifi (XKT-10) kodi bilan belgilanadi?
++ A 20
+- A 00
+- A 22
+- A 23
+- A 95
+! Bu kod tasnifda o'lat qo'zg'atuvchisi chaqiradigan kasallik guruhini bildiradi.
+@ WHO. ICD-10
+? Quyidagilardan qaysi biri respublikaga faqat chetdan kirib kelishi mumkin bo'lgan infeksiyalar qatoriga kiradi?
++ Marburg gemorragik isitmasi
+- O'lat, tabiiy o'choqlar mavjud bo'lgani sababli
+- Qrim-Kongo gemorragik isitmasi, tabiiy o'choqli kasallik sifatida
+- Kuydirgi, tuproqdagi sporalar tufayli
+- Quturish, hayvonlar orasida aylanishi tufayli
+! Respublikada bu kasallik uchun tabiiy o'choq ham, mahalliy rezervuar ham mavjud emas.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Vabo qo'zg'atuvchisi qaysi yuqish mexanizmiga ega?
++ Fekal-oral
+- Transmissiv
+- Kontakt-aerogen
+- Vertikal
+- Kontakt
+! Qo'zg'atuvchi bemor ajratmalari bilan tashqi muhitga chiqib, suv va ovqat orqali og'izga tushadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? O'XYuKning umumiy belgilari sifatida Saparov qo'llanmasida qaysi biri ko'rsatilgan?
++ Qo'zg'atuvchilarining biologik qurol sifatida ishlatilish xavfi
+- Yengil kechishi va o'limning pastligi, tez tarqalmasligi
+- Yuqish yo'li yagonaligi va tez tarqalmasligi, tabiiy o'choqlarga ega bo'lmasligi
+- Faqat bolalar orasida uchrashi va katta yoshlilarga yuqmasligi
+- Aholining ko'pchiligida tug'ma immunitet mavjudligi, shuning uchun og'ir kechmasligi
+! Bu belgi kasalliklarni nafaqat tibbiy, balki xavfsizlik nuqtai nazaridan ham alohida nazoratga olishni talab qiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Sanitariya-karantin punkti nima?
++ Chegara-bojxona majmualarida tashkil etiladigan ixtisoslashgan profilaktik muassasa
+- Aholi yashash joylarida ochiladigan umumiy ko'rik xonasi, shifokor qabuli uchun
+- Faqat aeroportlarda ishlaydigan veterinariya laboratoriyasi, hayvon mahsulotlarini tekshirish uchun
+- Hududiy kasalxonaning yuqumli kasalliklar bo'limi, davolash uchun
+- Mahalliy hokimlik huzuridagi favqulodda vaziyatlar shtabi, tabiiy ofatlarda ishlash uchun
+! Punkt chegaradan o'tuvchi shaxslar, transport va yuklarni sanitariya jihatidan ko'rikdan o'tkazish uchun mo'ljallangan.
+@ SanQvaN № 0034-22
+#U 118 / 12: sanitariya-karantin punktining ta'rifi faqat mavzu materialidagi xulosaga tayanadi.

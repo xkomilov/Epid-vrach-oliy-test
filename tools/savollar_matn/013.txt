@@ -1,0 +1,97 @@
+=== 013
+? Qaysi qatorda keltirilgan vaksinalarning barchasi tirik (attenuatlangan) vaksinalar turkumiga kiradi?
++ QPQ, OPV, BSJ va rotavirus vaksinasi
+- IPV, inaktivlangan gripp vaksinasi, A gepatitiga qarshi vaksina va OPV
+- AKDS, ADS-M, rekombinant gepatit B vaksinasi va BSJ vaksinasi
+- Pnevmokokk konyugat vaksinasi, XIB vaksinasi, IPV va QPQ vaksinasi
+- Difteriya anatoksini, qoqshol anatoksini, VPCH va rotavirus vaksinasi
+! Tirik vaksinalar zaiflashtirilgan, ammo ko'payishga qodir qo'zg'atuvchilardan tayyorlanadi. Boshqa qatorlarda inaktivlangan, anatoksinli yoki bo'linma vaksinalar aralashtirilgan.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006); SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Tirik vaksinalar qaysi shaxslarga qarshi ko'rsatma hisoblanadi?
++ Immuntanqis holatdagi shaxslarga va homilador ayollarga
+- Chaqaloqlarga va ikki yoshgacha bo'lgan sog'lom bolalarga, ayniqsa tug'ruqxonada
+- Allergik kasalliklari bo'lmagan sog'lom kattalarga va o'smirlarga
+- Qandli diabet yoki gipertoniya bilan kasallangan keksa yoshdagi shaxslarga
+- Oldin boshqa kalendar vaksinalari bilan emlangan maktab yoshidagi bolalarga
+! Zaiflashtirilgan qo'zg'atuvchi immuniteti susaygan shaxslarda kasallik chaqirishi mumkin. Shu sababli bunday guruhlarga inaktivlangan vaksina tanlanadi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Ko'plab mamlakatlar poliomielit profilaktikasida OPVdan IPVga o'tishining asosiy sababi nima?
++ Zaiflashgan shtammning juda kam hollarda patogen shaklga qaytishi ehtimoli
+- OPVning immunitet hosil qila olmasligi va antitelo titri doimo past bo'lishi
+- IPVning muzlatilganda ham o'z faolligini yo'qotmasligi va arzonligi
+- OPVning faqat in'yeksiya yo'li bilan yuborilishi va og'riqli bo'lishi
+- Poliomielit qo'zg'atuvchisining tashqi muhitda barqaror bo'lmaganligi
+! Tirik OPV shtammi kamdan-kam hollarda virulentligini tiklab, vaksina bilan bog'liq poliomielit chaqirishi mumkin. IPV tarkibida tirik virus bo'lmagani uchun bunday xavf yo'q.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Anatoksinli vaksinalar nimadan tayyorlanadi?
++ Qo'zg'atuvchining zararsizlantirilgan toksinidan
+- Fizik yoki kimyoviy usulda o'ldirilgan butun mikroorganizmlardan
+- Zaiflashtirilgan, lekin ko'payishga qodir tirik qo'zg'atuvchidan
+- Antigen oqsilini kodlovchi genetik ko'rsatma — mRNKdan
+- Qo'zg'atuvchining oqsil yoki polisaxarid antigenidan iborat ayrim qismlaridan
+! Anatoksin kasallikni qo'zg'atuvchining o'zi emas, balki uning toksini keltirib chiqargan holatlar uchun yaratiladi. Difteriya va qoqshol anatoksinlari shunday tayyorlanadi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? mRNK vaksinalarining ta'sir mexanizmi qanday?
++ Hujayralarga antigen oqsilini mustaqil ishlab chiqarish uchun genetik ko'rsatma yetkazadi
+- Zararsiz virus yordamida antigenni kodlovchi DNK bo'lagini yadroga integratsiyalaydi
+- Zaiflashtirilgan butun virusni hujayralarda ko'paytirib, tabiiy infeksiyani taqlid qiladi
+- Zararsizlantirilgan toksinni yuborib, organizmda antitoksik antitelolar hosil qiladi
+- Fizik usulda o'ldirilgan butun virionlarni yuborib, adyuvant yordamida immunitetni qo'zg'atadi
+! mRNK hujayralarga antigen oqsilini ishlab chiqarish uchun ko'rsatma beradi, qo'zg'atuvchining o'zi yuborilmaydi. Boshqa variantlar vektorli, tirik yoki anatoksinli vaksinalarning mexanizmlari.
+@ Pollard A.J., Bijker E.M. A guide to vaccinology (Nat Rev Immunol, 2021); World Health Organization. How are vaccines developed
+? Ikki doza qizamiq (MMR) vaksinasi qizamiqqa qarshi taxminan qancha samaradorlikka ega?
++ Taxminan 97 %
+- Taxminan 100 % (to'liq himoya)
+- Taxminan 85 %
+- Taxminan 50 %
+- Taxminan 70 %
+! Ikki doza vaksinaning samaradorligi yuqori, ammo mutlaq emas. Shu sababli emlash qamrovi yuqori bo'lishi muhim.
+@ Pollard A.J., Bijker E.M. A guide to vaccinology (Nat Rev Immunol, 2021)
+? Nima uchun grippga qarshi vaksina har yili yangilanadi va qayta qilinadi?
++ Virus shtammlari har yili o'zgarib turgani uchun
+- Vaksinadagi adyuvant bir yildan keyin parchalanib ketgani uchun
+- Tirik vaksina ichidagi virus yil davomida sovuqlik zanjirida yo'qolgani uchun
+- Inaktivlangan antigenlar immun xotira hosil qilmasligi sababli
+- Aholining yosh tarkibi har yili o'zgarib borgani sababli
+! Gripp virusi antigen tuzilishini yil sayin o'zgartiradi, shu sababli oldingi yilgi vaksina yangi shtammga yetarli himoya bermaydi. Samaradorlik ham o'zgaruvchan bo'ladi.
+@ Pollard A.J., Bijker E.M. A guide to vaccinology (Nat Rev Immunol, 2021)
+? Real amaliyotda, ro'yxatga olingandan keyingi kuzatuvlarda baholanadigan vaksina samaradorligi qanday ataladi?
++ Effectiveness (real sharoitdagi samaradorlik)
+- Efficacy (klinik sinovlardagi samaradorlik)
+- Immunogenlik (antitelo hosil qilish qobiliyati)
+- Reaktogenlik (mahalliy va umumiy reaksiyalar chastotasi)
+- Seroprotektsiya (himoyalovchi antitelo titriga erishish)
+! Efficacy klinik sinovlarda, effectiveness real sharoitda o'lchanadi, shu sababli natijalar farq qilishi mumkin. Immunogenlik va reaktogenlik samaradorlik emas, boshqa xususiyatlardir.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Milliy sanitariya qoidalariga ko'ra, qaysi vaksinani muzlatish mumkin?
++ OPV (poliomielitga qarshi tirik og'iz vaksinasi)
+- QPQ (qizamiq-parotit-qizilchaga qarshi tirik vaksina)
+- BSJ (silga qarshi tirik vaksina)
+- Rotavirus vaksinasi (og'izga yuboriladigan tirik vaksina)
+- Pentavalent vaksina (difteriya-ko'kyo'tal-qoqshol-gepatit B-XIB)
+! Tirik vaksinalardan faqat OPV muzlatishga chidaydi, qolganlari +2 dan +8 °C gacha saqlanadi. Pentavalent kabi o'ldirilgan va rekombinant vaksinalarni muzlatish taqiqlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? BSJ vaksinasi qanday dozada va qanday yo'l bilan yuboriladi?
++ 0,1 ml (0,05 mg), teri ichiga
+- 0,5 ml, teri ostiga yoki mushak ichiga
+- 0,1 ml, mushak ichiga sonning tashqi yuzasiga
+- 2 tomchi, og'izga yoki burunga tomizib
+- 1,5 ml, og'iz orqali, qorong'i joyda
+! BSJ teri ichiga 0,05 mg yoki 0,1 ml hajmda yuboriladi. Teri ostiga 0,5 ml QPQ, og'izga 2 tomchi OPV, og'izga 1,5 ml rotavirus vaksinasi uchun belgilangan.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Inaktivlangan vaksinalarda immunitet nisbatan kuchsizroq va qisqaroq bo'lgani uchun odatda nima talab etiladi?
++ Bir necha doza va qo'shimcha revaksinatsiya (booster)
+- Bitta doza yetarli bo'lib, qayta emlash umuman talab etilmaydi
+- Vaksinani muzlatilgan holda saqlash va faqat og'iz orqali yuborish
+- Emlashdan oldin organizmda immunosupressiya hosil qilish
+- Vaksinani har safar boshqa vaksina turi bilan almashtirib yuborish
+! Inaktivlangan antigenlar ko'payolmaydi, shu sababli himoyani mustahkamlash uchun takroriy dozalar va booster kerak bo'ladi. Ko'pincha adyuvant ham qo'shiladi.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Qaysi qatorda bo'linma (subyunit) va konyugatlangan vaksinalar keltirilgan?
++ Rekombinant gepatit B, gemofil (XIB) va pnevmokokk konyugat vaksinalari
+- Silga qarshi BSJ, qizamiq-parotit-qizilcha va og'iz poliomielit vaksinalari
+- Inaktivlangan gripp, A gepatiti va inaktivlangan poliomielit vaksinalari
+- Difteriya, qoqshol anatoksinlari va viruslu vektorli vaksinalar
+- Gripp, gepatit B va BSJ vaksinalarining barcha tirik shakllari
+! Bo'linma va konyugat vaksinalar qo'zg'atuvchining faqat ayrim qismlaridan (oqsil yoki polisaxarid) iborat. Boshqa qatorlarda tirik, butun-virionli yoki anatoksinli vaksinalar bor.
+@ Muhamedov I. va b. Mikrobiologiya, immunologiya, virusologiya (2006)

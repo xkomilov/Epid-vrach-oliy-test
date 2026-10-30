@@ -1,0 +1,97 @@
+=== 003
+? Operativ epidemiologik tahlilning asosiy vazifasi nimadan iborat?
++ Kasallanish darajasining o'zgarganini tezda aniqlash va bu o'zgarish sabablarini topish
+- O'tgan o'n yillik tendensiyalarni baholab, kelgusi yil uchun mablag' hajmini belgilash
+- Faqat yillik hisobot shakllarini to'ldirish va ularni yuqori idoraga topshirish
+- Aholining emlanganlik darajasini hisoblab, vaksina zaxirasini bir yillik rejaga moslash
+- Laboratoriyada qo'zg'atuvchi shtammlarini genetik jihatdan tavsiflash
+! Operativ tahlil joriy vaziyatni doimiy kuzatib, avj olishlarni erta ko'rsatadi, chunki undan epidemiyaga qarshi tadbirlar tezkor rejalashtirilishi kerak.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv epidemiologik tahlil odatda qachon o'tkaziladi?
++ Har yili, odatda kalendar yil oxirida, yillik hisobotga mos ravishda
+- Har kuni, kasallanish ko'rsatkichlari kelib tushgan zahotiyoq
+- Har chorakda bir marta, faqat epidemik mavsum boshlanishidan oldin
+- Faqat yangi avj olish aniqlangandan keyin, uning sabablarini topish uchun
+- Har oyning oxirgi haftasida, oylik hisobot topshirilishidan oldin
+! RET o'tgan davr dinamikasini baholagani sababli, yil yakunida to'liq ma'lumotlar jamlangach bajariladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, retrospektiv epidemiologik tahlil nechta izchil bosqichdan iborat?
++ To'rtta
+- Ikkita
+- Uchta
+- Beshta
+- Yettita
+! Bosqichlar: dastur tuzish, materiallarni guruhlash va ko'rgazmali qilish, tavsiflash, so'ng sabab-oqibat bog'lanishlarini aniqlovchi analitik bosqich.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv tahlilda yosh guruhlari odatda qanday ajratiladi?
++ 0–2, 3–6, 7–14, 15–19 va 20 yosh hamda undan kattalar
+- 0–1, 2–5, 6–10, 11–20 va 21 yoshdan oshganlar, ayrim hollarda esa 60 yoshdan kattalar alohida
+- 0–5, 6–10, 11–15, 16–30 va 31 yosh hamda undan kattalar
+- 0–3, 4–7, 8–12, 13–18 va 19 yosh hamda undan kattalar
+- 0–1, 1–3, 4–9, 10–14 va 15 yoshdan oshganlar
+! Bu guruhlar bolalar jamoalariga qatnash davrlariga mos keladi va moyillik farqlarini aniqroq ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokk infeksiyasi va koli-enteritlarda tahlil qilinganda qaysi yosh guruhi alohida ko'rsatilishi maqsadga muvofiq?
++ Bir yoshgacha bolalar
+- Maktab yoshidagi bolalar
+- O'smirlar va yoshlar
+- Maktabgacha yoshdagi (3–6 yosh) bolalar
+- 60 yosh va undan kattalar
+! Bir yoshgacha bolalar bu infeksiyalarga eng moyil guruh bo'lgani uchun alohida ajratiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagi kasalliklardan qaysi birida yakka hodisa bo'yicha ham epidemiologik tekshiruv o'tkaziladi?
++ Vabo
+- Gripp
+- Ichburug'
+- Streptokokkli angina
+- Pedikulyoz
+! Xavfli ekzotik kasalliklarda bitta holat ham jiddiy oqibat keltirishi mumkin, oddiy infeksiyalarda esa yakka hodisa bo'yicha tekshiruv odatda o'tkazilmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv tahlilda aniqlangan avj olishning sababini odatda nima ochishi mumkin?
++ Mahorat bilan o'tkazilgan operativ epidemiologik tahlil
+- Faqat ko'p yillik dinamikaning grafik tasviri
+- Kalendar yil oxiridagi yillik hisobotning jadvallari
+- Aholining demografik tavsifiga doir statistik ma'lumotlar
+- Suv ta'minoti va turar joy sharoitiga doir ma'lumotlar
+! RET avj olish sodir bo'lganini ko'rsatadi, sababni esa kundalik kuzatuv va tekshiruv ma'lumotlari ochadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ tahlilda "etalon" vazifasini nima bajaradi?
++ Shu hudud uchun odatdagi kasallanish ko'rsatkichlari
+- Qo'shni davlatlardagi eng yuqori kasallanish ko'rsatkichlari
+- Oldingi yilning eng yuqori haftalik kasallanish ko'rsatkichi
+- Jahon sog'liqni saqlash tashkiloti belgilagan xalqaro me'yor
+- Mamlakatning o'rtacha kasallanish ko'rsatkichi
+! Avj olish odatdagi darajadan farqlanish orqali aniqlanadi, shuning uchun taqqoslash uchun joyning o'z me'yori kerak.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Ko'p yillik dinamikada tendensiyani aniqlash uchun ko'rsatkichlar ba'zan qanday shaklda beriladi?
++ Ko'rgazmali shaklda, bazis yil 100% deb olinadi
+- Intensiv shaklda, har 100 000 aholiga hisoblanadi
+- Ekstensiv shaklda, kasallanish tarkibi yoshga ko'ra foizlarda
+- Standartlashtirilgan shaklda, jahon aholisi tarkibiga moslab hisoblanadi
+- Mutlaq sonlarda, aholi soni hisobga olinmasdan
+! Bazis yilga nisbatan ifodalash yillar o'rtasidagi o'zgarishni solishtirishni osonlashtiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Jon Snou o'z gipotezasini qanday usul bilan sinab ko'rdi?
++ Suv kompaniyalari ta'minlagan tumanlarda vabo bilan kasallanishni taqqoslab
+- Barcha bemorlarni qo'shni shaharga ko'chirib, ularni alohida kuzatib
+- Quduq suvidan mikrob ajratib, uni laboratoriya hayvonlariga yuqtirib
+- Bemorlarning ovqat ratsionini alohida o'rganib, ulardagi o'zgarishlarni qayd etib
+- Aholini so'rovnoma orqali o'rganib, kasallik haqidagi xabardorlikni baholab
+! Nuqtali xarita gipoteza berdi, tumanlar o'rtasidagi taqqoslash esa uni tekshirib, tavsifiy bosqichdan analitik bosqichga o'tishni ko'rsatdi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 2
+? Analitik epidemiologiya qaysi savollarga javob izlaydi?
++ "Nima uchun" va "qanday" degan savollarga, ya'ni sabab-oqibat bog'lanishlarini aniqlashga
+- "Qachon" va "qayerda" degan savollarga, ya'ni faqat hodisalar chastotasini hisoblashga
+- "Qancha" va "kim" degan savollarga, ya'ni aholi sonini ro'yxatga olishga
+- "Kim tomonidan" va "qaysi tartibda" degan savollarga, ya'ni ma'muriy javobgarlikni belgilashga
+- "Qancha" va "qayerda" degan savollarga, ya'ni tavsifiy ma'lumotlarni jadvalga kiritishga
+! Tavsifiy yondashuv hodisalar taqsimotini, analitik yondashuv esa determinantlarni izlaydi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 1
+? Qaysi holatlarda vaqt dinamikasi asosan kundalik ko'rsatkichlarda tahlil qilinadi?
++ O'tkir, ko'pincha ovqat orqali yuzaga keladigan avj olishlarda
+- Sekin rivojlanuvchi surunkali kasalliklar bo'yicha ko'p yillik kuzatuvda
+- Mavsumiy o'zgarishlar yo'q yuqumli bo'lmagan kasalliklarda
+- Faqat emlash kalendari bo'yicha rejalashtirilgan tadbirlarda
+- Yillik hisobot tayyorlanayotgan kalendar yil oxirida
+! Tez rivojlanadigan avj olishlarda bir necha kunlik kechikish ham choralarni kechiktiradi, shuning uchun ko'rsatkichlar har kuni baholanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

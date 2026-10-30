@@ -1,0 +1,97 @@
+=== 075
+? Darslikka ko'ra, meningokokkli infeksiyaning asosiy shakli qaysi?
++ Bakteriya tashuvchilik
+- Meningit
+- Meningokokkemiya
+- Meningoensefalit
+- Artrit va endokardit
+! Tarqalgan shakllar kamroq uchraydi, tashuvchilik esa epidemik jarayonning hal qiluvchi bo'g'ini.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, qaysi serogruppalar epidemik jihatdan eng xavfli hisoblanadi?
++ A, B va C
+- D, H va I
+- K, L va X
+- Z, D va K
+- H, X va L
+! Boshqa serogruppalar asosan sporadik holatlar beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokk tashuvchilarning taxminan qancha qismi 3–6 oydan keyin meningokokklardan xoli bo'ladi?
++ 70%
+- 5%
+- 20%
+- 40%
+- 98%
+! Qolgan tashuvchilarning ayrimlari esa 6 oydan ko'proq, hatto bir necha yil qo'zg'atuvchi ajratadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokkli infeksiya bilan kasallanish qaysi oylarda ko'tarilib, cho'qqiga chiqadi?
++ Kuzda ko'tarilib, yanvar–mart oylarida cho'qqiga chiqadi
+- Iyun–avgust oylarida ko'tarilib, sentabrda cho'qqiga chiqadi
+- May–iyun oylarida ko'tarilib, iyulda cho'qqiga chiqadi
+- Yil davomida tekis bo'lib, mavsumiy cho'qqi kuzatilmaydi
+- Mart oyida ko'tarilib, aprel–mayda cho'qqiga chiqadi
+! Qish-bahor oldidan kuzatuv va tashuvchilikni tekshirish kuzda boshlanishi shu bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokkli infeksiya o'chog'ida dezinfeksiya nega talab etilmaydi?
++ Qo'zg'atuvchi tashqi muhitda chidamsiz
+- Yuqish mexanizmi fekal-oral bo'lgani uchun ifloslangan buyumlar xavfsiz
+- Qo'zg'atuvchi sporalar hosil qilib, dezinfektantlarga baribir sezgir bo'lmaydi
+- Bemorlar o'chogdan chiqarilmagani sababli buyumlar ifloslanmaydi
+- Qo'zg'atuvchi faqat hayvonlarda uchraydi va odam uchun xavfsiz
+! Mikrob tashqi muhitda tez nobud bo'ladi va yuqish yaqin aloqada havo-tomchi yo'li bilan amalga oshadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda meningokokkka qarshi maxsus profilaktika qanday tashkil etilgan?
++ Rejali emas, faqat epidemik ko'rsatma bo'yicha (A yoki C serogruppali o'choqlar, yotoqxonalar)
+- Milliy kalendarda 2, 3 va 4 oylikda barcha chaqaloqlarga rejali ravishda o'tkaziladi, epidemik ko'rsatma talab etilmaydi
+- 12 oylikda KPK bilan birga barcha bolalarga majburiy ravishda, kalendar bo'yicha yuboriladi
+- 16 yoshda ADS-M-6 bilan birga barcha o'smirlarga yuboriladi
+- Hech qanday holatda o'tkazilmaydi, chunki vaksina mamlakatda ro'yxatdan o'tmagan
+! Kalendarda meningokokk komponenti yo'q, emlash faqat xavf guruhlarida qo'llanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaM № 0239-07/3 (25.07.2017)
+? Darslikka ko'ra, xavfli guruhlar (o'quvchilar va b.) meningokokk tashuvchilikka qaysi oylarda tanlab tekshiriladi?
++ Sentabr va noyabrda ikki marta
+- Mart va aprelda ikki marta
+- Iyun va avgustda ikki marta
+- Yanvar va fevralda ikki marta
+- Faqat mart oyida bir marta
+! Kuzgi tekshirish qish-bahordagi cho'qqidan oldin uzoq tashuvchilarni aniqlashga imkon beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Uslubiy ko'rsatmaga ko'ra, meningokokklar laboratoriyada o'sishi uchun qanday sharoit talab etiladi?
++ Namlik va 5–10% karbonat angidrid
+- Qat'iy anaerob sharoit, ya'ni kislorodsiz muhit
+- Quruq muhit va 21% kislorod, qo'shimcha gazlarsiz
+- Namlik va 50% karbonat angidrid yuqori konsentratsiyada
+- Namlik va 100% azot atmosferasi
+! Mikrob oziq muhitga talabchan bo'lgani sababli ekmalar CO2 li termostatda o'stiriladi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (uslubiy ko'rsatma)
+? Mo'tadil kengliklarda meningokokkli infeksiya bilan kasallanish odatda 100 ming aholiga qancha bo'ladi?
++ 0,01–0,02
+- 1–2 holat
+- 10–20 holat
+- 50–80 holat
+- 100–200 holat
+! Noqulay yillarda ko'rsatkich 8–12 gacha ko'tarilishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi yoshdagi bolalar meningokokkli infeksiya bilan eng ko'p kasallanadi?
++ 1 yoshgacha bolalar
+- 3–6 yoshli maktabgacha bolalar
+- 15–20 yoshli o'smirlar
+- 40–60 yoshli kattalar
+- 60 yoshdan oshgan keksalar
+! Yosh oshgan sari kasallanish pasayadi, tashuvchilik esa aksincha ko'payadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tarqalgan shakllar bilan kasallanish noyabr–dekabrda sentabrga nisbatan qanday o'zgarsa, keyingi yanvar–martda noqulay vaziyat kutiladi?
++ 2–3 marta oshsa
+- 2–3 marta kamaysa
+- O'zgarmay, bir xil darajada qolsa
+- Faqat 10% ga kamaysa
+- Butunlay to'xtasa
+! Kuzdagi o'sish sur'ati qish-bahordagi cho'qqi darajasini oldindan bashorat qilishga imkon beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ma'lumotiga ko'ra, bakterial meningit bilan kasallanganlarning qanchasi vafot etadi?
++ Taxminan 6 tadan 1 tasi
+- Taxminan 50 tadan 1 tasi
+- Taxminan 2 tadan 1 tasi
+- Taxminan 20 tadan 1 tasi
+- Taxminan 100 tadan 1 tasi
+! Omon qolganlarning 5 tadan 1 tasida esa og'ir uzoq muddatli asoratlar qoladi.
+@ WHO. Meningitis (fact sheet)

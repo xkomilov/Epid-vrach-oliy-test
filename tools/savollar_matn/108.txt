@@ -1,0 +1,100 @@
+=== 108
+? Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i nechta yo'riqnomani tasdiqlaydi?
++ 5 ta
+- 2 ta
+- 3 ta
+- 8 ta
+- 12 ta
+! Buyruq o'ta xavfli zooantroponoz kasalliklarning har biri bo'yicha alohida yo'riqnoma ilovasini o'z ichiga oladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? 2015-yil 23-yanvardagi 37-son buyruq yo'riqnomalari qaysi kasalliklarning oldini olish chora-tadbirlarini tartibga soladi?
++ Quturish, kuydirgi, brutsellyoz, QKGI va oqsim
+- Vabo, o'lat, tulyaremiya, sariq isitma va difteriya
+- Quturish, vabo, o'lat, leptospiroz va qoqshol
+- Kuydirgi, brutsellyoz, difteriya, ko'kyo'tal va qizamiq
+- QKGI, Ebola, Marburg, maymun chechagi va sil
+! Bu kasalliklar hayvonlardan odamga yuqadigan zooantroponozlar guruhiga kiradi va ular uchun alohida ilovalar ishlab chiqilgan.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? 2012-yil 25-yanvardagi 25-son buyruq qaysi kasallik ustidan epidemiologik nazoratni takomillashtirishga qaratilgan?
++ Vabo
+- O'lat
+- Kuydirgi
+- Quturish
+- Brutsellyoz
+! Buyruq ilovalarida vaboga gumon qilinganda namuna olish jamlamalari, zaxira va nazorat yo'riqnomasi keltirilgan.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i
+? 2016-yil 16-maydagi 226-son buyruq nimani joriy etish bo'yicha chora-tadbirlar rejasini belgilaydi?
++ QKGI dan tuzalgan fuqarolar qon plazmasini davolash amaliyotiga
+- Kuydirgiga qarshi vaksinani aholini ommaviy emlash amaliyotiga
+- Quturishga qarshi immunoglobulinni travmpunktlarda erkin sotuvga
+- Vaboga qarshi og'iz orqali beriladigan vaksinani chegara punktlariga
+- O'latga qarshi kostyumlarni yagona tipdagi standartga o'tkazishni
+! Tuzalganlar qonidagi antitelalar yangi bemorlarni davolash va xavf guruhlarini himoya qilishda foydalanilishi mumkin.
+@ O'zR SSV 2016-yil 16-maydagi 226-son buyrug'i
+? 2015-yil 1-maydagi 177-son buyruq qaysi sohani tartibga soladi?
++ Bakteriologik, virusologik va O'XYuK laboratoriyalarida o'tkaziladigan tekshiruv usullarini
+- Tibbiyot xodimlarini o'ta xavfli kasalliklar bo'yicha o'qitish va sertifikatlash dasturini
+- Respublika o'lat profilaktika markazining tuzilmasi va nizomini
+- Davlat chegarasida sanitariya-karantin nazoratini tashkil etishni
+- Aholini epidemiologik ko'rsatma bo'yicha emlash kalendarini
+! Buyruq ilovalarida tif-paratif, o'tkir ichak infeksiyalari, vabo, kuydirgi va brutsellyoz bo'yicha uslubiy ko'rsatmalar berilgan.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'i
+? 2021-yil 5-fevraldagi 20-son buyruqqa 6-ilovada qaysi tuzilma to'g'risida nizom berilgan?
++ O'ta xavfli yuqumli kasalliklar bo'limi
+- O'ta xavfli yuqumli kasalliklar laboratoriyasi
+- Respublika o'lat profilaktika markazi
+- Sanitariya-karantin punkti
+- Tibbiyot xodimlarini qayta tayyorlash markazi
+! Bu bo'lim karantin va O'XYuKning hududga kirib kelishi hamda tabiiy o'choqlardan kelib chiqishining oldini olish tadbirlarini muvofiqlashtiradi.
+@ Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmatining 2021-yil 5-fevraldagi 20-son buyrug'iga 6-ilova
+? 2023-yil 11-iyuldagi 32-son buyruqning 20 va 21-ilovalarida qaysi tashkilot tuzilmasi va nizomi keltirilgan?
++ Respublika o'lat profilaktika markazi
+- Respublika vabo va brutsellyoz markazi
+- Respublika quturishga qarshi kurash markazi
+- Respublika kuydirgi laboratoriyasi
+- Respublika karantin xizmati boshqarmasi
+! Markaz va uning filiallari o'latga qarshi muassasalar maqomiga ega bo'lib, o'lat va tulyaremiya bo'yicha barqarorlikni ta'minlaydi.
+@ Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'i
+? 2012-yil 29-oktyabrdagi 310-son buyruqning 1-ilovasi nimani o'z ichiga oladi?
++ Vrach va o'rta tibbiyot xodimlarini O'XYuK profilaktikasi bo'yicha o'qitish dasturini
+- Vaboga gumon qilingan bemor uchun namuna olish jamlamalari ro'yxati hamda shoshilinch profilaktika jamlamalarini
+- Quturishga qarshi preparatlar zaxirasining minimal me'yorlarini
+- Dezinfeksiya vositalari sarfi jadvalini
+- Brutsellyoz bo'yicha laboratoriya tekshiruvi uslubiy ko'rsatmasini
+! Buyruq tibbiyot xodimlarining bilim va tayyorgarligini oshirishga qaratilgan bo'lib, o'quv dasturi ilovada keltirilgan.
+@ O'zR SSV 2012-yil 29-oktyabrdagi 310-son buyrug'i
+? 37-son buyruqqa ko'ra, travmatologiya va xirurgiya bo'limlari bosh jarrohi yoki bosh travmatologiga qaysi vazifa yuklanadi?
++ Vrach-rabiolog vazifasi
+- Vrach-epidemiolog vazifasi
+- Vrach-parazitolog vazifasi
+- Vrach-bakteriolog vazifasi
+- Vrach-dezinfektolog vazifasi
+! Hayvonlardan jarohat olganlar avval aynan shu bo'limlarga murojaat qilgani uchun antirabik yordamni tashkil etish ularga topshirilgan.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? 226-son buyruqqa ko'ra, qaysi oyda har yili oxirgi 5 yilda QKGI bilan kasallanib tuzalganlar ro'yxati shakllantiriladi?
++ Mart oyida
+- Yanvar oyida
+- Iyun oyida
+- Sentabr oyida
+- Dekabr oyida
+! Ro'yxat kana faolligi mavsumi boshlanishidan oldin tayyor bo'lishi uchun bahor boshida shakllantiriladi.
+@ O'zR SSV 2016-yil 16-maydagi 226-son buyrug'i
+? Zoonoz kasalliklar bo'yicha o'quv mashg'ulotlari 37-son buyruqqa ko'ra yilning qaysi choragida o'tkaziladi?
++ I chorakda
+- II chorakda
+- III chorakda
+- IV chorakda
+- Har chorakda
+! Mashg'ulotlar yozgi epizootik va epidemik mavsum boshlanishidan oldin o'tkaziladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'i
+? 25-son buyruqning 5-ilovasida qaysi masala belgilangan?
++ Karantin va O'XYuKga gumon qilingan bemor aniqlanganda tashxis uchun maslahat guruhi tarkibi
+- Infeksion kasalxonalar uchun dezinfeksiya vositalarining kamaymas zaxirasi
+- Epid guruhlar uchun maxsus himoya kiyimlarining kamaymas zaxirasi va uni saqlash tartibi
+- O'tkir diareya kasalliklariga chalinganlarni vaboga tekshirish ko'rsatmalari
+- Dori-darmon zaxirasi ro'yxati, jumladan regidratatsiya eritmalari
+! Gumon holatida tashxis va tadbirlarni tez muvofiqlashtirish uchun mutaxassislardan iborat guruh oldindan belgilanadi.
+@ O'zR SSV 2012-yil 25-yanvardagi 25-son buyrug'i
+#U 108 / 3: 25-son buyruq sanasi sarlavhada ikki xil ko'rsatilgan (25.01 va 05.01), rasmiy sanasi tasdiqlanmagan.
+#U 108 / 8: 310-son buyruq nusxasi skaner OCR bo'lib, qisman o'qilgan, mazmuni faqat mavzu materialiga tayangan.
+#U 108 / 12: 25-son buyruq ilovalari raqamlari faqat mavzu materialiga tayangan, rasmiy matn bilan taqqoslanmagan.

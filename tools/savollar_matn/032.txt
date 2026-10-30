@@ -1,0 +1,97 @@
+=== 032
+? Ko'pchilik vaksinalar uchun standart saqlash harorati oralig'i qanday?
++ +2 °C dan +8 °C gacha
+- 0 °C dan +4 °C gacha
+- +8 °C dan +15 °C gacha
+- -15 °C dan -25 °C gacha
+- +15 °C dan +25 °C gacha
+! Bu oraliq ko'pchilik vaksinalar faolligini saqlaydi; undan past haroratda muzlash, yuqorisida esa faollik yo'qolishi xavfi bor.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Ba'zi mRNK vaksinalar qaysi haroratda saqlanishi talab etiladi?
++ -60 °C dan -80 °C gacha
+- -5 °C dan -10 °C gacha
+- +2 °C dan +8 °C gacha
+- -15 °C dan -25 °C gacha
+- +8 °C dan +15 °C gacha
+! mRNK molekulasi beqaror bo'lgani uchun bunday vaksinalar ultra-sovutuvchi jihozlar yoki quruq muzda saqlanadi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Nima uchun adsorbsiyalangan vaksinalar (AKDS, gepatit B, pentavalent) uchun muzlash yuqori haroratdan ko'ra xavfliroq hisoblanadi?
++ Muzlagan vaksina tashqi ko'rinishidan yaroqli ko'rinsa-da, samaradorligini butunlay yo'qotgan bo'ladi
+- Muzlash vaksinadagi adsorbent moddani butunlay bug'lantiradi, shu sababli flakon darhol ochiq qoladi
+- Flakon rangi o'zgarishi bilan darhol bilinadigan yorug'lik zarari yuz bergani uchun xavfliroq
+- Muzlagan vaksina eriganda faolligi oshadi, shu sababli yuborilgan doza me'yordan ortiq ta'sir qiladi
+- Tirik vaksinalarga zarar yetkazgani uchun, adsorbsiyalangan vaksinalar esa bunday ta'sirdan butunlay himoyalangan
+! Adsorbent tuzilmasi muzlashda buziladi, ammo bu tashqaridan sezilmaydi, shuning uchun himoya hosil bo'lmaydi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Muzlash gumon qilingan adsorbsiyalangan vaksinani tekshirish uchun qaysi sinov qo'llaniladi?
++ Chayqatish sinovi (shake test)
+- Azopiram sinamasi
+- Fenolftalein sinamasi
+- Biologik indikator sporalari bilan sinov
+- Kimyoviy indikator rangini taqqoslash sinovi
+! Muzlab erigan vaksinada cho'kma hosil bo'ladi, bu uni yaroqsiz deb baholash uchun asos bo'ladi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? SanQvaM № 0239-07/3 asosida keltirilgan saqlash shartlariga ko'ra, qaysi vaksinani muzlatish mumkin?
++ OPV (og'iz orqali beriladigan poliomielit vaksinasi)
+- QPQ (qizamiq-parotit-qizilcha tirik vaksinasi, liofilizat)
+- BSJ (sil vaksinasi)
+- Rotavirus vaksinasi
+- Gepatit B ga qarshi rekombinant adsorbsiyalangan vaksina
+! OPV muzlatishga chidamli, qolgan vaksinalar va eritgichlar esa +2 °C dan +8 °C gacha saqlanadi va muzlatilmaydi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Tashishdan oldin muz akkumulyatorlarini konditsiyalash nimani anglatadi?
++ Ularni muzdan chiqarib, sirtida kondensat paydo bo'lguncha ushlab turish, shunda vaksina muzlab qolmaydi
+- Ularni tashish oldidan chuqur muzlatgichda yana bir sutka davomida to'liq muzlatib qo'yish
+- Ularni qaynoq suvga solib, ichidagi muzni to'liq eritib yuborib, so'ng vaksina yoniga joylashtirish
+- Ularni vaksinalar bilan to'g'ridan-to'g'ri aloqada bo'lishi uchun flakonlarning ustiga zich yopishtirish
+- Ularni sumkaga solishdan oldin quruq muz bilan aralashtirib, harorat -80 °C gacha tushirish
+! Kondensat paydo bo'lishi akkumulyator sirti 0 °C dan yuqori ekanini ko'rsatadi va muzlashga sezgir vaksinani muzlatmaydi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? VVM (vaccine vial monitor) nimani ko'rsatadi?
++ Vaksina flakoni issiqlikka qancha vaqt ta'sirlanganini
+- Flakondagi vaksinaning yaroqlilik muddati tugaydigan aniq sanani
+- Muzlatgich ichidagi haroratning kunlik o'zgarish grafigini
+- Vaksina flakonida muzlash sodir bo'lgan yoki bo'lmaganini
+- Emlash seansida ochilgan flakondan nechta doza ishlatilganini
+! VVM flakonga joylashtirilgan indikator bo'lib, jamlangan issiqlik ta'sirini rang o'zgarishi bilan ko'rsatadi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Muzlatgichdagi haroratni o'lchash va jurnalda qayd etish qanday chastotada o'tkaziladi?
++ Kuniga kamida ikki marta
+- Haftada kamida bir marta
+- Oyiga kamida bir marta
+- Faqat vaksina qabul qilingan kunda
+- Elektr ta'minoti uzilgandan keyingina
+! Doimiy kuzatuv harorat buzilishini o'z vaqtida aniqlash va vaksinani saqlab qolish imkonini beradi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Nima uchun vaksinalarni muzlatgich eshigidagi javonlarda saqlash tavsiya etilmaydi?
++ Eshik tez-tez ochilgani uchun u yerda harorat beqaror bo'ladi
+- Eshikdagi javonlarda harorat doimo 0 °C dan past bo'lib, vaksinalar muzlab qoladi
+- Eshik javonlari kichik bo'lgani uchun faqat tirik vaksinalar sig'adi, boshqalari esa sig'maydi
+- Eshikdagi vaksinalar ko'rinmaydi va ularning yaroqlilik muddatini nazorat qilib bo'lmaydi
+- Eshik javonida quruq muz ishlatilgani sababli vaksinalar karbonat angidrid bilan zaharlanadi
+! Vaksinalar harorati barqaror bo'lgan ichki javonlarda, devorlarga tegizilmay va havo aylanishi ta'minlangan holda joylashtiriladi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Sovuqlik zanjirining mohiyati nimada?
++ Vaksinalarni ishlab chiqaruvchidan emlanuvchigacha barcha bosqichlarda tavsiya etilgan harorat oralig'ida uzluksiz saqlash va tashish
+- Vaksinalarni faqat markaziy ombordagi muzlatgichlarda -20 °C haroratda saqlashga qaratilgan bir martalik tadbir
+- Emlash qamrovini hududlar va yosh guruhlari bo'yicha hisobga olish va hisobotlarni muntazam yuritish tizimi
+- Emlashdan keyingi noxush hodisalarni aniqlash, qayd etish va tekshirish bo'yicha yagona tizim
+- Vaksinaning yaroqlilik muddati tugamasdan avval uni zaxira sifatida boshqa hududga o'tkazish tartibi, shuningdek ortiqcha qoldiqlarni hisobdan chiqarish qoidalari
+! Biror bo'g'inda harorat buzilsa, butun zanjir buzilgan hisoblanadi, shuning uchun uzluksizlik talab etiladi.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? Sovuqlik zanjiri buzilgan vaksina bilan emlash qanday epidemiologik xavf tug'diradi?
++ Shaxs himoyalanmagan bo'lsa-da rasman emlangan hisoblanib, aholining haqiqiy immun qatlami pasayadi
+- Emlangan shaxs kasallikning og'irroq shaklini yuqtiradi, chunki vaksina qo'zg'atuvchini faollashtiradi
+- Emlash qamrovi hisobotlarda kamayadi, shu sababli hudud jamoaviy immunitet ko'rsatkichidan chiqarib tashlanadi
+- Vaksina qo'zg'atuvchisi atrofdagilarga yuqib, emlanmagan shaxslarda vaksina bilan bog'liq kasallik keltirib chiqaradi
+- Faqat iqtisodiy yo'qotish yuz beradi, epidemiologik oqibatlar esa umuman kuzatilmaydi
+! Bunday emlash himoya hosil qilmaydi, ammo qamrov hisobotida aks etadi va boshqariladigan kasalliklar avj olishiga sabab bo'lishi mumkin.
+@ WHO. Immunization in practice; Safe vaccine handling, cold chain and immunizations
+? SanQvaM № 0239-07/3 asosida keltirilgan ma'lumotga ko'ra, qaysi vaksinalar yorug'likka ayniqsa sezgir bo'lib, muzlatgichning qorong'i joyida saqlanadi?
++ Tirik vaksinalar, ayniqsa BSJ va QPQ
+- Adsorbsiyalangan vaksinalarning hammasi, ayniqsa AKDS va gepatit B
+- Faqat OPV, chunki u muzlatilgani uchun yorug'lik ta'siri kuchayadi
+- O'ldirilgan vaksinalar, ayniqsa IPV va ADS-M
+- Anatoksinli vaksinalar, ayniqsa qoqsholga qarshi va difteriyaga qarshi anatoksinlar
+! Yorug'lik tirik vaksinalar faolligini pasaytiradi, shuning uchun ular qorong'i joyda saqlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"

@@ -1,0 +1,98 @@
+=== 127
+? Gemorragik isitma o'chog'ida birlamchi chora-tadbirlar qachon boshlanadi?
++ Kasallikka gumon paydo bo'lishi bilanoq, yakuniy tashxis kutilmasdan
+- Laboratoriyada virus ajratilib tashxis tasdiqlangandan keyin, rasmiy buyruq asosida va hududiy komissiya qarori bilan
+- Bemor kasalxonaga yotqizilib, birinchi PZR natijasi ijobiy chiqqanidan so'ng
+- Hududiy markaz mutaxassislari o'choqqa kelib, epidemiologik surishtiruvni yakunlagach
+- Aloqadorlar ro'yxati tuzilib, ular ustidan kuzatuv muddati tugagandan keyin
+! Kechikish bemor va xodimlar o'rtasida ikkilamchi kasallanish xavfini oshiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Parvarishda ishlovchi xodimlar I tur himoya vositalarida nechta juft rezina qo'lqopni ustma-ust kiyadi?
++ Ikki juft
+- Bir juft
+- Uch juft
+- To'rt juft
+- Besh juft
+! Qon bilan ifloslangan qo'lqopning ustki jufti almashtirilganda ham qo'l himoyalangan bo'lib qoladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Qon, qon ajralmalari yoki kanalar bilan kontaktda bo'lganlarga imkon qadar birinchi kuni nima yuboriladi?
++ Ilgari QKGI bilan kasallanib tuzalganlarning qon zardobi (plazmasi)
+- Kuydirgiga qarshi odam immunoglobulini va keng ta'sirli antibiotik
+- Tirik quritilgan EV vaksinasi
+- Normal odam immunoglobulini (gamma-globulin) donorlarning umumiy plazmasi bilan birga
+- Brutsellyozga qarshi tirik vaksina
+! Erta yuborilganda samara yuqori bo'ladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova; O'zR SSV 2016-yil 16-maydagi 226-son buyrug'i
+? JSST ma'lumotiga ko'ra, QKGI tashxisi qaysi usullar bilan qo'yiladi?
++ ELISA, antigenni aniqlash, RT-PCR va virus ajratish
+- Rayt va Xeddelson agglyutinatsiyasi hamda IFT
+- Bakteriologik ekish, Gram usulida bo'yash va mikroskopiya
+- Teri-allergik sinamalar va Mantu sinamasi
+- Vidal reaksiyasi va gemokultura ekish
+! Namunalar yuqori biologik xavfsizlik sharoitida tekshiriladi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? Tibbiyot xodimi MShHV kiyishdan oldin shilliq qavatlarni kaliy permanganatning kuchsiz eritmasi bilan qaysi infeksiyalarda ishlaydi?
++ Virusli gemorragik isitmalar va maymun chechagida
+- O'lat va vabo, shuningdek tulyaremiya va kuydirgida
+- Kuydirgi, brutsellyoz va boshqa bakterial zoonozlarda
+- Tulyaremiya va leptospiroz
+- Difteriya va qizilcha
+! Bakterial infeksiyalarda boshqa vositalar qo'llanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Ko'rpa-to'shaklar kamerali usuldan tashqari qanday zararsizlantirilishi mumkin?
++ 3–5% li xloramin yoki 6% li vodorod peroksid sepilib, bir necha soatga qopga solinadi, so'ngra quyoshda quritiladi
+- 1% li xloramin eritmasida 10 daqiqa ushlanib, so'ngra soyada quritiladi va yuvilmasdan foydalaniladi, ikki hafta saqlanadi
+- 70° li etil spirti sepilib, ochiq havoda bir soat shamollatiladi
+- Oddiy sovunli suvda yuvilib, dazmollanadi va xonada saqlanadi
+- 0,5% li kaliy permanganat eritmasiga solinib, bir sutka qoldiriladi
+! Dezinfeksiyalovchi modda bilan yetarli ekspozitsiya va quyoshda quritish birgalikda kerak.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? QKGI bilan kasallangan bemorlarni davolash tizimini takomillashtirish haqidagi buyruq qaysi?
++ Sog'liqni saqlash vazirining 2016-yil 16-maydagi 226-son buyrug'i
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i
+- Sog'liqni saqlash vazirligining 2012-yil 29-oktyabrdagi 310-son buyrug'i
+- Sog'liqni saqlash vazirligining 2012-yil 25-yanvardagi 25-son buyrug'i
+- Sog'liqni saqlash vazirining 2023-yil 2-avgustdagi 32-son buyrug'i
+! Buyruq bilan plazma qo'llash usuli rasman joriy etilgan.
+@ O'zR SSV 2016-yil 16-maydagi 226-son buyrug'i
+? Cheklovchi tadbirlarga ko'ra, kimlar mol boqish va dala ishlariga jalb qilinmaydi?
++ Bolalar va o'smirlar
+- Pensiya yoshidagi cho'ponlar
+- Veterinariya xodimlari
+- Faqat ayollar va keksalar
+- 18 yoshdan 25 yoshgacha yoshlar
+! Bu guruhlar kana bilan kontaktda xavf ostida va ish bilan ta'minlanmaydi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Prezentatsiya tahliliga ko'ra, davolash-profilaktika muassasalarida QKGI bo'yicha birlamchi tashxis holatlarning qancha qismida xato qo'yilgan?
++ 70% dan ortig'ida
+- 10% ga yaqin qismida
+- 25% atrofida
+- 40% atrofida
+- 95% dan ortig'ida
+! Gumon qilinganlarda kana chaqishidan keyingi holat va boshqa kasalliklar aralashtirilgan.
+@ Mavzu materiali (127.docx)
+? Bemor aniqlangan muassasada tibbiyot xodimi birinchi navbatda kimga xabar beradi?
++ Bosh vrachga (o'rinbosariga)
+- Viloyat hokimiga
+- Ichki ishlar organlariga
+- Veterinariya xizmati boshlig'iga
+- Sog'liqni saqlash vazirining o'rinbosariga
+! Bosh vrach MShHV, namuna olish jamlamalari va dezinfeksiya vositalarini ta'minlaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Qon bilan ifloslangan ichki kiyimlar qanday zararsizlantiriladi?
++ 1% li xloramin eritmasida zararsizlantirilib, so'ngra qaynatiladi
+- 3% li xlorli ohak eritmasida 10 daqiqa ushlanib, faqat yuviladi
+- Kamerali usulda 6% li vodorod peroksid bilan ishlov berilib, quritiladi
+- Quyoshda quritilib, so'ngra dazmollanadi
+- 70° li spirt sepilib, ikki kun shamollatiladi
+! Qaynatish dezinfeksiyani to'ldiradi va qon izlarini ham yo'qotadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+? Epidemiologik surishtiruvda zarurat bo'lsa, epidemiolog qaysi mutaxassislarni jalb etadi?
++ Entomolog va veterinar
+- Gigiyenist va toksikolog
+- Parazitolog va dermatolog
+- Psixolog va sotsiolog
+- Gidrogeolog va ekolog
+! Manba hayvonlar va vektor kanalar bo'lgani uchun tegishli soha mutaxassislari talab etiladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova
+#U 127 / 9: 70% dan ortiq xato tashxis haqidagi raqam faqat mavzu materialidagi prezentatsiyaga tayanadi (muallif va sana ko'rsatilmagan), tashqi manba bilan tasdiqlanmagan.

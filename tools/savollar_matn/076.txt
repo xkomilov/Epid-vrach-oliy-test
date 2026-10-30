@@ -1,0 +1,101 @@
+=== 076
+? Darslikka ko'ra, qizamiq bemorining yuqumlilik davri umumiy qancha kunni tashkil etadi?
++ 8–10 kun
+- 2–3 kun
+- 14–21 kun
+- 25–30 kun
+- 1–2 kun
+! U yashirin davrning oxirgi 2 kuni, kataral davrning 3–4 kuni va toshma davrining 3–4 kunini o'z ichiga oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq o'chog'ida bemor bilan muloqotda bo'lgan, avval emlanmagan va kasallanmagan shaxslar qaysi yosh oralig'ida emlanadi?
++ 6 oylikdan 30 yoshgacha
+- 12 oylikdan 18 yoshgacha
+- 2 oylikdan 50 yoshgacha
+- 1 yoshdan 15 yoshgacha
+- 3 yoshdan 40 yoshgacha
+! Qizamiqda kattalar ham yuqori xavf guruhida, shu sababli yosh chegarasi keng belgilangan.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Qizamiqning yashirin davri qancha?
++ 8–21 kun
+- 2–5 kun
+- 11–25 kun
+- 1–3 kun
+- 30–45 kun
+! Aloqadorlarni kuzatish muddati yashirin davrning eng uzun chegarasiga moslashtiriladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Uslubiy ko'rsatmaga ko'ra, IgM aniqlash uchun qon toshma paydo bo'lgandan keyin qaysi muddatda olinadi?
++ 4–28 kun oralig'ida
+- 1–3 kun oralig'ida
+- 30–45 kun oralig'ida
+- 3–6 oy oralig'ida
+- Toshma boshlanishidan 2–7 kun oldin
+! Juda erta olingan qonda IgM hali yetarli bo'lmasligi mumkin, kech olinganda esa titr pasayadi.
+@ Mavzu materiali (076.docx)
+? Uslubiy ko'rsatmaga ko'ra, qizamiq va qizilchaga gumon qilingan bemorlardan olingan namunalar qanday haroratda saqlanadi?
++ +4...+8 °C da
+- -20 °C da, chuqur muzlatilgan holda
+- +20...+25 °C da, xona haroratida
+- +37 °C da, termostatda
+- -70 °C da, quruq muz ichida
+! Namunalar shu haroratda saqlanib, biologik xavfsizlik qoidalariga rioya qilingan holda laboratoriyaga yuboriladi.
+@ Mavzu materiali (076.docx)
+? Darslikka ko'ra, qizamiq virusi tashqi muhitda nimalar ta'sirida tez nobud bo'ladi?
++ Quyosh nuri, ultrabinafsha, quritish va kislorod
+- Sovuq, muzlatish va yuqori namlik
+- Yorug'liksiz qorong'u muhit va kislorodning yetishmasligi
+- Spirtli eritmalar, lekin quyosh nuri ta'sir etmaydi
+- Pasteurizatsiya haroratida ham, qaynatishda ham barqaror
+! Virusning tashqi muhitdagi chidamsizligi sababli havo-tomchi yo'li asosiy, ammo manbadan 5–8 m masofada ham yuqishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? CDC ga ko'ra, qizamiq gumon qilingan yoki tasdiqlangan sog'liqni saqlash xodimi toshma paydo bo'lgandan keyin necha kun ishdan chetlatiladi?
++ 4 kun
+- 1 kun
+- 7 kun
+- 14 kun
+- 30 kun
+! Xodim toshmadan 4 kun oldin va undan keyin 4 kun yuqumli bo'ladi.
+@ CDC. Infection Control: Measles (healthcare personnel)
+? CDC ga ko'ra, immuniteti isbotlanmagan shaxsga ekspozitsiyadan keyin MMR vaksinasi necha soat ichida yuborilishi kerak?
++ 72 soat ichida
+- 6 soat ichida
+- 24 soat ichida
+- 7 kun ichida
+- 14 kun ichida
+! Immunoglobulin esa zaif guruhlar uchun 6 kun ichida beriladi.
+@ CDC. Measles Prevention and Treatment Overview
+? Qizamiqqa qarshi serologik monitoringda seronegativlar ulushi qanchadan oshmasligi kerak?
++ 7%
+- 1%
+- 15%
+- 25%
+- 50%
+! Yuqori seronegativlik ulushi o'choq paydo bo'lishi xavfini ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiqning og'ir uzoq muddatli asorati qaysi?
++ Sklerozlovchi panensefalit
+- Glomerulonefrit
+- Revmatik poliartrit
+- Poliradikuloneyropatiya
+- Miokardit va revmatik porok
+! U ko'pincha 5–7 yoshli bolalarda rivojlanadi va o'lim bilan tugaydi, yashirin davri o'rtacha 7–8 yil.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Uslubiy ko'rsatmaga ko'ra, qizilchaga gumon qilish uchun toshma va yuqori haroratdan tashqari qaysi belgilar xos?
++ Bo'yin va quloq oldi limfa tugunlarining kattalashuvi, bo'g'imlar og'rig'i
+- Yo'tal, o'tkir rinit va konyunktivit
+- Qorin og'rig'i, suvli ich ketish va qusish
+- Hushtak chalgandek nafas va «buqa bo'yni» ko'rinishidagi bo'yin shishi
+- Siyishning qiyinlashishi va bel sohasidagi kuchli og'riq
+! Yo'tal, rinit va konyunktivit qizamiqqa gumon qilishda ko'rsatiladi.
+@ Mavzu materiali (076.docx)
+? Qizamiqning laboratoriya tashxisida qaysi usul «oltin standart» hisoblanadi?
++ IFA usulida IgM ni aniqlash
+- Burun-halqum surtmasini bakteriologik ekish
+- Vidal agglyutinatsiya reaksiyasi
+- Qonni steril ekish
+- Siydikni mikroskopik tekshirish
+! IgM yaqinda o'tkazilgan infeksiyani ko'rsatadi, shuning uchun tashxis tasdig'ida asosiy usul hisoblanadi.
+@ Mavzu materiali (076.docx)
+#U 076 / 4: IgM uchun qon olish muddati (toshmadan keyin 4–28 kun) faqat 6-ilova uslubiy ko'rsatmasiga tayangan; hujjat sanasi va raqami tasdiqlanmagan
+#U 076 / 5: namunalarni +4...+8 °C da saqlash faqat 6-ilova uslubiy ko'rsatmasiga tayangan; rasmiy sanasi tasdiqlanmagan
+#U 076 / 11: qizilchaga gumon belgilari faqat 6-ilova uslubiy ko'rsatmasiga tayangan; rasmiy sanasi tasdiqlanmagan
+#U 076 / 12: IFA IgM «oltin standart» deyilishi faqat 6-ilova uslubiy ko'rsatmasiga tayangan; rasmiy sanasi tasdiqlanmagan

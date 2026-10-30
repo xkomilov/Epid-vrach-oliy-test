@@ -1,0 +1,98 @@
+=== 036
+? L.V. Gromashevskiy taklif etgan yuqumli kasalliklar tasnifi qaysi mezonga asoslanadi?
++ Qo'zg'atuvchining organizmdagi birlamchi joylashuvi bilan bog'liq yuqish mexanizmiga
+- Qo'zg'atuvchining turiga, ya'ni bakteriya, virus, zamburug' yoki protozoy ekaniga
+- Infeksiya manbaining turiga, ya'ni odam, hayvon yoki tashqi muhit ekaniga
+- Vaksina mavjudligiga qarab, ya'ni kasallikning boshqariladigan yoki boshqarilmasligiga
+- Kasallikning klinik og'irligiga va o'lim ko'rsatkichiga qarab bo'lingan guruhlarga
+! Qo'zg'atuvchi joylashuvi uning qanday yo'l bilan tarqalishini belgilaydi, shu sababli tasnif tadbirlarni tanlash uchun qulay.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Qizamiq, difteriya, gripp va ko'kyo'tal Gromashevskiy tasnifiga ko'ra qaysi guruhga kiradi?
++ Nafas yo'llari infeksiyalari (aerozol-tomchi mexanizm)
+- Ichak infeksiyalari (fekal-oral mexanizm)
+- Qon infeksiyalari (transmissiv mexanizm)
+- Tashqi qoplam infeksiyalari (kontakt mexanizm)
+- Sapronozlar (tashqi muhit manbali, kontakt mexanizmli infeksiyalar)
+! Bu kasalliklarning qo'zg'atuvchisi nafas yo'llarida joylashib, havo-tomchi orqali tarqaladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Ich terlama, vabo, dizenteriya va virusli gepatit A qaysi yuqish mexanizmiga ega?
++ Fekal-oral
+- Aerozol-tomchi
+- Transmissiv
+- Kontakt
+- Vertikal
+! Qo'zg'atuvchi ichakda joylashib najas bilan ajraladi va suv, oziq-ovqat hamda maishiy omillar orqali og'izga tushadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Bezgak va Qrim-Kongo gemorragik isitmasi qaysi yuqish mexanizmi bilan tavsiflanadi?
++ Transmissiv
+- Fekal-oral
+- Aerozol-tomchi
+- Kontakt
+- Parenteral (in'yeksion)
+! Qo'zg'atuvchi qonda aylanadi va uni qon so'ruvchi tashuvchi hasharot yoki kana uzatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Quturish, kuydirgi, qoqshol va OIV Gromashevskiy tasnifida qaysi guruhga kiritilgan?
++ Tashqi qoplam infeksiyalari (kontakt mexanizm)
+- Qon infeksiyalari (transmissiv mexanizm)
+- Ichak infeksiyalari (fekal-oral mexanizm)
+- Nafas yo'llari infeksiyalari (aerozol-tomchi mexanizm)
+- Faqat antroponozlar guruhi
+! Qo'zg'atuvchi teri va shilliq qavatlarda joylashadi va kontakt yo'li bilan yuqadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Infeksiya manbaiga ko'ra tasnifda zoonozlar deb qaysi kasalliklar guruhi ataladi?
++ Infeksiya manbai hayvon bo'lgan kasalliklar
+- Infeksiya manbai odam bo'lgan kasalliklar
+- Infeksiya manbai tashqi muhit bo'lgan kasalliklar
+- Faqat qon so'ruvchi hasharotlar orqali yuqadigan kasalliklar
+- Vaksina mavjud bo'lmagan kasalliklarning barchasi shu guruhga kiradi
+! Antroponozlarda manba odam, sapronozlarda tashqi muhit, zoonozlarda esa hayvon hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Aerozol-tomchi mexanizmli boshqariladigan infeksiyalarda (qizamiq, difteriya, ko'kyo'tal) rejalashtirishning yetakchi yo'nalishi qaysi?
++ Qabul qiluvchan organizmga ta'sir: yuqori va barqaror emlash qamrovi
+- Yuqish yo'lini texnik uzish: xavfsiz suv ta'minoti va kanalizatsiya tizimi
+- Tashuvchi hasharotlarga qarshi dezinseksiya va aholini chaqishdan himoyalash
+- Rezervuar hayvonlar ustidan veterinariya-sanitariya nazoratini o'rnatish
+- Kasal hayvon bilan kontaktdan keyin shoshilinch quturishga qarshi emlash
+! Havo orqali yuqishni texnik uzish qiyin, shuning uchun jamoaviy immunitet hal qiluvchi bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Qizamiqda jamoaviy immunitet uchun emlash qamrovi nima sababdan 95 % dan yuqori bo'lishi kerak?
++ Qo'zg'atuvchi o'ta yuqumli (R0 taxminan 12–18), shu sababli aholining katta ulushi himoyalangan bo'lishi kerak
+- Vaksina juda kuchsiz, shuning uchun har bir doza yuqori qamrov bilan to'ldirilishi shart
+- Kasallik faqat kattalarda uchraydi va ularning ko'pchiligi emlashni rad etadi
+- Qizamiqda tashuvchi hasharotlar ko'p, ularning barchasini emlash orqali yo'q qilish mumkin
+- Vaksina muzlashga sezgir, sovuqlik zanjirida yo'qotishlar doimo 5 % ni tashkil etadi va bu yuqori qamrov talabini keltirib chiqaradi
+! R0 qancha yuqori bo'lsa, tarqalishni to'xtatish uchun shuncha ko'p aholi immun bo'lishi lozim.
+@ CDC. Epidemiology and Prevention of Vaccine-Preventable Diseases (Pink Book), Measles chapter; Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016
+? Fekal-oral mexanizmli ichak infeksiyalarida epidemiyaga qarshi choralarning yetakchi yo'nalishi qaysi?
++ Yuqish yo'llarini uzish: xavfsiz suv, kanalizatsiya, oziq-ovqat xavfsizligi, gigiyena va dezinfeksiya
+- Faqat barcha aholini yiliga ikki marta ommaviy emlash va revaksinatsiya qilish
+- Havoni ultrabinafsha nurlari bilan dezinfeksiya qilish va shamollatishni kuchaytirish
+- Qon so'ruvchi hasharotlarga qarshi insektitsidlar bilan kompleks ishlov berish
+- Xavfli xulq-atvorni o'zgartirishga qaratilgan tushuntirish ishlari va prezervativlarni tarqatish
+! Qo'zg'atuvchi suv, oziq-ovqat va maishiy omillar orqali yuqadi, shu sababli shu yo'llarga ta'sir eng samarali bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016; O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak infeksiyalari bo'yicha yo'riqnoma)
+? Transmissiv (qon) infeksiyalarda choralarning yetakchi yo'nalishi qaysi?
++ Tashuvchi bo'g'imoyoqlilarga qarshi kurash (dezinseksiya), chaqishdan himoya va tabiiy o'choqlarni nazorat qilish
+- Aholining suv ta'minoti manbalarini xlorlash va oqova suvlarni tozalash hamda ichimlik suvi sifatini laboratoriya nazoratida ushlab turish
+- Bemorlarni nafas yo'llari orqali tarqalishni to'xtatish uchun niqob taqishga majburlash
+- Muzlatgichdagi vaksinalarning harorat jurnalini kuniga ikki marta yuritish
+- Tibbiy asboblarni markazlashgan sterilizatsiya bo'limida qayta ishlash
+! Qo'zg'atuvchini uzatuvchi bo'g'in hasharot yoki kana bo'lgani uchun asosiy e'tibor shu bo'g'inga qaratiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016; CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 10
+? Epidemiyaga qarshi tadbirlarni rejalashtirishning uch an'anaviy yo'nalishi qaysilar?
++ Infeksiya manbaiga, yuqish mexanizmiga va qabul qiluvchan organizmga qaratilgan choralar
+- Davolash, reabilitatsiya va dispanser kuzatuvi hamda bemorlarni statsionarga yotqizish tartibi
+- Bemorni ajratish, muloqotdagilarni kuzatish va statistik hisobot yuritish
+- Dezinfeksiya, dezinseksiya va deratizatsiya tadbirlari
+- Birlamchi, ikkilamchi va uchlamchi profilaktika bosqichlari
+! Bu yo'nalishlar epidemik jarayonning uch bo'g'ini (manba, mexanizm, moyil jamoa) ga mos keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), 2016; CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 10
+? Nazorat darajasiga ko'ra qo'shimcha tasnifda "boshqariladigan infeksiyalar" deb qaysi kasalliklar ataladi?
++ Vaksinasi mavjud bo'lgan, emlash orqali nazorat qilinadigan kasalliklar
+- Faqat odam manba bo'lgan va zoonoz xususiyatga ega bo'lmagan kasalliklar
+- Hasharotlar tashuvchi bo'lgan, shu sababli dezinseksiya bilan nazorat qilinadigan kasalliklar
+- Qo'zg'atuvchisi faqat tashqi muhitda ko'payadigan kasalliklar
+- Antibiotiklar bilan to'liq davolanadigan barcha bakterial kasalliklar
+! Nazorat darajasi bo'yicha guruhlash vaksina bilan boshqarish imkoniyatini hisobga oladi.
+@ Mavzu materiali (036.docx)
+#U 036 / 12: "boshqariladigan (vaksina mavjud bo'lgan) va boshqarilmaydigan" tasnif guruhi faqat mavzu materialiga tayangan.

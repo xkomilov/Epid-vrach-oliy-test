@@ -1,0 +1,99 @@
+=== 104
+? Infeksiya turi va bajariladigan ishga qarab maxsus shaxsiy himoya vositalari jamlamasi nechta tipda qo'llanadi?
++ To'rt tipda
+- Ikki tipda, to'liq va yengil jamlama
+- Uch tipda, birinchi, ikkinchi va uchinchi darajali
+- Besh tipda, yosh toifalariga qarab
+- Olti tipda, har bir kasallik uchun alohida
+! Tiplar himoya hajmini xavf darajasiga moslashtirish uchun to'liq jamlamadan yengil jamlamagacha farqlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? O'latga qarshi to'liq (I tip) jamlama qaysi holatda qo'llanadi?
++ O'latning o'pka shakli o'chog'ida ishlaganda
+- Bubon shaklidagi bemor tashxisi tasdiqlangan kasalxonaning yuqumsiz bo'limida
+- Laboratoriyaning yuqumsiz blokida, tadqiqot ishlarini bajarayotganda
+- Bubon shakli bemorlari bilan muloqotda bo'lganlar izolyatorida
+- Navbatchi xodimlar xonasida, patologoanatomiya bo'limida
+! O'pka shaklida qo'zg'atuvchi havo-tomchi yo'li bilan yuqadi, shuning uchun ko'z va nafas yo'llarini ham himoya qiluvchi to'liq jamlama talab qilinadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? II tip jamlama I tipdan nimasi bilan farq qiladi?
++ Unda ko'zoynak bo'lmaydi, niqob esa saqlanadi
+- Unda niqob bo'lmaydi, ko'zoynak esa saqlanadi
+- Unda rezina etik va qo'lqop bo'lmaydi, shippak kiyiladi
+- Unda o'latga qarshi xalat o'rniga oddiy tibbiy xalat kiyiladi
+- Unda kapyushon bo'lmaydi, faqat tibbiy qalpoq ishlatiladi
+! Bu tipda ko'z shilliq qavatiga aerozol tushish xavfi past bo'lgan ishlar bajarilgani uchun ko'zoynak talab qilinmaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? Katta qiyiq ro'mol (kapyushon) o'lchami qanday bo'lishi kerak?
++ 90x90x125 sm
+- 60x60x80 sm
+- 120x120x150 sm
+- 50x50x70 sm
+- 100x100x100 sm
+! Ro'mol soch, peshona, quloq, bo'yin va iyakni to'liq yopishi uchun yetarli o'lchamda tayyorlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? Paxta-dokali niqob tayyorlashda dokaga qancha paxta solinadi?
++ 20 g
+- 5 g
+- 50 g
+- 100 g
+- 2 g
+! Paxta qatlami niqobning filtrlash xususiyatini ta'minlaydi va qalinligini 1,5–2 sm darajasida saqlaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? I tip jamlamada ishlash muddati qanday cheklanadi?
++ 3 soat ishlangach, 1 soatlik tanaffus beriladi
+- 6 soat ishlangach, 30 daqiqalik tanaffus beriladi, ish kuni oxirigacha
+- 1 soat ishlangach, 3 soatlik tanaffus beriladi
+- 8 soat uzluksiz ishlanadi, tanaffussiz, smena almashgunga qadar
+- 5 soat ishlangach, 2 soatlik tanaffus beriladi
+! Zich yopilgan kiyimda organizm qizib ketadi va e'tibor pasayadi, shu sababli ishlash davri cheklanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? Himoya vositalarini kiyish tartibida rezina etikdan keyin nima bajariladi?
++ Qiyiq ro'mol (kapyushon) o'raladi
+- Rezina qo'lqoplar kiyiladi
+- Ko'zoynak taqiladi
+- Sochiq belbog'ga qistiriladi
+- Paxta-dokali niqob burun tamponi bilan taqiladi
+! Kiyinish soddadan murakkabga, pastdan yuqoriga ketma-ketlikda olib borilib, qo'lqop va ko'zoynak oxirida kiyiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? Himoya vositalarini yechishda ko'zoynak va fonendoskop qanday zararsizlantiriladi?
++ 70° li spirtda 20 daqiqa ushlanadi
+- 5% li lizol eritmasida 1 soat qoldiriladi, so'ng yuviladi
+- Oddiy suv bilan yuvilib, quritgichda 5 daqiqa quritiladi
+- 3% li vodorod peroksid eritmasida 5 daqiqa ushlanadi
+- 96° li spirtda 1 daqiqa artiladi, ishlatishga tayyor holatda
+! Ko'zoynak va fonendoskop avtoklavlanmaydi, shuning uchun ular spirt bilan yetarli ekspozitsiyada ishlov beriladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? Himoya vositalarini yechish ketma-ketligida birinchi va oxirgi navbatda nima yechiladi?
++ Birinchi sochiq, oxirida rezina qo'lqop
+- Birinchi rezina qo'lqop, oxirida sochiq
+- Birinchi niqob, oxirida rezina etik
+- Birinchi xalat, oxirida ko'zoynak
+- Birinchi etik, oxirida niqob
+! Qo'lqop eng oxirida yechiladi, chunki u yechish jarayonida qo'llarni dezinfeksiyalovchi eritmada tozalab borishga xizmat qiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? IV tip (yengil) jamlama qaysi sharoitda qo'llanadi?
++ Kasalxonaning yuqumsiz bo'limida, masalan navbatchi xodimlar xonasida
+- O'pka shaklidagi o'lat bemori yotgan kasalxonada
+- O'latdan o'lgan odam murdasini yorishda va ko'mishda
+- Yakuniy dezinfeksiya va dezinseksiya o'tkazilayotgan o'choqda
+- O'latga gumon qilingan bemorni uyidan olib evakuatsiya qilishda
+! Yuqumsiz zonada bevosita qo'zg'atuvchi bilan kontakt xavfi bo'lmagani uchun oddiy tibbiy kiyimdan iborat yengil jamlama yetarli.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, 7-ilova
+? Himoya vositalarini yechish va zararsizlantirishga taxminan qancha vaqt ketadi?
++ 18–20 daqiqa
+- 2–3 daqiqa
+- 5–7 daqiqa
+- 45–60 daqiqa
+- 90–120 daqiqa
+! Yechish yuqumli yuzani ichkariga qaratib, har bir buyum yechilgach qo'llarni eritmaga botirib borish bilan amalga oshgani uchun sekin va ehtiyotkor bajariladi.
+@ Mavzu materiali (104.docx)
+? Saparov qo'llanmasiga ko'ra Qoraqalpog'iston, viloyatlar va Toshkent shahar sanitariya-epidemiologiya markazlarida zaxirada nechtadan MShHVJ saqlanadi?
++ 50 tadan
+- 5 tadan
+- 11 tadan
+- 20 tadan
+- 100 tadan
+! Katta hududga xizmat ko'rsatuvchi markazlarda zaxira ko'p bo'lishi ko'plab xodimlarni bir vaqtda ta'minlash uchun zarur.
+@ Mavzu materiali (104.docx)
+#U 104 / 11: yechish davomiyligi (18–20 daqiqa) Saparov qo'llanmasi va sifatsiz hujjatlar to'plamiga tayangan, mustaqil manba bilan tasdiqlanmagan.
+#U 104 / 12: zaxira me'yori (50 tadan) 2010-yilgi qo'llanmadan olingan, amaldagi buyruqdagi qiymati tasdiqlanmagan.

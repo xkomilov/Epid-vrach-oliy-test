@@ -1,0 +1,98 @@
+=== 083
+? Qizamiqqa qarshi KPK vaksinasi qaysi dozada va qanday yo'l bilan yuboriladi?
++ 0,5 ml, teri ostiga
+- 0,5 ml, mushak ichiga yelka sohasida, adyuvant bilan birga
+- 0,1 ml, teri ichiga bilak sohasida, sil vaksinasi singari
+- 1,0 ml, mushak ichiga sonning old yon yuzasida
+- 0,25 ml, teri ostiga kurak ostida, ikki bosqichda
+! Tirik virusli vaksina teri ostiga yuborilganda ishonchli immunitet beradi va mahalliy reaksiyalar kam kuzatiladi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? Qizamiqqa qarshi tirik vaksinalar qanday haroratda saqlanadi va eritilgandan keyin qancha vaqt ichida ishlatiladi?
++ +2...+8 °C da, muzlatilmaydi; eritilgach 6 soat ichida
+- -20 °C da muzlatib; eritilgach 24 soat ichida, chunki muzlatish faollikni saqlaydi
+- +15...+25 °C da xona haroratida; eritilgach 12 soat ichida
+- -5...0 °C da; eritilgach 1 soat ichida, yorug'likda
+- +8...+15 °C da; eritilgach 3 kun ichida, muzlatgichning eshigida
+! Tirik viruslar harorat va yorug'likka sezgir, shu sababli sovuqlik zanjirining buzilishi vaksina faolligini kamaytiradi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? Qizamiqqa qarshi serologik monitoringda indikator guruhlarda seronegativlar ulushi qanchadan oshmasligi kerak?
++ 7% dan
+- 25% dan, chunki yoshi katta guruhlarda bu me'yor hisoblanadi
+- 15% dan, ya'ni har ettinchi odamdan bitta
+- 50% dan, bunda emlanganlarning yarmi yengil kasallanadi
+- 1% dan, bu esa yo'qotish bosqichidagi mezon
+! Ushbu chegaradan yuqori qiymat immun qatlam yetarli emasligini bildiradi va qo'shimcha emlashni talab qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq bo'yicha serologik monitoring qaysi yosh guruhlarida o'tkaziladi?
++ 3–4, 9–10, 15–17 va 23–25 yosh
+- 1–2, 5–6, 11–12 va 40–45 yosh, ya'ni har besh yilda bir guruh
+- 0–1, 2–3, 7–8 va 30–35 yosh, faqat shahar aholisida
+- 6–7, 12–13, 20–22 va 50–55 yosh, oila a'zolarida
+- 3–4, 5–6, 7–8 va 9–10 yosh, ya'ni faqat maktabgacha va boshlang'ich yoshda
+! Bu guruhlar immunitetning so'nishi va emlash natijasi baholanadigan muhim yosh bosqichlarini qamrab oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq bemoridan IgM IFA uchun qon qaysi muddatda olinadi?
++ Toshmadan keyin 4–28 kun ichida
+- Toshmadan oldin 1–3 kun ichida, prodromal davrda
+- Toshmadan keyin 60–90 kun o'tgach, tuzalish davrida
+- Yashirin davrning birinchi haftasida, harorat ko'tarilguncha
+- Toshma paydo bo'lgan kuni faqat birinchi soatlarda
+! IgM antitelalar toshma davridan boshlab aniqlanadi va tez orada kamayadi, shuning uchun namuna shu oraliqda olinadi.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (uslubiy ko'rsatma, qizamiq va qizilcha)
+? Darslikka ko'ra, qizamiq bemorining yuqumlilik davri qaysi muddatlarni o'z ichiga oladi?
++ Yashirin davrning oxirgi 2 kuni, kataral davrning 3–4 kuni va toshma davrining 3–4 kuni
+- Yashirin davrning birinchi 2 haftasi va kataral davrning butun muddati, toshma davri bundan mustasno
+- Toshma davrining 10 kuni va tuzalish davrining 2 haftasi
+- Kataral davrning 1 kuni va toshma davridan keyingi 30 kun
+- Yashirin davrning butun muddati va toshma davrining birinchi kuni
+! Virus toshmadan oldin ham ajraladi, shuning uchun bemor aniqlanmasdan oldin ham atrofdagilarni yuqtirishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? CDC bo'yicha qizamiq bilan aloqada bo'lgan, immuniteti isbotlanmagan shaxslarga MMR vaksinasi kontaktdan keyin qancha vaqt ichida yuboriladi?
++ 72 soat ichida
+- 24 soat ichida, ya'ni kontakt kuni
+- 6 kun ichida, immunoglobulin bilan bir vaqtda
+- 21 kun ichida, yashirin davr tugaguncha
+- 14 kun ichida, kuzatuv davri yakunlangunga qadar
+! Tez yuborilgan vaksina virus ko'payishidan oldin immunitet hosil qilib, kasallikning oldini olishi mumkin.
+@ CDC. Measles Prevention and Treatment Overview (2026)
+? Qizamiq bilan aloqada bo'lgan zaif guruhlarga (chaqaloqlar, homiladorlar) CDC bo'yicha immunoglobulin kontaktdan keyin qancha vaqt ichida yuboriladi?
++ 6 kun ichida
+- 72 soat ichida, vaksina bilan bir vaqtda
+- 24 soat ichida, chunki keyin samarasiz bo'ladi
+- 21 kun ichida, yashirin davr oxirigacha
+- 30 kun ichida, kuzatuv yopilguncha
+! Passiv antitelalar infeksiya rivojlanishini to'xtatishi yoki yengillashtirishi uchun yashirin davrning dastlabki kunlarida berilishi kerak.
+@ CDC. Measles Prevention and Treatment Overview (2026)
+? Qizamiq o'chog'ini tugatish uchun yashirin davrning maksimal muddati sifatida necha kun kuzatuv o'tkaziladi?
++ 21 kun
+- 7 kun, ya'ni birinchi haftada ikkilamchi holat bo'lmasa
+- 10 kun, toshma davri tugagandan keyin
+- 28 kun, IgM aniqlanadigan davr bo'yicha
+- 14 kun, ko'kyo'tal o'chog'idagi karantinga o'xshash
+! Aloqadorlarda kasallik yashirin davr davomida paydo bo'lishi mumkin, shuning uchun kuzatuv uning eng uzun muddatiga teng bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiqqa qarshi emlanganlarning qancha qismi yengil shaklda kasallanadi va bu nima uchun muhim?
++ 50% i; tashxis qo'yish qiyinlashadi, shuning uchun barcha shubhali holatlarda laboratoriya tasdig'i talab etiladi
+- 5% i; klinik belgilar yaqqol bo'ladi, shuning uchun laboratoriya tasdig'i faqat o'lim holatlarida talab qilinadi
+- 95% i; ular yuqumli emas, shuning uchun aloqadorlar ro'yxati tuzilmaydi
+- 15% i; bu vaksina zaxirasining ortiqcha sarfiga teng bo'lgani uchun hisobotga kiritilmaydi
+- 80% i; bu guruhda toshma bo'lmaydi, shuning uchun kuzatuv talab etilmaydi
+! Yengil va atipik kechish klinik tashxisni qiyinlashtiradi va bunday bemorlar ham infeksiya manbai bo'lishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qon yoki immunoglobulin olgan shaxslarda KPK vaksinasi qaysi oraliqlardan keyin beriladi?
++ Qon komponentlaridan keyin 6–7 oy, immunoglobulindan keyin 3 oy
+- Qon komponentlaridan keyin 1–2 hafta, immunoglobulindan keyin 24 soat
+- Qon komponentlaridan keyin 3 oy, immunoglobulindan keyin 6–7 oy
+- Qon komponentlaridan keyin 14 kun, immunoglobulindan keyin 1 yil
+- Qon komponentlaridan keyin 1 oy, immunoglobulindan keyin 2 hafta
+! Tayyor antitelalar vaksina virusini zararsizlantirishi mumkin, shu sababli immun javob to'liq shakllanishi uchun tanaffus saqlanadi.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+? Qizamiq o'chog'ini tezkor rejalashtirishda bemorni aniqlash uchun qaysi muddat maqsad sifatida keltirilgan?
++ 24 soat
+- 7 kun, ya'ni bir hafta ichida
+- 72 soat, emlash muddatiga o'xshash tarzda
+- 21 kun, yashirin davr tugaguncha
+- 6 kun, immunoglobulin muddati bo'yicha
+! Tez aniqlash aloqadorlar doirasini qisqartirib, emlash va ajratish tadbirlarini o'z vaqtida boshlash imkonini beradi.
+@ Mavzu materiali (083.docx)
+#U 083 / 12: Tezkor muddatlar (24 soat, 1 kun) milliy hujjatda aniq ko'rsatilmagan, CDC tavsiyalariga asoslangan reja maqsadi sifatida keltirilgan, tasdiqlanmagan.

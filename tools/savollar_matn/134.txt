@@ -1,0 +1,100 @@
+=== 134
+? Quturish xavfi bor tishlanganda jarohatga 50 ml shpritsdan 2–3 daqiqa davomida qaysi eritma bilan ishlov beriladi?
++ 20% sovunli eritma
+- 3% vodorod peroksid eritmasi
+- 5% yod spirtli eritmasi
+- 70% etil spirti
+- 0,5% xloramin eritmasi, keyin esa 3% karbol kislotasi
+! Sovunli eritma virus qobig'ini buzadi va jarohatni mexanik tozalaydi, spirt esa faqat jarohat atrofiga surtiladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Tishlangan jarohat necha kun davomida kesilmaydi va tikilmaydi?
++ 3 kun
+- 1 kun
+- 7 kun
+- 10 kun
+- 14 kun
+! Dastlabki kunlarda jarohatni tikish yoki kesish virusning to'qimalarda chuqurroq tarqalishiga yordam berishi mumkin.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? JSST quturishda jarohatni sovun va suv bilan kamida qancha vaqt yuvishni talab qiladi?
++ 15 daqiqa
+- 5 daqiqa
+- 10 daqiqa
+- 2–3 daqiqa
+- 1 daqiqa
+! Uzoqroq yuvish jarohatdagi virus miqdorini sezilarli kamaytiradi.
+@ WHO. Rabies (fact sheet)
+? Tishlanish haqida sanitariya-epidemiologiya markaziga 058/h shaklidagi shoshilinch xabarnoma qancha vaqt ichida yuboriladi?
++ 12 soat ichida
+- 6 soat ichida
+- 24 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+! Shoshilinch xabarnoma tezkor epidemiologik tekshiruv boshlanishi uchun avval telefon orqali, so'ng yozma shaklda beriladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Tishlagan hayvonning egasi ma'lum va u ko'rinishidan sog'lom bo'lsa (D toifa), qanday tartib qo'llanadi?
++ Hayvon veterinariya kuzatuvida saqlanadi va natijaga qarab kurs aniqlashtiriladi
+- Darhol shartsiz to'liq kurs tayinlanadi va hayvon kuzatilmaydi
+- Emlash umuman tayinlanmaydi, jabrlanuvchiga faqat jarohatga ishlov beriladi
+- Hayvon darhol uxlatiladi va miyasi tekshiriladi, natijani kutmasdan emlash boshlanadi
+- Faqat immunoglobulin yuboriladi, vaksina tayinlanmaydi
+! Egasi ma'lum va sog'lom ko'rinishdagi hayvonni kuzatish mumkin, kuzatuv natijasi esa kursni to'liq o'tkazish zaruratini hal qiladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Antirabik yordam qaysi ketma-ketlikda ko'rsatiladi?
++ Jarohatga ishlov, antirabik immunoglobulin, antirabik vaksina, so'ngra qoqsholga qarshi emlash
+- Avval qoqsholga qarshi emlash, so'ng jarohatga ishlov, immunoglobulin va vaksina
+- Vaksina, so'ngra jarohatga ishlov va immunoglobulin, oxirida qoqshol emlashi
+- Immunoglobulin, jarohatga ishlov, vaksina va qoqshol emlashi
+- Jarohatga ishlov, antirabik vaksina, antirabik immunoglobulin va qoqsholga qarshi emlash
+! Jarohatdagi virus avval mexanik kamaytiriladi, passiv himoya (immunoglobulin) esa faol immunitet shakllanguncha vaksinadan oldin beriladi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Ko'p joyidan yoki xavfli joylaridan tishlanganlar shifoxonaga necha kunga yotqiziladi?
++ 7 kunga
+- 3 kunga
+- 10 kunga
+- 14 kunga
+- 30 kunga
+! Shifoxonada kuzatuv antirabik kursning boshlang'ich davrida asoratlarni nazorat qilish imkonini beradi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? To'liq antirabik kurs olganlar qaysi oylarda tibbiy ko'rikdan o'tadi?
++ 3, 6 va 12-oylarda
+- 1, 3 va 6-oylarda
+- 6, 12 va 24-oylarda
+- 2, 4 va 8-oylarda
+- Har oyda bir yil davomida, keyin yarim yilda bir marta
+! Ko'riklar uzoq kuzatuv davrida immunitet holati va kech asoratlarni nazorat qilish uchun belgilangan, jami nazorat muddati bir yil.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Antirabik kurs davomida va undan keyin qancha muddat spirtli ichimliklar taqiqlanadi?
++ 6 oy
+- 1 oy
+- 2 oy
+- 3 oy
+- 12 oy
+! Spirt immun javobni susaytiradi va nojo'ya reaksiyalar xavfini oshiradi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+? Quyidagi hollarning qaysi birida quturishga qarshi emlash tayinlanmaydi?
++ Parrandadan jarohat olinganda
+- Qarovsiz it yuz sohasidan tishlaganda
+- Yovvoyi tulki tishlab, teri butunligini buzganda
+- Quturishga gumon qilingan hayvon so'lagi shilliq qavatga tushganda
+- Ko'p joydan, guruh bo'lib tishlaganda, hayvonni kuzatish imkoni bo'lmasa
+! Quturish sutemizuvchilar kasalligi, shu sababli parrandalardan yuqish xavfi yo'q.
+@ WHO. Rabies (fact sheet); O'zR Sog'liqni saqlash vazirining 2011-yil 14-iyuldagi 210-son buyrug'iga ilova
+? Xavfi yuqori kasblar uchun kalendarda quturishga qarshi profilaktik emlash qanday sxemada o'tkaziladi?
++ 16 yoshdan; birinchi revaksinatsiya bir yildan keyin, so'ng har 3 yilda
+- 18 yoshdan; birinchi revaksinatsiya olti oydan keyin, so'ng har 5 yilda
+- 14 yoshdan; har yili revaksinatsiya
+- 12 yoshdan; birinchi revaksinatsiya ikki yildan keyin, so'ng har 10 yilda
+- 21 yoshdan; faqat bir martalik emlash, takroriy dozasiz
+! Muntazam kasbiy xavf davomida immunitet saqlanishi uchun vaqti-vaqti bilan takroriy dozalar beriladi.
+@ O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi (SanQvaM № 0239-07/3)
+? Sog'liqni saqlash vazirligi yo'riqnomasiga ko'ra Respublika markazi omborida AIG va vaksina zaxirasi qancha bo'lishi kerak?
++ 200 ml AIG va 500 komplekt vaksina
+- 500 ml AIG va 200 komplekt vaksina
+- 100 ml AIG va 300 komplekt vaksina
+- 400 ml AIG va 1000 komplekt vaksina
+- 200 ml AIG va 400 komplekt vaksina, ya'ni viloyat markazlari omborlariga belgilangan miqdor
+! Zaxira tishlanish holatlarida preparatlar uzilishsiz yetkazilishi uchun markaziy va hududiy omborlarda alohida miqdorda saqlanadi.
+@ O'zR Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'iga 1-ilova
+#D 134 / 3: JSST jarohatni sovun va suv bilan kamida 15 daqiqa yuvishni talab qiladi, milliy yo'riqnomada esa sovunli eritma bilan 2–3 daqiqa ishlov berish ko'rsatilgan.
+#U 134 / 10: parrandadan jarohat olishda emlash tayinlanmasligi 2015-yilda bekor qilingan 2011-yilgi 210-son buyruq ro'yxatidan olingan; amaldagi yo'riqnomada tasdiqlanmagan.
+#U 134 / 12: zaxira miqdorlari faqat 37-son buyruq yo'riqnomasiga tayangan; hujjatning hozirgi kuchi tasdiqlanmagan.

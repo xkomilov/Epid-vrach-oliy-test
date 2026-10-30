@@ -1,0 +1,103 @@
+=== 063
+? JSST ta'rifiga ko'ra diareya qanday holat hisoblanadi?
++ Kuniga 3 va undan ko'p yumshoq yoki suyuq najas ajralishi
+- Kuniga 1 marta qattiq najas ajralishi, ammo qorin og'rig'i va ko'ngil aynishi bilan birga kelishi
+- Kuniga 8 va undan ko'p suyuq najas ajralishi
+- Faqat qon aralash suyuq najas ajralishi
+- Kuniga 15 marta va undan ko'p suvsimon najas ajralishi
+! Najas sonining ortishi yoki shaxs uchun odatdagidan tez-tez bo'lishi ham hisobga olinadi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Diareya kasalliklari 5 yoshgacha bolalar o'limining nechanchi yetakchi sababi hisoblanadi?
++ Uchinchi
+- Birinchi, undan faqat o'tkir respirator infeksiyalar ko'p o'lim keltiradi
+- Ikkinchi
+- To'rtinchi
+- Beshinchi
+! Diareya har yili yuz minglab bolaning hayotiga zomin bo'ladi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Qaysi qo'zg'atuvchilar barcha yosh guruhlarida o'tkir diareyaning eng ko'p uchraydigan sabablari hisoblanadi?
++ Rotavirus va E. coli
+- Norovirus va Giardia, ayniqsa tropik hududlarda va mavsumiy tarzda
+- Cryptosporidium va Entamoeba
+- Astrovirus va Campylobacter
+- Adenovirus va Shigella
+! Boshqa qo'zg'atuvchilar ham diareya chaqiradi, ammo ular uchun umumiy ulush kamroq.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Rotavirus infeksiyasi qaysi yoshgacha bolalarda 90% hollarda uchraydi?
++ 2 yoshgacha
+- 5 yoshgacha, chunki ularning ichak immuniteti mukammal rivojlangan bo'ladi
+- 7 yoshgacha
+- 10 yoshgacha
+- 15 yoshgacha
+! Bu yoshda moyillik yuqori, shuning uchun kichik bolalar xavf guruhi hisoblanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Rotavirus kasalliklarining 70% i yilning qaysi oylariga to'g'ri keladi?
++ Qish va kuz oylariga
+- Bahor va yoz oylariga, ayniqsa issiq kunlarda va suv ifloslanganda
+- Yilning barcha oylariga teng taqsimlangan holda
+- Faqat iyun–avgust oylariga
+- May–iyun oylariga
+! Shigellyozdan farqli, rotavirus sovuq mavsumda ko'proq tarqaladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Shigellyozlarning mavsumiy dinamikasi qanday?
++ May–iyun oylarida ko'tarilib, oktyabr–noyabrda pasayadi
+- Dekabr–yanvarda ko'tarilib, iyun–iyulda pasayadi, chunki sovuqda qo'zg'atuvchi yaxshi yashaydi
+- Mart–aprelda ko'tarilib, sentyabrda pasayadi
+- Yil davomida mutlaqo bir xil, mavsumiy o'zgarish yo'q
+- Avgust–sentyabrda ko'tarilib, fevral–martda pasayadi
+! Kasallik yil davomida qayd etilsa-da, issiq mavsumda ko'payadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Suv bilan bog'liq epidemik avj olishda kasalliklar qaysi ketma-ketlikda ko'payadi?
++ Avval o'tkir ichak infeksiyalari, so'ng qorin tifi va paratiflar, keyin virusli gepatitlar
+- Avval virusli gepatitlar, so'ng qorin tifi va paratiflar, keyin o'tkir ichak infeksiyalari
+- Avval qorin tifi va paratiflar, so'ng gepatitlar, keyin ichburug' bilan kasallanish
+- Hamma kasalliklar bir vaqtda va bir xil darajada ko'tariladi
+- Faqat virusli gepatitlar ko'payadi, boshqa infeksiyalar o'zgarmaydi
+! Ketma-ketlik qo'zg'atuvchilarning yashirin davrlari farqi bilan izohlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Surunkali suv epidemiyalari qanday sabab bilan bog'liq?
++ Suv tozalash inshootining yo'qligi yoki suvning xlorlanmasligi
+- Bitta kichik quduq suvining vaqtincha ifloslanishi va shu sababli bitta fagotipning ajralishi
+- Faqat yog'ingarchilikdan keyin daryo suvining loyqalanishi
+- Bolalar muassasalarida oshxona xodimlarining qo'l gigienasi buzilishi
+- Sut mahsulotlarining noto'g'ri saqlanishi
+! Bunday epidemiyalar katta hududlarni qamrab oladi va ko'p etiologiyali bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'tkir ichak kasalligi gumon qilinganda tibbiyot xodimi qanday muddatlarda xabar beradi?
++ 12 soat ichida telefon orqali, 24 soat ichida 58/U shaklidagi tezkor xabarnoma bilan
+- 2 soat ichida telefon orqali, 6 soat ichida 058/U shaklidagi yozma xabarnoma bilan, ikkalasi ham majburiy
+- 24 soat ichida telefon orqali, 72 soat ichida tezkor xabarnoma bilan
+- 48 soat ichida telefon orqali, 7 kun ichida tezkor xabarnoma bilan
+- 6 soat ichida telefon orqali, 12 soat ichida yozma xabarnoma bilan
+! Xabar muddatlari o'choqda tadbirlarni vaqtida boshlashga imkon beradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Qusuq massa, oshqozon yuvindisi va najas namunalari etiotrop davodan oldin olinib, laboratoriyaga qancha vaqt ichida yetkaziladi?
++ 2 soat ichida
+- 12 soat ichida, muzlatgichda saqlanmasdan
+- 24 soat ichida
+- 48 soat ichida
+- 72 soat ichida, xona haroratida saqlangan holda
+! Kechikish qo'zg'atuvchining nobud bo'lishiga va natija buzilishiga olib kelishi mumkin.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? Muayyan korxona mahsulotiga bog'liq kasallanish qayd etilganda barcha xodimlar nechta bakteriologik tekshiruvdan o'tadi?
++ 2 marta
+- 1 marta, faqat oshxona xodimlari tekshiriladi va qolganlari tekshirilmaydi
+- 3 marta
+- 4 marta
+- 5 marta
+! Faoliyat belgilangan tartibda to'xtatilib, xodimlar tashuvchilikka tekshiriladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 1-ilova (o'tkir ichak kasalliklari yo'riqnomasi)
+? JSST ma'lumotiga ko'ra, bolalar orasida diareya yiliga qariyb qancha holatni tashkil etadi?
++ 1,7 milliard
+- 17 million, ularning aksariyati ishlab chiqarilgan hududlarda qayd etiladi
+- 170 million
+- 700 million
+- 7 milliard
+! Ko'rsatkich diareyaning bolalar orasida juda keng tarqalganini ko'rsatadi.
+@ WHO. Diarrhoeal disease (fact sheet)
+#U 063 / 4: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 063 / 5: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 063 / 6: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 063 / 9: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 063 / 10: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.
+#U 063 / 11: faqat SSV 25.03.2015-yildagi buyruqqa ilova yo'riqnomasiga tayangan; buyruq raqami (122/125) tasdiqlanmagan.

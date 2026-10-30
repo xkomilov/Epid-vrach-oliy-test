@@ -1,0 +1,101 @@
+=== 111
+? JSST ekspozitsiyadan keyingi profilaktikada quturgan hayvon tishlagan jarohatni sovun va suv bilan kamida qancha vaqt yuvishni tavsiya etadi?
++ Kamida 15 daqiqa davomida
+- 2–3 daqiqa davomida, jarohat atrofidagi teri to'liq tozalanguncha
+- 30 daqiqa davomida, har 5 daqiqada eritmani almashtirib
+- 60 daqiqa davomida, jarohatni doimiy bosim ostida ushlab
+- Yuvish shart emas, faqat spirtli eritma bilan artish yetarli
+! Uzoq va to'liq yuvish jarohatdagi virus miqdorini mexanik ravishda kamaytiradi va keyingi emlash samarasini oshiradi.
+@ WHO. Rabies (fact sheet)
+? Respublika hujjatlarida qo'llanadigan antirabik immunoglobulin (AIG) qaysi manbadan olinadi va qanday tavsiflanadi?
++ Ot qon zardobidan olinadigan gaterogen preparat
+- Odam donorlari qon zardobidan olinadigan gomologik preparat, odam organizmi uchun begona oqsil saqlamaydi
+- Quturishga qarshi emlangan quyonlar miyasidan tayyorlangan to'qimali preparat
+- Tovuq embrioni hujayralarida o'stirilgan, zararsizlantirilgan jonli vaksina shtammi
+- Sigir sutidan ajratilgan sut oqsillari asosidagi immunomodulyator
+! Hayvon zardobidan olingani uchun preparat begona oqsil saqlaydi, shu sababli yuborishdan oldin teri sinamasi qo'yiladi.
+@ O'zbekiston Respublikasi SSV 2011-yil 14-iyuldagi 210-son buyrug'iga ilova
+? Gaterogen AIG katta yoshlilarga va bolalarga tana vazni har 1 kg ga qanday dozada yuboriladi?
++ 40 XB
+- 10 XB
+- 20 XB
+- 80 XB
+- 100 XB
+! Doza tana vazniga qarab hisoblanadi, shuning uchun bemor vazni oshgan sari preparat hajmi ham ortadi.
+@ O'zbekiston Respublikasi SSV 2011-yil 14-iyuldagi 210-son buyrug'iga ilova; WHO. Rabies (fact sheet)
+? Vazni 60 kg bo'lgan bemorga 1 kg ga 40 XB dozada AIG yuboriladi, preparat faolligi 200 XB/ml. Necha ml yuboriladi?
++ 12 ml
+- 6 ml, ya'ni doza vazn bo'yicha ikki baravar kam hisoblanganda
+- 8 ml, ya'ni faollik 300 XB/ml deb olinganda
+- 24 ml, ya'ni doza 80 XB/kg deb olinganda
+- 3 ml, ya'ni preparat faolligi 800 XB/ml bo'lganda
+! Hajm umumiy doza (60 x 40 = 2400 XB) ni preparat faolligiga (200 XB/ml) bo'lish bilan topiladi.
+@ O'zbekiston Respublikasi SSV 2011-yil 14-iyuldagi 210-son buyrug'iga ilova
+? Gaterogen AIG yuborishdan oldingi teri ichi sinamasi qanday natijada manfiy hisoblanadi?
++ 20–30 daqiqadan keyin shish yoki qizarish 1 sm dan kichik bo'lganda
+- 5 daqiqadan keyin shish yoki qizarish 3 sm dan kichik bo'lganda, qichishish bo'lmasa
+- 24 soatdan keyin papula hosil bo'lmaganda, faqat teri rangi o'zgarganda
+- 20–30 daqiqadan keyin shish 1 sm dan katta bo'lib, keyingi soatlarda so'rilib ketganda
+- Sinama qo'yilgan joyda hech qanday o'zgarish bo'lmagan, lekin harorat ko'tarilganda
+! Kichik mahalliy reaksiya preparatga yuqori sezuvchanlik yo'qligini ko'rsatadi va yuborishga imkon beradi.
+@ Mavzu materiali (111.docx)
+? JSST tasnifiga ko'ra qaysi holat II toifaga kiradi va jarohatni yuvish hamda darhol vaksina qilishni talab etadi, ammo immunoglobulin shart emas?
++ Ochiq terini tishlash yoki qon chiqmaydigan tirnash
+- Teri butunligi buzilib qon chiqadigan chuqur tishlash
+- Shilliq qavat yoki shikastlangan terining so'lak bilan ifloslanishi
+- Ko'rshapalak bilan to'g'ridan-to'g'ri aloqa
+- Butun terining yalanishi yoki hayvonga teginish
+! Terining yuzaki shikastlanishi virus kirishining past xavfini bildiradi, shuning uchun passiv immunizatsiya talab etilmaydi.
+@ WHO. Rabies (fact sheet)
+? JSST tavsiya etgan teri ichiga yuborish usuliga o'tish dozalar soni va xarajatni qanchaga kamaytiradi?
++ 60–80 % ga
+- 5–10 % ga
+- 15–20 % ga
+- 30–35 % ga
+- 90–95 % ga
+! Teri ichiga yuborishda har dozada kam hajm ishlatiladi, shu sababli vaksina sarfi sezilarli kamayadi.
+@ WHO. Rabies (fact sheet)
+? Milliy yo'riqnomaga ko'ra qaysi holatda quturishga qarshi emlash tayinlanmaydi?
++ Tishlagan hayvon 10 kundan keyin ham tirik bo'lganda
+- Tishlagan hayvon 10 kun ichida o'lgan yoki yo'qolgan bo'lsa
+- Sog'lom hayvon bosh, yuz yoki bo'yinni tishlagan bo'lsa
+- Tishlash ingichka kiyim ustidan bo'lib, mato hayvon tishlari bilan teshilgan bo'lsa
+- Yirtqich qush tirnab, teri butunligi buzilgan bo'lsa
+! Hayvon kuzatuv davrida sog'lom qolsa, tishlash vaqtida virus ajratmagan deb hisoblanadi.
+@ O'zbekiston Respublikasi SSV 2011-yil 14-iyuldagi 210-son buyrug'iga ilova
+? 2011-yilgi buyruq ilovasida Vakreybiz va Verosel vaksinalarining shartsiz (to'liq) kursi qaysi kunlarda o'tkaziladi?
++ 0, 3, 7, 14 va 28-kunlarda
+- 0, 7 va 21-kunlarda uch marta
+- 0, 3, 7, 14, 28 va 90-kunlarda olti marta
+- 0, 1, 2, 3 va 4-kunlarda ketma-ket besh marta
+- 0, 14 va 28-kunlarda, jarohat atrofiga yuborish bilan
+! Besh dozali kurs boshlang'ich kunlarda zich, keyin esa kengroq oraliqlarda beriladi va mushak ichiga qo'llanadi.
+@ Mavzu materiali (111.docx)
+? Ekspozitsiyadan oldingi immunizatsiyada xavfi yuqori kasblar uchun birinchi revaksinatsiya qachon o'tkaziladi?
++ Bir yildan keyin, so'ng har 3 yilda
+- 6 oydan keyin, so'ng har yili
+- 3 yildan keyin, so'ng har 10 yilda
+- 2 haftadan keyin, so'ng har 6 oyda
+- 5 yildan keyin, so'ng umr bo'yi qayta emlanmaydi
+! Dastlabki kursdan keyin antitana darajasini ushlab turish uchun revaksinatsiya muayyan oraliqlarda takrorlanadi.
+@ SanQvaM № 0239-07/3 (O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi)
+? Quturish virusining qaysi antigeni neytrallovchi antitana hosil bo'lishini va immunitet shakllanishini ta'minlaydi?
++ Yuzaki V-antigen
+- Komplement biriktiruvchi S-antigen
+- Somatik O-antigen
+- Xivchinli H-antigen
+- Kapsulali K-antigen
+! Yuzaki oqsil virus hujayraga birikishini belgilaydi, shu sababli himoya antitanalari aynan unga qarshi hosil bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010, «Quturish» bobi
+? Gaterogen AIG jarohat atrofiga yuborishdan oldin qanday haroratgacha isitiladi?
++ 37 ± 0,5 °C gacha
+- 25 ± 0,5 °C gacha, xona haroratiga yaqin
+- 42 ± 0,5 °C gacha, ya'ni qizdirilgan holda
+- 45 ± 1 °C gacha, suv hammomida
+- 4 ± 0,5 °C gacha, sovutgich haroratida
+! Tana haroratiga yaqin isitilgan preparat to'qimaga yuborilganda og'riq va mahalliy reaksiya kamroq bo'ladi.
+@ Mavzu materiali (111.docx)
+#D 111 / 9: mavzu materialidagi 2011-yilgi buyruq mushak ichiga 5–6 dozali sxemani beradi, JSST esa teri ichiga yuborishni tavsiya etadi; sxemalar bir-biridan farq qiladi.
+#U 111 / 5: teri ichi sinamasi tafsilotlari (1:100 suyultirma, 0,1 ml, 1 sm mezoni) faqat mavzu materialiga tayanadi.
+#U 111 / 9: preparat nomlari (Vakreybiz, Verosel) bo'yicha kunlar jadvali faqat 2011-yilgi buyruq ilovasiga tayanadi.
+#U 111 / 12: 37 ± 0,5 °C isitish talabi faqat mavzu materialiga tayanadi.

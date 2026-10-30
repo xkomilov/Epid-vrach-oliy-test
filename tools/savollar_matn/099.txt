@@ -1,0 +1,97 @@
+=== 099
+? Yuqumli kasalliklar bo'yicha vaziyatni baholash epidemiologik tashxisotning qaysi ikki asosiy usuliga tayanadi?
++ Operativ (tezkor) va retrospektiv epidemiologik tahlil
+- Klinik-laboratoriya va patomorfologik tahlil, ya'ni bemorlarni tekshirish usullari
+- Statistik tanlov va kogort tahlil, ya'ni faqat tajriba usullari
+- Eksperimental va gigiyenik me'yorlash tahlili
+- Sotsiologik so'rov va iqtisodiy samaradorlik tahlili
+! Bu usullar bir-birini to'ldiradi: biri joriy o'zgarishlarni, ikkinchisi o'tgan davr tendensiyalarini ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ epidemiologik tahlilning asosiy vazifasi nima?
++ Kasallanish darajasining o'zgarishini tez aniqlash va epidemik avj olish boshlanishini topish
+- O'tgan o'n yillik tendensiyalarni tahlil qilib, uzoq muddatli prognoz tuzish va tadbirlar rejasini belgilash
+- Tadbirlarning iqtisodiy samaradorligini yil oxirida hisoblash
+- Aholining demografik tarkibini ro'yxatga olish va yangilash
+- Laboratoriya reaktivlari zaxirasini hisoblash va buyurtma berish
+! Uzluksiz kuzatuv odatdagi daraja bilan solishtirish orqali og'ishlarni vaqtida ushlashga imkon beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qanday avj olishlarda operativ tahlilda kunlik dinamika ayniqsa muhim?
++ O'tkir, asosan ovqat omili bilan bog'liq avj olishlarda
+- Sekin kechuvchi, ko'p yillik davriylikka ega infeksiyalarda
+- Faqat transmissiv yo'l bilan tarqaluvchi kasalliklarda
+- Yillik retrospektiv tahlil davomida, kalendar yil oxirida
+- Qonli parenteral yo'l bilan tarqaluvchi surunkali infeksiyalarda
+! Bunday avj olishlar qisqa vaqtda rivojlanadi, shu sababli haftalik ma'lumot kechikib qolishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Operativ tahlil tizimida qaysi tekshiruv majburiy hisoblanadi?
++ Ikki va undan ko'p holat bo'lgan o'choqlarni epidemiologik tekshirish
+- O'lim bilan tugagan holatlarni batafsil tekshirish va sud-tibbiy ekspertiza o'tkazish
+- Sog'lom odamlarning har birini yiliga bir marta ommaviy tekshirish
+- Yengil shakllarning hammasini laboratoriyada tasdiqlash va ro'yxatga olish
+- Hududdagi barcha suv manbalarini har kuni tekshirish
+! Takroriy holatlar o'choq tarqalayotganini bildiradi, shuning uchun ularni o'rganish zarur.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv epidemiologik tahlilning tasviriy bosqichidan so'ng qaysi bosqich keladi?
++ Analitik bosqich, ya'ni sabab-oqibat bog'lanishlarini aniqlash
+- Dastur tuzish bosqichi, ya'ni tahlil rejasini belgilash
+- Guruhlash bosqichi, ya'ni materialni jadval shakliga keltirish
+- Prognoz bosqichi, ya'ni kelgusi yilni bashorat qilish
+- Hisobot bosqichi, ya'ni natijalarni arxivga topshirish
+! Avval jarayon tavsiflanadi, so'ngra uning sabablari izlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Retrospektiv tahlilda emlashdan taxminan qancha vaqt o'tgach immunologik tekshiruvlar o'tkaziladi?
++ Taxminan yarim yildan keyin
+- Emlashdan 1–2 kun keyin
+- Taxminan 5 yildan keyin, qayta emlash vaqtida
+- Emlashdan 2 hafta oldin
+- Taxminan 15 yildan keyin, keksalikda
+! Shu vaqtda himoya titrlari shakllangan bo'ladi va emlash sifatini baholash mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Bir yilda 300 000 xavf ostidagi aholida 60 yangi holat qayd etilgan. Kumulyativ insidentlik qancha?
++ Yiliga 20 holat/100 000
+- Yiliga 200 holat/100 000
+- Yiliga 60 holat/100 000
+- Yiliga 5 holat/100 000
+- Yiliga 180 holat/100 000
+! Yangi holatlar soni xavf ostidagi aholiga bo'linib, 100 000 ga ko'paytiriladi: 60/300 000 × 100 000.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Insidentlik hisoblashda maxraj qanday tanlanishi kerak?
++ Faqat haqiqatan xavf ostidagi aholi hisoblanishi kerak
+- Barcha aholi, jinsi va yoshidan qat'i nazar, umumiy soni olinishi kerak
+- Kasallangan shaxslarning o'zi, ya'ni holatlar soni maxrajga qo'yilishi kerak
+- Emlangan shaxslar soni, ya'ni vaksina olganlar maxrajga qo'yilishi kerak
+- Tibbiy muassasaga murojaat qilgan shaxslar soni maxrajga qo'yilishi kerak
+! Masalan, ayollar kasalliklari uchun erkaklar maxrajga kirmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Xalqaro tibbiy-sanitariya qoidalariga (2005) ko'ra xalqaro ahamiyatga ega favqulodda vaziyat bo'lish ehtimoli bor hodisa baholangandan keyin JSST ga qancha vaqt ichida xabar beriladi?
++ 24 soat ichida
+- 1 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+- 30 kun ichida
+! Tezkor xabar berish xalqaro javobni o'z vaqtida muvofiqlashtirishga imkon beradi.
+@ Xalqaro tibbiy-sanitariya qoidalari (2005), 6-modda va 2-ilova
+? Emlash bilan boshqariladigan infeksiyalarda emlash qamrovi qanday tahlil qilinadi va qaysi shakl bo'yicha hisobot tuziladi?
++ Har oy tahlil qilinadi, 6-shakl bo'yicha hisobot tuziladi
+- Har yili bir marta tahlil qilinadi, 1-shakl bo'yicha hisobot tuziladi
+- Har choraklik tahlil qilinadi, 12-shakl bo'yicha hisobot tuziladi
+- Har kuni tahlil qilinadi, 63-shakl bo'yicha hisobot tuziladi
+- Har besh yilda tahlil qilinadi, 25-shakl bo'yicha hisobot tuziladi
+! Muntazam oylik tahlil qamrovdagi bo'shliqlarni vaqtida aniqlashga yordam beradi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Ro'yxatga olish to'liqligini buzuvchi, ayniqsa yiringli-septik infeksiyalarda uchrab turadigan holat qaysi?
++ Kasallanish ko'rsatkichlarini ongli ravishda pasaytirish (yashirish)
+- Kasallanish ko'rsatkichlarini aholi sonining o'sishi hisobiga me'yorlash
+- Kasalliklarni xalqaro tasnif bo'yicha shifrlash
+- Hisobotlarni elektron shaklda uzatish
+- Hisobot shakllarini qog'oz ko'rinishida arxivda saqlash
+! Bunday xatolar hududlarni solishtirishda noto'g'ri xulosalarga olib kelishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Bo'g'ma (difteriya) bo'yicha laboratoriya tashxisida birlamchi tashxis va toksigenlik bo'yicha yakuniy natija qanday muddatlarda beriladi?
++ Birlamchi tashxis 1 sutkada, toksigenlik bo'yicha yakuniy natija 4 kunda
+- Birlamchi tashxis 4 sutkada, toksigenlik bo'yicha yakuniy natija 1 kunda
+- Birlamchi tashxis 3 sutkada, toksigenlik bo'yicha yakuniy natija 14 kunda
+- Birlamchi tashxis 7 sutkada, toksigenlik bo'yicha yakuniy natija 10 kunda
+- Birlamchi tashxis 12 soatda, toksigenlik bo'yicha yakuniy natija 2 kunda
+! Toksigenlikni tasdiqlash qo'shimcha bosqichlar talab qilgani uchun u birlamchi natijadan keyin olinadi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova (difteriya bakteriologik va serologik indikatsiyasi bo'yicha uslubiy ko'rsatma)

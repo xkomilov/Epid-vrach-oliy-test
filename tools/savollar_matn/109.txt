@@ -1,0 +1,101 @@
+=== 109
+? Saparov qo'llanmasiga ko'ra, hozirgacha virusli gemorragik isitmalarning nechta mustaqil turi aniqlangan?
++ 15 ta
+- 5 ta
+- 8 ta
+- 30 ta
+- 100 ta
+! Bu guruhga turli oilalarga mansub virus qo'zg'atuvchilar kiradi, ularning aksariyati odamlarda, ozchiligi hayvonlarda kasallik chaqiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Chumakov tasnifiga ko'ra, kanalar orqali yuqadigan VGI qatoriga qaysilar kiradi?
++ Qrim, Omsk va Kyasanur gemorragik isitmalari
+- Sariq isitma, Denge va Chikungunya
+- Marburg, Ebola va Lassa isitmalari
+- Rift vodiysi isitmasi, Argentina va Boliviya gemorragik isitmalari
+- Buyrak sindromi bilan kechuvchi isitma, Makak isitmasi va Denge
+! Bu kasalliklar qo'zg'atuvchisini ixodid kanalar tashiydi va ular chaqqanda odamga yuqadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? 1967-yilda Yevropada Marburg isitmasi bilan kasallangan laboratoriya xodimlari qaysi hayvonlar a'zosi va qoni bilan aloqada bo'lgan?
++ Ugandadan olib kelingan yashil maymunlar
+- Nigeriyadan keltirilgan kemiruvchilar
+- Afrikadan olib kelingan ko'rshapalaklar
+- Amerikadan keltirilgan laboratoriya sichqonlari
+- Osiyodan olib kelingan qoramollar
+! Epidemiya olib kelingan hayvonlarning to'qima va qoni bilan aloqada bo'lganlarda boshlangan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? Lassa isitmasi birinchi marta qaysi yilda va qaysi mamlakatda aniqlangan?
++ 1969-yilda Nigeriyada
+- 1967-yilda Ugandada
+- 1976-yilda Zairda
+- 1945-yilda Rossiyada
+- 1648-yilda Meksikada
+! Kasallik nomi birinchi marta qayd etilgan aholi punkti nomi bilan bog'liq.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? 1976-yilda Sudanda Ebola isitmasining 284 holatidan 151 tasida o'lim qayd etilgan; o'lim ulushi qancha?
++ 53,2%
+- 15,1%
+- 28,4%
+- 75,8%
+- 92,0%
+! Ulush o'limlar sonining holatlar soniga nisbati sifatida hisoblanadi: 151 ni 284 ga bo'lib 100 ga ko'paytirish yetarli.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010
+? QKGI qo'zg'atuvchisi qaysi oila va turkumga mansub?
++ Bunyaviridae oilasi, Nairovirus turkumi
+- Flaviviridae oilasi, Flavivirus turkumi
+- Filoviridae oilasi, Ebolavirus turkumi
+- Arenaviridae oilasi, Mammarenavirus turkumi
+- Togaviridae oilasi, Alphavirus turkumi
+! Qo'zg'atuvchi RNK tutuvchi virus bo'lib, bunyaviruslar oilasining nairoviruslar turkumiga kiradi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova (QKGI bo'yicha yo'riqnoma)
+? JSST ma'lumotiga ko'ra, QKGIda o'lim ko'rsatkichi qanday oraliqda bo'ladi?
++ 10–40%
+- 0,1–1%
+- 1–3%
+- 60–80%
+- 95–100%
+! Kasallikning og'ir kechishi va gemorragik asoratlar tufayli o'lim yuqori, ammo aniq ko'rsatkich holatlarga qarab o'zgaradi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? QKGIning asosiy vektori bo'lib qaysi kanalar hisoblanadi?
++ Hyalomma kanalari
+- Ixodes kanalari
+- Dermacentor kanalari
+- Sarcoptes kanalari
+- Ornithodoros kanalari
+! Bu kanalar qo'zg'atuvchini hayvonlar orasida saqlaydi va chaqqanda odamga o'tkazadi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+? O'zbekistonda QKGI mavsumiyligi qaysi oylarga to'g'ri keladi?
++ Aprel–oktyabr (asosan aprel–iyul)
+- Noyabr–mart (asosan dekabr–fevral)
+- Yil bo'yi bir tekis, mavsumiyliksiz
+- Faqat yanvar–fevral oylari
+- Sentabr–dekabr (asosan noyabr)
+! Mavsumiylik kanalarning faol bo'lib, issiq oylarda hayvonlar va odamlarga hujum qilishi bilan bog'liq.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova (QKGI bo'yicha yo'riqnoma)
+? Gemorragik isitma gumon qilinganda aloqadorlar ustidan necha kun tibbiy kuzatuv o'rnatiladi?
++ 7 kun, kuniga 2 marta harorat o'lchanib
+- 21 kun, har kuni ko'rik o'tkazilib, uyda
+- 3 kun, haftada bir marta ko'rik bilan
+- 30 kun, faqat anketa to'ldirish orqali
+- 14 kun, har soatda harorat o'lchanib
+! Kuzatuv muddati kasallikning yashirin davriga mos bo'lib, isitma paydo bo'lishi bilan aloqador zudlik bilan ajratiladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova (QKGI bo'yicha yo'riqnoma)
+? Yo'riqnomaga ko'ra, uy hayvonlari bor molxonalarda kanalarga qarshi profilaktik ishlov yil bo'yi necha marta o'tkaziladi?
++ 4 marta
+- 1 marta
+- 2 marta
+- 12 marta
+- 6 marta
+! Ishlov kanalar faol bo'lgan davrni qamrab oladigan muddatlarga bo'linib o'tkaziladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 4-ilova (QKGI bo'yicha yo'riqnoma)
+? JSST fikricha, QKGIdan himoyalanishda asosiy usul nima, chunki xavfsiz va keng qo'llanadigan vaksina yo'q?
++ Xabardorlikni oshirish va kana hamda hayvon qoni bilan kontaktdan saqlanish
+- Hudud aholisining hammasini yiliga ikki marta ommaviy emlash va nazorat qilish
+- Hudud aholisiga har oyda profilaktik antibiotik kursini berish
+- Aholini xavfli hududlardan butunlay ko'chirib, hududni bo'shatish
+- Faqat bemorlarni davolash va profilaktik ishlarsiz kuzatish
+! Vaksina bo'lmagani uchun yuqish xavfini kamaytiruvchi shaxsiy himoya va xabardorlik asosiy profilaktik chora bo'lib qoladi.
+@ WHO. Crimean-Congo haemorrhagic fever (fact sheet)
+#D 109 / 3: mavzu materialida Marburg isitmasi 1967 yilda Yevropaning uch shahrida (Marburg, Frankfurt, Zagreb) qayd etilgani aytilgan; rasmiy manbalarda uchinchi shahar Belgrad deb ko'rsatiladi, shuning uchun savolda shaharlar keltirilmadi.
+#U 109 / 5: Sudandagi 284 holat va 151 o'lim ma'lumoti faqat Saparov qo'llanmasiga tayangan.
+#U 109 / 10: 7 kunlik kuzatuv va kuniga 2 marta termometriya faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.
+#U 109 / 11: yilda 4 marta ishlov muddatlari faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.

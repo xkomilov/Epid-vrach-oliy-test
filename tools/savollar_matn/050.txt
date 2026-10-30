@@ -1,0 +1,99 @@
+=== 050
+? Barcha o'tkir ichak infeksiyalarini epidemiologik jihatdan yagona guruhga birlashtiruvchi xususiyat nima?
++ Yagona fekal-oral yuqish mexanizmi
+- Yagona havo-tomchi yuqish mexanizmi
+- Yagona qo'zg'atuvchi turi — gramm-manfiy bakteriyalar
+- Yagona infeksiya manbai — kasal chorva hayvonlari
+- Yagona transmissiv mexanizm, bunda tashuvchi hasharotlar ishtirok etadi
+! Qo'zg'atuvchi najas bilan chiqib, og'iz orqali kiradi, shu sababli profilaktikada o'xshash yondashuv qo'llaniladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Diarrhoeal disease (fact sheet)
+? Yagona fekal-oral mexanizm qaysi uch asosiy yo'l orqali amalga oshadi?
++ Suv, oziq-ovqat va maishiy-kontakt yo'llari orqali
+- Havo-tomchi, havo-chang va transmissiv yo'llar orqali
+- Parenteral, vertikal va jinsiy yo'llar orqali
+- Suv, qon quyish va transmissiv yo'llar orqali
+- Havo-tomchi, oziq-ovqat va jarohat kontakti yo'llari orqali
+! Har bir infeksiya uchun bu yo'llardan biri yetakchi bo'ladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Maishiy-kontakt yo'li qaysi infeksiyalar uchun xos?
++ Past yuqtiruvchi dozali infeksiyalar, masalan dizenteriya
+- Faqat tuxum va parranda go'shti orqali yuqadigan infeksiyalar, masalan salmonellyoz
+- Ifloslangan ichimlik suvi orqali yuqadigan ich terlama va vabo
+- Kanalar chaqishi orqali yuqadigan tabiiy o'choqli infeksiyalar
+- Qon orqali yuqadigan parenteral gepatitlar
+! Dizenteriyada iflos qo'llar, idish-tovoq va buyumlar yuqish omili bo'ladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Yetakchi yuqish yo'li nimaga bog'liq?
++ Qo'zg'atuvchining biologik xususiyatlariga — tashqi muhitdagi chidamliligi va yuqtiruvchi dozasiga
+- Bemorning yoshi va jinsiga, bunda qo'zg'atuvchi xususiyatlari ahamiyatsiz hisoblanadi va tashqi muhit ham e'tiborga olinmaydi
+- Yil faslidan, bunda qo'zg'atuvchi xususiyatlari ahamiyatsiz
+- Kasalxonaning joylashgan hududidagi yotoq-o'rinlar soniga
+- Bemorning ijtimoiy ahvoliga va kasbiga, bunda yuqtiruvchi doza hisobga olinmaydi
+! Masalan, past yuqtiruvchi doza maishiy-kontakt yo'lini, tashqi muhitdagi chidamlilik esa suv yo'lini kuchaytiradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Qaysi belgi suv yo'li epidemiyasiga ishora qiladi?
++ Bir vaqtda ko'p sonli holatlar paydo bo'lishi va ularning bir manba bilan bog'lanishi
+- Holatlar asta-sekin, faqat oila a'zolari ichida ketma-ket paydo bo'lishi va umumiy manba aniqlanmasligi
+- Kasallanishning faqat kattalar orasida yil davomida bir tekis uchrashi
+- Bemorlarning bitta xonadagi parenteral muolajalardan keyin kasallanishi
+- Faqat chorvadorlar orasida bahor-yoz oylarida kasallanish bo'lishi
+! Bir manba (quduq, vodoprovod) dan zararlanish portlashsimon kasallanish beradi, bunda suvni zudlik bilan nazorat qilish zarur.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Pashshaga qarshi kurash nima uchun OIK profilaktikasining qismi hisoblanadi?
++ Pashsha mexanik tashuvchi sifatida qo'zg'atuvchini najasdan oziq-ovqatga o'tkazadi
+- Pashsha qo'zg'atuvchining asosiy rezervuari bo'lib, uni yillar davomida saqlaydi
+- Pashsha chaqishi orqali qon bilan qo'zg'atuvchini yuqtiradi va tanasida biologik ko'paytiradi
+- Pashsha qo'zg'atuvchini havo-tomchi yo'li bilan tarqatuvchi omildir
+- Pashsha faqat tabiiy o'choqlarda uchraydi va shaharlarda ahamiyatsiz, shu sababli unga qarshi kurash olib borilmaydi
+! Pashsha faolligi yoz oylarida ortishi OIK ning yozgi-kuzgi mavsumiyligini ham tushuntiradi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+? Og'ir hollarda OIK da hayot uchun xavf tug'diradigan holat va uni bartaraf etish usuli qaysi javobda to'g'ri ko'rsatilgan?
++ Degidratatsiya (suvsizlanish); suyuqlik-tuz yo'qotishini tiklash (regidratatsiya)
+- Giperglikemiya; insulin kiritish, qand miqdorini pasaytirish va parhezni qat'iy cheklash
+- Gipertermiya; kuchli sovitish, muz bilan o'rash va suyuqlik berishni cheklash
+- Anafilaktik shok; adrenalin yuborish, bemorni yotqizish va antigistamin berish
+- Giperxloremiya; tuzli eritmalarni cheklash, tuzsiz parhez va diuretiklar berish
+! Ayniqsa chaqaloqlarda suyuqlik yo'qotish tez rivojlanadi, regidratatsiya esa hayotni saqlab qoladi.
+@ World Health Organization. Diarrhoeal disease (fact sheet)
+? Fekal-oral kasalliklarda epidemiyaga qarshi tadbirlarning yetakchi yo'nalishi qaysi?
++ Yuqish yo'llarini uzish
+- Faqat bemorlarni davolash va ularga antibiotik berish
+- Aholini ommaviy vaksinalash va qayta emlash
+- Tabiiy o'choqlarni rayonlashtirish
+- Chegaralarni yopish va aholi migratsiyasini to'xtatish
+! Buning uchun xavfsiz suv, sanitariya, oziq-ovqat nazorati va shaxsiy gigiyena ta'minlanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari); World Health Organization. Diarrhoeal disease (fact sheet)
+? Yetakchi yuqish yo'lini aniqlash uchun bemorlar yashash joylari xaritaga tushirilganda unga yana nimalar tushiriladi?
++ Suv ta'minoti, umumiy ovqatlanish va savdo muassasalari
+- Aholining qarindoshlik daraxti va nikoh holati
+- Faqat mahalliy hokimlik binolari va maktablarning joylashishi
+- Tabiiy o'choqlardagi kanalar yashaydigan yaylovlar
+- Davlat chegarasi va tashqi savdo yo'llari
+! Bu bemorlarning joylashuvi bilan suv va oziq-ovqat manbalari o'rtasidagi bog'liqlikni ko'rsatadi.
+@ Mavzu materiali (050.docx)
+? Milliy yo'riqnomaga ko'ra ich terlama va paratif qo'zg'atuvchilari sut, go'sht, baliq va sabzavotli salatlarda qaysi haroratda ko'payishi mumkin?
++ 18 °C dan past bo'lmagan haroratda
+- 0 °C dan past bo'lmagan haroratda
+- 60 °C dan yuqori haroratda
+- 80 °C dan yuqori haroratda
+- 5 °C dan past haroratda
+! Qo'zg'atuvchilar bu mahsulotlarda saqlanibgina qolmay, ko'payishi ham mumkin.
+@ Mavzu materiali (050.docx)
+? Qaysi OIK larga qarshi maxsus vaksinalar mavjud?
++ Vabo, gepatit A va rotavirus infeksiyasi
+- Dizenteriya, esherixioz va salmonellyoz
+- Ich terlama, yersinioz va kampilobakterioz
+- Botulizm, ambeoz va giardioz
+- Shigellyoz, klebsielloz va kolienterit
+! Ko'pchilik OIK da maxsus profilaktika yetakchi emas, shu sababli sanitariya choralari ustuvor bo'lib qoladi.
+@ Mavzu materiali (050.docx); World Health Organization. Diarrhoeal disease (fact sheet)
+? Epidemik mavsum oldidan OIK bo'yicha qaysi tadbirlar majmuasi rejalashtiriladi?
++ Suv manbalarini tekshirish, bozor va ovqatlanish shoxobchalarida nazoratni kuchaytirish, pashshaga qarshi kurash
+- Aholini ommaviy ravishda antibiotik bilan profilaktik davolash va barcha bolalarni qayta emlash
+- Chegara postlarida barcha kelganlarni uzoq muddatli karantinga olib, kasalxonaga yotqizish va ularni qayta tekshirish
+- Tibbiyot muassasalarida rejali jarrohlikni to'xtatish va yotoq-o'rinlarni qisqartirish
+- Niqob taqish majburiyatini joriy etish, maktablarni yopish va jamoat joylarini cheklash
+! Tadbirlar epidemiologik tashxis asosida tuziladi va ularning samaradorligi kasallanish pasayishi orqali baholanadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'i va 1–3-ilovalari (OIK, ich terlama va paratif, salmonellyoz yo'riqnomalari)
+#U 050 / 9: bemorlar yashash joylari xaritasiga suv ta'minoti, umumiy ovqatlanish va savdo muassasalarini tushirish usuli faqat mavzu materialiga tayangan.
+#U 050 / 10: ich terlama va paratif qo'zg'atuvchilarining 18 °C dan past bo'lmagan haroratda ko'payishi faqat mavzu materialiga tayangan.

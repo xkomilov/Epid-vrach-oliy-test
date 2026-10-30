@@ -1,0 +1,98 @@
+=== 054
+? Darslikka ko'ra, epidemiologik nazorat nimadan iborat?
++ Epidemik jarayon xususiyatlari va rivojlanishiga uzluksiz baho berish
+- Bemorlarni kasalxonada davolash va ularning sog'ayish dinamikasini yozib borish
+- Aholini yiliga bir marta ommaviy tibbiy ko'rikdan o'tkazib, natijalarni yig'ish
+- Laboratoriya reaktivlari zaxirasini hisobga olish va ularni tarqatish
+- Faqat bir martalik tekshiruvdan so'ng hisobot tayyorlashdan iborat ish
+! Nazorat qaror qabul qilish uchun epidemik jarayonni doimiy kuzatish va baholashga asoslanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob
+? VGA nazoratida kasallikning standart ta'rifi nima uchun taklif etiladi?
++ Yengil atipik shakllar ro'yxatdan o'tmay qolmasligi uchun
+- Sariqlik bilan kechgan holatlarni ro'yxatga olishni osonlashtirish uchun
+- Bemorlarni davolash muddatini qisqartirish va dori sarfini kamaytirish uchun
+- Faqat bolalar jamoalaridagi holatlarni boshqalardan ajratib olish uchun
+- Laboratoriya tekshiruvini butunlay bekor qilib, klinik tashxisga tayanish uchun
+! VGA da belgisiz va yengil shakllar ko'p, ular aniqlanmasa nazorat noto'liq bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob
+? Qon zardobida anti-HAV IgM qancha vaqt saqlanadi va nimani ko'rsatadi?
++ 3–4 oy, o'tkir VGA infeksiyasini
+- 1–2 hafta, aholining immunostrukturasini
+- 6–12 oy, emlashdan keyingi umrbod himoyani
+- Umrbod saqlanadi, kasallikning surunkali shaklini
+- 5–6 oy, virusning faol ko'payayotganligini va surunkali jarayonni
+! IgM erta paydo bo'lib, o'tkir bosqichni tasdiqlaydi, keyinroq esa IgG bilan almashadi.
+@ Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot, material № 1471)
+? Anti-HAV IgG aniqlash nima uchun ishlatiladi?
++ Aholining immunostrukturasini baholash uchun
+- O'tkir infeksiyani kasallikning birinchi kunlarida tasdiqlash uchun
+- Bemorning yuqumli ekanligini va virus ajratayotganini aniqlash uchun
+- Surunkali gepatit B bilan birga kechayotganini tekshirish uchun
+- Dezinfeksiya sifatini va qoldiq vosita konsentratsiyasini baholash uchun
+! IgG uzoq saqlanadi va o'tkazilgan infeksiya yoki immunitetni ko'rsatadi, shuning uchun aholi darajasidagi baholashga mos.
+@ Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot, material № 1471)
+? VGA bilan kasallanishning mavsumiy ko'tarilishi qachon boshlanadi va qachon kuchayadi?
++ Sentyabr o'rtasidan boshlanib, oktyabr–noyabrda kuchayadi
+- May–iyunda boshlanib, iyul–avgustda kuchayadi
+- Dekabr–yanvarda boshlanib, fevral–martda kuchayadi
+- Mart o'rtasidan boshlanib, aprel–mayda kuchayadi
+- Iyul oyida boshlanib, avgust–sentyabrda eng yuqori nuqtaga yetadi
+! Mavsumiylik retrospektiv tahlilda aniqlanadi va tadbirlar ko'tarilishdan oldin kuchaytiriladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob; Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot)
+? JSST bo'yicha VGA ning odatiy yashirin davri qancha davom etadi?
++ 14–28 kun
+- 2–6 kun
+- 45–160 kun
+- 2–3 oy
+- 7–10 kun
+! JSST odatiy oraliq sifatida shuni ko'rsatadi, ko'proq oraliqni qamrab olish uchun kuzatuv muddati uzunroq olinadi.
+@ WHO. Hepatitis A (fact sheet)
+#D 054 / 6: taqdimotda yashirin davr 14–50 kun (o'rtacha 20–25) deb berilgan, JSST esa odatda 14–28 kun deydi.
+? VGA o'chog'ida o'choqli (yakuniy) dezinfeksiya qachon va qanday qamrov bilan o'tkaziladi?
++ Bemor yotqizilgandan 24 soat ichida, kamida 95 foiz qamrov bilan
+- Bemor yotqizilgandan 72 soat ichida, kamida 95 foiz qamrov bilan
+- Yotqizilgan paytdan 24 soat ichida, kamida 60 foiz qamrov bilan
+- Bemor yotqizilgandan 10 kun o'tgach, to'liq qamrov bilan
+- Oziq-ovqat obyektlarida, 48 soat ichida, 80 foiz qamrov bilan
+! O'choqli dezinfeksiya VGA o'choqlarida majburiy, sifati surtmalar va qoldiq vosita testlari bilan baholanadi.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 55, 56, 63, 65-bandlar
+? VGA o'chog'ining davomiyligi nima bilan belgilanadi?
++ Infeksiya manbai mavjud bo'lgan vaqt va kasallikning maksimal yashirin davri bilan
+- Bemor kasalxonaga yotqizilgan kun bilan, o'chog'ning o'zi hisobga olinmasdan
+- Dezinfeksiya o'tkazilgan sana bilan, ishlov tugagan zahoti
+- Bemor tuzalib, ishga qaytgan kun va uning ko'rigi bilan
+- O'chog'ga birinchi kelgan epidemiolog tomonidan o'zboshimchalik bilan belgilangan 7 kunlik muddat
+! Bemor ketgandan keyin ham muloqotda bo'lganlar orasida yashirin davr davomida kasallik rivojlanishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob
+? VGA da bemor qaysi davrda eng yuqumli bo'ladi?
++ Sariqlik paydo bo'lishidan oldin, belgisiz yoki notipik kechganda
+- Sariqlik cho'qqisida, siydik to'q rangga kirgan va jigar kattalashgan davrda
+- Tuzalgandan keyingi uchinchi oyda, qaytalanish davrida
+- Faqat surunkali tashuvchilik davrida, sariqlik yo'qolgach
+- Kasallikning eng og'ir bosqichida, kasalxonaga yotqizilgach
+! Sariqlik paydo bo'lishi bilan virus ajralishi to'xtaydi yoki kamayadi, belgisiz bemorlar esa oyoqda yurib kasallikni tarqatadi.
+@ Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot, material № 1471)
+? Operativ epidemiologik tahlil qanday davriylikda o'tkaziladi?
++ Haftalik va oylik ko'rsatkichlar asosida
+- Yillik va ko'p yillik ko'rsatkichlar asosida
+- Har besh yilda bir marta, aholi ro'yxatidan keyin
+- Epidemiya e'lon qilingandan keyingina, bir martalik tarzda
+- Kunning har soatida, uzluksiz avtomatik kuzatuv orqali
+! Operativ tahlil kasallanish darajasi va tarkibining qisqa muddatli o'zgarishlarini tez aniqlash uchun xizmat qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob
+? Retrospektiv tahlilning to'rt bosqichi qaysilar?
++ Dastur tuzish, guruhlash, tavsiflash va analitik bosqich
+- Ma'lumot yig'ish, tasniflash, davolash va hisobot tayyorlash
+- Dezinfeksiya, ajratish, emlash va yakuniy baholash
+- Tekshiruv, tashxis, gospitalizatsiya va dispanser kuzatuvi
+- Aniqlash, xabar berish, ajratish va dezinsektsiya
+! Bosqichlar bir-birini to'ldiradi va ko'p yillik ma'lumotlardan mavsumiylik, xavfli guruhlar va hududlarni aniqlashga olib keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob
+? Profilaktika va epidemiyaga qarshi ish rejasida nimalar ko'rsatilishi kerak?
++ Bajarish muddatlari, mas'ul ijrochilar, ma'muriy va moddiy ta'minot
+- Bemorlar ro'yxati va ularning yashash manzillari bilan birga telefon raqamlari
+- Dori vositalari narxi va ularni sotib olish bo'yicha shartnomalar
+- Umumiy maqsadlar va kutilayotgan natijalar, muddat va ijrochilarsiz
+- Laboratoriya natijalari va ularning arxiv raqamlari
+! Reja ijrosini nazorat qilish uchun har bir tadbirning muddati, ijrochisi va ta'minoti aniq belgilanishi shart.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 14-bob

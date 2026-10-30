@@ -1,0 +1,98 @@
+=== 142
+? O'tkir OIV infeksiyasi bosqichi odatda qancha davom etadi?
++ Odatda 2–3 hafta
+- Odatda 6–8 hafta
+- Odatda 3–4 oy
+- Odatda 1–2 kun
+- Odatda 6 oydan 1 yilgacha
+! O'tkir bosqich serokonversiyagacha namoyon bo'lib, bir necha kundan oygacha cho'ziladi, ko'pchilikda esa bu muddat taxminan shunday bo'ladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Milliy protokolga ko'ra 1-klinik bosqichda CD4+ hujayralar soni o'rtacha qanday tezlikda pasayadi?
++ Yiliga o'rtacha 50–70 hujayra/mkl
+- Yiliga o'rtacha 5–10 hujayra/mkl
+- Yiliga o'rtacha 150–200 hujayra/mkl
+- Oyiga o'rtacha 50–70 hujayra/mkl
+- Yiliga o'rtacha 300–400 hujayra/mkl
+! Belgisiz kechish davrida immun tanqisligi sekin rivojlanadi, shuning uchun yillik pasayish nisbatan kichik bo'ladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Qaysi belgi 3-klinik bosqichga xos hisoblanadi?
++ Sababsiz surunkali diareya (1 oydan ko'p)
+- Burchak xeylit va o'rab oluvchi temiratki
+- Kriptokokk meningiti va OIV ensefalopatiyasi
+- Qichishuvchi papulyoz toshma va seboreyali dermatit
+- Bachadon bo'yni raki va Kaposhi sarkomasi
+! Surunkali sababsiz diareya va isitma bir oydan uzoq cho'zilsa, kasallik 3-bosqichga o'tgan hisoblanadi; boshqa belgilar 2- yoki 4-bosqichga xos.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Quyidagi kasalliklardan qaysi biri 4-klinik bosqich (OITS)ni belgilaydi?
++ Kriptokokk meningiti
+- Tirnoq zamburug'i
+- Tukli leykoplakiya
+- Og'iz bo'shlig'i kandidozi
+- O'pka sili
+! Og'ir opportunistik infeksiyalar OITS bosqichini ko'rsatadi, qolganlari esa kamroq og'ir va oldingi bosqichlarga mansub.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Milliy protokolga ko'ra OIV infeksiyasining klinik bosqichi nimaga asoslanib qo'yiladi?
++ Simptomlar va klinik ko'rinishlar (opportunistik kasalliklar) asosida
+- CD4+ hujayralar sonining laboratoriya ko'rsatkichi asosida
+- Plazmadagi virus yuklamasining miqdoriy ko'rsatkichi va CD4 darajasi asosida
+- IFA reaksiyasida optik zichlik darajasi asosida
+- Immunoblotdagi musbat oqsil bandlari soni asosida
+! Bosqich klinik ko'rinishga qarab, ilgari o'tkazilgan eng og'ir holatni hisobga olib belgilanadi, laboratoriya ko'rsatkichlari esa asos emas.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? AQSh KKNM (CDC) tasnifi klinik va immunologik mezonlarni birlashtirib nechta guruhga bo'ladi?
++ 9 ta guruhga (A1–C3)
+- 4 ta guruhga (1–4)
+- 6 ta guruhga (A1–B3)
+- 12 ta guruhga (A1–D3)
+- 5 ta guruhga (I–V)
+! Uchta klinik toifa (A, B, C) uchta immunologik toifa (CD4 darajalari) bilan kesishib to'qqiz guruhni hosil qiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? JSST bo'yicha kattalar va o'smirlarda ilg'or OIV kasalligi qaysi mezon bilan belgilanadi?
++ CD4 < 200 hujayra/mm3 yoki 3–4-klinik bosqich hodisasi
+- CD4 < 500 hujayra/mm3 yoki 1–2-klinik bosqich hodisasi
+- CD4 < 350 hujayra/mm3 va virus yuklamasi aniqlanmaydigan daraja
+- CD4 > 200 hujayra/mm3 va faqat o'tkir infeksiya belgilari
+- CD4 < 100 hujayra/mm3 va kamida bitta xavfli o'sma mavjudligi
+! Ilg'or kasallik immun tanqisligi chuqurlashganini bildiradi: CD4 pasayishi yoki og'ir klinik bosqich shunday baholanadi.
+@ WHO. HIV and AIDS (fact sheet)
+? Quyidagi biologik suyuqliklardan qaysi biri orqali OIV yuqmaydi?
++ Ko'z yoshi
+- Sperma
+- Ko'krak suti
+- Qin ajralmasi
+- Qon
+! Ko'z yoshi, so'lak va terda zararlanish birliklari 1 dan kam bo'lgani uchun ular yuqumli hisoblanmaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? Yuqtirgandan keyin 6 oy o'tgach antitelalar IFA yordamida taxminan qancha foizda aniqlanadi?
++ Taxminan 99 % da
+- Taxminan 50 % da
+- Taxminan 75 % da
+- Taxminan 20 % da
+- Taxminan 90–95 % da, shundan keyin ko'rsatkich o'zgarmaydi
+! Antitelalar asta-sekin paydo bo'ladi: 1–1,5 oydan keyin bir qismida, 3 oydan keyin 90–95 %, 6 oydan keyin deyarli hammasida topiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? Sil bilan kasallangan va CD4 soni 50 dan kam bo'lgan bemorda RQT silni davolash boshlanganidan keyin qancha muddat ichida boshlanadi?
++ 2 hafta ichida
+- 4 hafta ichida
+- 8 hafta ichida
+- 12 hafta ichida
+- 6 oy ichida
+! CD4 juda past bo'lsa, o'lim xavfi yuqori bo'lgani uchun terapiya boshqa silli bemorlarga qaraganda tezroq boshlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? RQT samaradorligi baholanganda ko'pchilik bemorlarda virus yuklamasi qaysi muddatda aniqlanmaydigan darajaga tushadi?
++ 12–16-haftada
+- 1–2-haftada
+- 24–28-haftada
+- 40–52-haftada
+- 3–4-haftada
+! Dastlab 4–8 hafta ichida konsentratsiya 3–5 marta kamayadi, to'liq bostirilish esa taxminan to'rt oyga yaqin vaqt ichida kuzatiladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Immunitet tiklanishining yallig'lanish sindromi (ITYaS) rivojlanishi uchun qaysi holat xavf omili hisoblanadi?
++ CD4 < 50 va tarqalgan opportunistik infeksiyalar mavjudligi
+- CD4 > 500 va opportunistik infeksiyalar yo'qligi
+- Virus yuklamasining aniqlanmaydigan darajada ekanligi va RQTga to'liq amal qilinishi
+- RQTni boshlashdan oldin to'liq emlanganlik holati
+- O'tkir infeksiyada antitelalar topilmasligi holati
+! Sindrom RQT boshlangach immun tizimi tiklana boshlaganda, ayniqsa chuqur immunosupressiya va ko'p opportunistik infeksiya fonida paydo bo'ladi.
+@ Mavzu materiali (142.docx)
+#U 142 / 12: ITYaS xavf omillari (CD4 < 50, tarqalgan opportunistik infeksiyalar) faqat mavzu materialiga (277-son buyruq protokoli bayoni) tayangan, tashqi manba bilan tasdiqlanmagan.

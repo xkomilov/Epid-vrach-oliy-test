@@ -1,0 +1,97 @@
+=== 002
+? Epidemik jarayonning elementar katakchasidagi biror bo'g'in uzilsa, jarayonda nima yuz beradi?
++ Epidemik jarayon muqarrar to'xtaydi
+- Jarayon davom etadi, ammo kasallanish faqat bolalar orasida saqlanib qoladi
+- Boshqa yuqish mexanizmi orqali jarayon o'zgarishsiz tezlashib ketadi
+- Qo'zg'atuvchi virulentligi ortib, jarayon yanada kuchayadi
+- Qolgan ikki bo'g'in o'rnini bosgani sababli jarayon davom etadi
+! Katakcha uchta ketma-ket bog'liq qismdan tuzilgan, shuning uchun birining yo'qligi keyingisining shakllanishiga to'sqinlik qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Sapronozlarda infeksiya manbai nima hisoblanadi?
++ Tashqi muhit
+- Kasal odam
+- Kasal uy hayvoni
+- Bakteriya tashuvchi hasharot
+- Yovvoyi kemiruvchilar
+! Antroponozlarda manba odam, zoonozlarda hayvon, sapronozlarda esa qo'zg'atuvchi yashaydigan va ko'payadigan tashqi muhit bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Clostridium botulinum misolida rezervuar va botulizmning asosiy manbai qanday farqlanadi?
++ Rezervuar tuproq, asosiy manba esa noto'g'ri konservalangan oziq-ovqat
+- Rezervuar kasal hayvon, asosiy manba esa bemor odamning najasi va ajralmalari
+- Rezervuar suv havzalari, asosiy manba esa bemorning nafas yo'llaridan chiqqan tomchilar
+- Rezervuar yirik shoxli hayvonlar, asosiy manba esa ifloslangan sut va undan tayyorlangan mahsulotlar
+- Rezervuar kemiruvchilar, asosiy manba esa kanalar tishlagan joydagi teri yaralari
+! Rezervuar har doim ham yuqish manbai bo'lavermaydi: spora tuproqda saqlanadi, kasallik esa konservada toksin to'planganda yuzaga keladi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1
+? Ich terlamada 50% ko'ngillini yuqtiradigan doza virulent shtammning qancha mikrob hujayrasiga teng?
++ 10^7 mikrob hujayrasi
+- 25–50 mikrob hujayrasi, ya'ni tulyaremiyadagidek juda kam miqdor
+- 0,5×10^3–0,5×10^4 mikrob hujayrasi, ya'ni ichburug'dagidek doza
+- 10^2 mikrob hujayrasi
+- 10^12 mikrob hujayrasi
+! Ich terlamada yuqtiruvchi doza ichburug' va tulyaremiyaga nisbatan ancha yuqori, bu qo'zg'atuvchilar sezuvchanligidagi farqni ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tulyaremiyada yuqtirish uchun odatda mikrob hujayralarining qaysi miqdori yetarli?
++ 25–50 hujayra
+- 0,5×10^3–0,5×10^4 hujayra, ichburug'dagi me'yorga yaqin miqdor
+- 10^7 hujayra, ich terlama uchun xos bo'lgan doza
+- 10^9 hujayra, vabo yuqishi uchun zarur miqdor
+- 100 000 hujayra
+! Tulyaremiya qo'zg'atuvchisi eng yuqori sezuvchanlik bilan ajralib turadi, shuning uchun juda kichik doza ham kasallik chaqiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Gromashevskiy ta'biricha, izolyatsiya chorasi asosan epidemik jarayonning qaysi zanjiriga qaratiladi?
++ Birinchi zanjirga, ya'ni infeksiya manbaiga
+- Ikkinchi zanjirga, ya'ni yuqish mexanizmiga, chunki bemor muhitni ifloslantiradi
+- Uchinchi zanjirga, ya'ni moyil organizmga, chunki emlash o'rnini bosadi
+- Ikkala boshqa zanjirga bir xil darajada, chunki ular o'zaro almashinadi
+- Hech bir zanjirga, chunki izolyatsiya faqat bemorning o'zini himoya qiladi
+! Bemorni ajratish manbaning atrofga qo'zg'atuvchi chiqarishini to'xtatadi, protektiv izolyatsiya esa moyil bemorlarni himoya qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Quyidagi infeksiyalarning qaysi birida izolyatsiyani samarali etiotrop davo boshlanganidan 24 soat o'tgach to'xtatish mumkin?
++ Meningokokk keltirib chiqargan kasalliklarda
+- Qizamiq va poliomielitda
+- Vabo va ich terlamada
+- Kuydirgi va o'lat kasalliklarida, chunki ular o'ta xavfli hisoblanadi
+- Virusli gepatit A va ichburug'da
+! Bolalardagi A guruh streptokokklari, meningokokk va Haemophilus influenzae uchun samarali davo yuqish xavfini tez kamaytiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemik jarayonning paydo bo'lishi va tarqalishi qaysi uchta omilga bog'liq?
++ Biologik, ijtimoiy va tabiiy omillarga
+- Genetik, iqtisodiy va siyosiy omillarga
+- Klinik, laboratoriya va statistik omillarga
+- Iqlimiy, demografik va diniy omillarga, jumladan aholining urf-odatlariga
+- Demografik, ekologik va tibbiy omillarga
+! Biologik omil parazit va xo'jayin munosabatini, ijtimoiy omil yashash sharoitini, tabiiy omil esa iqlim va landshaftni qamrab oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Emlanganlik 85–90 foizga yetgan aholida ham qizamiq va qizilcha avj olgani qanday izohlanadi?
++ Moyil kishilar ijtimoiy yoki madaniy omillar bo'yicha ajralgan kichik guruhlarda to'planadi
+- Vaksina ta'siri bir necha oyda butunlay yo'qoladi va emlash foydasiz bo'lib qoladi
+- Qizamiq va qizilcha qo'zg'atuvchisi tashqi muhitda bir necha yil saqlanib, tuproqdan yuqadi
+- Emlangan kishilar yuqumli bo'lib qolib, qo'zg'atuvchini bevosita tarqatadi
+- Jamoa immuniteti tushunchasi bu kasalliklarga umuman taalluqli emas
+! Shuning uchun emlash qamrovi o'rtacha ko'rsatkich bilan emas, aniq hududlar va guruhlar kesimida baholanishi kerak.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1
+? O'choqli (yakuniy) dezinfeksiya qachon o'tkaziladi?
++ Infeksiya manbai bartaraf etilgandan keyin patogenlarni to'liq yo'qotish uchun
+- Epidemiya holatidan qat'i nazar, obyektlarda doimiy ravishda har oyda bir marta
+- Bemor uyda yotgan va qo'zg'atuvchi ajratgan davrda, ajralmalar chiqqan zahoti
+- Kasallik paydo bo'lishidan oldin, xavf guruhlariga mansub obyektlarda profilaktika uchun
+- Emlash qamrovi yetarli bo'lmagan hududlarda, moyil jamoani himoya qilish maqsadida
+! Profilaktik dezinfeksiya epidemiya holatidan qat'i nazar o'tkaziladi, o'choqli dezinfeksiya esa manba chiqarib yuborilgach, bir marta bajariladi.
+@ SanQvaN № 0090-25, 1-bob
+? CDC tasnifiga ko'ra, quyidagilardan qaysi biri bilvosita yuqish turiga kiradi?
++ Vektor (masalan, hasharot) orqali yuqish
+- Bemor bilan to'g'ridan-to'g'ri aloqa orqali yuqish
+- Yo'talgan yoki aksirgan tomchilar orqali yuqish
+- Onadan homilaga yo'ldosh orqali yuqish
+- Teriga bevosita tegish orqali yuqish
+! Bevosita yuqishda qo'zg'atuvchi to'g'ridan-to'g'ri o'tadi, bilvosita yuqishda esa havo, vosita yoki vektor oraliq bo'g'in vazifasini bajaradi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Quyidagi holatlardan qaysi biri organizm moyilligini oshiradi?
++ To'yib ovqatlanmaslik
+- Oshqozon shirasining yuqori kislotaliligi
+- Terining butunligi va uning to'siq vazifasi
+- Maxsus immunitetning mavjudligi
+- Shilliq qavatlarning sog'lom holati
+! Qolgan omillar organizmning nomaxsus yoki maxsus himoyasini ifodalaydi, ovqatlanish yetishmovchiligi esa himoyani susaytiradi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10

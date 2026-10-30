@@ -1,0 +1,98 @@
+=== 133
+? TORCH qisqartmasi qaysi infeksiyalar guruhini bildiradi?
++ Toksoplazmoz, boshqalar, qizilcha, sitomegalovirus va oddiy gerpes virusi infeksiyasi
+- Tuberkulyoz, OIV, qizamiq, sitomegalovirus va gepatit B infeksiyasi
+- Toksoplazmoz, brutsellyoz, quturish, sitomegalovirus va gepatit C infeksiyasi
+- Tif, ornitoz, rikketsioz, chechak va gripp infeksiyalari guruhi, ya'ni qon orqali yuqadigan kasalliklar
+- Treponematoz, ornitoz, qizamiq, sil va gerpes zoster infeksiyasi
+! Qisqartma har bir harfi homilaga ona orqali o'tib, tug'ma nuqsonlarga olib keladigan infeksiyalar nomining bosh harfidan tuzilgan.
+@ TORCH (Toxoplasmosis, Other, Rubella, Cytomegalovirus, Herpes Simplex Virus) Infection and the Enigma of Anomalous Fetal Development: Pregnancy Puzzles (PMC10834030)
+? TORCH guruhida tug'ma infeksiyalar orasida eng ko'p uchraydigani qaysi?
++ Sitomegalovirus infeksiyasi
+- Toksoplazmoz
+- Qizilcha
+- Oddiy gerpes virusi infeksiyasi
+- Listerioz, ayniqsa homiladorlikning birinchi trimestrida
+! Tug'ma CMV tirik tug'ilganlarning 0,3–3,0% ida uchraydi, bu uni eng ko'p uchraydigan tug'ma infeksiyaga aylantiradi.
+@ CDC. Cytomegalovirus (CMV) and Congenital CMV Infection
+? CDC ma'lumotiga ko'ra, tug'ma sitomegalovirus bilan tug'iladigan chaqaloqlar nisbati qancha?
++ Taxminan har 200 tadan bittasi
+- Taxminan har 20 tadan bittasi
+- Taxminan har 2000 tadan bittasi
+- Taxminan har 20 000 tadan bittasi
+- Taxminan har 50 tadan bittasi
+! Bu ko'rsatkich tug'ma CMV ni eng keng tarqalgan tug'ma infeksiyalardan biriga aylantiradi, biroq ko'pchilik chaqaloqlarda belgi bo'lmaydi.
+@ CDC. Cytomegalovirus (CMV) and Congenital CMV Infection
+? Homiladorlikning birinchi trimestrida qizilcha o'tkazilganda rivojlanadigan tug'ma qizilcha sindromiga xos o'zgarishlar qaysilar?
++ Katarakta, karlik va tug'ma yurak nuqsonlari
+- Gidrosefaliya, bosh miya ichi kalsifikatsiyalari va retinoxorioidit
+- Egar burun, tishlar o'zgarishi va suyaklarning sifilitik zararlanishi
+- Teri va shilliq qavatlarda gerpetik toshmalar hamda ensefalit
+- Tug'ma sil o'choqlari va jigar sirrozi
+! Embrion rivojlanishining dastlabki oylarida virus ko'z, quloq va yurak organogenezini buzadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Birlamchi CMV infeksiyasi bo'lgan homilador ayollarning taxminan qanchasi virusni homilaga o'tkazadi?
++ Taxminan 40%
+- Taxminan 5%
+- Taxminan 15%
+- Taxminan 80%
+- Taxminan 100%
+! Birlamchi infeksiyada transplasentar o'tish xavfi sezilarli, ammo homilaga o'tmaydigan holatlar ham ko'p.
+@ Mardanly S.G., Kirpichnikova G.I. Sitomegalovirusli infeksiya (qo'llanma)
+? Milliy emlash kalendarida qizilchaga qarshi KPK vaksinasining ikkinchi dozasi qaysi yoshda beriladi?
++ 6 yoshda
+- 12 oylikda
+- 2 yoshda
+- 14 yoshda
+- 4 yoshda, maktabga tayyorgarlik davrida
+! Ikki dozali sxema qizilcha virusining aylanishini to'xtatish uchun qo'llanadi, birinchi doza bir yoshdan keyin beriladi.
+@ O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi (SanQvaM № 0239-07/3)
+? TORCH guruhidagi qaysi infeksiyaga qarshi O'zbekiston milliy emlash kalendarida vaksina mavjud?
++ Qizilcha
+- Toksoplazmoz
+- Sitomegalovirus infeksiyasi
+- Oddiy gerpes virusi infeksiyasi
+- Listerioz
+! Milliy kalendarga bu guruhdan faqat bitta infeksiyaga qarshi tirik vaksina kiritilgan.
+@ O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi (SanQvaM № 0239-07/3)
+? Toksoplazmozga serologik tekshiruvda IgG musbat, IgM manfiy natija nimani bildiradi?
++ O'tkazilgan infeksiyani
+- Yaqinda boshlangan o'tkir infeksiyani
+- Immunitet yo'qligini, ya'ni ayol infeksiyaga moyilligini
+- Emlash natijasida hosil bo'lgan himoya titrini, chunki toksoplazmozga qarshi vaksina mavjud
+- Faol replikatsiyadagi surunkali infeksiyaning qaytalanishini
+! IgG uzoq muddat saqlanadigan antitela bo'lib, IgM bo'lmasa jarayon yangi emasligini ko'rsatadi.
+@ Elecsys TORCH test paneli: erta diagnostika uchun skrining (Roche)
+? Homilador ayollarda birlamchi CMV infeksiyasi odatda qanday kechadi?
++ Ko'pincha belgisiz, manifest shaklda mononukleoz yoki O'RVIga o'xshash
+- Doimo og'ir gemorragik sindrom va jigar yetishmovchiligi bilan
+- Sariqlik, jigar kattalashuvi va kuchli qorin og'rig'i bilan
+- Har doim tashxis qo'yish mumkin bo'lgan yorqin toshma va artralgiya bilan
+- Mushaklar falajligi va bo'yin qotishi bilan
+! Ona uchun kasallik yengil o'tgani sababli uni klinik jihatdan aniqlash qiyin, serologik skrining shu bois zarur.
+@ Mardanly S.G., Kirpichnikova G.I. Sitomegalovirusli infeksiya (qo'llanma)
+? Qizilchaga qarshi emlash joriy etilgandan keyin 21 yil davomida O'zbekistonda kasallanish taxminan necha marta kamaygan?
++ 600 marta
+- 6 marta
+- 60 marta
+- 6000 marta
+- 20 marta
+! Ommaviy emlash qizilcha virusi aylanishini keskin pasaytirdi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tug'ma qizilcha holatlarini kamaytirishning asosiy epidemiologik yo'li qaysi?
++ Ayollar orasida immunitetni oshirish va bolalarni ikki dozali emlash orqali virus aylanishini to'xtatish
+- Homilador ayollarning hammasiga qizilchaga qarshi tirik vaksinani homiladorlik davrida yuborish
+- Homiladorlikning birinchi trimestrida barcha ayollarga antibiotiklar bilan profilaktika o'tkazish
+- Qizilcha bilan kasallangan bolalarni bolalar muassasalaridan chiqarmasdan yakka tartibda kuzatish
+- Faqat tug'ruqxonalarda yangi tug'ilgan chaqaloqlarni 3 oy izolyatsiya qilish
+! Homila infeksiyasi asosan ona kasallanganda yuz beradi, shu sababli virusning umumiy aylanishini to'xtatish eng samarali hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Toksoplazmoz bilan infeksiyalanishda qaysi tashqi omillar muhim hisoblanadi?
++ Termik ishlov berilmagan go'sht va hayvon ajralmalari bilan aloqa
+- Zararlangan chivinlarning chaqishi va qon so'rishi orqali yuqish
+- Bemor bilan havo-tomchi orqali yaqin muloqot qilish va umumiy idishlardan foydalanish
+- Ifloslangan tibbiy asboblar va qonni quyish
+- Yuzaki suv havzalarida cho'milish va qum bilan o'ynash
+! Toksoplazma hayvonlar to'qimalarida va ajralmalarida saqlanadi, shuning uchun go'shtni yaxshi pishirish va ajralmalar bilan ehtiyotkorlik muhim.
+@ Mavzu materiali (133.docx)
+#U 133 / 12: toksoplazmoz bo'yicha tashqi omillar (hayvon ajralmalari, termik ishlov berilmagan go'sht) mavzu materialida batafsil ko'rsatkichlarsiz keltirilgan; tashqi manba bilan tasdiqlanmagan.

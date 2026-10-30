@@ -1,0 +1,100 @@
+=== 148
+? 18 oygacha bo'lgan bolalarda IFA musbat natijasi nima uchun infeksiyani isbotlamaydi?
++ Onaning G sinfiga mansub antitanalari platsenta orqali o'tib, bolada saqlanib turadi
+- Bolaning immun tizimi 18 oygacha antitanalarni umuman hosil qila olmaydi va virus faolligini baholab bo'lmaydi
+- IFA test-to'plamlari faqat kattalar qon zardobi uchun ro'yxatdan o'tgan
+- Bolalarda virus provirus holatiga o'tmaydi va antigen sifatida aniqlanmaydi
+- Bolalarda IFA reaksiyasi qon hajmi kamligi sababli o'tkazilmaydi
+! Ona IgGsi homilaga o'tadi va bola organizmida uzoq saqlanadi, shuning uchun u bolaning o'z javobini ajratib bo'lmaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? 18 oygacha bo'lgan bolalarda OIV tashxisining «oltin standarti» qaysi usul hisoblanadi?
++ OIV DNK provirusini PZR usulida aniqlash
+- Zardobdagi antitanalarni immunoblot bilan aniqlash
+- Tezkor test bilan so'lakdagi antitanalarni topish
+- Plazmadagi p24 antigenini IFA usulida aniqlash
+- CD4 hujayralar sonini sitoflyuorimetriyada hisoblash
+! Usul virusning o'zini topadi va ona antitanalariga bog'liq emas, shu sababli erta yoshda ishonchli.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Onadan bolaga OIV yuqishi mumkin bo'lgan bolada birinchi PZR tekshiruvi qaysi yoshda o'tkaziladi?
++ 6–8 haftaligida
+- 1–2 kunligida, tug'ruqxonada
+- 4–5 oyligida, emlashdan keyin
+- 9–12 oyligida, birinchi yoshda
+- 18 oyligida, serokonversiya bilan
+! Shu muddatda usul sezgirligi yetarli darajaga yetgan bo'ladi, shuning uchun birinchi nazorat shu vaqtga belgilanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Protokolga ko'ra bolada musbat PZR natijasi birinchi natijadan keyin qancha muddat ichida tasdiqlanadi?
++ 5–7 kun ichida
+- 24 soat ichida
+- 2 oy ichida
+- 6 oy ichida
+- 18 oy ichida
+! Tasdiqlash yangi qon namunasida va xuddi shu usul bilan tez o'tkazilishi bolaning davolanishini kechiktirmaslik uchun kerak.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Bola ko'krak suti bilan oziqlantirilmasa, qaysi PZR natijalari yuqish sodir bo'lmaganini bildiradi?
++ 6 va 12 haftalikdagi ikki marta manfiy natija
+- 6–8 haftalikdagi bir martalik manfiy natija
+- 1 haftalikdagi musbat va 12 haftalikdagi manfiy natija
+- 12 haftalikdagi bir martalik shubhali natija
+- 18 oyligida olingan bir martalik IFA musbat natijasi
+! Ketma-ket ikki marta manfiy natija ishonchliroq bo'lib, bitta natija esa yetarli hisoblanmaydi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? PZR bo'yicha manfiy natijalar olingandan keyin serokonversiyani aniqlash uchun IFA qaysi yoshda o'tkaziladi?
++ 18 oyligida
+- 3 oyligida
+- 6 oyligida
+- 9 oyligida
+- 12 oyligida
+! Onadan o'tgan antitanalar shu yoshga kelib deyarli yo'qoladi, shuning uchun bolaning o'z antitanalari ishonchli baholanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Hayotning dastlabki haftasida (1 haftalik) erta PZR tekshiruvi qaysi holatda tavsiya etiladi?
++ Ona kech murojaat qilgan, davolash samarasiz bo'lgan yoki bolada tug'ilganda OIV belgilari bo'lgan holatda
+- Ona homiladorlik davomida to'liq RQT olgan, virus yuklamasi aniqlanmagan va tug'ruq muammosiz o'tgan holatda bo'lsa
+- Bola sun'iy oziqlantirilib, onada OIV infeksiyasi tasdiqlanmagan holatda bo'lsa
+- Bola 18 oylikka to'lgan va IFA manfiy chiqqan holatda bo'lsa
+- Ona homiladorlik davrida ikki marta tekshirilib, manfiy natija olgan holatda bo'lsa
+! Xavf yuqori bo'lgan holatlarda erta aniqlash davoni kechiktirmaslik uchun kerak.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Tug'ilgandan 48 soat o'tgach provirus DNK PZR usulining sezgirligi taxminan qancha?
++ Taxminan 38 %
+- Taxminan 15 %
+- Taxminan 65 %
+- Taxminan 85 %
+- Taxminan 100 %
+! Sezgirlik yoshga qarab oshib boradi: ikkinchi haftaning oxirida 95–98 % ga, 3 oyda deyarli to'liq darajaga yetadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Dastlabki 48 soatda PZR manfiy, keyinroq musbat bo'lsa, yuqish qachon sodir bo'lgan deb hisoblanadi?
++ Tug'ruq paytida (intranatal)
+- Bachadon ichida (antenatal)
+- Homiladorlikning birinchi trimestrida
+- Tug'ruqdan bir yil o'tgach
+- Platsenta shakllanishidan oldin
+! Virus tug'ruq vaqtida yuqqanda, tug'ilgan zahoti uning miqdori usul aniqlay oladigan darajaga yetmaydi va keyinroq aniqlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Emizikli bolada PZR manfiy bo'lsa, tekshiruv emizish to'liq to'xtatilgandan keyin qancha vaqt ichida takrorlanadi?
++ Ko'pi bilan 6 hafta ichida
+- Ko'pi bilan 1 hafta ichida
+- Kamida 6 oy o'tgach
+- Kamida 12 oy o'tgach
+- Ko'pi bilan 2 yil ichida
+! Emizish tugagach bola virus bilan kontaktda bo'lmaydi, shuning uchun qisqa muddatda nazorat natijasi yuqishni tasdiqlaydi yoki inkor etadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? 18 yoshgacha bo'lgan bolada OIV aniqlanganda epidemiologik surishtiruvda qo'shimcha ravishda qaysi hujjat to'ldiriladi?
++ Ota-onasi bilan suhbat va tibbiy hujjatlarni o'rganish varag'i (3-shakl)
+- Bolaning rivojlanish tarixi va emlashlar jadvali haqida varaqa (4-shakl)
+- Epidemiologik surishtiruv kartasining qo'shimcha nusxasi (1-shakl)
+- Immunoblot tekshiruvi natijasi bayonnomasi (2-shakl)
+- Maktab va bog'chadagi kontaktlar ro'yxati varaqasi (5-shakl)
+! Bolalarda yuqish yo'lini aniqlash uchun ota-ona va tibbiy hujjatlar tarixi alohida o'rganiladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Kotrimoksazol profilaktikasi OIV ekspozitsiyasi bo'lgan bolada qaysi yoshdan boshlanadi?
++ 5 haftalikdan
+- Tug'ilgandan keyin 1-kundan
+- 2 haftalikdan
+- 12 haftalikdan
+- 6 oylikdan
+! Profilaktika chaqaloqlik davridan keyin, opportunistik infeksiya xavfi ortgan paytda boshlanadi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish (ikki tilda)
+#D 148 / 4: musbat PZR natijasini tasdiqlash muddati slaydlarda 2 hafta, protokolda 5–7 kun deb berilgan; savolda 2018-yilgi protokol ma'lumoti olingan.
+#D 148 / 11: «3-shakl» mavzu materialida 148 va 141 da ota-ona bilan suhbat varaqasi, 145 da esa immunoblot bayonnomasi deb berilgan (turli ilovalar); savolda surishtiruv ilovasidagi ma'nosi olingan.
+#U 148 / 12: kotrimoksazol profilaktikasini 5 haftalikdan boshlash faqat mavzu materialidagi taqdimotga tayangan; mavzu materialida (144) 5–12 haftalik, (148) ikki marta manfiy PZRgacha deb turlicha berilgan.

@@ -1,0 +1,97 @@
+=== 012
+? O'zbekiston milliy emlash kalendariga ko'ra, pentavalent vaksina qaysi besh infeksiyaga qarshi antigenlarni o'z ichiga oladi?
++ Difteriya, ko'kyo'tal, qoqshol, virusli gepatit B va gemofil infeksiya (XIB)
+- Difteriya, ko'kyo'tal, qoqshol, poliomielit va pnevmokokk infeksiyasi (PNEVMO)
+- Silga qarshi BSJ, difteriya, qoqshol, virusli gepatit B va rotavirus infeksiyasi
+- Qizamiq, parotit, qizilcha, virusli gepatit B va gemofil infeksiya (XIB)
+- Poliomielit, difteriya, ko'kyo'tal, qoqshol va pnevmokokk infeksiyasi (PNEVMO)
+! Kalendardagi izohda pentavalent vaksina difteriya-ko'kyo'tal-qoqshol-gepatit B-XIB infeksiyasiga qarshi preparat sifatida ta'riflangan. Poliomielit, pnevmokokk, rotavirus, BSJ yoki QPQ komponentlari uning tarkibiga kirmaydi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Pentavalent vaksinaning uch dozasi qaysi yoshda yuboriladi?
++ 2, 3 va 4 oylikda
+- 1, 2 va 3 oylikda, birinchi yoshning boshlarida
+- 2, 4 va 6 oylikda, olti oy ichida
+- 3, 4 va 5 oylikda, to'rtinchi oydan boshlab
+- 2, 3 va 12 oylikda, uchinchi dozani bir yoshda
+! Kalendar bo'yicha penta-1, penta-2 va penta-3 ketma-ket 2, 3 va 4 oylikda beriladi. Boshqa jadvallar kalendarga mos kelmaydi.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Pentavalent vaksina chaqaloqlarga qanday yo'l bilan va qayerga yuboriladi?
++ Mushak ichiga, odatda sonning oldingi-tashqi yuzasiga
+- Teri ichiga, odatda bilakning ichki yuzasiga
+- Teri ostiga, odatda kurakning ostiga
+- Og'iz orqali, til ostiga tomizib
+- Mushak ichiga, dumba sohasining yuqori-tashqi qismiga
+! Sonning oldingi-tashqi yuzasida mushak massasi yetarli va asab-tomir tutamlaridan xavfsiz uzoqlikda joylashgan. Shu sababli chaqaloqlarda aynan shu soha tanlanadi.
+@ World Health Organization. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice
+? AKDS komponentining to'rtinchi dozasi (AKDS-4) qaysi yoshda beriladi?
++ 16 oylikda
+- 12 oylikda, QPQ-1 bilan birga
+- 6 yoshda, QPQ-2 bilan birga
+- 1-sinfda (7 yosh), ADS-M bilan birga
+- 16 yoshda, ADS-M revaksinatsiyasi bilan
+! Kalendar bo'yicha pentavalent dozalaridan keyin AKDS-4 alohida, 16 oylikda yuboriladi. Boshqa yoshlar boshqa vaksinalarning muddatlari.
+@ O'zbekiston Respublikasida profilaktik emlashlar o'tkazish kalendar rejasi (jadval)
+? Pentavalent vaksina yuborilgandan keyin bola nima uchun kamida 30 daqiqa tibbiy kuzatuvda qoldiriladi?
++ Anafilaksiya aynan shu davrda yuzaga kelishi mumkin bo'lgani uchun
+- Vaksina antigenlari qonda to'liq so'rilishi va antitelo titri o'lchanishi uchun
+- Yuborilgan joyda abssess va yiringli asoratlar rivojlanishini baholash uchun
+- Emlash dalolatnomasi imzolanib, bolaning muassasa ro'yxatiga olinishi uchun
+- Vaksina yuborilgach, bolaning tana vazni va bo'yi qayta o'lchanishi uchun
+! Og'ir allergik reaksiya odatda emlashdan keyingi dastlabki daqiqalarda rivojlanadi va shoshilinch yordam talab qiladi. Boshqa sabablar kuzatuv muddatini tushuntirmaydi.
+@ World Health Organization. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice
+? Pentavalent vaksinani saqlash va tashishda qanday harorat rejimiga rioya qilinadi?
++ +2 °C dan +8 °C gacha, muzlatish qat'iyan taqiqlanadi
+- −15 °C dan −25 °C gacha, chuqur muzlatilgan holda
+- +15 °C dan +25 °C gacha, xona haroratida qorong'i joyda
+- 0 °C dan −8 °C gacha, kerak bo'lsa, qisman muzlatilgan holda
+- +8 °C dan +15 °C gacha, sovutgichsiz izolyatsiyalangan qutida
+! Muzlash adyuvant va antigenlarni buzib, vaksina samaradorligini yo'qotadi. Shuning uchun faqat sovuqlik zanjirida +2 dan +8 °C gacha saqlanadi.
+@ World Health Organization. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice
+? Sanitariya qoidalariga ko'ra, bir xil vaksinaning dozalari orasida eng kamida qancha vaqt bo'lishi kerak?
++ Bir oy
+- Ikki hafta
+- Olti oy
+- Bir yil
+- Uch kun
+! Bir xil vaksina dozalari orasidagi minimal oraliq bir oy qilib belgilangan. Qisqaroq oraliq immun javobni susaytiradi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Emlash jadvali buzilgan, ya'ni navbatdagi doza kechikkan bo'lsa, JSSTning umumiy tamoyiliga ko'ra qanday yo'l tutiladi?
++ Vaksinatsiya boshidan boshlanmaydi, uzilgan joydan davom ettiriladi
+- Vaksinatsiya birinchi dozadan boshlab to'liq qaytadan o'tkaziladi
+- Kechikkan doza ikki baravar miqdorda yuboriladi, keyingisi bekor qilinadi
+- Bola emlashdan chetlashtiriladi va keyingi dozalar berilmaydi
+- Vaksinatsiya boshqa turdagi vaksina bilan almashtirilib qayta boshlanadi
+! Dozalar orasidagi uzilish immun xotirani yo'qotmaydi, shu sababli kursni qaytadan boshlash shart emas. Qolgan variantlar xavfsizlik va samaradorlik jihatidan asossiz.
+@ World Health Organization. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice
+? O'tkir kasallik tufayli emlash kechiktirilgan bo'lsa, sanitariya qoidalariga ko'ra emlash qachon o'tkaziladi?
++ Sog'ayganidan 3–14 kun o'tgach
+- Haroratning tushishi bilan o'sha kunning o'zida
+- Sog'ayganidan kamida olti oy o'tgach
+- Antibiotik davosi boshlangan kunning o'zida
+- Kasallik belgilari yo'qolgach, ammo ikki hafta o'tmasdan
+! O'tkir kasallik vaqtinchalik qarshi ko'rsatma hisoblanadi. Emlash tuzalishdan 3–14 kun o'tgach amalga oshiriladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Sanitariya qoidalariga ko'ra, emlangan bola qanday kuzatuvda bo'ladi?
++ Dastlabki 3 kun har kuni, keyin bir oy davomida
+- Dastlabki 24 soat uzluksiz, keyin 6 oy davomida
+- Faqat birinchi soat davomida, keyin kuzatuv to'xtatiladi
+- Dastlabki 7 kun har kuni, keyin bir yil davomida
+- Dastlabki 30 daqiqa, keyin kuzatuv uy sharoitida to'xtatiladi
+! Emlashdan keyingi reaksiyalarni o'z vaqtida aniqlash uchun bola dastlabki kunlarda har kuni, so'ng bir oy davomida kuzatiladi. Preparat nomi, sanasi, dozasi va seriyasi hujjatlarga yoziladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? AEFI qisqartmasi nimani anglatadi?
++ Emlashdan keyingi noxush hodisalar (Adverse Events Following Immunization)
+- Emlash qamrovining epidemiologik indeksi (Adjusted Epidemiological Fraction Index)
+- Allergik reaksiyalarni erta aniqlash tizimi (Allergy Early Finding Instrument)
+- Faol emlash va immunizatsiya markazi (Active Immunization Facility)
+- Emlash jadvalini avtomatik yangilash dasturi (Automatic Entry For Immunization)
+! AEFI tizimi emlashdan keyingi noxush hodisalarni qayd etib boradi. U vaksina xavfsizligini kuzatish va haqiqiy asoratlarni tasodifiy hodisalardan ajratish uchun zarur.
+@ World Health Organization. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice
+? Vaksina tarkibidagi adyuvantning (odatda alyuminiy tuzlari) vazifasi nima?
++ Immun javobni kuchaytirish
+- Qo'zg'atuvchi toksinini zararsizlantirib, anatoksinga aylantirish
+- Vaksina ichida mikroorganizmlar o'sishining oldini olish (konservant vazifasi)
+- Antigenlarni muzlash va yorug'likdan saqlab turuvchi barqarorlashtiruvchi muhit hosil qilish
+- Vaksina eritmasini shprits ichida oldindan suyultirib turish
+! Adyuvant vaksina antigeniga immun tizimning javobini kuchaytiradi. Boshqa vazifalarni konservantlar, stabilizatorlar yoki anatoksin tayyorlash jarayoni bajaradi.
+@ World Health Organization. Pentavalent (DTwP-HepB-Hib) vaccine; Immunization in practice

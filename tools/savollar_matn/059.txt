@@ -1,0 +1,98 @@
+=== 059
+? Rotaviruslar nima uchun shunday nomlangan?
++ Elektron mikroskopda g'ildirak shaklida ko'rinadi
+- Kashf etgan olim R. Rota nomi bilan atalgani sababli
+- Virus Rim shahridagi kasalxonada birinchi marta ajratilgani uchun
+- Kapsidi kvadrat shaklida va to'rtburchak qirralarga ega bo'lgani uchun
+- Hujayralar ichida aylana harakat qilib, o'z o'qi atrofida aylanishi tufayli
+! Lotincha "rota" so'zi "g'ildirak" ma'nosini bildiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Rotavirusning genetik materiali va mansub bo'lgan oilasi qaysi?
++ RNK saqlovchi, Reoviridae oilasi
+- DNK saqlovchi, Hepadnaviridae oilasi
+- RNK saqlovchi, Picornaviridae oilasi
+- DNK saqlovchi, Herpesviridae oilasi
+- RNK saqlovchi, Flaviviridae oilasi
+! Rotavirus ikki zanjirli segmentlangan RNK tutadi va Reoviridae oilasiga kiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Odamlarda qaysi guruh rotaviruslar eng ko'p uchraydi?
++ A guruh
+- B guruh, asosan kattalarda uchraydi
+- C guruh, asosan katta bolalar va o'smirlarda uchraydi
+- D guruh, asosan qushlarda uchraydi
+- E guruh, asosan cho'chqalarda uchraydi
+! A guruh odamlarda uchraydigan rotaviruslarning 90 foizigacha qismini tashkil etadi va bir yoshgacha bolalarda ko'proq qayd etiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Rotavirus najasda qancha vaqtgacha saqlanishi mumkin?
++ 7 oygacha
+- 3 kungacha
+- 1 haftagacha
+- 2 yilgacha
+- 4 soatgacha
+! Virus tashqi muhitga chidamli: suvda bir haftagacha, qo'l terisida 4 soatgacha, najasda esa ancha uzoq saqlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Rotavirusli infeksiyaning yashirin davri qancha?
++ 12 soatdan 7 kungacha, ko'pincha 1–2 kun
+- 2–3 hafta, ko'pincha 14 kun, ya'ni uzoq yashirin davr
+- 1–2 oy, ko'pincha 45 kun, ya'ni juda uzoq davr
+- 3–6 oy, ko'pincha 90 kun
+- 10–15 daqiqa, ko'pincha bir soat
+! Yashirin davr qisqa, shu sababli bolalar jamoalarida tez tarqaladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Rotavirusdan keyingi immunitet qanday xususiyatga ega?
++ Asosan ichakdagi sekretor IgA hisobiga hosil bo'ladi va mustahkam emas
+- Umrbod saqlanadi va qayta kasallanish mutlaqo kuzatilmaydi
+- Hujayraviy immunitetga asoslangan va bir yil davomida to'liq saqlanadi
+- Qon zardobidagi IgE hisobiga hosil bo'lib, uzoq yillar davom etadi
+- Faqat onadan olingan antitelolarga asoslangan va hayot davomida saqlanadi
+! Immunitet qo'zg'atuvchi turiga bog'liq, shu sababli kattalarda qayta kasallanish mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Rotavirus infeksiyasi qaysi mavsumga xos?
++ Kuz-qish
+- Yoz oxiri va erta bahor
+- May–iyun, issiq oylar
+- Faqat avgust, eng issiq oy
+- Aprel–may, bahor oylari
+! Kasallik sovuq mavsumda ko'payadi, bolalar jamoalarida avj olish ko'pincha o'tkir respirator kasalliklar ko'paygan paytda kuzatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim
+? Milliy emlash kalendarida rotavirus vaksinasi qachon beriladi?
++ Og'iz orqali 2 va 3 oylikda
+- Mushak ichiga 4 va 6 oylikda
+- Og'iz orqali 12 va 16 oylikda
+- Teri ichiga tug'ruqxonada, tug'ilganda
+- Mushak ichiga 7 yoshda, 1-sinfda
+! Vaksina tirik, og'iz orqali beriladi va ikki dozadan (Roto-1, Roto-2) iborat.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+#U 059 / 8: kalendar jadvali tasdiqlovchi organ, sana va raqamsiz nusxada keltirilgan, amaldagi kalendarni lex.uz orqali tekshirish lozim.
+? Rotavirus vaksinasi qanday haroratda saqlanadi?
++ +2 °C dan +8 °C gacha, muzlatilmaydi
+- –20 °C da muzlatilgan holda, eritmasdan
+- +15 °C dan +25 °C gacha, xona haroratida
+- –5 °C dan 0 °C gacha, yarim muzlagan holda
+- +30 °C dan +37 °C gacha, termostatda
+! Vaksina tirik va yorug'likka sezgir, shuning uchun sovuqlik zanjirida saqlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Immunoglobulin yuborilgandan keyin rotavirusga qarshi emlash qachon o'tkaziladi?
++ 3 oydan keyin
+- 2 haftadan keyin, harorat me'yorlashganda
+- Bir yarim oydan keyin, poliomielit vaksinasidagi kabi
+- 6 oydan keyin
+- 1 haftadan keyin
+! Tayyor antitelolar tirik vaksina virusining ko'payishiga xalaqit berishi mumkin.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? JSST rotavirusli diareyada necha kunlik sink tabletkalarini tavsiya etadi?
++ 10–14 kunlik
+- 3–5 kunlik
+- 1–2 kunlik
+- 30–40 kunlik
+- 60 kunlik
+! Sink diareya davomiyligini va og'irligini kamaytiradi, og'iz orqali regidratatsiya bilan birga beriladi.
+@ WHO. Diarrhoeal disease (fact sheet)
+? Rotavirusning bolalar shifoxonalarida gospital infeksiya tarzida tarqalishini qaysi yuqish yo'li tushuntiradi?
++ Maishiy-muloqot yo'li
+- Transmissiv yo'l, ya'ni qon so'ruvchi hasharotlar chaqishi
+- Parenteral yo'l, ya'ni qon quyish va in'eksiyalar
+- Vertikal yo'l, ya'ni homiladorlik davrida onadan homilaga
+- Jinsiy aloqa orqali yuqish yo'li
+! Virus bolalar o'yinchoqlari, mebeli va kiyimlarida topilgan, shuning uchun shifoxonada maishiy yo'l orqali tarqaladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 16.5-bo'lim

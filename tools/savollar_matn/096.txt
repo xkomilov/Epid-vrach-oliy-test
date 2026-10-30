@@ -1,0 +1,97 @@
+=== 096
+? O'tkir respirator kasalliklar guruhining qo'zg'atuvchilari orasida qaysi biri quyi nafas yo'llarini zararlaydigan Mycoplasma pneumoniae chaqiradigan kasallikdir?
++ Mikoplazmoz
+- Paragripp, asosan bo'g'ilish bilan o'tuvchi virusli infeksiya
+- Rinovirus infeksiyasi, ko'proq yuqori nafas yo'llarini zararlovchi shamollash
+- Adenovirus infeksiyasi, rinit, bronxit va zotiljam shaklida kechuvchi kasallik
+- RS-infeksiya, 6 oygacha bolalarda ko'p uchraydigan virusli kasallik
+! Bu qo'zg'atuvchi virus emas, hujayra devori bo'lmagan bakteriya turkumiga kiradi va pastki bo'limlarga tushadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Paragripp infeksiyasi bilan asosan qaysi yoshdagi bolalar kasallanadi va u qanday xavf tug'diradi?
++ 1 yoshgacha bolalar, ba'zan bo'g'ilish bilan og'ir kechadi
+- 10–14 yoshdagi o'smirlar, asosan ichak buzilishlari bilan kechadi
+- 40 yoshdan oshgan kattalar, doimo yengil kechadi
+- Faqat 60 yoshdan keyingi keksalar, doimiy isitma bilan
+- Homilador ayollar, homilaning tug'ma nuqsonlari bilan
+! Kichik bolalarda hiqildoq tor bo'lgani uchun yallig'lanish nafas yo'lini torayishiga olib kelishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? RS-infeksiya qaysi yoshdagi bolalarda ko'p uchraydi va qaysi sharoitda avj olishi mumkin?
++ 6 oygacha bolalarda, bolalar shifoxonalarida kasalxona ichi infeksiyasi sifatida
+- 7–14 yoshli maktab o'quvchilarida, maktab oshxonalarida oziq-ovqat omili orqali tarqalish sifatida
+- 30–40 yoshda, ishlab chiqarish korxonalarida
+- 60 yoshdan keyin, qariyalar uylarida suv omili orqali
+- 3–5 yoshda, faqat qishloq xo'jaligi hududlarida
+! Chaqaloqlar va kichik bolalar to'plangan shifoxonalarda virus qo'llar va buyumlar orqali tez tarqaladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'tkir respirator kasalliklar bilan kasallanishning maksimum davri qachonga to'g'ri keladi?
++ Yanvar oxiri, ba'zan fevral boshi
+- Iyun oxiri, ba'zan iyul boshi, issiq mavsumda
+- Avgust o'rtasi, ya'ni yozning eng issiq davrida
+- Aprel oxiri, bahor gullash davrida
+- Sentabr boshi, o'quv yili boshlanishida
+! Sovuq mavsumda odamlar yopiq xonalarda zich muloqot qiladi, bu esa qo'zg'atuvchilar almashinuvini kuchaytiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Nafas yo'llarida doimiy yashovchi bakterial qo'zg'atuvchilar (pnevmokokk, klebsiella, stafilokokk) nima uchun ekzogen zararlanish hisobiga kamdan-kam kasallik chaqiradi?
++ Ular shartli patogen bo'lib, stress, sovuq qotish yoki boshqa infeksiyalar fonida faollashadi
+- Ular faqat tashqi muhitdan tushganda hayot faoliyatini boshlaydi va doimiy yashamaydi
+- Ular hech qachon odam organizmida ko'paymaydi va tez nobud bo'ladi
+- Ular har doim yuqori virulentlikka ega bo'lib, oddiy sharoitda ham og'ir kasallik beradi
+- Ular faqat hayvonlardan yuqadi va odamdan odamga o'tmaydi
+! Ular normal sharoitda organizm bilan muvozanatda bo'ladi, himoya susayganida esa endogen kasallik chaqiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Spitsbergen arxipelagidagi kuzatuvga ko'ra shamollash epidemiyasi qachon boshlangan?
++ Kun isishi va kemalar qatnovi boshlanib, tashqaridan yangi qo'zg'atuvchi kirib kelganda
+- Eng sovuq kunlarda, kon qazish ishlari davrida, sovuq qotish va ish sharoitining og'irligi tufayli
+- Qutb kechasi boshlanganda, quyosh nuri yetishmasligi sababli
+- Yoz oylarida, aholi ichimlik suvini almashtirganda
+- Qishda, aholi issiq kiyim kiyganda
+! Kuzatuv sovuq o'zi emas, balki qo'zg'atuvchining kirib kelishi va muloqot kasallikni boshlashini ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Atipik zotiljam (og'ir o'tkir respirator sindrom, SARS) birinchi marta qayerda aniqlangan?
++ Janubiy Xitoyda
+- Markaziy Afrikada, tropik o'rmonlar hududida
+- Shimoliy Amerikada, Katta ko'llar atrofida
+- Janubiy Amerikada, Amazonka havzasida
+- Sharqiy Yevropada, Karpat tog'lari hududida
+! Kasallik keyin aviaaloqa orqali boshqa mamlakatlarga tarqalgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'tkir respirator kasalliklar orasida qaysi biri yillik emlash orqali oldini olinadi?
++ Gripp
+- Paragripp, adenovirus vaksinasi orqali
+- Rinovirus infeksiyasi, mavsumiy vaksina orqali
+- RS-infeksiya, tirik vaksina orqali
+- Mikoplazmoz, anatoksin orqali
+! Bu kasallik uchun har yili yangilanadigan vaksina mavjud, boshqa O'RK uchun esa samarali vaksinalar yo'q.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Influenza (seasonal) (fact sheet)
+? O'zbekiston milliy kalendarida pnevmokokk vaksinasi qaysi oylarda yuboriladi?
++ 2, 3 va 12 oylikda
+- 1, 6 va 18 oylikda, ya'ni birinchi dozani tug'ruqxonada
+- 4, 5 va 9 oylikda, ya'ni pentavalent vaksinadan keyin
+- 6 va 12 oylikda faqat ikki marta
+- 3 va 16 oylikda ikki marta
+! Bakterial komponentga qarshi vaksinatsiya kichik bolalar xavfi eng yuqori bo'lgan yoshda boshlanadi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? 236-son buyruqqa ko'ra gripp va O'RI tarqalishini oldini olish choralari qaysi sanadan ko'riladi?
++ 25 sentabrdan
+- 1 iyuldan
+- 1 yanvardan
+- 20 dekabrdan
+- 15 martdan
+! Muddat mavsumga tayyorgarlikni epidemiya ko'tarilishidan oldin boshlash maqsadida belgilangan.
+@ O'zR SSV 2023-yil 25-sentabrdagi 236-son buyrug'i
+? Adenovirus infeksiyasi qanday shakllarda o'tadi?
++ Rinit, bronxit va zotiljam shaklida
+- Qon ketishi, sariqlik va buyrak yetishmovchiligi shaklida
+- Ich ketishi, qusish va suvsizlanish shaklida
+- Mushaklar tortishishi, tish qisilishi va nafas to'xtashi shaklida
+- Teri toshmasi, bo'g'im shishi va ko'z shilliq qavati qonashi shaklida
+! Bu virus nafas yo'llarining turli bo'limlarini zararlaydi, shu sababli klinik ko'rinish keng spektrda bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Britaniya markazida ko'ngillilar ustida o'tkazilgan tadqiqotlar sovuq qotish omilining roli haqida nimani ko'rsatdi?
++ Sun'iy sovuq qotish va kam miqdorda virus bilan zararlash kasallik chaqirmadi
+- Sovuq qotish barcha ko'ngillilarda 100 % kasallik chaqirdi
+- Virus bilan zararlash faqat sovuq qotgan odamlarda kasallik berdi, sog'lomlarda bermadi
+- Sovuq qotish immunitetni mustahkamladi va kasallanish to'liq to'xtadi
+- Tadqiqot natijalari kasallikning faqat suv orqali yuqishini isbotladi
+! Natijalar kasallik boshlanishi uchun qo'zg'atuvchining kirib kelishi zarur ekanini ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

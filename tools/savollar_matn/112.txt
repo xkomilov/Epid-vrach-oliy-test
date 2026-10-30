@@ -1,0 +1,98 @@
+=== 112
+? Qoqshol qo'zg'atuvchisining spora hujayra chetida joylashishi uni mikroskopda qanday ko'rinishga keltiradi?
++ «Baraban tayoqchasi» ko'rinishiga
+- Gantel shaklidagi, uchlarida to'q bo'yalgan donachali tayoqchaga
+- Uchlari tekis kesilgan, uzun zanjir hosil qiluvchi «bambuk tayoq» shakliga
+- Vergulsimon egilgan, bir xivchinli hujayraga
+- Juft-juft joylashgan, lansetsimon diplokokklarga
+! Spora vegetativ hujayradan kengroq bo'lgani uchun uni bir uchida shishirib, o'ziga xos shakl hosil qiladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, «Qoqshol qo'zg'atuvchisi» bo'limi
+? Qoqshol toksinining qaysi fraksiyasi nerv to'qimasiga ta'sir etib, mushaklar tortishuviga olib keladi?
++ Tetanospazmin
+- Tetanolizin, eritrotsitlarni eritadigan fraksiya
+- Gialuronidaza, to'qima oraliqlari orqali tarqalishni tezlashtiruvchi ferment
+- Leykotsidin, leykotsitlarni zararlovchi toksin
+- Enterotoksin, ichak epiteliysida suv va elektrolitlar sekretsiyasini oshiruvchi omil
+! Bu fraksiya harakatlantiruvchi neyronlarda tormozlovchi signallarni to'sib, mushaklarning nazoratsiz qisqarishini chaqiradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, «Qoqshol qo'zg'atuvchisi» bo'limi
+? JSST ma'lumotiga ko'ra qoqsholning yashirin davri odatda qancha davom etadi?
++ 3–21 kun, ko'pchilik hollarda 14 kun ichida
+- 1–2 kun, ko'pchilik hollarda bir sutka ichida
+- 30–60 kun, ko'pchilik hollarda ikki oy ichida
+- 3–6 oy, ko'pchilik hollarda yarim yil ichida
+- 1–2 soat, ko'pchilik hollarda bir soat ichida
+! Muddat jarohat joyi markaziy nerv tizimidan qanchalik uzoqligiga bog'liq, shuning uchun u keng oraliqda o'zgaradi.
+@ WHO. Tetanus (fact sheet)
+? JSST bo'yicha qoqsholdan tuzalgan kishi tabiiy immunitet haqida nima deyish mumkin?
++ Tabiiy immunitet hosil bo'lmaydi, shuning uchun emlanishi kerak
+- Umr bo'yi saqlanuvchi mustahkam immunitet hosil bo'ladi va emlash kerak emas
+- Bir yil saqlanadigan kuchsiz himoya hosil bo'ladi va keyin o'z-o'zidan tiklanadi
+- Bolalarda hosil bo'ladi, kattalarda esa hech qachon shakllanmaydi
+- Immunitet onadan bolaga o'tadi, ammo kasallanganning o'zida shakllanmaydi
+! Toksin miqdori immun javob uyg'otmaydigan darajada kam bo'lgani uchun kasallikdan keyin ham antitoksin yetarli hosil bo'lmaydi.
+@ WHO. Tetanus (fact sheet)
+? JSST bo'yicha chaqaloqlar qoqsholi ko'pincha qaysi holatda yuz beradi?
++ Kindik sterilmas asbob bilan kesilganda yoki ifloslangan material bilan yopilganda
+- Chaqaloq qoqshol bilan kasallangan boshqa bola bilan bevosita aloqada bo'lganda
+- Ona sutini ichishda ona sut bezlaridan toksin so'rilganda
+- Bola havo-tomchi yo'li bilan uy xonasidagi changni nafas olganda
+- Emlangan onadan tug'ilgan bolaga vaksina yuborilganda
+! Kindik yarasi sporalarning kislorodsiz muhitga tushishi uchun qulay kirish eshigi bo'ladi.
+@ WHO. Tetanus (fact sheet)
+? JSST qoqshol tashxisi qanday asosda qo'yilishini ta'kidlaydi?
++ Klinik belgilarga asoslanib, laboratoriya tasdig'i talab etilmaydi
+- Qon madaniyatidan qo'zg'atuvchi ajratilgandan keyin
+- Albatta jarohatdan olingan surtmada baraban tayoqchalar topilganda
+- Juft zardoblarda antitana titri 4 marta oshganda
+- PZR yordamida toksin geni aniqlangandan keyingina
+! Kasallikning xarakterli belgilari aniq bo'lgani sababli tashxis shifokorning klinik baholashiga tayanadi.
+@ WHO. Tetanus (fact sheet)
+? Milliy emlash kalendarida AKDS-4 qaysi yoshda yuboriladi?
++ 16 oylikda
+- 6 oylikda
+- 12 oylikda
+- 24 oylikda
+- 5 yoshda
+! Dastlabki uch dozadan keyin to'rtinchi doza himoya darajasini mustahkamlash uchun ikkinchi yashash yilida beriladi.
+@ SanQvaM № 0239-07/3 (O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi)
+? JSST umr bo'yi himoya hosil qilish uchun qoqsholga qarshi jami nechta doza tavsiya etadi?
++ 6 doza (3 asosiy va 3 qo'shimcha)
+- 2 doza (1 asosiy va 1 qo'shimcha)
+- 3 doza (barchasi asosiy, qo'shimchasiz)
+- 4 doza (2 asosiy va 2 qo'shimcha)
+- 10 doza (har yili bittadan)
+! Qo'shimcha dozalar ikkinchi yashash yilida, 4–7 va 9–15 yoshda berilib, himoya darajasini ushlab turadi.
+@ WHO. Tetanus (fact sheet)
+? Qoqshol qo'zg'atuvchisi bilan tuproq tekshirilganda biologik sinama uchun material qayerga yuboriladi?
++ Oq sichqonning orqa oyog'i mushagi orasiga
+- Dengiz cho'chqachasining qorin bo'shlig'iga
+- Quyonning quloq venasiga
+- Kalamushning ko'z konyunktivasiga
+- Oq sichqonning burun bo'shlig'iga
+! Mushak orasida kislorod kam bo'lgani uchun sporalar o'sib toksin ajratadi va tajriba hayvonida kasallik belgilari paydo bo'ladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, «Qoqshol qo'zg'atuvchisi» bo'limi
+? Qoqshol bilan kasallangan bemor atrofdagilar uchun qanday xavf tug'diradi va ajratish kerakmi?
++ Yuqumli emas, shuning uchun ajratish va aloqadorlarni kuzatish talab etilmaydi
+- Havo-tomchi yo'li bilan yuqadi, shuning uchun 21 kun ajratib qo'yiladi
+- Faqat bemor qoni orqali yuqadi, shuning uchun alohida palata ajratiladi
+- Yuqumli, shuning uchun aloqadorlar yashirin davr oxirigacha kuzatiladi
+- Maishiy buyumlar orqali yuqadi, shuning uchun uy-joyda yakuniy dezinfeksiya majburiy
+! Kasallik bemordan boshqa odamga o'tmaydi, qo'zg'atuvchi odamlarga faqat tashqi muhitdagi sporalar orqali tushadi.
+@ WHO. Tetanus (fact sheet)
+? Mirtazayev darsligiga ko'ra qoqshol qaysi infeksiyalar guruhiga kiritiladi?
++ Sapronoz infeksiyalar
+- Antroponoz infeksiyalar, ya'ni faqat odam manba bo'ladigan kasalliklar
+- Transmissiv infeksiyalar, ya'ni qon so'ruvchi bo'g'imoyoqlilar orqali yuqadiganlar
+- Havo-tomchi yo'li bilan yuqadigan bolalar infeksiyalari
+- Ichak infeksiyalari, ya'ni fekal-oral mexanizmli kasalliklar
+! Qo'zg'atuvchining asosiy yashash muhiti tashqi muhit (tuproq), shu sababli maxsus profilaktika individual himoyaga qaratilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qoqshol qo'zg'atuvchisining sof kulturasini 1889-yilda kim ajratgan?
++ S. Kitazato
+- R. Koch
+- L. Paster
+- N.D. Monastirskiy
+- A. Nikolayer
+! Qo'zg'atuvchi dastlab 1883–1884-yillarda kashf etilgan, uni sof holda o'stirish esa keyinroq amalga oshirilgan.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, «Qoqshol qo'zg'atuvchisi» bo'limi
+#U 112 / 9: biosinama uchun material yuborish joyi faqat mavzu materialiga (qayta ifodalangan, OCR sifati past manba) tayanadi.

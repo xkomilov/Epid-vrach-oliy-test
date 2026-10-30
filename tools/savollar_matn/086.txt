@@ -1,0 +1,98 @@
+=== 086
+? JSST tavsiyasiga ko'ra, bakterial meningit gumon qilinganda antibiotikning birinchi dozasi qachon beriladi?
++ Lyumbal punksiya natijasini kutmasdan, imkon qadar tez
+- Likvor ekmasi o'sib chiqqanidan keyin, ya'ni 3–5 kundan so'ng, aniq tashxis qo'yilgach
+- Faqat bemor kasalxonaga yotqizilib, ikki kun kuzatilgandan keyin
+- Qon va likvor tahlillari to'liq tayyor bo'lgach, epidemiolog ruxsati bilan
+- Qo'shimcha MRT tekshiruvi o'tkazilgandan keyin, shifokorlar kengashi qarori bilan
+! Kasallik tez rivojlanadi va o'lim xavfi yuqori bo'lgani sababli davoni kechiktirib bo'lmaydi.
+@ WHO. Meningitis (fact sheet)
+? Meningokokk burun-halqumda ko'pi bilan qancha vaqtgacha saqlanadi?
++ Uch haftagacha
+- Uch kungacha, shundan keyin avtomatik yo'qoladi
+- Uch oygacha, bunda doimiy ravishda antibiotik talab etiladi
+- Olti oygacha, faqat bolalarda
+- Bir yilgacha, barcha tashuvchilarda
+! Odatdagi tashuvchilikda qo'zg'atuvchi tezda yo'qoladi, uzoq tashuvchilar esa alohida epidemiologik ahamiyatga ega.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokkli meningit o'chog'ida dezinfeksiya nima uchun talab etilmaydi?
++ Qo'zg'atuvchi tashqi muhitda chidamsiz
+- Kasallik faqat qon so'ruvchi hasharotlar orqali yuqadi
+- Qo'zg'atuvchi sporalar hosil qilib, buyumlarda uzoq saqlanadi
+- Bemorning ajratmalari faqat suv orqali tarqaladi
+- Qo'zg'atuvchi quruq changda yillar davomida faolligini saqlaydi
+! Quritish va sovishga chidamsizligi sababli buyumlar orqali yuqish epidemiologik ahamiyatga ega emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokk o'sishi uchun oziq muhitda qanday gaz muhiti kerak?
++ 5–10% karbonat angidrid
+- 20–30% kislorod, boshqa gazlarsiz
+- 50% azot, yuqori bosimda
+- Vodorod sulfid, to'liq anaerob sharoitda
+- 1% ammiak, past namlikda
+! Qo'zg'atuvchi oziq muhitlarga talabchan bo'lgani uchun karbonat angidridli sharoitda yaxshi o'sadi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 2-ilova (meningokokk infeksiyasi mikrobiologik tashxisi)
+? Darslikda o'choqdagi aloqadorlarni tashuvchilikka tekshirish masalasi qanday baholanadi?
++ Ko'pchilik mamlakatlarda maqsadga muvofiq emas deb hisoblanadi, chunki aniqlangan tashuvchilarning ko'pchiligi epidemik xavf tug'dirmaydi
+- Ko'pchilik mamlakatlarda majburiy hisoblanadi, chunki aniqlangan tashuvchilarning barchasi albatta epidemik xavf tug'diradi va kasallik chaqiradi
+- Chaqaloqlar uchun tavsiya etiladi, chunki kattalar tashuvchi bo'lmaydi
+- Bir martalik tekshiruv yetarli, chunki tashuvchilik doimo tezda yo'qoladi
+- Yopiq jamoalarda tavsiya etiladi, chunki ochiq jamoalarda tashuvchilik uchramaydi
+! Tashuvchilik keng tarqalgan, lekin aksariyat hollarda zararsiz bo'lgani uchun ommaviy tekshiruv foyda bermaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokk tashuvchilar orasidan kimlar jamoadan ajratiladi?
++ Epidemik shtammlarni tashuvchilar
+- Barcha nazofaringit bemorlari, ular ko'pi bilan 3 hafta yuqumli bo'lgani uchun
+- Emlangan va emlanmagan aloqadorlar, shtammdan qat'i nazar
+- Ilgari kasallangan barcha shaxslar, shuningdek ularning oila a'zolari
+- Bolalar muassasalaridagi tashuvchilar, kattalar esa kuzatuvsiz qoldiriladi
+! Aksariyat tashuvchilar kasallik tarqatmaydi, shuning uchun faqat xavfli shtamm tashuvchilari chetlatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokk o'chog'ida 1 yoshgacha bolalarni himoyalash uchun qanday tadbirlar qo'llanadi?
++ Ota-onalar o'rtasida tushuntirish ishlari, bolalarni ajratib saqlash va parvarishlovchilarning dokali niqob taqishi
+- Chaqaloqlarga polisaxarid vaksina yuborish va ularni jamoaga qatnashishga yuborish, qo'shimcha cheklovsiz
+- Ona sutini to'xtatish va sun'iy ovqatlantirishga o'tkazish, kasalxonada kuzatish
+- Chaqaloqlarga profilaktik antibiotikni 3 hafta davomida berish va oilani karantinga olish
+- Ona va bola birga yashagan xonani yopib, ularni 21 kunga ajratib qo'yish
+! Bu yoshdagi bolalarni emlash imkoni cheklangan, shuning uchun yuqish yo'llarini to'sadigan tadbirlar ustuvor bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Meningokokk sepsisida teridagi toshmaning qaysi xususiyati diagnostik belgi hisoblanadi?
++ Bosganda oqarmaydi
+- Bosganda oqaradi va tezda yo'qoladi
+- Faqat kaft va tovonlarda chiqadi, qichishish bilan kechadi
+- Pufakchalar shaklida bo'lib, ichi tiniq suyuqlik bilan to'ladi
+- Mayda dog'simon bo'lib, 1–3 kunda iz qoldirmay yo'qoladi
+! Teri qon tomirlaridan qon quyilishi sababli toshma bosim ostida ham rangini o'zgartirmaydi.
+@ WHO. Meningitis (fact sheet)
+? JSST bo'yicha bakterial meningitda o'lim va asoratlar qanday chastotada kuzatiladi?
++ Taxminan 6 kishidan 1 tasi o'ladi, 5 kishidan 1 tasida og'ir asoratlar qoladi
+- Taxminan 100 kishidan 1 tasi o'ladi, 2 kishidan 1 tasida asoratlar qoladi
+- Taxminan 2 kishidan 1 tasi o'ladi, 10 kishidan 1 tasida asoratlar qoladi
+- Taxminan 20 kishidan 1 tasi o'ladi, hech kimda asoratlar qolmaydi
+- Taxminan 6 kishidan 1 tasida asorat qoladi, o'lim esa kuzatilmaydi
+! Kasallik tez rivojlanadi va davolangan taqdirda ham asorat qoldiradi, shuning uchun erta aniqlash muhim.
+@ WHO. Meningitis (fact sheet)
+? O'zbekistonda 2017-yilgi SanQvaM ga ko'ra meningokokkka qarshi emlash qanday guruhlarda o'tkaziladi?
++ A yoki C serogruppali o'choqdagi shaxslar hamda epidemik ko'rsatma bo'yicha xavf guruhlari
+- 1 yoshli bolalar rejali tarzda, milliy kalendar bo'yicha, hayotining birinchi yilida
+- B serogruppa aniqlangan hududlardagi kattalar, har yili, o'choq bo'lmasa ham
+- Faqat tibbiyot xodimlari, ish boshlagan kuni
+- Homilador ayollar, qizilchaga qarshi emlash o'rniga
+! Rejali emlash kalendarida yo'qligi sababli emlash faqat o'choq va yuqori xavfli guruhlar uchun qo'llanadi.
+@ SanQvaM № 0239-07/3 (2017)
+? Yopiq jamoalarda yillar davomida takrorlanuvchi meningokokk o'choqlari nima hisobiga shakllanadi?
++ Uzoq tashuvchilar hisobiga
+- Tashqi muhitdagi chidamli sporalar hisobiga
+- Kanalizatsiya suvlarining ifloslanishi hisobiga
+- Hasharotlar tomonidan mexanik tashilishi hisobiga
+- Oziq-ovqat mahsulotlari orqali ommaviy zaharlanish hisobiga
+! Bunday o'choqda kasallanish uzoq tashuvchi aniqlanib, jamoadan ajratilgandan keyingina to'xtagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Muassasada meningokokk o'chog'i aniqlanganda dastlabki 24 soat ichida qanday ishlar rejalashtiriladi?
++ Bemorni ajratib kasalxonaga yuborish, rahbar va sanitariya-epidemiologiya xizmatini xabardor qilish, aloqadorlar ro'yxatini tuzish
+- Barcha aloqadorlarga polisaxarid vaksina yuborish va muassasani 21 kunga yopish
+- Xonalarni xlorli eritma bilan dezinfeksiya qilish, bemorning buyumlarini kameraga topshirish va jamoani qo'shimcha kuzatuvga olish
+- Xodimlardan serologik tekshiruv uchun qon olish va natijani 1 oy kutish
+- Aloqadorlarni emlashdan oldin ularning orqa miya suyuqligini tekshirish va natijani 1 oy kutish
+! Birinchi sutkadagi tadbirlar yangi kasallanishlar tarqalishini to'xtatish va aloqadorlarni o'z vaqtida aniqlash uchun muhim.
+@ Mavzu materiali (086.docx)
+#U 086 / 12: Birinchi 24 soatdagi tadbirlar muddatining aniq belgilanishi mualliflik taklifi, tasdiqlanmagan.

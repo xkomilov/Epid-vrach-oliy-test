@@ -1,0 +1,97 @@
+=== 071
+? Difteriya qo'zg'atuvchisining infeksiya manbai kim hisoblanadi?
++ Har xil klinik shakldagi bemorlar va toksigen bakteriya tashuvchilar
+- Kasal uy hayvonlari va kemiruvchilar hamda ular ajratgan ifloslangan mahsulotlar
+- Qon so'ruvchi hasharotlar va kasallangan yovvoyi qushlar hamda hayvonlar
+- Ifloslangan suv havzalari va tuproq, ya'ni sapronoz qo'zg'atuvchisining tabiiy rezervuari
+- Faqat yaqqol klinik belgili bemorlar, tashuvchilar esa epidemiologik xavf tug'dirmaydi
+! Difteriya antroponoz infeksiya bo'lib, hayvonlar va tashqi muhit manba vazifasini bajarmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriyaning yashirin davri odatda qancha davom etadi?
++ 2–5 kun, kamdan-kam 10 kungacha
+- 11–25 kun, ko'pincha 15–18 kun
+- 7–14 kun, ko'pincha 10 kun
+- 21–30 kun, kamdan-kam 45 kungacha
+- 6–12 soat, kamdan-kam 2 sutkagacha
+! Qisqa yashirin davr nafas yo'llarida toksin to'planishi va parda hosil bo'lishining tez boshlanishi bilan bog'liq.
+@ WHO. Diphtheria (fact sheet); Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ma'lumotiga ko'ra, emlanmagan va davolanmagan difteriya bemorlarida o'lim taxminan qancha foizni tashkil etadi?
++ 30%
+- 10%
+- 3%
+- 60%
+- 85%
+! Davolanmagan bemorlarda toksin yurak va asab tizimini zararlaydi, shu sababli o'lim yuqori.
+@ WHO. Diphtheria (fact sheet)
+? Difteriya qo'zg'atuvchisining toksin hosil qilish xususiyati (toksigenlik) nima bilan bog'liq?
++ Qo'zg'atuvchi hujayrasida bakteriofag mavjudligi, ya'ni difteriya bakteriofagi bilan
+- Kapsula polisaxaridi bilan, uni bakteriya tashqi muhitda sintez qilib toksinga aylantiradi
+- Spora hosil qilish qobiliyati bilan, sporalar ichida toksin to'planadi
+- Flagellalar yordamidagi harakatchanlik bilan, ular bevosita toksin ishlab chiqaradi
+- Hujayra devoridagi lipopolisaxarid bilan, ya'ni endotoksin ta'siri tufayli
+! Toksin geni faqat faglar bilan lizogen holatga o'tgan shtammlarda bo'ladi, shuning uchun «odam — C. diphtheriae — bakteriofag» tizimi ahamiyatli.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriyaga qarshi immunitetning asosiy xususiyati qanday?
++ Antitoksik, ya'ni ekzotoksinni neytrallovchi antitoksinga asoslangan
+- Antibakterial, ya'ni bakteriya hujayrasining o'ziga qarshi qaratilgan
+- Hujayraviy, ya'ni asosan T-limfotsitlar vositasida shakllanadigan
+- Sekretor, ya'ni faqat shilliq qavatdagi IgA hisobiga hosil bo'ladigan
+- Turg'un va umrbod saqlanadigan, qayta emlashni talab qilmaydigan
+! Shu sababli maxsus profilaktika anatoksin bilan olib boriladi, bakteriyaning o'zini emas, toksinni neytrallash maqsad qilinadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Milliy emlash kalendarida AKDS-4 qaysi yoshda beriladi?
++ 16 oylikda
+- 12 oylikda, KPK-1 bilan bir vaqtda
+- 6 yoshda, KPK-2 bilan birga
+- 4 oylikda, pentavaksinaning uchinchi dozasi bilan
+- 9 oylikda, qizamiqqa qarshi emlash bilan birga
+! AKDS-4 pentavaksinaning uch dozasidan keyin, bolalik davridagi birinchi revaksinatsiya sifatida beriladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Milliy kalendarda ADS-M-6 qaysi yoshda o'tkaziladi?
++ 16 yoshda
+- 7 yoshda, 1-sinfda
+- 12 yoshda
+- 9 yoshda
+- 14 yoshda
+! 1-sinfda ADS-M-5, 16 yoshda esa ADS-M-6 qilinib, kattalar uchun ham davom etadigan revaksinatsiya tizimi boshlanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Difteriya o'chog'ida bemor bilan aloqada bo'lgan, avval emlanmagan va kasallanmagan shaxslar epidemiologik ko'rsatma bo'yicha qaysi yoshdan emlanadi?
++ 2 oylikdan
+- 6 oylikdan
+- 12 oylikdan
+- 3 yoshdan
+- 7 yoshdan
+! Yosh chegarasi o'choqdagi ushbu infeksiyaga mos jadvalda belgilangan, 6 oylik chegara qizamiq o'chog'iga tegishli.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Laboratoriyada ekilgan namunada 24 soatdan keyin shubhali koloniyalar nima bo'yicha tekshiriladi?
++ Toksigenlik bo'yicha
+- Antibiotiklarga sezgirlik darajasi bo'yicha
+- Serogruppa va serotip bo'yicha
+- Spora hosil qilish va kapsula mavjudligi bo'yicha
+- Gemolitik faollik va plazmakoagulyaza hosil qilish bo'yicha
+! Epidemik xavf toksin ishlab chiqarish bilan belgilanadi, shuning uchun birlamchi tashxisda aynan shu xususiyat aniqlanadi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova (uslubiy ko'rsatma)
+? JSST ma'lumotiga ko'ra, difteriya antitoksini davolashda qanday vazifani bajaradi?
++ Qonda aylanayotgan toksinni neytrallaydi
+- Bakteriya ko'payishini to'xtatadi hamda toksin ishlab chiqarilishini susaytiradi
+- Hujayra devori sintezini buzib, bakteriyani to'g'ridan-to'g'ri o'ldiradi
+- Aloqadorlarda faol antitoksik immunitet hosil qilib, uzoq muddat himoya beradi
+- Nafas yo'llaridagi fibrinoz pardani eritib, nafas yo'lini bevosita ochadi
+! Bakteriyaga ta'sir qilish antibiotiklarning vazifasi, antitoksin esa tayyor antitelo sifatida faqat toksinni bog'laydi.
+@ WHO. Diphtheria (fact sheet)
+? Difteriyaga qarshi emlash qamrovi rejalashtirishda kalendar bo'yicha kamida qancha bo'lishi ko'zda tutiladi?
++ 95%
+- 75%
+- 80%
+- 85%
+- 50%
+! Yuqori qamrov populyatsion antitoksik immunitetni ta'minlab, toksigen shtammlar aylanishini cheklaydi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Qo'zg'atuvchini ajratib turuvchi, lekin antitoksik immunitetli bakteriya tashuvchilar epidemiologik jihatdan nega muhim?
++ Ular emlangan aholida ham qo'zg'atuvchini uch oygacha ajratib, manba bo'lib qolishi mumkin
+- Qo'zg'atuvchini faqat bir necha soat ajratgani sababli, ularni hisobga olish shart emas
+- O'zlari kasallanmaydi va qo'zg'atuvchini boshqalarga ham hech qachon yuqtirmaydi
+- Qonida antitoksin bo'lgani uchun qo'zg'atuvchi organizmda toksin ishlab chiqarmaydi va yo'qoladi
+- Ular faqat yara va jarohat difteriyasi uchun manba, nafas yo'llari infeksiyasiga aloqasi yo'q
+! Antitoksin toksinni neytrallaydi, ammo bakteriya burun-halqumda saqlanib, tomchilar orqali tarqalishi davom etadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

@@ -1,0 +1,99 @@
+=== 053
+? Uslubiy ko'rsatmaga ko'ra, qaysi holat o'tkir bo'shashgan shol (OBSh) deb ta'riflanadi?
++ 15 yoshgacha bolada tananing ayrim qismlarida to'satdan paydo bo'lgan holsizlanish yoki falajlanish
+- Faqat laboratoriyada poliovirus ajratilgan, har qanday yoshdagi bemorda rivojlangan falajlanish holati
+- Kattalarda ensa muskullari qotishi bilan kechgan, yuqori isitmali seroz meningit holati
+- 5 yoshgacha bolada diareya bilan boshlanib, uch kun ichida o'tib ketgan umumiy holsizlik
+- Yoshidan qat'i nazar, bir yildan ortiq davom etgan surunkali mushak atrofiyasi holati
+! Ta'rif keng olinadi, chunki OBSh poliovirusdan tashqari ko'p sabablarda uchraydi va shuning uchun har bir holat laboratoriyada tekshiriladi.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+? OBSh aniqlangandan keyin 24 soat oralig'ida nechta najas namunasi olinadi va har biri qancha miqdorda bo'ladi?
++ 2 ta namuna, har biri 8–10 g
+- 1 ta namuna, 8–10 g miqdorda
+- 3 ta namuna, har biri 8–10 g
+- 4 ta namuna, har biri 5 g dan
+- 2 ta namuna, har biri 50 g dan
+! Ikki namuna virusning uzluksiz ajralmasligini hisobga olib olinadi, ma'lum miqdor esa tekshiruv uchun yetarli bo'ladi.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+? Najas namunalari qanday haroratda saqlanadi va birinchi namunadan keyin necha soat ichida laboratoriyaga yetkaziladi?
++ +4–8 °C da, muz xaltachalari orasida, 72 soat ichida
+- –20 °C da muzlatilgan holda, quruq muzda 24 soat ichida
+- +18–25 °C xona haroratida, 48 soat ichida
+- +37 °C termostatda saqlab, 12 soat ichida
+- +10–15 °C da, issiqlik saqlovchi idishda 7 sutka ichida
+! Sovuqlik zanjiri virusning saqlanishini ta'minlaydi, 72 soatlik muddat esa natijani o'z vaqtida olish uchun belgilangan.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+#U 053 / 3: harorat va muddat faqat mavzu materialidagi uslubiy ko'rsatmaga tayanadi (hujjat sanasi va raqami nusxada to'ldirilmagan).
+? Poliomielit tashxisining "oltin standarti" hisoblangan usul qaysi?
++ Najasni virusologik tekshirish
+- Qonni bakteriologik ekish orqali gemokultura ajratish
+- Vidal reaksiyasi yordamida juft zardoblarni serologik tekshirish
+- Orqa miya suyuqligining umumiy sitologik tahlili
+- Tomoq surtmasini mikroskopda Gram usulida ko'rish
+! Najasdan virusni hujayra kulturasida ajratish qo'zg'atuvchini to'g'ridan-to'g'ri aniqlaydi.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+? Bemorning ichi kelmasa, OBSh bo'yicha najas o'rniga nima olinadi?
++ Klizma suyuqligi
+- Siydik namunasi, kamida 100 ml miqdorda va bir sutka ichida yig'ilgan
+- Qon zardobi, venadan olingan va 18 soat muzlatgichda saqlangan
+- Tomoq va burun halqumidan olingan surtma namunasi, shisha tayoqcha bilan
+- Orqa miya suyuqligi, lyumbal punksiya yo'li bilan olingan
+! Najas bo'lmaganda ichak tarkibidan virus ajratish uchun klizma suyuqligi xuddi shunday saqlanadi va yuboriladi.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+? Klinik belgilar yaqqol bo'lsa yoki bemor xavfli guruhga kirsa, u bilan muloqotda bo'lgan nechta kishidan najas namunasi olinadi?
++ 3–5 kishidan bittadan
+- 1–2 kishidan, faqat oila a'zolaridan
+- 10–15 kishidan, ularning har biridan ikkitadan
+- 20 kishidan, har kimdan uchtadan namunalar
+- Barcha qo'shnilardan va ish joyidagi hamma hamkasblaridan
+! Muloqotda bo'lganlarning bir qismini tekshirish virus tarqalganini aniqlash uchun yetarli.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+? Qaysi bemor poliomielit bo'yicha xavfli guruhga kiradi?
++ Endemik hududda yashagan, qochoq yoki manzili noaniq shaxs
+- Doimiy yashash joyiga ega va kalendar bo'yicha to'liq emlangan maktab o'quvchisi
+- Tug'ilganidan beri shaharda yashayotgan va xorijga chiqmagan oilali kishi
+- Qishloq xo'jaligida ishlaydigan, yashash manzili aniq bo'lgan o'rta yoshli fuqaro
+- Davolash muassasasida kuzatuvda bo'lgan, boshqa mamlakatga hech qachon bormagan qariya
+! Bunday shaxslarda virus bo'lish xavfi yuqori, ularning muloqotdagilaridan ham namuna olinadi.
+@ O'zR SSV. OBSh namunalarini yig'ish, saqlash va yetkazish bo'yicha uslubiy ko'rsatma (7-ilova, 2015)
+? Milliy emlash kalendarida inaktivlangan poliomielit vaksinasi (IPV) qaysi yoshda yuboriladi?
++ 4 oylikda
+- 16 oylikda, ya'ni OPV-4 bilan birga, bola ikkinchi yoshiga kirmasdan
+- 1-sinfda, ya'ni 7 yoshda, maktabga kirishdan oldin
+- Tug'ruqxonada, tug'ilgan zahoti, hayotning birinchi sutkasida
+- 2 oylikda, OPV-1 dozasi o'rniga
+! IPV kalendarda OPV bilan birga qo'llanadi va bitta dozasi 4 oylikda beriladi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+#U 053 / 8: kalendar jadvali tasdiqlovchi organ, sana va raqamsiz nusxada keltirilgan, amaldagi kalendarni lex.uz orqali tekshirish lozim.
+? Immunoglobulin yuborilgan bo'lsa, poliomielitga qarshi emlash qachondan keyin o'tkaziladi?
++ Bir yarim oydan keyin
+- Uch oydan keyin, antitelolar butunlay yo'qolgach
+- Ikki haftadan keyin, harorat me'yorlashgach
+- Olti oydan keyin, antitelolar to'liq so'rilgan davrda
+- Bir haftadan keyin, yuborilgan kunning o'zida ham mumkin
+! Tayyor antitelolar vaksina virusining ko'payishiga xalaqit berishi mumkin, shu sababli muayyan tanaffus saqlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Poliomielitdan holi hudud maqomini saqlab turish uchun kalendar bo'yicha emlash qamrovi kamida qancha bo'lishi kerak?
++ 95 foiz
+- 80 foiz
+- 85 foiz
+- 70 foiz
+- 99 foiz
+! Yuqori qamrov aholi immunitetini ta'minlab, virus kirib kelganda tarqalishining oldini oladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Emlashdan keyin bola qanday tartibda kuzatiladi?
++ Dastlabki 3 kun har kuni, so'ng bir oy davomida
+- Faqat emlangan kuni, so'ngra bir hafta davomida har kuni
+- Birinchi 7 kun har kuni, so'ng uch oy davomida haftada bir marta
+- Dastlabki 10 kun kuniga ikki marta, keyin yarim yil davomida
+- Birinchi 24 soat, so'ng ikki hafta davomida haftada bir marta
+! Emlashdan keyingi reaksiyalar asosan dastlabki kunlarda paydo bo'lgani uchun shu davrda kuzatuv zichroq o'tkaziladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? JSST ma'lumotiga ko'ra, poliovirus bilan har nechta infeksiyadan biri qaytmas falajlikka olib keladi?
++ 200 tadan
+- 20 tadan
+- 50 tadan
+- 2000 tadan
+- 10 000 tadan
+! Ko'pchilik infeksiyalar belgisiz o'tadi, falaj esa faqat oz qismida rivojlanadi.
+@ WHO. Poliomyelitis (fact sheet)

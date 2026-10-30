@@ -1,0 +1,98 @@
+=== 029
+? O'zbekiston kalendariga ko'ra chaqaloq hayotining birinchi sutkasida qaysi emlash o'tkaziladi?
++ Virusli gepatit B ga qarshi birinchi doza (VGB-1)
+- Silga qarshi BSJ vaksinasining birinchi dozasi
+- Poliomielitga qarshi OPV vaksinasining birinchi dozasi
+- Rotavirus infeksiyasiga qarshi vaksinaning birinchi dozasi
+- Qizamiq-parotit-qizilchaga qarshi QPQ vaksinasining birinchi dozasi
+! Gepatit B ga qarshi birinchi doza onadan bolaga yuqish xavfini kamaytirish uchun tug'ilgan sutkadayoq beriladi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? Silga qarshi BSJ-1 vaksinasi qaysi kunlarda beriladi?
++ Hayotning 2–5-kunlarida
+- Hayotning 1-sutkasida, VGB-1 bilan bir vaqtda
+- 1 oylik yoshda, poliklinikada
+- 2 oylik yoshda, OPV-1 bilan birga
+- 6 oylik yoshda, rejali tekshiruvdan keyin
+! Kalendarda BSJ gepatit B dozasidan keyin, 2–5-kunlarda ko'rsatilgan.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? 2 oylik chaqaloqqa qaysi emlashlar o'tkaziladi?
++ OPV-1, Roto-1, penta-1 va PNEVMO-1
+- OPV-2, Roto-2, penta-2 va PNEVMO-2
+- OPV-3, penta-3 va IPV
+- BSJ-1, VGB-2, QPQ-1 va ADS-M
+- OPV-4 va AKDS-4 vaksinalari
+! Birinchi dozalar 2 oylikda boshlanadi, ikkinchilari 3 oylikda, uchinchilari va IPV esa 4 oylikda beriladi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? Inaktivlangan polio vaksina (IPV) kalendarga ko'ra qaysi yoshda beriladi?
++ 4 oylikda
+- 2 oylikda
+- 3 oylikda
+- 12 oylikda
+- 6 yoshda
+! IPV OPV-3 va penta-3 bilan birga 4 oylikda yuboriladi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? Qizamiq-parotit-qizilchaga qarshi ikkinchi doza (QPQ-2) qaysi yoshda beriladi?
++ 6 yoshda
+- 12 oylikda
+- 16 oylikda
+- 1-sinfda (7 yoshda)
+- 16 yoshda
+! Birinchi doza 12 oylikda berilgani uchun ikkinchisi maktabgacha yoshda revaksinatsiya sifatida o'tkaziladi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? 16 oylikda qaysi vaksinalar beriladi?
++ OPV-4 va AKDS-4
+- OPV-3 va penta-3
+- QPQ-1 va PNEVMO-3
+- OPV-5 va ADS-M-5
+- Roto-2 va penta-2
+! Bu yoshdagi revaksinatsiya birinchi yilda hosil bo'lgan polio hamda difteriya-ko'kyo'tal-qoqshol immunitetini mustahkamlaydi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? HBsAg musbat onalardan tug'ilgan chaqaloqlarga VGB tug'ilgandan keyin qancha vaqt ichida beriladi?
++ 3–12 soat ichida
+- 24–48 soat ichida
+- 2–5 kun ichida
+- 7–10 kun ichida
+- 1 oy ichida
+! Bunday chaqaloqlarda yuqish xavfi yuqori bo'lgani uchun emlash kalendardagi 1-sutkadan ham tezroq o'tkaziladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Kalendarda inson papillomavirusiga qarshi vaksina (VPCH) kimlarga ko'rsatilgan?
++ 12–13 yoshli qizlarga
+- 12–13 yoshli o'g'il bolalarga
+- 2 oylikdagi chaqaloqlarga
+- 6 yoshli bolalarga
+- 16 yoshli o'smirlarning barchasiga
+! Kalendar VPCH ni 12–13 yoshli qizlar uchun ko'zda tutadi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? Kalendar izohiga ko'ra IPV qo'llanilishi bilan tug'ruqxonalarda qaysi vaksina ishlatilmaydi?
++ OPV-0 (og'iz orqali beriladigan polio vaksinasi nolinchi dozasi)
+- VGB-1 (gepatit B ga qarshi birinchi doza)
+- BSJ-1 (silga qarshi birinchi doza, 2–5-kunlarda beriladigan)
+- Roto-1 (rotavirus vaksinasining birinchi dozasi, 2 oylikda)
+- PNEVMO-1 (pnevmokokk vaksinasining birinchi dozasi)
+! Inaktivlangan vaksina joriy etilgach, tug'ruqxonada tirik og'iz polio vaksinasining nolinchi dozasidan voz kechiladi.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? Pentavalent vaksina qaysi infeksiyalardan himoya qiladi?
++ Difteriya, ko'kyo'tal, qoqshol, gepatit B va XIB infeksiyasidan
+- Difteriya, qoqshol, qizamiq, parotit va qizilchadan
+- Difteriya, ko'kyo'tal, qoqshol, poliomielit va sil infeksiyalaridan
+- Gepatit A, gepatit B, rotavirus, pnevmokokk va siledan
+- Qizamiq, parotit, qizilcha, suvchechak va grippdan
+! Penta — beshta komponentli vaksina, uning tarkibida AKDS, gepatit B va gemofil (XIB) komponentlari bor.
+@ O'zR profilaktik emlashlar o'tkazish kalendar rejasi
+? Sanitariya qoidalariga ko'ra turli tirik vaksinalar orasida kamida qancha interval saqlanishi kerak?
++ Kamida bir oy, chunki ular o'rtasida interferensiya bo'lishi mumkin
+- Kamida bir hafta, chunki bu vaqt immun javob uchun yetarli
+- Kamida olti oy, chunki har bir doza yangi immun javob talab qiladi
+- Kamida bir yil, chunki tirik vaksinalar uzoq saqlanadi
+- Kamida ikki kun, chunki faqat mahalliy reaksiyalar kuzatiladi
+! Tirik vaksinalar bir-biriga ta'sir qilib, immun javobni susaytirishi mumkin, shuning uchun oraliq saqlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+? Eritrotsitar yoki leykotsitar massa quyilgandan so'ng qizamiq, qizilcha va parotitga qarshi emlash qancha vaqtdan keyin o'tkaziladi?
++ 6 oydan keyin
+- 1 oydan keyin
+- 3 oydan keyin
+- 7 oydan keyin
+- 1,5 oydan keyin
+! Quyilgan qon tarkibidagi antitelolar tirik vaksina javobiga xalaqit beradi, shuning uchun emlash kechiktiriladi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+#D 029 / 8: kalendarda VPCH 12–13 yoshli qizlarga ko'rsatilgan, maktab emlashi bo'yicha taqdimotda esa 9–13 yoshli qizlar uchun 6 oy oraliqli ikki dozali sxema keltirilgan; tafovut tasdiqlanmagan.

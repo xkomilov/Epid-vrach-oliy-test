@@ -1,0 +1,98 @@
+=== 037
+? Immun tizimning markaziy (birlamchi) organlariga qaysilar kiradi?
++ Suyak ko'migi va timus (ayrisimon bez)
+- Taloq va limfa tugunlari
+- Bodomsimon bezlar va Peyer pilakchalari
+- Jigar va buyrak usti bezlari
+- Timus va taloq
+! Markaziy organlarda immun hujayralar hosil bo'ladi va yetiladi, periferik organlarda esa antigenga javob shakllanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? T-limfotsitlar qaysi organda yetiladi va tanlanadi?
++ Timusda (ayrisimon bezda)
+- Taloqda (qondagi antigenlarga javob markazida)
+- Limfa tugunlarida
+- Qizil suyak ko'migida
+- Jigarda
+! T-limfotsitlar timus epiteliy hujayralari gormonlari ta'sirida yetilib, turli vazifali subpopulyatsiyalarga ajraladi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? B-limfotsitlar immun javobda qanday vazifani bajaradi?
++ Antitelolar ishlab chiqaruvchi plazmatik hujayralarga aylanib, gumoral immunitetni ta'minlaydi
+- Sitotoksik hujayralar sifatida virusli hujayralarni bevosita yo'q qilib, hujayraviy immunitetni ta'minlaydi
+- Mikroblarni fagotsitoz qilib, ularni hazm qiladi va yiring hosil bo'lishiga sabab bo'ladi
+- Antigenni tutib, uni T-limfotsitlarga taqdim etuvchi asosiy hujayra vazifasini bajaradi
+- Komplement tizimining oqsillarini sintez qilib, ularni qon zardobiga ajratadi
+! B-hujayralar antigenni tanib, antitelo hosil qiluvchi plazmatik hujayralarga differensiatsiyalanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Yangi tug'ilgan chaqaloqda dastlabki oylarda tabiiy passiv immunitetni qaysi antitelolar ta'minlaydi?
++ Platsenta orqali o'tgan IgG va ona suti orqali kelgan IgA
+- Faqat chaqaloqning o'zi ishlab chiqargan IgM
+- Platsenta orqali o'tgan IgE va ona suti orqali kelgan IgD
+- Emlash natijasida hosil bo'lgan IgG va IgM antitelolari
+- Ona sutidagi T-limfotsitlar va makrofaglar hujayralari
+! Onadan o'tgan antitelolar vaqt o'tishi bilan kamayadi, shu davrda bolaning o'z faol immuniteti rivojlanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Qon zardobida qaysi immunoglobulin sinfining aniqlanishi o'tkir (yangi) infeksiyani ko'rsatadi?
++ IgM
+- IgG
+- IgA
+- IgE
+- IgD
+! IgM infeksiyaning o'tkir bosqichida birinchi bo'lib paydo bo'ladi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Qonda faqat IgG antitelolarining mavjudligi nimani bildiradi?
++ O'tkazilgan infeksiya yoki emlash natijasida shakllangan immunitetni
+- Infeksiyaning o'tkir bosqichi va qo'zg'atuvchining faol ko'payayotganini
+- Allergik reaksiya rivojlanayotganini va gelmint invaziyasi mavjudligini
+- Shilliq qavatlarning mahalliy himoyasi buzilganini va immuntanqislik borligini
+- Faqat onadan homila davrida o'tgan, keyin yo'qolmaydigan umrbod passiv immunitetni
+! IgG kechroq shakllanib, uzoq muddatli himoyani ta'minlaydi va seroepidemiologik tekshiruvlarda immun qatlamni baholashga imkon beradi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018); Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Tug'ma (nospetsifik) immunitetning asosiy xususiyati qaysi?
++ Mikrob kirgandan so'ng darhol ta'sir qiladi, oldingi uchrashuvni talab qilmaydi va immunologik xotiraga ega emas
+- Aniq antigenga yo'naltirilgan bo'lib, takroriy uchrashuvda kuchliroq javob beradi va immunologik xotira hosil qiladi
+- Vaksinatsiyadan keyingina shakllanadi va uni faqat antitelolar ta'minlaydi
+- T-limfotsitlar va B-limfotsitlar ishtirokida bir necha hafta ichida rivojlanadi
+- Yangi tug'ilgan chaqaloqlarda mavjud bo'ladi va bir yoshdan keyin yo'qoladi
+! Teri to'sig'i, fagotsitoz va komplement oldindan sensibilizatsiyasiz ishlaydi, xotira esa orttirilgan immunitetga xosdir.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Vaksinatsiyaning asosiy g'oyasi qaysi?
++ Kasallik keltirmasdan orttirilgan immunitet va immunologik xotirani sun'iy ravishda hosil qilish
+- Organizmga tayyor antitelolarni kiritib, darhol ammo qisqa muddatli himoya berish
+- Tug'ma immunitet omillarini kuchaytirib, fagotsitoz faolligini doimiy oshirib turish va komplement tizimini rag'batlantirish
+- Qo'zg'atuvchini organizmda to'liq o'ldirish uchun antibiotiklarni profilaktik berish
+- Infeksiya manbaini ajratib, tashqi muhitni dezinfeksiya qilish
+! Vaksina antigenni xavfsiz shaklda kiritib, immun tizimni haqiqiy qo'zg'atuvchi bilan uchrashuvga tayyorlaydi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)
+? Qaysi infeksiyalardan keyin immunitet umrbod saqlanadi, qaysi biridan keyin esa qisqa muddatli bo'ladi?
++ Qizamiq va parotitdan keyin umrbod, grippdan keyin qisqa muddatli
+- Grippdan keyin umrbod, qizamiq va parotitdan keyin qisqa muddatli
+- Qizamiqdan umrbod, parotitdan esa bir necha oy davom etadi
+- Gripp va qizamiqdan keyin bir xil muddatli, parotitdan keyin umuman bo'lmaydi
+- Barcha infeksiyalardan keyin immunitet doimo bir xil, ya'ni olti oy saqlanadi
+! Immunitet davomiyligi kasallikka bog'liq, bu farqlar revaksinatsiya muddatlarini belgilashda hisobga olinadi.
+@ Mavzu materiali (037.docx)
+#U 037 / 9: qizamiq va parotitdan keyin umrbod, grippdan keyin qisqa muddatli immunitet haqidagi taqqoslash faqat mavzu materialiga tayangan.
+? Neytrofil o'rtacha nechta bakteriyani fagotsitoz qilgach halok bo'ladi?
++ 10–20 ta
+- 1–2 ta
+- 100–200 ta
+- 1000 ta
+- 5000–10 000 ta
+! Halok bo'lgan neytrofillar yiring tarkibining asosini tashkil etadi.
+@ Zornikov D.L., Litusov N.V. Osnovy protivoinfektsionnoy immunologii (2016)
+? Epidemiologik nuqtai nazardan immun tizim epidemik jarayonning qaysi bo'g'iniga bevosita ta'sir qiladi?
++ Uchinchi bo'g'inga — qabul qiluvchanlikka
+- Birinchi bo'g'inga — infeksiya manbaiga
+- Ikkinchi bo'g'inga — yuqish mexanizmiga
+- Qo'zg'atuvchining tashqi muhitdagi chidamliligiga
+- Tashuvchi hasharotlarning soniga
+! Aholining immun holati moyillikni belgilab, tarqalish jadalligiga ta'sir qiladi.
+@ CDC. Principles of Epidemiology in Public Health Practice (SS1978), Lesson 1, Section 10: Chain of Infection
+? Immunoglobulinlardan qaysi biri shilliq qavatlarni va ona sutini himoya qiladi?
++ IgA
+- IgM
+- IgG
+- IgE
+- IgD
+! Sekretor IgA shilliq qavat yuzasida mahalliy himoyani ta'minlaydi va ona suti orqali bolaga o'tadi.
+@ Marshall J.S. va boshq. An introduction to immunology and immunopathology (2018)

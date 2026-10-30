@@ -1,0 +1,98 @@
+=== 137
+? O'zbekistonda o'latning oxirgi holatlari 1990 va 1999 yillarda qaysi viloyatda qayd etilgan?
++ Navoiy viloyatida
+- Qoraqalpog'iston Respublikasida
+- Buxoro viloyatida
+- Qashqadaryo viloyatida
+- Xorazm viloyatida
+! Holatlar cho'l tabiiy o'choqlari joylashgan hududda qayd etilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? O'latning uchinchi pandemiyasi qaysi yilda boshlangan?
++ 1894-yilda
+- 1333-yilda
+- 527-yilda
+- 1720-yilda
+- 1918-yilda
+! Pandemiya Xitoy va Hindistondan boshlanib, keyingi o'n yilda dunyodagi ko'plab port shaharlariga tarqalgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Bubon shaklidagi o'latda yashirin davr qancha davom etadi?
++ Bir necha soatdan 6 kungacha
+- 2 dan 14 kungacha davom etadi
+- 7 dan 21 kungacha, odatda 12 kun
+- 10 dan 30 kungacha
+- 15 dan 60 kungacha
+! Yashirin davr qisqa bo'lgani uchun kasallik to'satdan boshlanadi va tezkor tadbirlar talab qilinadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? O'pka shaklidagi bemor kasallikning uchinchi kunidan yo'talganda qo'zg'atuvchini qancha masofagacha tarqatadi?
++ 2 metrgacha
+- 0,5 metrgacha
+- 5 metrgacha
+- 10 metrgacha
+- 20 metrgacha
+! Havo-tomchi yo'li bilan qo'zg'atuvchi yaqin masofada tarqaladi, shu sababli bemorni izolyatsiya qilish zarur.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? O'lat laboratoriya diagnostikasida biologik usul natijasi necha kungacha olinadi?
++ 6 kungacha
+- 1 kungacha
+- 3 kungacha
+- 14 kungacha
+- 3 soatgacha
+! Biologik usul laboratoriya hayvonlarida zararlashni talab qilgani uchun natija uzoqroq kutiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? O'lat o'chog'ida dezinseksiya va deratizatsiya qanday tartibda o'tkaziladi?
++ Burgalarga qarshi kurash kemiruvchilarni yo'qotishdan oldin o'tkaziladi
+- Kemiruvchilar avval yo'qotiladi, so'ngra burgalarga qarshi ishlov beriladi
+- Ikkala tadbir bir vaqtda, bitta preparat bilan o'tkaziladi
+- Faqat kemiruvchilar yo'qotiladi, burgalarga qarshi alohida ishlov talab qilinmaydi
+- Dezinseksiya faqat odamlar yashaydigan uylarda o'tkaziladi
+! Kemiruvchilar yo'qolganda burgalar yangi xo'jayinni qidirib odamga o'tishi mumkin.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010; WHO. Plague (fact sheet)
+? O'lat bo'yicha endemik noxush hududlardan kelganlar necha kun tibbiy kuzatuvga olinadi?
++ 6 kun
+- 3 kun
+- 9 kun
+- 14 kun
+- 21 kun
+! Kuzatuv muddati kasallikning yashirin davriga mos keladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? O'latga qarshi maxsus profilaktika uchun qaysi vaksina qo'llanadi?
++ Tirik quritilgan EV vaksinasi
+- Formalin bilan o'ldirilgan butun hujayrali vaksina
+- Anatoksin asosidagi vaksina
+- Konyugatsiyalangan polisaxarid vaksina
+- Rekombinant sirt oqsili asosidagi vaksina
+! Milliy qo'llanmada tirik susaytirilgan vaksina ko'rsatilgan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? JSST o'latga qarshi emlashni kimlarga tavsiya etadi?
++ Doimiy kontaminatsiya xavfidagi laboratoriya va tibbiyot xodimlariga
+- Tabiiy o'choq hududida yashovchi barcha aholiga ommaviy tarzda
+- Barcha bir yoshdan katta bolalarga rejali tartibda
+- Chegaradan o'tuvchi har bir yo'lovchiga kirish vaqtida
+- Kemiruvchilar uchraydigan hududda yashovchi barcha mutaxassislarga
+! JSST bo'yicha emlash faqat yuqori xavf guruhlari uchun mo'ljallangan, ommaviy emlash tavsiya etilmaydi.
+@ WHO. Plague (fact sheet)
+? Cho'l zonasida tuyalarni so'yish bo'yicha qanday qoida mavjud?
++ Hech bir tuya klinik ko'riksiz so'yilmaydi
+- Tuyalar faqat bahor oylarida so'yiladi
+- Tuyalarni so'yish veterinariya xizmatining nazoratisiz ruxsat etiladi
+- Faqat sog'lom tuyalarni so'yish mumkin, ko'rik talab etilmaydi
+- Tuyalar so'yilgandan keyingina o'lat bo'yicha tekshiriladi
+! Tuya o'lat manbalaridan biri bo'lgani uchun go'sht ishlashda odamlar zararlanishi mumkin.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? Muassasada o'ta xavfli kasallik, jumladan o'lat, gumon qilinganda epidemiyaga qarshi tadbirlar rejasi qaysi bosqichlardan iborat?
++ Doimiy tayyorgarlik, gumon qilinganda birlamchi tadbirlar, o'choqni cheklash va tugatish
+- Profilaktika, davolash va reabilitatsiya bosqichlari, har biri alohida muassasada bajariladi
+- Diagnostika, ommaviy emlash va dispanserizatsiya bosqichlari, har bir bosqich alohida nizom bilan
+- Ogohlantirish, aholini evakuatsiya qilish va uzoq muddatli karantin bosqichlari hamda tiklash
+- Hisobga olish, ma'rifiy ish va hisobot bosqichlari, ularning har biri choraklik rejaga muvofiq
+! Reja kasallik gumon qilingunga qadar, gumon paytida va o'choq aniqlangandan keyingi harakatlarni ketma-ket qamrab oladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+? O'zbekistonda o'lat infeksiyasining yetakchi manbalari qaysilar?
++ Katta qumsichqon, sug'ur, yumronqoziq va tuya
+- Qoramol, qo'y, echki va ot kabi chorva hayvonlari
+- Yarasa, tipratikan, tulki va bo'ri kabi yovvoyi hayvonlar
+- Uy qushlari va yovvoyi suv qushlari
+- Mushuk, it, cho'chqa va tovuq
+! Bu hayvonlar cho'l va tog'li tabiiy o'choqlarda qo'zg'atuvchi aylanishini saqlab turadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent, 2010
+#D 137 / 9: milliy qo'llanmada aholini emlash markaz va hududiy sanitariya-epidemiologiya muassasalari tavsiyasi bilan o'tkazilishi ko'rsatilgan, JSST esa emlashni faqat yuqori xavf guruhlariga tavsiya etadi.

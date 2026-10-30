@@ -1,0 +1,101 @@
+=== 021
+? Yuqumli kasallik o'chog'idagi dezinfeksiya tadbirlari epidemik jarayonning qaysi bo'g'iniga ta'sir qiladi?
++ Yuqish mexanizmiga ta'sir qilib, uni uzishga qaratilgan
+- Infeksiya manbaiga ta'sir qilib, uni o'choqda butunlay yo'qotishga qaratilgan
+- Qabul qiluvchan organizmga ta'sir qilib, uning immunitetini oshirishga qaratilgan
+- Qo'zg'atuvchining virulentligini organizm ichida pasaytirishga qaratilgan
+- Tashuvchilarni aniqlab, ularni sanatsiya qilishga qaratilgan
+! Dezinfeksiya qo'zg'atuvchini tashqi muhitda, ya'ni manbadan yangi odamga o'tish yo'lida yo'q qiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016; CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10
+? Yakuniy dezinfeksiya qachon o'tkaziladi?
++ Infeksiya manbai o'choqdan olib chiqilgach, bir marta
+- Bemor o'choqda bo'lgan butun davr mobaynida muntazam, kunlik jadval bo'yicha
+- Kasallik paydo bo'lishidan oldin, aholi punktlarida rejali ravishda
+- Faqat bemor sog'aygandan keyin bir hafta davomida har kuni takroran
+- Bemor aniqlangan zahoti, uni ajratishdan oldin birinchi navbatda
+! Bu tur bir martalik bo'lib, manba ketgach o'choqdagi qo'zg'atuvchini to'liq tugatishga qaratilgan, muntazam ish esa joriy dezinfeksiyaga xos.
+@ SanQvaN № 0090-25; Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Bemor shifoxonaga yotqizilgan paytdan boshlab yakuniy dezinfeksiya qancha muddat ichida, qancha qamrov bilan o'tkazilishi kerak?
++ 24 soat ichida, kamida 95 foiz qamrov bilan
+- 12 soat ichida, kamida 80 foiz qamrov bilan
+- 48 soat ichida, kamida 95 foiz qamrov bilan
+- 72 soat ichida, kamida 70 foiz qamrov bilan
+- 6 soat ichida, kamida 100 foiz qamrov bilan
+! Normativda qo'zg'atuvchi tarqalib ulgurmasligi uchun qisqa muddat va yuqori qamrov talab qilinadi.
+@ SanQvaN № 0090-25
+? Bajarilgan yakuniy dezinfeksiya qaysi hisobot shaklida qayd etiladi?
++ F.323/U shaklida
+- F.058/U shaklida (yuqumli kasallik haqida shoshilinch xabarnoma)
+- F.025/U shaklida (ambulator bemorning tibbiy kartasi)
+- F.063/U shaklida (profilaktik emlashlar kartasi)
+- F.060/U shaklida (yuqumli kasalliklarni ro'yxatga olish jurnali)
+! Boshqa shakllar kasallik haqida xabar berish, ambulator yozuv, emlash yoki ro'yxatga olish uchun mo'ljallangan, dezinfeksiya ishini qayd etish uchun emas.
+@ SanQvaN № 0090-25
+? Dezinfeksiya samaradorligining eng ishonchli ko'rsatkichi qaysi nazorat usuli hisoblanadi?
++ Bakteriologik nazorat: ishlov berilgan yuzalardan surtma olish
+- Vizual nazorat: xona tozaligi va tartibini ko'z bilan baholash
+- Kimyoviy nazorat: eritmadagi faol modda miqdorini tekshirish
+- Hujjatli nazorat: ishlatilgan preparat va vaqt qaydlarini ko'rib chiqish
+- Fizik nazorat: ishlov vaqtida xona haroratini o'lchab borish
+! Faqat laboratoriya tekshiruvi qo'zg'atuvchi yoki ko'rsatkich mikroorganizm qolgan-qolmaganini bevosita ko'rsatadi, boshqa usullar bilvosita baho beradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016; Osipova V.L. Dezinfeksiya (2009)
+? Quyidagi kasalliklarning qaysi birida o'choqda yakuniy dezinfeksiya majburiy hisoblanadi?
++ Ich terlama (qorin tifi)
+- Gripp (mavsumiy havo-tomchi infeksiyasi)
+- Qizamiq (havo-tomchi infeksiyasi)
+- Suvchechak (varitsella)
+- Ko'kyo'tal (pertussis)
+! Ich terlama qo'zg'atuvchisi tashqi muhitda uzoq saqlanadi, boshqalari esa tez nobud bo'ladi, shuning uchun ularda shamollatish va nam tozalash yetarli.
+@ SanQvaN № 0090-25
+? Kuydirgi kabi spora hosil qiluvchi qo'zg'atuvchilar o'chog'ida qanday rejim qo'llaniladi?
++ Eng kuchli rejimlar: avtoklavlash va yuqori konsentratsiyali vositalar bilan uzoq ekspozitsiya
+- Oddiy shamollatish va nam tozalash, yakuniy ishlovning o'zi umuman talab etilmaydi
+- Yumshoq rejim: past konsentratsiyali eritma bilan qisqa muddat yuzani artish
+- Faqat ultrabinafsha nurlantirish, kimyoviy vositalarsiz va qisqa ekspozitsiyada
+- Yuvish va quritish bilan cheklanish, chunki sporalar tashqi muhitda tez nobud bo'ladi va qo'shimcha ishlov talab qilmaydi
+! Sporalar tashqi ta'sirga juda chidamli bo'lgani uchun oddiy vegetativ shakllarga yetarli rejim ularni yo'q qilmaydi.
+@ Mavzu materiali (021.docx)
+? Dezinfeksiyani kimyoviy nazorat qilishda nima aniqlanadi?
++ Dezinfeksiyalovchi eritmadagi faol modda miqdori
+- Ishlov berilgan yuzalardan olingan surtmada ichak tayoqchasi borligi
+- Xonadagi havo harorati va nisbiy namlik darajasi
+- Dezinfeksiya brigadasi xodimlarining malaka darajasi
+- Eritma tayyorlangan idishning hajmi va tayyorlangan materiali
+! Eritma kuchsizlansa yoki noto'g'ri tayyorlansa, qo'zg'atuvchiga ta'sir qilmaydi, shu sababli uning tarkibi tekshiriladi.
+@ Mavzu materiali (021.docx)
+? Dezinfeksiya sifati baholanganda patogen bo'lmagan mikroflora musbat surtmalarning necha foizidan oshmasligi kerak?
++ 5 foizdan
+- 1 foizdan
+- 10 foizdan
+- 15 foizdan
+- 25 foizdan
+! Bu chegaradan oshganda natija qoniqarsiz hisoblanadi va dezinfeksiya qaytadan o'tkaziladi.
+@ SanQvaN № 0090-25
+? Joriy dezinfeksiyada bemorning ajralmalari (najas, siydik, qusuq, balg'am) qachon zararsizlantiriladi?
++ Darhol, ajralgan zahoti, mos preparat va ekspozitsiya bilan
+- Bemor sog'ayib o'choqdan chiqqandan keyin, yakuniy ishlov vaqtida
+- Faqat kechqurun, kunlik tozalash paytida to'plab zararsizlantiriladi
+- Ish kunining oxirida, laboratoriya tekshiruvi natijasi kelgach
+- Haftada bir marta, belgilangan dezinfeksiya kuni jadvali bo'yicha
+! Qo'zg'atuvchi ajralmalar bilan tashqariga chiqqani uchun kechiktirilgan ishlov atrofga tarqalish xavfini saqlab qoladi.
+@ Mavzu materiali (021.docx)
+? Qonunga ko'ra profilaktik dezinfeksiyani kim o'tkazadi?
++ Shartnoma asosida ishlovchi dezinfeksiya stansiyalari
+- Davlat sanitariya nazorati organlari o'z kuchi bilan
+- Bemorni parvarish qiluvchi oila a'zolari mustaqil ravishda
+- Davolash muassasasining bosh shifokori buyrug'i bilan hamshiralar
+- Veterinariya xizmati xodimlari hududiy tartibda
+! Epidemik ko'rsatmalar bo'yicha o'choqdagi ishni davlat sanitariya nazorati organlari, rejali profilaktik ishni esa shartnomaviy xizmat bajaradi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni, 34-modda
+? Uyda bemorni parvarish qiluvchi oila a'zolariga joriy dezinfeksiya bo'yicha qanday usullar oldindan tushuntiriladi?
++ Oddiy va xavfsiz usullar: qaynatish, eritma bilan artish, alohida idish ajratish
+- Murakkab apparat usullari: avtoklavlash va maxsus kameralarda zararsizlantirish
+- Faqat professional brigada bajaradigan fumigatsiya va aerozolli ishlov
+- Ultrabinafsha bakteritsid lampalar yordamida xonani nurlantirish tartibi
+- Dezinseksiya vositalari bilan butun uyni purkash va deratizatsiya qilish
+! Ishni oila a'zolari bajargani uchun usullar oddiy, xavfsiz va maxsus jihozsiz amalga oshiriladigan bo'lishi kerak.
+@ Mavzu materiali (021.docx)
+#U 021 / 7: spora hosil qiluvchi qo'zg'atuvchilarda avtoklavlash va yuqori konsentratsiyali vositalar bilan uzoq ekspozitsiya rejimi faqat mavzu materialiga tayangan.
+#U 021 / 8: kimyoviy nazoratning faol modda konsentratsiyasini tekshirishi haqidagi ta'rif faqat mavzu materialiga tayangan.
+#U 021 / 10: ajralmalarni darhol zararsizlantirish talabi faqat mavzu materialiga tayangan.
+#U 021 / 12: oila a'zolariga tushuntiriladigan oddiy usullar ro'yxati faqat mavzu materialiga tayangan.

@@ -1,0 +1,99 @@
+=== 117
+? Karantin va O'XYuK o'chog'ida tadbirlarga umumiy rahbarlik kimga yuklatiladi?
++ Epidemiyaga qarshi kurash favqulodda komissiyasi va uning shtabiga
+- Faqat o'choqdagi davolash-profilaktika muassasasi bosh vrachiga
+- Dezinfeksiya guruhi rahbari bo'lgan vrach-dezinfeksionistga, o'choqda yagona qaror qabul qiluvchi sifatida
+- Hududiy veterinariya xizmati boshlig'iga, zoonoz bo'lmagan kasalliklarda ham
+- Mahalla fuqarolar yig'ini raisiga, mahalliy faollar yordamida
+! Rahbarlik bir necha idora faoliyatini birlashtirgani uchun yagona komissiya va uning shtabi zimmasiga yuklanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? O'XYuK o'chog'ida dezinfeksiya guruhi eng kami bilan qanday tarkibda bo'lishi kerak?
++ Kamida 3 kishi: 1 vrach-dezinfeksionist va 2 dezinfektor
+- Kamida 2 kishi: 1 vrach va 1 dezinfektor, haydovchisiz
+- Kamida 5 kishi: 2 vrach va 3 dezinfektor
+- Kamida 10 kishi: 1 vrach, 3 hamshira va 6 dezinfektor
+- Bitta dezinfektor, uni haydovchi qo'llab-quvvatlaydi
+! Guruh a'zolaridan ba'zilari o'choq ichida, boshqalari tashqarida kiyim qabul qilish va eritma tayyorlash bilan band bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Vabo o'chog'ida dezinfeksiya guruhi a'zolari MShHVning qaysi turini kiyadi?
++ III tur
+- I tur
+- II tur
+- IV tur
+- Maxsus himoya talab etilmaydi
+! Himoya turi qo'zg'atuvchining yuqish yo'liga bog'liq: nafas yo'li orqali yuqadigan kasalliklarda yuqori darajali himoya kerak.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Nam dezinfeksiya uchun o'choqda qaysi eritma ishlatiladi?
++ 3 % xloramin yoki 3 % tindirilgan xlorli ohak
+- 0,1 % kaliy permanganat yoki 0,5 % yod
+- 70° etil spirti yoki 3 % vodorod peroksid
+- 0,01 % xlorgeksidin yoki oddiy sovunli suv
+- 1 % natriy xlorid yoki 5 % glyukoza
+! Faol xlor saqlovchi vositalar keng spektrli ta'sirga ega bo'lib, o'ta xavfli qo'zg'atuvchilarni ishonchli yo'qotadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? I tur MShHVda ishlash muddati qancha bilan cheklanadi va keyin qanday tanaffus beriladi?
++ 3 soat, 1 soatlik tanaffusdan keyin davom ettiriladi
+- 30 daqiqa, 10 daqiqalik tanaffusdan keyin davom ettiriladi
+- 8 soat, tanaffussiz davom ettiriladi
+- 6 soat, 3 soatlik tanaffusdan keyin davom ettiriladi
+- 1 soat, 24 soatlik tanaffusdan keyin davom ettiriladi
+! Og'ir himoya kiyimida issiqlik va chanqash tez charchoqni keltirib chiqargani uchun ish vaqti cheklanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Shoshilinch shaxsiy profilaktika jamlamasiga qancha hajmdagi 70° li etil spirti kiradi?
++ 150 ml
+- 15 ml
+- 50 ml
+- 500 ml
+- 1000 ml
+! Spirt teri va jihozlarni shoshilinch ishlash uchun ishlatiladi, shu sababli jamlamada yetarli zaxira bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? SanQvaN № 0034-22 bo'yicha chegara punktlarida chin chechak bo'yicha o'rtacha yashirin davrni hisobga olib kuzatuv necha kun belgilanadi?
++ 14 kun
+- 5 kun
+- 6 kun
+- 10 kun
+- 21 kun
+! Muddat kasallikning yashirin davriga moslab belgilanadi va kasalliklar o'rtasida farq qiladi.
+@ SanQvaN № 0034-22
+? Dezinfeksiya paytida o'choqqa kimlar kiradi?
++ Vrach va bitta dezinfektor, ikkinchisi tashqarida qoladi
+- Barcha guruh a'zolari birga, tashqarida hech kim qolmaydi
+- Ikkala dezinfektor, vrach tashqaridan nazorat qiladi
+- Haydovchi va dezinfektor, vrach esa transportda kutadi, o'choqqa kirmaydi
+- Bemorning qarindoshlari ham guruh bilan birga, yordam sifatida
+! Tashqarida qolgan dezinfektor kiyimlarni qabul qilish, eritma tayyorlash va jihozlarni yetkazish bilan band bo'ladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? O'XYuK o'chog'ida dezinfeksiya qayerdan boshlanadi va qanday davom etadi?
++ Kirish eshigi ostonasidan boshlanib, xona ichkarisi tomon davom etadi
+- Xonaning eng uzoq burchagidan boshlanib, eshik tomon davom etadi
+- Shiftdan boshlanib, pollar tomon davom etadi, eshik ostonasi eng oxirida ishlanadi
+- Bemor yotgan joydan boshlanib, qolgan xonalarga tarqaladi
+- Tashqi hovlidan boshlanib, faqat kiyimlar kamerada ishlanadi
+! Bu tartib dezinfeksiya qilingan joyga qayta kirish va uni qayta ifloslantirishning oldini oladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Epidemiologik brigada aloqadorlarni qancha muddatga tibbiy kuzatuvga oladi?
++ Kasallikning inkubatsion davri davomida
+- Bir kun, bemor evakuatsiya qilingunga qadar
+- Hamma kasalliklarda ham 60 kun davomida
+- Bemor shifoxonadan chiqquniga qadar, undan keyin kuzatilmaydi
+- Simptomlar paydo bo'lgandan keyin, shu paytdan boshlab
+! Kuzatuv muddati yashirin davrga mos bo'lishi kerak, chunki shu davrda kasallik belgilari hali ko'rinmasligi mumkin.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Zoonoz infeksiyalar o'chog'ida epizootologik tekshiruv uchun qaysi mutaxassislar jalb etiladi?
++ O'lat profilaktika markazi va veterinariya xizmati mutaxassislari
+- Maktab o'qituvchilari va mahalla faollari, tushuntirish ishlari uchun
+- Tez tibbiy yordam brigadasi va stomatologlar, qo'shimcha kuch sifatida
+- Oziq-ovqat sanoati korxonalari injenerlari, mahsulot sifati bo'yicha
+- Bojxona xodimlari va avtotransport inspektorlari, yo'l nazorati uchun
+! Zoonozlarda manba hayvonlar bo'lgani uchun tibbiy va veterinariya xizmatlarining birgalikdagi ishi talab etiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+? Qaysi holatda dezinfeksiya, dezinseksiya va deratizatsiya bir vaqtda o'tkaziladi?
++ O'latga gumon bo'lganda
+- Kuydirgi tasdiqlangan hayvon jasadi topilganda
+- Vabo bemori shifoxonaga yotqizilganda
+- Chin chechak gumon qilinganda
+- Maymun chechagi aniqlanganda
+! O'latda qo'zg'atuvchi burgalar va kemiruvchilar orqali tarqaladi, shuning uchun uchala tadbir birgalikda zarur.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), 2010
+#U 117 / 2: dezinfeksiya guruhi tarkibi (kamida 3 kishi) faqat mavzu materialiga (qo'llanma) tayanadi.
+#U 117 / 6: shoshilinch profilaktika jamlamasidagi 150 ml spirt hajmi faqat mavzu materialiga tayanadi.

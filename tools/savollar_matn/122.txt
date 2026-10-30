@@ -1,0 +1,97 @@
+=== 122
+? Davlat chegarasidan o'tish punktlarida tibbiy nazorat to'g'risidagi 1999-yilgi nizom qaysi hujjat bilan kuchini yo'qotgan deb topilgan?
++ Sog'liqni saqlash vazirining 2023-yil 2-avgustdagi 32-son buyrug'i
+- Vazirlar Mahkamasining 2019-yil 18-noyabrdagi 912-son qarori
+- SanQvaN № 0034-22 (2022-yil 8-sentyabrdagi 25-son qaror)
+- Sog'liqni saqlash vazirining 2012-yil 29-oktyabrdagi 310-son buyrug'i
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i
+! Bekor qilish to'g'risidagi buyruq Adliya vazirligida 2023-yilda ro'yxatdan o'tgan, amaldagi talablar esa boshqa hujjatlardan olinadi.
+@ O'zR SSV 2023-yil 2-avgustdagi 32-son buyrug'i (ro'yxat raqami 927-1)
+? Havo kemalari komandirlari va daryo kemalari kapitanlaridan kasallik belgilari haqida ma'lumot kelishdan qancha vaqt oldin talab qilinadi?
++ 30 daqiqa
+- 10 daqiqa
+- 2 soat
+- 6 soat
+- 24 soat
+! Bu muddat bo'linmaga bemorni ajratish va birlamchi tadbirlarni tayyorlash uchun yetarli vaqt beradi.
+@ O'zR VM 2019-yil 18-noyabrdagi 912-son qarori, 125–126-bandlar
+? Sanitariya nazorati punktida nechta maxsus shaxsiy himoya vositalari jamlamasi (MShHVJ) saqlanadi?
++ 3 ta
+- 6 ta
+- 11 ta
+- 16 ta
+- 50 ta
+! Katta zaxiralar viloyat va shahar-tuman markazlari uchun belgilangan, punkt uchun esa kichik jamlama yetarli hisoblanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'lat bo'yicha noxush mamlakatdan kelgan transport vositasi o'latdan zararlanmagan hisoblanishi uchun yo'lga chiqqan sanadan keyin necha kun davomida odamlar orasida o'lat aniqlanmagan bo'lishi kerak?
++ 6 kun
+- 14 kun
+- 3 kun
+- 10 kun
+- 21 kun
+! Muddat o'latning yashirin davriga asoslangan va o'lat bo'yicha kuzatuv davriga mos keladi.
+@ SanQvaN № 0034-22
+? Sanitariya-karantin punktlarida yashirin davr asosida belgilangan kuzatuv muddati chin chechak uchun qancha?
++ 14 kun
+- 7 kun
+- 10 kun
+- 6 kun
+- 5 kun
+! Chin chechakning yashirin davri uzun bo'lgani sababli kuzatuv muddati ham ancha cho'zilgan.
+@ SanQvaN № 0034-22
+? Quyidagi kasalliklardan qaysi birida kuzatuv muddati eng uzun belgilangan?
++ Poliomielit — 21 kun
+- Chin chechak — 14 kun
+- OO'RS — 10 kun
+- Gripp — 7 kun
+- Vabo — 5 kun
+! Eng uzoq yashirin davrga ega bo'lgan infeksiya uchun kuzatuv davri ham eng uzun hisoblanadi.
+@ SanQvaN № 0034-22
+? Bezgak tarqalgan hududlardan kelgan transport vositasida anofeles chivinlari aniqlansa, qanday choralar ko'riladi?
++ Chivinlar soni va turidan qat'i nazar, dezinseksiya o'tkaziladi
+- Chivinlar soni 5 tadan oshgandagina transportda dezinseksiya o'tkaziladi
+- Dezinseksiya o'tkazilmaydi, chivinlar yig'ilib laboratoriyaga yuboriladi
+- Transport ikki hafta davomida alohida maydonchada ushlab turiladi va dezinseksiya talab etilmaydi
+- Transport joyidan jilmaydi, chivinlar sonini hisoblash uchun uch kun kuzatiladi
+! Bezgak bitta chivin orqali ham yuqishi mumkin, shuning uchun miqdoriy chegara qo'yilmagan.
+@ SanQvaN № 0034-22
+? Transportda o'lik kemiruvchilar va ularning ektoparazitlari topilsa, ular bilan nima qilinadi?
++ Yig'ilib, maxsus idishlarda o'lat profilaktika markaziga yuboriladi
+- Joyida yoqib yuboriladi va kuli chegara punktining maxsus chuqurlarida ko'miladi
+- Chegara bojxona postining omboriga topshiriladi va u yerda uch sutka saqlanadi
+- Veterinariya xizmatiga topshiriladi va qo'zg'atuvchi bo'yicha tekshirilmasdan yo'q qilinadi
+- Transport yuklari bilan birga oxirgi manzilga yetkaziladi va u yerda tekshiriladi
+! Laboratoriya tekshiruvi qo'zg'atuvchi mavjudligini aniqlash uchun zarur.
+@ SanQvaN № 0034-22
+? XTSQ-2005 davlatlarga qanday majburiyatni yuklaydi?
++ Milliy koordinator tayinlash va JSST bilan aloqa punktini belgilash
+- Barcha chegara punktlarida chet el fuqarolarini majburiy emlash va natijani yilda ikki marta yuborish
+- O'ta xavfli kasalliklar bo'yicha karantin muddatini barcha davlatlar uchun 30 kun qilib belgilash
+- Har bir viloyatda alohida xalqaro laboratoriya qurish va uni JSST tasarrufiga o'tkazish
+- Qo'shni davlatlar bilan yagona kasalxona tarmog'ini yaratish va umumiy byudjetdan moliyalashtirish
+! Bu tizim favqulodda vaziyatlar haqida xalqaro axborot almashinuvini tezlashtirish uchun joriy etilgan.
+@ Xalqaro tibbiy-sanitariya qoidalari (2005), JSST
+? Sariq isitma bo'yicha emlash sertifikatlariga nisbatan SKP bo'linmasi qanday huquqqa ega?
++ Emlash o'tkazilganini tasdiqlovchi hujjatlarni tekshirish va zarur bo'lsa uning o'tkazilishini talab qilish
+- Sertifikatlarni tekshira olmaydi, chunki bunday vakolat faqat bojxona organlariga tegishli
+- Emlash sertifikati bo'lmagan shaxslardan jarima undirish, ularni 30 kunga ushlab turish va yo'lovchi ro'yxatidan chiqarish
+- Sertifikatni bekor qilib, o'rniga yangi sertifikat berish hamda zarur bo'lsa joyida emlash
+- Sertifikat faqat chet el fuqarolarida tekshiriladi, o'z fuqarolarida esa talab qilinmaydi
+! Huquq bo'linmaga profilaktika choralari bajarilganini nazorat qilish imkonini beradi.
+@ O'zR VM 2019-yil 18-noyabrdagi 912-son qarori, 125–126-bandlar
+? Sanitariya-karantin bo'linmalari tashkiliy jihatdan qaysi tuzilma tarkibida ishlaydi?
++ Sanitariya-epidemiologiya xizmatining tuman (shahar) bo'limlari yoki ularning tarkibidagi sanitariya-karantin punktlari
+- Davlat bojxona qo'mitasining hududiy boshqarmalari tarkibidagi tibbiy ko'rik va yuklarni tekshirish bo'limlari yoki ularning filiallari
+- Davlat chegara qo'shinlarining chegara otryadlari qoshidagi tibbiy yordam punktlari
+- Respublika o'lat profilaktika markazining filiallari tarkibidagi laboratoriya bo'linmalari
+- Ichki ishlar organlarining yo'l harakati xavfsizligi xizmati tarkibidagi sanitariya guruhlari
+! Ular ustidan nazorat va tashkiliy-uslubiy yordam o'ta xavfli yuqumli kasalliklar bo'limining vazifasiga kiradi.
+@ O'zR VM 2019-yil 18-noyabrdagi 912-son qarori; SanQvaN № 0034-22
+? Quyidagi joylardan qaysi biri sanitariya-karantin punktida bo'lishi shart hisoblanadi?
++ Sanitariya to'xtash joyi yoki maydonchasi
+- Reanimatsiya va intensiv terapiya bo'limi
+- Bakteriologik laboratoriyaning PZR xonasi
+- Hayvonlar uchun karantin vivariysi
+- Rentgenologik tekshiruv xonasi
+! Punkt kasalxona emas, balki birlamchi tadbirlar o'tkaziladigan chegara bo'g'ini bo'lgani uchun uning jihozlari shunga mos.
+@ SanQvaN № 0034-22

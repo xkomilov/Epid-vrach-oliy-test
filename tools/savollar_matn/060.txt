@@ -1,0 +1,100 @@
+=== 060
+? VGA qo'zg'atuvchisi qaysi virus oilasiga kiritilgan?
++ Pikornavirus oilasi, enterovirus avlodi
+- Reoviridae oilasi, rotavirus avlodi
+- Hepadnaviridae oilasi, ortogepadnavirus avlodi
+- Flaviviridae oilasi, gepacivirus avlodi
+- Caliciviridae oilasi, norovirus avlodi
+! Finstoun najasdan 27–30 nm hajmli zarrachalarni topgan, ular enterovirus avlodiga kiritilgan.
+@ Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot, material № 1471)
+? VGA da virus eng ko'p qaysi davrda ajraladi?
++ Inkubatsiyaning oxirgi 7–10 kuni va sariqlikdan oldingi davrda
+- Sariqlik cho'qqisida, siydik to'q rangga kirgan davrda
+- Tuzalgandan keyin 3–4 oy davomida, immunitet shakllanganda
+- Kasallikning uchinchi haftasida, jigar kattalashganda
+- Faqat qaytalanish davrida, ikkinchi to'lqin boshlanganda
+! Sariqlik paydo bo'lishi bilan ajralish to'xtaydi yoki keskin kamayadi.
+@ Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot, material № 1471)
+? Gepatit A ning gepatit B va C dan asosiy farqi nimada?
++ Surunkali jigar kasalligini keltirib chiqarmaydi
+- Qon va qon mahsulotlari orqali yuqadi
+- Doimo sirrozga olib keladi va jigar o'smasiga sabab bo'ladi
+- Havo-tomchi yo'li bilan tarqaladi va nafas yo'llarini zararlaydi
+- Faqat kattalarda uchraydi va bolalarni zararlamaydi
+! Gepatit A o'tkir kechadi va to'liq tuzalish bilan tugaydi, V va C esa surunkali shaklga o'tishi mumkin.
+@ WHO. Hepatitis A (fact sheet)
+? JSST bo'yicha VGA ning odatiy yashirin davri qancha?
++ 14–28 kun
+- 2–6 kun
+- 45–160 kun
+- 2–3 oy
+- 6–12 oy
+! JSST odatiy oraliqni 14–28 kun deb ko'rsatadi.
+@ WHO. Hepatitis A (fact sheet)
+#D 060 / 4: taqdimotda yashirin davr 14–50 kun (o'rtacha 20–25) deb berilgan, JSST esa odatda 14–28 kun deydi.
+? VGA bilan kasallanishning mavsumiy ko'tarilishi qaysi oylarda kuzatiladi?
++ Sentyabr o'rtasidan boshlanib, oktyabr–noyabrda kuchayadi
+- May–iyunda boshlanib, iyul–avgustda kuchayadi
+- Dekabr–yanvarda boshlanib, fevral–martda kuchayadi
+- Mart o'rtasidan boshlanib, aprel–mayda kuchayadi
+- Iyul oyida boshlanib, avgustda eng yuqori nuqtaga yetadi
+! Mavsumiylik retrospektiv tahlilda aniqlanadi va tadbirlar oldindan kuchaytiriladi.
+@ Virusli gepatit A epidemiologiyasi va profilaktikasi (taqdimot, material № 1471)
+? JSST ma'lumotiga ko'ra, 6 yoshgacha bolalarning qancha qismida sariqlik rivojlanadi?
++ 10 foizida
+- 50 foizida, ya'ni yarmida
+- 90 foizida, ya'ni deyarli hammasida
+- 75 foizida, ya'ni to'rtdan uchida
+- 100 foizida, ya'ni barchasida
+! Kichik yoshda infeksiya ko'pincha belgisiz o'tadi, kattalarda esa belgilar tez-tez va og'irroq bo'ladi.
+@ WHO. Hepatitis A (fact sheet)
+? 1988-yilda Shanxayda ifloslangan oziq-ovqat bilan bog'liq gepatit A epidemiyasida taxminan necha kishi kasallangan?
++ Taxminan 300 ming kishi
+- Taxminan 3 ming kishi
+- Taxminan 30 ming kishi
+- Taxminan 3 million kishi
+- Taxminan 30 million kishi
+! Oziq-ovqat yoki suv bilan bog'liq epidemiyalar portlashsimon avj olishi mumkin.
+@ WHO. Hepatitis A (fact sheet)
+? Taqdimotga ko'ra, gepatit E ning asosiy profilaktikasi nima?
++ Xavfsiz ichimlik suvi bilan ta'minlash
+- Kontaktdan oldin va keyin emlash o'tkazish
+- Qon va qon mahsulotlarini ehtiyotkorlik bilan tekshirish
+- Bir martalik shprits va igna ishlatishni joriy etish
+- Jinsiy aloqada to'siq vositalaridan foydalanish
+! E gepatitning yuqish yo'li fekal-oral, shu sababli suv sifati hal qiluvchi, gepatit A da esa emlash ham qo'llanadi.
+@ Mavzu materiali (060.docx)
+#U 060 / 8: gepatit E profilaktikasi haqidagi ma'lumot faqat mavzu materialidagi taqdimotga tayangan.
+? A va E virusli gepatitlar o'choqlarida o'choqli dezinfeksiya qachon va qanday qamrov bilan o'tkaziladi?
++ Bemor yotqizilgandan 24 soat ichida, kamida 95 foiz qamrov bilan
+- Bemor yotqizilgandan 72 soat ichida, kamida 95 foiz qamrov bilan
+- Yotqizilgandan 24 soat ichida, lekin kamida 60 foiz qamrov bilan
+- Bemor yotqizilgandan 7 kun o'tgach, to'liq qamrov bilan
+- Faqat oziq-ovqat obyektlarida, 48 soat ichida, 80 foiz qamrov bilan
+! Dezinfeksiya majburiy, uning sifati surtmalar va qoldiq vosita testlari bilan baholanadi.
+@ SanQvaN № 0090-25 (SEO va JS qo'mitasi qarori, 05.05.2025), 55, 56, 65-bandlar
+? JSST bo'yicha qaysi guruh gepatit A uchun yuqori xavfli hisoblanadi?
++ Yuqori endemik hududlarga safar qiluvchilar
+- Xavfsiz suvli hududda yashovchi to'liq emlangan va sayohat qilmaydigan keksalar
+- Doimiy yashash joyidan chiqmaydigan, yakka tartibda yashovchi kishilar
+- Faqat steril sharoitda ishlaydigan operatsiya xonasi xodimlari
+- Qon quyish talab qilinmaydigan, sog'lom emlangan yosh kattalar
+! Bunday safarlarda sanitariya sharoiti yomon hududlarda infeksiya yuqish xavfi oshadi, xavfli guruhlarga in'eksion giyohvand moddalar iste'molchilari ham kiradi.
+@ WHO. Hepatitis A (fact sheet)
+? Sariqlik kasallik turlari bir xil emasligini XI asrda kim bayon etgan?
++ Abu Ali ibn Sino
+- Gippokrat, ya'ni qadimgi yunon
+- R. Bishop, ya'ni rotavirus kashfiyotchisi
+- S. Finstoun, ya'ni virusni topgan olim
+- Jon Snou, ya'ni vabo tadqiqotchisi
+! Gippokrat sariqlik bilan kechadigan kasalliklarni bir guruhga kiritgan, ibn Sino esa ularning turlicha ekanini va jigar faoliyati buzilishining belgisi ekanini ko'rsatgan.
+@ Mavzu materiali (060.docx)
+#U 060 / 11: tarixiy ma'lumot faqat mavzu materialiga tayanadi.
+? VGA dan keyingi immunitet qanday?
++ Uzoq saqlanadi, umrbod bo'lishi mumkin
+- Atigi 4–12 oy saqlanadi va tez yo'qoladi
+- 1–2 oy davom etadi
+- Hosil bo'lmaydi va qayta kasallanish doimiy
+- Faqat bolalarda hosil bo'ladi, kattalarda hosil bo'lmaydi
+! Deyarli barcha bemor to'liq tuzalib, umrbod immunitet hosil qiladi.
+@ WHO. Hepatitis A (fact sheet)

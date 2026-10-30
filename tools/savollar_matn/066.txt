@@ -1,0 +1,109 @@
+=== 066
+? Qorin tifi va paratif qo'zg'atuvchilari qaysi tur tarkibiga kiradi?
++ S. enterica subsp. enterica serovarlari
+- S. bongori serovarlari, ular faqat sovuq qonli hayvonlardan odamga o'tadi
+- Shigella flexneri serovarlari
+- Yersinia enterocolitica biovarlari
+- Vibrio cholerae O1 serogruppasi
+! Bu qo'zg'atuvchilar Salmonella turkumidagi enterica turiga mansub serovarlardir.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Qorin tifi qo'zg'atuvchisining o'sishi uchun optimal harorat qanday?
++ 35–37 °C
+- 15–20 °C, qo'zg'atuvchi sovuqda tez ko'payadi va +5 °C da ham yaxshi o'sadi
+- 42–45 °C
+- 50–55 °C
+- 4–8 °C
+! Qo'zg'atuvchi mezofil bo'lib, +5 °C dan past haroratda o'smaydi.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Salmonellaning termolabil xivchin antigeni qaysi?
++ H-antigen
+- O-antigen, u somatik va termostabil hisoblanadi, shu bilan birga xivchin tuzilmasida joylashadi
+- Vi-antigen
+- K-antigen
+- M-antigen
+! O-antigen somatik termostabil, Vi-antigen esa kapsula tuzilmasiga tegishli.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Qorin tifi gumon qilingan kattalardan gemokultura uchun qon qancha hajmda olinadi?
++ 5–15 ml
+- 1–2 ml, bolalarga qaraganda kamroq hajmda
+- 30–40 ml
+- 50–100 ml
+- 0,5–1 ml
+! Bolalardan 2–5 ml olinadi, kattalardan esa ko'proq.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Tezlashtirilgan gemokulturada qaysi muhitdan foydalanilmaydi?
++ Ploskirev muhitidan
+- Endo muhitidan, chunki u faqat najas ekmalari uchun mo'ljallangan va qondan olingan material uchun yaramaydi
+- Levin muhitidan
+- Olkenitskiy muhitidan
+- Yarim suyuq mannit muhitidan
+! Qon 5–6 soat o'stirilgach, boshqa differensial muhitlarga ekiladi.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Biliokulturada C porsiyaning pH i nimaga keltiriladi va nima uchun?
++ 7,2 ga, chunki kislotali muhitda o'sish susayadi
+- 5,0 ga, chunki bu qo'zg'atuvchi o't pufagida faqat kislotali muhitda ko'payadi
+- 4,6 ga, chunki bu muhitda ekma tezroq o'sadi
+- 9,0 ga, chunki kuchli ishqoriy muhit boyitishni oshiradi
+- 3,5 ga, chunki bu qiymat o'tni o'zgarishsiz saqlaydi
+! Neytralroq muhit qo'zg'atuvchining saqlanishi va o'sishiga yordam beradi.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Mielokultura (suyak ko'migi tekshiruvi) haqida qaysi fikr to'g'ri?
++ Harorat normal bo'lganda ham musbat natija berishi mumkin va davolovchi shifokor ishtirokida olinadi
+- Faqat harorat 40 °C dan yuqori bo'lganda natija beradi va uni hamshira ixtiyoriy tarzda olishi mumkin
+- Tuzalish davridagi tashuvchilarda qo'llanadi va hech qachon bemorlarda musbat bo'lmaydi
+- Najas o'rniga rutin ravishda har bir isitmali bemorda va tashuvchida olinadi
+- Toshma elementlaridan olingan yiringdan tayyorlanadi
+! Qo'zg'atuvchi suyak iligida uzoq saqlanadi, shuning uchun bu usul ayrim hollarda qimmatli.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Vidal reaksiyasining cheklovi nimadan iborat?
++ Homiladorlik, sil, o'smalar va bezgakda ham musbat bo'lishi mumkin
+- U faqat kasallikning birinchi kunida musbat bo'ladi, keyin doimo manfiy qoladi
+- Antitanalar faqat tuzalganidan bir yil keyin paydo bo'ladi
+- Emlanganlarda titr hech qachon ko'tarilmaydi
+- U faqat o't suyuqligida ishlaydi
+! Shuning uchun natija klinik manzara va titr dinamikasi bilan birga baholanadi.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Surunkali tashuvchilarni aniqlash uchun Vi-RPGA da musbat titr qancha deb hisoblanadi?
++ 1:40 va undan yuqori
+- 1:10 va undan yuqori, bu titr tashuvchilikni isbotlashga yetarli hisoblanadi
+- 1:160 va undan yuqori
+- 1:320 va undan yuqori
+- 1:1280 va undan yuqori
+! Biroq serologik natija tashuvchilikni tasdiqlamaydi, uni faqat bakteriologik ajratish isbotlaydi.
+@ Uslubiy ko'rsatma (SSV buyrug'iga 5-ilova): Ich terlama va paratif kasalliklarining bakteriologik va serologik diagnostikasi
+? Qaysi tashuvchilar surunkali tashuvchilarga kiradi?
++ Qo'zg'atuvchini 3 oy va undan uzoq ajratuvchilar
+- Qo'zg'atuvchini faqat 3 oygacha ajratuvchi, tuzalganlarning 20% va undan ko'pi kiradigan tashuvchilar
+- Qo'zg'atuvchini 10 kungacha ajratuvchilar
+- Qo'zg'atuvchini 2 haftagacha ajratuvchilar
+- Qo'zg'atuvchi najasda bir marta aniqlangan tashuvchilar
+! O'tkir tashuvchilar 3 oygacha ajratadi, tranzitorlarda esa najasda bir marta topiladi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 2-ilova (ich terlama va paratif yo'riqnomasi)
+? Qaysi hudud qorin tifi bo'yicha kichik noxush hudud hisoblanadi?
++ Oxirgi 3–5 yil davomida har yili bemor yoki surunkali tashuvchi qayd etilgan hudud
+- Oxirgi 10 yil davomida faqat bir marta bemor qayd etilgan hudud, boshqa yillarda esa holat bo'lmagan
+- Qorin tifi hech qachon qayd etilmagan hudud
+- Aholisi 1 milliondan oshgan shahar
+- Dengiz bo'yida joylashgan istalgan hudud
+! Takroriy yillik holatlar qo'zg'atuvchining hududda saqlanishini ko'rsatadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 2-ilova (ich terlama va paratif yo'riqnomasi)
+? Qorin tifi qo'zg'atuvchisi dezinfeksiya vositalari ta'sirida qancha vaqtda nobud bo'ladi?
++ 30–45 daqiqada
+- 2–3 soniyada, hatto past konsentratsiyali eritmalarda ham
+- 5–10 soatda
+- 24–48 soatda
+- 3–4 kunda
+! Shu sababli dezinfeksiya vositalarining kontakt vaqti o'choqda hisobga olinadi.
+@ O'zR SSV 25.03.2015-yildagi buyrug'iga 2-ilova (ich terlama va paratif yo'riqnomasi)
+#U 066 / 1: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 2: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 3: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 4: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 5: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 6: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 7: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 8: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 9: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 10: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 11: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.
+#U 066 / 12: faqat SSV buyrug'iga ilova yo'riqnoma/uslubiy ko'rsatmasiga tayangan; buyruq raqami va sanasi tasdiqlanmagan.

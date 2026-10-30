@@ -1,0 +1,97 @@
+=== 078
+? Milliy emlash kalendarida BSJ-1 (sil) qaysi muddatda qilinadi?
++ Tug'ilgandan keyin 2–5 kunda
+- Tug'ilgan kuni, tug'ruqxonada VGB-1 bilan birga
+- 2 oylikda, pentavaksinaning birinchi dozasi bilan
+- 12 oylikda, KPK-1 bilan bir vaqtda
+- 6 yoshda, KPK-2 bilan birga
+! Tug'ilgan kuni esa gepatit B ga qarshi birinchi doza (VGB-1) beriladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Milliy kalendarda KPK-1 bilan birga pnevmokokk vaksinasining uchinchi dozasi qaysi yoshda beriladi?
++ 12 oylikda
+- 6 oylikda
+- 4 oylikda
+- 16 oylikda
+- 6 yoshda
+! Pnevmo-1 va pnevmo-2 esa 2 va 3 oylikda beriladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? SanQvaM (25.07.2017) kalendari bo'yicha VPCH (inson papilloma virusiga qarshi) emlash qaysi yoshda ko'rsatilgan?
++ 9 yoshda
+- 12–13 yoshda
+- 16 yoshda
+- 7 yoshda
+- 6 yoshda
+! Boshqa jadvalda 12–13 yosh va faqat qizlar ko'rsatilgan, lekin u rasmiy hujjat sifatida tasdiqlanmagan.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? HBsAg aniqlangan homilador ayoldan tug'ilgan chaqaloq tug'ilgandan keyin qancha vaqt ichida VGB ga qarshi emlanadi?
++ 3–12 soat ichida
+- 1–2 soat ichida
+- 24–48 soat ichida
+- 7 kun ichida
+- 2 oylikda
+! Erta emlash onadan bolaga vertikal yo'l bilan yuqishning oldini olishda muhim.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Bir xil vaksina dozalari orasidagi va turli tirik vaksinalar orasidagi muddat kamida qancha bo'lishi kerak?
++ Kamida bir oy
+- Kamida bir hafta
+- Kamida ikki hafta
+- Kamida uch oy
+- Kamida olti oy
+! Tirik vaksinalar orasida bir oy kutish interferensiya ehtimoli tufayli talab etiladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? AKDS, ADS-M va VGB vaksinalari qanday dozada va qaysi yo'l bilan yuboriladi?
++ 0,5 ml mushak orasiga
+- 0,1 ml teri ichiga
+- 2 tomchi og'izga
+- 1,5 ml og'izga
+- 0,1 ml va 0,05 mg teri ichiga
+! Teri ichiga BSJ, og'izga OPV va rotavirus vaksinalari yuboriladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? KPK vaksinasi qanday dozada va qaysi yo'l bilan yuboriladi?
++ 0,5 ml teri ostiga
+- 0,5 ml mushak orasiga
+- 0,1 ml teri ichiga
+- 2 tomchi og'izga
+- 1,5 ml og'izga
+! Mushak orasiga o'ldirilgan va anatoksinli vaksinalar yuboriladi, KPK esa tirik vaksina.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Eritrotsitar yoki leykotsitar massa quyilgandan keyin qizamiq, qizilcha va parotitga qarshi emlash qancha muddatdan so'ng o'tkaziladi?
++ 6 oydan so'ng
+- 1 oydan so'ng
+- 3 oydan so'ng
+- 7 oydan so'ng
+- 12 oydan so'ng
+! Trombotsitar massa yoki plazmadan keyin esa 7 oydan so'ng emlanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Immunoglobulin yuborilgandan keyin KPK emlashi qancha muddatdan so'ng o'tkaziladi?
++ 3 oydan so'ng
+- 1 oydan so'ng
+- 1,5 oydan so'ng
+- 6 oydan so'ng
+- 7 oydan so'ng
+! Polio va gripp emlashi 1,5 oydan, AKDS/ADS/ADS-M esa 1 oydan keyin o'tkaziladi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Profilaktik emlash kalendari va uni o'tkazish tartibini kim tasdiqlaydi?
++ Bosh davlat sanitariya vrachi
+- Vazirlar Mahkamasi
+- Sog'liqni saqlash vazirligining tibbiy xodimlar attestatsiya komissiyasi
+- Prezident farmoni orqali Oliy Majlis Senati
+- Jahon sog'liqni saqlash tashkiloti
+! Bu tartib aholining sanitariya-epidemiologik osoyishtaligi to'g'risidagi Qonunning 33-moddasida belgilangan.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 33-modda
+? Emlash o'tkazib yuborilgan bo'lsa, qanday yo'l tutiladi?
++ O'tkazib yuborilgan emlashlar takrorlanmaydi, navbatdagisi birinchi uchrashuvda o'tkaziladi
+- Butun emlash kursi qaytadan boshlanadi va avvalgi dozalar hisobga olinmaydi, bunda muddat kutilmaydi
+- Keyingi dozalar ikki baravar miqdorda yuborilib, o'tkazib yuborilgan doza o'rni qoplanadi
+- Emlash butunlay bekor qilinadi, bola esa shu infeksiya bo'yicha emlanmagan hisoblanadi
+- Uch oy kutiladi, shundan keyingina navbatdagi doza yuboriladi va kurs davom ettiriladi
+! Muddatni o'tkazib yuborish immunizatsiyani qayta boshlash uchun sabab emas.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Kalendar bo'yicha Rota-1 va Rota-2 (rotavirus vaksinasi) qaysi yoshlarda beriladi?
++ 2 va 3 oylikda
+- 3 va 4 oylikda
+- 4 va 12 oylikda
+- Tug'ilgan kunida va 2–5 kunda
+- 12 va 16 oylikda
+! Rotavirus vaksinasi og'izga 1,5 ml miqdorda yuboriladigan tirik vaksina.
+@ SanQvaM № 0239-07/3 (25.07.2017)

@@ -1,0 +1,98 @@
+=== 049
+? Qrim-Kongo gemorragik isitmasi (KKGL) qo'zg'atuvchisi va asosiy yuqish yo'li qaysi javobda to'g'ri ko'rsatilgan?
++ Nayrovirus avlodiga mansub RNK saqlovchi virus; asosan Hyalomma kanalarining chaqishi orqali yuqadi
+- DNK saqlovchi gerpesvirus; asosan fekal-oral yo'l bilan ifloslangan suv orqali yuqadi
+- Flavivirus avlodiga mansub virus; asosan Aedes chivinlarining chaqishi orqali yuqadi
+- Rabdovirus avlodiga mansub virus; asosan kasal hayvon so'lagi bilan kontakt orqali yuqadi
+- Filovirus avlodiga mansub virus; asosan havo-tomchi yo'li bilan yuqadi va tabiiy o'choqqa ega emas
+! KKGL transmissiv mexanizm orqali yuqadigan tabiiy o'choqli virusli gemorragik isitma bo'lib, kanalar rezervuar va tashuvchi hisoblanadi.
+@ World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? JSST ma'lumotiga ko'ra KKGL bilan kasallanganlarda o'lim darajasi taxminan qancha?
++ 10–40 foiz
+- 0,1–1 foiz
+- 1–3 foiz
+- 60–80 foiz
+- 90–100 foiz
+! Yuqori o'lim darajasi KKGL ni o'ta xavfli yuqumli kasalliklar qatoriga kiritadi.
+@ World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL da kana chaqishidan keyin inkubatsion davr odatda qancha?
++ 1–3 kun (maksimal 9 kun)
+- 5–6 kun (maksimal 13 kun)
+- 14–28 kun (maksimal 50 kun)
+- 6–30 kun (maksimal 60 kun)
+- 3–4 oy (maksimal 6 oy)
+! Qon yoki to'qima bilan kontaktdan keyingi inkubatsion davr esa uzoqroq bo'ladi.
+@ World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL da zararlangan qon yoki to'qima bilan kontaktdan keyin inkubatsion davr odatda qancha?
++ 5–6 kun (maksimal 13 kun)
+- 1–3 kun (maksimal 9 kun)
+- 14–28 kun (maksimal 50 kun)
+- 21–30 kun (maksimal 60 kun)
+- 1–2 oy (maksimal 6 oy)
+! Bu muddat kana chaqishidan keyingi inkubatsion davrdan uzoqroq, shu bois kuzatuv muddati ham kontakt turiga qarab belgilanadi.
+@ World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL profilaktikasi nima uchun asosan nospetsifik choralardan iborat?
++ Keng qo'llaniladigan vaksina mavjud emas
+- Kasallik faqat odamlar orasida tarqaladi va kanalar bilan bog'liq emas
+- Qo'zg'atuvchi tashqi muhitda bir necha soniyada nobud bo'ladi
+- Kasallik juda kam og'irlikda kechadi va o'lim holatlari uchramaydi
+- Hayvonlar hech qachon virus tashimaydi va kanalar zararlanmaydi
+! Shu bois asosiy e'tibor kanalarga qarshi kurash, aholini himoyalash va infeksion nazoratga qaratiladi.
+@ World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL virusi bilan zararlangan uy hayvonlari (qoramol, qo'y, echki) epidemiologik jihatdan qanday rol o'ynaydi?
++ Ular kasallanmaydi, ammo qisqa muddatli viremiya kuzatilib, kanalarni zararlantiradi
+- Ular og'ir kasallanib, odamlarga havo-tomchi yo'li bilan virusni yuqtiradi
+- Ular virusga umuman moyil emas va epidemik jarayonda ishtirok etmaydi
+- Ular virusning yagona rezervuari bo'lib, kanalar esa faqat mexanik tashuvchi hisoblanadi
+- Ular kasallanib, virusni faqat sut orqali tarqatadi
+! Zararlangan hayvonlarning qoni va to'qimasi bilan kontakt chorvador, qassob va veterinar uchun ham xavf tug'diradi.
+@ Mavzu materiali (049.docx); World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? KKGL ning qaysi klinik davri eng xavfli hisoblanadi?
++ Gemorragik davr, teri, shilliq qavat va ichki a'zolardan qon ketishi kuzatiladigan bosqich
+- Inkubatsion davr, bunda bemor belgilar ko'rsatmaydi va virus qonda aylanmaydi, shu sababli u eng xavfli hisoblanadi
+- Pregemorragik davr, bunda faqat umumiy holsizlik va yengil isitma bo'ladi
+- Sog'ayish davri, bunda bemor to'liq tuzalib ketgan hisoblanadi
+- Prodromal davr, bunda qon ketish belgilari ko'zga tashlanmaydi
+! Kasallik inkubatsion, pregemorragik, gemorragik va sog'ayish davrlarida kechadi.
+@ Mavzu materiali (049.docx)
+? Nozokomial yuqishning oldini olish uchun KKGL ga shubha qilingan bemor bilan ishlashda nimalardan foydalaniladi?
++ To'liq himoya vositalari — xalat, qo'lqop, niqob va ko'zoynak
+- Faqat bir martalik niqob, qo'lqop va xalatsiz ishlash
+- Oddiy ish kiyimi, chunki virus havo-tomchi yo'li bilan yuqmaydi
+- Himoya vositalari qo'llanmaydi, faqat bemor palatasi shamollatiladi
+- Bemorning qarindoshlari bilan bir xonada ishlash, ular niqob taqmasdan
+! Bemorning qoni va ajralmalari yuqori darajada yuqtiruvchi, shuning uchun tibbiy xodimlar zararlanishi mumkin.
+@ Mavzu materiali (049.docx); World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? Zararlangan kanani qo'l bilan ezib tashlash nima uchun xavfli?
++ Virus teri orqali organizmga o'tib, kasallik yuqishi mumkin
+- Ezilganda virus havoga chiqib, nafas yo'llari orqali yuqadi
+- Ezilgan hasharotning organizmidagi virus bir zumda nobud bo'ladi
+- Xavfli emas, chunki virus butun teriga o'ta olmaydi
+- Faqat teri allergik reaksiyasi paydo bo'ladi, virus esa yuqmaydi
+! Shu sababli kanani qo'l bilan ezmasdan, to'g'ri olib tashlash qoidalari targ'ib qilinadi.
+@ Mavzu materiali (049.docx)
+? KKGL ning erta bosqichida virus RNKsini aniqlash uchun qaysi laboratoriya usuli qo'llaniladi?
++ PZR
+- Vidal reaksiyasi
+- Koprokultura
+- Mantu sinamasi
+- Gemokultura oddiy muhitda
+! Material yuqori biologik xavfsizlik darajasidagi laboratoriyalarda tekshiriladi, chunki u yuqori darajada yuqtiruvchi.
+@ World Health Organization. Crimean-Congo haemorrhagic fever (fact sheet)
+? Tabiiy o'choqlilik ta'limotiga ko'ra KKGL misolida odam virus aylanishiga qanday qo'shiladi?
++ Virus kanalar va hayvonlar orasida odamsiz aylanadi, odam bu siklga tasodifan qo'shiladi
+- Odam virusning yagona rezervuari bo'lib, siklni o'zi doimiy ushlab turadi
+- Virus faqat odamdan odamga o'tadi va hayvonlar ishtirok etmaydi
+- Virus tabiatda aylanmaydi, faqat laboratoriyada saqlanadi
+- Odam kanalar uchun yagona oziq manbai bo'lib, virus aylanishini boshqaradi va uni doimiy ushlab turadi
+! Shu bois KKGL ni to'liq yo'q qilib bo'lmaydi, uni faqat nazorat ostida ushlab turish mumkin.
+@ Mavzu materiali (049.docx)
+? O'zbekiston SSV ning KKGL bo'yicha buyrug'ida davolashda qanday amaliyot joriy etilgan?
++ Muqaddam kasallanib sog'aygan fuqarolar qon plazmasini qo'llash
+- Barcha bemorlarga profilaktik emlash o'tkazish
+- Antibiotiklar bilan davolash, antiviral va plazma vositalarsiz
+- Bemorlarni uyda yakkalash va hech qachon kasalxonaga yotqizmaslik
+- Hayvonlar qonidan olingan zardobni qo'llash
+! Shu maqsadda har yili epidemik mavsum oldidan oxirgi 5 yilda kasallanib sog'aygan fuqarolar ro'yxati shakllantiriladi.
+@ O'zR SSV 16.05.2016-yildagi buyrug'i: Qrim-Kongo gemorragik isitma bilan kasallangan bemorlarni davolash tizimini takomillashtirish haqida
+#U 049 / 12: KKGL bo'yicha SSV buyrug'idagi sog'aygan fuqarolar qon plazmasi amaliyoti faqat mavzu materialiga tayangan.

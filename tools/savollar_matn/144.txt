@@ -1,0 +1,101 @@
+=== 144
+? Profilaktik choralar bo'lmaganda onadan bolaga yuqish xavfi umumiy hisobda taxminan 30 % deb ko'rsatilgan. Shundan tug'ruq davriga taxminan qancha to'g'ri keladi?
++ Taxminan 5 %
+- Taxminan 15 %
+- Taxminan 10 %
+- Taxminan 20 %
+- Taxminan 25 %
+! Umumiy xavf davrlar bo'yicha taqsimlanadi: homiladorlikda eng ko'p, emizishda o'rtacha, tug'ruqda esa eng kam ulush kuzatiladi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish (ikki tilda)
+? JSST ma'lumotiga ko'ra to'g'ri o'tkazilgan antiretrovirus terapiya (RQT) onadan bolaga yuqish xavfini taxminan qanchagacha kamaytiradi?
++ 1 % dan pastgacha
+- 5 % gacha, ya'ni xavf taxminan 6 baravar kamayadi
+- 10 % gacha, ya'ni xavf taxminan 3 baravar kamayadi
+- 15 % gacha, ya'ni xavf taxminan 2 baravar kamayadi
+- 20 % gacha, ya'ni xavf taxminan 1,5 baravar kamayadi
+! Kombinatsiyalangan terapiya ona qonidagi virus miqdorini keskin kamaytirgani uchun perinatal yuqish deyarli to'xtatiladi.
+@ HIVinfo.NIH.gov. Preventing Perinatal Transmission of HIV
+? O'zbekistonda 14 yoshgacha OIV bilan yashovchi bolalar orasida vertikal yo'lning ulushi 2007–2012 yillarda eng yuqori qaysi ko'rsatkichga yetgan?
++ 2010 yilda 28,4 %
+- 2007 yilda 81,3 %
+- 2012 yilda 72,0 %
+- 2008 yilda 4,7 %
+- 2011 yilda 60,1 %
+! Taqdimot ma'lumotlariga ko'ra vertikal yo'l ulushi yillar bo'yicha o'zgarib turgan, parenteral yo'l esa bolalar orasida ancha ustun bo'lgan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot), 19-slayd
+? Onadan bolaga yuqish uchun akusherlik xavf omillaridan qaysi biri keltirilgan?
++ Suvsizlik davrining 4 soatdan ortiq cho'zilishi
+- Homiladorlikning 38-haftasida rejali kesarcha kesish amaliyoti
+- Pardalar yorilishidan oldin o'tkazilgan rejali kesarcha kesish
+- Tug'ruqdan oldin ona tomonidan RQTning muntazam qabul qilinishi
+- Chaqaloqning tug'ilgandan keyin dastlabki soatlarda ARV preparat olishi
+! Qog'onoq pardalari yorilgandan keyin uzoq vaqt o'tsa, chaqaloqning ona qoni va ajralmalari bilan kontakti uzayadi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish (ikki tilda)
+? Ona sil bilan kasallangan va davolanmagan bo'lsa, vertikal yuqish xavfi qanday o'zgaradi?
++ 2,5 baravar ortadi
+- 2,5 baravar kamayadi
+- 10 baravar ortadi
+- O'zgarmaydi
+- 1,5 baravar kamayadi
+! Silning faol kechishi immun tizimini yanada zaiflashtiradi va virus faolligini oshiradi, shu sababli xavf ko'tariladi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Milliy klinik protokolga ko'ra OIV bilan yashovchi homilador va emizikli ayollarda RQT qanday tartibda boshlanadi?
++ Klinik bosqich va CD4 sonidan qat'i nazar boshlanadi va umr bo'yi davom ettiriladi
+- CD4 soni 350 dan kam bo'lganda boshlanadi va tug'ruqdan keyin to'xtatiladi
+- Faqat 3–4-klinik bosqichda boshlanadi va emizish tugagach to'xtatiladi
+- Virus yuklamasi 100 000 nusxadan yuqori bo'lganda boshlanadi va 1 yil davom etadi
+- Tug'ruq boshlanganda beriladi va chaqaloq tug'ilgach to'xtatiladi
+! Ona va bola uchun foyda katta bo'lgani sababli terapiya laboratoriya ko'rsatkichlarini kutmay darhol boshlanadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Tug'ruq usuli tanlanganda, xavfni 2 baravar kamaytirish uchun rejali kesarcha kesish homiladorlikning qaysi haftasida o'tkaziladi?
++ 38-haftada
+- 28-haftada
+- 30-haftada
+- 34-haftada
+- 42-haftada
+! Operatsiya pardalar yorilishi va tug'ruq boshlanishidan oldin bajarilishi kerak, shuning uchun muddatga yaqin vaqt tanlanadi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish (ikki tilda)
+? Eski sxemada OIV bilan yashovchi onadan tug'ilgan chaqaloqqa zidovudin siropi qancha muddat beriladi?
++ 4 hafta
+- 1 hafta
+- 2 hafta
+- 12 hafta
+- 6 oy
+! Sxemada preparat tug'ilgandan keyingi dastlabki 4 soatda boshlanib, hayotning dastlabki oyi davomida beriladi.
+@ Taqdimot: Onadan bolaga OIV infeksiyasini yuqishini oldini olish (ikki tilda)
+? Milliy protokolga ko'ra sun'iy oziqlantirish imkoni bo'lmasa, OIV bilan yashovchi ona chaqaloqni qanday emizadi?
++ 5 oygacha faqat ona suti bilan, ona RQT qabul qiladi; aralash oziqlantirish tavsiya etilmaydi
+- 12 oygacha ona suti va qo'shimcha ovqat aralashmasi bilan, ona RQT qabul qilmasdan
+- 2 yoshgacha faqat ona suti bilan, ona RQT qabul qilmasa ham bo'ladi, aralash oziqlantirish mumkin emas
+- 5 oygacha ona suti va sun'iy aralashma navbatma-navbat, ona RQT qabul qilmasdan
+- 1 oygacha ona suti bilan, keyin faqat sut aralashmasiga o'tkaziladi va ARV berilmaydi
+! Aralash oziqlantirish chaqaloq ichak shilliq qavatini zararlab, virus yuqishi ehtimolini oshiradi, shuning uchun u istisno qilinadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? OIV bilan yashovchi onadan tug'ilgan bolada PCR tekshiruvi qaysi haftalarda, IFA esa qaysi yoshda o'tkaziladi?
++ PCR 6–8 va 12 haftalikda, IFA 18 oyligida
+- PCR 1 va 4 haftalikda, IFA 6 oyligida
+- PCR 12 va 24 haftalikda, IFA 12 oyligida
+- PCR 2 va 6 haftalikda, IFA 24 oyligida
+- PCR 8 va 16 haftalikda, IFA 3 oyligida
+! Provirus DNK erta bosqichda ishonchli, antitelalar esa ona IgGsi yo'qolgandan keyingina serokonversiyani ko'rsatadi.
+@ O'zR SSV 2018-yil 30-apreldagi 277-son buyrug'i (milliy klinik protokol)
+? Hududiy OITS markazi akusher-ginekologi OBYuP hisobotini keyingi oyning nechanchi sanasigacha Respublika markaziga topshiradi?
++ 3-sanasigacha
+- 1-sanasigacha
+- 10-sanasigacha
+- 15-sanasigacha
+- 25-sanasigacha
+! Hisobot oylik yuritiladi, shu bois muddat oy boshiga yaqin belgilangan.
+@ Mavzu materiali (144.docx)
+? Homilador ayollarni majburiy OIV tekshiruvidan o'tkazish O'zbekiston qonunining nechanchi moddasida belgilangan?
++ 15-moddada
+- 11-moddada
+- 13-moddada
+- 18-moddada
+- 22-moddada
+! Qonunning shu moddasi homilador ayollar va OIV yuqqan onalardan tug'ilgan bolalarni tekshirishni majburiy deb belgilaydi.
+@ O'zR Qonuni «OIV infeksiyasi tarqalishiga qarshi kurashish to'g'risida»
+#D 144 / 1: mavzu materialida darslik (80–90 % transplatsentar yuqish) va taqdimot (homiladorlikda ~15 %, tug'ruqda ~5 %, emizishda ~10 %) o'rtasida farq bor; savolda taqdimot ma'lumoti olingan.
+#D 144 / 9: protokoldagi "5 oygacha emizish" yondashuvi JSST dalillariga asoslangan hozirgi tavsiyalardan farq qilishi mumkin (mavzu materialining o'zi ham shuni qayd etadi).
+#U 144 / 8: eski (88-son buyruq) zidovudin sxemasi faqat mavzu materialidagi taqdimotga tayangan, amaldagi hujjat bilan tasdiqlanmagan.
+#U 144 / 11: hisobotni keyingi oyning 3-sanasigacha topshirish muddati faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.

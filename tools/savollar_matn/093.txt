@@ -1,0 +1,98 @@
+=== 093
+? Darslikka ko'ra gripp kasalligining yashirin davri qancha (JSST bo'yicha 1–4 kun)?
++ 3 kungacha
+- 7 kundan 14 kungacha, ya'ni ikki hafta atrofida
+- 10 kundan 21 kungacha, o'rtacha 14–16 kun
+- 21 kundan 28 kungacha, immunoglobulin olganlarda yanada uzoq
+- 30 kundan 45 kungacha, sekin rivojlanuvchi infeksiya sifatida
+! Qisqa yashirin davr epidemik jarayonning tez rivojlanishini ta'minlaydi va aloqadorlar kuzatuvini qisqa muddatli qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Influenza (seasonal) (fact sheet)
+? Gripp epidemiyasida bemorni ajratish va aloqadorlarni karantin qilish nima uchun o'zini oqlamaydi?
++ Bemor birinchi belgilardan boshlab xavfli bo'ladi, ko'pchilik esa kasallikni «oyoqda» o'tkazadi
+- Gripp virusi faqat belgilar yo'qolgandan keyin ajraladi va shu paytda bemorlar shifoxonada yotgan bo'ladi
+- Aloqadorlarning hammasi kasallikdan keyin umrbod immunitetga ega bo'ladi
+- Virus havo-tomchi yo'li bilan emas, faqat suv orqali yuqadi va ajratish bunga ta'sir qilmaydi
+- Gripp bilan faqat 60 yoshdan oshgan odamlar kasallanadi va ularni ajratish imkonsiz
+! Yuqumlilik klinik belgilar bilan birga yoki undan oldin boshlanadi, shu sababli ajratish juda kech qo'llanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra gripp bemori birinchi belgilar paydo bo'lgandan keyin qancha vaqt xavfli hisoblanadi?
++ 3–5 kun
+- 10–14 kun, ya'ni to'liq tuzalguncha va undan keyingi bir hafta
+- 1 kundan kam, faqat harorat ko'tarilgan soatlarda
+- 21 kun, po'stloqlar tushib ketguncha
+- 30 kun, serologik tuzalish kuzatilgunga qadar
+! Virus ajralishi kasallikning dastlabki kunlarida eng yuqori bo'ladi va keyinchalik kamayadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Bemorlarning taxminan 10 % ida virus ajralishi qancha vaqtgacha davom etishi mumkin?
++ 6 haftagacha
+- 2 kungacha, belgilar boshlangan kundan keyin
+- 7 kungacha, ya'ni bir hafta davomida
+- 3 oygacha, qayta kasallanish xavfi bo'lmaganda ham
+- 1 yilgacha, surunkali tashuvchilik tarzida
+! Ko'pchilik bemorda virus ajralishi tez tugaydi, lekin ozchilikda bu jarayon ancha cho'ziladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Milliy qoidalarga ko'ra gripp bo'yicha epidemiologik ko'rsatma bilan yillik emlash qaysi yoshdan boshlanadi?
++ 6 oylikdan
+- 1 oylikdan, tug'ruqxonada birinchi dozadan keyin
+- 12 oylikdan, qizamiq vaksinasi bilan birga
+- 3 yoshdan, bog'chaga borish davridan
+- 18 yoshdan, voyaga yetgan shaxslar uchun
+! Yosh chegarasi vaksinaning kichik bolalardagi immunogenligi va xavfsizligi bilan belgilanadi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Tibbiyot xodimlari himoya niqoblarini qanday muddatda almashtiradi?
++ Har 3–4 soatda
+- Har 30 daqiqada, har bir bemordan keyin
+- Har 8–10 soatda, ish smenasi tugaganda
+- Har sutkada bir marta, ertalab
+- Har hafta bir marta, sanitariya kunida
+! Nam bo'lgan niqob filtrlash xususiyatini yo'qotadi, shuning uchun uni muntazam almashtirish belgilangan.
+@ O'zR SSV 2023-yil 25-sentabrdagi 236-son buyrug'i, 3-ilova
+? Bolalarda gripp belgilari bo'yicha uyda kuzatuvda qaysi harorat ogohlantiruvchi belgi hisoblanadi?
++ 38 °C dan yuqori harorat
+- 36,0 °C dan past harorat va titroq
+- 37,0 °C ga qadar subfebril harorat
+- 39,5 °C dan yuqori harorat faqat ikki sutka davomida
+- 35,0 °C dan past harorat
+! Bu daraja boshqa ogohlantiruvchi belgilar (uyquchanlik, nafas tezlashishi) bilan birga marshrutizatsiyaga asos bo'ladi.
+@ O'zR SSV 2023-yil 25-sentabrdagi 236-son buyrug'i, 3-ilova
+? JSST xavfi yuqori guruhlarga (homilador, 65 yosh va undan katta, surunkali kasalligi borlar) antivirus vositalarini qachon berishni tavsiya etadi?
++ Kasallik belgilari paydo bo'lganda imkon qadar tez
+- Virusologik natija tasdiqlangandan keyin, odatda 5–7 kundan so'ng
+- Mavsum boshlanishidan oldin barcha sog'lom odamlarga ommaviy tarzda
+- Kasallik asoratlari, masalan pnevmoniya rivojlangandan keyin
+- Bemor bilan aloqadan 3 hafta o'tgach, aloqadorlarga
+! Antivirus vositalarning samaradorligi davo boshlanish vaqtiga bog'liq.
+@ WHO. Influenza (seasonal) (fact sheet)
+? 2009-yilgi yangi pandemik virus (A(H1N1) cho'chqa varianti) bilan kasallanganlar kasallik boshlangandan necha kun yuqumli hisoblanadi?
++ 7 kun
+- 1 kun, faqat harorat ko'tarilganda
+- 3 kun, toshma paydo bo'lguncha
+- 14 kun, ikki hafta davomida
+- 28 kun, to'liq serologik tuzalishgacha
+! Belgilar saqlansa, bemor tuzalguncha yuqumli bo'lib qoladi, bolalarda bu davr yana uzoqroq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Pandemik gripp bo'yicha standart ta'rifda holatni «tasdiqlangan» deb hisoblash uchun nima talab etiladi?
++ PCR natijasi yoki antitelalar titrining 4 marta oshishi
+- Harorat 38 °C dan yuqori bo'lishi va yo'tal mavjudligi, ya'ni klinik belgilarning o'zi yetarli
+- Kasallanganlar bilan bir xonada 24 soat bo'lganlik holati
+- Bemor bilan yashagan oila a'zosi ekanligi, belgilarsiz holda ham
+- Hayvonlar bilan yaqin aloqada bo'lganlik tarixi va yo'tal mavjudligi
+! Tasdiqlash uchun klinik va epidemiologik ma'lumot yetarli emas, laboratoriya natijasi kerak.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? PQ-3729-son qaror yuqori patogen gripp viruslari bo'yicha qanday talabni belgilaydi?
++ Bu viruslar bilan kasallanganlikka gumon qilinganlarga majburiy tashxis o'tkazish
+- Aholini har yili majburiy karantinga olish va davlat chegaralarini to'liq yopish
+- Gumon qilinganlarni tashxis qo'ymasdan uyga jo'natish
+- Bu viruslar bo'yicha faqat xususiy klinikalarda tekshiruv o'tkazish
+- Qishloq aholisini mavsumdan oldin ommaviy emlash va mahalliy shifoxonalarga yotqizish
+! Majburiy tashxis yangi xavfli viruslarni erta aniqlash va tarqalishini cheklashga xizmat qiladi.
+@ O'zR Prezidentining 2018-yil 18-maydagi PQ-3729-son qarori
+? CDC yangi, odamlar uchun xavfli gripp A viruslari (masalan, A(H5N1)) bilan kasallangan shaxslarning yaqin aloqadorlariga postekspozitsion antivirus profilaktikasini odatda qancha davom ettirishni tavsiya etadi?
++ 5 yoki 10 kun, kuniga ikki marta
+- 1 kun, bir martalik doza
+- 21 kun, har kuni ertalab bir marta
+- 21 kun, har kuni
+- 30 kun, haftada ikki marta, kechqurun
+! Profilaktik kurs yangi virus bilan yaqin aloqadan keyin ikkilamchi tarqalishni cheklash uchun beriladi.
+@ CDC. Interim Guidance for Follow-up of Close Contacts of Persons Infected with Novel Influenza A Viruses
+#U 093 / 12: CDC tavsiyasidagi 5 yoki 10 kunlik postekspozitsion profilaktika muddati faqat qidiruv parchasi orqali ko'rilgan, to'liq hujjat bilan tasdiqlanmagan.

@@ -1,0 +1,98 @@
+=== 024
+? Dezinfeksiya sterilizatsiyadan nimasi bilan farq qiladi?
++ Dezinfeksiya asosan vegetativ patogen shakllarni yo'qotadi, sporalarni to'liq yo'q qilmaydi
+- Dezinfeksiya barcha mikroorganizmlarni, jumladan sporalarni ham to'liq yo'q qiladi
+- Sterilizatsiya faqat vegetativ shakllarni yo'qotadi, dezinfeksiya esa sporalarni ham
+- Ular farq qilmaydi, ikkalasi ham bir xil ma'noni bildiradi
+- Odam tanasidagi qo'zg'atuvchini davolash orqali yo'qotishga qaratilgan
+! Sterilizatsiya spora kabi eng chidamli shakllarni ham tugatadi, dezinfeksiya esa tashqi muhitdagi asosan vegetativ shakllarga qaratilgan.
+@ Osipova V.L. Dezinfeksiya (2009); CDC/HICPAC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Profilaktik dezinfeksiya qayerda o'tkaziladi?
++ Aniq manba yo'q, lekin qo'zg'atuvchi to'planishi mumkin bo'lgan joylarda muntazam
+- Infeksiya manbai aniqlangan o'choqda, bemor ajratilgandan keyin bir marta o'tkaziladi
+- Faqat bemor yotgan palatada, kasallik davomida har kuni
+- Bemor uyida, parvarish qiluvchi oila a'zolari tomonidan
+- Epidemik portlash e'lon qilingan hududlarda favqulodda tartibda
+! Bu tur kasallik paydo bo'lishidan oldin qo'zg'atuvchi to'planishining oldini oladi, manba aniqlangan joydagi ish esa o'choqdagi dezinfeksiyaga kiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Quyidagilardan qaysi biri mexanik dezinfeksiya usuliga kiradi?
++ Changyutish, yuvish, shamollatish va iflos qatlamni olib tashlash
+- Qaynatish, bug' va quruq issiq havo kameralarida ishlov berish
+- Xlor saqlovchi preparatlar eritmasi bilan ishlov berish
+- Mikroorganizmlar yoki ularning mahsulotlaridan foydalanish
+- Ultrabinafsha nurlanish bilan zararsizlantirish
+! Mexanik usul qo'zg'atuvchi sonini iflos qatlamni jismonan olib tashlash orqali kamaytiradi, boshqalar esa fizik, kimyoviy yoki biologik usul.
+@ Osipova V.L. Dezinfeksiya (2009)
+? Biologik dezinfeksiya usuli asosan qayerda qo'llaniladi?
++ Chiqindi suvlar va biologik chiqindilarni tozalashda
+- Jarrohlik asboblarini avtoklavda sterilizatsiya qilishda
+- Bemor xonalaridagi yuzalarni kunlik artish uchun
+- Shaxsiy kiyimlarni quruq issiq havo kamerasida zararsizlantirishda
+- Operatsiya xonalaridagi havoni ultrabinafsha lampalar bilan tozalashda
+! Usul mikroorganizmlar yoki ularning mahsulotlariga asoslangani uchun asosan suv va chiqindilarni tozalashda ishlatiladi.
+@ Osipova V.L. Dezinfeksiya (2009)
+? Glutaraldegid va formaldegid kimyoviy dezinfeksiyalovchi vositalarning qaysi guruhiga kiradi?
++ Aldegidlar guruhiga
+- Galogen saqlovchi birikmalar guruhiga (xlor va yod)
+- Kislorod saqlovchi birikmalar guruhiga (vodorod peroksid)
+- Sirt-faol moddalar guruhiga (chetvertichli ammoniy birikmalari)
+- Spirtlar va fenol birikmalari guruhiga
+! Ikkala modda ham aldegid funksional guruhiga ega, shu sababli ular aldegidlar sifatida tasniflanadi.
+@ Osipova V.L. Dezinfeksiya (2009)
+? Quyidagi kasalliklarning qaysi birida dezinfeksiya hal qiluvchi ahamiyatga ega?
++ Ich terlama (tashqi muhitda chidamli qo'zg'atuvchi, fekal-oral yo'l)
+- Gripp (havo-tomchi yo'li bilan yuqadi, tashqi muhitda tez nobud bo'ladi)
+- Qizamiq (havo-tomchi, tashqi muhitda tez nobud bo'ladi)
+- Suvchechak (havo-tomchi, tashqi muhitda tez nobud bo'ladi)
+- Bezgak (transmissiv, chivin chaqishi orqali)
+! Dezinfeksiya qo'zg'atuvchi suv, oziq-ovqat va maishiy omillar orqali tashqi muhit orqali yuqqanda eng samarali bo'ladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016; Osipova V.L. Dezinfeksiya (2009)
+? Qon va oqsil qoldiqlari dezinfeksiyaning samaradorligiga qanday ta'sir qiladi?
++ Dezinfeksiyalovchi moddani neytrallab, samaradorlikni pasaytiradi
+- Moddaning ta'sirini kuchaytirib, ekspozitsiyani qisqartiradi
+- Hech qanday ta'sir ko'rsatmaydi, chunki preparat qatlamni eritib yuboradi
+- Eritma haroratini ko'tarib, faol moddani tezroq faollashtiradi
+- Ultrabinafsha nurlanishni kuchaytirib, bakteritsid zonani kengaytiradi
+! Organik qoldiq faol moddani bog'lab sarflaydi, shuning uchun ishlovdan oldin yuza yuvib tozalanadi.
+@ Osipova V.L. Dezinfeksiya (2009)
+? Tibbiy muassasalarda dezinfeksiyalovchi vositalar rotatsiyasi nima uchun tavsiya etiladi?
++ Ba'zi mikroorganizmlar vaqt o'tishi bilan muayyan vositaga chidamlilik hosil qilishi mumkin
+- Vositalar narxi tez o'zgargani sababli xarid shartnomalarini yangilash zarur
+- Har bir vosita faqat bir xil yuza turiga ta'sir qiladi, shuning uchun almashtiriladi
+- Vositaning rangi va hidi vaqt o'tishi bilan o'zgarib, xodimlarni chalg'itadi
+- Saqlash vaqtida moddalar to'liq parchalanib, faol moddasini butunlay yo'qotadi
+! Bir xil vositani uzoq qo'llash chidamli shtammlar tanlanishiga olib kelishi mumkin, almashtirish bu xavfni kamaytiradi.
+@ Mavzu materiali (024.docx)
+? SanQvaN № 0090-25 ga ko'ra jamoat binolarida profilaktik dezinfeksiya qanday davriylikda o'tkaziladi?
++ Oyida bir marta, epidemik mavsumda esa tez-tez
+- Haftada bir marta, mavsumdan qat'i nazar
+- Yilda bir marta, bahorgi tozalash davrida
+- Har kuni, ish kunining oxirida
+- Har chorakda, rejali tekshiruv bilan birga
+! Normativ oddiy davrda oylik, epidemik mavsumda esa kuchaytirilgan tartibni belgilaydi.
+@ SanQvaN № 0090-25
+? Bakteriologik surtmalarda E. coli qanday aniqlansa, profilaktik dezinfeksiya sifatli hisoblanadi?
++ Tuman (shahar) markazida 5 foizgacha, chekka hududlarda 3 foizgacha
+- Tuman (shahar) markazida 3 foizgacha, chekka hududlarda 5 foizgacha
+- Tuman (shahar) markazida 10 foizgacha, chekka hududlarda 5 foizgacha
+- Tuman (shahar) markazida 2 foizgacha, chekka hududlarda 1 foizgacha
+- Barcha hududlarda bir xil — 8 foizgacha
+! Markazga nisbatan chekka hududlar uchun qattiqroq (pastroq) chegara qo'yilgan.
+@ SanQvaN № 0090-25
+? Ta'lim tashkilotlarida dezinfeksiya vositalarining qaysi xavf sinfi qo'llanadi?
++ Faqat IV xavf sinfi
+- I xavf sinfi
+- II xavf sinfi
+- III xavf sinfi
+- II–III xavf sinflari
+! Bolalar muassasalarida eng kam xavfli vositalar ruxsat etiladi, boshqa tashkilotlarda esa III–IV sinfga yo'l qo'yiladi.
+@ SanQvaN № 0090-25
+? Darslikka ko'ra keng ma'noda "dezinfeksiya" atamasi nimalarni qamrab oladi?
++ Qo'zg'atuvchini tashqi muhitda yo'qotishni, shuningdek dezinseksiya va deratizatsiyani
+- Faqat kimyoviy vositalar bilan yuzalarga ishlov berishni, boshqa usullarni hisobga olmasdan
+- Sterilizatsiya va bolalarni emlash tadbirlarini
+- Karantin va izolyatsiya tadbirlarini
+- Bemorlarni davolash va reabilitatsiya choralarini
+! Darslikda atama yig'ma tushuncha sifatida izohlanadi va hasharot hamda kemiruvchilarga qarshi kurashni ham kiritadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016, 15.2-bo'lim
+#U 024 / 8: dezinfeksiyalovchi vositalar rotatsiyasining sababi faqat mavzu materialiga tayangan.

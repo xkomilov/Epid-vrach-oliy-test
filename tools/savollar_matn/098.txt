@@ -1,0 +1,99 @@
+=== 098
+? CDC ma'lumotiga ko'ra qizilcha bilan zararlanishdan tug'ma qizilcha sindromi (TQS) xavfi homiladorlikning qaysi davrida eng yuqori?
++ Birinchi trimestrda, ayniqsa dastlabki 12 haftada
+- Uchinchi trimestrning oxirgi haftalarida, tug'ruq oldidan
+- Faqat tug'ruqdan keyingi emizish davrida
+- Ikkinchi trimestrning o'rtasida, 20-haftadan keyin
+- Homiladorlikdan oldingi oxirgi hayz davrida
+! Organogenez davrida virus rivojlanayotgan a'zolarga ta'sir qiladi, shuning uchun nuqsonlar ko'proq erta zararlanishda yuzaga keladi.
+@ CDC. Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 15: Congenital Rubella Syndrome
+? Qizilchaning yashirin davri qancha davom etadi?
++ 11–22 kun
+- 1–4 kun
+- 5–7 kun
+- 30–45 kun
+- 60–90 kun
+! Bu muddat qizilchaning boshqa havo-tomchi infeksiyalarga nisbatan uzunroq yashirin davriga mos keladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilcha taxminan qancha hollarda toshmasiz kechadi?
++ 30 % hollarda
+- 2 % hollarda, juda kam uchraydi
+- 10 % hollarda, kattalarda ayniqsa
+- 60 % hollarda, bolalarda ko'pincha
+- 95 % hollarda, deyarli doimo
+! Toshmasiz shakllar tashxisni qiyinlashtiradi, shuning uchun limfadenit va laboratoriya tasdig'i muhim.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilcha toshmasi qanday xususiyatlarga ega?
++ Yuz, bo'yin va quloq ortidan boshlanib, kaftlarga tushmaydi va 1–3 kunda izsiz yo'qoladi
+- Kaftlar va tovonlardan boshlanib, bir haftagacha davom etadi va pigment qoldiradi
+- Tizza va tirsak bukilmalarida paydo bo'ladi hamda po'stloq hosil qiladi
+- Qorin terisidan boshlanib, kaftlarga ham tushadi va yiringli pufakchalarga aylanadi
+- Butun badanda bir vaqtda paydo bo'ladi va qon quyilishlar qoldirib, 3 haftagacha saqlanadi
+! Toshma yengil dog'simon bo'lib, yo'qolganda teri o'zgarishlari qolmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchaning qizamiqdan klinik farqini qaysi belgilar bildiradi?
++ Intoksikatsiya yo'qligi va ensa hamda quloq orqasi limfa tugunlarining doimiy kattalashuvi
+- Yuqori isitma va kuchli intoksikatsiya hamda Filatov–Koplik dog'lari mavjudligi
+- Hirillagan yo'tal va nafas tutilishi hamda tomoqda yupqa plyonkalar hosil bo'lishi
+- Suvli ich ketish va qusish hamda ko'p miqdorda suvsizlanish belgilari
+- Mushak tortishishi va tish qisilishi hamda nafas to'xtashi
+! Qizilcha yengil kechadi, shu bois zaharlanish belgilari bo'lmaydi, limfa tugunlari esa deyarli doim reaksiya beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tug'ma qizilcha sindromiga gumon qilinadigan chaqaloqlar qaysi yoshgacha hisoblanadi?
++ 11 oygacha
+- 1 haftagacha, tug'ruqxonada
+- 3 yoshgacha, bog'cha yoshidagilar
+- 7 yoshgacha, maktabgacha davrda
+- 14 yoshgacha, o'smirlik davrigacha
+! Tug'ma yurak yoki ko'z nuqsoni, eshitish buzilishi aniqlangan bunday chaqaloqlarda laboratoriya tekshiruvi talab etiladi.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (qizamiq va qizilcha namunalari bo'yicha uslubiy ko'rsatma)
+? Qizilcha uchun virusologik tekshiruv namunalari qanday haroratda saqlanadi?
++ +4...+8 °C da, muzlatilmaydi
+- -20 °C da muzlatilgan holda, bir necha oy davomida
+- +18...+25 °C da, xona haroratida
+- +37 °C da termostatda, bir sutka davomida
+- -70 °C da quruq muz ichida, ishlatishgacha
+! Namunadagi virus faolligini saqlash uchun sovutilgan, ammo muzlamagan holat belgilangan.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (qizamiq va qizilcha namunalari bo'yicha uslubiy ko'rsatma)
+? Qizamiq va qizilchaning genotipini aniqlash uchun namunalar qayerga yuboriladi?
++ JSST referens laboratoriyasi filialiga
+- Viloyat markazi bakteriologiya laboratoriyasiga, ekma qilish uchun
+- Tuman poliklinikasi klinik laboratoriyasiga, umumiy tahlil uchun
+- Veterinariya laboratoriyasiga, hayvonlar kasalligini tekshirish uchun
+- Sanitariya-gigiena laboratoriyasiga, suv va oziq-ovqat tekshiruvi uchun
+! Genotiplash maxsus molekulyar-genetik usullarni talab qiladi, ular xalqaro tarmoq laboratoriyasida bajariladi.
+@ O'zR SSV 2015-yil buyrug'iga 6-ilova (qizamiq va qizilcha namunalari bo'yicha uslubiy ko'rsatma)
+? Qizilcha o'chog'idagi homilador ayolda birinchi tekshiruvda maxsus antitelalar qanday darajada bo'lsa, keyingi tibbiy kuzatuv o'tkazilmaydi?
++ 25 XB/ml va undan yuqori
+- 15 XB/ml dan past
+- 10 XB/ml dan past
+- 5 XB/ml dan past
+- Antitelalar umuman aniqlanmaganda
+! Yuqori titr oldingi immunitetni ko'rsatadi va yangi infeksiya xavfi past ekanini anglatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Tug'ma qizilcha bilan tug'ilgan chaqaloqlarda virus qancha vaqtgacha saqlanadi va ular infeksiya manbai bo'ladi?
++ 1,5–2 yoshgacha
+- 3–5 kungacha
+- 2–3 haftagacha
+- 6 oygacha
+- Butun umr davomida
+! Bu chaqaloqlar uzoq vaqt virus ajratadi, shu sababli atrofidagi moyil shaxslar uchun xavf tug'diradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizilchaga qarshi milliy kalendarda qaysi vaksina qo'llanadi va qachon yuboriladi?
++ Wistar RA 27/3 shtammli tirik KPK vaksinasi: 12 oylikda (KPK-1) va 6 yoshda (KPK-2)
+- O'ldirilgan inaktivlangan monovalent vaksina: 2, 3 va 4 oylikda uch marta
+- Anatoksinli ADS-M vaksinasi: 7 yoshda va 16 yoshda ikki marta
+- Rekombinant gepatit B vaksinasi: tug'ilgandan 24 soat ichida bir marta
+- BCG vaksinasi: tug'ruqxonada, tug'ilgandan keyin dastlabki kunlarda, teri ichiga bir marta
+! Vaksina tirik susaytirilgan bo'lib, qizamiq va epidemik parotit komponentlari bilan birlashtirilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? JSST ma'lumotiga ko'ra, erta homiladorlikda qizilcha bilan kasallangan ayol infeksiyani homilasiga qanday ehtimol bilan o'tkazadi?
++ 90 % ehtimol bilan
+- 5 % ehtimol bilan
+- 20 % ehtimol bilan
+- 40 % ehtimol bilan
+- Infeksiya homilaga o'tmaydi, chunki platsenta to'sig'i virusni to'liq ushlaydi
+! Birinchi trimestrda platsenta to'sig'i virusni o'tkazib yuboradi va homila yuqori xavf ostida qoladi.
+@ WHO (Vietnam office). Rubella (fact sheet)
+#D 098 / 12: Darslikda xavf raqami homiladorlikning 3–4-haftasida 60 % deb ko'rsatilgan, CDC ma'lumotlarida esa 8–10-haftada 90 % gacha; JSST faktida ham erta homiladorlikda 90 %; material bu farqni izohlamagan.
+#U 098 / 12: JSST faktidagi 90 % ehtimol faqat qidiruv parchasi orqali ko'rilgan, to'liq sahifa bilan tasdiqlanmagan.

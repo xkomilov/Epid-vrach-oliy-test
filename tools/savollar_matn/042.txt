@@ -1,0 +1,98 @@
+=== 042
+? Epidemik jarayon qaysi uch zaruriy bo'g'inning birgalikda mavjud bo'lishida yuzaga keladi?
++ Infeksiya manbai, qo'zg'atuvchining yuqish mexanizmi va qabul qiluvchan organizm
+- Qo'zg'atuvchi, tashqi muhit va aholining ijtimoiy-iqtisodiy ahvoli
+- Klinik tashxis, laboratoriya tasdig'i va bemorni kasalxonaga yotqizish
+- Inkubatsion davr, kasallik avji va sog'ayish davri, bunda yuqish mexanizmi alohida bo'g'in hisoblanmaydi
+- Tashuvchi hasharot, rezervuar hayvon va tabiiy o'choq hududi
+! Bo'g'inlardan birining uzilishi jarayonning to'xtashiga olib keladi, shu bois tadbirlar aynan shu zanjirga qaratiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Pandemiya epidemik jarayon jadalligining qaysi darajasini bildiradi?
++ Bir necha mamlakat yoki qit'ani qamrab olgan keng tarqalish
+- Odatdagi darajadan yuqori, lekin bitta hudud doirasida qolgan ko'tarilish
+- Alohida, o'zaro bog'lanmagan yakka holatlarning qayd etilishi
+- Bitta oila yoki muassasa ichidagi bir necha bemordan iborat guruhiy kasallanish
+- Qishloq xo'jaligi hududlarida mavsumiy ravishda takrorlanib turadigan tabiiy o'choqli kasallanish
+! Darajalar sporadik kasallanish, epidemiya va pandemiya tarzida farqlanadi va ular tarqalish ko'lamiga qarab ajratiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemik o'choq nima?
++ Infeksiya manbai joylashgan va u atrofga qo'zg'atuvchi tarqatib, yangi kasallanish yuzaga keltirishi mumkin bo'lgan hudud yoki joy
+- Kasalxona yoki bog'cha kabi muassasa ichida joylashgan, kasallanish qayd etilgan va bemor ajratilgan xonalar hamda ularga tutash koridorlar majmui
+- Kasallanish ko'rsatkichi o'rtacha ko'p yillik darajadan yuqori bo'lgan butun ma'muriy viloyat
+- Qo'zg'atuvchi tashqi muhitda saqlanadigan va dezinfeksiya o'tkazib bo'lingan barcha obyektlar
+- Bemorlar davolanadigan va tibbiy xodimlar ishlaydigan maxsus ajratilgan bo'lim
+! O'choq epidemik jarayonning lokalizatsiyalangan ko'rinishi bo'lib, epidemiyaga qarshi amaliy ishning asosiy obyekti hisoblanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Havo-tomchi infeksiyalarida epidemik o'choq chegarasi qanday belgilanadi?
++ Bemor bilan bir xonada yoki yaqin muloqotda bo'lgan shaxslar doirasi qamrab olinadi
+- Umumiy suv manbai bilan bog'langan butun aholi doirasi qamrab olinadi
+- Tashuvchi hasharotning tarqalish doirasi qamrab olinadi
+- Oziq-ovqat mahsuloti sotilgan barcha savdo nuqtalari qamrab olinadi
+- Bemorning ish joyidagi barcha xodimlar emas, faqat uning oila a'zolari qamrab olinadi
+! Chegara yuqish mexanizmiga bog'liq: havo-tomchi infeksiyada qo'zg'atuvchi yaqin muloqot va umumiy havo orqali o'tadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Transmissiv kasalliklarda epidemik o'choq chegarasi nimaga qarab belgilanadi?
++ Tashuvchi hasharotning tarqalish doirasiga
+- Bemor yashaydigan xonaning kvadrat maydoniga
+- Umumiy ichimlik suv manbasining joylashishiga
+- Bemor bilan bir transportda yo'l yurgan yo'lovchilar soniga
+- Oziq-ovqat mahsulotini tayyorlagan korxonaning joylashishiga, bunda tashuvchi hasharot hisobga olinmaydi
+! Transmissiv kasalliklarda qo'zg'atuvchini tashuvchi hasharot tarqatadi, shu bois xavfli hudud uning yashash va uchish doirasi bilan belgilanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemik o'choqning davomiyligi qaysi ko'rsatkichga asoslanib belgilanadi?
++ Kasallikning maksimal yashirin (inkubatsion) davriga
+- Kasallikning o'rtacha davolanish muddatiga
+- Bemor kasalxonada yotgan kunlar soniga
+- Yakuniy dezinfeksiya o'tkazilgan kunga, bunda inkubatsion davr hisobga olinmaydi
+- Bemorda harorat me'yorga tushgan kundan keyingi bir haftaga
+! Maksimal inkubatsion davr mobaynida muloqotda bo'lganlar orasida yangi kasallanish paydo bo'lishi mumkin.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi shart bajarilganda epidemik o'choq so'ngan (bartaraf etilgan) hisoblanadi?
++ Manba bartaraf etilgach, bir maksimal inkubatsion davr ichida yangi kasallanish yuzaga kelmaganda
+- Bemor kasalxonaga yotqizilgan kunning o'zidayoq, dezinfeksiyadan oldin
+- Birinchi laboratoriya tekshiruvi salbiy chiqqan zahoti, kuzatuvsiz
+- Bemor ish joyiga qaytib kelgandan so'ng bir hafta o'tganda, inkubatsion davrdan qat'i nazar
+- Mavsumiy ko'tarilish tugaganida, hududdagi kasallanish ko'rsatkichi esa e'tiborga olinmaydi
+! Muddat o'tib, yangi holat bo'lmasa, qo'zg'atuvchi tarqalishi to'xtagan deb baholanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq o'chog'ida muloqotda bo'lganlar qancha muddat kuzatiladi?
++ 21 kungacha (maksimal yashirin davr bo'yicha)
+- 3 kungacha, o'tkir ichak infeksiyalaridagi kabi qisqa muddat
+- 7 kun, ya'ni umumiy ichak infeksiyalarida qo'llanadigan muddat
+- 50 kungacha, virusli gepatit A dagi kabi uzun yashirin davr bo'yicha
+- 6 oygacha, surunkali tashuvchilikka xos uzoq kuzatuv bo'yicha
+! Qizamiqning maksimal inkubatsion davri 21 kungacha yetishi mumkin, kuzatuv muddati ham shunga mos belgilanadi.
+@ Mavzu materiali (042.docx)
+? Epidemiologik tashxis qaysi uch savolga javob beradi?
++ Vaziyat qanday, nima uchun shunday va u qanday rivojlanadi
+- Bemor kim, qaerda davolanadi va qancha vaqtda sog'ayadi
+- Qaysi dori qo'llanadi, qancha dozada va qanday sxemada beriladi
+- Qo'zg'atuvchi nima, uning genomi qanday va qaysi vaksina mos keladi
+- Qancha mablag' ajratiladi, kim javobgar va qachon hisobot topshiriladi
+! Tashxis holat, sabab va bashoratni o'z ichiga oladi va barcha profilaktik hamda epidemiyaga qarshi qarorlarga asos bo'ladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tashxis klinik tashxisdan nimasi bilan farq qiladi?
++ U alohida bemorni emas, butun populyatsiya yoki o'choq darajasida vaziyatga "tashxis" qo'yadi
+- U faqat bitta bemorning kasallik shaklini va og'irligini aniqlaydi
+- U faqat laboratoriya natijasiga tayanadi va epidemiologik anamnezni hisobga olmaydi
+- U kasallik tugagandan keyin, davolash natijalari bo'yicha qo'yiladigan yakuniy tashxisdir
+- U faqat o'tgan davr ma'lumotlariga tayanadi va joriy vaziyatni baholashni o'z ichiga olmaydi
+! Klinik tashxis individual darajada, epidemiologik tashxis esa jamoa darajasida qo'yiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemiologik tashxisning markaziy vazifasi nima?
++ Aynan shu vaziyatda kasallikni tarqatayotgan faol omilni aniqlash
+- Barcha bemorlarni bir xil davolash sxemasiga o'tkazish
+- Kasallanish ko'rsatkichini mutlaq sonda hisoblab, hisobotni vaqtida topshirish
+- Aholining demografik tarkibini yangilash va migratsiyani cheklash
+- Hududdagi barcha tibbiyot muassasalarini bir vaqtda yopish va karantin e'lon qilish
+! Faol omilga ta'sir qilinsa, epidemik jarayon to'xtaydi, shu sababli tashxis aynan shu omilni topishga qaratiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+? O'choq chegarasi haddan tashqari tor belgilansa, qanday oqibat yuzaga keladi?
++ Ayrim zararlangan shaxslar kuzatuvdan tashqarida qolib, infeksiya yanada tarqalishi mumkin
+- Tadbirlar ko'lami haddan oshib, resurslar keraksiz tarzda behuda sarflanadi, ammo infeksiya tarqalmaydi
+- O'choqning davomiyligi qisqarib, inkubatsion davr kuzatuvi umuman talab etilmay qoladi
+- Qo'zg'atuvchi yuqish mexanizmini o'zgartirib, boshqa kasallikka aylanadi
+- Epidemiologik tashxis qo'yish talab etilmay qoladi
+! Muloqotdagilar doirasi chegaraga bog'liq bo'lgani uchun tor chegara zararlanganlarni nazoratdan chiqarib qo'yadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), Toshkent, 2016
+#U 042 / 8: qizamiq uchun 21 kunlik kuzatuv muddati faqat mavzu materialiga tayangan.

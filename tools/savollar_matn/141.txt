@@ -1,0 +1,98 @@
+=== 141
+? Hududiy OITSga qarshi kurashish markazlari qaysi tuzilma tarkibiga kiruvchi ixtisoslashgan yuqumli kasalliklar davlat tibbiyot muassasalari hisoblanadi?
++ Respublika OITSga qarshi kurashish markazi tarkibiga kiruvchi muassasalar
+- Respublika ixtisoslashtirilgan epidemiologiya, mikrobiologiya, yuqumli va parazitar kasalliklar ilmiy-amaliy tibbiyot markazi tarkibidagi bo'limlar
+- Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi tarkibiga kiruvchi hududiy boshqarmalar
+- Respublika dermatovenerologiya va kosmetologiya ilmiy-amaliy tibbiyot markazining hududiy filiallari
+- Respublika sil kasalligi bo'yicha ixtisoslashtirilgan ilmiy-amaliy tibbiyot markazi tarkibidagi muassasalar
+! Namunaviy nizomga ko'ra hududiy markazlar yagona davlat siyosatini amalga oshirish uchun javobgar bo'lib, Respublika markazi tarkibiga kiradi.
+@ SEO va JSB qo'mitasining 2023-yil 11-iyuldagi 32-son buyrug'iga 19-ilova
+? Tibbiyot muassasalarida normativ talablarga rioya etilishi ustidan davlat nazoratini qaysi tuzilma amalga oshiradi?
++ Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi
+- Hududiy OITSga qarshi kurashish markazining poliklinika bo'limi va dispanser xizmati
+- Respublika OITSga qarshi kurashish markazining epidemiologik monitoring bo'limi
+- Tuman (shahar) tibbiyot birlashmasi huzuridagi hududiy tibbiy kengash a'zolari
+- Davlat tibbiyot muassasalarining o'z ichki sifat nazorati xizmatlari majmuasi
+! Nazorat vazifasi hududiy markazlarga emas, balki sanitariya-epidemiologiya xizmatining qo'mitasiga yuklangan, markazlar esa ma'lumotnoma kiritadi.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? Immunoblot orqali tasdiqlovchi natija olingach, bayonnoma kimlarning imzosi bilan tuziladi?
++ Ikki shifokor va laborant
+- Bosh vrach, bosh hamshira va laborant yordamchisi
+- Uchta shifokor, epidemiolog va statistik xodim
+- Bo'lim mudiri va ikki nafar hamshira
+- Faqat tasdiqlovchi laboratoriya mudiri va bosh vrach
+! Rasmiy hujjat tasdiqlovchi laboratoriya majmuasi tomonidan shu tarkibda tuzilib, epidemiologik monitoring bo'limiga va poliklinika bo'limiga topshiriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? OIV tasdiqlangandan keyin epidemiologik monitoring bo'limi yashash manzili bo'yicha markazga nechanchi shakldagi xabarnomani yuboradi?
++ 1-shakldagi xabarnomani
+- 2-shakldagi epidemiologik surishtiruv kartasini
+- 3-shakldagi ota-ona bilan suhbat varaqasini
+- 4-shakldagi «seropozitiv» hisobotini
+- 5-shakldagi dispanser nazorati ro'yxatini
+! Xabarnoma testdan keyingi maslahat, dispanser nazoratiga olish va o'choqdagi tadbirlarni so'rab yuboriladi, qolgan shakllar boshqa hujjatlarga tegishli.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Bemor ruhan o'ta tushkun bo'lsa, suhbat kim ishtirokida davom ettiriladi?
++ Psixolog yoki maxsus tayyorlangan xodim ishtirokida
+- Bemorning ish joyidagi rahbar va yaqin qarindoshlari ishtirokida
+- Mahalla raisi va huquq-tartibot xodimlari ishtirokida
+- Tuman SEO va JSB bo'limi inspektori ishtirokida
+- Bemorning jinsiy sherigi va uning oila a'zolari ishtirokida
+! Konfidensiallikni saqlash talabi bor, shuning uchun suhbatga faqat psixologik yordam ko'rsata oladigan mutaxassis jalb qilinadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Epidemiologik surishtiruvni qaysi mutaxassislar olib boradi?
++ Hududiy OITS markazlari epidemiologlari
+- Tuman poliklinikasi oilaviy shifokorlari va hamshiralari
+- Respublika qon quyish markazi laborantlari va donor xizmati
+- Tuman SEO va JSB bo'limining dezinfektorlari va laborantlari
+- Mahalliy hokimlik huzuridagi favqulodda vaziyatlar komissiyasi
+! Surishtiruv vazifasi buyruq bo'yicha markazlar epidemiologlariga yuklangan, maqsad manba va yuqish yo'lini aniqlashdir.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Epidemiologik surishtiruv xabarnomadan boshlab qancha vaqtdan oshib ketsa, sabablari ko'rsatilgan bildirishnoma bilan bosh vrachdan ruxsat so'raladi?
++ Bir oydan
+- 24 soatdan
+- 10 kundan
+- 3 oydan
+- 6 oydan
+! Surishtiruv tezkor bo'lishi kerak, shuning uchun belgilangan muddatdan o'tilsa kechikish sabablari yozma tushuntiriladi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Surishtiruv natijasida shifoxona ichida yuqish gumon qilinsa, qoidabuzarlarga chora ko'rish uchun ma'lumotnoma kimga taqdim etiladi?
++ Hududiy sanitariya-epidemiologiya xizmatiga
+- Respublika OITSga qarshi kurashish markaziga
+- Tuman (shahar) tibbiyot birlashmasi bosh hamshirasiga
+- Sog'liqni saqlash vazirligining Litsenziyalash va akkreditatsiyalash boshqarmasiga
+- Hududiy hokimlikning ijtimoiy masalalar bo'limiga
+! Chora ko'rish vakolati sanitariya-epidemiologiya xizmatida, markaz esa faqat ma'lumotnomani tayyorlab yuboradi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Jazoni ijro etish muassasalaridagi shaxslarda OIV tasdiqlanganda yuqish yo'lini aniqlash uchun xat qaysi idoraning sanitariya-epidemiologiya xizmatiga chiqariladi?
++ Ichki ishlar vazirligi
+- Adliya vazirligi
+- Favqulodda vaziyatlar vazirligi
+- Migratsiya va fuqaroligi bo'yicha qo'mita
+- Bosh prokuratura huzuridagi departament
+! Bunday shaxslar bo'yicha ma'lumot 112-kod bilan IIV sanitariya-epidemiologiya xizmatiga yuboriladi, chunki muassasalar shu vazirlik tizimiga tegishli.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+? Donorda «IFA musbat» natijali qon qancha muddat ichida komissiya ishtirokida yo'q qilinadi?
++ 24 soat ichida
+- 3 kun ichida
+- 7 kun ichida
+- 1 oy ichida
+- 12 soat ichida
+! Musbat natijali qon qabul qiluvchiga yetib bormasligi uchun tezkor yo'q qilinadi, ilgari topshirilgan qon qabul qiluvchilar esa tekshiruvga taklif etiladi.
+@ Mavzu materiali (141.docx)
+? Tez yuqish xavfi bor guruhlar uchun profilaktika xizmatlari rejalashtirilganda ular qaysi nom bilan yuritiladi?
++ «Ishonch xonalari»
+- «Ishonch punktlari» tarmog'i
+- «Anonim maslahat uylari» tarmog'i
+- «Sog'lom turmush markazlari» tarmog'i
+- «Xavfsiz shprits almashtirish xonalari»
+! Rejada bu xizmatlar tibbiy kengashlarda parenteral va vertikal yuqish holatlarini muhokama qilish bilan birga ko'zda tutilgan.
+@ O'zR SSV 2024-yil 29-fevraldagi 64-son buyrug'i
+? Qaysi holatda bolada shifoxona ichida yuqishga gumon qilinadi?
++ Bola 18 yoshgacha, onasi sog'lom va tartibsiz jinsiy aloqalar inkor qilingan
+- Bola 5 yoshdan kichik, onasi OIV bilan yashagan va ko'krak suti bilan oziqlantirilgan
+- Bola 14 yoshdan katta, giyohvand moddalarni inyeksion qabul qilgan va onasi sog'lom
+- Bola 18 yoshdan katta, jinsiy sherigi OIV bilan yashagan va muolaja olmagan
+- Bola chet elda tug'ilgan, onasi OIV bilan yashagan va tug'ruq tabiiy yo'l bilan o'tgan
+! Onasining sog'lom bo'lishi vertikal yo'lni, jinsiy aloqalarning inkor etilishi esa jinsiy yo'lni chetlab, parenteral tibbiy muolajalar ehtimolini oshiradi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'iga 3-ilova
+#U 141 / 9: «IFA musbat» donor qonini 24 soat ichida yo'q qilish muddati faqat mavzu materialiga (219-son buyruq 3-ilovasi bayoni) tayangan, asl hujjat matni bilan tasdiqlanmagan.

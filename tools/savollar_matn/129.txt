@@ -1,0 +1,98 @@
+=== 129
+? Viloyat sanitariya-epidemiologiya markazlarida zaxirada nechta MShHVJ saqlanadi?
++ 50 tadan
+- 11 tadan
+- 16 tadan
+- 6 tadan
+- 20 tadan
+! Viloyat darajasida zaxira shahar-tuman markazlariga nisbatan ancha katta.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'lat va vabo bo'yicha karantin zonasiga kirish qanday tartibda amalga oshiriladi?
++ EQKFK ruxsati bilan, ruxsatnoma asosida
+- Erkin, faqat chiqish cheklanadi
+- Hokimning og'zaki ko'rsatmasi bilan
+- Tibbiy ko'rikdan o'tgan har qanday shaxs uchun ruxsatnomasiz
+- Bosh vrachning yozma ruxsati bilan, komissiyasiz
+! Zonaga kirish nazoratsiz bo'lsa, infeksiya tashqariga chiqishi mumkin.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Karantin muassasalari kim tomonidan kechayu kunduz qo'riqlanadi?
++ Ichki ishlar organi yoki harbiy qism tomonidan
+- Faqat xususiy qo'riqlash korxonasi tomonidan
+- Bojxona organlarining mobil guruhlari tomonidan
+- Mahalla fuqarolar yig'inining navbatchilari tomonidan
+- Muassasaning o'z tibbiyot xodimlari tomonidan
+! Qo'riqlash karantin rejimidan o'zboshimchalik bilan chiqishni oldini oladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Observator qanday binolarda tashkil etiladi?
++ Moslashtirilgan binolarda: ma'muriy bino, maktab, mehmonxona yoki bolalarning yozgi oromgohi
+- Yuqumli kasalliklar kasalxonasining reanimatsiya binosida, boshqa binolardan butunlay ajratilgan holda
+- Ko'p profilli kasalxonaning jarrohlik korpusida, operatsiya xonalari yonida
+- Sanitariya-karantin punktining ichki xonalarida, chegara bojxona majmuasi hududida
+- Faqat tug'ruqxona binolarining alohida qavatida, bemorlardan ajratilgan holda
+! Sog'lom odamlar ko'p bo'lgani uchun u kasalxona binosidan ajratib, boshqa joylarda tashkil etiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Vrach va o'rta tibbiyot xodimlarini O'XYuK profilaktikasi bo'yicha o'qitish dasturini tasdiqlagan buyruq qaysi?
++ Sog'liqni saqlash vazirligining 2012-yil 29-oktyabrdagi 310-son buyrug'i
+- Sog'liqni saqlash vazirligining 2012-yil 25-yanvardagi 25-son buyrug'i
+- Sog'liqni saqlash vazirining 2015-yil 23-yanvardagi 37-son buyrug'i
+- Sog'liqni saqlash vazirining 2023-yil 2-avgustdagi 32-son buyrug'i
+- Sog'liqni saqlash vazirining 2016-yil 16-maydagi 226-son buyrug'i
+! Dastur xodimlarni epidemiologik ko'rsatma bo'yicha o'qitishning asosi.
+@ O'zR SSV 2012-yil 29-oktyabrdagi 310-son buyrug'i
+? Observatorda nechta izolyator bo'lishi talab etiladi?
++ Ikkita: biri isitma, ikkinchisi diareya belgisi borlar uchun
+- Uchta: isitma, diareya va yo'tal belgisi borlar uchun alohida
+- Bitta: barcha kasallik belgilari bor shaxslar uchun umumiy
+- To'rtta: har bir qavatda bittadan, jinsiga qarab ajratilgan
+- Ikkita: erkaklar uchun va ayollar uchun alohida
+! Belgilar bo'yicha ajratish ular o'rtasida o'zaro yuqishning oldini oladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Karantin xavfi bo'lganda aholini ommaviy profilaktik emlash kimning qarori bilan joriy etiladi?
++ Bosh davlat sanitariya vrachining qarori bilan
+- Viloyat hokimining farmoyishi bilan
+- Sog'liqni saqlash vazirining yozma ko'rsatmasi bilan
+- Davolash muassasasi bosh vrachining buyrug'i bilan
+- Vazirlar Mahkamasining bayonnomasi bilan
+! Qaror shu kunning o'zida tegishli organlarga yetkaziladi va emlash rejasi tezkor tuziladi.
+@ Mavzu materiali (129.docx)
+? Vabo o'chog'ida karantin kim qarori bilan va necha kunga e'lon qilinadi?
++ EQKFK qarori bilan 5 kunga
+- Hokimlik qarori bilan 10 kunga
+- Sog'liqni saqlash vazirligi qarori bilan 14 kunga
+- Bosh vrach buyrug'i bilan 3 kunga
+- Veterinariya xizmati qarori bilan 7 kunga
+! Muddat vaboning yashirin davriga mos qilib belgilangan.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? O'XYuK gumon qilinganda bosh vrach shu zahoti nima tashkil etadi?
++ Ichki va tashqi tibbiy postlar
+- Qo'shimcha reanimatsiya bo'limi
+- Ommaviy emlash punkti
+- Vaqtinchalik ko'chma kasalxona
+- Mahalliy axborot markazi
+! Postlar bemor va aloqadorlarning nazoratsiz harakatlanishini cheklaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Karantin va O'XYukdan muhofaza qilish tadbirlari nechta bosqichda tashkil etiladi?
++ To'rt bosqichda: tayyorgarlik, chegara nazorati, birlamchi tadbirlar, o'choqni cheklash va tugatish
+- Uch bosqichda: tayyorgarlik, chegara nazorati va o'choqni tugatish
+- Besh bosqichda: tayyorgarlik, chegara nazorati, birlamchi tadbirlar, davolash va reabilitatsiya
+- Ikki bosqichda: gumon qilinganda birlamchi tadbirlar va o'choqni tugatish
+- Olti bosqichda: tayyorgarlik, xabar berish, ajratish, davolash, dezinfeksiya va hisobot
+! Bosqichlar tayyorgarlikdan boshlanib, o'choqni tugatish va baholash bilan yakunlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Muhofaza bo'yicha umumiy reja kim tomonidan ishlab chiqiladi va kim tomonidan tasdiqlanadi?
++ Salomatlik muassasalari ishlab chiqadi, mahalliy hokimiyatlar tasdiqlaydi
+- Vazirlar Mahkamasi ishlab chiqadi, hududiy bosh vrachlar tasdiqlaydi
+- Chegara qo'shinlari ishlab chiqadi, Sog'liqni saqlash vazirligi tasdiqlaydi
+- Veterinariya xizmati ishlab chiqadi, bojxona qo'mitasi tasdiqlaydi
+- Xalqaro tashkilotlar ishlab chiqadi, parlament qo'mitasi tasdiqlaydi
+! Reja hududiy sharoitga moslashtirilgani uchun mahalliy darajada tasdiqlanadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+? Vabo bo'yicha karantin zonasidagilar 5 kunlik karantindan keyin qanday tekshiriladi?
++ Vibrion tashuvchanlikka 1 marta tekshiriladi va kerak bo'lsa profilaktik antibiotik oladi
+- Qon zardobida antitelalarga 3 marta tekshiriladi, antibiotik berilmaydi va ular emlanadi
+- Rentgenologik tekshiruvdan o'tkaziladi va emlanadi
+- Bakteriologik tekshirilmasdan, faqat termometriya asosida uyiga javob beriladi
+- Har kuni najas ekmasi olinadi va 14 kun qo'shimcha izolyatsiya qilinadi
+! Tashuvchanlikni aniqlash vabo tarqalishining oldini olish uchun zarur.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma). Toshkent: SSV, 2010
+#U 129 / 7: Bosh davlat sanitariya vrachi qarori bilan ommaviy emlash tartibi (2026-yil 7-avgustdagi 17-son buyruq) faqat mavzu materialiga tayanadi, tashqi manba bilan tasdiqlanmagan.

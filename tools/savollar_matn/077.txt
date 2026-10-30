@@ -1,0 +1,97 @@
+=== 077
+? Quyidagi tadbirlardan qaysi biri moyil jamoaga nisbatan qaratilgan?
++ Shoshilinch profilaktika: passiv emlash va antibiotikoprofilaktika
+- Bakteriya tashuvchilarni so'rov, klinik ko'rik va laboratoriya tekshiruvi bilan faol aniqlash
+- Joriy va yakuniy dezinfeksiyani o'tkazish, shifoxonalarda sterilizatsiyani kuchaytirish
+- Bemorlarni ajratish va kasalxonaga yotqizish, observatsion va karantin tadbirlarini o'tkazish
+- Ichimlik suvi ta'minoti va chiqindilarni olib ketish tizimini yaxshilash
+! Qolgan tadbirlar infeksiya manbaiga yoki yuqish yo'llariga qaratilgan, moyil jamoani esa emlash va shoshilinch profilaktika himoyalaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Aholining sanitariya-epidemiologik osoyishtaligi to'g'risidagi Qonunning qaysi moddasi profilaktik emlashlarni milliy kalendar va epidemik ko'rsatkichlar bo'yicha o'tkazishni belgilaydi?
++ 33-modda
+- 31-modda
+- 32-modda
+- 34-modda
+- 35-modda
+! 31-modda karantinga, 32-modda o'choqdagi tadbirlarga, 34-modda dezinfeksiyaga, 35-modda majburiy tibbiy ko'riklarga tegishli.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 31–35-moddalar
+? Cheklov tadbirlari (karantin) qanday tartibda joriy etiladi?
++ Vazirlar Mahkamasi va hududiy hokimiyat organlari tomonidan, Bosh davlat sanitariya vrachining taqdimnomasi bilan
+- Sog'liqni saqlash vaziri tomonidan o'z buyrug'i bilan, boshqa organlar ishtirokisiz
+- Davlat sanitariya nazorati organlari tomonidan mustaqil ravishda, o'choq rahbarlari taqdimnomasi bilan va boshqa organlar kelishuvisiz
+- Hududiy davolash-profilaktika muassasasining bosh vrachi tomonidan o'z qarori bilan
+- Prezident farmoni bilan, Bosh davlat sanitariya vrachining taqdimnomasiz
+! Bunday qaror xavf yuzaga kelganda bir necha vakolatli organning kelishilgan ishtirokini talab qiladi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 31-modda
+? Bitta o'choqda necha va undan ko'p holat bo'lsa, epidemiologik tekshiruv majburiy hisoblanadi?
++ Ikki va undan ko'p
+- Uch va undan ko'p
+- Besh va undan ko'p
+- O'n va undan ko'p
+- Yigirma va undan ko'p
+! Yagona sporadik holat odatda tekshirilmaydi, lekin ekzotik va emlash bilan boshqariladigan infeksiyalarda tekshiruv shart.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qizamiq va qizilcha o'chog'ida muloqotda bo'lganlar epidemiologik ko'rsatma bo'yicha qaysi yoshdan emlanadi?
++ 6 oylikdan
+- 2 oylikdan
+- 1 yoshdan
+- 2 yoshdan
+- 3 yoshdan
+! 2 oylikdan difteriya, 1 yoshdan parotit, 2 yoshdan A virusli gepatit o'choqlarida emlanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Quyidagi infeksiyalardan qaysi birining o'chog'ida dezinfeksiya talab etilmaydi?
++ Meningokokk infeksiyasi
+- Qorin tifi va paratif
+- Kuydirgi (o'pka va teri shakllari)
+- Difteriya (toksigen shtammlar)
+- A virusli gepatit hamda E gepatiti
+! Meningokokk tashqi muhitda chidamsiz, qolgan infeksiyalar o'choqlarida yakuniy dezinfeksiya o'tkazilishi kerak.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; SanQvaN № 0090-25
+? Xalqaro tibbiy-sanitariya qoidalariga (2005) muvofiq, xalqaro ahamiyatga ega favqulodda vaziyat ehtimoli bor hodisa baholanganidan keyin JSST ga necha soat ichida xabar qilinadi?
++ 24 soat ichida
+- 6 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+! Keyinchalik aniq va batafsil ma'lumot ham o'z vaqtida yuboriladi.
+@ Xalqaro tibbiy-sanitariya qoidalari (2005), JSST
+? Sanitariya ishlovi qaysi infeksiyalar o'choqlarida o'tkaziladigan tadbir sifatida ko'rsatiladi?
++ Parazitar tiflarda
+- Vabo va bakterial dizenteriyada
+- Difteriya va ko'k yo'talda
+- Qizamiq va epidemik parotitda
+- Meningokokk va gripp infeksiyalarida
+! Sanitariya ishlovi bit orqali yuqadigan infeksiyalarda tanani va kiyimni parazitlardan tozalashga qaratilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Profilaktik va epidemiyaga qarshi ishlarni rejalashtirish nimaga asoslanadi?
++ Operativ va retrospektiv epidemiologik tahlil natijalariga
+- Faqat o'tgan yilgi kasallanish soniga, bunda mavsumiylik hisobga olinmaydi
+- Kasalxonalardagi to'shak fondi va xodimlar sonining umumiy hisobiga
+- Vazirlik tomonidan hamma hududlar uchun belgilangan bir xil normativga
+- Aholi ro'yxatidagi yosh va jins tarkibining o'zgarishiga
+! Tahlil kasallanish sabablarini aniqlab, tadbirlar hajmi va yo'nalishini asoslash imkonini beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Profilaktik dezinfeksiya Qonunga ko'ra kim tomonidan o'tkaziladi?
++ Shartnomalar asosida dezinfeksiya stansiyalari tomonidan
+- Davlat sanitariya nazoratini amalga oshiruvchi organlar tomonidan
+- Davolash-profilaktika muassasalarining bosh vrachlari tomonidan
+- Hududiy hokimiyat organlari tomonidan o'z hisobidan
+- Bosh davlat sanitariya vrachining ixtisoslashgan xodimlari tomonidan
+! Epidemik ko'rsatkichlar bo'yicha dezinfeksiya esa davlat sanitariya nazorati organlari tomonidan amalga oshiriladi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 34-modda
+? Qonunning 32-moddasiga ko'ra, yuqumli kasallik o'chog'ida kasal deb gumon qilinganlar bilan muloqotda bo'lganlar bilan nima qilinadi?
++ Laboratoriya tekshiruvidan o'tkaziladi va tibbiy kuzatuv olib boriladi
+- Hammasi darhol majburiy ravishda kasalxonaga yotqiziladi va uzoq muddat ajratib saqlanadi
+- Faqat ro'yxatga olinadi, tekshiruv va kuzatuv o'tkazilmaydi
+- Ommaviy ravishda majburiy emlanadi, laboratoriya tekshiruvisiz va kuzatuvsiz
+- Uyiga yuboriladi va 3 oy davomida jamoaga qabul qilinmaydi
+! Bu choralar infeksiya yuqish yo'llarini aniqlash va ikkilamchi holatlar oldini olishga qaratilgan.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 32-modda
+? Murakkab masalalarda turli xizmat va idoralar ishtirokidagi tematik yoki muammoli-maqsadli rejalar tashabbuskori kim bo'ladi?
++ Sanitariya-epidemiologiya xizmati epidemiologlari
+- Hududiy hokimiyat rahbarlari
+- Davolash muassasalari bosh vrachlari
+- Sanitariya-veterinariya xizmati mutaxassislari
+- Vazirlar Mahkamasi apparati xodimlari
+! Epidemiolog epidemik jarayon tuzilishini bilgani uchun tadbirlarni uch bo'g'inga moslab muvofiqlashtiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

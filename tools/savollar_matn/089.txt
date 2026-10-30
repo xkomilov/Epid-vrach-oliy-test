@@ -1,0 +1,98 @@
+=== 089
+? Korinebakteriyalar turkumidan odam uchun patogen hisoblanadigan qaysi tur difteriya qo'zg'atuvchisi deb tan olingan?
++ Corynebacterium diphtheriae
+- Corynebacterium pseudodiphtheriticum, Hofmann tayoqchasi sifatida tanilgan tur
+- Corynebacterium xerosis, odam terisida doimiy yashovchi nopatogen parazit
+- Corynebacterium ulcerans, qoramol mastitining tabiiy qo'zg'atuvchisi
+- Corynebacterium hofmanii, nafas yo'llarining saprofit difteroidi
+! Qolgan korinebakteriyalar odam terisida yashovchi nopatogen parazitlar yoki hayvonlar parazitlaridir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? C. diphtheriae koloniya morfologiyasi va virulentligiga ko'ra qaysi biovarlarga bo'linadi?
++ Gravis, intermedius va mitis
+- Alfa, beta va gamma, gemoliz xususiyatiga ko'ra
+- Typhi, paratyphi A va paratyphi B, flagellar antigenlariga ko'ra
+- Klassik, El-Tor va O139, vabo vibrionlariga o'xshash
+- Vulgaris, mirabilis va penneri, harakatchanligiga ko'ra
+! Biovarlar koloniya shakli va biokimyoviy belgilari bo'yicha farqlanadi, gravis esa nisbatan virulent hisoblanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriya tayoqchasining toksigenligi nima bilan bog'liq?
++ Bakteriyaga kirib, xromosomada profag holatida joylashgan bakteriofag bilan
+- Biovarning gravis yoki mitis ekanligi bilan, bunda toksigenlik faqat gravisga xos
+- Spora hosil qilish qobiliyati bilan, bunda sporalar toksin ajratadi
+- Mikrokapsulaning qalinligi bilan, bunda kapsulasiz shtammlar toksin hosil qilmaydi
+- Volyutin donachalari soni bilan, bunda donachasiz shtammlar toksin hosil qilmaydi
+! Fag geni ekzotoksin sintezini ta'minlaydi, shuning uchun toksigenlik biovardan emas, balki fag borligidan kelib chiqadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? C. ulcerans qaysi hayvonlarning tabiiy qo'zg'atuvchisi va odam uchun qanday ahamiyatga ega?
++ Qoramolda mastit chaqiradi; qishloq aholisida kasal qoramollar bilan muloqotda difteriyaga o'xshash kasallik chaqirishi mumkin
+- Itlarda quturish chaqiradi; shahar aholisida bemor itlar bilan muloqotda sil kasalligini chaqirishi mumkin
+- Tovuqlarda gripp chaqiradi; parrandachilikda ishlovchilarda qizamiqsimon kasallik chaqirishi mumkin
+- Kemiruvchilarda vabo chaqiradi; ovchilarda o'pka shakli bilan kechishi mumkin
+- Cho'chqalarda qizil yel chaqiradi; go'sht ishlovchilarda va qassoblarda teri shakli bilan, odatda og'ir kechishi mumkin
+! Bu tur ham toksin hosil qilishi mumkin, shuning uchun qishloq joylarda hayvonlar bilan aloqani hisobga olish zarur.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova
+? Metilen ko'ki bilan bo'yalganda difteriya tayoqchasining metaxromatik (volyutin) donachalari qanday rangga kiradi?
++ Ko'k, protoplazma esa ba'zan pushti
+- Qizil, protoplazma esa ko'k
+- Yashil, protoplazma esa sariq
+- Qora, protoplazma esa rangsiz
+- Binafsha, protoplazma esa to'q jigarrang
+! Volyutin donachalari bo'yoqni kuchli ushlaydi, shuning uchun mikroskopda tayoqcha uchlarida ko'rinadi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova
+? 3–5% konsentratsiyali oddiy dezinfeksiya vositalari difteriya qo'zg'atuvchisini qancha vaqtda o'ldiradi?
++ 20–30 daqiqada
+- 1–2 daqiqada, ya'ni darhol
+- 3–4 soatda, uzoq muddat ta'sir qilganda
+- 24 soatda, to'liq bir sutka
+- 5 kunda, bir necha marta takrorlanganda
+! Qo'zg'atuvchi yuqori harorat va dezinfeksiyaga sezgir, shuning uchun oddiy konsentratsiyalar samarali.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova
+? Difteriyada toksigenlik bo'yicha bakteriologik tashxis muddatlari qaysi javobda to'g'ri ko'rsatilgan?
++ Birlamchi tashxis 1 sutkada, yakuniy natija 4 kunda
+- Birlamchi tashxis 1 soatda, yakuniy natija 1 sutkada
+- Birlamchi tashxis 3 kunda, yakuniy natija 14 kunda
+- Birlamchi tashxis 7 kunda, yakuniy natija 30 kunda
+- Birlamchi tashxis 12 soatda, yakuniy natija 2 kunda
+! Madaniy usul koloniyalar o'sishini kutishni talab qiladi, shuning uchun yakuniy natija bir necha kun oladi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova
+? Notoksigen C. diphtheriae ajratilgan bemor epidemiologik jihatdan qanday baholanadi?
++ Tasdiqlangan difteriya hisoblanmaydi, biroq tashuvchilik va kuzatuv uchun ahamiyatga ega
+- Tasdiqlangan difteriya hisoblanadi, chunki barcha shtammlar toksin hosil qiladi
+- Tasdiqlangan difteriya hisoblanadi, agar bemorda bo'g'im og'riqlari bo'lsa
+- Epidemiologik ahamiyatga ega emas va kuzatuvdan chiqariladi
+- Faqat bolalar jamoasida ahamiyatga ega, kattalarda esa tashuvchi deb hisoblanmaydi
+! Kasallikni toksin chaqiradi, notoksigen shtamm esa klinik ko'rinish bermaydi, ammo tashuvchilik orqali tarqalishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi tashuvchilar difteriya qo'zg'atuvchisini uch oygacha ajratishi mumkin va asosiy xavf hisoblanadi?
++ Immunitetli tashuvchilar
+- Birlamchi tashuvchilar
+- Tiklanish davridagi bemorlar
+- Yara difteriyasi bilan kasallanganlar
+- Toksigen shtamm tashuvchisi bo'lgan emlanmagan bolalar
+! Emlash natijasida populyatsion immunitet shakllangan bo'lsa ham, ular qo'zg'atuvchini uzoq ajratib, boshqalarga yuqtirishi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikdagi standart ta'rifga ko'ra, davolash maqsadida antitoksin yuborilmagan bo'lsa, qaysi laboratoriya natijasi difteriya tasdig'i hisoblanadi?
++ Qon juft zardoblarida antitoksin titrining to'rt marta va undan ko'p oshishi
+- Qon zardobida antitoksin titrining 1:40 dan yuqori bo'lishi
+- Qon juft zardoblarida antitoksin titrining ikki marta oshishi
+- Burun-halqumdan notoksigen difteriya tayoqchasining ajratilishi
+- Faqat biokimyoviy xususiyatlari difteriya tayoqchasiga mos kelishi, toksigenlik tekshirilmasdan
+! Antitoksin titrining sezilarli oshishi organizm toksin bilan uchrashganini ko'rsatadi, bu esa yaqinda o'tgan infeksiya belgisi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Emlash yaxshi o'tkazilib kasallanish pasayganda toksigen va notoksigen shtammlar tashuvchanligi qanday o'zgaradi?
++ Notoksigen tashuvchanlik saqlanadi, toksigen tashuvchanlik asta-sekin kamayadi
+- Ikkala shtamm tashuvchanligi bir xil tezlikda to'liq yo'qoladi
+- Toksigen tashuvchanlik oshadi, notoksigen tashuvchanlik esa yo'qoladi
+- Ikkala shtamm tashuvchanligi o'zgarmaydi va emlash ta'sir qilmaydi
+- Toksigen tashuvchanlik saqlanadi, notoksigen tashuvchanlik asta-sekin kamayadi
+! Antitoksik immunitet toksigen shtammlarning aylanishini cheklaydi, notoksigenlar esa bunga bog'liq emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Notoksigen difteriya shtammi populyatsiyada qanday jarayon orqali toksigen shtammga aylanishi mumkin?
++ Bakteriofag bilan zararlanib, profag orqali xususiyatlari o'zgarishi bilan
+- Antibiotik ta'sirida mutatsiya natijasida, faqat qishda
+- Spora hosil qilib, tashqi muhitda uzoq saqlanishi natijasida
+- Gravis biovaridan mitisga o'tishi orqali, biokimyoviy belgilar o'zgarishi bilan
+- Plazmidli antibiotikka chidamlilik geni orqali, kapsula hosil bo'lishi bilan
+! Toksin geni fag orqali o'tishi mumkin, shuning uchun har bir ajratilgan madaniyatda toksigenlik tekshiriladi.
+@ Mavzu materiali (089.docx)
+#U 089 / 12: Notoksigen shtammning bakteriofag orqali toksigenga aylanishi haqidagi xulosa darslik asosida keltirilgan, tashqi manba bilan tasdiqlanmagan.

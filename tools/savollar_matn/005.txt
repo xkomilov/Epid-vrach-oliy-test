@@ -1,0 +1,97 @@
+=== 005
+? K. Jonsning 1940–2004-yillardagi yangi kasalliklar bazasi tahlili bo'yicha yangi kasalliklarning qancha qismi zoonozlar bo'lgan?
++ 60,3 foiz
+- 12,7 foiz
+- 25,4 foiz
+- 84,1 foiz
+- 45,0 foiz
+! Natija yangi kasalliklarning ko'pchiligi hayvonlardan odamga o'tganini ko'rsatadi, shuning uchun kuzatuvda hayvonlar ham hisobga olinadi.
+@ Jones K.E., Patel N.G., Levy M.A., et al. Global trends in emerging infectious diseases // Nature. 2008. Vol. 451
+? Jons tadqiqotiga ko'ra, yangi zoonoz kasalliklarning qancha qismi yovvoyi tabiatdan kelib chiqqan?
++ 71,8 foiz
+- 18,5 foiz
+- 35,2 foiz
+- 52,6 foiz
+- 96,3 foiz
+! Yovvoyi tabiatdan kelib chiqqan zoonozlar ulushining yuqoriligi (masalan, SARS va Ebola) yovvoyi hayvonlar bilan aloqani asosiy xavf omiliga aylantiradi.
+@ Jones K.E., Patel N.G., Levy M.A., et al. Global trends in emerging infectious diseases // Nature. 2008. Vol. 451
+? Jons bazasiga ko'ra, yangi kasallik hodisalarining eng yuqori ko'rsatkichi qaysi davrga to'g'ri kelgan?
++ 1980-yillarga, ya'ni OIV pandemiyasi davriga
+- 1940-yillarga, ya'ni Ikkinchi jahon urushi davriga
+- 1960-yillarga, ya'ni chechakni tugatish kampaniyasi davriga
+- 2000-yillarga, ya'ni SARS va qush grippi tarqalgan davrga
+- 1950-yillarga, ya'ni antibiotiklar ommaviy qo'llanila boshlagan davrga
+! Bu davrda OIV pandemiyasi paydo bo'lgani sababli yangi kasallik hodisalari soni sezilarli oshgan.
+@ Jones K.E., Patel N.G., Levy M.A., et al. Global trends in emerging infectious diseases // Nature. 2008. Vol. 451
+? Jonsning ma'lumotlariga ko'ra, yangi kasallik hodisalarining qancha qismini bakteriyalar yoki rikketsiyalar keltirib chiqargan?
++ 54,3 foizini
+- 10,8 foizini
+- 23,1 foizini
+- 79,5 foizini
+- 38,6 foizini
+! Bakteriyalar va rikketsiyalarning yuqori ulushi dori-darmonlarga chidamli mikroblar ko'pligini aks ettiradi.
+@ Jones K.E., Patel N.G., Levy M.A., et al. Global trends in emerging infectious diseases // Nature. 2008. Vol. 451
+? Jons tadqiqotiga ko'ra, yangi zoonoz va vektorli kasalliklar xavfi qaysi hududlarda yuqori?
++ Hisobot tizimi kuchsiz bo'lgan quyi kengliklarda
+- Kuzatuv tizimi rivojlangan o'rta kengliklarda
+- Aholi zichligi past, qutb yaqinidagi hududlarda
+- Faqat yirik sanoat shaharlarida va ularning chekkalarida
+- Hisobot tizimi yaxshi yo'lga qo'yilgan, yuqori kengliklardagi mamlakatlarda
+! Bunday hududlar "issiq nuqtalar" sifatida oldindan aniqlanishi va kuzatuv kuchaytirilishi lozim.
+@ Jones K.E., Patel N.G., Levy M.A., et al. Global trends in emerging infectious diseases // Nature. 2008. Vol. 451
+? Zoonozlarda odam ko'pincha qanday bo'g'in bo'lib qoladi?
++ Biologik boshi berk bo'g'in, shuning uchun qo'zg'atuvchi yashashi imkonsiz
+- Asosiy rezervuar, undan qo'zg'atuvchi yovvoyi hayvonlarga qaytib o'tadi
+- Ko'paytiruvchi bo'g'in, unda qo'zg'atuvchi yangi variantlarga o'zgaradi
+- Mexanik vektor, u qo'zg'atuvchini boshqa odamga ko'chirib beradi
+- Doimiy rezervuar, shu sababli qo'zg'atuvchi odamlar orasida uzluksiz aylanadi
+! Odam ko'pincha kasallikni hayvondan oladi, ammo odamdan odamga yuqmaydi, shuning uchun epidemik jarayon boshlanmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Xalqaro tibbiy-sanitariya qoidalari (2005) bo'yicha ishtirokchi davlat baholashdan so'ng qancha vaqt ichida JSSTni xabardor qilishi shart?
++ 24 soat ichida
+- 6 soat ichida
+- 48 soat ichida
+- 72 soat ichida
+- 7 kun ichida
+! Muddat xalqaro ahamiyatga ega favqulodda vaziyatga aylanishi mumkin hodisalar haqida tezkor ma'lumot almashish uchun belgilangan.
+@ World Health Organization. International Health Regulations (2005)
+? Tabiiy o'choqlilik ta'limotini yaratgan olim kim?
++ E.N. Pavlovskiy
+- L.V. Gromashevskiy
+- V.D. Belyakov
+- S. Morse
+- K. Jons
+! Pavlovskiy ta'limotida kasallik o'choqlari yovvoyi hayvonlar va ularning parazitlari orasida tarixiy shakllangan biotsenotik munosabatlar tufayli saqlanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? S. Morse ta'rifiga ko'ra, yangi (paydo bo'layotgan) yuqumli kasalliklar qanday infeksiyalar?
++ Aholida yangidan paydo bo'lgan yoki ilgaridan mavjud bo'lib, kasallanishi yoki geografik tarqalishi tez o'sayotgan infeksiyalar
+- Faqat laboratoriyada sun'iy ravishda hosil qilingan va tabiatda uchramaydigan yangi qo'zg'atuvchilar keltirib chiqargan infeksiyalar
+- Oldin ma'lum bo'lib, vaksina yordamida butunlay tugatilgan va qayta uchramaydigan infeksiyalar
+- Hayvonlar orasida tarqalib, odamga yuqmaydigan va aholi uchun xavf tug'dirmaydigan infeksiyalar
+- Aholida o'tgan asrlarda keng tarqalib, hozirda kasallanishi sekin kamayayotgan infeksiyalar
+! Ta'rifda ham yangidan paydo bo'lgan, ham tarqalishi kengayayotgan kasalliklar kiradi, masalan OIV/OITS va Layme kasalligi.
+@ Morse S.S. Factors in the emergence of infectious diseases // Emerging Infectious Diseases. 1995. Vol. 1, No. 1
+? Epidemik jarayonning o'zini-o'zi boshqarishi nazariyasi haqida qaysi gap to'g'ri?
++ Jarayon parazit va xo'jayin populyatsiyalarining o'zaro ta'siri natijasida ichkaridan boshqariladi
+- Jarayon faqat tashqi ma'muriy choralar orqali boshqariladi, tabiiy mexanizmlar rol o'ynamaydi
+- Jarayon faqat iqlim o'zgarishlariga bog'liq bo'lib, qo'zg'atuvchi populyatsiyasiga bog'liq emas
+- Jarayon har doim emlash qamroviga to'g'ridan-to'g'ri bog'liq bo'lib, boshqa omillar ahamiyatsiz
+- Jarayon bemorlarni ajratish tufayli o'zgaradi, ijtimoiy omillar esa unga ta'sir ko'rsatmaydi
+! Belyakov va hamkasblari bu nazariyani XX asrning 70-yillarida asoslab berishgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Yangi zoonoz infeksiya odamga o'tganda pandemiya xavfi qachon paydo bo'ladi?
++ Qo'zg'atuvchi odamdan odamga ham uzatilsa
+- Qo'zg'atuvchi faqat hayvonlar orasida aylansa
+- Odam kasallik belgilarisiz yengil o'tkazsa
+- Faqat bitta bemor kasalxonaga yotqizilsa
+- Hayvonlarda o'lim holatlari kuzatilsa
+! Odamdan odamga uzatilishi epidemik jarayonning boshlanishi demak, boshi berk bo'g'indan farqli ravishda.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Vrach-epidemiolog noma'lum etiologiyali kasallik aniqlanganda epidemiologik anamnezda nimani aniqlashi kerak?
++ Hayvonlar bilan aloqa, tabiiy o'choqqa borish va xorijiy safarlarni
+- Bemorning oilaviy daromadi va turmush sharoiti haqidagi ma'lumotlarni
+- Emlash kartochkasidagi bolalik davridagi ma'lumotlarni va ularning sanalarini
+- Bemorning kasbiy ma'lumotlari va ish staji haqidagi ma'lumotlarni
+- Qarindoshlarining yashash manzillari haqidagi ma'lumotlarni
+! Yangi kasalliklarning ko'pchiligi zoonoz bo'lgani uchun hayvon bilan aloqa va safarlar haqidagi ma'lumot qo'zg'atuvchi manbasini ko'rsatadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

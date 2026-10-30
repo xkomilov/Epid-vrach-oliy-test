@@ -1,0 +1,102 @@
+=== 028
+? Nozokomial (shifoxona ichi) infeksiyalarning o'ziga xosligi nimada?
++ Ko'pincha shartli-patogen va antibiotiklarga chidamli mikroorganizmlar keltiradi, ojiz immunitetli bemorlarda uchraydi
+- Sog'lom odamlarda uchraydi, tibbiy aralashuvlar (operatsiya, kateter) bilan hech qanday aloqasi yo'q, antibiotiklarga sezgir
+- Doimo bitta aniq qo'zg'atuvchi keltiradi va antibiotiklarga to'liq sezgir bo'ladi
+- Shifoxona tashqarisida aholi orasida tarqaladi va muassasaga umuman olib kirilmaydi
+- Asosan transmissiv yo'l bilan, qon so'ruvchi hasharotlar orqali yuqadi
+! Bunday bemorlar va invaziv jarayonlar sharoitida mikroorganizmlar jiddiy infeksiya keltirishi mumkin, shu bois nazorat har bir bosqichda xavfni kamaytirishi kerak.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Epidemiolog qo'l gigiyenasini nima uchun alohida kuzatadi?
++ Chunki bu infeksion nazoratning eng oddiy, arzon va ayni paytda eng samarali chorasi
+- Chunki u sterilizatsiyani to'liq almashtiradi va boshqa choralarni keraksiz qiladi
+- Chunki u faqat jarrohlik bo'limlari uchun majburiy, boshqa bo'limlarda shart emas
+- Chunki u antibiotiklarga chidamlilikni bevosita davolab, shtammlarni yo'qotadi
+- Chunki qo'l gigiyenasi nozokomial infeksiyalar ro'yxatiga kiritilgan qo'zg'atuvchidir
+! Qo'l orqali yuqish eng keng tarqalgan yo'llardan biri bo'lgani uchun uni to'g'ri bajarish minimal xarajat bilan yuqori natija beradi.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Antimikrob chidamlilik bo'yicha shifoxona epidemiologining vazifasi qaysi?
++ Antibiotiklardan oqilona foydalanishni targ'ib qilish, chidamli shtammlarni kuzatish, mikrobiologik monitoringni tahlil qilish
+- Yangi antibiotiklarni ishlab chiqarish, ularning klinik sinovlarini o'tkazish va dori vositasi sifatida ro'yxatdan o'tkazish
+- Barcha bemorlarga profilaktik maqsadda keng spektrli antibiotiklarni buyurish
+- Antibiotiklar savdosini tashkil etish va dorixonalar narxini tartibga solish
+- Laboratoriya natijalarini e'tiborsiz qoldirib, chidamlilik muammosini klinisistlarga topshirish
+! Epidemiolog chidamlilikni kuzatadi va izolyatsiya hamda dezinfeksiyani kuchaytirib, klinisistlar bilan oqilona buyurishni joriy etadi.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Tibbiy xodimda ignadan sanchilish yuz bergan holatda epidemiolog nimani tashkil etadi?
++ Shoshilinch (post-ekspozitsion) profilaktika choralarini
+- Xodimni ishdan bo'shatish bo'yicha intizomiy jarayonni
+- Rejali yillik ta'tilni darhol berishni
+- Xodimning shaxsiy himoya vositalarini xarid qilishni
+- Barcha bemorlarni ommaviy qayta tekshirishni
+! Ekspozitsiyadan keyin imkon qadar tezroq profilaktika yuqish xavfini kamaytiradi.
+@ Mavzu materiali (028.docx)
+? Shifoxona epidemiologi tibbiy xodimlarni qaysi infeksiyaga qarshi emlashni tashkil etadi?
++ Virusli gepatit B
+- Sariq isitma (flavivirus)
+- Quturish (rabies)
+- Kuydirgi (anthrax)
+- Vabo (xolera)
+! Xodimlar qon va tana suyuqliklari bilan aloqada bo'lgani uchun qon orqali yuqadigan gepatit B xavfi yuqori.
+@ Mavzu materiali (028.docx)
+? Shifoxona ichida nozokomial infeksiya avj olganda epidemiolog nimani qiladi?
++ O'choqni tekshirib, manba va yuqish yo'lini aniqlaydi, bartaraf etish choralarini tashkil etadi
+- Bemorlarni tekshirmasdan, barcha xodimlarni darhol ishdan chetlatadi
+- O'choq haqidagi ma'lumotlarni yashirib, tashqi tekshiruvlardan himoya qiladi
+- Davolash standartlarini o'zgartiradi, ammo boshqa tadbirlarni belgilamaydi va natijani nazorat qilmaydi
+- Chora ko'rmasdan, infeksiya o'z-o'zidan to'xtashini kutadi
+! Samarali chora tanlash uchun avval manba va yuqish yo'lini bilish kerak, kechikish esa tarqalishni kuchaytiradi.
+@ Mavzu materiali (028.docx)
+? Infeksion nazorat komissiyasi nizomida DPM va DSENM xodimlari bilimini attestatsiyadan o'tkazish qanday chastotada belgilangan?
++ Yiliga bir marta
+- Oyiga bir marta
+- Har chorakda bir marta
+- Uch yilda bir marta
+- Besh yilda bir marta
+! Bilimning yangilanib turishini ta'minlash uchun attestatsiya muntazam, har yili o'tkaziladi.
+@ O'zR SSV 02.04.2019-yildagi 92-son buyrug'i va 1-ilova (infeksion nazorat komissiyasi to'g'risidagi nizom)
+? Infeksion nazorat komissiyasi nizomida parenteral muolajalarni o'rganish qanday davriylikda belgilangan?
++ Oylik
+- Haftalik
+- Choraklik
+- Yillik
+- Ikki yilda bir marta
+! Parenteral muolajalar qon orqali infeksiya yuqish xavfi yuqori bo'lgani uchun tez-tez nazorat qilinadi.
+@ O'zR SSV 02.04.2019-yildagi 92-son buyrug'i va 1-ilova (infeksion nazorat komissiyasi to'g'risidagi nizom)
+? Infeksion nazorat komissiyasining asosiy yo'nalishi nima?
++ Shifoxona ichi infeksiyalarini aniqlash va ro'yxatga olishni yo'lga qo'yish, profilaktik choralarni ishlab chiqish
+- Bemorlarga dori buyurish tartibini belgilash, davolash narxlarini tasdiqlash va tibbiy yordam sifatini baholash
+- Muassasa xodimlarining ish haqi va mukofotlari miqdorini belgilash
+- Tibbiy asbob-uskunalarni xarid qilish bo'yicha tender o'tkazish
+- Bemorlarni qabul qilish navbatini tuzish va yotoq o'rinlarini bo'lish
+! Komissiya infeksiyalarni aniqlash, hisobga olish va ularni oldini olish choralari ustida ishlaydi.
+@ O'zR SSV 02.04.2019-yildagi 92-son buyrug'i va 1-ilova (infeksion nazorat komissiyasi to'g'risidagi nizom)
+? JSST infeksion nazorat dasturlarining samaradorligi qaysi ko'rsatkich bilan baholanishini ta'kidlaydi?
++ Bemorlar orasida tibbiy yordam bilan bog'liq infeksiyalar ko'rsatkichining kamayishi
+- Muassasadagi yotoq o'rinlari sonining ko'payishi
+- Antibiotiklar sotuvining oshishi, dori xarajatlarining kengayishi va muassasa daromadining ko'payishi
+- Tekshiruvlar sonining ko'payishi va dalolatnomalar soni
+- Xodimlar sonining ortishi va ish haqi fondining kengayishi
+! Dastur maqsadi bemorlarni infeksiyadan himoya qilish, shu sababli natija infeksiyalar kamayishi bilan o'lchanadi.
+@ WHO. Guidelines on core components of infection prevention and control programmes (2016)
+? Shifoxona o'chog'ida yagona manbani aniqlash uchun zarur bo'lganda qo'zg'atuvchi shtammlari qanday taqqoslanadi?
++ Molekulyar usulda
+- Faqat tashqi ko'rinishi bo'yicha, koloniyalar rangiga qarab
+- Bemorlarning yoshi va jinsiga qarab
+- Palata raqamlari va yotoq o'rinlari bo'yicha
+- Davolash muddatiga qarab
+! Molekulyar usul shtammlarning genetik jihatdan bir xil ekanini aniqlab, ularning yagona manbadan kelganini ko'rsatishi mumkin.
+@ Mavzu materiali (028.docx)
+? Epidemiolog xodimlarga nisbatan qanday rolda ishlaganda infeksion xavfsizlik madaniyati shakllanadi?
++ Talab qo'yuvchi nazoratchi bilan birga yordam beruvchi maslahatchi va o'qituvchi sifatida
+- Jazolovchi inspektor sifatida, tushuntirish va o'qitish ishlarisiz, qoidabuzarliklarni qayd etib
+- Muassasa ishiga aralashmaydigan va hech qanday ko'rsatma bermaydigan tashqi kuzatuvchi sifatida
+- Faqat hujjatlarni arxivlovchi ma'mur sifatida
+- Klinik qarorlarni bekor qiluvchi yagona hokim sifatida
+! Qoidalarni rasmiy majburiyatdan ongli odatga aylantirish yordam va o'qitishni talab qiladi.
+@ Mavzu materiali (028.docx)
+#U 028 / 4: ignadan sanchilishda post-ekspozitsion profilaktikani epidemiolog tashkil etishi faqat mavzu materialiga tayangan.
+#U 028 / 5: epidemiologning xodimlarni gepatit B ga qarshi emlashni tashkil etishi faqat mavzu materialiga tayangan.
+#U 028 / 6: o'choqdagi ish tartibi faqat mavzu materialiga tayangan.
+#U 028 / 11: shtammlarni molekulyar usulda taqqoslash faqat mavzu materialiga tayangan.
+#U 028 / 12: maslahatchi va o'qituvchi roli faqat mavzu materialiga tayangan.

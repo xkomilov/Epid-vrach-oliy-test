@@ -1,0 +1,99 @@
+=== 064
+? Poliomielit qo'zg'atuvchisi poliovirusning nechta serologik turiga ega?
++ Uchta (I, II va III)
+- Ikkita (I va III), ikkinchi tur esa kasallik chaqirmaydi
+- To'rtta (I–IV)
+- Bitta
+- Beshta
+! Har bir tur kasallik chaqirishi mumkin, shu sababli vaksina uchala turga qarshi himoya beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Poliovirus yuqtirganlarning taxminan qancha qismida paralich rivojlanadi?
++ 1 foiz atrofida
+- 10 foiz atrofida, qolganlarida belgisiz tashuvchilik kuzatiladi
+- 25 foiz atrofida
+- 50 foiz atrofida
+- 90 foiz atrofida
+! Ko'pchilik yuqtirganlarda kasallik belgisiz yoki yengil kechadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Poliomielitning yashirin davri qancha davom etadi?
++ 3–35 kun, o'rtacha 7–14 kun
+- 1–3 kun, o'rtacha 2 kun, ba'zan bir necha soatgacha qisqaradi
+- 40–60 kun, o'rtacha 50 kun
+- 2–3 soat
+- 3–6 oy, o'rtacha 4 oy
+! Muddat keng oraliqda o'zgaradi, ko'pincha ikki hafta atrofida bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Poliomielitdan keyingi immunitet haqida qaysi fikr to'g'ri?
++ U tur-spetsifik va uzoq saqlanadi, shuning uchun har bir turga qarshi alohida himoya zarur
+- U barcha uch turga nisbatan umumiy bo'lib, bitta turdan keyin hayot bo'yi himoya beradi
+- U qisqa muddatli bo'lib, bir necha oydan so'ng yo'qoladi va qayta kasallanish ko'p uchraydi
+- U faqat ona suti orqali beriladi
+- U kasallikdan keyin umuman hosil bo'lmaydi
+! Bir turga qarshi hosil bo'lgan antitanalar boshqa turdan himoya qilmaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'tkir bo'shashgan shol aniqlangandan keyin najas namunalari qanday olinadi?
++ 3 kun ichida 24 soat oralig'ida 2 ta najas namunasi
+- 1 ta namuna, 7 kundan keyin va faqat bemor tuzalgach
+- 3 ta namuna, har 1 soatda
+- 5 ta namuna, har 3 kunda
+- 2 ta namuna, 72 soat oraliqda, bemor tuzalib bo'lgach, keyin esa laboratoriyaga yuboriladi
+! Ikki namuna virusni ajratish ehtimolini oshiradi, chunki virus najasga bir tekis ajralmaydi.
+@ O'zR SSV buyrug'iga 7-ilova (OBSh namunalarini yig'ish va yetkazish bo'yicha uslubiy ko'rsatma)
+? OBSh namunalari qanday sharoitda saqlanadi va yetkaziladi?
++ +4–8 °C da saqlanib, birinchi namunadan keyin 72 soat ichida yetkaziladi
+- -20 °C da muzlatilib, 7 kun ichida yetkaziladi va oddiy transportda tashiladi
+- +20–25 °C xona haroratida, 24 soat ichida
+- +37 °C termostatda, 6 soat ichida
+- +40 °C da, 12 soat ichida
+! Sovuqlik zanjiri virusning faolligini saqlab qoladi.
+@ O'zR SSV buyrug'iga 7-ilova (OBSh namunalarini yig'ish va yetkazish bo'yicha uslubiy ko'rsatma)
+? Emlash bilan bog'liq paralitik poliomielit ta'rifida shol emlangandan keyin qancha muddatda rivojlanadi?
++ Kamida 4 kun va ko'pi bilan 30 kun ichida
+- Emlangan kunning o'zida yoki ertasiga, vaksina virusi ajratilmasa ham
+- 31 dan 60 kungacha, kasallik uzoq davom etsa
+- 60 kundan keyin
+- 90 kundan keyin
+! Muddat vaksina virusi bilan bog'liqlikni istisno etish uchun belgilangan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekiston kirgan Yevropa mintaqasi poliomielitdan xoli deb qaysi yilda sertifikatlangan?
++ 2002
+- 1994, Amerika mintaqasi bilan bir vaqtda
+- 1998
+- 2000
+- 2008
+! O'zbekistonda oxirgi bemor 1995-yilda qayd etilgan edi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Qaysi vaksina ichak immunitetini shakllantiradi?
++ Og'iz orqali beriladigan tirik (Sabin) vaksina
+- Inaktivlangan Solk vaksinasi, mushak orasiga yuborilganda ichakda sekretor IgA ni yaxshi hosil qiladi
+- BCG vaksinasi
+- Difteriya-tetanus anatoksini
+- Gepatit B ga qarshi rekombinant vaksina
+! Tirik vaksina ichak shilliq qavatida mahalliy IgA hosil qiladi, inaktivlangan vaksina esa buni bermaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Poliomyelitis (fact sheet)
+? Milliy kalendarda OPV-1, OPV-2 va OPV-3 qaysi oylikda beriladi?
++ 2, 3 va 4 oylikda
+- 1, 2 va 3 oylikda, tug'ruqxonada OPV-0 dan keyin
+- 3, 4 va 5 oylikda
+- 2, 4 va 6 oylikda
+- 6, 9 va 12 oylikda
+! IPV esa 4 oylikda qo'shiladi.
+@ O'zR profilaktik emlashlar kalendar rejasi; SanQvaM № 0239-07/3
+? Sanitariya qoidalari bo'yicha kalendar emlashning maqsadli qamrovi qanday?
++ Kamida 95 foiz
+- Kamida 50 foiz, chunki bu poliomielit uchun yetarli jamoaviy immunitet hosil qiladi
+- Kamida 70 foiz
+- Kamida 85 foiz
+- Kamida 100 foiz
+! Yuqori qamrov poliomielitdan xoli hudud maqomini saqlashga imkon beradi.
+@ SanQvaM № 0239-07/3
+? Immunoglobulin yuborilgandan keyin poliomielitga qarshi emlash qancha vaqtdan so'ng o'tkaziladi?
++ Bir yarim oydan keyin
+- Bir haftadan keyin
+- Ikki haftadan keyin, immunoglobulin yuborilgan kuni emlashdan afzalroq
+- Uch oydan keyin
+- Olti oydan keyin
+! Immunoglobulin antitanalari tirik vaksina virusini zararsizlantirib, emlash samarasini kamaytirishi mumkin.
+@ SanQvaM № 0239-07/3
+#U 064 / 5: namunalarni yig'ish tartibi uslubiy ko'rsatmada keltirilgan, hujjat sanasi va raqami nusxada ko'rsatilmagan, tashqi manba bilan tasdiqlanmagan.
+#U 064 / 6: namunalarni saqlash va yetkazish sharti uslubiy ko'rsatmada keltirilgan, hujjat sanasi va raqami nusxada ko'rsatilmagan, tashqi manba bilan tasdiqlanmagan.

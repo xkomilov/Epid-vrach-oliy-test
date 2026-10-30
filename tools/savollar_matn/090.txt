@@ -1,0 +1,98 @@
+=== 090
+? Darslikka ko'ra, hozirgi sharoitda difteriya bilan kasallanishning ko'tarilishi nima natijasida ro'y bermoqda?
++ Maxsus profilaktika tizimidagi buzilishlar oqibatida
+- Tabiiy shakllanadigan populyatsion immunitet so'nishi natijasida
+- Qo'zg'atuvchining tashqi muhitda chidamliligi ortishi oqibatida
+- Qishloq aholisining kasal qoramollar bilan muloqoti ko'payishi oqibatida
+- Qo'zg'atuvchining antibiotiklarga chidamli shtammlari paydo bo'lishi oqibatida
+! Kasallanish ko'tarilishi emlash qamrovi va sifati pasaygan joylarda yuz bergan, tabiiy immunitet so'nishi esa asosiy sabab emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016; WHO. Diphtheria (fact sheet)
+? Difteriyaning yashirin davri odatda qancha davom etadi?
++ 2–5 kun, kamdan-kam 10 kungacha
+- 11–22 kun, kamdan-kam 30 kungacha
+- 8–21 kun, o'rtacha 14 kun
+- 3–14 kun, o'rtacha 7–8 kun
+- 1 kun, uzog'i bilan 12 soat
+! Bu muddat toksin hosil qiluvchi bakteriyaning yuqori nafas yo'llarida ko'payib, klinik belgilar chiqarishi uchun zarur vaqtga mos.
+@ WHO. Diphtheria (fact sheet)
+? Emlashgacha davrdagi epidemiyalarda aholining taxminan qancha qismi kasallangan, qolganlari esa qanday yo'l bilan immunitet orttirgan?
++ Taxminan 20% kasallangan; qolgan 80% belgisiz shakl va tashuvchilik hisobiga immunitet orttirgan
+- Taxminan 80% kasallangan; qolgan 20% tug'ma immunitet hisobiga himoyalangan
+- Taxminan 50% kasallangan; qolganlari faqat vaksina hisobiga immunitet orttirgan
+- Taxminan 5% kasallangan; qolgan 95% ona antitelalari hisobiga himoyalangan
+- Taxminan 20% kasallangan; qolgan 80% faqat vaksina hisobiga himoyalangan, tashuvchilik kuzatilmagan, belgisiz shakl bo'lmagan
+! Qo'zg'atuvchi bilan yashirin uchrashuvlar antitoksik immunitet shakllanishiga olib kelgan, shuning uchun hamma ham kasallanmagan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriyaning ko'p yillik dinamikasi boshqa boshqariladigan havo-tomchi infeksiyalardan nimasi bilan farq qiladi?
++ Doimiy davriylik yo'q: ko'tarilishlar 8, 10, 12 va hatto 20 yil oralig'ida kuzatilgan
+- Qat'iy 3–5 yillik davriylik saqlanadi va emlashdan keyin ham o'zgarmaydi
+- Qat'iy 1 yillik davriylik bor, ko'tarilish har yili bahorda kuzatiladi
+- Davriylik 11–22 yil oralig'ida, qizilchadagi kabi bir xil bo'lib qoladi
+- Davriylik faqat shaharlarda 3–5 yil oralig'ida kuzatiladi, qishloqlarda esa ko'tarilish bo'lmaydi
+! Kasallanish ko'tarilishlari immun qatlam holatiga va emlash tizimidagi uzilishlarga bog'liq bo'lgani uchun qat'iy muddatga ega emas.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriyada mavsumiy ko'tarilish qanday kechadi?
++ Kuzda bolalar jamoalari shakllanishi bilan boshlanib, kuz oxiri va qishda eng yuqori darajaga yetadi
+- Bahorda boshlanib, yoz oylarida eng yuqori darajaga yetadi va kuzda pasayadi
+- Yil davomida bir tekis kuzatiladi, mavsumiy tebranish bo'lmaydi
+- Yozda suv havzalari ifloslanishi bilan boshlanib, avgustda eng yuqori bo'ladi
+- Qishning oxirida boshlanib, bahorda emlash kampaniyasidan so'ng ham, yozda yanada kuchayadi
+! Qishda odamlar yopiq xonalarda zich muloqot qiladi, bu esa havo-tomchi yo'li bilan yuqishni kuchaytiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Emlashgacha davrda difteriya bilan asosan qaysi yoshdagi bolalar xavf guruhini tashkil qilgan?
++ 4–7 yoshli bolalar
+- 0–1 yoshli chaqaloqlar
+- 15–17 yoshli o'smirlar
+- 40–50 yoshli kattalar
+- 60 yoshdan oshgan keksalar
+! Bolalar jamoalariga kirish bilan aloqa ko'payadi, ona antitelalari esa allaqachon yo'qolgan bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda 4917 kishini serologik tekshirishda qancha ulushda himoya titri 1:40 va undan yuqori topilgan?
++ 68,3%
+- 98,0%
+- 84,1%
+- 50,0%
+- 20,5%
+! Natija aholining bir qismi yetarli himoyaga ega emasligini ko'rsatadi, shuning uchun qamrov hisobotiga qo'shimcha serologik mezon qo'llanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriyaga qarshi emlash samaradorligini baholash uchun zardoblar vaksinatsiya va revaksinatsiyadan taxminan qancha vaqt o'tgach yig'ilib, antitelalar titri o'rganiladi?
++ Taxminan 6 oy o'tgach
+- Taxminan 3 kun o'tgach
+- Taxminan 2 hafta o'tgach
+- Taxminan 5 yil o'tgach
+- Taxminan 10 yil o'tgach
+! Bu muddatda emlashdan keyingi immunitet saqlanishi yoki so'nishi aniq ko'rinadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikda difteriyaga qarshi revaksinatsiya qaysi yoshlarda zarur deb ta'kidlangan?
++ 16 oylik, 7 yosh, 16 yosh va kattalar uchun
+- 2 oylik, 4 yosh, 12 yosh va faqat keksalar uchun
+- 6 oylik, 10 yosh, 20 yosh va tug'ish yoshidagi ayollar uchun
+- 12 oylik, 6 yosh, 15 yosh va faqat tibbiyot xodimlari uchun
+- 3 oylik, 5 yosh, 14 yosh va chet elga ketuvchilar uchun
+! Bolalikda orttirilgan himoya vaqt o'tishi bilan so'nadi, shuning uchun muntazam revaksinatsiya talab etiladi.
+@ Mavzu materiali (090.docx)
+? Difteriyada toksigenlik bo'yicha laboratoriya muddatlari qaysi javobda to'g'ri keltirilgan?
++ Birlamchi tashxis 1 sutkada, yakuniy natija 4 kunda
+- Birlamchi tashxis 4 kunda, yakuniy natija 1 sutkada
+- Birlamchi tashxis 1 soatda, yakuniy natija 2 soatda
+- Birlamchi tashxis 7 kunda, yakuniy natija 14 kunda
+- Birlamchi tashxis 3 kunda, yakuniy natija 10 kunda
+! Madaniy usul vaqt talab qilgani uchun klinik gumonda choralar yakuniy natijani kutmasdan boshlanadi.
+@ O'zR SSV 2015-yil 1-maydagi 177-son buyrug'iga 3-ilova
+? Epidemiologik nazoratda emlash qamrovi hisobotidan tashqari nima uchun 1:40 va undan yuqori titrli shaxslar ulushi mustaqil mezon sifatida baholanadi?
++ Hisobotdagi yuqori qamrov real immunitetni kafolatlamaydi
+- Serologik natija emlash kalendarini to'liq almashtiradi
+- Titr faqat kasallik o'tkazganlarda aniqlanadi
+- Emlash qamrovi hisobotlari rasmiy ravishda yuritilmaydi
+- Serologik tekshiruv faqat kasallangan bemorlarda o'tkaziladi, aholida emas
+! Emlash hisobi va real antitelalar darajasi o'rtasida farq bo'lishi mumkin, shu sababli serologik himoyalanganlik alohida baholanadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Difteriyaga qarshi rejalashtirishda emlash qamrovi kamida qancha bo'lishi ko'zda tutiladi?
++ 95%
+- 70%
+- 80%
+- 85%
+- 100%
+! Yuqori qamrov populyatsion immunitetni ta'minlab, emlanmaganlarni ham himoya qiladi va toksigen shtamm aylanishini kamaytiradi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+#U 090 / 9: Revaksinatsiya yoshlari (16 oylik, 7 yosh, 16 yosh) darslik asosida keltirilgan; 10 yillik muddat milliy hujjatda topilmagan, tashqi manba bilan tasdiqlanmagan.

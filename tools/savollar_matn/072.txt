@@ -1,0 +1,97 @@
+=== 072
+? Epidemik parotitning yashirin davri qancha davom etadi?
++ 11–25 kun, ko'pincha 15–18 kun
+- 2–5 kun, kamdan-kam 10 kungacha
+- 3–7 kun, ko'pincha 5 kun
+- 30–40 kun, ko'pincha 35 kun
+- 5–10 kun, ko'pincha 7 kun
+! Uzoq yashirin davr bemor aloqadorlarini uzoq muddat kuzatishni talab qiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, epidemik parotit holatlarining taxminan qancha qismi belgisiz kechib, ro'yxatga olinmaydi?
++ 40%
+- 10%
+- 20%
+- 65%
+- 90%
+! Belgisiz shakllar manbani aniqlashni qiyinlashtiradi, shu sababli manba atigi yarmiga yaqin holatda topiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Jinsiy balog'at davrida parotit asorati sifatida o'g'il bolalarning qancha qismida orxit rivojlanadi?
++ 20–30%
+- 1–2%
+- 5%
+- 50–60%
+- 80–90%
+! Orxit keyinchalik bepushtlikka olib kelishi mumkin, qizlarda esa oofarit ancha kam uchraydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, tirik parotit vaksinasi qaysi shtammdan va kim rahbarligida yaratilgan?
++ Smorodintsev rahbarligida L-3 shtammidan
+- Hilleman rahbarligida Jeryl Lin shtammidan
+- Sabin rahbarligida zaiflashtirilgan Sabin shtammidan
+- Paster rahbarligida zaiflashtirilgan «Pasteur» shtammidan
+- Kalmett va Gerin rahbarligida BCG shtammidan
+! Boshqa nomlar poliomielit, quturish yoki sil vaksinalari yoki boshqa mamlakat vaksinalari bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Milliy emlash kalendarida KPK-1 (qizamiq, qizilcha, parotit) qaysi yoshda qilinadi?
++ 12 oylikda
+- 6 oylikda
+- 4 oylikda
+- 16 oylikda
+- 6 yoshda
+! Ikkinchi doza (KPK-2) 6 yoshda beriladi, shu orqali ikki dozali himoya hosil qilinadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Darslikka ko'ra, parotit bemori bilan muloqotda bo'lganlar necha kun tibbiy kuzatuvda ushlanadi?
++ 21 kun
+- 7 kun
+- 10 kun
+- 14 kun
+- 35 kun
+! Muddat yashirin davrning uzunligiga mos bo'lib, kasallik rivojlanishi mumkin bo'lgan davrni qamrab oladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Emlashga qarshi ko'rsatmasi bo'lgan aloqadorlarga qanday passiv immunoprofilaktika vositasi tavsiya etiladi?
++ Gomologik immunoglobulin
+- Tirik parotit vaksinasining qo'shimcha dozasi
+- Keng doiradagi antibiotiklar bilan profilaktik kurs
+- Parotit antitoksini bo'lgan ot zardobi
+- Rekombinant interferon preparatlari bilan kurs
+! Tayyor antitelalar vaksina yuborish mumkin bo'lmaganda vaqtincha himoya beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, ommaviy emlashdan keyin parotit bilan kasallanganlar yosh tarkibi qanday o'zgargan?
++ 10–14, 15–19 yoshlilar va kattalar ulushi oshgan, 3–6 yoshlilar ulushi kamaygan
+- 0–2 yoshdagi chaqaloqlar ulushi oshgan, kattalar ulushi esa kamaygan
+- 3–6 yoshlilar ulushi 29,9% dan 50% gacha oshib, o'smirlar ulushi kamaygan
+- Tarkib o'zgarmagan, 14 yoshgacha bolalar yana kasallanganlarning 95% ini tashkil etgan
+- Faqat 60 yoshdan oshgan keksalar kasallangan, bolalar umuman kasallanmay qo'ygan
+! Birlamchi emlashdan keyingi sun'iy immunitet davomiyligining yetarli emasligi kasallikning «keksayishiga» sabab deb ko'rsatiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Epidemik parotitda kasallanishning mavsumiyligi qanday kuzatiladi?
++ Yozda kam, kuzdan ko'tarila boshlaydi, qish va bahorda yuqori darajaga chiqadi
+- Yozning o'rtasi va kuz boshida eng yuqori, qishda esa minimal darajada bo'ladi
+- Bahor oxiri va yoz boshida qayd etiladi, qolgan fasllarda deyarli uchramaydi
+- Mavsumiylik umuman yo'q, kasallanish yil davomida tekis taqsimlangan bo'ladi
+- Faqat qishda qayd etiladi, bahor va kuzda esa kasallik hech uchramaydi
+! Kuzdagi ko'tarilish asosan bolalar jamoalariga yangi qabul qilingan moyil bolalar bilan bog'liq.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Standart ta'rifga ko'ra, parotitning tasdiqlangan holati qachon deb hisoblanadi?
++ Shubhali yoki ehtimoli holat laboratoriyada tasdiqlanganda, klinik belgilar bo'lmasa ham
+- Bo'yin va so'lak bezlarining og'riqli kattalashuvi bor har qanday bemor aniqlanganda
+- Klinik belgilar bo'lgan va tasdiqlangan holat bilan epidemiologik aloqasi bor holat aniqlanganda
+- Bemor kamida 9 kun ajratilib, klinik belgilari to'liq yo'qolganda
+- Aloqadorlarning yarmidan ko'pi kasallanganda va o'choq yopilganda
+! Epidemiologik aloqa bilan klinik belgilar ehtimoli holatni beradi, laboratoriya tasdig'i esa yakuniy toifani belgilaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Homiladorlikning dastlabki uch oyida parotit bilan kasallanish nima uchun xavfli?
++ O'lik tug'ilishga sabab bo'lishi mumkin
+- Chaqaloqda katarakta va tug'ma yurak nuqsonlari bilan kechadigan sindromga olib keladi
+- Tug'ruq paytida chaqaloqqa virusli gepatit B yuqishiga sabab bo'ladi
+- Onada qayta kasallanish yuz berib, tug'ilgan chaqaloqda umrbod immunitet hosil bo'lishiga olib keladi
+- Ona sutida virus bo'lgani uchun go'dakni ko'krak bilan oziqlantirishni imkonsiz qiladi
+! Katarakta va yurak nuqsonlari qizilchaga xos, parotitda esa asosiy xavf homila nobud bo'lishidir.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, ommaviy emlashgacha 14 yoshgacha bolalar parotit bilan kasallanganlarning qancha qismini tashkil etgan?
++ 95%
+- 30%
+- 50%
+- 65%
+- 80%
+! Emlashdan keyin kasallik kattaroq yoshga siljigani sababli bu ulush kamaygan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

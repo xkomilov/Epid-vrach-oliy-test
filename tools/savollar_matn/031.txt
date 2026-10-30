@@ -1,0 +1,97 @@
+=== 031
+? Sterilizatsiyaning dezinfeksiyadan asosiy farqi nimada?
++ Sterilizatsiya sporalar kabi eng chidamli shakllarni ham to'liq yo'q qilib, mutlaq mikrobsizlikni ta'minlaydi
+- Sterilizatsiya faqat vegetativ patogen shakllarni yo'qotadi, sporalar esa saqlanib qolishiga yo'l qo'yiladi va bu normal hisoblanadi
+- Sterilizatsiya tashqi muhit obyektlarida yuqish omillarini kamaytiradi, lekin tibbiy asboblarga umuman qo'llanilmaydi
+- Sterilizatsiya hasharotlar va kemiruvchilar sonini nazorat qilishga qaratilgan tadbirlar majmuasidir
+- Sterilizatsiya aholini vaksinalar yordamida emlash orqali qo'zg'atuvchiga qarshi immunitet hosil qilishga qaratilgan
+! Dezinfeksiya asosan vegetativ shakllarni yo'qotsa, sterilizatsiya sporalarni ham o'ldirib, to'liq mikrobsizlikka erishadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Sterilizatsiya samaradorligini tekshirishning qaysi turi eng ishonchli hisoblanadi?
++ Test-mikroorganizm sporalaridan foydalanadigan bakteriologik (biologik) nazorat
+- Faqat indikatorlar rangining o'zgarishiga asoslangan kimyoviy nazorat, chunki u jarayonning barcha jihatlarini qamrab oladi
+- Harorat, bosim va vaqtni o'lchab qayd etadigan fizik nazorat, u sporalar o'limini bevosita isbotlaydi
+- Steril buyumlarning tashqi ko'rinishi va qadog'ining butunligini ko'zdan kechiruvchi vizual nazorat
+- Xodimlar bilan suhbat o'tkazish va sterilizatsiya jurnali yozuvlarini hujjatlar bo'yicha o'rganish
+! Biologik nazorat sporalar tirik qolgan-qolmaganini bevosita ko'rsatadi, fizik va kimyoviy usullar esa faqat bilvosita ko'rsatkichlarni beradi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); SanPiN № 0278-09
+? Bug' sterilizatsiyasining biologik nazoratida odatda qaysi test-mikroorganizm sporalari qo'llaniladi?
++ Geobacillus stearothermophilus
+- Staphylococcus aureus
+- Escherichia coli
+- Clostridium tetani (qoqshol tayoqchasi)
+- Pseudomonas aeruginosa
+! Bu bakteriya sporalari issiqlikka juda chidamli, ular halok bo'lsa, boshqa mikroorganizmlar ham yo'q qilingan deb hisoblanadi.
+@ CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Sterilizatsiyadan oldin asboblarni tozalash nima uchun shart?
++ Qon va oqsil kabi organik qoldiqlar mikroorganizmlarni himoya qilib, sterilizatsiya samaradorligini keskin pasaytiradi
+- Asbobning metall sirti yaltirashi uchun, bu bug' bosimini oshirishga zarur bo'lgan qo'shimcha haroratni beradi
+- Sporalarni to'liq yo'q qilgani uchun keyingi sterilizatsiya bosqichi aslida ixtiyoriy hisoblanadi
+- Faqat asboblarni qadoqlash qulay bo'lishi uchun o'tkaziladi va epidemiologik ahamiyatga ega emas
+- Kimyoviy sterilizatsiya eritmasi bilan bir vaqtda ishlov berishga tayyorlovchi maxsus quritish usuli bo'lgani uchun
+! Organik moddalar dezinfeksiyalovchi va sterilizatsiyalovchi omillar ta'siridan mikroblarni to'sib qo'yadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); SanPiN № 0278-09
+? Yuqori haroratga chidamsiz termosezgir asboblar (masalan, endoskoplar) uchun qaysi sterilizatsiya usuli mos keladi?
++ Etilen oksidi yoki vodorod peroksid plazmasi yordamida past haroratli gazli sterilizatsiya
+- Yuqori bosimli to'yingan bug' bilan avtoklavlashtirish, chunki u optik va plastmassa buyumlarga zarar yetkazmaydi
+- Quruq issiq havo shkafida uzoq muddat yuqori haroratda ushlab turish orqali termik ishlov berish
+- Gamma-nurlar bilan sanoat sharoitida bir martalik nurlantirish, bu usul davolash muassasalarida har kuni qo'llaniladi
+- Oddiy qaynatish, chunki u sporalarni ham to'liq yo'q qiladi va barcha asboblar uchun yetarli hisoblanadi
+! Gazli usullar past haroratda ishlagani uchun issiqlik va namlikka sezgir buyumlarni shikastlamaydi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Shpritslar, kateterlar va qo'lqoplar kabi bir marta ishlatiladigan tibbiy mahsulotlar sanoat sharoitida qanday usul bilan sterilizatsiya qilinadi?
++ Gamma-nurlar bilan nurli sterilizatsiya
+- Quruq issiq havo shkafida qizdirish
+- Avtoklavda to'yingan bug' bilan ishlov berish
+- Glutaraldegid eritmasiga uzoq botirib qo'yish
+- Spirt bilan artish va ultrabinafsha nurlantirish
+! Nurli usul issiqlikka chidamsiz bir martalik mahsulotlarni qadoqlangan holda ommaviy sterilizatsiya qilishga imkon beradi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? O'zbekistonda SanQvaM № 0365-19 qaysi masalani tartibga soladi?
++ Tibbiy anjom-asboblar va buyumlarni sterilizatsiya qilish markazlarini loyihalash, qurish va ekspluatatsiya qilish
+- Davolash muassasalarida immunobiologik preparatlarni saqlash, tashish va sovuqlik zanjirini nazorat qilish tartibini
+- Dezinfeksiya xizmatini amalga oshiruvchi tashkilotlarning joylashuvi hamda ularning xonalariga qo'yiladigan talablarni
+- Davolash-profilaktika muassasalarida sanitariya-epidemiologik tekshiruvlarni o'tkazish tartibi va ularning chastotasini
+- Bolalar va o'smirlarni kalendar bo'yicha emlash muddatlari hamda emlashga qarshi ko'rsatmalar ro'yxatini
+! Bu hujjat sterilizatsiya markazlarining binosi, zonalari va ishlash jarayoniga qo'yiladigan sanitariya talablarini belgilaydi.
+@ SanQvaM № 0365-19
+? SanPiN № 0278-09 ga ko'ra sanitariya-epidemiologiya xizmati xodimlari sterillik nazoratini qanday chastotada o'tkazadi?
++ Yiliga kamida ikki marta
+- Oyiga kamida bir marta
+- Haftada kamida bir marta
+- Har chorakda kamida to'rt marta
+- Besh yilda kamida bir marta
+! Bundan tashqari, muassasaning o'z bakteriologiya laboratoriyasi nazoratni tez-tez, oyiga kamida bir marta o'tkazadi.
+@ SanPiN № 0278-09
+? SanPiN № 0278-09 ga ko'ra davolash muassasasining bakteriologiya laboratoriyasi sterillik nazoratini qanday chastotada o'tkazadi?
++ Oyiga kamida bir marta
+- Yiliga kamida ikki marta
+- Har kuni, har bir sterilizatsiya tsikli tugagandan keyin
+- Yiliga kamida bir marta
+- Har yarim yilda kamida bir marta
+! Muassasa ichidagi laboratoriya nazorati sanitariya-epidemiologiya xizmati tekshiruvidan tez-tez, oylik chastotada o'tkaziladi.
+@ SanPiN № 0278-09
+? Kimyoviy nazoratda sterilizatsiya rejimiga erishilganligi qanday aniqlanadi?
++ Belgilangan rejimga erishilganda rangini o'zgartiradigan maxsus indikatorlar yordamida
+- Test-mikroorganizm sporalarini ozuqa muhitiga ekib, o'sish bo'lmaganini laboratoriyada tasdiqlash orqali
+- Avtoklav manometri, termometri va taymerining ko'rsatkichlarini jurnalga muntazam yozib borish yo'li bilan
+- Sterilizatsiyadan so'ng asboblar yuzasidan surtma olib, ichak tayoqchasi borligini aniqlash orqali
+- Yashirin qon qoldig'iga azopiram sinamasini o'tkazish va natijani bakteriologik nazorat jurnaliga qayd etish
+! Indikatorlar harorat, bosim va ekspozitsiya kabi parametrlarga erishilganda rang o'zgartiradi, biroq sporalar o'limini ko'rsatmaydi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)
+? Yetarli sterilizatsiya qilinmagan asboblar orqali qaysi infeksiyalar guruhi yuqishi mumkin?
++ Virusli gepatit B, C va OIV kabi qon orqali yuqadigan infeksiyalar
+- Ich terlama, vabo va dizenteriya kabi fekal-oral mexanizmli ichak infeksiyalari
+- Gripp, qizamiq va ko'kyo'tal kabi aerozol-tomchi mexanizmli nafas yo'llari infeksiyalari
+- Bezgak va Qrim-Kongo gemorragik isitmasi kabi tashuvchi hasharotlar orqali yuqadigan infeksiyalar
+- Brutsellyoz va leptospiroz kabi faqat kasal hayvonlar bilan kontakt orqali yuqadigan zoonozlar
+! Steril to'qimalar bilan kontaktga kiradigan asboblar qon va yiringli-septik infeksiyalar yuqishining potensial omilidir.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016)
+? Bug' va quruq issiq havo usullari mikroorganizmlarni qaysi mexanizm orqali halok qiladi?
++ Oqsillarning denaturatsiyasi orqali
+- Peptidoglikan sintezini to'xtatib, bakteriya devorini zaiflashtirish orqali
+- Hujayra ichidagi suvning muzlashi orqali
+- DNK tuzilishini ionlashtiruvchi nurlar bilan buzish orqali
+- Sirt-faol moddalar qatlami hosil qilib, membranani qoplash orqali
+! Yuqori harorat mikroorganizm va sporalarning hayotiy muhim oqsillarini qaytarilmas buzadi.
+@ WHO. Decontamination and reprocessing of medical devices in health-care facilities (2016); CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)

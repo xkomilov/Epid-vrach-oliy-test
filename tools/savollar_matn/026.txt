@@ -1,0 +1,97 @@
+=== 026
+? Dezinseksiya nimani anglatadi?
++ Epidemiologik jihatdan xavfli bo'g'imoyoqlilarni (hasharot va kanalarni) yo'q qilish yoki sonini kamaytirish
+- Kemiruvchilarni yo'q qilish yoki ularning sonini kamaytirishga qaratilgan tadbirlar majmuasi, ya'ni deratizatsiya
+- Tashqi muhit obyektlarida patogen mikroorganizmlarni yo'q qilishga qaratilgan tadbirlar
+- Barcha mikroorganizmlarni, jumladan sporalarni ham to'liq yo'q qilish jarayoni
+- Qabul qiluvchan aholining immunitetini oshirishga qaratilgan tadbirlar majmuasi
+! Dezinseksiya hasharotlar va kanalarga qaratilgan, boshqa variantlar deratizatsiya, dezinfeksiya, sterilizatsiya va immunizatsiyani ta'riflaydi.
+@ Jahongirov Sh.M. Tibbiy entomologiya (2016); Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Bezgak plazmodiysi uchun spetsifik (biologik) tashuvchi qaysi?
++ Anofeles chivini
+- Uy pashshasi (Musca)
+- Kiyim biti
+- Ixodid kanalar
+- Oddiy burga
+! Plazmodiy rivojlanish siklining bir qismini aynan anofeles chivini organizmida o'tadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Pashsha ichak infeksiyalarida qanday rol o'ynaydi?
++ Mexanik tashuvchi: qo'zg'atuvchini tanasi va oyoqlarida najasdan oziq-ovqatga o'tkazadi
+- Spetsifik tashuvchi: qo'zg'atuvchi uning ichida rivojlanish siklini o'taydi
+- Tabiiy rezervuar: qo'zg'atuvchi uning organizmida doimiy saqlanadi
+- Oraliq xo'jayin: qo'zg'atuvchi uning tanasida jinsiy yo'l bilan ko'payadi
+- Infeksiya manbai: kasal pashsha odamni chaqib, kasallikni bevosita yuqtirib boradi
+! Pashsha o'zi kasallanmaydi, faqat qo'zg'atuvchini mexanik ko'chiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Profilaktik dezinseksiya nimaga qaratilgan?
++ Bo'g'imoyoqlilar ko'payishi va tarqalishining oldini olishga: yashash va ko'payish joylarini yo'qotish
+- Epidemik o'choqda yoki hasharotlar ko'payib ketgan joyda mavjud tashuvchilarni yo'q qilishga qaratilgan ishlov
+- Chorva mollarini kanalardan tozalashning bir martalik kampaniyasiga
+- Bemor ajratilgandan keyin xonani bir marta ishlov berishga
+- Hasharotlar chaqqan kishilarni davolash va reabilitatsiya qilishga
+! Bu tur oldindan ish olib boradi, mavjud tashuvchilarni yo'qotish esa o'choqdagi dezinseksiyaga tegishli.
+@ Jahongirov Sh.M. Tibbiy entomologiya (2016); Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Kanalarga qarshi qo'llaniladigan kimyoviy vositalar qanday ataladi?
++ Akaritsidlar
+- Rodentitsidlar (kemiruvchilarga qarshi)
+- Antiseptiklar (to'qimalarga qo'llanadi)
+- Antibiotiklar (bakteriyalarga qarshi)
+- Sporitsidlar (sporalarga qarshi)
+! Akaritsidlar kanalarga mo'ljallangan, hasharotlarga qarshi vositalar esa insektitsidlar deyiladi.
+@ Jahongirov Sh.M. Tibbiy entomologiya (2016)
+? Insektitsidlar ta'sir mexanizmiga ko'ra qaysi turlarga bo'linadi?
++ Kontakt, ichak va fumigant (bug'lanuvchi)
+- Aerozol, eritma va donador shakllarga
+- Mexanik, fizik va biologik turlarga
+- Kontakt, parenteral va ingalyatsion turlarga
+- Bakteritsid, virusotsid va fungitsid turlarga
+! Tasnif vositaning hasharot organizmiga kirish yo'liga asoslanadi, aerozol va eritma esa qo'llash shaklidir.
+@ Jahongirov Sh.M. Tibbiy entomologiya (2016)
+? Insektitsidlarni qo'llashdagi muhim muammo nima?
++ Hasharotlarda chidamlilik (rezistentlik) rivojlanishi, shu sababli vositalar almashtiriladi
+- Vositalarning hasharotlarga umuman ta'sir qilmasligi, shuning uchun ularga ehtiyoj yo'q
+- Faqat bir marta qo'llash mumkinligi, takroriy qo'llash taqiqlanishi
+- Hasharotlarning ko'payishi vositaning rangiga bog'liqligi
+- Vositalar hamma vaqt xavfsiz bo'lgani uchun ularni cheksiz ishlatish mumkinligi
+! Doimiy bir xil vosita ishlatilganda sezgirligi past populyatsiyalar tanlanadi.
+@ Jahongirov Sh.M. Tibbiy entomologiya (2016)
+? Entomologik monitoring nimani o'z ichiga oladi?
++ Tashuvchi turlarini aniqlash, ularning sonini va insektitsidlarga sezgirligini kuzatish
+- Bemorlardan olingan qon surtmasida plazmodiyni mikroskopik aniqlash va hisoblash
+- Kemiruvchilar sonini hisoblash va ularning uyalarini xaritalash
+- Suv namunalarida ichak tayoqchasini aniqlash va hisoblash
+- Aholi immun qatlamini seroepidemiologik tekshiruv bilan baholash
+! Qaysi tashuvchiga qaysi vosita bilan ta'sir qilish kerakligi shu ma'lumotlar asosida belgilanadi.
+@ Jahongirov Sh.M. Tibbiy entomologiya (2016); Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? SanQvaN № 0090-25 ga ko'ra jamoat binolari va joylashtirish vositalarida dezinseksiya qanday davriylikda o'tkaziladi?
++ Oyda bir marta
+- Haftada bir marta, mavsumdan qat'i nazar o'tkaziladi
+- Har 3 oyda bir marta o'tkaziladi
+- Yilda ikki marta o'tkaziladi
+- Yilda bir marta o'tkaziladi
+! Har 3 oyda bir marta tartib boshqa sanoat obyektlariga tegishli.
+@ SanQvaN № 0090-25
+? Epidemik mavsumda chivinlarga qarshi tadbirlar atrof-muhit haroratiga qarab qaysi oylarda bajariladi?
++ Aprel, may va avgust oylarida
+- Iyun, iyul va sentabr oylarida
+- Mart, oktabr va noyabr oylarida
+- Yanvar, fevral va dekabr oylarida
+- May, iyun va iyul oylarida
+! Normativda aynan shu uch oy ko'rsatilgan.
+@ SanQvaN № 0090-25
+? Turar joylarda dezinseksiyaning qaysi usullari taqiqlangan?
++ Sovuq va issiq tuman usullari
+- Kontakt insektitsidli pastalar bilan ishlov berish
+- Yopishqoq qog'ozlar bilan hasharotlarni tutish
+- Derazalarga to'r o'rnatish
+- Changyutish va nam tozalash
+! Tuman usullarida vosita havoga keng tarqaladi, turar joyda esa odamlarning zaharlanish xavfi yuqori bo'ladi.
+@ SanQvaN № 0090-25
+? Dezinseksiya qachon qaytadan o'tkaziladi?
++ Obyektlarning 20 foizidan ortig'ida hasharot aniqlansa
+- Obyektlarning 5 foizidan ortig'ida hasharot aniqlansa
+- Obyektlarning 50 foizidan ortig'ida hasharot aniqlansa
+- Obyektlarning 80 foizidan ortig'ida hasharot aniqlansa
+- Obyektlarning 2 foizidan ortig'ida hasharot aniqlansa
+! Bu chegaradan oshishi tadbir samarasiz bo'lganini bildiradi.
+@ SanQvaN № 0090-25

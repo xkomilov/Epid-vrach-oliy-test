@@ -1,0 +1,98 @@
+=== 146
+? OIV infeksiyasi O'zbekistonda birinchi marta qaysi yilda aniqlangan?
++ 1987 yilda
+- 1979 yilda
+- 1992 yilda
+- 1999 yilda
+- 2000 yilda
+! Respublikada birinchi holat o'tgan asrning 80-yillari oxirida qayd etilgan, 1990-yillarda kasallanish past bo'lgan, 2000-yildan keyin esa tez o'sgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? 2009 yilda O'zbekistonda OIV bilan kasallanish ko'rsatkichi 100 ming aholiga qancha bo'lgan?
++ 14,0
+- 0,1
+- 0,6
+- 3,88
+- 28,4
+! Kasallanish 1999 yildagi past darajadan 2000 yildan keyin keskin oshgan va 2009 yilga kelib bir necha o'n barobar yuqori bo'lgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? Xalqaro ekspertlar baholashicha, O'zbekistonda OIV bilan yashovchilarning haqiqiy soni rasmiy ko'rsatkichdan qanchaga farq qilishi mumkin?
++ 1,5–2 baravar yuqori bo'lishi mumkin
+- 1,5–2 baravar past bo'lishi mumkin
+- 10–20 baravar yuqori bo'lishi mumkin
+- 5–10 foizga yuqori bo'lishi mumkin
+- Rasmiy ko'rsatkichga deyarli teng bo'lishi mumkin
+! Ko'pchilik o'z holatini bilmaydi va tekshiruvdan o'tmaydi, shuning uchun rasmiy hisobga olingan holatlar yashirin epidemiyani to'liq aks ettirmaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? OIV infeksiyasiga odam moyilligi qanday baholanadi?
++ Yuqori, 100 % gacha
+- Past, 5–10 % atrofida
+- O'rtacha, 30–40 % atrofida
+- Faqat 15–45 yoshdagilarda 100 %, boshqalarda yo'q
+- Ayollarda yuqori, erkaklarda past
+! Tabiiy immunitet yo'qligi sababli virusga duch kelgan har bir moyil odam zararlanishi mumkin.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? O'zbekistonda kasallanishning eng yuqori ko'rsatkichlari qaysi yosh guruhlarida qayd etilgan?
++ 25–29 va 30–34 yoshlarda
+- 0–4 va 5–9 yoshlarda
+- 10–14 va 15–19 yoshlarda
+- 45–49 va 50–54 yoshlarda
+- 60 yosh va undan kattalarda
+! Kasallanish asosan jinsiy va ijtimoiy jihatdan faol yoshdagi aholida kuzatiladi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? Ayollarning yangi aniqlangan holatlar orasidagi ulushi 2009 yilda qancha bo'lgan?
++ 46,0 %
+- 16,9 %
+- 22,5 %
+- 31,0 %
+- 8,0 %
+! Ayollar ulushi 2000 yildagi ancha past ko'rsatkichdan deyarli uch baravar oshgan, bu epidemiyaning umumiy aholiga o'tayotganini ko'rsatadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik). Toshkent, 2016
+? 2011 yilda inyeksion giyohvandlar orasida OIV tarqalganligi qancha bo'lgan?
++ 8,5 %
+- 10,9 %
+- 2,2 %
+- 0,8 %
+- 28,4 %
+! Sentinel nazorat ma'lumotlariga ko'ra bu guruhda tarqalganlik boshqa guruhlarga qaraganda ancha yuqori bo'lgan va 2009 yilga nisbatan biroz pasaygan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot), 5-slayd
+? 2011 yilda tijorat jinsiy aloqa bilan shug'ullanuvchi ayollar orasida OIV tarqalganligi qancha bo'lgan?
++ 2,2 %
+- 8,5 %
+- 0,8 %
+- 10,9 %
+- 14,0 %
+! Bu ko'rsatkich sentinel nazoratda 2009 yildagi qiymatdan biroz oshgan, inyeksion giyohvandlardagidan esa ancha past.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot), 5-slayd
+? 2011 yilda mehnat migrantlari orasida OIV tarqalganligi qancha bo'lgan?
++ 0,8 %
+- 2,2 %
+- 8,5 %
+- 5,0 %
+- 12,3 %
+! Migrantlar orasida tarqalganlik 2009 yildagi qiymatdan biroz pasaygan va boshqa xavf guruhlariga qaraganda past bo'lib qolgan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot), 5-slayd
+? 2007–2012 yillarda 14 yoshgacha OIV bilan yashovchi bolalar orasida parenteral yo'l ulushi qancha oraliqda bo'lgan?
++ 60,1–81,3 %
+- 4,7–11,4 %
+- 14–28 %
+- 2,48–4,7 %
+- 0–3,9 %
+! Bolalarda yuqish asosan tibbiy muolajalar bilan bog'liq bo'lgan, shuning uchun parenteral yo'l ustun turgan.
+@ Nurmatov A.X. O'zbekistonda OIV infeksiyasi bo'yicha epidemik vaziyat (taqdimot), 19-slayd
+? Buyruqqa ko'ra qaysi holatlar hududiy tibbiy kengashlarda alohida tanqidiy ko'rib chiqilishi lozim?
++ OIV infeksiyasining 3–4-klinik bosqichda kech aniqlanish holatlari
+- OIV infeksiyasining 1-klinik bosqichda erta aniqlangan holatlari
+- Yangi tug'ilgan bolalarda ona antitelalarining aniqlanishi
+- Dispanser nazoratidagi bemorlarning RQTga to'liq amal qilishi
+- Donorlar qonida OIVning serologik tekshiruvi manfiy chiqishi
+! Kech aniqlash tekshiruv va maslahat tizimidagi kamchilikni ko'rsatadi, shu sababli har bir holat tahlil qilinadi.
+@ O'zR SSV 2021-yil 6-sentabrdagi 219-son buyrug'i
+? Darslikdagi ma'lumotga ko'ra 1990-yillarda O'zbekistonda OIVning asosiy yuqish yo'li qaysi bo'lgan?
++ Jinsiy yo'l
+- Inyeksion giyohvandlik yo'li
+- Tibbiy muolajalar yo'li
+- Qon quyish yo'li
+- Vertikal yo'l
+! Parenteral yo'l 2000 yildan boshlab asosiy yo'llardan biriga aylangan, undan oldin jinsiy aloqa ustun bo'lgan.
+@ Mavzu materiali (146.docx)
+#U 146 / 12: 1990-yillarda jinsiy yo'lning ustunligi (50–60 %) va keyingi o'zgarishlar faqat mavzu materialidagi darslik bayoniga tayangan, tashqi manba bilan tasdiqlanmagan.

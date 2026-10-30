@@ -1,0 +1,100 @@
+=== 110
+? Saparov qo'llanmasiga ko'ra, kuydirgining qanday o'choq turlari farqlanadi?
++ Kasbiy-qishloq xo'jalik, kasbiy-industrial va maishiy
+- Tabiiy, antropurgik va aralash o'choqlar, mavsumiyligiga qarab
+- Shahar, qishloq va tog' o'choqlari
+- Birlamchi, ikkilamchi va uchlamchi o'choqlar
+- Kontakt, alimentar va aerogen o'choqlar
+! Tasnif zararlanish sodir bo'lgan muhit va faoliyat turiga asoslanadi: chorvachilik, xom ashyo sanoati yoki uy sharoiti.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Kasbiy-industrial o'choqlar qaysi mavsumiylik bilan tavsiflanadi?
++ Yil davomida deyarli bir tekis qayd etiladi
+- Faqat yozda, iyun–avgust oylarida avj oladi
+- Kuz-qish mavsumida, oktyabr–fevralda ko'payadi
+- Yoz-kuz mavsumiyligi yaqqol namoyon bo'ladi
+- Bahorda, mart–aprel oylarida cho'qqiga chiqadi
+! Xom ashyo korxonalarda yil bo'yi qayta ishlanadi, shu sababli kasallanish fasllarga bog'liq emas.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Quyidagilardan qaysi biri maishiy kuydirgi o'chog'ining paydo bo'lish sababi hisoblanadi?
++ Veterinariya ruxsatisiz uy sharoitida hayvonni so'yish va go'shtini sotish
+- Teri oshlash korxonasida jun xom ashyosini sanoat usulida qayta ishlash
+- Laboratoriyada tirik madaniyat bilan ishlashda xavfsizlik qoidasini buzish
+- Markazlashgan qushxonada veterinariya ko'rigidan o'tgan hayvonni so'yish
+- Chorvachilik fermasida hayvonlarni profilaktik emlash va ko'rikdan o'tkazish
+! Nazoratsiz so'yish va ko'rikdan o'tmagan go'shtdan foydalanish aholining uy sharoitida zararlanishiga olib keladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Kuydirgida «noxush turg'un punkt» nimani bildiradi?
++ Qo'zg'atuvchi sporalarini tuproqda uzoq saqlaydigan va xavf tug'diruvchi hudud
+- Odamlar kasallangan va bemorlar yotqizilgan aholi punkti hamda uning atrofidagi hudud
+- Kasal hayvonlar karantinga olingan chorvachilik fermasi va unga tutash yaylov hududi
+- Hayvon xom ashyosi qayta ishlanadigan sanoat korxonasi va uning ishlab chiqarish omborlari
+- Aholi ommaviy emlangan va xavfsiz deb e'lon qilingan hudud
+! Sporalar tuproqda o'nlab yillar saqlanadi va ularning o'zi epizootik hamda epidemik vaziyatni uzoq muddat ta'minlaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Tuproq o'chog'ini laboratoriya yo'li bilan tekshirishda maydon tomoni qanday o'lchamdan oshmaydigan kvadratlarga bo'linadi?
++ 4 metrdan
+- 1 metrdan
+- 10 metrdan
+- 25 metrdan
+- 50 metrdan
+! Kichik kvadratlar namunalar maydonni bir tekis qamrab olishini va noxush joyni aniqlashni ta'minlaydi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Hayvon qabristonida tuproq namunalari qanday chuqurlikkacha va qanday qadam bilan olinadi?
++ 2 metrgacha, har 25 sm da
+- 15 sm gacha, har 5 sm da
+- 50 sm gacha, har 10 sm da
+- 5 metrgacha, har 1 metrda
+- 1 metrgacha, har 50 sm da
+! Chuqur ko'milgan hayvonlar sporalarini qatlam-qatlam aniqlash uchun namunalar bosqichma-bosqich olinadi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Odilov tomonidan manbasi aniqlangan 502 bemordan 358 tasida (71,3%) kasallik manbai qaysi hayvon bo'lgan?
++ Yirik shoxli mollar
+- Mayda shoxli mollar
+- Cho'chqa
+- Ot
+- Tuya
+! Chorvachilikda yirik shoxli mollarning ko'pligi va ularni so'yish xavfi ularni asosiy manbaga aylantiradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Odilov ma'lumotlariga ko'ra, zararlanish holatlarining eng katta ulushi (35,0%) qaysi jarayonga to'g'ri kelgan?
++ Go'shtga ishlov berish va ovqat tayyorlashga
+- Kasal hayvonni parvarishlashga (17,9%)
+- Teri bilan aloqaga (9,2%)
+- Teriga ishlov berishga (8%)
+- Hayvonni so'yish va go'sht maydalashga (29,9%)
+! Go'sht bilan bog'liq jarayonlar sporalarning teri va shilliq qavatga to'g'ridan-to'g'ri tushishiga eng ko'p imkon beradi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Epizootik o'choqda zararlangan material bilan aloqada bo'lgan shaxslar necha kun tibbiy kuzatuvda bo'ladi?
++ 8 kun
+- 2 kun
+- 14 kun
+- 21 kun
+- 30 kun
+! Kuzatuv davomida har kuni teri ko'riladi va kuniga ikki marta harorat o'lchanadi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova (kuydirgi bo'yicha yo'riqnoma)
+? Epizootik o'choqda kuydirgidan o'lgan yoki majburiy so'yilgan hayvon namuna olingandan keyin nima qilinadi?
++ Yoqiladi, ko'mish qat'iyan taqiqlanadi
+- Oddiy chuqurga ko'miladi, ustiga tuproq to'kiladi
+- Itlar va cho'chqalarga yem sifatida beriladi
+- Terisi shilinib, go'shti qaynatilib iste'mol qilinadi
+- Daryo bo'yidagi bo'sh joyga tashlab qo'yiladi
+! Yoqish sporalarni to'liq yo'q qiladi, ko'mish esa tuproqda yangi noxush turg'un punkt hosil qiladi.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova (kuydirgi bo'yicha yo'riqnoma)
+? Kasal hayvon turgan bino tuprog'iga qaysi eritma bilan ishlov beriladi?
++ 20% li xlorli ohak eritmasi
+- 2% li xloramin eritmasi
+- 0,5% li vodorod peroksid eritmasi
+- 70° li etil spirti
+- 1% li kaliy permanganat eritmasi
+! Sporalar o'ta chidamli bo'lgani uchun faol xlori yuqori bo'lgan konsentrlangan sporotsid vosita talab etiladi.
+@ Saparov X.B. O'ta xavfli yuqumli kasalliklar (qo'llanma), Toshkent: SSV, 2010, «Kuydirgi» bobi
+? Kuydirgi o'chog'ida dezinfeksiya uchun xlorli ohakda faol xlor miqdori kamida qancha bo'lishi kerak?
++ 5%
+- 0,5%
+- 1%
+- 2%
+- 0,1%
+! Sporalarni o'ldirish uchun kuchli oksidlovchi konsentratsiya talab etiladi, past konsentratsiyali eritma samarasiz.
+@ O'zR SSV 2015-yil 23-yanvardagi 37-son buyrug'iga 2-ilova (kuydirgi bo'yicha yo'riqnoma)
+#U 110 / 7: manba bo'yicha 71,3% ko'rsatkichi 1930–1975 yillardagi Odilov ma'lumotiga tayangan, hozirgi holat tasdiqlanmagan.
+#U 110 / 8: zararlanish holatlari taqsimoti (35,0%) 1930–1975 yillardagi Odilov ma'lumotiga tayangan, hozirgi holat tasdiqlanmagan.
+#U 110 / 9: 8 kunlik kuzatuv faqat 37-son buyrug'iga tayangan, hujjatning hozirgi kuchi tasdiqlanmagan.

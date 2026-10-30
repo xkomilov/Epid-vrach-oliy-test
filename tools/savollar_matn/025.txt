@@ -1,0 +1,104 @@
+=== 025
+? Sterilizatsiya bo'limi binosini tekshirishda qaysi oqim prinsipiga rioya qilinganligi baholanadi?
++ Iflosdan tozaga bir yo'nalishli oqim, bunda iflos va toza oqimlar kesishmaydi
+- Tozadan iflosga qarama-qarshi oqim, bunda steril buyumlar iflos zonadan o'tadi
+- Aralash oqim, bunda barcha zonalar bitta umumiy xonada birlashtirilgan bo'ladi
+- Xodimlar oqimi zonalar o'rtasida erkin, chunki ular maxsus kiyim kiyadi
+- Faqat steril zonada ajratish, iflos va toza zonalar umumiy bo'ladi
+! Oqimlar kesishsa krest kontaminatsiya yuz beradi va allaqachon sterillangan materiallar qayta ifloslanadi.
+@ SanQvaM № 0365-19
+? Sterilizatsiyadan oldingi tozalash sifatini tekshirishda azopiram yoki amidopirin sinamasi nimani aniqlaydi?
++ Asboblardagi yashirin qon qoldig'ini
+- Yuvish vositasi qoldig'ini
+- Yog' va moy qoldig'ini
+- Dezinfeksiya eritmasidagi xlor qoldig'ini
+- Bakteriya sporalari borligini
+! Sinama qon qoldig'i bilan reaksiyaga kirib rang beradi, musbat natija tozalash samarasizligini bildiradi.
+@ SanQvaM № 0365-19; SanPiN № 0278-09
+? Sterilizatsiyadan oldingi tozalashdan so'ng yuvish vositasi qoldig'i qaysi sinama bilan tekshiriladi?
++ Fenolftalein sinamasi
+- Azopiram sinamasi
+- Benzidin sinamasi
+- Biuret sinamasi
+- Gram usulida bo'yash
+! Fenolftalein ishqoriy yuvish vositasi qoldig'ida rangga kiradi, boshqa sinamalar esa qon yoki oqsil uchun mo'ljallangan.
+@ SanQvaM № 0365-19; SanPiN № 0278-09
+? Sterilizatsiya nazoratining uch turi qaysilar?
++ Fizik, kimyoviy va bakteriologik
+- Vizual, mexanik va statistik
+- Serologik, molekulyar va immunologik
+- Organoleptik, gigiyenik va xronometrik
+- Hujjatli, vizual va ekspert nazorati
+! Harorat, bosim va vaqt jurnallari, indikatorlar hamda test-mikroorganizmlar sterilizatsiyani uch xil darajada tasdiqlaydi.
+@ SanPiN № 0278-09
+? Sterilizatsiya ishonchliligining eng qat'iy ko'rsatkichi qaysi nazorat hisoblanadi?
++ Test-mikroorganizmlar yordamida o'tkaziladigan bakteriologik nazorat
+- Harorat, bosim va vaqt jurnallarini yuritishga asoslangan fizik nazorat
+- Indikator rangining o'zgarishini baholashga asoslangan kimyoviy nazorat
+- Steril qadoqning butunligi va belgilanishini ko'rish orqali vizual nazorat
+- Sterilizator texnik pasportidagi yozuvlarni hujjatli tekshirish
+! Faqat mikroorganizmlarning haqiqatan nobud bo'lishi sterillikni bevosita isbotlaydi, boshqa usullar esa shartlarning bajarilganini ko'rsatadi.
+@ SanPiN № 0278-09
+? Sog'liqni saqlash vazirligi nizomiga ko'ra DPMda tekshiruvlar qaysi uch shaklda o'tkaziladi?
++ Rejali, rejadan tashqari va nazorat tartibida
+- Yillik, choraklik va oylik rejalashtirilgan shakllarda
+- Ichki, tashqi va xalqaro hamkorlik shaklida
+- Dastlabki, oraliq va yakuniy
+- Ommaviy, tanlama va maxsus
+! Shakllar tekshiruvning asosi va maqsadiga ko'ra ajratiladi: jadval bo'yicha, shikoyat yoki signal bo'yicha va kamchilik bartaraf etilishini tekshirish uchun.
+@ O'zR SSV buyrug'i bilan tasdiqlangan DPMda sanitariya-epidemiologik tekshiruvlar o'tkazish tartibi to'g'risidagi nizom
+? Jarrohlik, shoshilinch yordam, tug'ruq va gemodializ xizmatlari bilan bog'liq muassasalarda rejali tekshiruv qanday chastotada o'tkaziladi?
++ Har chorakda ko'pi bilan bir marta
+- Oyiga ikki marta
+- Yilda ko'pi bilan ikki marta
+- Yilda bir marta, aprel oyida
+- Har yarim yilda kamida bir marta
+! Yuqori xavfli profildagi muassasalar uchun tekshiruv tez-tez ruxsat etiladi, terapevtik va poliklinika turidagi muassasalarda esa yiliga ikki martagacha.
+@ Mavzu materiali (025.docx)
+? Rejali va rejadan tashqari tekshiruv muddati necha kundan oshmasligi kerak?
++ 15 kundan
+- 3 kundan
+- 7 kundan
+- 30 kundan
+- 45 kundan
+! Muddat cheklanishi muassasa faoliyatiga ortiqcha xalaqit bermaslik uchun belgilangan.
+@ Mavzu materiali (025.docx)
+? Nazorat tartibidagi tekshiruv qaysi doirada o'tkaziladi?
++ Faqat dalolatnomada ko'rsatilgan kamchiliklar bo'yicha
+- Muassasa faoliyatining barcha jihatlari bo'yicha to'liq ko'lamda
+- Shikoyat tushgan taqdirda, shikoyat mazmunidan qat'i nazar
+- Xodimlar malakasi bo'yicha, boshqa jihatlarsiz
+- Muassasa rahbarining iltimosiga ko'ra, u tanlagan yo'nalishlar bo'yicha
+! Bu tekshiruv oldingi dalolatnomadagi kamchiliklar belgilangan muddatda bartaraf etilganini tasdiqlash uchun o'tkaziladi.
+@ Mavzu materiali (025.docx)
+? SanPiN № 0278-09 bo'yicha sterillik nazorati chastotasi qanday belgilangan?
++ SES xodimlari uchun yiliga kamida ikki marta, muassasa laboratoriyasi uchun oyiga kamida bir marta
+- SES xodimlari uchun oyiga bir marta, muassasa laboratoriyasi uchun yiliga ikki marta
+- Faqat SES xodimlari uchun yiliga bir marta, muassasa laboratoriyasi nazorat qilmaydi
+- Ikkala tomon uchun ham haftada kamida bir marta
+- Muassasa laboratoriyasi uchun yiliga bir marta, SES xodimlari uchun har chorakda tartibida
+! Tashqi nazoratga qaraganda muassasaning ichki laboratoriyasi tez-tez tekshirib turishi talab qilinadi.
+@ SanPiN № 0278-09
+? Sterilizatsiya bo'limi xodimlari qaysi infeksiyaga qarshi emlangan bo'lishi baholanadi?
++ Virusli gepatit B ga qarshi
+- Sariq isitmaga qarshi emlash
+- Quturishga qarshi
+- Kuydirgiga qarshi
+- Vaboga qarshi
+! Xodimlar qon bilan ifloslangan asboblar bilan ishlagani uchun qon orqali yuqadigan gepatit B xavfi mavjud.
+@ SanQvaM № 0365-19; Mavzu materiali (025.docx)
+? Kamchiliklar bartaraf etilgach nima qilinadi?
++ Ularning to'liq to'g'rilanganini tasdiqlash uchun qayta tekshiruv o'tkaziladi
+- Tekshiruv materiallari arxivga topshiriladi va qayta ko'rilmaydi
+- Bo'lim keyingi rejali tekshiruvgacha nazoratdan chiqariladi, hujjatlar yopiladi
+- Barcha sterilizatorlar yangisiga almashtirilib, jurnallar qaytadan yuritiladi
+- Xodimlar jamoasi to'liq attestatsiyadan o'tkazilib, bo'lim qayta tashkil etiladi
+! Formal bartaraf etish yetarli emas, kamchilik haqiqatan yo'qolganiga ishonch hosil qilish kerak.
+@ Mavzu materiali (025.docx)
+#U 025 / 6: tekshiruv shakllari faqat mavzu materialiga tayangan; nizomning raqami va sanasi nusxada to'liq o'qilmaydi.
+#U 025 / 7: chorakdagi rejali tekshiruv chastotasi faqat mavzu materialiga tayangan.
+#U 025 / 8: 15 kunlik muddat faqat mavzu materialiga tayangan.
+#U 025 / 9: nazorat tartibidagi tekshiruv doirasi faqat mavzu materialiga tayangan.
+#U 025 / 10: SES va laboratoriya uchun sterillik nazorati chastotasi faqat mavzu materialiga tayangan.
+#U 025 / 11: xodimlarning gepatit B ga qarshi emlanganligini baholash faqat mavzu materialiga tayangan.
+#U 025 / 12: kamchiliklar bartaraf etilgach qayta tekshiruv o'tkazilishi faqat mavzu materialiga tayangan.

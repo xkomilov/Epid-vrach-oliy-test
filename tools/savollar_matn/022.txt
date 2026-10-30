@@ -1,0 +1,97 @@
+=== 022
+? Retrospektiv tahlil operativ tahlil uchun nimani ta'minlaydi?
++ Kutilgan (normativ) kasallanish darajasini — "etalon"ni
+- Joriy kunlik kasallanish sonini real vaqt rejimida hisoblab beradi
+- Bemorlarning individual davolash sxemalari va dori dozalarini belgilaydi
+- Epidemik o'choqdagi dezinfeksiya eritmasining konsentratsiyasini
+- Aholining emlanganlik darajasi bo'yicha yakuniy hisobotni
+! Joriy daraja "ko'p" yoki "kam" deb baholanishi uchun uni avvalgi davrdagi odatiy daraja bilan solishtirish kerak.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Operativ (joriy) epidemiologik tahlilning asosiy vazifasi nima?
++ Real vaqt rejimida kasallanishni kuzatib, epidemik vaziyat o'zgarishini erta aniqlash
+- Ko'p yillik kasallanish dinamikasini o'rganib, strategik reja uchun asos tayyorlash
+- Xavf omili bilan kasallik orasidagi sabab-oqibat bog'lanishini kogort usulida isbotlash
+- Emlash dasturini bir necha yilga rejalashtirish uchun mavsumiylikni baholash
+- Tadbirdan keyingi kasallanishni oldingi davr bilan taqqoslab, samarani hisoblash
+! Boshqa variantlar uzoq muddatli, isbotlovchi yoki samaradorlikni baholovchi tahlillarga xos, operativ tahlil esa tezkor javobga yo'naltirilgan.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Tavsifiy (deskriptiv) epidemiologik tahlil kasallanishni qaysi uch belgi bo'yicha ta'riflaydi?
++ Vaqt, hudud va aholi guruhi (shaxs)
+- Qo'zg'atuvchi, yuqish yo'li va qabul qiluvchan organizm
+- Manba, omil va o'choq hajmi bo'yicha tarqalish
+- Kasallik og'irligi, letallik va davolash muddati
+- Yosh, jins va kasb bo'yicha faqat tarkib ulushlari
+! Bu uch belgi kasallik qachon, qayerda va kimda ko'proq uchrashini ko'rsatadi va gipoteza uchun zamin yaratadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 1
+? Tahliliy (analitik) tahlil tavsifiy tahlildan nimasi bilan farq qiladi?
++ Gipotezalarni tekshirib, xavf omillari bilan kasallik orasidagi sabab-oqibat bog'lanishini aniqlaydi
+- Kasallik qachon, qayerda va kimda ko'proq uchrashini vaqt, hudud va shaxs belgilari bo'yicha ta'riflab beradi
+- Ma'lumotlarni yig'ib, oddiy mutlaq sonlarda jadvalga joylashtiradi
+- Joriy kasallanishni kutilgan daraja bilan solishtirib, signal beradi
+- Kasallanishning mavsumiy ko'tarilish oylarini grafikda aks ettiradi
+! Tavsifiy tahlil "nima" savoliga javob beradi, tahliliy tahlil esa "nima uchun" savoliga, ya'ni sabab-oqibatni tekshiradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Ovqatdan zaharlanish avj olganda aybdor mahsulotni aniqlash uchun qaysi tadqiqot qo'llaniladi?
++ Nazorat-tanlov (case-control) tadqiqoti
+- Ko'p yillik dinamika tahlili (o'sish, pasayish, davriylik)
+- Yillik mavsumiy dinamika tahlili (ko'tarilish oylari)
+- Hududiy tahlil (kasallanishning geografik xaritasi)
+- Aholi guruhlari bo'yicha tavsifiy taqsimot (yosh, jins, kasb)
+! Faqat kasal va sog' shaxslarning iste'mol qilgan mahsulotlarini solishtirish xavf omilini ajratib beradi, tavsifiy yo'nalishlar esa taqsimotni ko'rsatadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Intensivlik ko'rsatkichi nimani ifodalaydi?
++ Aholining ma'lum soniga (masalan, 100 ming kishiga) nisbatan kasallar sonini
+- Kasalliklar tarkibidagi ulushni foizda ifodalaydi
+- O'lganlarning kasallanganlar orasidagi ulushini, ya'ni kasallikning o'limga olib kelish darajasini ko'rsatadi
+- Mutlaq kasallar sonini, aholi sonini hisobga olmasdan
+- Qo'zg'atuvchining laboratoriyada ajratilish chastotasini
+! U aholi soniga bog'langani uchun turli hudud va davrlarni to'g'ri taqqoslashga va haqiqiy xavf darajasini ko'rsatishga imkon beradi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Ekstensivlik ko'rsatkichining asosiy cheklovi nima?
++ U kasallanish darajasini emas, faqat tarkibdagi ulushni ko'rsatadi
+- Aholi sonini hisobga olib, haqiqiy xavf darajasini aks ettiradi
+- Kasallarning mutlaq sonini har 100 ming aholiga qayta hisoblaydi
+- O'limni emas, faqat kasallanish mavsumiyligini ifodalaydi
+- Turli hududlarni taqqoslash uchun eng ishonchli vosita hisoblanadi
+! Ulush boshqa kasalliklar soniga bog'liq bo'lgani uchun kasallanish darajasini baholashda xato xulosaga olib kelishi mumkin.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Muammoni hal qilishda tahlil turlari odatda qanday ketma-ketlikda qo'llanadi?
++ Avval tavsifiy (gipoteza beradi), so'ng tahliliy (tekshiradi), keyin eksperimental
+- Eksperimental tahlil birinchi, so'ng tavsifiy, oxirida tahliliy tahlil
+- Tahliliy tahlil boshlanadi, tavsifiy tahlil o'rtada, eksperimental tahlil gipoteza beradi
+- Faqat bitta tahlil turi tanlanadi va u boshqalar bilan birga qo'llanmaydi
+- Tavsifiy va eksperimental tahlil bir vaqtda, tahliliy tahlilsiz o'tkaziladi
+! Gipoteza avval shakllanishi, keyin tekshirilishi va oxirida tadbir samarasi isbotlanishi mantiqiy tartibni belgilaydi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Epidemiologik tahlilning umumiy mantig'i qaysi uch bosqichdan iborat?
++ Ma'lumotlar yig'ish, tavsiflash va analitik bosqich
+- Ro'yxatga olish, davolash va reabilitatsiya bosqichi
+- Xabar berish, o'choqni tekshirish va yakuniy dezinfeksiya
+- Gipoteza, eksperiment va natijalarni nashr qilish
+- Rejalashtirish, moliyalashtirish va hisobot topshirish
+! Bu bosqichlar ma'lumotdan tavsifga, undan esa sabablarni baholashga o'tishni ifodalaydi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 1
+? Uzoq muddatli emlash strategiyasini ishlab chiqish uchun qaysi tahlil turlari qo'llaniladi?
++ Retrospektiv va tavsifiy tahlil
+- Operativ va eksperimental tahlil
+- Faqat operativ tahlil, chunki u joriy vaziyatni real vaqtda ko'rsatadi
+- Tahliliy tahlil va o'choqni epidemiologik tekshirish
+- Joriy va mavsumiy kunlik kuzatuv
+! Strategik rejalashtirish ko'p yillik ma'lumotlarga va kasallanish taqsimotining tavsifiga tayanadi.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Operativ tahlilda qaysi holat epidemik noxushlik signali hisoblanadi?
++ Joriy kasallanish darajasining belgilangan chegaradan oshishi
+- Joriy daraja ko'p yillik o'rtacha etalondan past bo'lib qolishi
+- Kasallanishning mutlaq sonlarda ifodalanishi
+- Retrospektiv tahlil ma'lumotlarining arxivga topshirilishi
+- Tavsifiy tahlilda yangi gipoteza ilgari surilishi
+! Etalon bilan solishtirganda chegaradan oshish vaziyat yomonlashayotganini bildiradi, boshqa holatlar esa bunday ma'noga ega emas.
+@ Mirtazayev O.M. va b. Epidemiologiya (darslik), 2016
+? Nazorat choralari odatda yuqish zanjirining qaysi bo'g'iniga qaratiladi?
++ Aralashuvga eng sezgir bo'g'inga
+- Eng oxirgi bo'g'inga, ya'ni har doim qabul qiluvchan organizmga
+- Zanjirning birinchi bo'g'iniga, ya'ni har doim infeksiya manbaiga
+- Resurs eng ko'p sarflanadigan bo'g'inga, ishonchlilikni oshirish uchun
+- Qo'zg'atuvchi rezervuariga, chunki uni yo'qotish eng arzon usul
+! Chora samarali bo'lishi uchun zanjirning uzilishi eng oson va ishonchli bo'ladigan bo'g'in tanlanadi.
+@ CDC. Principles of Epidemiology (SS1978), Lesson 1, Section 10

@@ -1,0 +1,98 @@
+=== 103
+? Qizilchaga qarshi emlash dasturlarining asosiy maqsadi nimadan iborat?
++ Homila infeksiyasi va tug'ma qizilcha sindromining oldini olish
+- Maktab yoshidagi bolalarda bahorgi epidemik ko'tarilishlarni to'liq bartaraf etish
+- Kattalarda qizilchaning asoratlari sifatida o'tkir artritni kamaytirish
+- Bolalarda isitma va toshma bilan kechadigan barcha kasalliklarni tugatish
+- Yangi tug'ilgan chaqaloqlarda sariqlik va kamqonlikning oldini olish
+! Qizilcha asosiy xavfni homiladorlikning erta davrida infeksiya homilaga o'tganda tug'diradi, shu sababli dasturlar aynan shu oqibatlarni to'xtatishga yo'naltiriladi.
+@ CDC. Fast Facts: Rubella and Congenital Rubella Syndrome (CRS)
+? Qizilchaga qarshi tirik susaytirilgan vaksina qaysi virus shtammi asosida tayyorlanadi?
++ Wistar RA 27/3 shtammi
+- Edmonston–Zagreb shtammi, qizamiq vaksinasida ishlatiladigan
+- Jeryl Lynn shtammi, epidemik parotit vaksinasida qo'llanadigan
+- Sabin shtammi, poliomielit vaksinasida qo'llanadigan
+- Oka shtammi, suvchechak vaksinasida qo'llanadigan
+! Mavzuda keltirilgan qizilcha vaksinasi aynan shu susaytirilgan shtamm asosida ishlab chiqarilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.10-bob
+? 1941-yilda avstraliyalik N. Gregg homiladorlik davrida qizilcha bilan kasallanishdan homilada qanday anomaliyalar rivojlanishini aniqlagan?
++ Katarakta, yurak porogi va karlik
+- Mikrotsefaliya, ensefalit va tutqanoq tutishlari
+- Yurak porogi, kalta qo'l-oyoqlar va falaj
+- Gidrotsefaliya, ko'rlik va aqliy zaiflik
+- Katarakta, til yorig'i va yuqori lab yorig'i
+! Bu uch belgi qizilchaning homilaga o'tishi natijasida rivojlanadigan tug'ma sindromning klassik ko'rinishi sifatida tavsiflangan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.10-bob
+? Immunoglobulin yuborilgandan keyin tirik qizilcha vaksinasini qo'llash uchun kamida qancha vaqt o'tishi kerak?
++ 3 oy
+- 1 hafta
+- 14 kun
+- 6 oy
+- 12 oy
+! Immunoglobulindagi tayyor antitelalar vaksina virusining ko'payishini va immun javobni susaytirishi mumkin.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Qizilchaga qarshi emlashda quyidagi holatlardan qaysi biri qarshi ko'rsatma hisoblanmaydi?
++ Yengil respirator kasallik
+- Avvalgi emlashdagi kuchli reaksiya yoki asorat
+- O'rtacha og'irlikdagi o'tkir kasallik, bemor isitmalayotgan bo'lsa
+- Og'ir kechayotgan o'tkir yuqumli kasallik davri
+- Tug'ma immunitet tanqisligining og'ir shakli
+! Yengil respirator kasalliklar emlashni kechiktirish sababi bo'lmaydi, chunki ular immun javob shakllanishiga sezilarli to'sqinlik qilmaydi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? O'rtacha va og'ir kasalliklarda emlash tuzalgandan keyin qancha vaqt o'tgach o'tkaziladi?
++ 3–14 kun o'tgach
+- Tuzalgan kuni zudlik bilan
+- 2–3 oy o'tgach
+- 6–12 oy o'tgach
+- 30–45 kun o'tgach
+! Kasallikdan so'ng qisqa tiklanish davri o'tgach, bolaning umumiy holati barqarorlashadi va emlash xavfsiz o'tkaziladi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Tibbiy cheklov qancha muddatdan ortiq belgilansa, uni immunologik komissiya ko'rib chiqadi?
++ 1 oydan ortiq
+- 1 haftadan ortiq
+- 3 oydan ortiq
+- 6 oydan ortiq
+- 1 yildan ortiq
+! Uzoq muddatli cheklov bolaning emlashsiz qolishiga olib kelishi mumkin, shu sababli uning asosliligi mutaxassislar tomonidan baholanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Qizilcha bo'yicha serologik monitoring qaysi yosh guruhlarida o'tkaziladi va seronegativlar ulushi qancha bo'lishi kerak?
++ 15–17 va 23–25 yoshda; seronegativlar 7% dan oshmasligi kerak
+- 1–2 va 4–5 yoshda; seronegativlar 20% dan oshmasligi kerak, bolalar orasida
+- 40–45 va 50–55 yoshda; seronegativlar 7% dan oshmasligi kerak
+- 6–7 va 10–12 yoshda; seronegativlar 15% dan oshmasligi kerak
+- 15–17 va 23–25 yoshda; seronegativlar 0,5% dan oshmasligi kerak
+! Tug'ish yoshidagi ayollar va o'smir qizlar eng muhim guruh bo'lgani uchun aynan shu yoshlarda immunitet darajasi nazorat qilinadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.10-bob
+? AQShda qizilchaga qarshi rejali emlash qaysi yildan boshlangan?
++ 1969-yildan
+- 1941-yildan
+- 1961-yildan
+- 1985-yildan
+- 1999-yildan
+! Vaksina ishlab chiqarilgach, rejali emlash shu davrdan boshlab milliy dastur sifatida joriy etilgan.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016, 17.10-bob
+? Emlash o'tkazilganini qayd etuvchi birlamchi hujjatlarga qaysi shakllar kiradi?
++ 063/u va 112/u shakllari hamda emlash pasporti
+- 025/u shakli va poliklinikadagi bolalar ambulator kartasi
+- 058/h shakli va shoshilinch xabarnoma varaqasi
+- 391/h shakli va epizootologik tekshiruv kartasi
+- 003/u shakli va statsionar bemor kasallik tarixi
+! Bu hujjatlarda bolaning emlanganligi, preparat seriyasi va sanasi qayd etilib, keyingi dozalarni rejalash va qamrovni hisoblash imkonini beradi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Emlash rejasini tuzishda vaksina zaxirasi bo'yicha sarfdan qancha miqdorgacha ortiqcha ruxsat etiladi?
++ 15% gacha
+- 2% gacha
+- 40% gacha
+- 100% gacha
+- 5% gacha
+! Zaxira sovuqlik zanjiridagi yo'qotishlar va kutilmagan ehtiyojlarni qoplash uchun belgilanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi
+? Darslikda keltirilgan qizilcha vaksinasi nojo'ya ta'sirlari (biroz harorat ko'tarilishi, in'ektsiya joyidagi mahalliy reaksiya) qanday ulushda qayd etilgan?
++ 5% da
+- 50% da
+- 25% da
+- 0,1% da
+- 80% da
+! Reaksiyalar yengil va qisqa muddatli bo'lib, vaksina xavfsiz hisoblanishiga to'sqinlik qilmaydi.
+@ Mavzu materiali (103.docx)
+#U 103 / 12: nojo'ya ta'sir ulushi (5%) faqat darslikka tayangan, mustaqil nashrlar bilan tasdiqlanmagan.

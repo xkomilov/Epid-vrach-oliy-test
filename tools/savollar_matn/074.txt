@@ -1,0 +1,97 @@
+=== 074
+? Qaysi gripp virusi turi odamlar orasida pandemiyalar chaqirgan?
++ Faqat A turi
+- B turi, u har yili pandemiya chaqiradi
+- C turi, u og'ir pandemiyalar sababchisi hisoblanadi
+- D turi, u asosan odamlar orasida aylanadi
+- B va C turlari birgalikda, A turi esa pandemiya chaqirmagan
+! B tur mavsumiy epidemiyalar beradi, C tur ahamiyati kam, D tur esa asosan qoramolda uchraydi.
+@ WHO. Influenza (seasonal) (fact sheet)
+? Gripp virusida yangi pandemik variantlar paydo bo'lishiga qaysi jarayon olib keladi?
++ Shift, ya'ni gemagglyutinin (H) antigenining tub o'zgarishi
+- Drift, ya'ni antigenlardagi kichik o'zgarishlar
+- Virus lizogeniyasi, ya'ni bakteriofag genining hujayraga qo'shilishi
+- Sporulyatsiya, ya'ni virusning tashqi muhitda chidamli shaklga o'tishi
+- Antibiotiklarga chidamlilikning shakllanishi
+! Drift mavsumiy epidemiyalarga olib keladi, shift esa populyatsiyada immunitet bo'lmagan yangi variant yaratadi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ma'lumotiga ko'ra, gripp yashirin davri qancha davom etadi?
++ 1–4 kun, o'rtacha 2 kun
+- 5–7 kun, o'rtacha 6 kun
+- 10–14 kun, o'rtacha 12 kun
+- 2–3 hafta, o'rtacha 18 kun
+- 6–12 soat, o'rtacha 8 soat
+! Qisqa yashirin davr epidemiyada kasallikning tez tarqalishiga olib keladi.
+@ WHO. Influenza (seasonal) (fact sheet)
+? Darslikka ko'ra, gripp bemori birinchi belgilar paydo bo'lishidan boshlab necha kun xavfli hisoblanadi?
++ 3–5 kun
+- 1 kun
+- 7–10 kun
+- 14–21 kun
+- 30 kun
+! 90% bemorlarda shu davr oxirida virus ajralishi to'xtaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikka ko'ra, gripp o'tkazgandan keyin birinchi uchrashuvda immunitet qancha vaqt saqlanadi?
++ 1–1,5 yil
+- 5–6 oy
+- 3–4 yil
+- 10 yil
+- Umrbod, ya'ni birinchi uchrashuvdayoq to'liq saqlanadi
+! Immunitet muddati takroriy uchrashuvlarda uzayadi: 3–4 yil, keyin esa umrbod.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST shimoliy va janubiy yarim shar uchun gripp vaksinasi tarkibini qanchalik tez-tez tavsiya etadi?
++ Yilda ikki marta
+- Besh yilda bir marta
+- Har oy
+- Faqat pandemiya e'lon qilinganda
+- Yilda bir marta, ikkala yarim shar uchun bir xil tarkib
+! Virus antigenlari doimo o'zgargani sababli tarkib GISRS kuzatuvi asosida har yarim shar uchun alohida yangilanadi.
+@ WHO. Influenza (seasonal) (fact sheet)
+? O'zbekiston Respublikasi Prezidentining gripp va boshqa OR infeksiyalarga qarshi kurashish tizimini takomillashtirish haqidagi PQ-3729-son qarori qachon qabul qilingan?
++ 2018-yil 18-mayda
+- 2023-yil 8-sentabrda
+- 2017-yil 25-iyulda
+- 2015-yil 1-mayda
+- 2021-yil 19-iyulda
+! Boshqa sanalar sog'liqni saqlash vazirining 224-son buyrug'i, immunoprofilaktika qoidalari yoki boshqa hujjatlarga tegishli.
+@ O'zR Prezidentining 2018-yil 18-maydagi PQ-3729-son qarori
+? Milliy qoidalarda gripp bo'yicha epidemiologik ko'rsatma bilan har yili emlash qaysi yoshdan boshlanadi?
++ 6 oylikdan
+- 2 oylikdan
+- 12 oylikdan
+- 3 yoshdan
+- 7 yoshdan
+! Epidemik ko'rsatma bo'yicha bolalar ham, 60 yoshdan oshganlar va surunkali kasallari borlar ham emlanadi.
+@ SanQvaM № 0239-07/3 (25.07.2017)
+? Gripp epidemiyasida bemorni ajratish nima uchun yetarli chora emas?
++ Bemor kech murojaat qiladi va ko'pchilik kasallikni «oyoqda» o'tkazadi
+- Gripp faqat belgisiz tashuvchilar orqali yuqadi va yaqqol bemorlar manba emas
+- Virus tashqi muhitda oylab saqlanadi, shu sababli asosiy yuqish yo'li kontakt-maishiy
+- Bemorlar kasallik boshlangandan keyin birinchi kunlardayoq to'liq tuzalib ketadi
+- Gripp bemorlari kasalxonaga yotqizilmaydi va aloqadorlar tekshirilmaydi
+! Kech aniqlangan bemor allaqachon atrofdagilarga virusni yuqtirib ulgurgan bo'ladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ga ko'ra, epidemik bo'lmagan davrda gripp tashxisini tasdiqlashda sezgirligi tezkor testlardan yuqori bo'lgan usul qaysi?
++ RT-PCR
+- Vidal agglyutinatsiya reaksiyasi
+- Qonli agarga bakteriologik ekish
+- Mantu sinamasi
+- Orqa miya suyuqligini mikroskopik tekshirish
+! SARS-CoV-2, rinovirus, RS-virus kabi boshqa viruslar ham o'xshash kasallik beradi, shu sababli molekulyar tasdiq muhim.
+@ WHO. Influenza (seasonal) (fact sheet)
+? JSST ma'lumotiga ko'ra, har yili taxminan nechta mavsumiy gripp holati qayd etiladi?
++ 1 mlrd
+- 10 mln
+- 100 mln
+- 5 mlrd
+- 50 ming
+! Shundan 3–5 mln holat og'ir kechadi, 290 000–650 000 nafas yo'llari bilan bog'liq o'lim qayd etiladi.
+@ WHO. Influenza (seasonal) (fact sheet)
+? Gripp A virusining qushlar, otlar va cho'chqalarda ham parazitlik qilishi qanday imkon beradi?
++ Turli kichik turlar o'rtasida rekombinatsiya yuz berishi
+- Virusning tashqi muhitda oylab chidamli saqlanishi
+- Bakteriyalar bilan simbiozga kirib antibiotiklarga chidamli bo'lishi
+- Bemordan virus ajralishining bir necha kundan keyin to'xtashi
+- Kasallikni transmissiv yo'l bilan hasharotlar orqali yuqtirish
+! Rekombinatsiya yangi antigen tuzilishli viruslarni hosil qilib, pandemik xavfni oshiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016

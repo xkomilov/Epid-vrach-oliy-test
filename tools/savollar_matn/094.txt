@@ -1,0 +1,97 @@
+=== 094
+? Darslikka ko'ra gripp bilan kurashda nima uchun hali sezilarli yutuqqa erishilmagan?
++ Vaksina shtammlari har doim ham aylanib yuruvchi shtammlarga mos kelavermaydi
+- Gripp virusi faqat bir serotipdan iborat bo'lgani uchun vaksina umuman yaratilmagan
+- Emlash faqat 60 yoshdan oshganlar uchun taqiqlangan, shu sababli qamrov past
+- Virus tashqi muhitda bir necha yil faol saqlanadi va dezinfeksiyaga chidamli
+- Kasallikdan keyin umrbod immunitet qoladi, shuning uchun qayta kasallanish kuzatilmaydi
+! Virus antigen tuzilishini tez o'zgartiradi, shu bois oldindan tayyorlangan vaksina yangi variantga to'liq mos kelmasligi mumkin.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Darslikda emlanganlar orasida kasallanish emlanmaganlarga nisbatan qanchaga kam deb ko'rsatilgan?
++ 2–2,5 baravar
+- 10–12 baravar
+- 1,1–1,2 baravar
+- 50–60 baravar
+- 4–5 baravar
+! Emlash kasallanishni to'liq bartaraf etmaydi, ammo sezilarli kamaytiradi va og'ir oqibatlarni yengillashtiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? 224-son buyruqqa ko'ra davolash-profilaktika muassasalari va ishlab chiqarish korxonalaridagi emlash punktlarida xavfsiz emlash sharoitlari qaysi sanagacha yaratilishi kerak?
++ 20 sentabrgacha
+- 1 iyulgacha, mavsum boshlanishidan ancha oldin
+- 15 avgustgacha, yozgi ta'til tugashi arafasida
+- 1 dekabrgacha, epidemiya avjiga chiqishidan oldin
+- 15 yanvargacha, kasallanish maksimumi davrida
+! Sana emlash kampaniyasi boshlanishidan oldin tayyorgarlikni yakunlashga mo'ljallangan.
+@ O'zR SSV 2023-yil 8-sentabrdagi 224-son buyrug'i
+? Xavf guruhlarini, jumladan «Bolalar uylari», «Mehribonlik uylari» va «Saxovat va Muruvvat» internat uylarida yashovchilarni emlash 224-son buyruqqa ko'ra qaysi sanagacha tashkil etiladi?
++ 1 noyabrgacha
+- 1 avgustgacha, ya'ni yozgi oylarda
+- 1 sentabrgacha, o'quv yili boshlanishigacha
+- 1 yanvargacha, yangi yil arafasida
+- 1 martgacha, epidemiya mavsumi tugashidan oldin
+! Muddat epidemiya mavsumi avjiga chiqishidan oldin himoyani shakllantirishga imkon beradi.
+@ O'zR SSV 2023-yil 8-sentabrdagi 224-son buyrug'i
+? Shifokorlar va o'rta tibbiyot xodimlari uchun gripp va O'RI bo'yicha o'quv seminarlari qaysi sanagacha o'tkaziladi?
++ 1 oktyabrgacha
+- 1 iyungacha, mavsumdan 4 oy oldin
+- 20 sentabrgacha, emlash punktlari tayyor bo'lishi bilan bir vaqtda
+- 1 dekabrgacha, kasallanish ko'tarilgan paytda
+- 1 fevralgacha, epidemiya avjida
+! Xodimlar mavsum boshlanishidan oldin klinika va davolash tartibini bilishi lozim.
+@ O'zR SSV 2023-yil 8-sentabrdagi 224-son buyrug'i
+? GO'K, O'RI va og'ir O'RI hamda o'tkir pnevmoniya bo'yicha tadbirlarni nazorat qiluvchi shtablar sanitariya-epidemiologik osoyishtalik qo'mitasi qoshida qaysi sanadan tashkil etiladi?
++ 1 oktyabrdan
+- 1 iyuldan, yozgi tayyorgarlik davrida
+- 1 sentabrdan, o'quv yili boshlanishi bilan
+- 1 dekabrdan, epidemiya avjida
+- 1 yanvardan, kalendar yil boshidan
+! Shtablar mavsum boshlanishidan oldin ishga tushiriladi, shu sababli sana kuz boshiga belgilangan.
+@ O'zR SSV 2023-yil 8-sentabrdagi 224-son buyrug'i
+? JSST gripp vaksinasi tarkibini qanchalik tez-tez tavsiya etadi?
++ Yilda ikki marta
+- Besh yilda bir marta
+- Har oy
+- Faqat pandemiya e'lon qilinganda
+- Yilda bir marta, yanvar oyida
+! Aylanib yuruvchi shtammlar doimiy o'zgarib turadi, shuning uchun tarkib shimoliy va janubiy yarim shar mavsumlari uchun alohida yangilanadi.
+@ WHO. Influenza (seasonal) (fact sheet)
+? 236-son buyruqqa ko'ra tibbiyot xodimlari himoya niqoblarini qanday muddatda almashtiradi?
++ Har 3–4 soatda
+- Har 15 daqiqada, har bir kirishda
+- Har 12 soatda, tungi smenada
+- Har sutkada, smena boshida
+- Har 3 kunda bir marta
+! Niqob namlangach himoya xususiyati pasayadi, shu sababli almashtirish muddati cheklangan.
+@ O'zR SSV 2023-yil 25-sentabrdagi 236-son buyrug'i
+? PQ-3729 qaroriga ko'ra og'ir shakllar va yuqori patogen gripp viruslariga gumon bo'lganlarga majburiy tashxis qaysi sanadan joriy etilgan?
++ 2018-yil 1-avgustdan
+- 2015-yil 1-yanvardan, qonun qabul qilingan paytdan
+- 2016-yil 1-martdan, darslik nashr etilgan davrdan
+- 2020-yil 1-aprelden, pandemiya boshlanishi bilan
+- 2023-yil 8-sentabrdan, 224-son buyruq chiqqan kundan
+! Qaror 2018-yil may oyida qabul qilingan va majburiy tashxis uning amal qilish rejasi bo'yicha keyinroq boshlangan.
+@ O'zR Prezidentining 2018-yil 18-maydagi PQ-3729-son qarori
+? 224-son buyruq bo'yicha infeksion shifoxonalar va perinatal markazlarning intensiv terapiya bo'limlarida nima tayyorlanishi kerak?
++ Bemorlar uchun qo'shimcha o'rinlar zaxirasi
+- Tashqi mehmonlar uchun alohida qabulxonalar tizimi va ularning ro'yxati
+- Sog'lom bolalar uchun maxsus profilaktik emlash xonalari
+- Mavsumiy oziq-ovqat va kiyim-kechak omborlari
+- Rejali plastik jarrohlik uchun operatsiya bo'limlari
+! Mavsumda og'ir bemorlar oqimi ortishi kutilgani uchun resurslar oldindan zaxiralanadi.
+@ O'zR SSV 2023-yil 8-sentabrdagi 224-son buyrug'i
+? Darslikka ko'ra gripp tarqalishining qaysi xavf omili alohida ta'kidlanadi?
++ Zamonaviy muloqot tizimi va umumiy transport, ayniqsa havo transporti
+- Qishloq xo'jaligi hayvonlarini boqish va parrandachilik tarmoqlarining kengayishi
+- Ichimlik suvining markazlashtirilgan quvurlar orqali ta'minlanishi
+- Oziq-ovqat mahsulotlarini muzlatilgan holda saqlash texnologiyalari
+- Aholining tez-tez qo'l yuvish odatlari va niqob taqishi
+! Odamlar harakati tez va ko'p bo'lgani uchun virus mamlakatlar o'rtasida qisqa muddatda yoyiladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Milliy qoidalarga ko'ra gripp bo'yicha epidemiologik ko'rsatma bilan har yili emlanadigan toifalarga qaysilar kiradi?
++ 60 yoshdan oshganlar, surunkali somatik kasalligi borlar, aholiga xizmat ko'rsatuvchilar va maktabgacha yoshdagi bolalar
+- 18–30 yoshdagi sog'lom erkaklar va sportchilar, shuningdek harbiy xizmatchilar hamda ularning oila a'zolari, mavsumiy tartibda
+- Homilador bo'lmagan ayollar hamda 14–17 yoshdagi sog'lom o'smirlar, ular uchun maxsus ko'rsatma
+- Chet elga chiqadigan fuqarolar va turistik xizmat xodimlari
+- Hamma toifalar emlanmaydi, emlash faqat pandemiya e'lon qilinganda o'tkaziladi
+! Toifalar og'ir oqibatlar xavfi yuqori bo'lganlarni va infeksiyani ko'p odamga tarqatishi mumkin bo'lganlarni qamrab oladi.
+@ SanQvaM № 0239-07/3 (2017), O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi

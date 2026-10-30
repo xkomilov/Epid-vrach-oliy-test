@@ -1,0 +1,98 @@
+=== 038
+? Aktiv immunizatsiya nima?
++ Organizmga antigen (vaksina yoki anatoksin) yuborib, uning o'z immun javobini uyg'otish
+- Organizmga tayyor antitelolar (immun zardob yoki immunoglobulin) kiritib, tezkor himoya hosil qilish
+- Onadan bolaga platsenta orqali IgG antitelolarining o'tishi natijasida hosil bo'ladigan himoya
+- Dezinfeksiya vositalari yordamida tashqi muhitdagi qo'zg'atuvchilarni yo'q qilish
+- Qo'zg'atuvchi tashuvchi hasharotlar sonini kamaytirish orqali yuqishni to'xtatish
+! Bunda organizm o'zi antitelolar va immunologik xotira hujayralarini ishlab chiqaradi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? Aktiv immunizatsiyadan keyin immunitet odatda qancha vaqt ichida shakllanadi?
++ 1–3 hafta ichida
+- Kiritilgan zahoti, bir necha daqiqada
+- 1–3 kun ichida
+- 6–12 oy ichida
+- Faqat 3 yildan keyin
+! Organizm o'z antitelolarini ishlab chiqarishi uchun vaqt kerak, shu sababli bu usul shoshilinch himoyaga mos kelmaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Passiv immunizatsiyaning xususiyatlari qaysi javobda to'g'ri keltirilgan?
++ Immunitet darhol ta'sir qiladi, qisqa muddatli bo'ladi va immunologik xotira qolmaydi
+- Immunitet kech shakllanadi, uzoq muddatli bo'ladi va immunologik xotira qoladi
+- Immunitet kech shakllanadi, qisqa muddatli bo'ladi va xotira hujayralari hosil bo'ladi
+- Immunitet darhol ta'sir qiladi, umrbod saqlanadi va takroriy dozalar talab qilinmaydi
+- Immunitet organizm o'zi ishlab chiqargan antitelolar hisobiga bir necha yil davom etadi
+! Tayyor antitelolar organizmda tez ta'sir etadi, biroq asta-sekin parchalanadi va xotira hosil qilmaydi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? Quturishga qarshi profilaktikada nima uchun vaksina bilan birga immunoglobulin ham beriladi?
++ Passiv immunitet tezlik beradi, aktiv immunitet esa uzoq muddatli himoyani ta'minlaydi
+- Immunoglobulin vaksina tarkibidagi qo'zg'atuvchini to'liq o'ldirib, uni xavfsiz qiladi
+- Vaksina ta'sirini bekor qilish va allergik reaksiyalarning oldini olish uchun
+- Immunoglobulin sovuqlik zanjirini almashtiradi va vaksinani muzlatgichda saqlash zaruratini yo'qotadi
+- Vaksina qisqa muddatli, immunoglobulin esa umrbod himoya beradi
+! Aktiv immunitet shakllanishi uchun bir necha hafta kerak, shu davrda immunoglobulin antitelolar bilan himoyani ta'minlaydi.
+@ WHO. Rabies vaccines and immunoglobulins: WHO position (2018)
+? Quyidagilardan qaysi biri tabiiy passiv immunitetga misol bo'ladi?
++ Onadan bolaga platsenta orqali IgG va ona suti orqali IgA antitelolarining o'tishi
+- Qizamiq bilan og'rib o'tgandan keyin hosil bo'lgan immunitet
+- Qoqsholga qarshi anatoksin bilan emlangandan keyin shakllangan aktiv immunitet va immunologik xotira
+- Quturishga qarshi immunoglobulin yuborilgandan keyingi himoya
+- Tirik attenuatlangan vaksina kiritilgandan keyingi uzoq muddatli himoya
+! Antitelolar tayyor holda onadan o'tadi va bola o'zi hosil qilmaydi, shu sababli bu passiv immunitet hisoblanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006)
+? Qizamiq (R0 taxminan 12–18) kabi juda yuqumli kasalliklarda jamoaviy immunitet uchun aholining qancha qismi emlangan bo'lishi talab etiladi?
++ 95 % dan ortig'i
+- 30 % atrofida
+- 50 % atrofida
+- 70 % atrofida
+- 100 % ham yetarli emas
+! Yuqumliligi yuqori kasalliklarda tarqalishni to'xtatish uchun immun aholining ulushi yuqori bo'lishi kerak.
+@ WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? Jamoaviy immunitet shakllanganda emlanmagan shaxslar uchun qanday natija kuzatiladi?
++ Qo'zg'atuvchi aholi orasida uzatilishi uzilgani sababli ular bilvosita himoyalanadi
+- Avtomatik ravishda faol immunitet hosil qilib, hayotiy xotira hujayralariga ega bo'ladi
+- Kasallik ular uchun og'irroq kechadi, chunki ular emlanganlar bilan kontaktdan chetlashadi
+- Passiv immunitetga ega bo'ladi va ularga antitelolar tayyor holda o'tadi
+- Ular uchun infeksiyaning inkubatsion davri uzayib, kasallik hech qachon rivojlanmaydi
+! Yetarli ulushdagi emlanganlar zanjirni uzadi, shu sababli moyil shaxslar bilan qo'zg'atuvchi kam uchrashadi.
+@ WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? Inaktivlangan va anatoksinli vaksinalar ko'pincha nimani talab qiladi?
++ Takroriy dozalar va davriy revaksinatsiyani
+- Faqat bir marta yuborishni, chunki ular umrbod himoya beradi
+- Yuborilgandan keyin darhol immunoglobulin qo'shishni
+- Muzlatilgan holda -80 °C haroratda saqlashni
+- Og'iz orqali berilishni, boshqa yo'l bilan emas
+! Bu vaksinalar tirik vaksinalarga nisbatan kuchsizroq immunitet hosil qiladi, shuning uchun dozalar takrorlanadi.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity
+? SanQvaM № 0239-07/3 asosida keltirilgan muddatlarga ko'ra, immunoglobulin yuborilgandan keyin qizamiq, qizilcha, parotit va rotavirusga qarshi emlash qancha muddatdan so'ng o'tkaziladi?
++ 3 oydan keyin
+- 2 haftadan keyin
+- 1 oydan keyin
+- 1,5 oydan keyin
+- 6 oydan keyin
+! Kiritilgan tayyor antitelolar tirik vaksina virusini neytrallab, aktiv immunitet hosil bo'lishiga xalaqit berishi mumkin.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"
+#U 038 / 9: immunoglobulindan keyin qizamiq, qizilcha, parotit va rotavirusga qarshi emlash uchun 3 oy muddati — faqat mavzu materialiga tayangan, tashqi manba bilan tasdiqlanmagan.
+? Plazma yoki trombotsitar massa quyilgandan keyin tirik qizamiq-qizilcha-parotit vaksinasi qancha muddatdan keyin beriladi?
++ 7 oydan keyin
+- 1 oydan keyin
+- 3 oydan keyin
+- 5 oydan keyin
+- 12 oydan keyin
+! Qon preparatlaridagi antitelolar tirik vaksina virusiga to'sqinlik qilishi mumkin, shuning uchun interval saqlanadi.
+@ SanQvaM № 0239-07/3 "O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi"; CDC. General Best Practice Guidelines for Immunization
+? Xavfli kontaktdan keyin faqat vaksinaga tayanish nima uchun xavfli bo'lishi mumkin?
++ Aktiv immunitet shakllanishi uchun bir necha hafta kerak, bu vaqt ichida kasallik rivojlanishi mumkin
+- Vaksina qo'zg'atuvchi bilan reaksiyaga kirishib, uni kuchaytiradi va inkubatsion davrni qisqartiradi
+- Kontaktdan keyin umuman ta'sir etmaydi, chunki u faqat sog'lom shaxslarga mo'ljallangan
+- Immunoglobulinni neytrallab, passiv himoyani doimo butunlay yo'qotadi
+- Faqat tug'ma immunitetni uyg'otadi, xotira hujayralari esa hosil bo'lmaydi
+! Passiv immunizatsiya esa kiritilgan zahoti himoya beradi, shu sababli shoshilinch vaziyatlarda u kerak bo'ladi.
+@ WHO. Rabies vaccines and immunoglobulins: WHO position (2018)
+? Quyidagi kasalliklardan qaysilarida odam xavfli kontaktdan so'ng passiv immunizatsiya shoshilinch profilaktika sifatida qo'llanishi mumkin?
++ Quturish, qoqshol va difteriya
+- Qizamiq, parotit va qizilcha kalendar bo'yicha rejali emlash sifatida
+- Faqat vabo, ich terlama va dizenteriya
+- Gripp, ko'kyo'tal va suvchechak
+- Bezgak va Qrim-Kongo gemorragik isitmasi kabi transmissiv kasalliklarda
+! Bu kasalliklarda tayyor antitelolar kontaktdan keyin ham kasallik rivojlanishining oldini olishi mumkin.
+@ Muhamedov I. va boshq. Mikrobiologiya, immunologiya, virusologiya (2006); WHO. Immunization in practice; Vaccine-preventable diseases and herd immunity

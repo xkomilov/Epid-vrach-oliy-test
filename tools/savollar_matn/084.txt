@@ -1,0 +1,98 @@
+=== 084
+? Sun'iy passiv immunitet qanday hosil qilinadi?
++ Tayyor antitelalar saqlovchi zardoblar va immunoglobulinlar yuborish orqali
+- Susaytirilgan qo'zg'atuvchi saqlovchi tirik vaksinalar yuborish orqali, bunda organizm antitelalarni o'zi ishlab chiqaradi
+- Kasallikni tabiiy yo'l bilan o'tkazish orqali, so'ngra immun xotira hosil bo'ladi
+- Anatoksinlar va rekombinant oqsillarni ko'p marta yuborish orqali
+- Ona suti bilan chaqaloqqa homiladorlik davrida beriladigan antitelalar orqali
+! Bunda organizm o'zi antitela ishlab chiqarmaydi, tayyor antitelalar tezkor, ammo qisqa muddatli himoya beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? JSST ma'lumotiga ko'ra, 2025 yilda dunyo bo'yicha difteriya-qoqshol-ko'k yo'tal vaksinasining 3 dozasi bilan chaqaloqlarning qancha qismi qamrab olingan?
++ Taxminan 85%
+- Taxminan 95%, bu esa milliy kalendar bo'yicha belgilangan eng kam qamrovga teng
+- Taxminan 43%, bu yangi tug'ilganlarga VGB berilishi qamroviga teng
+- Taxminan 33%, bu VPCH ning birinchi dozasi qamroviga teng
+- Taxminan 65%, bu sariq isitma vaksinasi qamroviga yaqin
+! Ko'rsatkich keng qo'llanadigan qamrov mezoni bo'lib, global emlash dasturlari muvaffaqiyatini baholashda ishlatiladi.
+@ WHO. Immunization coverage (fact sheet)
+? JSST ma'lumotiga ko'ra, dunyoda birorta ham emlash olmagan («nol dozali») bolalar soni qancha?
++ 13,5 mln
+- 21 mln, ya'ni qizamiqning birinchi dozasini o'tkazib yuborgan bolalar soni
+- 110 mln, ya'ni DTP3 bilan qamrab olingan chaqaloqlar soni
+- 1,35 mln, bu faqat Afrika mamlakatlariga tegishli
+- 85 mln, bu esa to'liq emlanmaganlar soni
+! Bunday bolalar emlash xizmatlaridan butunlay chetda qolgani uchun ularni aniqlash qamrovni oshirishning asosiy vazifalaridan biri bo'ladi.
+@ WHO. Immunization coverage (fact sheet)
+? Milliy qoidalarda qaysi vaksinalar tirik vaksinalar qatoriga kiritilgan?
++ OPV, KPK, BSJ va rotavirus vaksinasi
+- AKDS, ADS, ADS-M va penta vaksinasi, ya'ni anatoksin saqlovchilar
+- VGB, penta va AD-M vaksinalari, rekombinant asosda
+- OPV, AKDS, VGB va rotavirus vaksinasi, aralash tarkibda
+- KPK, ADS-M, BSJ va penta vaksinasi, kombinatsiyalangan holda
+! Bu vaksinalar susaytirilgan tirik qo'zg'atuvchi saqlaydi, shuning uchun ular saqlash va dozalash bo'yicha alohida talablarga ega.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? O'ldirilgan vaksinalarga qo'shiladigan adyuvantlar (ko'pincha alyuminiy gidroksid) qanday vazifani bajaradi?
++ Vaksina depo hosil qilib, in'ektsiyalar sonini qisqartiradi
+- Tirik qo'zg'atuvchini susaytirib, kasallik chaqirish xususiyatini yo'qotadi
+- Vaksinani muzlatilgan holatda cheksiz muddat saqlashni ta'minlaydi
+- Antitelalarni tayyor holda qonga yuborib, zudlik bilan himoya beradi
+- Qo'zg'atuvchi toksinini zararsizlantirib, anatoksin hosil qiladi
+! Adyuvant antigenni sekin ajratib, immun javobni kuchaytiradi va ko'p dozali sxemaga ehtiyojni kamaytiradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Milliy qoidalarga ko'ra, immunoglobulin yuborilgandan keyin KPK vaksinasi qancha muddatdan so'ng beriladi?
++ 3 oydan keyin
+- 1,5 oydan keyin, bu polio va gripp vaksinalari uchun belgilangan muddatga teng
+- 2 haftadan keyin, bu qizamiq o'choqlarida qo'llanadigan qisqa tanaffus
+- 6–7 oydan keyin, bu esa eritrotsitar massa quyilgandan keyingi muddat
+- 12 oydan keyin, bu esa BSJ vaksinasi uchun belgilangan muddat
+! Tayyor antitelalar tirik virusli vaksina bilan yuborilganda uning ko'payishini susaytirishi mumkin, shu sababli tanaffus saqlanadi.
+@ SanQvaM № 0239-07/3 (2017), emlash qoidalari
+? Zoonoz va sapronoz infeksiyalarda (kuydirgi, quturish, qoqshol) immunoprofilaktikaning maqsadi nima?
++ Aholi immunitetini yaratish emas, xavf guruhlarini individual himoyalash
+- Butun aholi o'rtasida populyatsion immunitetni 95% darajaga yetkazish
+- Qo'zg'atuvchining odamdan odamga yuqish zanjirini to'xtatish uchun barcha bolalarni emlash
+- Bemorlarni jamoadan ajratish o'rniga keng ko'lamli ommaviy emlash o'tkazish
+- Epidemik jarayonning davriyligini bartaraf etish uchun yillik revaksinatsiya o'tkazish
+! Bu infeksiyalar odamdan odamga yuqmaydi yoki kam yuqadi, shuning uchun populyatsion immunitet foyda bermaydi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? O'zbekistonda kalendar bo'yicha emlash qamrovi kamida qancha bo'lishi belgilangan?
++ 95%
+- 80%, bu sariq isitma vaksinasi uchun tavsiya etilgan darajaga teng
+- 90%, bu VPCH uchun 2030 yilgi maqsad bilan bir xil
+- 75%, bu Hib vaksinasining jahon qamroviga yaqin
+- 99%, bu A konyugat vaksinasi samarasi bilan bir xil
+! Yuqori qamrov populyatsion immunitetni ta'minlab, qo'zg'atuvchi aylanishini kamaytiradi va emlanmaganlarni ham himoyalaydi.
+@ SanQvaM № 0239-07/3 (2017), emlash kalendari
+? Darslikka ko'ra, difteriya, ko'k yo'tal va qoqshol bo'yicha emlash tug'ilgandan necha oy o'tgach boshlanadi va bunga sabab nima?
++ 3 oy; bolalar immun tizimining yoshga oid yetilishi hisobga olinadi
+- 1 oy; ona antitelalari bu vaqtda butunlay yo'qoladi, chunki ular tez parchalanadi
+- 6 oy; bu muddatda bolada tirik vaksinaga qarshi ko'rsatma yo'qoladi
+- 12 oy; vaksinalar bundan oldin organizmga yot oqsil sifatida zararli bo'ladi
+- 2 hafta; bola immunitet tizimi tug'ilgan zahoti to'liq yetilgan bo'ladi
+! Hayotning birinchi oylarida immun tizimi yetilmagan bo'lgani uchun muddat shunga qarab tanlanadi, VGB va sil vaksinalari esa tug'ilgandan keyin beriladi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+? Aholining sanitariya-epidemiologik osoyishtaligi to'g'risidagi Qonunning qaysi moddasi profilaktik emlashlarni milliy kalendar va epidemik ko'rsatkichlar bo'yicha o'tkazishni belgilaydi?
++ 33-modda
+- 12-modda, sanitariya nazorati bo'yicha
+- 32-modda, o'choqdagi tadbirlar bo'yicha
+- 45-modda, sanitariya jinoyatlari uchun javobgarlik bo'yicha
+- 7-modda, davlat organlarining vakolatlari bo'yicha
+! Modda emlashning huquqiy asosini belgilab, kalendar va epidemik ko'rsatma bo'yicha emlashni tartibga soladi.
+@ O'zR "Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida"gi Qonuni (2015), 33-modda
+? Qaysi infeksiya yuqori yuqumliligi tufayli immunitet bo'shliqlarini tezda ko'rsatib, «erta ogohlantirish tizimi» vazifasini bajaradi?
++ Qizamiq
+- Qoqshol, chunki u odamdan odamga yuqmaydi
+- Kuydirgi, chunki u zoonoz infeksiya hisoblanadi
+- Quturish, chunki u faqat hayvonlar orqali tarqaladi
+- Qorin tifi, chunki u faqat sanitariya holatiga bog'liq
+! Virus juda oson tarqalgani sababli emlash qamrovi pasaygan hududlarda qizamiq birinchi bo'lib avj oladi.
+@ WHO. Immunization coverage (fact sheet)
+? Tirik vaksinalarning umumiy xususiyati qaysi javobda to'g'ri ko'rsatilgan?
++ Susaytirilgan shtamm saqlaydi, tabiiy infeksion jarayonni taqlid qiladi, dozalari va revaksinatsiyalari kam
+- O'ldirilgan mikrob tanachalari ko'p bo'lgani uchun og'riqli mahalliy reaksiya beradi, doza ko'p talab qiladi
+- Qo'zg'atuvchi toksini zararsizlantirilgan holda saqlanadi, adyuvant yordamida depo hosil qiladi
+- Faqat rekombinant oqsil saqlaydi, shuning uchun hech qachon infeksion jarayon chaqirmaydi
+- Inaktivlangan butun virionlardan iborat, shuning uchun adyuvantsiz ham kuchli immunitet beradi
+! Tirik susaytirilgan shtamm organizmda cheklangan ko'payib, ishonchli va uzoq immunitet beradi.
+@ Mirtazayev O.M., Zueva L.P., Matnazarova G.S. Epidemiologiya (darslik), Toshkent, 2016
+#D 084 / 9: Darslikda difteriya, ko'k yo'tal va qoqshol bo'yicha emlash 3 oylikdan deb keltirilgan, milliy kalendarda esa pentavalent vaksina 2, 3, 4 oylikda beriladi; muddatlar farq qiladi.
